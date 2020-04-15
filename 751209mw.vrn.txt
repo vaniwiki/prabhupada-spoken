@@ -1,0 +1,54 @@
+~~Title: Morning Walk — December 9, 1975, Vṛndāvana~~
+~~bc: December 9, 1975, Vṛndāvana~~
+====== Morning Walk ======
+
+---- dataentry spoken ----
+id_hidden        : 751209mw.vrn
+listtype_hidden  : Morning Walk
+listdate_hidden  : 1975-12-09
+showdate_hidden  : 2020-12-09
+listplace_hidden : Vṛndāvana
+Type_spoken      : Morning Walk
+Date_spoken      : December 9
+Year_spoken      : 1975
+Place_spoken     : Vṛndāvana
+Length_hidden    : 04:18
+Title_hidden     : Morning Walk
+----
+
+<audio>
+{{spoken:751209mw.vrn.mp3|Morning Walk — December 9, 1975, Vṛndāvana}}
+</audio>
+
+**Akṣayānanda:**
+Sometimes I think our big building is too much Westernized. Disturbs the atmosphere.
+
+**Prabhupāda:**
+Hmm.
+
+**Akṣayānanda:**
+Like you wrote in the //Caitanya-caritāmṛta// that when Caitanya Mahāprabhu had many disciples behind him, He was criticized that He should not take them to Vṛndāvana; it might disturb the nice atmosphere. We have to be careful that we don't disturb with our big buildings and things. [break]
+
+**Prabhupāda:**
+...transform into a nice park this space. [break]
+
+**Akṣayānanda:**
+....Prabhupāda. Did Giridharilal see you last night, from the Mathurā Janmasthan? [break] ...influence Dalmia, but I don't know. We haven't seen any results yet regarding the //gośālā.// [break]
+
+**Prabhupāda:**
+...sandy. We want to avoid this sandy.
+
+**Harikeśa:**
+We should go back up, then. [break]
+
+**Devotee:**
+The people here say that this is the Raman Reti. This is the place, the most sacred spot where Kṛṣṇa and Balarāma would come.
+
+**Prabhupāda:**
+Hmm. [break] ...parrot. [loud squawking of birds] [break]
+
+**Harikeśa:**
+...and went back to civilized life.
+
+**Prabhupāda:**
+[Hindi] [end]

@@ -1,0 +1,32 @@
+~~Title: Lecture [partially recorded] — August 25, 1966, New York~~
+~~bc: August 25, 1966, New York~~
+====== Lecture [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 660825le.ny
+listtype_hidden  : Lecture
+listdate_hidden  : 1966-08-25
+showdate_hidden  : 2020-08-25
+listplace_hidden : New York
+Type_spoken      : Lecture
+Date_spoken      : August 25
+Year_spoken      : 1966
+Place_spoken     : New York
+Length_hidden    : 00:00
+Title_hidden     : Lecture [partially recorded]
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660825le.ny.mp3|Lecture [partially recorded] — August 25, 1966, New York}}
+</audio>
+
+**Prabhupāda:**
+"You take to your teacher and give it to him." "All right. This will do?" "Oh, yes, this will do. This cup will do." Now, when the teacher saw that he is coming with a cup of yogurt and promised that he will supply, he would supply, whatever required, he would supply, oh, he became very angry: "You cheated me like that?" and so on. So he, out of anger, he throw it. Now, after some time, when he came back, he saw that the yogurt is fallen down on the ground, but the pot is full. Then he tried again; again got it. So as much as he could take, he took, but the pot is always full. The pot is always full. So this is the position of spiritual. From spiritual, you may draw as much as you can, but it always full. That is the spiritual idea. So God is so full. He's //paripūrṇa, pūrṇa.// So even God comes out of God, still, God is there. That is incarnation. If God Himself comes out of God... So therefore, God in the heart of so many millions and billions of living entities does not mean that God has lost Himself. God is still there. That is the spiritual idea. And this is not... I am not talking to you some manufactured, coining some word. No. There is Vedic hymn,
+
+> pūrṇam adaḥ pūrṇam idaṁ
+> pūrṇāt pūrṇam udacyate
+> pūrṇasya pūrṇam ādāya
+> pūrṇam evāvaśiṣyate
+> [[books:iso:0b|[Īśo Invocation]]]
+
+All right. If there is any question, you can make... [end]

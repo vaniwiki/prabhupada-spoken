@@ -1,0 +1,41 @@
+~~Title: Bg 9.3 [Hindi] — October 6, 1976, Chandigarh~~
+~~bc: October 6, 1976, Chandigarh~~
+====== Bhagavad-gītā 9.3 [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 761016bg.cha
+listtype_hidden  : Bg 9.3 [Hindi]
+listdate_hidden  : 1976-10-16
+showdate_hidden  : 2020-10-16
+listplace_hidden : Chandigarh
+Type_spoken      : Hindi
+Date_spoken      : October 6
+Year_spoken      : 1976
+Place_spoken     : Chandigarh
+Length_hidden    : 60:10
+Title_hidden     : Bhagavad-gītā 9.3 [Hindi]
+----
+
+<audio>
+{{spoken:761016bg.cha_hindi.mp3|Bg 9.3 [Hindi] — October 6, 1976, Chandigarh}}
+</audio>
+
+**Pradyumna:**
+
+> aśraddadhānāḥ puruṣā
+> dharmasyāsya parantapa
+> aprāpya māṁ nivartante
+> mṛtyu-saṁsāra-vartmani
+> [[books:bg:9:3|[Bg. 9.3]]]
+
+Translation: "Those who are not faithful on the path of devotional service cannot attain Me, O conqueror of foes, but return to birth and death in this material world."
+
+**Prabhupāda:**
+
+> aśraddadhānāḥ puruṣā
+> dharmasyāsya parantapa
+> aprāpya māṁ nivartante
+> mṛtyu-saṁsāra-vartmani
+> [[books:bg:9:3|[Bg. 9.3]]]
+
+[Hindi]

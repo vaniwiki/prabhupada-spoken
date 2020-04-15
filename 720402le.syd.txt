@@ -1,0 +1,28 @@
+~~Title: Lecture [partially recorded] — April 2, 1972, Sydney~~
+~~bc: April 2, 1972, Sydney~~
+====== Lecture [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 720402le.syd
+listtype_hidden  : Lecture [partially recorded]
+listdate_hidden  : 1972-04-02
+showdate_hidden  : 2020-04-02
+listplace_hidden : Sydney
+Type_spoken      : Lecture
+Date_spoken      : April 2
+Year_spoken      : 1972
+Place_spoken     : Sydney
+Length_hidden    : 01:47
+Title_hidden     : Lecture [partially recorded]
+----
+
+<audio>
+{{spoken:720402le.syd.mp3|Lecture [partially recorded] — April 2, 1972, Sydney}}
+</audio>
+
+**Prabhupāda:**
+So if one becomes a Vaiṣṇava under the principles of Caitanya Mahāprabhu, he can be lifted at once from any abominable condition, //śvapacaṁ variṣṭham// [[books:sb:7:9:10|[SB 7.9.10]]]. Just like //śvapacam,// the dog-eater, he becomes //variṣṭham,// better than a //brāhmaṇa.// Because why? Because he is a devotee.
+
+So unless one becomes devotee, one has to follow this //varṇāśrama-dharma.// This is the idea. Caitanya Mahāprabhu is speaking from the devotional platform. He did not say when He was actually acting as a //brāhmaṇa// in Navadvīpa. But when He realized... He is realized always, but as //ācārya,// He says that when one becomes Vaiṣṇava, //gopī-bhartuḥ...// What is the quali... //Gopī-bhartuḥ pada-kamalayor dāsa-dāsānudāsaḥ// [[books:cc:madhya:13:80|[Cc. Madhya 13.80]]]. He says, "I am not a //brāhmaṇa.//" Then the next question is, "What You are?" He says, //gopī-bhartuḥ pada-kamalayor dāsa-dāsānudāsaḥ:// "I am the servant of the servant of the servant of Kṛṣṇa."
+
+So when one is realized in that way, that "I am eternal servant of Kṛṣṇa," he does not require to be a //brāhmaṇa// or //śūdra.// He transcends. He is postgraduate. So, so long he does not realize that, he has to follow the //varṇāśrama-dharma.// Otherwise, he is not civilized. They are //mleccha, yavanas.// The most abominable, //śvapacam,// most abominable. Is that clear? Yes. [end]

@@ -1,0 +1,47 @@
+~~Title: Morning Walk, Partial Recording — June 1, 1974, Geneva~~
+~~bc: June 1, 1974, Geneva~~
+====== Morning Walk, Partial Recording ======
+
+---- dataentry spoken ----
+id_hidden        : 740601mw.gen
+listtype_hidden  : Morning Walk, Partial Recording
+listdate_hidden  : 1974-06-01
+showdate_hidden  : 2020-06-01
+listplace_hidden : Geneva
+Type_spoken      : Morning Walk
+Date_spoken      : June 1
+Year_spoken      : 1974
+Place_spoken     : Geneva
+Length_hidden    : 01:31
+Title_hidden     : Morning Walk [partial recording]
+----
+
+<audio>
+{{spoken:740601mw.gen.mp3|Morning Walk, Partial Recording — June 1, 1974, Geneva}}
+</audio>
+
+**Prabhupāda:**
+[indistinct] [break].
+
+**Bhagavān:**
+So I hope he will still come.
+
+**Prabhupāda:**
+He is Prime Minister of France?
+
+**Bhagavān:**
+He just became the Prime Minister of France.
+
+**Prabhupāda:**
+Hmm. Young man?
+
+**Bhagavān:**
+Forty? [break]
+
+**Prabhupāda:**
+...is still very dangerous. You see? //Padaṁ padam// in every step [SB 10.14.58]. There are some fruits on this tree? No. Oh, here is eucalyptus? No.
+
+[break] ...even by children, they are living.
+
+**Prabhupāda:**
+There is only one offspring? [end]

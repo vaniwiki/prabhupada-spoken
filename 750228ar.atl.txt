@@ -1,0 +1,47 @@
+~~Title: Arrival Address — February 28, 1975, Atlanta~~
+~~bc: February 28, 1975, Atlanta~~
+====== Arrival Address ======
+
+---- dataentry spoken ----
+id_hidden        : 750228ar.atl
+listtype_hidden  : Arrival Address
+listdate_hidden  : 1975-02-28
+showdate_hidden  : 2020-02-28
+listplace_hidden : Atlanta
+Type_spoken      : Lecture
+Date_spoken      : February 28
+Year_spoken      : 1975
+Place_spoken     : Atlanta
+Length_hidden    : 02:01
+Title_hidden     : Arrival Address
+----
+
+<audio>
+{{spoken:750228ar.atl.mp3|Arrival Address — February 28, 1975, Atlanta}}
+</audio>
+
+**Prabhupāda:**
+[indistinct] So I am very glad to see you, and I am coming first of all Mexico City? Hmm?
+
+**Śrutakīrti:**
+Yes.
+
+**Prabhupāda:**
+So Mexico City, then Caracas, then...
+
+**Śrutakīrti:**
+Miami.
+
+**Prabhupāda:**
+Miami. So I see your temple is the best.
+
+**Devotees:**
+//Jaya! Haribol!//
+
+**Prabhupāda:**
+So Caitanya Mahāprabhu is very kind. //Parama karuṇa, pahū dui jana.// Two Lords, Nitāi-Gauracandra, Nityānanda Prabhu and Śrī Caitanya Mahāprabhu, They are very kind, you see? They have appeared just to reclaim the fallen souls of this age. So They are more kind than Kṛṣṇa. Kṛṣṇa, He is also very kind. He comes to deliver. But Kṛṣṇa demands that first of all surrender. Caitanya Mahāprabhu even does not demand surrender. He is so kind. [voice choking] So take shelter of Śrī Caitanya Mahāprabhu and be happy.
+
+Thank you very much. [in choked voice]
+
+**Devotees:**
+//Jaya// Śrīla Prabhupāda. [end]

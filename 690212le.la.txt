@@ -1,0 +1,26 @@
+~~Title: Lecture [partially recorded] — February 12, 1969, Los Angeles~~
+~~bc: February 12, 1969, Los Angeles~~
+====== Lecture [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 690212le.la
+listtype_hidden  : Lecture [partially recorded]
+listdate_hidden  : 1969-02-12
+showdate_hidden  : 2020-02-12
+listplace_hidden : Los Angeles
+Type_spoken      : Lecture
+Date_spoken      : February 12
+Year_spoken      : 1969
+Place_spoken     : Los Angeles
+Length_hidden    : 00:00
+Title_hidden     : Lecture [partially recorded]
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690212le.la.mp3|Lecture [partially recorded] — February 12, 1969, Los Angeles}}
+</audio>
+
+**Prabhupāda:**
+...controlling the mind and the senses. So a devotee says that to control the mind and senses, that is also required, but if one has gotten the mercy of Caitanya Mahāprabhu... These senses are like serpents, they are so dangerous. But //protkhāta-daṁṣṭrāyate:// a serpent without poison teeth. Suppose we are sitting here. If you find a serpent here, you'll be all afraid, and the whole meeting will be disturbed: "There is a serpent." But if you know that serpent has no poison teeth, you'll not be disturbed, if his poison teeth is broken. Sometimes for medical purpose the serpent's poison teeth is taken away, to take that, what is called, anti-venom, anti-venom injection they prepare. So serpent is dangerous on account of these poison teeth. So here the devotee says, yes, the senses are serpentlike, dangerous, but by the mercy of Caitanya we can break the poison teeth. How it is that? If you constantly engage your senses for Kṛṣṇa, oh, the poison teeth is broken. The poison teeth is broken. The most formidable serpent is this tongue. If you simply talk of Kṛṣṇa and if you simply eat Kṛṣṇa //prasādam,// oh, the poisonous effect of tongue will be broken. You'll have no opportunity to talk nonsense or to eat nonsense. Then your life becomes advanced immediately fifty percent[?]. If you can control the tongue, then you control all the senses. If you cannot control the tongue, then you cannot control other senses. Therefore it is said, //protkhāta-daṁṣṭrāyate,// the poison teeth is taken away.
+
+And //viśvaṁ pūrṇa-sukhāyate.// Oh, people are harassed with so many problems. The politicians and the humanists, the socialists, the ambassadors, the presidents, they're all harassed with the problems. And a Kṛṣṇa conscious person has no problems. [laughter] Has no problems. //Viśvaṁ pūrṇa-sukhāyate.// The whole universe becomes happy to them. And //vidhi-mahendrādiś ca kīṭāyate.// What to speak of this man or that big man, that big man, a devotee doesn't care a fig even for the great demigods. Otherwise, they don't care for any big demigod. They simply care for Kṛṣṇa. So //vidhi-mahendrādiś ca kīṭāyate. Kīṭāyate// means they consider just like ordinary worm. "What is this? He's also a living entity. That's all." //Yat-kāruṇya-kaṭākṣa-vaibhavavatāṁ gauram eva stumaḥ.// Oh, Lord Caitanya's mercy is so valuable, so great, that one can be posted in this position. [end]

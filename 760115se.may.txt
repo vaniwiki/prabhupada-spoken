@@ -1,0 +1,34 @@
+~~Title: Speech [partially recorded] — January 15, 1976, Māyāpur~~
+~~bc: January 15, 1976, Māyāpur~~
+====== Speech [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760115se.may
+listtype_hidden  : Speech
+listdate_hidden  : 1976-01-15
+showdate_hidden  : 2020-01-15
+listplace_hidden : Māyāpur
+Type_spoken      : Lecture
+Date_spoken      : January 15
+Year_spoken      : 1976
+Place_spoken     : Māyāpur
+Length_hidden    : 02:35
+Title_hidden     : Speech [partially recorded]
+----
+
+<audio>
+{{spoken:760115se.may.mp3|Speech [partially recorded] — January 15, 1976, Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+...So the greatest pleasure in this [indistinct] is that Bhaktivinoda Ṭhākura's aspiration that the Europeans, Americans and Indians all together dance jubilantly and chanting "//Gaura Hari.//"
+
+So this temple, Māyāpur Chandrodaya temple, is meant for transcendental United Nation. What the United Nation has failed, that will be achieved here by the process recommended by Śrī Caitanya Mahāprabhu,
+
+> pṛthivīte āche yata nagarādi grāma
+> sarvatra pracāra haibe mora nāma
+> [CB Antya-khaṇḍa 4.126]
+
+So you have come from all parts of the world and living together in this temple. So train these small boys. I am very glad, especially, to see that the small children from all other countries and Indian, Bengalis, all together, forgetting their bodily consciousness. That is the greatest achievement in this movement, that everyone forgets the bodily conception of life. Nobody thinks here as "European," "American," "Indian," "Hindu," "Muslim," "Christian." They forget all these designation, and simply they are ecstatic in chanting Hare Kṛṣṇa //mantra.// So kindly what you have begun, do not break it. Continue it very jubilantly. And Caitanya Mahāprabhu, the master of Māyāpur, He will be very much pleased upon you, and ultimately you will go back to home, back to Godhead.
+
+Thank you very much. [end]

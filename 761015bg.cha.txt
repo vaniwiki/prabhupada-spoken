@@ -1,0 +1,33 @@
+~~Title: Bg 7.1 [Hindi] — October 15, 1976, Chandigarh~~
+~~bc: October 15, 1976, Chandigarh~~
+====== Bhagavad-gītā 7.1 [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 761015bg.cha
+listtype_hidden  : Bg 7.1 [Hindi]
+listdate_hidden  : 1976-10-15
+showdate_hidden  : 2020-10-15
+listplace_hidden : Chandigarh
+Type_spoken      : Hindi
+Date_spoken      : October 15
+Year_spoken      : 1976
+Place_spoken     : Chandigarh
+Length_hidden    : 30:08
+Title_hidden     : Bhagavad-gītā 7.1 [Hindi]
+----
+
+<audio>
+{{spoken:761015bg.cha_hindi.mp3|Bg 7.1 [Hindi] — October 15, 1976, Chandigarh}}
+</audio>
+
+**Praduymna: **Translation: "Now hear, O son of Pṛthā [Arjuna], how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt."
+
+**Prabhupāda:**
+
+> mayy āsakta-manāḥ pārtha
+> yogaṁ yuñjan mad-āśrayaḥ
+> asaṁśayaṁ samagraṁ māṁ
+> yathā jñāsyasi tac chṛṇu
+> [[books:bg:7:1|[Bg. 7.1]]]
+
+[Hindi]

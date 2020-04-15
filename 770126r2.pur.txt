@@ -1,0 +1,32 @@
+~~Title: Prayer Chants by Purī Brāhmaṇas — January 26, 1977, Jagannātha Purī~~
+~~bc: January 26, 1977, Jagannātha Purī~~
+====== Prayer Chants by Purī Brāhmaṇas ======
+
+---- dataentry spoken ----
+id_hidden        : 770126r2.pur
+listtype_hidden  : Prayer Chants by Purī Brāhmaṇas
+listdate_hidden  : 1977-01-26
+showdate_hidden  : 2020-01-26
+listplace_hidden : Jagannātha Purī
+Type_spoken      : Room Conversation
+Date_spoken      : January 26
+Year_spoken      : 1977
+Place_spoken     : Jagannātha Purī
+Length_hidden    : 05:50
+Title_hidden     : Prayer Chants by Purī brāhmaṇas
+----
+
+<audio>
+{{spoken:770126r2.pur.mp3|Prayer Chants by Purī Brāhmaṇas — January 26, 1977, Jagannātha Purī}}
+</audio>
+
+[Purī temple //brāhmaṇas// chant prayers to Lord Jagannātha, loud //pūjā// going on in background throughout]
+
+**Prabhupāda:**
+So these European and American Vaiṣṇavas, they're hankering after //jagannātha svāmī nayana pathagāmī bhavatu me.// Now it is through your intervention they may be able to see Jagannātha Swami. [chuckles] They are hankering like that, //jagannātha svāmī nayana pathagāmī bhavatu me.//
+
+**Indian man:**
+[Bengali]
+
+**Prabhupāda:**
+Have some //prasāda.// [end]

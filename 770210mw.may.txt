@@ -1,0 +1,36 @@
+~~Title: Morning Walk [partially recorded] — February 10, 1977, Māyāpur~~
+~~bc: February 10, 1977, Māyāpur~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 770210mw.may
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1977-02-10
+showdate_hidden  : 2020-02-10
+listplace_hidden : Māyāpur
+Type_spoken      : Morning Walk
+Date_spoken      : February 10
+Year_spoken      : 1977
+Place_spoken     : Māyāpur
+Length_hidden    : 00:14
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:770210mw.may.mp3|Morning Walk [partially recorded] — February 10, 1977, Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+You should always remember: don't manufacture ideas. As you do...
+
+**Devotee:**
+Should we change this one?
+
+**Prabhupāda:**
+No, no. It is all right, but don't dare like that.
+
+**Devotee:**
+Yes.
+
+**Bhavānanda:**
+Risky. [end]

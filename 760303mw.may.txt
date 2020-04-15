@@ -1,0 +1,75 @@
+~~Title: Morning Walk [partially recorded] — March 3, 1976, Māyāpur~~
+~~bc: March 3, 1976, Māyāpur~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760303mw.may
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1976-03-03
+showdate_hidden  : 2020-03-03
+listplace_hidden : Māyāpur
+Type_spoken      : Morning Walk
+Date_spoken      : March 3
+Year_spoken      : 1976
+Place_spoken     : Māyāpur
+Length_hidden    : 02:26
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:760303mw.may.mp3|Morning Walk [partially recorded] — March 3, 1976, Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+I'll have to go to you, and both of them I like. The Marwari this... Gujaratis, they use too much oil. Similarly Bengalis, too much oil. //Imli// [tamarind], //imli// water?
+
+**Indian devotee (1):**
+Yes, they like. And chili.
+
+**Prabhupāda:**
+And chili. That's all.
+
+**Indian devotee (1):**
+Actually, Prabhupāda, in Jaipuria, when they invited us, when we were in Kanpur, all the devotees, for three days we were eating very simple food, but the devotees liked so much. They were eating lots.
+
+**Prabhupāda:**
+Oh, Jaipuria invite them?
+
+**Indian devotee (1):**
+Yeah, Jaipuria, yeah, when we were in Kanpur.
+
+**Prabhupāda:**
+Oh, Jaipuria is that old man?
+
+**Indian devotee (1):**
+Mantura.
+
+**Prabhupāda:**
+Mantura. He came to our temple.
+
+**Indian devotee (2):**
+His son came here.
+
+**Prabhupāda:**
+Eh?
+
+**Indian devotee (2):**
+Yeah. The other day his sons came here.
+
+**Prabhupāda:**
+Here?
+
+**Indian devotee (2):**
+Yes, to see you one evening. [indistinct]
+
+**Prabhupāda:**
+Oh. [break] ...country which is desert practically, but they are luxurious, they are rich. Why? But they're devotees at the same time. In their country also they have got many cows. They get sufficient milk. And from that milk, they prepare so many things---milk, //ghee,// and then they get //chānā.// So they know how to prepare so many things from //chānā, lugdoo.// [break]
+
+**Indian devotee (1):**
+//Laḍḍu.// [break]
+
+**Jayapataka:**
+They're maintaining the rules.
+
+**Prabhupāda:**
+Yes. All over India, they're not so fallen as the //kṣatriyas// and //brāhmaṇas.// [end]

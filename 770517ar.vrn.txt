@@ -1,0 +1,39 @@
+~~Title: Arrival Speech — May 17, 1977, Vṛndāvana~~
+~~bc: May 17, 1977, Vṛndāvana~~
+====== Arrival Speech ======
+
+---- dataentry spoken ----
+id_hidden        : 770517ar.vrn
+listtype_hidden  : Arrival Speech
+listdate_hidden  : 1977-05-17
+showdate_hidden  : 2020-05-17
+listplace_hidden : Vṛndāvana
+Type_spoken      : Lecture
+Date_spoken      : May 17
+Year_spoken      : 1977
+Place_spoken     : Vṛndāvana
+Length_hidden    : 03:32
+Title_hidden     : Arrival Speech
+----
+
+<audio>
+{{spoken:770517ar.vrn.mp3|Arrival Speech — May 17, 1977, Vṛndāvana}}
+</audio>
+
+**Prabhupāda:**
+//Jaya.//
+
+**Devotees:**
+//Jaya.//
+
+**Prabhupāda:**
+[Hindi]
+
+**Viśvambhara:**
+[Hindi]
+
+**Prabhupāda:**
+So I cannot speak. I am feeling very weak. I was to go to other places like Chandigarh program, but I cancelled the program because the condition of my health is very deteriorating. So I preferred to come to Vṛndāvana. If death takes place, let it take here. So there is nothing to be said new. Whatever I have to speak, I have spoken in my books. Now you try to understand it and continue your endeavor. Whether I am present or not present doesn't matter. As Kṛṣṇa is living eternally, similarly, living being also lives eternally. But //kīrtir yasya sa jīvati// [Cāṇakya Paṇḍita]: "One who has done service to the Lord lives forever." So you have been taught to serve Kṛṣṇa, and with Kṛṣṇa we'll live eternally. Our life is eternal. //Na hanyate hanyamāne śarīre// [[books:bg:2:20|[Bg. 2.20]]]. A temporary disappearance of this body, it doesn't matter. Body is meant for disappearance. //Tathā dehāntara-prāptiḥ// [[books:bg:2:13|[Bg. 2.13]]]. So live forever by serving Kṛṣṇa. Thank you very much.
+
+**Devotees:**
+//Jaya!// [offer obeisances] [break]

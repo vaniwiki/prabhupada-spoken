@@ -1,0 +1,57 @@
+~~Title: Morning Walk, partially recorded — January 20, 1974, Honolulu~~
+~~bc: January 20, 1974, Honolulu~~
+====== Morning Walk, partially recorded ======
+
+---- dataentry spoken ----
+id_hidden        : 740120mw.hon
+listtype_hidden  : Morning Walk, partially recorded
+listdate_hidden  : 1974-01-20
+showdate_hidden  : 2020-01-20
+listplace_hidden : Honolulu
+Type_spoken      : Morning Walk
+Date_spoken      : January 20
+Year_spoken      : 1974
+Place_spoken     : Honolulu
+Length_hidden    : 02:35
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:740120mw.hon.mp3|Morning Walk, partially recorded — January 20, 1974, Honolulu}}
+</audio>
+
+**Prabhupāda:**
+The pilots do not like to go?
+
+**Nitāi:**
+There's nothing for them to do there.
+
+**Satsvarūpa:**
+There's no life there. They want to go where there may be life. Now they know there's no life there, so there's no point in going. There may be life on Mars.
+
+**Prabhupāda:**
+Then let them go---they are life---and colonize. Where is life? Which planet they say there is life?
+
+**Nitāi:**
+Venus and Mars. They suspect life on those planets, especially Mars.
+
+**Prabhupāda:**
+So they are going there?
+
+**Sudāmā:**
+Yeah, they're making plans to go there.
+
+**Nitāi:**
+It's quite a bit further than the moon. They watch through their telescopes, and every year they see that the surface of the planet changes, that there's certain dark areas which grow and then they recede.
+
+**Prabhupāda:**
+Every day..., every year changes? Why?
+
+**Nitāi:**
+Well, it appears to be like seasons. First they grow big, and then they grow small, then they grow big.
+
+**Prabhupāda:**
+Moon planet?
+
+**Nitāi:**
+No, this is the Martian... They call them the Martian canals. So they think that although the life there may not be like we have here, that there may be some living beings there. They consider... What they consider living being is something that could live on this planet. That's what they consider living. So they think that Mars and Venus, because they're very close to this planet---out of all the planets that they know, those two are the closest---that on those two planets, there may be life like on this planet. [end]

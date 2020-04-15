@@ -1,0 +1,75 @@
+~~Title: Room Conversation — May 12, 1976, Honolulu~~
+~~bc: May 12, 1976, Honolulu~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 760512r1.hon
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1976-05-12
+showdate_hidden  : 2020-05-12
+listplace_hidden : Honolulu
+Type_spoken      : Room Conversation
+Date_spoken      : May 12
+Year_spoken      : 1976
+Place_spoken     : Honolulu
+Length_hidden    : 04:52
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{spoken:760512r1.hon.mp3|Room Conversation — May 12, 1976, Honolulu}}
+</audio>
+
+**Prabhupāda:**
+Where did he get this idea, not to trust me? [indistinct]
+
+**Govinda dāsī:**
+So that’s what I was trying to ask.
+
+**Prabhupāda:**
+Huh?
+
+**Govinda dāsī:**
+That’s what I was trying to ask.
+
+**Prabhupāda:**
+Hmm?
+
+**Govinda dāsī:**
+That was the reason that I was trying to ask those questions.
+
+**Prabhupāda:**
+He has become impersonal. He is simply out of the jurisdiction of personal care. The //guru// is personal or Kṛṣṇa is impersonal?
+
+**Govinda dāsī:**
+He speaks of the //guru// principle and that his spiritual master is within his heart, and that..., and he doesn’t accept the personal service of the physical manifestation.
+
+**Prabhupāda:**
+He does not understand. Don’t [indistinct]. Who cares for his philosophy?
+
+**Govinda dāsī:**
+Not for very long. I am simply concerned for him.
+
+**Prabhupāda:**
+That is natural, but if he wants to avoid being saved, then how can you save him?
+
+**Govinda dāsī:**
+Yes.
+
+**Prabhupāda:**
+If he wants to commit suicide, then who can save him? He will do it, [indistinct].
+
+**Devotee:**
+He’s downstairs in the morning.
+
+**Prabhupāda:**
+What he doing?
+
+**Devotee:**
+I don’t know. I stay up here during //ārati// in case you mean...
+
+**Prabhupāda:**
+Govinda?
+
+**Govinda dāsī:**
+Thank you, Śrīla Prabhupāda. [end]

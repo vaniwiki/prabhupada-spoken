@@ -1,0 +1,23 @@
+~~Title: Lecture [Hindi] — October 13, 1976, Chandigarh~~
+~~bc: October 13, 1976, Chandigarh~~
+====== Lecture [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 761013le.cha
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1976-10-13
+showdate_hidden  : 2020-10-13
+listplace_hidden : Chandigarh
+Type_spoken      : Hindi
+Date_spoken      : October 13
+Year_spoken      : 1976
+Place_spoken     : Chandigarh
+Length_hidden    : 58:24
+Title_hidden     : Address [Hindi]
+----
+
+<audio>
+{{spoken:761013le.cha_hindi.mp3|Lecture [Hindi] — October 13, 1976, Chandigarh}}
+</audio>
+
+**Prabhupāda:**

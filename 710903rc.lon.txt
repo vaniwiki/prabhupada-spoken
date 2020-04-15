@@ -1,0 +1,39 @@
+~~Title: Room Conversation — September 3, 1971, London~~
+~~bc: September 3, 1971, London~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 710903rc.lon
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1971-09-03
+showdate_hidden  : 2020-09-03
+listplace_hidden : London
+Type_spoken      : Room Conversation
+Date_spoken      : September 3
+Year_spoken      : 1971
+Place_spoken     : London
+Length_hidden    : 00:00
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710903rc.lon.mp3|Room Conversation — September 3, 1971, London}}
+</audio>
+
+**Prabhupāda:**
+...colleges, universities, that will be very nice.
+
+**Ravīndra-svarūpa:**
+I wrote you a while ago. I was working on a doctorate dissertation.
+
+**Prabhupāda:**
+Huh?
+
+**Ravīndra-svarūpa:**
+A doctoral dissertation, a Ph.D. dissertation, that when I became a devotee I was studying religion... [Break]
+
+**Prabhupāda:**
+...Hindu, or I may be a Christian, but the fact is that we are serving somebody. Either you be Hindu or Muslim or Christian or you may profess any religion, but you must be serving somebody. Is it not? So that serving is religion. Try to understand this.
+
+**Kīrtirāja:**
+Śrīla Prabhupāda? I just wanted to say I found the name of that Council General. His name is A.K. Ray, R-a-y. So do wish to do anything further with it? [end]

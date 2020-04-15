@@ -1,0 +1,27 @@
+~~Title: Room Conversation [Bengali] — January 22, 1976, Māyāpur~~
+~~bc: January 22, 1976, Māyāpur~~
+====== Room Conversation [Bengali] ======
+
+---- dataentry spoken ----
+id_hidden        : 760322r1.may
+listtype_hidden  : Room Conversation [Bengali]
+listdate_hidden  : 1976-03-22
+showdate_hidden  : 2020-03-22
+listplace_hidden : Māyāpur
+Type_spoken      : Bengali
+Date_spoken      : January 22
+Year_spoken      : 1976
+Place_spoken     : Māyāpur
+Length_hidden    : 54:57
+Title_hidden     : Room Conversation [Bengali]
+----
+
+<audio>
+{{spoken:760322r1.may_bengali.mp3|Room Conversation [Bengali] — January 22, 1976, Māyāpur}}
+</audio>
+
+**Jayapatāka:**
+[Bengali]
+
+**Prabhupāda:**
+[Bengali]

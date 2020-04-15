@@ -1,0 +1,54 @@
+~~Title: Room Conversation with Indian Guests — May 20, 1977, Vṛndāvana~~
+~~bc: May 20, 1977, Vṛndāvana~~
+====== Room Conversation with Indian Guests ======
+
+---- dataentry spoken ----
+id_hidden        : 770520r1.vrn
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1977-05-20
+showdate_hidden  : 2020-05-20
+listplace_hidden : Vṛndāvana
+Type_spoken      : Room Conversation
+Date_spoken      : May 20
+Year_spoken      : 1977
+Place_spoken     : Vṛndāvana
+Length_hidden    : 18:48
+Title_hidden     : Room Conversation with Indian Guests
+----
+
+<audio>
+{{spoken:770520r1.vrn.mp3|Room Conversation with Indian Guests — May 20, 1977, Vṛndāvana}}
+</audio>
+
+**Indian man (1):**
+[Hindi]
+
+**Prabhupāda:**
+Hmm?
+
+**Indian man (1):**
+[Hindi conversation] This matter can be taken up with the authorities. [Hindi]
+
+**Indian man (2):**
+There must be exception.
+
+**Indian man (1):**
+I don't think. The matter leaves... [Hindi] It has to be pursued by...
+
+**Prabhupāda:**
+[Hindi] [Hindi conversation]
+
+**Indian man (1):**
+Everybody's unsure about himself.
+
+**Indian man (2):**
+Only the government has power.
+
+**Indian man (1):**
+[Hindi] [Hindi conversation with scattered English] ...a long time after this, when the things have just settled down. Then this matter can be taken up... [Hindi] ...people may dislike it... [Hindi]
+
+**Indian man (2):**
+This is matter of pride. [Hindi] They have got faith in the mission, then it must be left fully to serve the mission. [Hindi conversation with scattered English about getting permission for devotees to stay]
+
+**Prabhupāda:**
+[Hindi conversation] [long pause, bells ringing in background] [break] [end]

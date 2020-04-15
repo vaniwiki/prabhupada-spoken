@@ -1,0 +1,88 @@
+~~Title: SB 5.6.1 — November 23, 1976, Vṛndāvana~~
+~~bc: November 23, 1976, Vṛndāvana~~
+====== Śrīmad-Bhāgavatam 5.6.1 ======
+
+---- dataentry spoken ----
+id_hidden        : 761123sb.vrn
+listtype_hidden  : SB 5.6.1
+listdate_hidden  : 1976-11-23
+showdate_hidden  : 2020-11-23
+listplace_hidden : Vṛndāvana
+Type_spoken      : Śrīmad-Bhāgavatam
+Date_spoken      : November 23
+Year_spoken      : 1976
+Place_spoken     : Vṛndāvana
+Length_hidden    : 28:13
+Title_hidden     : Śrīmad-Bhāgavatam 5.6.1
+----
+
+<audio>
+{{spoken:761123sb.vrn.mp3|SB 5.6.1 — November 23, 1976, Vṛndāvana}}
+</audio>
+
+**Pradyumna:**
+//Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [Chants verse]
+
+> rājovāca, na nūnaṁ bhagava ātmārāmāṇāṁ yoga-samīrita-jñānāvabharjita-karma-bījānām aiśvaryāṇi punaḥ kleśadāni bhavitum arhanti yadṛc-chayopagatāni
+> [[books:sb:5:6:1|[SB 5.6.1]]]
+
+[03:47]
+
+Translation: "King Parīkṣit asked Śukadeva Gosvāmī: My dear Lord, for those who are completely pure in heart, knowledge is attained by the practice of //bhakti-yoga,// and attachment for fruitive activity is completely burned to ashes. For such people, the powers of mystic //yoga// automatically arise. They do not cause distress. Why, then, did Ṛṣabhadeva neglect them?"
+
+**Prabhupāda:**
+
+> rājovāca, na nūnaṁ bhagava ātmārāmāṇāṁ yoga-samīrita-jñānāvabharjita-karma-bījānām aiśvaryāṇi punaḥ kleśadāni bhavitum arhanti yadṛc-chayopagatāni
+> [[books:sb:5:6:1|[SB 5.6.1]]]
+
+So //ātmārāmāṇām, ātmārāmāṇām,// self-satisfied. There are two kinds of men: //ātmārāma// and //apaśyatām atmā-tattvam// [[books:sb:2:1:2|[SB 2.1.2]]]---one who does not know what is the soul and what is the business of the soul. //Apaśyatām atmā-tattvam. Ātma-tattvam...// First of all, one has to understand that "I am not this body. I am //ātmā,// soul. //Ahaṁ brahmāsmi.//" Then we fix up our business. If I do not know what I am... Sanātana Gosvāmī approached Caitanya Mahāprabhu: //grāmya-vyavahāre paṇḍita, satya kari māni āpanāra hitāhita kichui nā jāni// [[books:cc:madhya:20:100|[Cc. Madhya 20.100]]]. This is going on. So-called learned philosophers, scientist, educationist---people call them learned scholars. But Sanātana Gosvāmī refused to accept. He said, //grāmya-vyavahāre kahaye paṇḍita satya kari māni.// That is our nature. Just like a beggar comes, he gives his blessing, "Sir, you become king. You become opulent. You...," so on, so on. So he thinks, "Now this beggar is blessing me. I may be... It may be I become a king. 'All right, you take some rupees.' " So this is not... They do not know //atmā-tattvam.// They think that "This beggar's blessing will make me happy." No. One should know //atmā-tattvam// and act accordingly.
+
+That //atmā-tattva// begins after being liberated.
+
+> brahma-bhūtaḥ prasannātmā
+> na śocati na kāṅkṣati
+> samaḥ sarveṣu bhūteṣu
+> mad-bhaktiṁ labhate param
+> [[books:bg:18:54|[Bg. 18.54]]]
+
+That is //atmā-tattvam.// One should know simply understanding //ahaṁ brahmāsmi,// "I am not this body; I am a spirit soul." That is also knowledge, at least, than the //karmīs. Karmīs,// they have been described by Viśvanātha Cakravartī Ṭhākura as //mūḍhas,// asses. They do not know what is the aim of life, simply working. //Śva-viḍ-varāhoṣṭra-kharaiḥ saṁstutaḥ puruṣaḥ paśuḥ// [[books:sb:2:3:19|[SB 2.3.19]]]. So in //śāstra,// the human being who has no knowledge of //atmā-tattva,// such person is compared with four kinds of animals. //Śva, śva// means dog. //Viḍ-varāha, viḍ-varāha// means the pig. You have seen in Vṛndāvana so many pigs are loitering, searching after stool. //Śva-viḍ-varāha uṣṭra. Uṣṭra// also you have seen. They are so foolish that the thorny herbs..., and the tongue is cut, and there is blood oozing out, and the blood is tasted with the thorns and he thinks, "I am eating very palatable things." He's eating thorn, but because it is mixed up with his own blood, the foolish animal is thinking it is very tasteful. So these animals have been selected to compare with the human being if they are //apaśyatām atmā-tattvaṁ gṛheṣu gṛha-medhinām.//
+
+> śrotavyādīni rājendra
+> nṛṇāṁ santi sahasraśaḥ
+> apaśyatām atmā-tattvaṁ
+> gṛheṣu gṛha-medhinām
+> [[books:sb:2:1:2|[SB 2.1.2]]]
+
+That is a person, one who does not know //atmā-tattva.// And one who knows //atmā-tattva// and the business of //atmā-tattva,// they are called //ātmārāma, ātmārāma,// enjoying.
+
+Unless we become //ātmārāma,// there is no possibility of happiness. Just like these Gosvāmīs. They were very opulent ministers, but they were not happy. They resigned from the post, //tyaktvā tūrṇam aśeṣa-maṇḍala-pati-śreṇīṁ sadā tuccha-vat,// because there was no happiness. And what they adopted? They adopted the life of a mendicant. //Tyaktvā tūrṇam aśeṣa-maṇḍala-pati-śreṇīṁ sadā tuccha-vat bhūtvā dīna-gaṇeśakau karuṇayā kaupīna-kanthāśritau.// For doing good to the others they accepted //kaupīna-kanthāśritau.// So it is not a business of imitation, that "I am following the principles of Rūpa Gosvāmī." That is not so easy to become a Rūpa Gosvāmī, //ātmārāma.// They were busy, very busy in transcendental activities. Simply to give up the family life or big post and come to Vṛndāvana and live cheaply by begging some //cāpāṭi// and become Rūpa Gosvāmī, that is not ideal. You should follow Rūpa Gosvāmī, their footprints. //Tyaktvā tūrṇam-aśeṣa-maṇḍala.// First of all, Rūpa Gosvāmī, their giving up family life was meaningful. But if somebody, out of poverty, he comes to Vṛndāvana to solve the //cāpāṭi// problem, [laughter] that is not Rūpa Gosvāmī.
+
+Rūpa Gosvāmī, they were engaged---//nānā-śāstra-vicāraṇaika-nipuṇau sad-dharma-saṁsthāpakau lokānāṁ hita-kāriṇau.// They were simply thinking, "How these rascals will be benefitted by Kṛṣṇa consciousness?" That is what..., their business, //lokānāṁ hita-kāriṇau.// Just like Prahlāda Mahārāja. Prahlāda Mahārāja, //śoce tato vimukha-cetasa. Śoce tato vimukha-cetasa māyā-sukhāya bharam udvahato vimūḍhān// [[books:sb:7:9:43|[SB 7.9.43]]]. Prahlāda Mahārāja was anxious not for himself. //Naivodvije para duratyayā-vaitaranyas tvad-vīrya-gāyana-mahāmṛta-magna-cittaḥ.// "My Lord, personally I have no problem. It is finished." //Svāmin kṛtārtho 'smi.// Dhruva Mahārāja also said the same thing. A devotee, for personal... Because they are //ātmārāma.// They have no business for personal satisfaction. They are completely satisfied, //ātmārāma.// But they have got another dissatisfaction: that seeing men like us engaged in sense gratification and working whole day and night like dogs and pigs, so they are very much anxious. //Tato vimukha-cetasa.// "Without Kṛṣṇa consciousness, they are working so hard day and night like asses and pigs and dogs." They are very much anxious for this, "How to stop this foolish person from this unnecessary trouble?" Unnecessary trouble. That Ṛṣabhādeva has already instructed us in the beginning, that "Don't spoil your life working so hard like hogs and dogs. No, this is not good." //Na sādhu manye.// "This is not good." But they are thinking... Now it is advertised that "Work hard. Work hard." And the people have come to the stage of pulling //ṭhelā// and rickshaw, and still, they have to work hard. This is the position. Because they do not know what is..., how to become //ātmārāma.// That is the difficulty.
+
+So this Kṛṣṇa consciousness movement is to teach people how to become //ātmārāma.// When one becomes //ātmārāma,// then //yoga-samīrita-jñānam. Bhakti-yoga. Bhakti-yoga,// if one takes to //bhakti-yoga,// then automatically the //atmā-jñāna, atmā-tattva jñāna,// becomes developed. //Vāsudeve bhagavati bhakti-yogaḥ prayojitaḥ// [[books:sb:1:2:7|[SB 1.2.7]]]. Simply if you engage yourself in the devotional service of Vāsudeva... Vāsudeva means Kṛṣṇa, the son of Vasudeva. Another meaning of Vāsudeva: "who is all-pervading." //Sarvatra vasate iti vāsudevaḥ.// God is everywhere. //Aṇḍāntara-stha-paramāṇu-cayāntara-stham.//
+
+> eko 'py asau racayituṁ jagad-aṇḍa-koṭiṁ
+> yac-chaktir asti-jagad-aṇḍa-cayā yad-antaḥ
+> aṇḍāntara-stha paramāṇu-cayāntara-sthaṁ
+> govindam ādi-puruṣaṁ tam aham...
+> [Bs. 5.35]
+
+That is Vasudeva feature of Kṛṣṇa. He is, as Garbhodakaśayī Viṣṇu, //aṇḍāntara-stham,// within this universe. And //paramāṇu-cayāntara-stham. Īśvaraḥ sarva-bhūtānāṁ hṛd-deśe 'rjuna tiṣṭhati// [[books:bg:18:61|[Bg. 18.61]]]. So this Vāsudeva, Kṛṣṇa, if we engage ourself in devotional service, that is //yoga. Yogaṁ yuñjan mad-āśrayaḥ,// Kṛṣṇa says. //Mayy āsakta-manāḥ pārtha yogaṁ yuñjan mad-āśrayaḥ// [[books:bg:7:1|[Bg. 7.1]]]. That is real //yoga, mad-āśrayaḥ.// "Under Me, or a person who has taken shelter in Me, //mad-āśrayaḥ.//" //Mad-āśrayaḥ// means either... It is not possible to take shelter of the lotus feet of Kṛṣṇa directly. That is not possible. You have to take shelter of a person who has already taken shelter of the lotus feet of... That is //mad-āśrayaḥ.// So that //yogam...// So this //ātmārāma.// These Gosvāmīs, Prahlāda Mahārāja, they are //ātmārāma.// Their //karma-bīja// is fried. What is said? //Ava-bharjitāni.// Even if you pour water, no, it is finished.
+
+So those who are //ātmā-rama,// those who have taken to the //bhakti-yoga,// their //karma-phala// is finished. //Karmāṇi nirdahati kintu ca bhakti-bhājām// [Bs. 5.54]. They are not... The devotee may be observed that he's also engaged in ordinary work. He's also printing books and selling them and maintaining //maṭhas// and temples. "So he is also doing business." No, that is not business. That is //bhakti.// Sometimes //bhakti// appears to be like ordinary //karma,// but it is not //karma.// It is //karma// in this way, that the same peas, it looks like peas, but if you sow it, it will not produce anymore. //Bharjitāni. Ava-bharjitāni. Yajñārthe karmaṇo 'nyatra loko 'yaṁ karma-bandhanaḥ// [[books:bg:3:9|[Bg. 3.9]]]. If you work for Kṛṣṇa, it appears to be ordinary work, but it is not ordinary work. It is not the cause of //bandhanaḥ.// But if you work for Kṛṣṇa, there is no more //karma-bandhanaḥ. Karmāṇi nirdahati ca kintu ca bhakti-bhājām.// All others... //Yas tv indragopam mahā indra...// There is a germ, it is called //indragopa.// From //indragopa// to that Indra the King of heaven, everyone is bound up by the laws of //karma.// Everyone is bound up. But a //bhakta// is not bound up. How he can be bound up? Because as soon as he surrenders to Kṛṣṇa, Kṛṣṇa gives him assurance, //ahaṁ tvāṁ sarvapāpebhyo mokṣayiṣyāmi// [[books:bg:18:66|[Bg. 18.66]]]. Immediately finish...
+
+So we can become immediately liberated. Liberated means who has no //karma-bandhana,// no resultant action. //Ava-bharjitāni.// That is liberation. //Tyaktvā dehaṁ punar janma naiti// [[books:bg:4:9|[Bg. 4.9]]]. Devotee, he may seem, it may appear, that he is also dying, but his death and ordinary death is different. Here---//tyaktvā dehaṁ punar janma naiti// [[books:bg:4:9|[Bg. 4.9]]]; and others---they are dying //tathā dehāntara-prāptiḥ// [[books:bg:2:13|[Bg. 2.13]]]. There is a difference. //Karmī...// It appears that //karmīs...// People may say, "A //karmī// is dying and //bhakta// is dying. What is benefit?" No. He's not dying, but he is dying or giving up this body for living forever. And the nondevotees, he is dying to accept another body. That is the difference. //Tathā dehāntara-prāptiḥ.// So if you remain a minister, a president or some very big man, but if you are not a devotee, then you have to accept another body. //Karmaṇā daiva netreṇa// [[books:sb:3:31:1|[SB 3.31.1]]]. You have to... //Daiva-netreṇa,// by superior management, superior administration, you'll be judged what kind of //karma// you have done. Although you are minister, but you have done..., acted like a hog, like a dog, then you have to accept the body. //Karmaṇā daiva-netreṇa jantor dehopapatti.// But that we do not know. They do not believe. At the modern days they do not believe that there is next life and it is conducted by the laws of nature. //Prakṛteḥ kriyamāṇāni guṇaiḥ sarvaśaḥ...// [[books:bg:3:27|[Bg. 3.27]]]. //Kāraṇaṁ guṇa-saṅgo 'sya sad-asad janma yoniṣu// [[books:bg:13:22|[Bg. 13.22]]]. Why there are difference of birth? One is king, another is dog; one is tree, another is worm. They are all living entities, part and parcel of Kṛṣṇa. //Sarva-yoniṣu kaunteya sambhavanti mūrtayoyaḥ// [[books:bg:14:4|[Bg. 14.4]]]. They are all part and parcel. //Mamaivāṁśo jīva-bhūtaḥ// [[books:bg:15:7|[Bg. 15.7]]]: "They are all My part and parcel." //Manaḥ ṣaṣṭhānīndriyāṇi prakṛti-sthāni karṣati:// they're struggling in this material nature because conducted by this mind and //indriyas.//
+
+So we have to give up this. //Ātmārāma// means we have to give up for good the dictation of the mind. Then you are liberated. //Sa vai manaḥ kṛṣṇa-padāravindayor vacāṁsi vaikuṇṭha-guṇanuvarṇane// [[books:sb:9:4:18-20|[SB 9.4.18]]]. This is Ambarīṣa Mahārāja's example. All devotees, they have no other desires. Vaikuṇṭha. Prahlāda Mahārāja also says, //tvad-vīrya-gāyana-mahāmṛta-magna-cittaḥ// [[books:sb:7:9:43|[SB 7.9.43]]]: "I am simply engaged in describing the powerful activities of Your Lordship." That should be our life. If you stick to this point, then we shall not speak anything except glorifying the Supreme Lord. If we make that point fixed up, we shall not talk foolishly. Simply //vacāṁsi vaikuṇṭha-guṇanuvarṇane.// We shall use our legs to go to the temples. We shall use our eyes to see the Deity, how nicely He is decorated, and appreciate. We shall use our hand in cleansing the temple, in playing the instruments, //khol, karatāla,// for chanting. So, ear for hearing Kṛṣṇa's pastimes, nose for smelling the flower offered to Kṛṣṇa... In this way, //hṛṣīkena hṛṣīkeśa sevanaṁ bhaktir ucyate// [[books:cc:madhya:19:170|[Cc. Madhya 19.170]]]. When you engage your senses, //hṛṣīkeśa sevanam...// The senses are not yours, because this body is given by Kṛṣṇa through the agency of //māyā.// You wanted this thing. //Īśvaraḥ sarva-bhūtānāṁ hṛd-deśe 'rjuna tiṣṭhati// [[books:bg:18:61|[Bg. 18.61]]]. He knows what you are wanting because He is constantly seeing you. He is sitting within your heart, the same tree, two birds. One bird is I am, the individual soul; another bird is Kṛṣṇa. So He knows, and He is giving us, giving me the facility.
+
+> īśvaraḥ sarva-bhūtānām
+> hṛd-deśe 'rjuna tiṣṭhati
+> bhrāmāyān sarva-bhūtāni
+> yantrārūḍhāni māyayā
+> [[books:bg:118:61|[Bg. 118.61]]]
+
+He knows what I am desiring, and He is asking //māyā,// "Give him this body."
+
+So in this way, if we remain entrapped in the laws of material nature, then it is not good. //Na sādhu manye yata atmāno yam asann api kleśada āsa dehaḥ// [[books:sb:5:5:4|[SB 5.5.4]]]. This practice we should give up: //mano-dharma,// mental concoction. We should immediately accept Kṛṣṇa's instruction and be situated in //atmā-dharma.// That is //ātmārāma.// Kṛṣṇa says, //sarva-dharmān parityajya mām ekāṁ śaraṇam vraja// [[books:bg:18:66|[Bg. 18.66]]].
+
+Thank you very much. [end]

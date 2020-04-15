@@ -1,0 +1,30 @@
+~~Title: Room Conversation — January 16, 1977, Calcutta~~
+~~bc: January 16, 1977, Calcutta~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 770116r3.cal
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1977-01-16
+showdate_hidden  : 2020-01-16
+listplace_hidden : Calcutta
+Type_spoken      : Room Conversation
+Date_spoken      : January 16
+Year_spoken      : 1977
+Place_spoken     : Calcutta
+Length_hidden    : 00:55
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{spoken:770116r3.cal.mp3|Room Conversation — January 16, 1977, Calcutta}}
+</audio>
+
+**Prabhupāda:**
+We are discussing some subject matter from //Reader's Digest// about the next two hundred years, how things will happen. The scientist proposing that they'll control the laws of nature, and they will produce food from garbage---so many fantastic ideas. But our suggestion, according to Caitanya Mahāprabhu,
+
+> harer nāma harer nāma harer nāma iva kevalam
+> kalau nāsty eva nāsty eva nāsty eva gatir anyathā
+> [[books:cc:adi:17:21|[Cc. Ādi 17.21]]]
+
+[end]

@@ -1,0 +1,53 @@
+~~Title: Departure Lecture — February 25, 1975, Caracas~~
+~~bc: February 25, 1975, Caracas~~
+====== Departure Lecture ======
+
+---- dataentry spoken ----
+id_hidden        : 750225dp.car
+listtype_hidden  : Departure Lecture
+listdate_hidden  : 1975-02-25
+showdate_hidden  : 2020-02-25
+listplace_hidden : Caracas
+Type_spoken      : Lecture
+Date_spoken      : February 25
+Year_spoken      : 1975
+Place_spoken     : Caracas
+Length_hidden    : 08:10
+Title_hidden     : Departure Lecture
+----
+
+<audio>
+{{spoken:750225dp.car.mp3|Departure Lecture — February 25, 1975, Caracas}}
+</audio>
+
+[translated throughout by Hṛdayānanda]
+
+**Prabhupāda:**
+So I thank you very much for your kindly receiving me in this temple, and I was very happy. So my request is that you continue your devotional service very faithfully and rigidly, then in this life you will be able to see Kṛṣṇa face to face. That is a fact.
+
+So you follow the advice, as given by Rūpa Gosvāmī, //utsāhāt.// The first thing is enthusiasm, that "I must see Kṛṣṇa." You are seeing Kṛṣṇa. The Deity of Kṛṣṇa and Kṛṣṇa is not different. But even personally you can see. Simply we have to continue the enthusiasm. Enthusiasm means to take things very seriously, //utsāhād dhairyāt,// and patiently. Although we are determined to go back to home, back to Godhead, so we should patiently follow the rules and regulations. So these are the six principles: endeavor..., mean, enthusiasm, and firm determination, and patience, and executing the regulative principles, //tat-tat-karma-pravartanāt,// and //sato vṛtteḥ,// means behavior must be very honest, no duplicity, and... //Utsāhād dhairyāt niścayāt tat-tat-karma-pravartanāt,// and //sato vṛtteḥ,// dealing must be very honestly, no hypocrisy, //tat-tat-karma-pravartanāt, sādhu-saṅga,// and in the association of devotees. If you follow these six principles, namely enthusiasm, determination, patience, and executing the regulative principle and keep yourself honest and in the association of devotee, if you follow these six principle, then your success is sure.
+
+So these are the six principle, positive. //Ṣaḍbhir bhaktiḥ prasidhyati.// By following these six principle, success is assured. Similarly, there are opposite number. What is that? //Atyāhāraḥ,// eating too much. //Atyāhāraḥ// means eating too much or unnecessarily collecting too much. And //prayāsaḥ. Prayāsaḥ// means too much endeavoring for a thing, mean, unnecessarily taking some anxiety. Don't do that. //Atyāhāraḥ prayāsas prajalpaḥ,// and talking nonsense, gossiping some subject matter which has no concern with Kṛṣṇa consciousness. We are accustomed to do that. We should avoid it. //Atyāhāraḥ prayāsaś ca prajalpo niyamāgrahaḥ// [NoI 2]. //Niyamāgrahaḥ// means the positive rules and regulation, simply make a show but not actually realize it. //Niyamāgrahaḥ, laulyam,// and to become very greedy, and //jana-saṅgaś ca,// and mixing with persons who are not devotee. These six things should be avoided, and the first things should be followed. Then your success in devotional service is sure. [Hṛdayānanda begins to translate and pauses] //Prajalpaḥ,// unnecessary gossiping. Just like people are wasting time taking one newspaper and talking for hours. These things should be avoided. And to associate with nondevotees. And greediness. These things should be avoided.
+
+> atyāhāraḥ prayāsaś ca
+> prajalpo niyamāgrahaḥ
+> laulyaṁ jana-saṅgaś ca
+> ṣaḍbhir bhaktir pranaśyati
+> [NoI 2]
+
+If you indulge in these six items, then your devotional service will be finished. And the first six principles means,
+
+> utsāhān dhairyād niścayāt
+> tat-tat-karma-pravartanāt
+> sato vṛtteḥ sādhu-saṅge
+> ṣaḍbhir bhaktiḥ prasidhyati
+> [//Upadeśāmṛta// 3]
+
+By these six principles, you will advance, and the other six principles, you will fall down.
+
+So under the guidance of your leaders in this temple, especially Hṛdayānanda Mahārāja, and if followed... One life, just take little trouble. It is no trouble; it is very happy life. But because we are accustomed to these material habits, we think it is trouble. No. It is not trouble. It is very pleasing. //Su-sukhaṁ kartum avyayam// [[books:bg:9:2|[Bg. 9.2]]]. In the //Bhagavad-gītā// it is..., "To execute devotional service is very pleasing."
+
+I think... Thank you very much for your [indistinct].
+
+**Devotees:**
+//Jaya// Prabhupāda. [end]

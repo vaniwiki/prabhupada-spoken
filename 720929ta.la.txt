@@ -1,0 +1,63 @@
+~~Title: Talk — September 29, 1972, Los Angeles~~
+~~bc: September 29, 1972, Los Angeles~~
+====== Talk ======
+
+---- dataentry spoken ----
+id_hidden        : 720929ta.la
+listtype_hidden  : Talk
+listdate_hidden  : 1972-09-29
+showdate_hidden  : 2020-09-29
+listplace_hidden : Los Angeles
+Type_spoken      : Room Conversation
+Date_spoken      : September 29
+Year_spoken      : 1972
+Place_spoken     : Los Angeles
+Length_hidden    : 01:13
+Title_hidden     : Talk
+----
+
+<audio>
+{{spoken:720929ta.la.mp3|Talk — September 29, 1972, Los Angeles}}
+</audio>
+
+**Indian Guest:**
+What is the language?
+
+**Devotee:**
+The //mantra// [indistinct] the drum [indistinct]. Can you write it down for me.
+
+**Prabhupāda:**
+Tick tacka tina.
+
+**Devotee:**
+Tik?
+
+**Prabhupāda:**
+Tick tacka tina.
+
+**Devotee:**
+Tota kina?
+
+**Devotee (2):**
+Drik tata kina.
+
+**Kṛṣṇa-kānti:**
+I think I will do a //mṛdaṅga// lesson tape.
+
+**Prabhupāda:**
+Tick tacka tina. Tick tacka tina... Tick tacka tina Tick tacka tina.
+
+**Svarūpa Dāmodara:**
+Dhik? d h?
+
+**Prabhupāda:**
+Tick tacka tina. Tick tacka tina. Tick tacka tina. Tick tacka tina.
+
+**Kṛṣṇa-kānti:**
+I have a...I’m going to make up a //mṛdaṅga// lesson tape. We have already recorded one //mṛdaṅga// lesson and all of the recordings that you have made where you just play //mṛdaṅga// alone. Well I have those and I can just put those recordings with no music just //mṛdaṅga.//
+
+**Prabhupāda:**
+No simply //mṛdaṅga// [indistinct]
+
+**Kṛṣṇa-kānti:**
+Yea, then they practise and listen. Let’s see what I have. [end]

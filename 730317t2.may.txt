@@ -1,0 +1,35 @@
+~~Title: Māyāpur Temple Inauguration Lecture Bengali — March 17, 1973, Māyāpur~~
+~~bc: March 17, 1973, Māyāpur~~
+====== Māyāpur Temple Inauguration Lecture ======
+
+---- dataentry spoken ----
+id_hidden        : 730317t2.may
+listtype_hidden  : Māyāpur Temple Inauguration
+listdate_hidden  : 1973-03-17
+showdate_hidden  : 2020-03-17
+listplace_hidden : Māyāpur
+Type_spoken      : Room Conversation
+Date_spoken      : March 17
+Year_spoken      : 1973
+Place_spoken     : Māyāpur
+Length_hidden    : 19:46
+Title_hidden     : Māyāpur Temple Inauguration Bengali
+----
+
+<audio>
+{{spoken:730317t2.may.mp3|Māyāpur Temple Inauguration Lecture Bengali — March 17, 1973, Māyāpur}}
+</audio>
+
+**Śrīdhara Mahārāja:**
+//Yoginām...// [indistinct]
+
+**Prabhupāda:**
+Now we can go for //ārotika// and then come back
+
+[aside:] you remain. And now [indistinct] ...that powder cheating the stomach. [laughter] Maharaja you remember this [indistinct] [Bengali] You take care. [Bengali] [break]
+
+**Devotees:**
+//Haribol!//
+
+**Prabhupāda:**
+[Bengali]

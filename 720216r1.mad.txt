@@ -1,0 +1,23 @@
+~~Title: Room Conversation [Hindi] — February 16, 1972, Madras~~
+~~bc: February 16, 1972, Madras~~
+====== Room Conversation [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 720216r1.mad
+listtype_hidden  : Conversation [Hindi]
+listdate_hidden  : 1972-02-16
+showdate_hidden  : 2020-02-16
+listplace_hidden : Madras
+Type_spoken      : Hindi
+Date_spoken      : February 16
+Year_spoken      : 1972
+Place_spoken     : Madras
+Length_hidden    : 02:30
+Title_hidden     : Room Conversation [Hindi]
+----
+
+<audio>
+{{spoken:720216r1.mad_hindi.mp3|Room Conversation [Hindi] — February 16, 1972, Madras}}
+</audio>
+
+**Prabhupāda:**

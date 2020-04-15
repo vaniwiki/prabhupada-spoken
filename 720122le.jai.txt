@@ -1,0 +1,24 @@
+~~Title: Lecture [Hindi] — January 22, 1972, Jaipur~~
+~~bc: January 22, 1972, Jaipur~~
+====== Lecture [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 720122le.jai
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1972-01-22
+showdate_hidden  : 2020-01-22
+listplace_hidden : Jaipur
+Type_spoken      : Hindi
+Date_spoken      : January 22
+Year_spoken      : 1972
+Place_spoken     : Jaipur
+Length_hidden    : 04:27
+Title_hidden     : Lecture [Hindi]
+----
+
+<audio>
+{{spoken:720122le.jai_hindi.mp3|Lecture [Hindi] — January 22, 1972, Jaipur}}
+</audio>
+
+**Prabhupāda:**
+

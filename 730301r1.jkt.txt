@@ -1,0 +1,24 @@
+~~Title: Conversation [Hindi] — March 1, 1973, Jakarta~~
+~~bc: March 1, 1973, Jakarta~~
+====== Conversation [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 730301r1.jkt
+listtype_hidden  : Conversation [Hindi]
+listdate_hidden  : 1973-03-01
+showdate_hidden  : 2020-03-01
+listplace_hidden : Jakarta
+Type_spoken      : Hindi
+Date_spoken      : March 1
+Year_spoken      : 1973
+Place_spoken     : Jakarta
+Length_hidden    : 56:55
+Title_hidden     : Conversation [Hindi]
+----
+
+<audio>
+{{spoken:730301r1.jkt_hindi.mp3|Conversation [Hindi] — March 1, 1973, Jakarta}}
+</audio>
+
+**Prabhupāda:**
+

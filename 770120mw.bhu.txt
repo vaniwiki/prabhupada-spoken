@@ -1,0 +1,56 @@
+~~Title: Morning Walk [partially recorded] — January 20, 1977, Bhubaneswar~~
+~~bc: January 20, 1977, Bhubaneswar~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 770120mw.bhu
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1977-01-20
+showdate_hidden  : 2020-01-20
+listplace_hidden : Bhubaneswar
+Type_spoken      : Morning Walk
+Date_spoken      : January 20
+Year_spoken      : 1977
+Place_spoken     : Bhubaneswar
+Length_hidden    : 02:46
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:770120mw.bhu.mp3|Morning Walk [partially recorded] — January 20, 1977, Bhubaneswar}}
+</audio>
+
+**Prabhupāda:**
+They're devotees of Lord Śiva.
+
+**Gaura-Govinda:**
+Ananta Vasudeva temple.
+
+**Prabhupāda:**
+Which one? This one?
+
+**Gaura-Govinda:**
+Yes.
+
+**Prabhupāda:**
+//Durbhikṣa. Anāvṛstya durbhikṣā kara-pīḍitaḥ// [SB 12.2.9]. There will be no rainfall, scarcity of food, and government will tax. Government will contribute twenty-five //crores,// and they will tax three hundred //crores// on this fee[?]. And before giving twenty-five //crores,// the other three hundred //crores// they will divide amongst themselves. [chuckles] That's all. [break]
+
+[in a car driving through traffic]
+
+**Rāmeśvara:**
+...two demons. She was feeling thirst. So Lord Śiva with the end of his trident created this hole. And then he sent his bull carrier to gather waters from all the sacred rivers in the universe. And then Lord Brahmā came...
+
+**Prabhupāda:**
+//Bindu-sarovara.// Drop by drop. //Bindu// means drop. So the //sarovara// came into existence by contribution from all rivers. [break] Bhubaneswar will help me. I have got little hint.
+
+**Gargamuni:**
+Maybe we should build a permanent house for Your Divine Grace also.
+
+**Prabhupāda:**
+We shall build there, in our place.
+
+**Gargamuni:**
+Yes, there. I mean a separate bungalow there.
+
+**Prabhupāda:**
+No. If we build like Māyāpur, a portion is sufficient. [pause] It is well known as sanitarium. [indistinct] [end]

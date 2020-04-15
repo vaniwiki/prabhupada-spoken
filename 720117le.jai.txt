@@ -1,0 +1,27 @@
+~~Title: Lecture [Hindi] — January 17, 1972, Jaipur~~
+~~bc: January 17, 1972, Jaipur~~
+====== Lecture [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 720117le.jai
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1972-01-17
+showdate_hidden  : 2020-01-17
+listplace_hidden : Jaipur
+Type_spoken      : Hindi
+Date_spoken      : January 17
+Year_spoken      : 1972
+Place_spoken     : Jaipur
+Length_hidden    : 26:23
+Title_hidden     : Lecture [Hindi]
+----
+
+<audio>
+{{spoken:720117le.jai_hindi.mp3|Lecture [Hindi] — January 17, 1972, Jaipur}}
+</audio>
+
+**Śyāmasundara:**
+Morning, January 17th, Jaipur.
+
+**Prabhupāda:**
+

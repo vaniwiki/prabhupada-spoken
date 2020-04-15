@@ -1,0 +1,57 @@
+~~Title: Arrival Address — March 8, 1975, London~~
+~~bc: March 8, 1975, London~~
+====== Arrival Address ======
+
+---- dataentry spoken ----
+id_hidden        : 750308ar.lon
+listtype_hidden  : Arrival Address
+listdate_hidden  : 1975-03-08
+showdate_hidden  : 2020-03-08
+listplace_hidden : London
+Type_spoken      : Lecture
+Date_spoken      : March 8
+Year_spoken      : 1975
+Place_spoken     : London
+Length_hidden    : 06:40
+Title_hidden     : Arrival Address
+----
+
+<audio>
+{{spoken:750308ar.lon.mp3|Arrival Address — March 8, 1975, London}}
+</audio>
+
+**Prabhupāda:**
+So how many devotees are there now?
+
+**Haṁsadūta:**
+Eighty.
+
+**Prabhupāda:**
+Eighteen?
+
+**Haṁsadūta:**
+Eighty.
+
+**Prabhupāda:**
+Eighty.
+
+**Haṁsadūta:**
+Yes.
+
+**Prabhupāda:**
+That's nice. So Bhaktivinoda Ṭhākura has sung, //jay sakal bipod...// [aside:] It is going now. //Jāy sakal'bipod, gāi bhaktivinod, jakhon ami o-nām gai, rādhā-kṛṣṇa bolo bolo, bolo re sobāi.// The Caitanya Mahāprabhu's preaching is to request everyone to chant Hare Kṛṣṇa or Rādhā-Kṛṣṇa. So Bhaktivinoda Ṭhākura said that "When I chant Hare Kṛṣṇa //mantra,// then all dangers go away." So this place, this material world, is a dangerous place. //Padaṁ padaṁ yad vipadām. Vipad// means danger, and //padaṁ padam// means every step. In the material world you cannot expect very smooth, peaceful life. That is not possible. And the only remedy is to take shelter of the lotus feet of just Murāri. Murāri means Kṛṣṇa.
+
+> samāśritā ye pada-pallava-plavaṁ
+> mahat-padaṁ puṇya-yaśo murāreḥ
+> bhavāmbudhir vatsa-padaṁ paraṁ padaṁ
+> padaṁ padaṁ yad vipadāṁ na teṣām
+> [SB 10.14.58]
+
+So there is always, if you stay in a very good boat, still, because the platform is water you cannot think that the boat is always very smooth and without any trouble. So material world is always full of troubles. So if we keep ourself in our standing..., in our standard, chanting Hare Kṛṣṇa regularly, then the dangers will be over. Dangers, they are not also permanent. They come and go like the seasonal changes. Sometimes it is very hot; sometimes it is very cold. So Kṛṣṇa has advised that //āgamāpāyino 'nityās tāṁs titikṣasva bhārata// [[books:bg:2:14|[Bg. 2.14]]]. So don't be diverted from the chanting of the Hare Kṛṣṇa //mahā-mantra,// and don't be afraid of because there is some danger and danger. Take shelter of Kṛṣṇa's lotus feet, chant Hare Kṛṣṇa //mantra,// and dangers will be over.
+
+But we should not create such position, dangerous. It is already dangerous. Because Caitanya Mahāprabhu was also very cautious about spiritual life. //Sannyāsīra alpa chidra bāhu kori mane.// Others may violate the laws, and so many sinful activities they are doing, but nobody takes very serious care. But when a religious group or a //sannyāsī// commits little offense, it is magnified a thousand times. Therefore we should be very careful not to make anything which may be magnified to the eyes of the public. Because we are preaching. We are preaching, and there is always demonic party who want to put us in difficulty. That is natural. Even Hiraṇyakaśipu, being the father of Prahlāda Mahārāja, he was also putting him into difficulty. But if we remain sincere and go on chanting, these dangers will be over. Don't be afraid. Don't stop your regular regulative principles and regular activities, program. Go on with it. Depend on Kṛṣṇa, and gradually everything will be all right.
+
+So I think we shall this much today. Now it is time over. The Deities should go to rest. We should not detain. That's all right. Hare Kṛṣṇa.
+
+**Devotees:**
+//Jaya// Prabhupāda. [end]

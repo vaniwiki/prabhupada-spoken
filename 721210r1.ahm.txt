@@ -1,0 +1,23 @@
+~~Title: Room Conversation [Hindi] — December 10, 1972, Ahmedabad~~
+~~bc: December 10, 1972, Ahmedabad~~
+====== Room Conversation [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 721210r1.ahm
+listtype_hidden  : Conversation [Hindi]
+listdate_hidden  : 1972-12-10
+showdate_hidden  : 2020-12-10
+listplace_hidden : Ahmedabad
+Type_spoken      : Hindi
+Date_spoken      : December 10
+Year_spoken      : 1972
+Place_spoken     : Ahmedabad
+Length_hidden    : 37:46
+Title_hidden     : Room Conversation [Hindi]
+----
+
+<audio>
+{{spoken:721210r1.ahm_hindi.mp3|Room Conversation [Hindi] — December 10, 1972, Ahmedabad}}
+</audio>
+
+**Prabhupāda:**

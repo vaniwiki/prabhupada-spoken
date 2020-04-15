@@ -1,0 +1,79 @@
+~~Title: Room Conversation — August 16, 1976, Hyderabad~~
+~~bc: August 16, 1976, Hyderabad~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 760816r1.hyd
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1976-08-16
+showdate_hidden  : 2020-08-16
+listplace_hidden : Hyderabad
+Type_spoken      : Room Conversation
+Date_spoken      : August 16
+Year_spoken      : 1976
+Place_spoken     : Hyderabad
+Length_hidden    : 07:20
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{spoken:760816r1.hyd.mp3|Room Conversation — August 16, 1976, Hyderabad}}
+</audio>
+
+**Hari-śauri:**
+That's all right. Okay. You're recording this.
+
+**Devotee:**
+What about to pause it, though? [break]
+
+**Prabhupāda:**
+[Hindi with Indian man] They are thinking, "Let it be green or yellow, it doesn't matter. We shall cut the source of this [indistinct]." But how long is that animal, if there is no greenness? They are already cutting the animals premature. There is no [Hindi]. [Hindi conversation] //Choti// aeroplane. Who is pilot? Very small. Minute. Just like construction like aeroplane. Who is pilot still? Answer him. Ask the scientist. [Hindi conversation; Indian lady also speaking] Among the whole world she knows this.
+
+Indian man: Pālikā.
+
+**Prabhupāda:**
+Pālikā.
+
+**Indian man:**
+Yes. She has gone yesterday.
+
+**Harikeśa:**
+She learned here.
+
+**Indian man:**
+[Hindi] When first she was staying here, and she was coming very often and learning from all these ladies.
+
+**Indian lady:**
+[Hindi]
+
+**Prabhupāda:**
+[Hindi conversation]. So we shall go now?
+
+**Hari-śauri:**
+Yes, everything's ready. [break]
+
+**Prabhupāda:**
+[Hindi] He is Bengali. [Hindi] Because the sun passes...
+
+**Indian man:**
+East to west.
+
+**Prabhupāda:**
+East to west. [Hindi] Where is Mahāṁśa Mahārāja? He is not here?
+
+**Devotee:**
+Can somebody go find Mahāṁśa?
+
+**Devotee (2):**
+He was here. Just probably bringing some things for you.
+
+**Prabhupāda:**
+That's all right. So? We have got the key? Not here.
+
+**Devotee:**
+[indistinct]
+
+**Prabhupāda:**
+So, //kīrtana// [Hindi]?
+
+[07:11] [//kīrtana//] [end]

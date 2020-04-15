@@ -1,0 +1,23 @@
+~~Title: Room Conversation [Hindi] — February 6, 1972, Bombay~~
+~~bc: February 6, 1972, Bombay~~
+====== Room Conversation [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 720206r1.bom
+listtype_hidden  : Conversation [Hindi]
+listdate_hidden  : 1972-02-06
+showdate_hidden  : 2020-02-06
+listplace_hidden : Bombay
+Type_spoken      : Hindi
+Date_spoken      : February 6
+Year_spoken      : 1972
+Place_spoken     : Bombay
+Length_hidden    : 30:05
+Title_hidden     : Room Conversation [Hindi]
+----
+
+<audio>
+{{spoken:720206r1.bom_hindi.mp3|Room Conversation [Hindi] — February 6, 1972, Bombay}}
+</audio>
+
+**Prabhupāda:**

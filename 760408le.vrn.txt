@@ -1,0 +1,24 @@
+~~Title: Lecture [Hindi] — April 8, 1976, Vṛndāvana~~
+~~bc: April 8, 1976, Vṛndāvana~~
+====== Lecture [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 760408le.vrn
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1976-04-08
+showdate_hidden  : 2020-04-08
+listplace_hidden : Vṛndāvana
+Type_spoken      : Hindi
+Date_spoken      : April 8
+Year_spoken      : 1976
+Place_spoken     : Vṛndāvana
+Length_hidden    : 10:00
+Title_hidden     : Lecture [Hindi]
+----
+
+<audio>
+{{spoken:760408le.vrn_hindi.mp3|Lecture [Hindi] — April 8, 1976, Vṛndāvana}}
+</audio>
+
+**Prabhupāda:**
+[Hindi]

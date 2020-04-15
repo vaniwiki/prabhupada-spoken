@@ -1,0 +1,240 @@
+~~Title: Room Conversation with Bishop Kelly — June 29, 1974, Melbourne~~
+~~bc: June 29, 1974, Melbourne~~
+====== Room Conversation with Bishop Kelly ======
+
+---- dataentry spoken ----
+id_hidden        : 740629r2.mel
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1974-06-29
+showdate_hidden  : 2020-06-29
+listplace_hidden : Melbourne
+Type_spoken      : Room Conversation
+Date_spoken      : June 29
+Year_spoken      : 1974
+Place_spoken     : Melbourne
+Length_hidden    : 28:04
+Title_hidden     : Room Conversation with Bishop Kelly
+----
+
+<audio>
+{{spoken:740629r2.mel.mp3|Room Conversation with Bishop Kelly — June 29, 1974, Melbourne}}
+</audio>
+
+**Bishop Kelly:**
+Are you feeling the cold in Melbourne, Your Grace?
+
+**Prabhupāda:**
+This heating is there. [laughs]
+
+**Bishop Kelly:**
+Ah, yes. But when you go outside do you feel...?
+
+**Prabhupāda:**
+I go outside.
+
+**Bishop Kelly:**
+Yes, but when you go out, do you feel it?
+
+**Prabhupāda:**
+I feel... I cover sufficiently, that's all.
+
+**Bishop Kelly:**
+Ah, yes. How long are you staying here for?
+
+**Prabhupāda:**
+Hmm. Up to second.
+
+**Bishop Kelly:**
+This is your first visit to Australia?
+
+**Prabhupāda:**
+No. This is the fourth time.
+
+**Bishop Kelly:**
+Is it?
+
+**Prabhupāda:**
+In the //Bhagavad-gītā// about this feeling is stated,
+
+> mātrā-sparśās tu kaunteya
+> śītoṣṇa-sukha-duḥkha-dāḥ
+> āgamāpāyino 'nityās
+> tāṁs titikṣasva bhārata
+> [[books:bg:2:14|[Bg. 2.14]]]
+
+**Satsvarūpa:**
+English?
+
+**Prabhupāda:**
+No, you read the Sanskrit.
+
+**Satsvarūpa:**
+
+> mātrā-sparśās tu kaunteya
+> śītoṣṇa-sukha-duḥkha-dāḥ
+> āgamāpāyino 'nityās
+> tāṁs titikṣasva bhārata
+> [[books:bg:2:14|[Bg. 2.14]]]
+
+"O son of Kuntī, the non-permanent appearance of happiness and distress and their disappearance in due course are like the appearance and disappearance of winter and summer seasons. They arise from sense perception, O scion of Bharata, and one must learn to tolerate them without being disturbed."
+
+**Prabhupāda:**
+Purport.
+
+**Satsvarūpa:**
+"In the proper discharge of duty, one has to learn to tolerate nonpermanent appearances and disappearances of happiness and distress. According to Vedic injunction, one has to take his bath early in the morning even during the month of Māgha [January-February]. It is very cold at that time, but in spite of that, a man who abides by the religious principles does not hesitate to take his bath. Similarly, a woman does not hesitate to cook in the kitchen in the months of May and June, the hottest part of the summer season. One has to execute his duty in spite of climatic inconveniences. Similarly, to fight is the religious principle of the //kṣatriyas,// and although one has to fight with some friend or relative, one should not deviate from his prescribed duty. One has to follow the prescribed rules and regulations of religious principles in order to rise up to the platform of knowledge, because by knowledge and devotion only can one liberate himself from the clutches of //māyā// [illusion].
+
+"The two different names of address given to Arjuna are also significant. To address him as Kaunteya signifies his great blood relations from his mother's side; and to address him as Bhārata signifies his greatness from his father's side. From both sides he is supposed to have a great heritage. A great heritage brings responsibility in the matter of proper discharge of duties; therefore, he cannot avoid fighting."
+
+**Prabhupāda:**
+Duty has to be done despite all inconveniences. That is very important thing. The example is given that one has to take bathing early in the morning, but because it is cold, one cannot avoid it. He must bathe. This morning we had some meeting...
+
+[break] ...he was also a little boy, but he was a great devotee, and father was a great atheist. So he was surprised that his son became so great devotee. After all, as a father he asked him, "My dear boy, what nice thing you have learned by your education?" He said, "My dear father, the best thing I have learned, that people are always full of anxiety on account of accepting material..." [break] ...exactly the same thing as you were. So one thing is that formerly it was the practice to go to the forest, go to the Himalaya, but in this age this is not possible. Therefore we have to take shelter of the Lord wherever we are, and that is Hare Kṛṣṇa chanting.
+
+**Bishop Kelly:**
+Well, of course, that the difficulty, as you rightly point out, you know, many times there, that man in the present-day civilization, he is so often mesmerized, he is captivated by what he sees in front of him... It is the modern Garden of Eden that he sees. He sees many delectable apple trees, so to speak, and he feels in the new vaunted value given to personalism and the expression of self, and the self-seeking, that he reaches out towards those things. And I'm afraid that in many cases the difficulty is to convince him that he is only getting, you know, poor substitutes until he has tasted and eaten and tried to digest and finds, you know, that there is no satisfaction, there is no wholesome food to be found there.
+
+**Prabhupāda:**
+That is also stated in the //Śrīmad-Bhāgavatam// by... That is also statement of Prahlāda Mahārāja, this boy devotee. He says, //na te viduḥ svārtha-gatiṁ hi viṣṇum// [[books:sb:7:5:31|[SB 7.5.31]]]: "These foolish people, they do not know what is their actual self-interest." So he says, "They do not know the actual self-interest is approaching God. That is real self-interest. But they do not know it." //Na te viduḥ svārtha-gatiṁ hi viṣṇuṁ durāśayā.// "They have made their plan wrongly to become happy in this material world." //Na te viduḥ svārtha-gatiṁ hi viṣṇuṁ durāśayā ye bahir-artha-māninaḥ// [[books:sb:7:5:31|[SB 7.5.31]]]. //Bahir-artha-māninaḥ// means external: "They have taken the external energy, the material world, as very important." And the leaders also, the so-called leaders... They are being led. The leaders, they are blind, and they are leading some other blind men without knowing that they cannot be happy in that way because he is under strict, stringent laws of nature, material nature. That //Bhagavad-gītā// therefore recommends,
+
+> daivī hy eṣā guṇamayī
+> mama māyā duratyayā
+> mām eva ye prapadyante
+> māyām etāṁ taranti te
+> [[books:bg:7:14|[Bg. 7.14]]]
+
+This is illusion, that they are under the control of the material nature... Just like the so-called foolish scientists. They don't care for God. They think by so-called scientific advancement they will progress..., all the problems will be solved. That is not possible. One of my students, he is double M.A. in Chemistry and Ph.D. I asked him to discuss these things. He has written a small..., a little book. [aside:] Find out this book, //Scientific Basis of Kṛṣṇa Consciousness.// Here, yes, this book. So he has very scientifically discussed. The scientists, so-called scientists, they are going to be as all-in-all... Hmm...
+
+**Bishop Kelly:**
+I think I've left my glasses in the car.
+
+**Prabhupāda:**
+Oh. Just try this glass. [laughter]
+
+**Bishop Kelly:**
+Could be. Yes, all right, I think. Yes.
+
+**Prabhupāda:**
+"Birds of the same feather." [laughter]
+
+**Bishop Kelly:**
+Bifocal. Oh, yes. Your Grace, there is one thing I wish to ask you. Do you believe in some sort of universal but inherent deficiency in human nature, in other words, that man, irrespective of his environment, irrespective of where he comes from, that he has..., he is prone to evil? In the Catholic Church we call that original sin. Original sin is an inherited deficiency in which man is turned away from God rather than turned towards God, and that he holds within himself a seed of failure in..., spiritually, and also a seed of unreliability, so that the very makeup of man demands the enlightening touch and the helping hand of God so that he may overcome his inherent and abiding deficiency. So we hold that that is the nature of things, that man... It's not just a good thing or an advisable thing that man reaches out to and for God, but it is a necessary thing...
+
+**Prabhupāda:**
+It //is// a necessary thing.
+
+**Bishop Kelly:**
+...that God not merely is there to improve upon what you might say would be a natural goodness of man, but man has a natural deficiency he needs God to overcome. And as he overcomes, of course, he progresses further and he is enriched by God. But we hold that very clearly.
+
+**Prabhupāda:**
+Yes. That is stated in one of the Vedic literature, that:
+
+> nitya-siddha kṛṣṇa-bhakti sādhya kabhu naya
+> śravaṇādi-śuddha-citte karaye...
+> [[books:cc:madhya:22:107|[Cc. Madhya 22.107]]]
+
+The inherent principle is eternally a fact, his obedience to God. But artificially he has covered it. Artificially. The God consciousness is there in everyone, but by so-called material advancement, he has forgotten. He has his obedience to God, natural. Even the aborigines in the forest, they also submit to the manifestation of God's different energies. As soon as there is some lightning and there is thunderbolt, they immediately... They offer obeisances. As soon as they see a big sea, ocean, they offer obeisances. So that is inherent. But due to the material association, it is covered. And therefore Bhaktivinoda Ṭhākura says,
+
+> jaḍa-vidyā jato, māyāra vaibhava,
+> tomāra bhajane bādhā
+
+The more we advance in so-called material, what is called, amenities, we forget God. We forget God. So the inherent, dormant propensity is to become servant of God, but material association is checking him. Therefore if he... Just like now psychological treatment---a crazy fellow, he goes to the psychiatrist and he talks with him; gradually, talking, talking, he cures him---similarly, these men who have forgotten, or these living entity, if they associate with devotees and they constantly talk and hear about God, then again he revives his God consciousness. Yes. So we are, this Kṛṣṇa consciousness movement or any other... We open many centers, and we talk, we sell our literature. [aside:] His Lordship has seen our books? You can show some of the books.
+
+**Bishop Kelly:**
+Oh, I have, I have. Yes.
+
+**Prabhupāda:**
+Yes. So by association with devotee, by hearing, hearing, //śravaṇādi... Śravaṇādi// means hearing. Beginning is hearing. If you patiently hears, then that dormant God consciousness again becomes revived. Yes. Then his life is successful.
+
+**Bishop Kelly:**
+What would you hold about the, what you might term the revelation of God, the ongoing communication of God in revealing Himself and in further making known His will for man at different stages of his own life, say, in his spiritual life, and, of course, in different stages of history and in different cultures?
+
+**Prabhupāda:**
+That is recommended. You see. //Teṣāṁ satata-yuktānāṁ bhajatāṁ prīti-pūrvakam, dadāmi buddhi...// Because the God consciousness is there, God is there, now God is prepared to give Him instruction always. He is giving you instruction. Now, how that dormant consciousness can be revived, that is stated. [aside:] You read it, //teṣāṁ satata...//
+
+**Satsvarūpa:**
+
+> teṣāṁ satata-yuktānāṁ
+> bhajatāṁ prīti-pūrvakam
+> dadāmi buddhi-yogaṁ taṁ
+> yena mām upayānti te
+> [[books:bg:10:10|[Bg. 10.10]]]
+
+"To those who are constantly devoted and worship Me with love, I give the understanding by which they can come to Me."
+
+**Prabhupāda:**
+Purport.
+
+**Satsvarūpa:**
+Purport: "In this verse the word //buddhi-yogam// is very significant. We may remember that in the Second Chapter the Lord, instructing Arjuna, said that He had spoken to him of many things and that He would instruct him in the way of //buddhi-yoga.// Now //buddhi-yoga// is explained. //Buddhi-yogam// itself is action in Kṛṣṇa consciousness; that is the highest intelligence. //Buddhi// means intelligence, and //yogam// means mystic activities or mystic elevation. When one tries to go home, back to Godhead, and takes fully to Kṛṣṇa consciousness in devotional service, his action is called //buddhi-yogam.// In other words, //buddhi-yogam// is the process by which one gets out of the entanglement of this material world. The ultimate goal of progress is Kṛṣṇa. People do not know this; therefore the association of devotees and a bona fide spiritual master are important. One should know that the goal is Kṛṣṇa, and when the goal is assigned, then the path is slowly but progressively traversed, and the ultimate goal is achieved.
+
+"When a person knows the goal of life but is addicted to the fruits of activities, he is acting in //karma-yoga.// When he knows that the goal is Kṛṣṇa, but he takes pleasure in mental speculations to understand Kṛṣṇa, he is acting in //jñāna-yoga.// And when he knows the goal and seeks Kṛṣṇa completely in Kṛṣṇa consciousness and devotional service, he is acting in //bhakti-yoga,// or //buddhi-yoga,// which is the complete //yoga.// This complete //yoga// is the highest perfectional stage of life.
+
+"A person may have a bona fide spiritual master and may be attached to a spiritual organization, but still, if he is not intelligent enough to make progress, then Kṛṣṇa from within gives him instructions so that he may ultimately come to Him without difficulty. The qualification is that a person always engage himself in Kṛṣṇa consciousness and with love and devotion render all kinds of services. He should perform some sort of work for Kṛṣṇa, and that work should be with love. If a devotee is intelligent enough, he will make progress on the path of self-realization. If one is sincere and devoted to the activities of devotional service, the Lord gives him a chance to make progress and ultimately attain to Him."
+
+**Prabhupāda:**
+So one must be engaged in devotional service, practical. So these our boys and disciples, they are always...
+
+**Bishop Kelly:**
+I beg your pardon, Your Grace. I didn't quite catch what you said.
+
+**Prabhupāda:**
+I said that if one engages himself in the service of the Lord some way or other, then the revelation, the original dormant God consciousness and love of God, becomes revived. Exactly in the same way: the psychiatrists, they treat the crazy fellow by talking, talking, talking some way. So if we talk of Kṛṣṇa, then the original Kṛṣṇa consciousness is revived. That is also stated. [aside:] You find out in the //Bhāgavata, śṛṇvatāṁ sva-kathāḥ kṛṣṇaḥ puṇya-śravaṇa-kīrtanaḥ hṛdy antaḥ stho hy abhadrāṇi...// [[books:sb:1:2:17|[SB 1.2.17]]]. Yes, first part. So this is very important thing. Therefore we have published so many books about Kṛṣṇa---to hear. Hearing, hearing, hearing, and... Just like man is sleeping; you talk loudly, and he will be awakened. Yes. That's it.
+
+**Bishop Kelly:**
+Yes, well, I accept that every man must open himself out to God. And as we say, well, God speaks to the open mind of a generous man and the open recesses of his own heart through His grace. But surely outside of man... See, my difficulty is, you know, that God can speak to me... Let us put it this way. Some God-fearing people and God-dedicated people have done some very strange things. Now, my difficulty[?] with this is, if God speaks to me in the innermost recesses of my heart and He tells me on a certain matter to do this, and He speaks to somebody over here on the same matter, and He tells him to do something different, so straightaway I must ask the question: There must be some way, independent from me and from my fellow man, in which God can make His will known, can reveal Himself insofar to guarantee that I am not merely taking a subjective interpretation of what God is making known to me, and I end up with not really a valid alternative, but I may end up with an opposition or a contradiction. And my big fear there is, if it is a contradiction, well, somebody is going to lose out.
+
+Now I wouldn't be quite sure whether it was to be myself or the other person. But if that is so... So I always feel... The Christian religion, of course, feels it very keenly that it is true that God moves the individual soul in a way that is particular to each soul, his own action---we call it His action of grace, which is an offering of God's guidance and God's truth, God's riches or God's life---but over and above the individual movements by which he touches and uplifts and enables the individual person, to His outside of that, something which we would say, relatively speaking, in which He is objective, in which God makes known His will as a whole plane and philosophy of life. Now, in the Hare Kṛṣṇa would you have something of that equivalent? You would have sacred writings. I know that. But would you have anything that would sort of correspond to a living interpretive voice or a living interpretation of the will of God, irrespective of what God says to me as an individual in the recesses of my own heart and soul? I don't know whether I spoke too much there, or whether I am clear.
+
+**Prabhupāda:**
+I don't think there is individual instruction. There is individual instruction, but that is subordinate. The general instruction is that one should be fully surrendered to God. That is general instruction. Now, if one is fully surrendered, then in a particular case and particular circumstances, God gives him instruction what to do. So because in this material world circumstances are different, so that is not very extraordinary. According to circumstances, He gives him. But general instruction is there, and they are recorded in the scripture. That general instruction must be followed, that one cannot say that "God is dictating through me something to do even against the general instruction." That is not possible. That is not possible. The general instruction must be followed.
+
+**Bishop Kelly:**
+Yes. Well, I'm very pleased. But now perhaps you might like to ask me something. I've been asking you many things. You might like to ask me something, might like to ask me something about Australia, as I see it, or, you know, the conditions of our society here, of our culture.
+
+**Prabhupāda:**
+One who is following the general instruction, then you can understand that he has actually fully surrendered to God. Then in particular case, if he is required to be given a particular instruction, that is different thing. That is also possible. But how one is God conscious, that is understood that how he is strictly following the general instruction. And otherwise it will be escaping. Somebody will say, "God is dictating me in this way, so I can do this." [chuckles] Then everyone can say like that.
+
+**Bishop Kelly:**
+That is true. That is true. Did you wish me to take this away, or I have to look at it here?
+
+**Satsvarūpa:**
+May he keep the book, or...
+
+**Prabhupāda:**
+No, this is the only one sample I have got. But as soon as we get more copies, we shall be very glad.
+
+**Bishop Kelly:**
+I will leave that. I will return your glasses. [laughter] I hope mine are outside.
+
+**Prabhupāda:**
+Hare Kṛṣṇa.
+
+**Bishop Kelly:**
+So I am very pleased to have had the opportunity of meeting with you, Your Grace.
+
+**Prabhupāda:**
+So I am also, that Your Holiness has come.
+
+**Bishop Kelly:**
+I hope that, you know, that the in some real way that the cause of God will be served the better for this meeting. I do wish you Godspeed in your work, and in that, of course...
+
+**Prabhupāda:**
+Yes, we are trying our bit to educate people how to revive his original God consciousness. Then he will be happy. Our principle is how to make people happy. There is a verse about the Gosvāmīs, //nānā-śāstra-vicāraṇaika-nipuṇau sad-dharma-saṁsthāpakau lokānāṁ hita-kāriṇau.// This word is very important, //lokānāṁ hita-kāriṇau:// "for the welfare of the people in general." People accuse sometimes---of course, foolish people do that---that "These God conscious person, they are escaping." No. Who are actually God conscious person is always thinking how to do well to the people in general. Yes. //Sad-dharma-saṁsthāpakau.// Give it... You can take.
+
+**Bishop Kelly:**
+Banana? Or piece of pineapple.
+
+**Prabhupāda:**
+No, take other thing. Keep it there. You take the whole thing.
+
+**Bishop Kelly:**
+The whole? Oh, no, no. [laughter] No. No. Oh, no.
+
+**Prabhupāda:**
+Give to that gentleman.
+
+**Bishop Kelly:**
+My confrere might be better at that than I am.
+
+[indistinct comment by Bishop's associate] [end]

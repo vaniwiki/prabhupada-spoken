@@ -1,0 +1,61 @@
+~~Title: Lecture [Hindi] — April 9, 1976, Vṛndāvana~~
+~~bc: April 9, 1976, Vṛndāvana~~
+====== Lecture [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 760409le.vrn
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1976-04-09
+showdate_hidden  : 2020-04-09
+listplace_hidden : Vṛndāvana
+Type_spoken      : Hindi
+Date_spoken      : April 9
+Year_spoken      : 1976
+Place_spoken     : Vṛndāvana
+Length_hidden    : 38:04
+Title_hidden     : Lecture [Hindi]
+----
+
+<audio>
+{{spoken:760409le.vrn_hindi.mp3|Lecture [Hindi] — April 9, 1976, Vṛndāvana}}
+</audio>
+
+**Prabhupāda:**
+
+> oṁ ajñāna-timirāndhasya
+> jñānāñjana-śalākayā
+> cakṣur unmīlitaṁ yena
+> tasmai śrī-gurave namaḥ
+
+> śrī-caitanya-mano-'bhīṣṭaṁ
+> sthāpitaṁ yena bhū-tale
+> svayaṁ rūpaḥ kadā mahyaṁ
+> dadāti sva-padāntikam
+
+> he kṛṣṇa karuṇā-sindho
+> dīna-bandho jagat-pate
+> gopeśa gopikā-kānta
+> rādhā-kānta namo 'stu te
+
+> tapta-kāñcana-gaurāṅgi
+> rādhe vṛndāvaneśvari
+> vṛṣabhānu-sute devi
+> praṇamāmi hari-priye
+
+> vāñchā-kalpatarubhyaś ca
+> kṛpā-sindhubhya eva ca
+> patitānāṁ pāvanebhyo
+> vaiṣṇavebhyo namo namaḥ
+
+> śrī-kṛṣṇa-caitanya
+> prabhu-nityānanda
+> śrī-advaita gadādhara
+> śrīvāsādi-gaura-bhakta-vṛnda
+
+> hare kṛṣṇa hare kṛṣṇa
+> kṛṣṇa kṛṣṇa hare hare
+> hare rāma hare rāma
+> rāma rāma hare hare
+
+[Hindi]
+

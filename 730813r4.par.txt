@@ -1,0 +1,106 @@
+~~Title: Room Conversation with French Nun — August 13, 1973, Paris~~
+~~bc: August 13, 1973, Paris~~
+====== Room Conversation with French Nun ======
+
+---- dataentry spoken ----
+id_hidden        : 730813r4.par
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1973-08-13
+showdate_hidden  : 2020-08-13
+listplace_hidden : Paris
+Type_spoken      : Room Conversation
+Date_spoken      : August 13
+Year_spoken      : 1973
+Place_spoken     : Paris
+Length_hidden    : 05:07
+Title_hidden     : Room Conversation With French Nun
+----
+
+<audio>
+{{spoken:730813r4.par.mp3|Room Conversation with French Nun — August 13, 1973, Paris}}
+</audio>
+
+**Yogeśvara:**
+She's asking... This is a French nun, and she wishes to know whether for us Christ is the son of God or is He God Himself, or what is the identity of Lord Jesus Christ?
+
+**Prabhupāda:**
+Yes. Jesus Christ says that he's son of God. That's all right. We accept.
+
+**Yogeśvara:**
+[translates French throughout] [break]
+
+**Prabhupāda:**
+...ordinary son. And he's powerful son. [break]
+
+**Yogeśvara:**
+...question. She asks what is the difference between our understanding of reincarnation and the Christian concept of the resurrection of Jesus Christ. Christ said he would come again. Is there a difference? Is it the same thing?
+
+**Prabhupāda:**
+I don't find anything.
+
+**Yogeśvara:**
+There was this gentleman this afternoon who was asking you about people who are constantly..., constantly being tested by all kinds of miserable circumstances. She asks: Is it not a sign of a soul that God has chosen to favor that he sends them such miserable conditions of material life?
+
+**Prabhupāda:**
+Yes. Devotee, in miserable condition, they accept it as a favor of God. [break] ...in the //Bhāgavata://
+
+> tat te 'nukampāṁ susamīkṣamāṇo
+> bhuñjāna evātma-kṛtaṁ vipākam
+> hṛd-vāg-vapurbhir vidadhan namas te
+> jīveta yo mukti-pade sa dāya-bhāk
+> [SB 10.14.8]
+
+We are put sometimes in difficult position. But a devotee takes the difficult position as mercy of God. [break]
+
+**Yogeśvara:**
+She, she asks you for an explanation of an event that happened to her sister. Her sister died at the age of five and a half years. And just before her death, she apparently was able to explain some of her past lifetimes to her mother, that she had formerly been a princess or of noble birth, and that now she was being called. Is there some explanation for that?
+
+**Prabhupāda:**
+Yes. She remembers of her last birth. That is quite possible. Because we are changing body. So one who can remember about his past life, they are called //jāta-smaraṇa.//
+
+**Yogeśvara:**
+//Jāta-smaraṇa?//
+
+**Prabhupāda:**
+One who can remember about his past life. [break] ...means forgetting everything of the past life. [break] ...times a person remembers. [break]
+
+**Yogeśvara:**
+She asks for a definition of the word "occult." What is something that is occult, something occult, or mystic? What is it?
+
+**Prabhupāda:**
+Mystic?
+
+**Yogeśvara:**
+Mystic. What is mysticism?
+
+**Prabhupāda:**
+I do not say anything on mysticism. Mystic, something, it is called //rahasya.//
+
+**Yogeśvara:**
+//Rahasya?//
+
+**Prabhupāda:**
+//Rahasya.// Something wonderful. Is that meaning, mystic?
+
+**Indian man:**
+Mystic... I mean. I think when Western historians and literators explain Indian religious literature, especially literature of //bhakti-mārga,// they term that those are the mystics, and also they term the Sufi poets are mystics. [break]
+
+**Prabhupāda:**
+...say mystic means //rahasya.//
+
+**Yogeśvara:**
+//Rahasya.//
+
+**Prabhupāda:**
+//Rahasya// means it is little difficult to understand. [break]
+
+**French Nun:**
+[French] [break]
+
+**Prabhupāda:**
+Just like Kṛṣṇa says in the //Bhagavad-gītā, rahasyam, rahasyam etad uttamam. Rahasyam etad uttamam.// This //Bhagavad-gītā// is the first-class mystic. //Rahasyam etad uttamaṁ, bhakto 'si me priyo 'si me// [[books:bg:4:3|[Bg. 4.3]]]: "Because you are My devotee, you are My dear friend, you'll understand."
+
+So mysticism is not understandable by common man. It requires a special qualification. Just like to understand, it is also mysticism---understand, to understand God. This is also mystic. It is not understandable by ordinary man.
+
+**Yogeśvara:**
+[French] [end]

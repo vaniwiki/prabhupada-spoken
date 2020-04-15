@@ -1,0 +1,22 @@
+~~Title: Lecture [Bengali] — October 16, 1974, Māyāpur~~
+~~bc: October 16, 1974, Māyāpur~~
+====== Lecture [Bengali] ======
+
+---- dataentry spoken ----
+id_hidden        : 741016le.may
+listtype_hidden  : Lecture [Bengali]
+listdate_hidden  : 1974-10-16
+showdate_hidden  : 2020-10-16
+listplace_hidden : Māyāpur
+Type_spoken      : Bengali
+Date_spoken      : October 16
+Year_spoken      : 1974
+Place_spoken     : Māyāpur
+Length_hidden    : 00:38
+Title_hidden     : Lecture [Bengali]
+----
+
+<audio>
+{{spoken:741016le.may_bengali.mp3|Lecture [Bengali] — October 16, 1974, Māyāpur}}
+</audio>
+

@@ -1,0 +1,53 @@
+~~Title: Morning Walk, [partially recorded] — March 3, 1974, Māyāpur~~
+~~bc: March 3, 1974, Māyāpur~~
+====== Morning Walk, [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 740303mw.may
+listtype_hidden  : Morning Walk, [partially recorded]
+listdate_hidden  : 1974-03-03
+showdate_hidden  : 2020-03-03
+listplace_hidden : Māyāpur
+Type_spoken      : Morning Walk
+Date_spoken      : March 3
+Year_spoken      : 1974
+Place_spoken     : Māyāpur
+Length_hidden    : 01:35
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:740303mw.may.mp3|Morning Walk, [partially recorded] — March 3, 1974, Māyāpur}}
+</audio>
+
+**Nitāi:**
+[testing tape recorder]
+
+> hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
+> hare rāma hare rāma rāma rāma hare hare
+
+[break]
+
+**Prabhupāda:**
+So that signboard... [break] Go on. Yes.
+
+**Nitāi:**
+What's the story behind the rediscovery of Māyāpur?
+
+**Prabhupāda:**
+Eh?
+
+**Nitāi:**
+Is there some story related to the way in which Māyāpur was found by Jagannātha dāsa Bābājī?
+
+**Prabhupāda:**
+The Ganges is going sometimes that side, then this side. So it was under the impression that original Caitanya Mahāprabhu's birth site is now under water. Or there were many theories and suggestions. Later on, Jagannātha dāsa Bābājī said that "Here is the..." [aside:] Hare Kṛṣṇa.
+
+**Nitāi:**
+In previous days, it was a very big city.
+
+**Prabhupāda:**
+[to passerby] [Bengali]
+
+**Indian man:**
+//Ācchā.// [end]

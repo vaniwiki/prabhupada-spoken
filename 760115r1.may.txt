@@ -1,0 +1,27 @@
+~~Title: Room Conversation — January 15, 1976, Māyāpur~~
+~~bc: January 15, 1976, Māyāpur~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 760115r1.may
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1976-01-15
+showdate_hidden  : 2020-01-15
+listplace_hidden : Māyāpur
+Type_spoken      : Room Conversation
+Date_spoken      : January 15
+Year_spoken      : 1976
+Place_spoken     : Māyāpur
+Length_hidden    : 01:30
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{spoken:760115r1.may.mp3|Room Conversation — January 15, 1976, Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+So, of course, those days also not costly, 1945. I was paying only 200 rupees. Now you cannot get one room. So because it was famous, that ghost-hauntly house, nobody was taking it. So I took it. [laughs] I don’t care for ghost. Actually there was ghost. And all the servants, they said, "Bābājī, therefore retire." They met. But I was chanting. [break] [man heard in another room ringing bell and chanting //mantras//] He is going to chant?
+
+**Bhavānanda:**
+I think he washed his hands. This is his father here. [break] [end]

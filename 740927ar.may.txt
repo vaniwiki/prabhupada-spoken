@@ -1,0 +1,41 @@
+~~Title: Arrival Talk — September 27, 1974, Māyāpur~~
+~~bc: September 27, 1974, Māyāpur~~
+====== Arrival Talk ======
+
+---- dataentry spoken ----
+id_hidden        : 740927ar.may
+listtype_hidden  : Arrival Talk
+listdate_hidden  : 1974-09-27
+showdate_hidden  : 2020-09-27
+listplace_hidden : Māyāpur
+Type_spoken      : Lecture
+Date_spoken      : September 27
+Year_spoken      : 1974
+Place_spoken     : Māyāpur
+Length_hidden    : 06:48
+Title_hidden     : Arrival Talk
+----
+
+<audio>
+{{spoken:740927ar.may.mp3|Arrival Talk — September 27, 1974, Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+So Śrīman Jayapatāka Mahārāja, Bhavānanda Mahārāja and devotees, I thank you very much for keeping this temple, Māyāpur-candrodaya Mandira, so nicely cleansed, and it appears everything is going nicely. So it was the desire of Śrīla Bhaktivinoda Ṭhākura that Europeans and Americans would come here and chant Hare Kṛṣṇa //mantra.// That prophecy is now being fulfilled, and that is my satisfaction. I tried my little bit to fulfill the desire of Bhaktivinoda Ṭhākura. At my old age of seventy years, I just... It was a gambling also. I simply thought that "This was the desire..." Of course, my Guru Mahārāja, Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda, he also asked me to do this. Anyway, at least there is a place now when..., where these Europeans and Americans may come and live peacefully, chant Hare Kṛṣṇa //mahā-mantra// and advance in spiritual understanding.
+
+People, unfortunately, they have no sense what is spiritual life, the modern civilization. They do not know that we have to change this body, as it is stated in the //Bhagavad-gītā, tathā dehāntara-prāptiḥ// [[books:bg:2:13|[Bg. 2.13]]]. Just like animals, cats and dogs, they do not know that they have to change the body or they are not the body, they are beyond, something. This is the modern civilization. They try to make the best use of a bad bargain in this way, that "We have got this body. Let us enjoy senses to the utmost." But that is not the fact. Sense enjoyment means infection of the material modes of nature. That is sense enjoyment. Just like we infect some disease, and that disease will come out some day, will be manifested. They are called //kūṭastha, phalonmukha// and //prārabdha.// Three stages. Infection... The same example. Infection remains in dormant stage, not manifest immediately. Then //phalonmukha,// fructifying; and then //prārabdha,// one gets it and suffers. This is the nature's way, going on. But people do not know it.
+
+Therefore our Kṛṣṇa consciousness movement is very serious movement, scientific movement, and people are gradually trying to understand the importance of this movement. Because in the foreign countries, especially in America, our books are being accepted by higher circle, big, big universities, colleges, professors. They are so eager to read the books that they have simply heard that this //Bhāgavatam// will be finished in sixty volumes and //Caitanya-caritāmṛta// will be finished in twelve volumes... We have got //Caitanya-caritāmṛta// only one volume published, and they are ordering for twelve volumes, that "As soon as it is published, you send us." This is very encouraging. Similarly, they are ordering for sixty volumes of //Śrīmad-Bhāgavatam,// although we have published only twelve volumes.
+
+So by the grace of Lord Caitanya Mahāprabhu, as He wanted...
+
+> pṛthivīte āche yata nagarādi grāma
+> sarvatra pracāra haibe mora nāma
+> [CB Antya-khaṇḍa 4.126]
+
+So at least the basic principles is being done, and I am very much thankful to you, you American, European boys and girls who are helping me in this mission. So go on cooperating in this way, and I am sure this mission of Caitanya Mahāprabhu will be successful. It must be successful, because Śrī Caitanya Mahāprabhu wanted it to be done. Simply we, the workers, the servitors, must be very sincere. Then Caitanya Mahāprabhu will give us more and more facilities so that we can work very well. So keep this mission always in view and do your best. That is my only request.
+
+Thank you very much.
+
+**Devotees:**
+//Haribol.// [end]

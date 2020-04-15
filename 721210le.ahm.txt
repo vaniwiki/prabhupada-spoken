@@ -1,0 +1,23 @@
+~~Title: Lecture [Hindi] — December 10, 1972, Ahmedabad~~
+~~bc: December 10, 1972, Ahmedabad~~
+====== Lecture [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 721210le.ahm
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1972-12-10
+showdate_hidden  : 2020-12-10
+listplace_hidden : Ahmedabad
+Type_spoken      : Hindi
+Date_spoken      : December 10
+Year_spoken      : 1972
+Place_spoken     : Ahmedabad
+Length_hidden    : 33:11
+Title_hidden     : Lecture [Hindi]
+----
+
+<audio>
+{{spoken:721210le.ahm_hindi.mp3|Lecture [Hindi] — December 10, 1972, Ahmedabad}}
+</audio>
+
+**Prabhupāda:**

@@ -1,0 +1,27 @@
+~~Title: SB 1.2.6 [Hindi] — January 8, 1973, Bombay~~
+~~bc: January 8, 1973, Bombay~~
+====== Śrīmad-Bhāgavatam 1.2.6 [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 730108sb.bom
+listtype_hidden  : SB 1.2.6 [Hindi]
+listdate_hidden  : 1973-01-08
+showdate_hidden  : 2020-01-08
+listplace_hidden : Bombay
+Type_spoken      : Hindi
+Date_spoken      : January 8
+Year_spoken      : 1973
+Place_spoken     : Bombay
+Length_hidden    : 58:25
+Title_hidden     : Śrīmad-Bhāgavatam 1.2.6 [Hindi]
+----
+
+<audio>
+{{spoken:730108sb.bom_hindi.mp3|SB 1.2.6 [Hindi] — January 8, 1973, Bombay}}
+</audio>
+
+**Prabhupāda:**
+
+> ...ahaituky apratihatā
+> yayātmā suprasīdati
+> [[books:sb:1:2:6|[SB 1.2.6]]]

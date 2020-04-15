@@ -1,0 +1,38 @@
+~~Title: Comment — December 3, 1973, Los Angeles~~
+~~bc: December 3, 1973, Los Angeles~~
+====== Comment ======
+
+---- dataentry spoken ----
+id_hidden        : 731203cm.la
+listtype_hidden  : Comment
+listdate_hidden  : 1973-12-03
+showdate_hidden  : 2020-12-03
+listplace_hidden : Los Angeles
+Type_spoken      : Various
+Date_spoken      : December 3
+Year_spoken      : 1973
+Place_spoken     : Los Angeles
+Length_hidden    : 00:25
+Title_hidden     : Comment
+----
+
+<audio>
+{{spoken:731203cm.la.mp3|Comment — December 3, 1973, Los Angeles}}
+</audio>
+
+**Devotees:**
+//Jaya// Prabhupāda.
+
+**Prabhupāda:**
+So, what is next //kīrtana?//
+
+Thank you.
+
+> kīrtanād eva kṛṣṇasya
+> mukta-saṅgaḥ paraṁ vrajet
+> [SB 12.3.51]
+
+What is this? Oh!? Thank you.
+
+**Devotees:**
+//Jaya!// [end]

@@ -1,0 +1,50 @@
+~~Title: Hari Hari Biphale — April 2, 1972, Sydney ~~
+~~bc: April 2, 1972, Sydney ~~
+====== Hari Hari Biphale ======
+
+---- dataentry spoken ----
+id_hidden        : 720402mu.syd
+listtype_hidden  : Hari Hari Biphale
+listdate_hidden  : 1972-04-02
+showdate_hidden  : 2020-04-02
+listplace_hidden : Sydney 
+Type_spoken      : Song Purport
+Date_spoken      : April 2
+Year_spoken      : 1972
+Place_spoken     : Sydney 
+Length_hidden    : 13:09
+Title_hidden     : Hari Hari Biphale
+----
+
+<audio>
+{{spoken:720402mu.syd.mp3|Hari Hari Biphale — April 2, 1972, Sydney }}
+</audio>
+
+**Prabhupāda:**
+
+> hari hari! bifale janama goṅāinu
+> manuṣya-janama pāiyā, rādhā-kṛṣṇa nā bhajiyā,
+> jāniyā śuniyā biṣa khāinu
+
+**[O Lord Hari, I have wasted my life. Although I have taken this rare human birth, I have not served Rādhā and Kṛṣṇa, and thus I have knowingly drunk poison.]**
+
+> golokera prema-dhana, hari-nāma-saṅkīrtana,
+> rati nā janmilo kene tāy
+> saṁsāra-biṣānale, dibā-niśi hiyā jwale,
+> jurāite nā koinu upāy
+
+**[The treasure of divine love in Goloka Vṛndāvana has descended as the congregational chanting of Lord Hari’s holy names. Why did my attraction for that chanting never come about? Day and night my heart burns in the fire of the poison of worldliness, and I have not accepted the means for relieving it.]**
+
+> brajendra-nandana jei, śacī-suta hoilo sei,
+> balarāma hoilo nitāi
+> dīna-hīna jata chilo, hari-nāme uddhārilo,
+> tāra śākṣī jagāi mādhāi
+
+**[Lord Kṛṣṇa, the son of the King of Vraja, became the son of Śacī, and Balarāma became Nitāi. The holy name delivered all those souls who were lowly and wretched. The two sinners Jagāi and Mādhāi are evidence of this.]**
+
+> hā hā prabhu nanda-suta, vṛṣabhānu-sutā-juta,
+> koruṇā karoho ei-bāro
+> narottama-dāsa koy, nā ṭheliho rāṅgā pāy,
+> tomā bine ke āche āmāra
+
+**[O Lord Kṛṣṇa, son of Nanda, accompanied by the daughter of Vṛṣabhānu, please be merciful to me now. Narottama Dāsa says, "O Lord, please do not push me away from Your reddish lotus feet, for who is my beloved except for You?"]**

@@ -1,0 +1,22 @@
+~~Title: Lecture [Bengali] — March 12, 1973, Calcutta~~
+~~bc: March 12, 1973, Calcutta~~
+====== Lecture [Bengali] ======
+
+---- dataentry spoken ----
+id_hidden        : 730312le.cal
+listtype_hidden  : Lecture [Bengali]
+listdate_hidden  : 1973-03-12
+showdate_hidden  : 2020-03-12
+listplace_hidden : Calcutta
+Type_spoken      : Bengali
+Date_spoken      : March 12
+Year_spoken      : 1973
+Place_spoken     : Calcutta
+Length_hidden    : 22:30
+Title_hidden     : Lecture [Bengali]
+----
+
+<audio>
+{{spoken:730312le.cal_bengali.mp3|Lecture [Bengali] — March 12, 1973, Calcutta}}
+</audio>
+

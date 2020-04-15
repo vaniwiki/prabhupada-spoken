@@ -1,0 +1,48 @@
+~~Title: Room Conversation — December 15, 1970, Surat~~
+~~bc: December 15, 1970, Surat~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 701215rc.sur
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1970-12-15
+showdate_hidden  : 2020-12-15
+listplace_hidden : Surat
+Type_spoken      : Room Conversation
+Date_spoken      : December 15
+Year_spoken      : 1970
+Place_spoken     : Surat
+Length_hidden    : 00:00
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/701215rc.sur.mp3|Room Conversation — December 15, 1970, Surat}}
+</audio>
+
+**Prabhupāda:**
+You understand what is the meaning of //Bhāgavata,// this word, //Bhāgavata?// You understand? These are the common questions. If you do not understand this common question then how you can instruct others?
+
+**Guest (1):**
+[indistinct]
+
+**Prabhupāda:**
+That's all right but do not take the position of a teacher unless you have assimilated the whole thing. Simply by hearing others you may misunderstand, you may not present the real thing. Therefore I'm asking you...
+
+**Guest (1):**
+[indistinct]
+
+**Prabhupāda:**
+[Hindi] [indistinct] but you must know. Another thing is that you must know //Śrīmad-Bhāgavatam// from a //bhāgavata,// whose life is //bhāgavata.// First of all you must know what is //bhāgavata.// What is //bhāgavata?// Can you give me idea what you have understood? Instead of going through the instruction, first of all let me understand what do you understand about this [indistinct] //Śrīmad-Bhāgavatam.// That is essential. So you cannot explain what is //Śrīmad-Bhāgavatam.// You have read //Bhāgavatam// from the beginning? //Dharma projjhita kaitavo atra.// You have read?
+
+**Guest (1):**
+Yes.
+
+**Prabhupāda:**
+Eh? You have not read even the first verse and you are going to give instruction on //Bhāgavatam?// Your life should be //bhāgavata.// You should understand what is //bhāgavata.// Simply by [indistinct] words from others how can you accept?
+
+**Guest (1):**
+[indistinct]
+
+**Prabhupāda:**
+Huh? So I bless[?] you that you try to understand. Then you write. That is my request. That's alright, alright. [end]

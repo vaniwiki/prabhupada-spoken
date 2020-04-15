@@ -1,0 +1,55 @@
+~~Title: Room Conversation with Gaurachand Gosvāmī — March 11, 1972, Vṛndāvana~~
+~~bc: March 11, 1972, Vṛndāvana~~
+====== Room Conversation with Gaurachand Gosvāmī ======
+
+---- dataentry spoken ----
+id_hidden        : 720311r1.vrn
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1972-03-11
+showdate_hidden  : 2020-03-11
+listplace_hidden : Vṛndāvana
+Type_spoken      : Room Conversation
+Date_spoken      : March 11
+Year_spoken      : 1972
+Place_spoken     : Vṛndāvana
+Length_hidden    : 17:31
+Title_hidden     : Room Conversation with Gaurachand Gosvāmī at the Rādhā-Dāmodara Temple [mostly Bengali]
+----
+
+<audio>
+{{spoken:720311r1.vrn.mp3|Room Conversation with Gaurachand Gosvāmī — March 11, 1972, Vṛndāvana}}
+</audio>
+
+[Prabhupāda converses in Bengali with guests for a couple of minutes]
+
+**Prabhupāda:**
+Where is Kṣīrodakaśāyī? Hmm? So that... You want to go immediately?
+
+**Kṣīrodakaśāyī:**
+Quarter to eleven I give the time to start from here to reach...
+
+**Prabhupāda:**
+What is the time now?
+
+**Kṣīrodakaśāyī:**
+Twenty past...
+
+**Devotee:**
+Ten fifteen.
+
+**Kṣīrodakaśāyī:**
+Quarter past ten.
+
+**Prabhupāda:**
+So you want the check immediately?
+
+**Kṣīrodakaśāyī:**
+We have to buy the stamp, Prabhupāda.
+
+**Prabhupāda:**
+No, the check will not buy stamp; you have to take money.
+
+**Kṣīrodakaśāyī:**
+Yes, I will give the check to the man, and then he will give the cash to..., before we go to Mathurā.
+
+[Prabhupāda converses in Bengali with guests] [break] [end]

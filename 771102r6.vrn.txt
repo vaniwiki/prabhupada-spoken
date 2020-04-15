@@ -1,0 +1,24 @@
+~~Title: Room Conversation [partially recorded] — November 2, 1977, Vṛndāvana~~
+~~bc: November 2, 1977, Vṛndāvana~~
+====== Room Conversation [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 771102r6.vrn
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1977-11-02
+showdate_hidden  : 2020-11-02
+listplace_hidden : Vṛndāvana
+Type_spoken      : Room Conversation
+Date_spoken      : November 2
+Year_spoken      : 1977
+Place_spoken     : Vṛndāvana
+Length_hidden    : 01:56
+Title_hidden     : Room Conversation [partially recorded]
+----
+
+<audio>
+{{spoken:771102r6.vrn.mp3|Room Conversation [partially recorded] — November 2, 1977, Vṛndāvana}}
+</audio>
+
+**Bhavānanda:**
+Actually, I think you're the only one on the whole planet who is not Māyāvādī---Māyāvādī or influenced by Māyāvādī philosophy. Actually, until you came to the West, the only philosophy that had come to America from India was Māyāvādī philosophy. No one knew anything else. [break] [end]

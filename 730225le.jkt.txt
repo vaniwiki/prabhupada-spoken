@@ -1,0 +1,32 @@
+~~Title: Lecture [partially recorded] — February 25, 1973, Jakarta~~
+~~bc: February 25, 1973, Jakarta~~
+====== Lecture [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 730225le.jkt
+listtype_hidden  : Lecture [partially recorded]
+listdate_hidden  : 1973-02-25
+showdate_hidden  : 2020-02-25
+listplace_hidden : Jakarta
+Type_spoken      : Lecture
+Date_spoken      : February 25
+Year_spoken      : 1973
+Place_spoken     : Jakarta
+Length_hidden    : 02:29
+Title_hidden     : Lecture [partially recorded]
+----
+
+<audio>
+{{spoken:730225le.jkt.mp3|Lecture [partially recorded] — February 25, 1973, Jakarta}}
+</audio>
+
+[Poor Recording]
+
+**Prabhupāda:**
+...all politicians, let them come and study.
+
+[break] ...this is not a movement sentimental. No. It is scientific. That is why one should... [indistinct] ...Christian, anyone, because it is science. Automatic, "Two plus two equal to four." It is four for everyone. Not that because one is Muhammadan then it will be five, or because one is Christian it will be three. No. "Two plus two equal to four." Just like [indistinct] two. Similarly, this Kṛṣṇa consciousness movement will be efficient for everyone if he studies impartially. Otherwise, how in the Western world the Americans---they are not foolish people, all these young men; they are qualified, educated---they're accepting this movement very seriously? I have got many branches almost in every city in America. Similarly, in Europe. Why not here?
+
+Simply I invite all the intelligent class of men to understand. Take one of our books. We have given not only one //Bhagavad-gītā...// [indistinct] means universe. Anyone can take part in the Kṛṣṇa [indistinct] illiterate, literate, rich, poor---anyone. But if anyone is proud of his education, let him come and study our books, understand this philosophy, and I'm sure he'll find satisfying. Don't take it as something sentimental, religious [indistinct]. No. It is a scientific, educational movement. Take it in that light, and you'll be profited.
+
+Thank you very much. Hare Kṛṣṇa. [applause] [end]

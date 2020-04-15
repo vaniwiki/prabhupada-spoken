@@ -1,0 +1,24 @@
+~~Title: Room Conversation [Hindi] — August 14, 1976, Bombay~~
+~~bc: August 14, 1976, Bombay~~
+====== Room Conversation [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 760814r2.bom
+listtype_hidden  : Conversation [Hindi]
+listdate_hidden  : 1976-08-14
+showdate_hidden  : 2020-08-14
+listplace_hidden : Bombay
+Type_spoken      : Hindi
+Date_spoken      : August 14
+Year_spoken      : 1976
+Place_spoken     : Bombay
+Length_hidden    : 41:37
+Title_hidden     : Room Conversation [Hindi]
+----
+
+<audio>
+{{spoken:760814r2.bom_hindi.mp3|Room Conversation [Hindi] — August 14, 1976, Bombay}}
+</audio>
+
+**Prabhupāda:**
+[Hindi]

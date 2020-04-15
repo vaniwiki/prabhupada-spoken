@@ -1,0 +1,33 @@
+~~Title: Room Conversation [partially recorded] — May 28, 1977, Vṛndāvana~~
+~~bc: May 28, 1977, Vṛndāvana~~
+====== Room Conversation [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 770528r1.vrn
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1977-05-28
+showdate_hidden  : 2020-05-28
+listplace_hidden : Vṛndāvana
+Type_spoken      : Room Conversation
+Date_spoken      : May 28
+Year_spoken      : 1977
+Place_spoken     : Vṛndāvana
+Length_hidden    : 01:33
+Title_hidden     : Room Conversation [partially recorded]
+----
+
+<audio>
+{{spoken:770528r1.vrn.mp3|Room Conversation [partially recorded] — May 28, 1977, Vṛndāvana}}
+</audio>
+
+**Prabhupāda:**
+Oh! [break] //Kaunteya pratijānīhi na me bhaktaḥ praṇaśyati// [[books:bg:9:31|[Bg. 9.31]]]. Anyone who has given sincere service to Kṛṣṇa for any one day, he cannot go away. He has Kṛṣṇa's protection. This life, that life. What is that verse you were reading? //Tyaktvā sva-dharmaṁ caraṇāmbujaṁ harer patet tato yadi bhajann apakvaḥ// [[books:sb:1:5:17|[SB 1.5.17]]].
+
+**Indian devotee (1):**
+//Kva vā abhadram abhūd amuṣya kim.//
+
+**Prabhupāda:**
+Ah. //Kva vā abhadram abhūd amuṣya kim.// One day, little service to Kṛṣṇa, immediately permanent account. It will never go in vain. But we should not for that reason neglect. That is not good. //Tasyaiva hetoḥ prayateta kovido na labhyate yad bhramatām// [[books:sb:1:5:18|[SB 1.5.18]]]. Hare Kṛṣṇa. Such a nice thing.
+
+**Tamāla Kṛṣṇa:**
+Śrīla Prabhupāda? The devotees want to know if... [end]

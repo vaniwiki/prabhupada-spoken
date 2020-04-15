@@ -1,0 +1,22 @@
+~~Title: Lecture [Bengali] — October 7, 1974, Māyāpur~~
+~~bc: October 7, 1974, Māyāpur~~
+====== Lecture [Bengali] ======
+
+---- dataentry spoken ----
+id_hidden        : 741007le.may
+listtype_hidden  : Lecture [Bengali]
+listdate_hidden  : 1974-10-07
+showdate_hidden  : 2020-10-07
+listplace_hidden : Māyāpur
+Type_spoken      : Bengali
+Date_spoken      : October 7
+Year_spoken      : 1974
+Place_spoken     : Māyāpur
+Length_hidden    : 01:27
+Title_hidden     : Lecture [Bengali]
+----
+
+<audio>
+{{spoken:741007le.may_bengali.mp3|Lecture [Bengali] — October 7, 1974, Māyāpur}}
+</audio>
+

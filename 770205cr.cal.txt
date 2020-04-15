@@ -1,0 +1,45 @@
+~~Title: Car Conversation — February 5, 1977, Calcutta~~
+~~bc: February 5, 1977, Calcutta~~
+====== Car Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 770205cr.cal
+listtype_hidden  : Car Conversation
+listdate_hidden  : 1977-02-05
+showdate_hidden  : 2020-02-05
+listplace_hidden : Calcutta
+Type_spoken      : Room Conversation
+Date_spoken      : February 5
+Year_spoken      : 1977
+Place_spoken     : Calcutta
+Length_hidden    : 01:36
+Title_hidden     : Car Conversation
+----
+
+<audio>
+{{spoken:770205cr.cal.mp3|Car Conversation — February 5, 1977, Calcutta}}
+</audio>
+
+**Jayapatākā:**
+...and you do little work and get more money. You can buy radio and tape recorder. And working in the field, that is not noble.
+
+**Prabhupāda:**
+Just see how foolish leaders. In the field there is food. They will not work for the food. [break]
+
+**Jayapatākā:**
+...get a big staff after publishing our monthly magazine for some time. And I'm thinking we can... If there's... Like that editor of the //Basumati,// if they join us and help, we can bring a daily paper, and then these can be some of our...
+
+**Prabhupāda:**
+If somebody came to see me, some editor...?
+
+**Jayapatākā:**
+Yes. He wanted to... [break] ...the train station to catch the trains.
+
+**Prabhupāda:**
+Going to Calcutta?
+
+**Jayapatākā:**
+Most likely Calcutta and then different factories and workers. That Hitagar[?] and Chandannagar and all those places.
+
+**Devotee:**
+Calcutta. [end]

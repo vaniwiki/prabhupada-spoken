@@ -1,0 +1,36 @@
+~~Title: Conversation — March 28, 1969, Hawaii~~
+~~bc: March 28, 1969, Hawaii~~
+====== Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 690328cv.haw
+listtype_hidden  : Conversation
+listdate_hidden  : 1969-03-28
+showdate_hidden  : 2020-03-28
+listplace_hidden : Hawaii
+Type_spoken      : Room Conversation
+Date_spoken      : March 28
+Year_spoken      : 1969
+Place_spoken     : Hawaii
+Length_hidden    : 00:00
+Title_hidden     : Conversation
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690328cv.haw.mp3|Conversation — March 28, 1969, Hawaii}}
+</audio>
+
+**Prabhupāda:**
+What is that?
+
+**Govinda dāsī:**
+I was going to turn it on without you knowing it, but you noticed.
+
+**Prabhupāda:**
+Huh?
+
+**Govinda dāsī:**
+I was going to turn it on so I could tape what you were saying without you noticing, but you noticed.
+
+**Prabhupāda:**
+[laughs] Oh. Now you can stop. [end]

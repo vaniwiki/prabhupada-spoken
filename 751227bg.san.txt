@@ -1,0 +1,83 @@
+~~Title: Bg 3.14 [with translator] — December 27, 1975, Sanand~~
+~~bc: December 27, 1975, Sanand~~
+====== Bhagavad-gītā 3.14 [with translator] ======
+
+---- dataentry spoken ----
+id_hidden        : 751227bg.san
+listtype_hidden  : Bg 3.14 [with translator]
+listdate_hidden  : 1975-12-27
+showdate_hidden  : 2020-12-27
+listplace_hidden : Sanand
+Type_spoken      : Bhagavad-gītā
+Date_spoken      : December 27
+Year_spoken      : 1975
+Place_spoken     : Sanand
+Length_hidden    : 20:17
+Title_hidden     : Bhagavad-gītā 3.14 [with translator]
+----
+
+<audio>
+{{spoken:751227bg.san.mp3|Bg 3.14 [with translator] — December 27, 1975, Sanand}}
+</audio>
+
+**Prabhupāda:**
+
+> annād bhavanti bhūtāni
+> parjanyād anna-sambhavaḥ
+> yajñād bhavati parjanyo
+> yajñaḥ karma-samudbhavaḥ
+> [[books:bg:3:14|[Bg. 3.14]]]
+
+[to translator, who translates throughout:] You will translate? No.
+
+**Indian man:**
+You can speak in English. He will translate.
+
+**Prabhupāda:**
+I'll speak in English. So here is a verse from //Śrīmad-Bhagavad-gītā,// Third Chapter, fourteenth verse. //Annād bhavanti bhūtāni.// When I was coming to your village, I saw there are so many agricultural field producing tobacco. So tobacco-producing can give you some money, but you will be shortage of food grains. Bhagavān, the Supreme Personality of Godhead, said that if you want to make happy and prosperous the people in general, then you must produce //anna,// food grains. Bhagavān has not said anywhere that you produce tobacco, jute and similar other things, which are not required at all.
+
+The whole purpose of life is to perform //yajña.// In the //Viṣṇu Purāṇa// there is a verse, //varṇāśramācāravatā puruṣeṇa paraḥ pumān. Varṇāśramācāravatā puruṣeṇa paraḥ pumān, nānyat tat-toṣa-kāraṇam// [[books:cc:madhya:8:58|[Cc. Madhya 8.58, Viṣṇu Purāṇa 3.8.9]]]. //Yajñaiḥ saṅkīrtana-prāyair yajanti hi su-medhasaḥ// [SB 11.5.32]. //Yajña// means to satisfy the //yajña-puruṣa,// Nārāyaṇa, or Bhagavān. In the //Śrīmad-Bhāgavatam// Prahlāda Mahārāja also says,
+
+> na te viduḥ svārtha-gatiṁ hi viṣṇuṁ
+> durāśayā ye bahir-artha-māninaḥ
+> andhā yathāndhair upanīyamānās
+> te 'pīśa-tantryām uru-dāmni baddhāḥ
+> [[books:sb:7:5:31|[SB 7.5.31]]]
+
+The people do not know that the aim of life is to approach Viṣṇu, Lord Viṣṇu. That is the aim of life. //Viṣṇur ārādhyate panthā nānyat tat-toṣa-kāraṇam// [[books:cc:madhya:8:58|[Cc. Madhya 8.58]]].
+
+So //viṣṇu-ārādhana// is the ultimate goal of life. In the //Purāṇas// also, Lord Śiva was instructing Pārvatī, //ārādhanānāṁ sarveṣāṁ viṣṇor ārādhanaṁ param// [Padma Purāṇa]. Lord Śiva said that "Of all different types of worship, the worship of Viṣṇu is topmost." So human life is specially meant for worshiping Viṣṇu. Unfortunately, the blind leaders, they are not teaching people how to execute //viṣṇu-ārādhana.// So this Kṛṣṇa consciousness movement is started just to educate people how to worship Lord Viṣṇu. //Viṣṇor ārādhanaṁ param//---this is our mission to teach all over the world. [break] Kṛṣṇa also says in the //Bhagavad-gītā// that //yajñārthe karmaṇo 'nyatra loko 'yaṁ karma-bandhanaḥ// [[books:bg:3:9|[Bg. 3.9]]]. //Yajñārthe. Yajña// means Viṣṇu. Simply for satisfying Viṣṇu one should act. Any work one is habituated to do, it should be aimed to satisfy Viṣṇu. Otherwise we shall be implicated in the //karma. Karma// means we act in some way under the direction of material energy or illusionary energy, and we become implicated. It is stated in the //Bhagavad-gītā, kāraṇaṁ guṇa-saṅgo 'sya sad-asad-janma-yoniṣu// [[books:bg:13:22|[Bg. 13.22]]]. According to our work and association with particular type of the modes of nature, we get different types of body. If we give up //viṣṇu-ārādhana,// if we give up the aim of achieving the favor of Viṣṇu, then we are becoming implicated in the resultant action of our different activities.
+
+Kṛṣṇa therefore teaches, //yat karoṣi:// "Whatever you do, it doesn't matter." //Yat karoṣi yaj juhoṣi yad aśnāsi yat tapasyasi kuruṣva tad mad-arpaṇam// [[books:bg:9:27|[Bg. 9.27]]]: "Whatever you be, that doesn't matter, but the result should be given to Me." So at the present moment in this age, all over the world people have forgotten Viṣṇu, or God. They are whimsically doing things which will implicate them birth after birth, //sad-asad-janma-yoniṣu,// either higher class of birth or lower class of birth, //sat// and //asat.// But this is not solution of life.
+
+So here in this verse Kṛṣṇa says,
+
+> annād bhavanti bhūtāni
+> parjanyād anna-sambhavaḥ
+> yajñād bhavati parjanyo
+> yajñaḥ karma-samudbhavaḥ
+> [[books:bg:3:14|[Bg. 3.14]]]
+
+So //karma...// Everyone has got different types of occupation. As it is stated in the //Bhagavad-gītā, brahma-karma, kṣatriya-karma, vaiśya-karma, śūdra-karma. Sva-karmaṇā tam abhyarcya saṁsiddhiṁ labhate naraḥ// [[books:bg:18:46|[Bg. 18.46]]]. There is no... In the worship of Kṛṣṇa, there is no such distinction that only the //brāhmaṇas// can offer prayers or worship to Kṛṣṇa, but everyone can offer. //Māṁ hi vyapāśritya ye 'pi syuḥ pāpa-yonayaḥ// [[books:bg:9:32|[Bg. 9.32]]]. Even less than the //śūdras,// they can also take the advantage of worshiping Kṛṣṇa.
+
+So //yajñārthe karmaṇo 'nyatra.// This //karma// should be performed for executing //yajña.// [aside:] Why... Translate. So this //yajña...// Formerly //yajña// was performed very gorgeously. So many //mounds// of //ghee// and grains were put into the fire. But in this age, Kali-yuga, there is neither //ghee// nor grains to offer in the fire, //yajña// fire. Therefore in this Kali-yuga the //yajña// is performed by chanting the holy name of the Lord.
+
+So I do not wish to take very much time. I have got another engagement. My only submission is that you produce enough quantity of food grains. Don't waste your time by producing tobacco. Besides that, in the //śāstra// it is forbidden, //striya sūnā pāna dyūta yatra pāpaś catur-vidhā// [[books:sb:1:17:38|[SB 1.17.38]]]. //Striya, avaidha,// illicit sex; //striya, sūnā, jīva ko hatya,// killing the animals. //Striya sūnā pāna... Pāna// means smoking also. Drinking liquor and smoking. //Dhūma pāna.// This //pāna// is forbidden. //Striya sūnā pāna dyūta,// and //dyūta// means gambling. So these four things, they are considered as sinful activities. And in the //Bhagavad-gītā// it is said,
+
+> yeṣāṁ tv anta-gataṁ pāpaṁ
+> janānāṁ puṇya-karmaṇām
+> te dvandva-moha-nirmuktā
+> bhajante māṁ dṛḍha-vratāḥ
+> [[books:bg:7:28|[Bg. 7.28]]]
+
+Unless one is free from the sinful activities, he cannot be fully engaged in worshiping the Supreme Lord, Kṛṣṇa. So these four principle of sinful activities---illicit sex, and animal-killing, and intoxication, including smoking and drinking tea, and gambling---anyone who wants really benefit of life, human life, they must give up these four principles of sinful life.
+
+Kṛṣṇa therefore says to every one of us,
+
+> sarva-dharmān parityajya
+> mām ekaṁ śaraṇaṁ vraja
+> ahaṁ tvāṁ sarva-pāpebhyo
+> mokṣayiṣyāmi...
+> [[books:bg:18:66|[Bg. 18.66]]]
+
+It is not possible that we can give up sinful activities by our own endeavor, because in this age, Kali-yuga, everyone is addicted to some sort of sinful activities. But if we surrender to Kṛṣṇa as He is instructing, //sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja// [[books:bg:18:66|[Bg. 18.66]]], fully, without any reservation, He will help us to become free from the sinful reactions. [break] [end]

@@ -1,0 +1,37 @@
+~~Title: Lecture [partially recorded] — July 27, 1968, Montreal~~
+~~bc: July 27, 1968, Montreal~~
+====== Lecture [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 680727le.mon
+listtype_hidden  : Lecture [partially recorded]
+listdate_hidden  : 1968-07-27
+showdate_hidden  : 2020-07-27
+listplace_hidden : Montreal
+Type_spoken      : Lecture
+Date_spoken      : July 27
+Year_spoken      : 1968
+Place_spoken     : Montreal
+Length_hidden    : 00:00
+Title_hidden     : Lecture [partially recorded]
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680727le.mon.mp3|Lecture [partially recorded] — July 27, 1968, Montreal}}
+</audio>
+
+**Prabhupāda:**
+
+> ...caitanya prabhu-nityānanda
+> śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+> pañca-tattvātmakaṁ kṛṣṇaṁ
+> bhakta-rūpa svarūpakam
+> bhaktāvatāraṁ bhaktākhyaṁ
+> namāmi bhakta-śaktikam
+
+So Śrī Kṛṣṇa Caitanya is full representation of Kṛṣṇa in six aspects. That is... In the beginning of //Caitanya-caritāmṛta// it has been explained, //vande 'haṁ gurūn īśam īśāvatārakān īśa-bhaktān// [[books:cc:adi:1:1|[Cc. Ādi 1.1]]], //prakāśāṁś ca tac-chaktīḥ,// like that. So the Supreme Personality of Godhead is principally not divided, but He is understood under six primary features. The primary, first feature is guru, because guru gives the initiation to understand the Supreme Personality of Godhead. That feature is represented by Śrī Nityānanda Prabhu. He is the original guru feature, and He is first manifested expansion of Kṛṣṇa.
+
+There is a prayer of Narottama dāsa Ṭhākura in which it has been established that //vrajendra-nandana yei, śacī-suta haila sei, balarāma haila nitāi.// Vrajendra-nandana means Kṛṣṇa, the son of Mahārāja Nanda. Mahārāja Nanda was very rich man. He had ninety hundred thousand of cows. Formerly people were considered rich by possession of cows and grains---not by paper. [laughter] At the present moment, we have got bunch of paper. As soon as the particular government is finished, we are all..., we shall be finished. You simply... Just like in Germany it happened. The mark was selling like anything. You see? So these are not money. Actually money means... Either you say livestock or grain stock, that is money. So in Sanskrit literature we find //dhānyena dhanavān.// One who has got large quantity of paddy, rich, he is rich man. Still in India, in villages, when a daughter is to be offered to a particular house, it is inquired, "How much stock of grains that family has got?" They do not inquire, "How much stock exchange he has got in the bank?" No. But factually, if you have got grains at your home, then there is no question of economic problem. If you have simply got grains and cow, then you won't have to go other place. You are... That was the basic principle of civilization, that you possess some cows and some land so that you can produce foodstuff. That's all. Your whole economic problem is solved. You see?
+
+So therefore so much stress is given for cow protection. Amongst the division of society, the //brāhmaṇas,// the //kṣatriyas// and the //vaiśyas// and the //śūdras... Śūdras// means non-Aryan. And Aryans, they are divided into three higher castes. Caste means according to profession and quality. That is caste. In the //Bhagavad-gītā// it is stated, //cātur-varṇyaṁ mayā sṛṣṭaṁ guṇa-karma-vibhāgaśaḥ// [[books:bg:4:13|[Bg. 4.13]]]. That is factual everywhere. If you have got the quality and if you are working... [end]

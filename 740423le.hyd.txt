@@ -1,0 +1,34 @@
+~~Title: Lecture [Hindi] — April 23, 1974, Hyderabad~~
+~~bc: April 23, 1974, Hyderabad~~
+====== Lecture [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 740423le.hyd
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1974-04-23
+showdate_hidden  : 2020-04-23
+listplace_hidden : Hyderabad
+Type_spoken      : Hindi
+Date_spoken      : April 23
+Year_spoken      : 1974
+Place_spoken     : Hyderabad
+Length_hidden    : 16:56
+Title_hidden     : Lecture [Hindi]
+----
+
+<audio>
+{{spoken:740423le.hyd_hindi.mp3|Lecture [Hindi] — April 23, 1974, Hyderabad}}
+</audio>
+
+**Prabhupāda:**
+
+> śrī-kṛṣṇa-caitanya
+> prabhu-nityānanda
+> śrī-advaita gadādhara
+> śrīvāsādi-gaura-bhakta-vṛnda
+
+> hare kṛṣṇa hare kṛṣṇa
+> kṛṣṇa kṛṣṇa hare hare
+> hare rāma hare rāma
+> rāma rāma hare hare
+

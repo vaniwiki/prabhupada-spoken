@@ -1,0 +1,24 @@
+~~Title: Room Conversation [partially recorded] — March 18, 1971, Bombay~~
+~~bc: March 18, 1971, Bombay~~
+====== Room Conversation [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 710318rc.bom
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1971-03-18
+showdate_hidden  : 2020-03-18
+listplace_hidden : Bombay
+Type_spoken      : Room Conversation
+Date_spoken      : March 18
+Year_spoken      : 1971
+Place_spoken     : Bombay
+Length_hidden    : 00:00
+Title_hidden     : Room Conversation [partially recorded]
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710318rc.bom.mp3|Room Conversation [partially recorded] — March 18, 1971, Bombay}}
+</audio>
+
+**Prabhupāda:**
+Whenever there is sun, there is sunlight, immediately. Where there is light, immediately there is illumination. Just like a drop of poison. You just take a drop of poison as soon as it touches the tongue immediately it expands all over the whole body and it make the whole blood, water, dead. How it expands, a small grain of potassium cyanide? Simply a grain immediately [indistinct]. If a material thing can have so much effect, immediately, the spiritual atom cannot do that? That is called science. Similarly, the biggest spiritual identity, Kṛṣṇa, He can become all-pervading. We are particle spiritual, spark. We have got limited power. [indistinct] //Yena sarvam idaṁ tatam,// "I become immediately expanded throughout My body." And He is unlimitedly big. So how much His consciousness is distributed all over the world? //Sarva-jña.// Therefore Kṛṣṇa is not //abhijña. Svarāṭ. Janmādy asya yato 'nvayād itarataś cārtheśv abhijñaḥ svarāṭ// [[books:sb:1:1:1|[SB 1.1.1]]]. This example is nice. A grain of potassium cyanide is sufficient. There is no taste. The chemical characteristic of potassium cyanide, they have not mentioned the taste because as soon as there is taste, finished, they cannot... [laughter] He cannot say whether it is pungent or sweet. [laughter] Finished. So there is no taste. [end]

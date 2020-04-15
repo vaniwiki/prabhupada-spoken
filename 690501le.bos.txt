@@ -1,0 +1,24 @@
+~~Title: Lecture [partially recorded] — May 1, 1969, Boston~~
+~~bc: May 1, 1969, Boston~~
+====== Lecture [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 690501le.bos
+listtype_hidden  : Lecture [partially recorded]
+listdate_hidden  : 1969-05-01
+showdate_hidden  : 2020-05-01
+listplace_hidden : Boston
+Type_spoken      : Lecture
+Date_spoken      : May 1
+Year_spoken      : 1969
+Place_spoken     : Boston
+Length_hidden    : 00:00
+Title_hidden     : Lecture [partially recorded]
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690501le.bos.mp3|Lecture [partially recorded] — May 1, 1969, Boston}}
+</audio>
+
+**Prabhupāda:**
+...and, I mean to say, ornament Kṛṣṇa, the more you become rich. The reflection... Kṛṣṇa being richly dressed, richly fed, it will be reflected on you. Kṛṣṇa is not in necessity, but we should dress Kṛṣṇa with the first-quality ornaments. In India, the Deities, They are given very, very valuable jewelry. The Muhammadans were attracted for these jewelries. They came to India to plunder the temples to get the jewelries. Still in temples there are millions of dollars of jewelries, temple. In Jagannātha temple there is a valuable jewel just here. It is kept here in a pocket. So the Deities should be very nicely dressed. That will be temple worship. At the same time should also chant. [break---end]

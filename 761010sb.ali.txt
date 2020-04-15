@@ -1,0 +1,31 @@
+~~Title: SB 1.2.6 [Hindi] — October 10, 1976, Aligarh~~
+~~bc: October 10, 1976, Aligarh~~
+====== Śrīmad-Bhāgavatam 1.2.6 [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 761010sb.ali
+listtype_hidden  : SB 1.2.6 [Hindi]
+listdate_hidden  : 1976-10-10
+showdate_hidden  : 2020-10-10
+listplace_hidden : Aligarh
+Type_spoken      : Hindi
+Date_spoken      : October 10
+Year_spoken      : 1976
+Place_spoken     : Aligarh
+Length_hidden    : 62:28
+Title_hidden     : Śrīmad-Bhāgavatam 1.2.6 [Hindi]
+----
+
+<audio>
+{{spoken:761010sb.ali_hindi.mp3|SB 1.2.6 [Hindi] — October 10, 1976, Aligarh}}
+</audio>
+
+**Prabhupāda:**
+
+> sa vai puṁsāṁ paro dharmo
+> yato bhaktir adhokṣaje
+> ahaituky apratihatā
+> yayātmā suprasīdati
+> [[books:sb:1:2:6|[SB 1.2.6]]]
+
+[Hindi]

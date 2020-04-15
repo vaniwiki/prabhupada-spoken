@@ -1,0 +1,340 @@
+~~Title: City Hall Lecture — October 7, 1975, Durban~~
+~~bc: October 7, 1975, Durban~~
+====== City Hall Lecture ======
+
+---- dataentry spoken ----
+id_hidden        : 751007le.dur
+listtype_hidden  : City Hall Lecture
+listdate_hidden  : 1975-10-07
+showdate_hidden  : 2020-10-07
+listplace_hidden : Durban
+Type_spoken      : Lecture
+Date_spoken      : October 7
+Year_spoken      : 1975
+Place_spoken     : Durban
+Length_hidden    : 67:49
+Title_hidden     : City Hall Lecture
+----
+
+<audio>
+{{spoken:751007le.dur.mp3|City Hall Lecture — October 7, 1975, Durban}}
+</audio>
+
+**Prabhupāda:**
+[chants //maṅgalācaraṇa// prayers]
+
+> oṁ ajñāna-timirāndhasya
+> jñānāñjana-śalākayā
+> cakṣur unmīlitaṁ yena
+> tasmai śrī-gurave namaḥ
+
+> śrī-caitanya-mano-'bhīṣṭaṁ
+> sthāpitaṁ yena bhū-tale
+> svayaṁ rūpaḥ kadā mahyaṁ
+> dadāti sva-padāntikam
+
+> śrī-kṛṣṇa-caitanya
+> prabhu-nityānanda
+> śrī-advaita gadādhara
+> śrīvāsādi-gaura-bhakta-vṛnda
+
+> hare kṛṣṇa hare kṛṣṇa
+> kṛṣṇa kṛṣṇa hare hare
+> hare rāma hare rāma
+> rāma rāma hare hare
+
+Ladies and Gentlemen, I thank you very much for your kindly participating in this great movement. This movement is not started by me. This was started long, long years ago by Kṛṣṇa Himself. Firstly, He spoke this philosophy of //Bhagavad-gītā// to the sun-god. As it is stated in the //Bhagavad-gītā,// Fourth Chapter,
+
+> imaṁ vivasvate yogaṁ
+> proktavān aham avyayam
+> vivasvān manave prāhur
+> manur ikṣvākave 'bravīt
+> [[books:bg:4:1|[Bg. 4.1]]]
+
+> evaṁ paramparā-prāptam
+> imaṁ rājarṣayo viduḥ
+> [[books:bg:4:2|[Bg. 4.2]]]
+
+So if we calculate the age of Manu, it comes to the point of forty millions of years. So Kṛṣṇa said that forty millions of years ago at least, He spoke this philosophy of //Bhagavad-gītā// to the sun-god, Vivasvān. The name of the predominating deity in the sun planet is Vivasvān. His son, Manu, Vaivasvata Manu; His son, Ikṣvāku, the original person in the dynasty Sūrya-vaṁśa, in which Lord Rāmacandra appeared, Ikṣvāku. So in this way this Kṛṣṇa consciousness movement is coming since a very, very long time. But Kṛṣṇa said, //evaṁ paramparā-prāptam imaṁ rājarṣayo viduḥ// [[books:bg:4:2|[Bg. 4.2]]]: "Formerly the //rājarṣis,// they used to receive this instruction through the chain of disciplic succession." That was the way of understanding //Bhagavad-gītā.// But Kṛṣṇa said, //sa kāleneha yogo naṣṭo parantapa.// Now Kṛṣṇa, five thousand years ago, when Kṛṣṇa was talking with Arjuna in the Battlefield of Kurukṣetra, he was perplexed whether to fight or not to fight, and just to enthuse him in the fighting, He spoke this //Bhagavad-gītā// five thousand years ago to Arjuna. And He said there that "The //paramparā// system, disciplic succession, is now broken; therefore I am speaking to you again so that people may learn from you what is the purport of this philosophy, Kṛṣṇa consciousness."
+
+So five thousand years ago this philosophy was spoken to Arjuna, and we are having the instruction. Unfortunately, that is again being distorted. Because we do not receive through the //paramparā// system, we inference, we make inferences in our own way, and therefore it is also again broken. Therefore again, five hundred years ago, Śrī Caitanya Mahāprabhu instructed this //Bhagavad-gītā// as a devotee. Śrī Caitanya Mahāprabhu is supposed to be incarnation of Kṛṣṇa. As Kṛṣṇa, the Supreme Personality of Godhead, He instructed as the order-giving master, //sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja// [[books:bg:18:66|[Bg. 18.66]]], but still, people misunderstood. Therefore this time, five hundred years ago, Lord Caitanya Mahāprabhu, Kṛṣṇa Himself, appeared as a devotee of Kṛṣṇa.
+
+Śrī Caitanya Mahāprabhu is Kṛṣṇa. That is described in the authentic //śāstra://
+
+> kṛṣṇa-varṇaṁ tviṣākṛṣṇaṁ
+> sāṅgopāṅgāstra-pārṣadam
+> yajñair saṅkīrtanaiḥ prāyair
+> yajanti hi su-medhasaḥ
+> [SB 11.5.32]
+
+So this Kṛṣṇa consciousness movement is practically Śrī Caitanya Mahāprabhu's movement. And Śrī Caitanya Mahāprabhu is Kṛṣṇa Himself. So Kṛṣṇa is very kind upon the conditioned soul. He is trying to elevate them to the real platform of Kṛṣṇa consciousness again and again. But we are so stubborn, we are trying to forget Kṛṣṇa again and again. This is going on. So Śrī Caitanya Mahāprabhu's mission is... Especially He is instructing to the Indian people. He is saying to the Indian people, //bhārata-bhūmite manuṣya-janma haila yāra// [[books:cc:adi:9:41|[Cc. Ādi 9.41]]]. Śrī Caitanya Mahāprabhu appeared in Bengal, you know, in the district of Navadvīpa, about sixty-four miles from Calcutta, northern side. So His life and precepts are there. We have translated many books. You'll find //Teachings of Lord Caitanya// and //Caitanya-caritāmṛta,// almost seventeen volumes, //Caitanya-caritāmṛta.// And we have summarized the teaching in one volume. So you can learn about the teachings of Caitanya Mahāprabhu. But the summary of Śrī Caitanya Mahāprabhu's teaching is like this: He says to every Indian, not only Bengalis... It is not that because He appeared in Bengal, therefore He advised to the Bengalis. He is especially speaking to the Indians.
+
+> bhārata-bhūmite manuṣya-janma haila yāra
+> janma sārthaka kari' kara para-upakāra
+> [[books:cc:adi:9:41|[Cc. Ādi 9.41]]]
+
+//Para-upakāra.// He says that "Anyone who has taken birth in India, Bhārata-bhūmi..." Bhārata-bhūmi is //puṇya-bhūmi,// the pious land. Within this universe... In the //śāstra// we find that even the demigods in the heavenly planets, they desire to take birth in India, India is so glorious. So Caitanya Mahāprabhu's mission is that anyone who has taken birth as a human being in India, his business is to first of all make his life perfect by taking advantage of the Vedic knowledge, because it is available in India.
+
+So every Indian, especially the higher circles, namely the //brāhmaṇas, kṣatriyas..., kṣatriyas// and the //vaiśyas,// especially the //brāhmaṇa,// it is their business to make the life perfect by studying the Vedic knowledge and distribute the knowledge all over the world. //Para-upakāra.// Because, so far spiritual knowledge is concerned, outside India they have got very meager knowledge; therefore Caitanya Mahāprabhu requested that every Indian, especially the higher class, study the Vedic knowledge and distribute it throughout the whole world.
+
+> bhārata-bhūmite manuṣya-janma haila yāra
+> janma sārthaka kari' kara para-upakāra
+> [[books:cc:adi:9:41|[Cc. Ādi 9.41]]]
+
+//Para-upakāra.// This Kṛṣṇa consciousness is the best welfare activities in the world, because people are in ignorance. They are... Everyone, practically 99.9%, at the present moment they are under the conception, bodily conception: "I am Indian," "I am American," "I am Hindu," "I am Muslim," like that. That is ignorance. That will be discussed in the //Bhagavad-gītā// very elaborately.
+
+So the question may be raised that "How I can do welfare activities for the welfare of the whole world?" The Caitanya Mahāprabhu encourages. He says that //āmāra ājñāya guru hañā tāra ei deśa:// "Wherever you are staying," //ei deśa,// "in that country... You may not go outside, but wherever you are staying," //āmāra ājñāya,// "by My order," //guru hañā,// "you must become a //guru//"---by the order of Śrī Caitanya Mahāprabhu. Then? "I have no education. How can I become //guru?// How can I instruct?" Caitanya Mahāprabhu says, "Yes, that I know. But you take My order." //Āmāra ājñāya guru hañā tāra ei deśa// [[books:cc:madhya:7:128|[Cc. Madhya 7.128]]]. "Then what shall I do?" //Yāre dekha tāre kaha kṛṣṇa-upadeśa:// "You become //guru.// You haven't got to manufacture anything, any philosophy. You simply instruct whatever is spoken by Kṛṣṇa. That's all. You'll become a //guru.//"
+
+So our request is that you are so many Indians living in this foreign country for generation. So take this instruction of Śrī Caitanya Mahāprabhu. Because you are coming from India, therefore it is special request to you that "By the order of Śrī Caitanya Mahāprabhu, every one of you become a //guru.//" And what shall you have to do? //Āmāra ājñāya guru hañā tāra ei deśa// [[books:cc:madhya:7:128|[Cc. Madhya 7.128]]]. //Ei deśa.// This South Africa, you are staying here. So you preach as a //guru.// And what shall you preach? Caitanya Mahāprabhu says, //yāre dekha tāre kaha kṛṣṇa upadeśa// [[books:cc:madhya:7:128|[Cc. Madhya 7.128]]]. You haven't got to do anything. The instruction of Kṛṣṇa is there in the //Bhagavad-gītā.// Don't distort it, but put it as it is. That's your duty. If you do simply this thing... Because in the //Bhagavad-gītā// it is clearly said that Kṛṣṇa is the Supreme Personality of Godhead. Kṛṣṇa says Himself that //mattaḥ parataraṁ nānyat kiñcid asti dhanañjaya// [[books:bg:7:7|[Bg. 7.7]]].
+
+> ahaṁ sarvasya prabhavaḥ
+> mattaḥ sarvaṁ pravartate
+> iti matvā bhajante māṁ
+> budhā bhāva-samanvitāḥ
+> [[books:bg:10:8|[Bg. 10.8]]]
+
+This thing we have to understand, that Kṛṣṇa is the Supreme Personality of Godhead. And He is accepted. Arjuna heard from Kṛṣṇa about Himself, and he says... He agreed, //paraṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān puruṣaṁ śāśvatam ādyam// [[books:bg:10:12-13|[Bg. 10.12]]]. So He is accepted by the direct disciple, Arjuna; He is accepted by Vyāsadeva; He is accepted by Nārada Muni; and recently, within two thousand years, He is accepted by all the //ācāryas// of India---Śaṅkarācārya, Rāmānujācārya, Madhvācārya, Viṣṇu Svāmī; and lately, five hundred years ago, Śrī Caitanya Mahāprabhu.
+
+So there is no doubt about Kṛṣṇa's becoming the Supreme Personality of Godhead. In the //Śrīmad-Bhāgavatam// it is confirmed, //ete cāṁśa kalāḥ puṁsāṁ kṛṣṇas tu bhagavān svayam// [[books:sb:1:3:28|[SB 1.3.28]]]: "The original Personality of Godhead---Kṛṣṇa." Similarly, in the //Upaniṣad,// in the //Vedas// and //Brahma-saṁhitā,// if you take evidence from the //śāstras,// everywhere you will find, //kṛṣṇas tu bhagavān svayam.// In the //Brahma-saṁhitā,// which is supposed to be written by Lord Brahmā, he says in the beginning,
+
+> īśvaraḥ paramaḥ kṛṣṇaḥ
+> sac-cid-ānanda-vigrahaḥ
+> anādir ādir govindaḥ
+> sarva-kāraṇa-kāraṇam
+> [Bs. 5.1]
+
+So from śāstric evidences, from authentic evidences, from the //ācāryas,// from //Bhagavad-gītā// itself---everywhere you will find the confirmation, //kṛṣṇas tu bhagavān svayam.// So Caitanya Mahāprabhu's mission is that //yāre dekha tāre kaha kṛṣṇa upadeśa// [[books:cc:madhya:7:128|[Cc. Madhya 7.128]]]. It is not difficult. You simply take up the instruction of //Bhagavad-gītā// and try to preach, //yāre dekha tāre,// whomever you meet. You may remain as a businessman, you may remain whatever you are, you remain a family head, but instruct this advice of Kṛṣṇa---//yāre dekha tāre kaha kṛṣṇa upadeśa.// This is our mission.
+
+So Kṛṣṇa, when... The instruction of Kṛṣṇa begins when Arjuna was very much perplexed, very much perplexed whether to fight. Because the other side was his brother, his nephews, his son-in-law, his grandfather, his teacher. So when he saw in the battlefield all relatives, friends and kinsmen, so he was perplexed. So Kṛṣṇa was very much compassionate that he practically said, "Kṛṣṇa, I am not going to fight." Then Arjuna also knew that "Kṛṣṇa is the Supreme Personality of Godhead. So my perplexity can be eradicated only by Kṛṣṇa." Therefore he submitted to Kṛṣṇa, //śiṣyas te 'haṁ śādhi māṁ prapannam// [[books:bg:2:7|[Bg. 2.7]]]: "I am in great perplexity." Everyone is in great perplexity. There is no doubt. Anyone in this material world is full of anxiety and perplexity. So it is not only Arjuna's, I mean to say, problem, it is the problem of everyone. So if we want to solve the problems of life, we should accept Kṛṣṇa as the supreme teacher. This is the instruction of //Bhagavad-gītā// and Arjuna. //Śiṣyas te 'haṁ śādhi māṁ prapannam:// "My dear Kṛṣṇa, now I am asking You to become my teacher." [aside:] Don't disturb. "I am asking You to become my teacher and solve my problem."
+
+So Kṛṣṇa, first of all He says that... //Sañjaya uvāca.// Sañjaya was explaining //Bhagavad-gītā// before Dhṛtarāṣṭra:
+
+> evam uktvā hṛṣīkeśaṁ
+> guḍākeśaḥ parantapaḥ
+> na yotsya iti govindam
+> uktvā tūṣṇīṁ babhūva ha
+> [[books:bg:2:9|[Bg. 2.9]]]
+
+So Sañjaya said that //evam uktvā,// "Kṛṣṇa, I am not going to fight," //evam uktvā hṛṣīkeśam,// "unto Kṛṣṇa..." Kṛṣṇa's another name is Hṛṣīkeśa. Hṛṣīkeśa means... //Hṛṣīka// means the senses, and //īśa// means the master. So we have got our senses. Everyone has got senses. The master is Kṛṣṇa. We are not the master. That we have to understand. I am speaking that "This is my hand," but if the power of the hand is withdrawn by Kṛṣṇa, we cannot act. We should understand this way, that none of our senses belong to us. It is given to us for proper use. Therefore, because it is given to us by the Supreme Lord, Kṛṣṇa, the master of the senses, it should be utilized for Kṛṣṇa. This is //bhakti-yoga.//
+
+We should know that "Although we have got all these senses, it has been given to us for use, but the senses do not belong to me." Therefore Kṛṣṇa's name is Hṛṣīkeśa. //Hṛṣīkeṇa hṛṣīkeśa-sevanaṁ bhaktir ucyate// [[books:cc:madhya:19:170|[Cc. Madhya 19.170]]]. //Bhakti// means when we..., you use your senses, //hrsikena... Hrsikena// means "by the senses"; //hṛṣīkeśam,// "the master of the senses." //Hṛṣīkeṇa hṛṣīkeśa-sevanaṁ bhaktir ucyate.// This is called //bhakti.// At the present moment, under the condition of material nature, we are using our senses for our sense gratification. That is called conditional stage. And we are becoming subjected to so many changes of circumstances in different bodies. //Tathā dehāntara-prāptiḥ// [[books:bg:2:13|[Bg. 2.13]]]. We are creating a different situation by utilizing senses for our personal sense gratification, and we have become bound up, bound by the laws of nature. That is explained in the //Bhagavad-gītā: yajñārthe karma anyatra loko 'yaṁ karma-bandhanaḥ// [[books:bg:3:9|[Bg. 3.9]]]. //Karma-bandhana. Yajña. Yajña// means Viṣṇu, //yajña-puruṣa.// If you work for Kṛṣṇa, then you are doing right; otherwise you have become implicated. //Yajñarthe karma anyatra loko 'yaṁ karma-bandhanaḥ// [[books:bg:3:9|[Bg. 3.9]]]. This is the teaching of //Bhagavad-gītā.//
+
+Now, just like Arjuna. What is the instruction of //Bhagavad-gītā?// Arjuna is a fighter. Why? He's a soldier. He knew how to fight, that's all. He's not a Vedāntist; he is not a //brāhmaṇa;// he is not a //sannyāsī.// He is //gṛhastha,// householder. He appeared on the Battlefield of Kurukṣetra for fighting on political reasons. So he knew all this business. But he utilized his talent in fighting art for Kṛṣṇa. He did not want to fight. As a Vaiṣṇava, he is very kind. He said that "My brothers, my cousins, certainly they have insulted my wife. They have taken my kingdom by gambling and so many devices. I know that. Still, because they are my brothers, I don't wish to kill them." This is Vaiṣṇava's attitude. But Kṛṣṇa, His business is //yadā yadā hi dharmasya glānir bhavati// [[books:bg:4:7|[Bg. 4.7]]]. When there is injustice, it must be faced with fighting. That is Kṛṣṇa's version. So Arjuna, as a Vaiṣṇava, did not like to fight. But Kṛṣṇa, as the supreme mediator... That is also good for everything. Whatever Kṛṣṇa does, that is..., "God is good." There is nothing bad.
+
+So anyway, Arjuna, when he heard //Bhagavad-gītā// very minutely, he was asked by Kṛṣṇa, "Now I have explained to you the //Bhagavad-gītā,// the knowledge, the spiritual knowledge. Now whatever you like, you can do." //Yathecchasi tathā kuru// [[books:bg:18:63|[Bg. 18.63]]]: "Whatever you like. Now it is up to you. If you don't fight, that you can decide. I have no objection, because you have little independence. But My advice is that you should fight. Now I ask you what you are going to do." So Arjuna replied that //naṣṭo mohaḥ smṛtir labdhā tvat-prasādān madhusudana, kariṣye vacanaṁ tava// [[books:bg:18:73|[Bg. 18.73]]]: "Now I shall do it." This is //Bhagavad-gītā.// This is //bhakti,// that we have to act according to the advice of the Supreme Lord. That is //bhakti. Hṛṣīkeṇa hṛṣīkeśa-sevanaṁ bhaktir ucyate// [[books:cc:madhya:19:170|[Cc. Madhya 19.170]]].
+
+So therefore we have to first of all establish our relationship with God. Your establish..., is already established. Just like the father and the son---the relationship is already there. It is not... But still, sometimes the son goes out of home and may be forgetting his father. Similarly, we are out of home. We have come from the spiritual world in this material world. We have forgotten our father. So we have to revive this relationship with our father, or God, or Kṛṣṇa. That is the main business of human life. In other species of life lower than the human being it is not possible to revive our old relationship with God. But in this life... Therefore this is the greatest opportunity. After all, we are under the grip of material nature's law. That is explained in there. //Tathā dehāntara-prāptiḥ// [[books:bg:2:13|[Bg. 2.13]]]. According to our desire, we are creating a different type of body, and after death, //tathā dehāntara-prāptiḥ...// Just like the child is become a boy, the boy is becoming young man, the young man is becoming middle-aged man, and the middle-aged man is becoming old man. So what is next after the old body? The next is //tathā dehāntara-prāptiḥ:// you have to accept another body. This is called chain or cycle of birth and death, or transmigration of the soul. This is going on.
+
+So if you want to... But nobody wants to die. Nobody wants to change this body. But this is a problem. One should know it. That is the first instruction given by Kṛṣṇa... [break] ...Arjuna, that we are changing. //Tathā dehāntara-prāptiḥ.// So this is the opportunity, human life. If we want to stop this repetition of birth and death under different obligation and different circumstances, we should take instruction from Kṛṣṇa, try to understand Kṛṣṇa---that is //Bhagavad-gītā//---and make our life successful so that... Understanding Kṛṣṇa means, as it is stated, //tyaktvā dehaṁ punar janma naiti mām eti kaunteya// [[books:bg:4:9|[Bg. 4.9]]]. We have come from God; we again go back to God if we simply understand Kṛṣṇa, or God. This is the whole instruction of the //Bhagavad-gītā.// And when Arjuna was perplexed, that "How shall I kill the other side?" then Kṛṣṇa informed him in the beginning, //aśocyān anvaśocas tvaṁ...,// er,
+
+> evam uktvā hṛṣīkeśaṁ
+> guḍākeśaḥ parantapaḥ
+> na yotsya iti govindam
+> uktvā tūṣṇīṁ babhūva ha
+> [[books:bg:2:9|[Bg. 2.9]]]
+
+"He completely became silent. 'Kṛṣṇa, I am not going to fight.' " Therefore,
+
+> tam uvāca hṛṣīkeśaḥ
+> prahasann iva bhārata
+> senayor ubhayor madhye
+> viṣīdantam idaṁ vacaḥ
+> [[books:bg:2:10|[Bg. 2.10]]]
+
+Then Kṛṣṇa was smiling, that "Arjuna is My friend, and he is so much overwhelmed with material consciousness of life." Therefore it is said, //tam uvāca hṛṣīkeśaḥ prahasann:// He was smiling, that "You are My friend. You should not have done like this." //Prahasann iva bhārata senayor ubhayor madhye:// "Between the two parties of soldiers," //viṣīdantam,// "he was lamenting."
+
+So because Kṛṣṇa was accepted as the teacher, as the master, so He is chastising Arjuna.
+
+> śrī-bhagavān uvāca
+> aśocyān anvaśocas tvaṁ
+> prajñā-vādāṁś ca bhāṣase
+> gatāsūn agatāsūṁś ca
+> nānuśocanti paṇḍitāḥ
+> [[books:bg:2:11|[Bg. 2.11]]]
+
+"My dear Arjuna, you talk very much just like a learned man." //Prajñā-vādāṁś ca bhāṣase. Prajñā-vādāṁs// means talking just like a learned man. "Unfortunately you are not a learned man, because you are lamenting on this body." He said, //gatāsūn agatāsūṁś ca nānuśocanti paṇḍitāḥ:// "Anyone who is learned, he does not lament over this body, whether in living position or dead position. So you are talking like a learned man, but you are not a learned man." This is the first instruction. Because Arjuna accepted Kṛṣṇa, He chastised him with little hard words, that "You are not a //paṇḍita.//" Now, you just consider what is the position of this world. Everyone is taking care of this body. But Kṛṣṇa said, //gatāsūn agatāsūṁś ca nānuśocanti paṇḍitāḥ.// The //paṇḍitāḥ,// one who is learned, he knows that he is not this body. He is soul.
+
+So our first business is to take care of the soul. And this is the opportunity, this human form of body. In the human form of body we can understand //Bhagavad-gītā,// not in the dog's body. That is not possible. So by evolution, //jalajā nava-lakṣāṇi sthāvarā lakṣa-viṁśati// [Padma Purāṇa], from aquatics to trees, plants, then insects, then birds, then beast, then human being, then civilized human being... In this civilized form of human being, if we do not take this knowledge of //Bhagavad-gītā// personally given by the Lord Himself, then we are missing the point. This is the whole Vedic literature's lesson, that human form of life is meant for self-realization: "I am not this body. I am soul. I am spirit soul. My business is different from simply taking care of the body." This is human civilization.
+
+So therefore our Kṛṣṇa consciousness movement is very important movement. We request everyone to study this movement very seriously and make one's life successful. And what is that success? Simply try to understand Kṛṣṇa. If you simply try to understand Kṛṣṇa... And Kṛṣṇa is explaining Himself. When I speak of Kṛṣṇa, everyone should know that "Kṛṣṇa" means God. So if we try to understand simply Kṛṣṇa, or God, in this life, then we become liberated. We become free from this material bondage. //Tyaktvā dehaṁ punar janma naiti mām eti kaunteya// [[books:bg:4:9|[Bg. 4.9]]]. This is the assurance given in the //Bhagavad-gītā.// If you simply try to understand Kṛṣṇa... //Janma karma ca me divyaṁ yo jānāti tattvataḥ// [[books:bg:4:9|[Bg. 4.9]]]. Now, in truth you should understand Kṛṣṇa, what is Kṛṣṇa. And there is no difficulty. Kṛṣṇa is explaining Himself in the //Bhagavad-gītā.//
+
+So our only request is that you, all of you, you try to understand //Bhagavad-gītā// as it is. Don't interpret in a different way. Then you will understand Kṛṣṇa. And as soon as you understand Kṛṣṇa, you become free from this material bondage, no more accepting... //Tyaktvā deham.// We have to give up this body, that is certain. The cats and dogs will also give up their body; we'll have also give... But before giving up this body, if we simply understand Kṛṣṇa, then our life becomes successful. What is that success? That after giving up this body we are not going to accept anything our material body. Then we stand in our original, spiritual body. The spiritual body is there within the body. That will be explained very nicely. So we... Our mission is to come to the platform of our spiritual body. It is very simple, simply by understanding the instruction of Kṛṣṇa. And Caitanya Mahāprabhu has made it still simplified. What is that? He advises, "Chant Hare Kṛṣṇa //mantra.//"
+
+> harer nāma harer nāma harer nāma iva kevalam
+> kalau nāsty eva nāsty eva nāsty eva gatir anyathā
+> [[books:cc:adi:17:21|[Cc. Ādi 17.21]]]
+
+In this age, as we are fallen, so the method is also given very simplified. It is confirmed in the //śāstras,// in the //Śrīmad-Bhāgavatam// also, that //kaler doṣa-nidhe rājann asmin hy eko mahān guṇaḥ// [SB 12.3.51], that this time, this Kali, this age... This is called Kali age, misunderstanding and fighting. So in this age there are so many faults in the human society. It is just like ocean. //Kaler doṣa-nidhe. Nidhi// means the ocean. //Doṣa-nidhi,// fault, ocean of fault. //Doṣa-nidhe rājann.// "There is one great opportunity." What is that? //Kīrtanād eva kṛṣṇasya mukta-saṅgaḥ paraṁ vrajet// [SB 12.3.51]: "If one takes to this chanting of Hare Kṛṣṇa //mantra,//" //kīrtanād eva kṛṣṇasya,// "then //mukta-saṅga,// he becomes liberated," and //paraṁ vrajet,// "he becomes eligible to go back to home, back to Godhead."
+
+So these things are there. Our Kṛṣṇa consciousness movement is only to give you information, just like a peon delivers the letter from a friend. He has nothing to do. So we are trying to deliver the message of Kṛṣṇa to you. You kindly accept it and utilize it.
+
+Thank you very much. Hare Kṛṣṇa.
+
+**Devotees:**
+//Jaya// Prabhupāda. [break]
+
+**Indian man (1):**
+[loudly interrupting] Hare Kṛṣṇa, Hare Kṛṣṇa, Hare Rāma, Rāma Rāma. In the name of God, I feel it is my duty to... [break]
+
+**Puṣṭa Kṛṣṇa:**
+The question is, "Why should one pray to God?"
+
+**Prabhupāda:**
+Our prayer is, Caitanya Mahāprabhu has taught,
+
+> ayi nanda-tanuja patitaṁ kiṅkaraṁ
+> māṁ viṣame bhavāmbudhau
+> kṛpayā tava pāda-paṅkaja
+> sthita-dhūlī-sadṛśaṁ vicintaya
+> [[books:cc:antya:20:32|[Cc. Antya 20.32, Śikṣāṣṭaka 5]]]
+
+Just like if you are in danger, you ask your friends to help you, this is prayer. So our prayer is, to Kṛṣṇa, //ayi nanda-tanuja. Nanda-tanuja// means... Kṛṣṇa appeared as the foster son of Nanda Mahārāja; therefore He is addressed as //nanda-tanuja,// means "the son of Mahārāja Nanda." So //patitaṁ kiṅkaraṁ māṁ viṣame bhavāmbudhau:// "I am Your eternal servant. Somehow or other, I am now fallen in this ocean of nescience, ignorance." Just like if you are a person of the land, if you are thrown in the ocean, it is struggle for existence. //Manaḥ ṣaṣṭhānīndriyāṇi prakṛti-sthāni karṣati// [[books:bg:15:7|[Bg. 15.7]]]. This is struggle for exis... Everyone is struggling. But what you will struggle in the ocean? You may be a very big swimmer, but how long you shall swim? You will be tired. The only means is to take you out of the ocean. Even one inch above the ocean is your safety. It doesn't matter how many inches you are taken from the ocean. Similarly, the prayer is, "My dear Lord Kṛṣṇa, I am Your eternal servant. Somehow or other, I am now fallen in this ocean. Please pick me up and fix me again as the dust of Your lotus feet." This is the prayer.
+
+So we should know in what dangerous position we are. Then there is necessity of prayer. And prayer to whom? To the Supreme Person to save us. Therefore there are so many prayers in the //śāstra.// Prayers means addressing the Lord to save us from this. The real saving is to pick us up from this ocean of nescience, ignorance. Then everything is all right. As soon as we come to the knowledge that "I am not this body; I am spirit soul, part and parcel of God," then our knowledge is perfect. This is called //brahma-bhūtaḥ prasannātmā.// This is called Brahman realization.
+
+> brahma-bhūtaḥ prasannātmā
+> na śocati na kāṅkṣati
+> samaḥ sarveṣu bhūteṣu
+> mad-bhaktiṁ labhate parām
+> [[books:bg:18:54|[Bg. 18.54]]]
+
+So prayer is needed because we are in danger. And actually we pray when we are in great danger. Suppose if immediately there is some earthquake or there is some danger, naturally, spontaneously, we pray. We pray. But we forget it. But the prayer, the tendency of offering prayer to the Lord at the time of danger, is automatic. So we should know that we are in danger. We are in this material condition of life means we are in danger. Therefore we should pray. We must pray to pick him up, to pick us up. That is necessity of prayer.
+
+**Puṣṭa Kṛṣṇa:**
+Are there any other questions?
+
+**Guest (2):**
+Swāmījī, I would like to know from you whether or not it is necessary for a person to be a vegetarian or to have a special diet to be able to respond to the..., your teachings.
+
+**Prabhupāda:**
+What is that?
+
+**Puṣṭa Kṛṣṇa:**
+He would like to know whether it is necessary for one to be a vegetarian or not in order to respond or understand the teachings.
+
+**Prabhupāda:**
+Yes. Because if you want to be Kṛṣṇa conscious---that is the whole teaching---you have to act according to the instruction of Kṛṣṇa. So vegetarian or not vegetarian, it is not a very important thing. Either you eat meat or vegetable, both of them have got life. That is the nature's way. //Jīvo jīvasya jīvanam// [[books:sb:1:13:47|[SB 1.13.47]]]: one life has to eat another life. That is nature's law. But Kṛṣṇa consciousness means he does not anymore eat anything which is not offered to Kṛṣṇa. That is Kṛṣṇa consciousness. We take //prasādam.// Whatever is offered to Kṛṣṇa, we take that. So Kṛṣṇa says in the //Bhagavad-gītā, patraṁ puṣpaṁ phalaṁ toyaṁ yo me bhaktyā prayacchati tad aham aśnāmi// [[books:bg:9:26|[Bg. 9.26]]]. So just like if you ask some guest at your home, you will ask him, "What you shall eat, sir? What can I offer you?" Similarly, when you invite Kṛṣṇa to your home or to your temple, you should prepare foodstuff according to Kṛṣṇa's instruction, not according to your whims. So Kṛṣṇa says, //patraṁ puṣpaṁ phalaṁ toyaṁ yo me bhaktyā prayacchati:// "Anyone who offers Me //patraṁ//"---that is vegetable---"//puṣpaṁ//"---vegetable---and liquid things like milk, water... And you can prepare so many other things from vegetables. If you offer it to Kṛṣṇa and take //prasādam,// then you are free. That is, //yajña-śiṣṭāśinaḥ santo mucyante sarva-kilbiṣaiḥ// [[books:bg:3:13|[Bg. 3.13]]]. If you accept foodstuff which is offered for //yajña//---//yajña// means acceptance by Kṛṣṇa---then you are free from sinful life. Otherwise you are responsible, either you eat meat or vegetable, it doesn't matter.
+
+**Puṣṭa Kṛṣṇa:**
+Are there any other questions?
+
+**Prabhupāda:**
+No. One man once.
+
+**Puṣṭa Kṛṣṇa:**
+Are there any other people who'd like to ask questions, because there may be others...
+
+**Prabhupāda:**
+Others should be given opportunity.
+
+**Guest (3):**
+I would like to have this question. Why should one accept this Kṛṣṇa as God?
+
+**Prabhupāda:**
+That I have already explained. We have to accept the Vedic evidence. So the Vedic evidence establishes, //kṛṣṇas tu bhagavān svayam// [[books:sb:1:3:28|[SB 1.3.28]]]. Otherwise you have no opportunity to understand what is God. Then, if you don't accept Kṛṣṇa as God, then present somebody else who is God and whether he is satisfying the definition of God. So considering the Vedic evidences, authorities, we have to accept Kṛṣṇa as God. And when He was present on this planet, He proved that He is God. Then we have no other alternative than to accept Kṛṣṇa as God.
+
+**Puṣṭa Kṛṣṇa:**
+Any other questions? Yes?
+
+**Guest (4):**
+With the present state of the world as it is---it seems to be in a pretty much a mess at the moment---what would you say we are actually advancing spiritually?
+
+**Puṣṭa Kṛṣṇa:**
+"With the present state of the world, in the present mess that it's in today, would you say that we are advancing spiritually?"
+
+**Prabhupāda:**
+No. Practically, the present state of the world means without any spiritual knowledge. We are blind; therefore it is very dangerous position. The spiritual knowledge we must have; otherwise we are doomed.
+
+**Indian man (5):**
+Master, I wish to inquire. From the ancient Vedic scripture of the //Vedas,// we learn that God is //nirākāra// [indistinct] and He cannot be seen. However, in the //Bhagavad-gītā// we learn that Lord Kṛṣṇa is born as a human. Now, [indistinct] does this not work conflict to the ancient scriptures of the Vedic religion?
+
+**Prabhupāda:**
+Therefore, in the //Bhagavad-gītā// you will find that you have to understand Kṛṣṇa in truth. //Janma karma me divyaṁ yo jānāti tattvataḥ// [[books:bg:4:9|[Bg. 4.9]]]. If we simply see that Kṛṣṇa is born or He has taken His birth as a human being, that is not sufficient study of Kṛṣṇa. Therefore Kṛṣṇa says His birth and activities are transcendental. //Janma karma me divyam.// So that you have to study, //divyaṁ, yo jānāti tattvataḥ.// Anyone who understands what is Kṛṣṇa's birth... His birth and my birth is not the same. That means you have to study the subject matter very scientifically. Then you will understand that although Kṛṣṇa comes as a human being, still, He maintains His position as God. That is real understanding. Unless you understand this fact, you will misunderstand Him. Therefore Kṛṣṇa says as soon as you understand Kṛṣṇa in truth, then you become liberated. //Janma karma me divyaṁ yo jānāti tattvataḥ.// Simply superficial study will not help you. Then you have to study to become a serious student of Kṛṣṇa consciousness and study Him. Then you will understand. Otherwise, superficially we cannot understand.
+
+**Woman guest (6):**
+Swāmījī, would you say that the soul is locked in the third eye?
+
+**Prabhupāda:**
+Hmm?
+
+**Puṣṭa Kṛṣṇa:**
+The soul is what?
+
+**Harikeśa:**
+Locked in the third eye.
+
+**Puṣṭa Kṛṣṇa:**
+Locked in the third eye. She's asking if the soul is locked in the third eye.
+
+**Prabhupāda:**
+Locked? What does it mean, "locked"? Soul is not locked. Soul, for temporarily, is embodied according to the soul's desire. There are 8,400,000 forms of body, and as we are desiring, the material nature is supplying the body. It is explained in the //Bhagavad-gītā,//
+
+> īśvaraḥ sarva-bhūtānāṁ
+> hṛd-deśe 'rjuna tiṣṭhati
+> bhrāmayan sarva-bhūtāni
+> yantrārūḍhāni māyayā
+> [[books:bg:18:61|[Bg. 18.61]]]
+
+//Yantrārūḍhāni. Yantra// means machine. So Kṛṣṇa is situated in everyone's heart. That is all-pervading. And He knows what the soul wants, so he is given the opportunity. As he wants to work, he is given a particular type of body, machine, //yantra. Yantra// means machine. And he is seated there, and in this way he is wandering in different species of life and different planets for different times. That is going on. //Yantrārūḍhāni māyayā// [[books:bg:18:61|[Bg. 18.61]]]. So if we stop this business, if we hear Kṛṣṇa---//sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja// [[books:bg:18:66|[Bg. 18.66]]]---then our life is successful. Otherwise we shall continue to change this //yantra,// one //yantra// to another, another, another. This is going on. So practically the soul is not locked up, but intentionally he wants some position. And Kṛṣṇa is very kind. God is very kind. He is giving the opportunity: "All right, you want like this? Do it like that."
+
+**Guest (5):**
+Swāmījī? Are we [indistinct] to believe in that by chanting the holy name of Kṛṣṇa that we can attain a higher conscious level on this earth and attain self-realization without going through all the rigors of the [indistinct] and the old Vedic scriptures?
+
+**Puṣṭa Kṛṣṇa:**
+The question is, "Are you saying that simply by chanting the holy names, Hare Kṛṣṇa, that you can do without all of the other instructions which are in the older //Vedas?//"
+
+**Prabhupāda:**
+Yes. This is the special concession for the conditioned soul of this age, that if you simply chant Hare Kṛṣṇa //mahā-mantra,// then your heart will be purified. //Ceto-darpaṇa-mārjanam// [[books:cc:antya:20:12|[Cc. Antya 20.12]]]. Then everything will be revealed. This is special concession. So you can see it. All these students coming, joining this movement all over the world, they are beginning, chanting Hare Kṛṣṇa, and gradually they are becoming purified and taking this consciousness very seriously. You can see it.
+
+**Indian man (1):**
+[loudly interjecting] //Oṁ. Oṁ.// [break]
+
+**Guest (7):**
+...explain the ways of //pāpa-nirvāṇam.//
+
+**Puṣṭa Kṛṣṇa:**
+Explain what?
+
+**Guest (7):**
+//Pāpa-nirvāṇam.//
+
+**Puṣṭa Kṛṣṇa:**
+//Pāpa-nirvāṇam.//
+
+**Prabhupāda:**
+//Pāpa.// Yes. //Pāpa.// I understand. //Pāpa...// First of all, we have to know what is //pāpa.// Just like in ordinary way, in ignorance we commit something unlawful. Just like in this country it is said, "Keep to the left," and some other country it is said that "Keep to the right." Say, Americans, they "Keep to the right." Now, in this country, if instead of keeping to the left if he keeps to the right, then he becomes punishable. So this is due to ignorance. So //pāpa// means in ignorance. So if you become in knowledge, there is no more //pāpa.// So if you understand what is God, what you are, what is your relationship with God, and if you act accordingly, there is no //pāpa.// This is //pāpa-nirvāṇa:// no more //pāpa.// That is explained in the //Śrīmad-Bhāgavatam://
+
+> śṛṇvatāṁ sva-kathāḥ kṛṣṇaḥ
+> puṇya-śravaṇa-kīrtanaḥ
+> hṛdy antaḥ stho hy abhadrāṇi
+> vidhunoti suhṛt satām
+> [[books:sb:1:2:17|[SB 1.2.17]]]
+
+If you simply hear Kṛṣṇa in the //Bhagavad-gītā,// then gradually you become free from all sinful reaction of life. That is //pāpa-nirvāṇa.// This is very simple thing. That's all.
+
+**Puṣṭa Kṛṣṇa:**
+Would you like to take any more questions, Prabhupāda?
+
+**Prabhupāda:**
+One more.
+
+**Puṣṭa Kṛṣṇa:**
+One more question.
+
+**Indian guest (8):**
+Swāmījī, I got a disturbing mind. I would like to clear my mind. We understand that according to the Lord's creation, apart from this planet, there are many other planets, which is called the universe. And as such, being created by the Lord, I'm sure He has given His right in a way of knowledge to understand Him. Now, if Kṛṣṇa conscious, as we understand in this part of the world, then I am sure it should be in the other part of the world as well. So I don't know, Swāmījī, what is the position, knowing that we are living in this part of the world, or this planet, what could be the other part of the planet which is called the universes. I was just reading today the //Bhagavad-gītā As It Is.// I don't expect that I will be able to bring about this bit of the //Gītā// that I read in a question form, because Lord... In the //Gītā// itself it says that Arjuna presaged[?] to Lord Kṛṣṇa in the Tenth Chapter, verse twelve, thirteen and fourteen, where He mentions that He is supreme, He is the ultimate, He is abode, place of residence of His, that He is purified, eternal, primal God, primal, and so on, transcendental, original and unborn. Now, Swāmījī, I would like to know, being unborn, then how come that Lord Kṛṣṇa was born as a human being or brought Himself to that position to form Himself as the Supreme Being? I would like this answer to be given. Thank you.
+
+**Prabhupāda:**
+If you have read //Śrīmad-Bhāgavatam,// you can see that Kṛṣṇa was not born. Kṛṣṇa appeared before Devakī and Vasudeva as four-handed Nārāyaṇa. Then the father, mother requested Nārāyaṇa that "You have appeared as Nārāyaṇa. Immediately Kaṁsa will kill You. Please, You become like human child." So He again immediately became a human child. So the conception of birth from the womb of the mother was not actually the fact about Kṛṣṇa. You read //Bhāgavatam,// you will find this description. So even though if He comes as a child, still He is unborn, because Kṛṣṇa, or God, is in everyone's heart. //Īśvaraḥ sarva-bhūtānāṁ hṛd-deśe arjuna tiṣṭhati// [[books:bg:18:61|[Bg. 18.61]]]. So from the heart, if He comes before you, so is it very difficult task for Him? It is not at all difficult. [break]
+
+What to speak of Kṛṣṇa, we are part and parcel of Kṛṣṇa; we do not take birth. You will find in the //Bhagavad-gītā, na jāyate na mriyate vā.// When the description of soul is given there, it is said that the soul is never born. If the soul is never born, how the Supersoul is born? That you have to understand. Even the soul... We are ordinary soul. We are not..., also not born, //na jāyate na mriyate vā kadācit,// at any time. //Na hanyate hanyamāne śarīre// [[books:bg:2:20|[Bg. 2.20]]]. So we have to study this. We have to learn this. Superficially understanding will not help us. You have to become a serious student. That is wanted. And so far Kṛṣṇa is speaking, He is speaking for all living entities. It is not that He is speaking for India or for the Hindus or for this planet or that planet. He is speaking for everyone. //Sarva-yoniṣu kaunteya sambhavanti mūrtayo yāḥ// [[books:bg:14:4|[Bg. 14.4]]]. Kṛṣṇa says, "In all forms of life, all the living entities, I am...," //ahaṁ bīja-pradaḥ pitā,// "I am the supreme father." So Kṛṣṇa does not speak for any particular section or any particular country or any particular religion. It is for everyone. And so far we are concerned, that is also described in the //Bhagavad-gītā://
+
+> yānti deva-vratā devān
+> pitṝn yānti pitṛ-vratāḥ
+> bhūtāni yānti bhūtejyā
+> mad-yājino 'pi yānti mām
+> [[books:bg:9:25|[Bg. 9.25]]]
+
+Now, in this human form of life you can select where you will go next. If you want to go to the higher planetary system, so you can go there. //Yānti deva-vratā devān.// The higher planetary... //Ūrdhvaṁ gacchanti sattva-sthā madhye tiṣṭhanti rājasāḥ// [[books:bg:14:18|[Bg. 14.18]]]. You qualify yourself. So if you qualify yourself to go to the higher planetary system, you can go. //Yānti deva-vratā devān.// And if you qualify yourself to go back to home, back to Godhead, that also you can do. //Mad-yājino 'pi yānti mām.// So if you become a pure devotee, then you go to Kṛṣṇa. That is up to you to make your selection. And this human form of body is meant for that purpose. If you don't utilize it for our next elevation, then you are committing suicide. That is our Kṛṣṇa consciousness movement, to inform you.
+
+That's all. Thank you very much. Let us chant Hare Kṛṣṇa. [end]

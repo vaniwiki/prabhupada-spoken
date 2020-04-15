@@ -1,0 +1,83 @@
+~~Title: Car Conversation — June 12, 1974, Paris~~
+~~bc: June 12, 1974, Paris~~
+====== Car Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 740612cr.par
+listtype_hidden  : Car Conversation
+listdate_hidden  : 1974-06-12
+showdate_hidden  : 2020-06-12
+listplace_hidden : Paris
+Type_spoken      : Room Conversation
+Date_spoken      : June 12
+Year_spoken      : 1974
+Place_spoken     : Paris
+Length_hidden    : 13:00
+Title_hidden     : Car Conversation
+----
+
+<audio>
+{{spoken:740612cr.par.mp3|Car Conversation — June 12, 1974, Paris}}
+</audio>
+
+**Bhagavān:**
+...modern buildings. And they're very frustrated here.
+
+**Prabhupāda:**
+Ah.
+
+**Bhagavān:**
+They're becoming very violent.
+
+**Prabhupāda:**
+Education means producing rogues. [break]
+
+**Bhagavān:**
+"...houses. Our houses are too expensive." It's a big problem everywhere.
+
+**Prabhupāda:**
+Why do they not go outside?
+
+**Bhagavān:**
+The problem is in the cities.
+
+**Prabhupāda:**
+Yes. Rascals, they want to live in city and drink wine and eat meat. So there must be problems. This civilization is simply to create problem, //anartha. Anartha. Anartha// means unnecessarily problems. So these rascals, they do not know how to solve it. But the solution is this //bhakti-yoga.// That is stated in the //Śrīmad-Bhāgavatam://
+
+> anarthopaśamaṁ sākṣād
+> bhakti-yogam adhokṣaje
+> lokasyājānato vidvāṁś
+> cakre sātvata-saṁhitām
+> [[books:sb:1:7:6|[SB 1.7.6]]]
+
+These //anartha,// problem, they have created under the influence of //māyā.// So if you want to solve it, you take to //bhakti-yoga. Anarthopaśamam.// Directly it will be solved. Directly. //Anarthopaśamaṁ sākṣād bhakti-yogam, lokasya ajānataḥ.// The rascals, they do not know. Therefore //vidvān,// Vyāsadeva, the most learned, //vidvāṁś cakre sātvata-saṁhitām,// he has done this //sātvata,// Vaiṣṇava literature, //Śrīmad-Bhāgavatam.// That is the only solution. These rascals, they have created problems. Therefore we have started this Kṛṣṇa consciousness movement for their benefit. Let them cooperate, and we shall make solution of all problems---political, social, everything. Let them come and cooperate. [pause] They are not agreeable to close the slaughterhouse. Yesterday, you were not present when that mayor came?
+
+**Bhagavān:**
+I was there.
+
+**Prabhupāda:**
+I requested that "You are one of the important men. Why don't you agree? Close the slaughterhouse. If you want to eat meat, take it when the cow is dead. We shall supply you." What is their objection? What is the possible objection?
+
+**Bhagavān:**
+Objection is that the people have become so impatient for sense gratification. They have no patience anymore. They can't wait... There was some story. In the United States, there has been this trouble with petrol, and... All over the world, there's been this trouble with petrol, gasoline. So there was rationing. That means people could only get a little gas. So the cars would line up for a great distance in the gas station, and they'd wait for a long time. And sometimes the gas station would run out of gas. The people would get so angry, they killed the gas station attendant.
+
+[indistinct comments with devotees] [break] ...does not teach anyone to be austere or patient.
+
+**Prabhupāda:**
+But human life is meant for austere and patience. //Tapo divyam// [[books:sb:5:5:1|[SB 5.5.1]]]. Austerity, penance, that is human life. Otherwise, it is animal life. Simply animal civilization. It is not human civilization. [//japa//] [car is in gas station; conversation between devotees in car about how much gas to get, etc.] [break] ...progressing, they stand their own position, as they are made by nature. Therefore there is no criminality. They are under full control of nature. We are also under full control of nature, but we have been given little concession to cultivate spiritual knowledge. So that intelligence, extra intelligence, what we have got, instead of cultivating spiritual knowledge, we are using in the same process of sense gratification like the animals. And this, this business, this, means animalistic business in a polished way is going on as civilization. Actually, it is animalistic, but it is little decorated or polished, and they have accepted, "This is civilization." In other words, they do not know what is human civilization. They do not know. They're animals. They do not know. [//japa//]
+
+[about getting gas:] For this service, they do charge anything? No.
+
+**Bhagavān:**
+No. [more conversation with gas station attendant and among devotees about vehicle arrangements] [break] It is very known that the family is very strong, the family attachment is very strong. In America, people separate from the family very early. And in France, the family attachment is so strong. And many people, many families have come and asked us if we will be able to open school here for their children too. The interest is there. Everyone is afraid of this present system of schooling, because they send their children there, and they come back so crazy.
+
+**Prabhupāda:**
+Rogues. Rogues. After education, they are rogues only. [chuckles] [pause] [break]
+
+**Bhagavān:**
+...take breakfast a little earlier. Is that okay? And then this other gentleman can come with us and we can go faster that way. Because their truck is slow. [break] ...human being, those who have system of religion? Is that what makes them civilized? So the society today, even though it seems to be technologically advanced, can that society be called civilized? No.
+
+**Prabhupāda:**
+So long technological advancement is meant for bodily comforts, so, so long one remains in the bodily concept of life, he's animal.
+
+[long pause] [end]

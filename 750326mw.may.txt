@@ -1,0 +1,59 @@
+~~Title: Morning Walk — March 26, 1975, Māyāpur~~
+~~bc: March 26, 1975, Māyāpur~~
+====== Morning Walk ======
+
+---- dataentry spoken ----
+id_hidden        : 750326mw.may
+listtype_hidden  : Morning Walk
+listdate_hidden  : 1975-03-26
+showdate_hidden  : 2020-03-26
+listplace_hidden : Māyāpur
+Type_spoken      : Morning Walk
+Date_spoken      : March 26
+Year_spoken      : 1975
+Place_spoken     : Māyāpur
+Length_hidden    : 00:45
+Title_hidden     : Morning Walk
+----
+
+<audio>
+{{spoken:750326mw.may.mp3|Morning Walk — March 26, 1975, Māyāpur}}
+</audio>
+
+[//shenai// playing in background]
+
+**Prabhupāda:**
+...Germany. Yes.
+
+**Devotees:**
+Yes.
+
+**Prabhupāda:**
+So anyone, our men can do it immediately.
+
+**Hṛdayānanda:**
+Acyutānanda can do it.
+
+**Prabhupāda:**
+No. Anyone can do it.
+
+**Tamāla Kṛṣṇa:**
+Prabhupāda, now that brass dome is on top.
+
+**Prabhupāda:**
+Oh.
+
+**Tamāla Kṛṣṇa:**
+The big one.
+
+**Jayapatākā:**
+Śrīla Prabhupāda?
+
+**Prabhupāda:**
+Hmm?
+
+**Jayapatākā:**
+Do you think that we should make these marble here, on the side?
+
+**Prabhupāda:**
+Yes, very nice. [end]

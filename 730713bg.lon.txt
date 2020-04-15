@@ -1,0 +1,71 @@
+~~Title: Bg 1.11-12 — July 13, 1973, London~~
+~~bc: July 13, 1973, London~~
+====== Bhagavad-gītā 1.11–12 ======
+
+---- dataentry spoken ----
+id_hidden        : 730713bg.lon
+listtype_hidden  : Bg 1.11–12
+listdate_hidden  : 1973-07-13
+showdate_hidden  : 2020-07-13
+listplace_hidden : London
+Type_spoken      : Bhagavad-gītā
+Date_spoken      : July 13
+Year_spoken      : 1973
+Place_spoken     : London
+Length_hidden    : 13:08
+Title_hidden     : Bhagavad-gītā 1.11–12
+----
+
+<audio>
+{{spoken:730713bg.lon.mp3|Bg 1.11-12 — July 13, 1973, London}}
+</audio>
+
+**Pradyumna:**
+[leads chanting of verse] [Prabhupāda and devotees repeat]
+
+> ayaneṣu ca sarveṣu
+> yathā-bhāgam avasthitāḥ
+> bhīṣmam evābhirakṣantu
+> bhavantaḥ sarva eva hi
+> [[books:bg:1:11|[Bg. 1.11]]]
+
+[break]
+
+> tasya sañjanayan harṣaṁ
+> kuru-vṛddhaḥ pitāmahaḥ
+> siṁha-nādaṁ vinadyoccaiḥ
+> śaṅkhaṁ dadhmau pratāpavān
+> [[books:bg:1:12|[Bg. 1.12]]]
+
+[break] [leads chanting of synonyms to Bg 1.12]
+
+//tasya//---his; //sañjanayan//---increasing; //harṣam//---cheerfulness; //kuru-vṛddhaḥ//---the grandsire of the Kuru dynasty (Bhīṣma); //pitāmahaḥ//---the grandfather; //siṁha-nādam//---roaring sound, like a lion; //vinadya//---vibrating; //uccaiḥ//---very loudly; //śaṅkham//---conchshell; //dadhmau//---blew; //pratāpavān//---the valiant.
+
+[02:30]
+
+Translation: "Then Bhīṣma, the great valiant grandsire of the Kuru dynasty, the grandfather of the fighters, blew his conchshell very loudly like the sound of a lion, giving Duryodhana joy."
+
+**Prabhupāda:**
+Ahh! So Duryodhana was doubting, that "My grandfather, Bhīṣma, is more affectionately inclined to the other party. So he may not be lenient in fighting." So in order to encourage Duryodhana, //tasya sañjanayan harṣam:// "Don't think that I am lenient. I am strong." Immediately, to encourage him, he blew his conchshell. Nowadays they use bugle; formerly the conchshells were used by the kings.
+
+And not that... In modern days the fighting takes place---the poor soldiers, they come to fight, and the leaders, they remain in safety place. It is not like that. All of them came out, //kṣatriya.// Bhīṣmadeva came, Duryodhana came, Arjuna came. And face to face, they had to fight. Not that the poor soldiers would fight and they would remain in a secure place. No. So //tasya sañjanayan harṣaṁ kuru-vṛddhaḥ. Kuru-vṛddha,// the oldest man in the dynasty, Kuru dynasty, //pitāmaha,// he's the grandfather of Arjuna and Duryodhana---the Dhṛtarāṣṭra's elder uncle, his father's elder brother. He was very old man, //brahmacārī.// And in that old age also, he was taking the risk of fighting.
+
+This is //kṣatriya// spirit. Not that only... Dhṛtarāṣṭra was escaping. Not escaping, because he was physically incapable, blind, therefore he did not come in the battlefield. Otherwise, even Bhīṣmadeva, in such old age he also came. This is //kṣatriya// spirit. When there is fight, there is no rest. And fight means, "Either the other party should be killed or I shall be killed." Not that without any decision the fighting will be stopped. No. That cannot be. When there is two party, must be belligerent, one party. So decision is that "Either you kill me or I kill you." Not that "Without killing... Without being killed one of us, the fighting cannot be stopped."
+
+Just like Jarāsandha was fighting with Bhīma. During daytime the fighting was going on, and at night Bhīma was a guest of Jarāsandha, as guest is honored, respected, all the parties. But during daytime the fighting was going on. And this fighting went on for twenty-eight days. Still there was no decision. Then Kṛṣṇa gave hint, Bhīṣma, er, Bhīmasena, that "Jarāsandha has got a defect. He is joined, two bodies joined. So if you bifurcate him, then he will be killed." So later on, Bhīmasena took that policy, and Jarāsandha was killed.
+
+So amongst the //kṣatriyas// when there is fighting, unless one party is killed, the fighting cannot be stopped. This is the Battle of Kurukṣetra, to see the history of the former kings and //kṣatriyas,// how they were determined. This is one of the qualification of //kṣatriya:// not to go away from the fighting. When there is challenge of fighting, immediately a //kṣatriya// would accept. That is //kṣatriya// spirit, //īśvara-bhāvaṁ ca,// and ruling over others, and charitable. These are the symptoms of //kṣatriya.//
+
+They are described in the //Bhagavad-gītā: brāhmaṇa// qualification, //kṣatriya// qualification, //vaiśya// qualification, //śūdra// qualification. So... Very nice arrangement, Vedic civilization. Everyone is guided by the superior. The //brāhmaṇa// guides the //kṣatriyas,// the //kṣatriya// guides the //vaiśyas,// and the //vaiśya// employs the //śūdras. Cātur-varṇyaṁ mayā sṛṣṭaṁ guṇa-karma-vibhāgaśaḥ// [[books:bg:4:13|[Bg. 4.13]]]. In this way, four division of //brāhmaṇa, kṣatriya, vaiśya,// they manage the whole society so nicely. The //kṣatriyas,// as the //kṣatriya's// business was to give protection to the citizens, similarly, //vaiśya's// duty was to give protection to the animals. //Kṛṣi-go-rakṣya-vāṇijyaṁ vaiśya-karma svabhāva-jam// [[books:bg:18:44|[Bg. 18.44]]]. //Vaiśya,// they should engage themselves in agricultural production and giving protection to the cows, especially mentioned, //go-rakṣya.//
+
+//Go-rakṣya,// cow protection, is one of the item of state affairs. But now there is no cow protection. Poor cows, they deliver milk, and later on they become slaughtered. How much sinful the modern society is, and they still want peace and prosperity. That is not possible. The society must be divided---//brāhmaṇa, kṣatriya, vaiśya, śūdra//---and they must execute their proper duty. And the //vaiśyas,// they should give protection to the cows. And the //śūdras,// they should work under the direction of the higher three divisions. In this way there will be nice management.
+
+Then, as it is stated, during the reign of Mahārāja Yudhiṣṭhira, //kāmaṁ vavarṣa parjanyaḥ// [[books:sb:1:10:4|[SB 1.10.4]]]. Then nature also will help. If you keep things all right, according to the direction, then nature also will help you. Nature will give you sufficient foodstuff. //Vavarṣa parjanyaḥ, kāmam.// Whatever the necessities of life, it will be supplied by nature simply by proper pouring of water, //vṛṣṭi.// Actually, now the whole world is suffering for drought. There is scarcity of rain.
+
+And if the rain is stopped for one or two years more, there will be havoc. It is already there, havoc. In India there is famine, because they are more..., mostly agriculturist. So there is famine. In other countries they have got industries, but India is not so industrially advanced. So without water, nothing can be produced. Therefore during Mahārāja Yudhiṣṭhira's time, //kāmaṁ vavarṣa parjanyaḥ// [[books:sb:1:10:4|[SB 1.10.4]]]. //Yajñād bhavati parjanyaḥ// [[books:bg:3:14|[Bg. 3.14]]]. If you want sufficient water, then you must perform //yajña.// These are the indications, direction of the Vedic wisdom.
+
+So at the present moment no other //yajña// is possible. The only //yajña, saṅkīrtana-yajña,// is possible. //Yajñaiḥ saṅkīrtana-prāyair yajanti hi su-medhasaḥ// [SB 11.5.32]. So if this Kṛṣṇa consciousness movement is taken seriously all over the world and they perform //saṅkīrtana-yajña,// everything will be adjusted immediately. Everything. But these rascals will not take it. They will suffer.
+
+Otherwise, all directions are there. People have to take the advantage of direction, perfect direction, without any mistake, and they will be happy. So we are trying to introduce this Kṛṣṇa consciousness movement so that people may come to their senses, take advantage of it and be happy.
+
+Thank you very much. Hare Kṛṣṇa. [end]

@@ -1,0 +1,39 @@
+~~Title: Conversation in Hindi — April 6, 1976, Vṛndāvana~~
+~~bc: April 6, 1976, Vṛndāvana~~
+====== Conversation in Hindi ======
+
+---- dataentry spoken ----
+id_hidden        : 760406r1.vrn
+listtype_hidden  : Conversation Hindi
+listdate_hidden  : 1976-04-06
+showdate_hidden  : 2020-04-06
+listplace_hidden : Vṛndāvana
+Type_spoken      : Hindi
+Date_spoken      : April 6
+Year_spoken      : 1976
+Place_spoken     : Vṛndāvana
+Length_hidden    : 22:01
+Title_hidden     : Conversation in Hindi [Some English] During Lunch
+----
+
+<audio>
+{{spoken:760406r1.vrn.mp3|Conversation in Hindi — April 6, 1976, Vṛndāvana}}
+</audio>
+
+**Devotee:**
+[annoucing] It is [indistinct] in Vṛndāvana, during lunchtime [Hindi]
+
+**Prabhupāda:**
+Jesus Christ ... The 10 Commandments, the first is thou shall not kill [Hindi] ...thou shall not kill ... is that religion?
+
+**Indian:**
+Christian, second Musilman, third [indistinct]. Fourth Hindu ...
+
+**Prabhupāda:**
+The fourth one?
+
+**Indian:**
+Fourth [indistinct], first Christian, second Mohammedan, third [indistinct]. Fourth Hindu [Hindi]
+
+**Prabhupāda:**
+Hare Kṛṣṇa. [break] [end]

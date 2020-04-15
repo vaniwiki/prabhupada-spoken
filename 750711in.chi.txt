@@ -1,0 +1,42 @@
+~~Title: Bābājī Initiation — July 11, 1975, Chicago~~
+~~bc: July 11, 1975, Chicago~~
+====== Bābājī Initiation ======
+
+---- dataentry spoken ----
+id_hidden        : 750711in.chi
+listtype_hidden  : Bābājī Initiation
+listdate_hidden  : 1975-07-11
+showdate_hidden  : 2020-07-11
+listplace_hidden : Chicago
+Type_spoken      : Initiation
+Date_spoken      : July 11
+Year_spoken      : 1975
+Place_spoken     : Chicago
+Length_hidden    : 03:15
+Title_hidden     : Bābājī Initiation
+----
+
+<audio>
+{{spoken:750711in.chi.mp3|Bābājī Initiation — July 11, 1975, Chicago}}
+</audio>
+
+**Prabhupāda:**
+...I am accepting this dress following the footprints of other //ācāryas.// This dress was accepted by Rūpa Gosvāmī, not ordinary person. The six Gosvāmīs, they accepted. It is called //paramahaṁsa// stage, //sannyāsī's// highest stage. //Sannyāsī// has got four stages: //kuṭīcaka, bahūdaka, parivrājakācārya// and //paramahaṁsa. Kuṭīcaka// means when he takes //sannyāsa,// he is not accustomed to beg; therefore he makes a small cottage outside the village, and the foodstuff comes from the home or somebody sends. In this way, when he is little practiced, then he goes door to door, begs, //bahūdaka.// Then he is more practiced: //parivrājakācārya,// he travels all over the world. And after that, when he is fully mature, he can chant one place Hare Kṛṣṇa. He has no more business. So this is the last stage of mature //sannyāsa.// But because you are thinking that you may not live many years, so you simply sit down, go to Māyāpur. You have no other business. Simply go on chanting Hare Kṛṣṇa //mantra,// and whatever little //prasādam// available, you take. And the rest of your life simply engage in chanting. That will be success.
+
+**Devotees:**
+//Jaya.//
+
+**Tamāla Kṛṣṇa:**
+Is he supposed to get a name, Prabhupāda?
+
+**Prabhupāda:**
+Name is the same.
+
+**Brahmānanda:**
+Audolomi dāsa Bābājī?
+
+**Prabhupāda:**
+Ah, Audolomi dāsa Bābājī. That's all. Hare Kṛṣṇa. So this is the first time in our institution, a //bābājī.// So it is not to be imitated. It is the //paramahaṁsa// stage, when one is very mature in //sannyāsa// life, for that, not for ordinary person. Don't request, "Give me //sannyāsa,//" "Give me //bābājī.//" Don't do that. It is not a fashion. It is a stage of realization. That's all.
+
+**Devotees:**
+//Jaya// Śrīla Prabhu... [end]

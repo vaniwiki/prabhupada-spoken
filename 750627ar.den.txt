@@ -1,0 +1,39 @@
+~~Title: Arrival Address — June 27, 1975, Denver~~
+~~bc: June 27, 1975, Denver~~
+====== Arrival Address ======
+
+---- dataentry spoken ----
+id_hidden        : 750627ar.den
+listtype_hidden  : Arrival Address
+listdate_hidden  : 1975-06-27
+showdate_hidden  : 2020-06-27
+listplace_hidden : Denver
+Type_spoken      : Lecture
+Date_spoken      : June 27
+Year_spoken      : 1975
+Place_spoken     : Denver
+Length_hidden    : 07:15
+Title_hidden     : Arrival Address
+----
+
+<audio>
+{{spoken:750627ar.den.mp3|Arrival Address — June 27, 1975, Denver}}
+</audio>
+
+**Prabhupāda:**
+Who sang this song? You sang. You know the meaning?
+
+**Devotee:**
+"O venerable Vaiṣṇava, O ocean of mercy, please be merciful unto your servant. Please give me one drop of mercy. I pray for the shade of your lotus feet."
+
+**Prabhupāda:**
+Yes. So Narottama dāsa Ṭhākura has also said, //chāḍiyā vaiṣṇava-sevā, nistāra pāyeche kebā.// Our this Kṛṣṇa consciousness movement is for //nistāra. Nistāra// means to be liberated from the capture of //māyā.// That is called //nistāra.// Release, release from the capture of //māyā.// So Vaiṣṇava... //Chāḍiyā vaiṣṇava-sevā, nistāra pāyeche kebā.// Narottama dāsa Ṭhākura, another Vaiṣṇava... As it sung by Bhaktivinoda Ṭhākura, similarly, you know that Narottama dāsa Ṭhākura, he also has sung many song, approved songs. Viśvanātha Cakravartī Ṭhākura says that Narottama dāsa Ṭhākura's songs are Vedic evidence. All Vaiṣṇavas songs are like that, Vedic evidence. There is no mistake, cheating, imperfectness or illusion. Conditioned soul, they are manufacturing by mental concoction. That is another thing. They are full of imperfection, illusion, mistake and cheating. But when we hear songs by the Vaiṣṇava, that is for liberation.
+
+So I am very glad to see this temple. You have purchased it? No. That's nice, very good space. And devotees are very nice. So our process is very simple, that we dedicate our life to the service of Vaiṣṇava and, according to his direction, //śravaṇaṁ kīrtanam,// hearing and chanting of Viṣṇu, Kṛṣṇa, and refrain from the sinful activities. Then life is successful. It is not very difficult. We do not require to be very learned scholar or very rich men or to take birth in a very high family. We do not require all these things. If we are endowed with all these blessings, //janma aiśvarya śruta śrī//---means birth in high family or great nation, to be very opulent, rich, and very highly educated or very beautiful---these things are very good material possessions. But if we have got them, it is all right.
+
+Even if we have not got, there is no impediment. //Kṛṣṇa-bhakti// is without any check by any material condition. Anyone can execute this devotional service, provided he wants to do it. And especially when one is endowed with other blessings, it is just like good scent in gold. Gold is appreciated by everyone. It is valuable, but there is no good flavor. Similarly, //janma aiśvarya,// to... You American boys and girls, you are born of a very big nation. That is very good. You are all educated, you are beautiful, and //janma aiś..., śruta śrī,// four things. These things are just like gold. But if you add Kṛṣṇa consciousness along with these qualification, then gold with flavor. Gold is valuable, and if there is flavor, it is more valuable. Of course, in the material world there is no gold which has got good scent. But in the spiritual world that is possible. So with your intelligence, with your opulence, add Kṛṣṇa consciousness. Then nationally, individually, collectively you will be glorified.
+
+I am very glad that you have opened this center. It is nice place. And execute Kṛṣṇa consciousness. It is very simple, not difficult, if we want to execute. But I am glad that you are doing that. Our Satsvarūpa Mahārāja is guiding you, and I thank you very much for your kind reception. Hare Kṛṣṇa.
+
+**Devotees:**
+//Jaya// Prabhupāda. [end]

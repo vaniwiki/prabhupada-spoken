@@ -1,0 +1,62 @@
+~~Title: SB 5.5.1 [Hindi] — November 14, 1975, Bombay~~
+~~bc: November 14, 1975, Bombay~~
+====== Śrīmad-Bhāgavatam 5.5.1 [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 751114sb.bom
+listtype_hidden  : SB 5.5.1 [Hindi]
+listdate_hidden  : 1975-11-14
+showdate_hidden  : 2020-11-14
+listplace_hidden : Bombay
+Type_spoken      : Hindi
+Date_spoken      : November 14
+Year_spoken      : 1975
+Place_spoken     : Bombay
+Length_hidden    : 37:45
+Title_hidden     : Śrīmad-Bhāgavatam 5.5.1 [Hindi]
+----
+
+<audio>
+{{spoken:751114sb.bom_hindi.mp3|SB 5.5.1 [Hindi] — November 14, 1975, Bombay}}
+</audio>
+
+**Prabhupāda:**
+
+> oṁ ajñāna-timirāndhasya
+> jñānāñjana-śalākayā
+> cakṣur-unmīlitaṁ yena
+> tasmai śrī-gurave namaḥ
+
+> śrī-caitanya-mano 'bhīṣṭaṁ
+> sthāpitaṁ yena bhū-tale
+> svayaṁ rūpaḥ kadā mahyaṁ
+> dadāti sva-padāntikam
+
+> he kṛṣṇa karuṇā-sindho
+> dīna-bandho jagat-pate
+> gopeśa gopīkā-kānta
+> rādhā-kānta namo 'stu te
+
+> tapta-kāñcana-gaurāṅgi
+> rādhe vṛndāvaneśvari
+> vṛṣabhānu-sute devi
+> praṇamāmi hari-priye
+
+> śrī-kṛṣṇa-caitanya
+> prabhu-nityānanda
+> śrī-advaita gadādhara
+> śrīvāsādi-gaura-bhakta-vṛnda
+
+> hare kṛṣṇa hare kṛṣṇa
+> kṛṣṇa kṛṣṇa hare hare
+> hare rāma hare rāma
+> rāma rāma hare hare
+
+> ṛṣabha uvāca
+> nāyaṁ deho deha-bhājāṁ nṛloke
+> kaṣṭān kāmān arhate viḍ-bhujāṁ ye
+> tapo divyaṁ putrakā yena sattvaṁ
+> śuddhyed yasmād brahma-saukhyaṁ tv anantam
+> [[books:sb:5:5:1|[SB 5.5.1]]]
+
+Hindi

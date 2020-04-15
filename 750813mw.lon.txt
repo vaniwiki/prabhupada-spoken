@@ -1,0 +1,51 @@
+~~Title: Morning Walk [partially recorded] — August 13, 1975, London~~
+~~bc: August 13, 1975, London~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 750813mw.lon
+listtype_hidden  : Morning Walk
+listdate_hidden  : 1975-08-13
+showdate_hidden  : 2020-08-13
+listplace_hidden : London
+Type_spoken      : Morning Walk
+Date_spoken      : August 13
+Year_spoken      : 1975
+Place_spoken     : London
+Length_hidden    : 00:48
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:750813mw.lon.mp3|Morning Walk [partially recorded] — August 13, 1975, London}}
+</audio>
+
+**Prabhupāda:**
+//...ratha// car?
+
+**Haṁsadūta:**
+Well, we're thinking of trying again for the permission to get the use of it.
+
+**Prabhupāda:**
+Yes.
+
+**Haṁsadūta:**
+Then we'll keep it. No, their objection was that it went..., it jumped the curb; it went out of control at one point, and therefore...
+
+**Prabhupāda:**
+That we can rectify. We can make such arrangement it will not jump; it will sit down. [Haṁsadūta laughs] [break] ...don't work.
+
+**Haṁsadūta:**
+It can work to take the //ratha// car out.
+
+**Prabhupāda:**
+Huh?
+
+**Haṁsadūta:**
+We...
+
+**Prabhupāda:**
+Oh.
+
+**Haṁsadūta:**
+We always take it off to take the //ratha// car out. [//japa//] [end]

@@ -1,0 +1,57 @@
+~~Title: Room Conversation [partially recorded] — March 31, 1977, Bombay~~
+~~bc: March 31, 1977, Bombay~~
+====== Room Conversation [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 770331r2.bom
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1977-03-31
+showdate_hidden  : 2020-03-31
+listplace_hidden : Bombay
+Type_spoken      : Room Conversation
+Date_spoken      : March 31
+Year_spoken      : 1977
+Place_spoken     : Bombay
+Length_hidden    : 01:26
+Title_hidden     : Room Conversation [partially recorded]
+----
+
+<audio>
+{{spoken:770331r2.bom.mp3|Room Conversation [partially recorded] — March 31, 1977, Bombay}}
+</audio>
+
+**Prabhupāda:**
+...and bangle, and //tink-tink-tink.// Then he took away another bangle, again //tink-tink-tink.// Another bangle, again //tink-tink-tink.// When there was only one, there was no //tink-tink-tink.//
+
+**Hari-śauri:**
+Right.
+
+**Prabhupāda:**
+So remain always one and read books. Then there will be no noise. And as soon as you become two, //tink-tink-tink.// That I don't want.
+
+**Tamāla Kṛṣṇa:**
+No, it won't happen. If anyone comes to see me, I'll go out of the apartment.
+
+**Prabhupāda:**
+Yes. That you can make reception there.
+
+**Tamāla Kṛṣṇa:**
+At the elevator shaft.
+
+**Prabhupāda:**
+Yes. In this way arrange. It should remain always quiet and serene.
+
+**Tamāla Kṛṣṇa:**
+Serene.
+
+**Prabhupāda:**
+That's all.
+
+**Tamāla Kṛṣṇa:**
+These are your quarters. No one else should come.
+
+**Prabhupāda:**
+And we shall arrange for seeing our own men, at a time. That we shall see. But it should be... The principle should be silence. Then it will be all right. I will be free to work.
+
+**Tamāla Kṛṣṇa:**
+Very good. We'll see to that, Śrīla Prabhupāda. [end]

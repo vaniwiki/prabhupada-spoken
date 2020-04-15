@@ -1,0 +1,38 @@
+~~Title: SB 1.7.9 [partially recorded] — September 8, 1976, Vṛndāvana~~
+~~bc: September 8, 1976, Vṛndāvana~~
+====== Śrīmad-Bhāgavatam 1.7.9 [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760908sb.vrn
+listtype_hidden  : SB 1.7.9 [partially recorded]
+listdate_hidden  : 1976-09-08
+showdate_hidden  : 2020-09-08
+listplace_hidden : Vṛndāvana
+Type_spoken      : Śrīmad-Bhāgavatam
+Date_spoken      : September 8
+Year_spoken      : 1976
+Place_spoken     : Vṛndāvana
+Length_hidden    : 08:14
+Title_hidden     : Śrīmad-Bhāgavatam 1.7.9 [partially recorded]
+----
+
+<audio>
+{{spoken:760908sb.vrn.mp3|SB 1.7.9 [partially recorded] — September 8, 1976, Vṛndāvana}}
+</audio>
+
+**Pradyumna:** Translation: "Śrī Śaunaka asked Suta Gosvāmī: Śrī Śukadeva Gosvāmī was already on the path of self-realization, and thus he was pleased with his own self. So why did he take the trouble to undergo the study of such a vast literature?"
+
+**Prabhupāda:**
+
+> śaunaka uvāca
+> sa vai nivṛtti-nirataḥ
+> sarvatropekṣako muniḥ
+> kasya vā bṛhatīm etām
+> ātmārāmaḥ samabhyasat
+> [[books:sb:1:7:9|[SB 1.7.9]]]
+
+So Śukadeva Gosvāmī, he is //ātmārāma.// He... This //śloka// will be explained in the next verse, //ātmārāmāś ca munayo. Ātmārāma,// there are many varieties of meaning of //ātmārāma.// Caitanya Mahaprabhu has explained in sixty-four different ways in the //Caitanya-caritāmṛta.// So how Caitanya Mahāprabhu was a great scholar---He is great in everything, but to make a show at least---He showed His scholarship in explaining this //ātmārāma// verse. //Sa vai nivṛtti-nirataḥ sarvatropekṣako muniḥ. Nivṛtti// means one who has ceased all material activities. He has practically nothing to do with this material world, and still it is said, //kasya vā bṛhatīm etām.// And still, he went out and preached //Śrīmad-Bhāgavatam// when Parikṣit Mahārāja was going to die. So this is the questions: how the //ātmārāma// becomes interested in other activities? He is //ātmārāma,// he is already satisfied.
+
+So these activities are not material activities. //Nivṛtti-nirataḥ,// we have to stop this material world, material activities. That does not mean you will have to stop your activities. The other part of the activities, they will begin after stopping these material activities. That is explained in the //Bhagavad-gītā: brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati// [[books:bg:18:54|[Bg. 18.54]]]. One who is //ātmārāma, brahma-bhūtaḥ, ahaṁ brahmāsmi,// "I am not this material body. No more I have to do anything for this material body." //Ātmārāma. Brahma-bhūtaḥ prasannātmā.// People are anxious, especially the //karmīs,// how to maintain this body, but when one comes to the conclusion that "I am not this body," naturally his interest for maintaining the body diminishes. Practically it becomes nil. //Nidrāhāra-vihārakādi-vijitau.// You will find from the behavior of the Gosvāmīs, they practically conquered over the necessities of this body. But that does not mean he has to cease all activities. The Māyāvāda philosophy, they say that when one becomes //brahma-bhūtaḥ, ātmārāma,// he has nothing to do any more. No. The //śāstra// does not say that. //Śāstra// says that when you become //ātmārāma,// or //brahma-bhūtaḥ,// your material anxieties, material activities, they become stopped. //Brahma-bhūtaḥ prasannātmā// [[books:bg:18:54|[Bg. 18.54]]]. //Prasannātmā:// he has nothing to do.
+
+Suppose if somebody is assured that now, henceforward, you haven't go to do anything, everything will come automatically, naturally one becomes //prasannātmā,// very jolly. I am free from the anxieties. Because this material world means full of anxieties, //sadā samudvigna-dhiyām.// That is material world. And when you come to the spiritual platform, there is no anxieties, no..., //na śocati na kāṅkṣati.// That is anxiety-free. So anxiety-free does not mean you haven't got to do anything. Your material life is purified, //sarvopādhi vinirmuktaṁ tat paratvena nirmalam// [[books:cc:madhya:19:170|[Cc. Madhya 19.170]]]. When we become free from the designation, "I am this body," therefore "I am American," "I am Indian," "I am the father of this family, so I have got my wife, I have got my children," so many things, this is material relationship. So when we understand that I am nothing to do with all these things, certainly I become jolly, //prasannātmā.// But it is not that cessation of our activities. No. //Mad-bhaktiṁ labhate parām// [[books:bg:18:54|[Bg. 18.54]]]. In other words, the //ātmārāma,// they cease their material activities, but they begin their spiritual activities. Therfore we find Śukadeva Gosvāmī, he ceased from all material activities, but when he saw that Parikṣit Mahārāja is very much anxious what to do---he is a Vaiṣṇava, perfect Vaiṣṇava, and Śukadeva Gosvāmī is perfect Vaiṣṇava---he approached him, that "Parikṣit Mahārāja is perplexed..." [break] [end]

@@ -1,0 +1,24 @@
+~~Title: Lecture [Hindi] — October 14, 1972, Delhi~~
+~~bc: October 14, 1972, Delhi~~
+====== Lecture [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 721014le.del
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1972-10-14
+showdate_hidden  : 2020-10-14
+listplace_hidden : Delhi
+Type_spoken      : Hindi
+Date_spoken      : October 14
+Year_spoken      : 1972
+Place_spoken     : Delhi
+Length_hidden    : 58:25
+Title_hidden     : Lecture [Hindi]
+----
+
+<audio>
+{{spoken:721014le.del_hindi.mp3|Lecture [Hindi] — October 14, 1972, Delhi}}
+</audio>
+
+**Prabhupāda:**
+

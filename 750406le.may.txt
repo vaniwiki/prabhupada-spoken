@@ -1,0 +1,31 @@
+~~Title: Lecture After Play — April 6, 1975, Māyāpur~~
+~~bc: April 6, 1975, Māyāpur~~
+====== Lecture After Play ======
+
+---- dataentry spoken ----
+id_hidden        : 750406le.may
+listtype_hidden  : Lecture After Play
+listdate_hidden  : 1975-04-06
+showdate_hidden  : 2020-04-06
+listplace_hidden : Māyāpur
+Type_spoken      : Lecture
+Date_spoken      : April 6
+Year_spoken      : 1975
+Place_spoken     : Māyāpur
+Length_hidden    : 03:16
+Title_hidden     : Lecture After Play
+----
+
+<audio>
+{{spoken:750406le.may.mp3|Lecture After Play — April 6, 1975, Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+...dramatical performance. It is very nice. Śrī Caitanya Mahāprabhu also introduced this dramatical play when He was //gṛhastha// at Navadvīpa, and all the devotees used to see. But they were played by all males. There was no such thing, female taking part. This female taking part was later on introduced by one dramatist, by Girish Chandra Ghosh, imitating the Western way of dramatical play. Otherwise, in our childhood, we never saw any dramatical play performed by woman. So if you organize this kind of play, at least they'll be appreciated by the saintly order. The //sannyāsīs// also can see. But parts played by women, the //sannyāsīs// cannot see. That is not..., strictly prohibited.
+
+By Caitanya Mahāprabhu's personal example we can see that there was a dancing and musical play by women in the Jagannātha temple. Of course, ordinary visitors, they can see, but //sannyāsīs// or //brahmacārīs,// they are strictly prohibited. So when the music was going on, Caitanya Mahāprabhu became very ecstatic, that "Such a nice music is coming from Jagannātha temple. Let Me go and see." Then His personal servant Govinda prohibited Him, "Sir, these songs are from woman." "Oh? It is from woman? Govinda, you have saved My life." [laughter] So //sannyāsīs// and //brahmacārīs// are strictly prohibited to hear or to see dancing women. Of course, in your country it is very difficult. But at least if such play, dramatical play performed, the //sannyāsīs, brahmacārīs// cannot take part. But if the parts are played by male members, everyone can see, in front of the Deity. There is no harm.
+
+Thank you very much.
+
+**Devotees:**
+All glories to Śrīla Prabhupāda. [end]

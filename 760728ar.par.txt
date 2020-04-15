@@ -1,0 +1,45 @@
+~~Title: Arrival Speech — July 28, 1976, Paris~~
+~~bc: July 28, 1976, Paris~~
+====== Arrival Speech ======
+
+---- dataentry spoken ----
+id_hidden        : 760728ar.par
+listtype_hidden  : Arrival Speech
+listdate_hidden  : 1976-07-28
+showdate_hidden  : 2020-07-28
+listplace_hidden : Paris
+Type_spoken      : Lecture
+Date_spoken      : July 28
+Year_spoken      : 1976
+Place_spoken     : Paris
+Length_hidden    : 09:18
+Title_hidden     : Arrival Speech
+----
+
+<audio>
+{{spoken:760728ar.par.mp3|Arrival Speech — July 28, 1976, Paris}}
+</audio>
+
+[begins in car]
+
+**Bhagavān:**
+...all the devotees came, and we carried Jagannātha around the land. It was very blazing hot, and we stopped at one point to read //Caitanya-caritāmṛta,// the part where Lord Caitanya is going in front of the //ratha// cart. And the thunder came and lightning, and it started to rain. [break]
+
+[lecture at temple; translated into French throughout]
+
+**Prabhupāda:**
+
+> [indistinct]
+> kṣetra-jñākhyā tathā parā
+> avidyā-karma-saṁjñānyā
+> tṛtīyā śaktir iṣyate
+> [[books:cc:madhya:6:154|[Cc. Madhya 6.154]]]
+
+//Kṣetra-jñākhya tathā para. Avidyā karma saṅgaḥ anya tṛtiya śaktir iśyate. Viṣṇu-śakti,// Viṣṇu, the supreme controller, all-pervading Godhead, Viṣṇu, He and His potency, //viṣṇu-śakti parā proktaḥ,// both of them are transcendental. So the //viṣṇu-śakti// potency is one. Another reflection of the //viṣṇu-śakti// is //karma-saṅga anya,// that is, you have to work. That is called //tṛtiya,// the third, //karma-saṅga,// where you have to work. The idea is that original Viṣṇu potency, you haven't got to work. Everything is supplied automatically. And the //avidyā karma-saṅga anya,// and the other reflection, or perverted reflection, is this material world. Just like you have recited this verse, //cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa-lakṣāvṛteṣu surabhīr abhipālayantam// [Bs. 5.29]. In the spiritual world the trees are desire tree---means whatever we want, we can get---whereas in this material world, trees are not like that; they are limited potency. The cows there, unlimited potency. //Surabhī// means you can milk out as many times as you like, and as much as you like. So the idea is the spiritual world means there is no need of endeavoring for getting anything; everything is there automatically. And the material world, we have got experience, for everything we have to work so hard, then we can get something.
+
+So actually this material world is perverted reflection. Just like this body, without the spirit soul, it is useless; similarly, this material world, even, if there is no spiritual touch, it is useless. So the more you spiritualize the whole atmosphere, the more you become sufficient and happy. This Kṛṣṇa consciousness movement is for that purpose. People cannot understand it. They think that "These people are not working, simply chanting and dancing and eating." But that is our business. [laughter] Without working, we can have everything sufficiently. So stick to this Kṛṣṇa consciousness. You are already advanced. That is my request. Don't deviate. You'll have never any want. That's a fact. It is not my invention; it is the statement of Kṛṣṇa. //Teṣāṁ nityābhiyuktānāṁ yoga-kṣemaṁ vahāmy aham// [[books:bg:9:22|[Bg. 9.22]]]. //Nityabhiyukta,// those who are constantly engaged in Kṛṣṇa business, whatever they want, Kṛṣṇa is personally interested to supply it. So without any hesitation, stick to this Kṛṣṇa consciousness, everything will be amply supplied. Whatever you need, that will be supplied, and whatever you have got already, that will be given protection. //Yoga-kṣemaṁ vahāmy aham// [[books:bg:9:22|[Bg. 9.22]]]. Not that we shall be indolent and lazy. No. We shall utilize our energy for giving service to Kṛṣṇa. That actually we are engaged. We are not lazy. Every one of us is engaged in some sort of service for Kṛṣṇa. So that is my request, that I am now getting old, and that you stick to this principle, and you'll remain always happy. I think this is for the fourth time I have come here. So I find you very happy. Continue, and whenever I shall come, I shall see you happy.
+
+Thank you very much.
+
+**Devotees:**
+//Jaya// Prabhupāda. [end]

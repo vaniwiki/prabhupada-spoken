@@ -1,0 +1,48 @@
+~~Title: Morning Walk — March 25, 1975, Māyāpur~~
+~~bc: March 25, 1975, Māyāpur~~
+====== Morning Walk ======
+
+---- dataentry spoken ----
+id_hidden        : 750325mw.may
+listtype_hidden  : Morning Walk
+listdate_hidden  : 1975-03-25
+showdate_hidden  : 2020-03-25
+listplace_hidden : Māyāpur
+Type_spoken      : Morning Walk
+Date_spoken      : March 25
+Year_spoken      : 1975
+Place_spoken     : Māyāpur
+Length_hidden    : 01:05
+Title_hidden     : Morning Walk [Partially Recorded]
+----
+
+<audio>
+{{spoken:750325mw.may.mp3|Morning Walk — March 25, 1975, Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+...you take away money for serving //daridra-nārāyaṇa.// When you go to India, we see all //daridra-nārāyaṇas// are lying down on the footpath. What do you do with this money? Swami Nikhilānanda personally told me that they now enquire.
+
+**Acyutānanda:**
+He died there last year.
+
+**Prabhupāda:**
+Yes. Oh, here is another skyscraper?
+
+**Karandhara:**
+Yes.
+
+**Prabhupāda:**
+Multi-stories.
+
+**Gurukṛpā:**
+I think in India they're only fogscraper. They are not very high.
+
+**Prabhupāda:**
+Oh, fog?
+
+**Gurukṛpā:**
+Fogscraper, not very high.
+
+**Prabhupāda:**
+[Bengali] [break] [end]

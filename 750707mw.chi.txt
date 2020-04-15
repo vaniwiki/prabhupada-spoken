@@ -1,0 +1,97 @@
+~~Title: Morning Walk — July 7, 1975, Chicago~~
+~~bc: July 7, 1975, Chicago~~
+====== Morning Walk ======
+
+---- dataentry spoken ----
+id_hidden        : 750707mw.chi
+listtype_hidden  : Morning Walk
+listdate_hidden  : 1975-07-07
+showdate_hidden  : 2020-07-07
+listplace_hidden : Chicago
+Type_spoken      : Morning Walk
+Date_spoken      : July 7
+Year_spoken      : 1975
+Place_spoken     : Chicago
+Length_hidden    : 01:34
+Title_hidden     : Morning Walk
+----
+
+<audio>
+{{spoken:750707mw.chi.mp3|Morning Walk — July 7, 1975, Chicago}}
+</audio>
+
+[in car]
+
+**Prabhupāda:**
+...Jewish temple?
+
+**Brahmānanda:**
+Yes.
+
+**Prabhupāda:**
+Deity or not?
+
+**Tamāla Kṛṣṇa:**
+Oh, no.
+
+**Jayatīrtha:**
+No. They worship their scripture, though, the Toraḥ. They keep it on one altar and then they bring it out...
+
+**Brahmānanda:**
+Once a year.
+
+**Jayatīrtha:**
+And everyone pays respects.
+
+**Prabhupāda:**
+The scripture gives any description of God?
+
+[break] [on walk]
+
+**Prabhupāda:**
+...religion, they have got at least.
+
+**Brahmānanda:**
+Yes. [break]
+
+**Tamāla Kṛṣṇa:**
+...spoke to Gargamuni Mahārāja this morning.
+
+**Prabhupāda:**
+Hmm?
+
+**Tamāla Kṛṣṇa:**
+I spoke with Gargamuni Mahārāja this morning.
+
+**Prabhupāda:**
+Hm!
+
+**Tamāla Kṛṣṇa:**
+He collected $12,000 this month.
+
+**Prabhupāda:**
+Collected.
+
+**Tamāla Kṛṣṇa:**
+Yes.
+
+**Prabhupāda:**
+But I heard that he is collecting $6,000 daily.
+
+**Brahmānanda:**
+Six hundred.
+
+**Prabhupāda:**
+Six hundred, oh.
+
+**Tamāla Kṛṣṇa:**
+He collected twelve thousand. But his party is increasing in size.
+
+**Prabhupāda:**
+Yes, he can organize. [laughs] Hare Kṛṣṇa. [break]
+
+**Tamāla Kṛṣṇa:**
+...Philadelphia to see you at the Ratha-yātrā.
+
+**Prabhupāda:**
+Hare Kṛṣṇa. [break] When important talks will be, I shall say. You can record. [end]

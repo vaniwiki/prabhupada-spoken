@@ -1,0 +1,41 @@
+~~Title: Departure Lecture — February 18, 1975, Mexico City~~
+~~bc: February 18, 1975, Mexico City~~
+====== Departure Lecture ======
+
+---- dataentry spoken ----
+id_hidden        : 750218dp.mex
+listtype_hidden  : Departure Lecture
+listdate_hidden  : 1975-02-18
+showdate_hidden  : 2020-02-18
+listplace_hidden : Mexico City
+Type_spoken      : Lecture
+Date_spoken      : February 18
+Year_spoken      : 1975
+Place_spoken     : Mexico City
+Length_hidden    : 10:53
+Title_hidden     : Departure Lecture [with Spanish translator]
+----
+
+<audio>
+{{spoken:750218dp.mex.mp3|Departure Lecture — February 18, 1975, Mexico City}}
+</audio>
+
+[translated throughout by Hṛdayānanda]
+
+**Prabhupāda:**
+We left our home and father, and we are in this fallen material world, and we are suffering too much. It is exactly like a very rich man's son leaves home for independence and wanders all over the world, unnecessarily taking trouble. A rich man's son has nothing to do. His father's property is sufficient for his comfortable life. Still, as we have got examples now in the Western countries, many rich man's son becomes hippie, leaves home and unnecessarily takes trouble. Our position, our needs---we all living entities who are within this material world---is exactly like that. We have voluntarily come into this material world for sense enjoyment, and in sense enjoyment we have forgotten our supreme father, God. The material nature's duty is to give us simply miserable condition of life.
+
+> kṛṣṇa bhuliya jīva bhoga vāñchā kare
+> pāśate māyā tāre jāpaṭiyā dhare
+> [//Prema-vivarta//]
+
+Means as soon as the living entity wants to enjoy life without Kṛṣṇa, without God, immediately he becomes under the clutches of //māyā.// This is our position. We are under the control of //māyā,// and we can get out of it also, as it is said in the //Bhagavad-gītā, mām eva ya prapadyante māyām etāṁ taranti// [[books:bg:7:14|[Bg. 7.14]]]: "Anyone who surrenders unto Me, he gets out of the control of //māyā.//" We are, therefore, preaching all over the world Kṛṣṇa consciousness, or God consciousness, and teaching them how to surrender to Kṛṣṇa and thus get out of the clutches of //māyā.// We have no other desire or ambition besides this. We plainly say, "Here is God. You surrender unto Him. You always think of Him, offer your obeisances. Then your life will be successful." But the people in general, they are exactly madmen. Simply for sense gratification they are working so hard day and night.
+
+So devotees are very sorry to see their plight. Prahlāda Mahārāja said that "I am very sorry for these persons." Who are they? //Tato vimukha-cetasa māyā-sukhāya bharam udvahato vimūḍhān// [[books:sb:7:9:43|[SB 7.9.43]]]. These rascals, //vimūḍhan,// they have created a civilization, gorgeous civilization. What is that? Just like in your country especially, a gorgeous truck for sweeping. The business is sweeping, and for that they have manufactured a gorgeous truck: //guh-guh-guh-guh-guh-guh-guh.// The sweeping can be done in hand. There are so many men. But they are loitering in the street, and a huge truck is required for sweeping. It is creating huge sound, and it is very dangerous also, but they are thinking, "This is advancement of civilization." Therefore Prahlāda Mahārāja said, //māyā-sukhāya.// Just to get relief from sweeping... There is no relief; they have got other troubles. But they are thinking, "Now we haven't got to sweep. It is a great relief." Similarly, a simple razor can be used for shaving, and they have got so many machines and, to manufacture the machines, so many factories. So in this way if we study, item by item, this kind of civilization is called demonic civilization. //Ugra-karma. Ugra-karma// means ferocious activities.
+
+So there is no objection for the material comforts, but actually we have to see whether they are comforts or miserable condition. Therefore our this human form of life is meant for saving time to develop our Kṛṣṇa consciousness. It is not meant for wasting unnecessarily, because we do not know when the next death is coming. And if we do not prepare ourself for the next life, then at any moment we can die, and we have to accept a body offered by the material nature. Therefore I wish that all of you who have come to join this Kṛṣṇa consciousness movement live very carefully so that //māyā// may not snatch you from the hand of Kṛṣṇa. We can keep ourself very steady simply by following the regulative principles and chanting, minimum, sixteen rounds. Then we are safe. So you have got some information about the perfection of life. Don't misuse it. Try to keep it very steadily, and your life will be successful. This movement does not stop anything for comfortable life, but it makes regulated. So if we follow the regulative principles and chant sixteen rounds, that is our safe position. I think this instruction you will follow. That is my desire.
+
+Thank you very much.
+
+**Devotees:**
+//Jaya!// [offer obeisances] [end]

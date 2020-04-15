@@ -1,0 +1,39 @@
+~~Title: Conversation [partially recorded] — February 4, 1977, Calcutta~~
+~~bc: February 4, 1977, Calcutta~~
+====== Conversation [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 770204r2.cal
+listtype_hidden  : Conversation [partially recorded]
+listdate_hidden  : 1977-02-04
+showdate_hidden  : 2020-02-04
+listplace_hidden : Calcutta
+Type_spoken      : Room Conversation
+Date_spoken      : February 4
+Year_spoken      : 1977
+Place_spoken     : Calcutta
+Length_hidden    : 00:26
+Title_hidden     : Conversation [partially recorded]
+----
+
+<audio>
+{{spoken:770204r2.cal.mp3|Conversation [partially recorded] — February 4, 1977, Calcutta}}
+</audio>
+
+**Prabhupāda:**
+...lords, they are selling their property.
+
+**Devotee:**
+Yes.
+
+**Bhāgavata:**
+What did Mr. Bajoria say about the Purī house?
+
+**Prabhupāda:**
+Practically he avoided.
+
+**Gargamuni:**
+Yes, I saw that. When you asked that question, I could see in his face.
+
+**Devotee:**
+Whatever... [end]

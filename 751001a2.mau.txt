@@ -1,0 +1,84 @@
+~~Title: Arrival Reception — October 1, 1975, Mauritius~~
+~~bc: October 1, 1975, Mauritius~~
+====== Arrival Reception ======
+
+---- dataentry spoken ----
+id_hidden        : 751001a2.mau
+listtype_hidden  : Arrival Reception
+listdate_hidden  : 1975-10-01
+showdate_hidden  : 2020-10-01
+listplace_hidden : Mauritius
+Type_spoken      : Lecture
+Date_spoken      : October 1
+Year_spoken      : 1975
+Place_spoken     : Mauritius
+Length_hidden    : 03:50
+Title_hidden     : Arrival Reception
+----
+
+<audio>
+{{spoken:751001a2.mau.mp3|Arrival Reception — October 1, 1975, Mauritius}}
+</audio>
+
+**Indian Official:**
+...to have you among us. And we welcome you on behalf of the people of Mauritius to this island and hope you will enjoy your short stay here. And Swāmījī, how long are you going to stay here?
+
+**Prabhupāda:**
+The program is one week.
+
+**Indian Official:**
+One week. Have you got any special program? You are going for lectures or...
+
+**Prabhupāda:**
+I do not know what they have arranged, but my secretary says that it will be one week.
+
+**Indian Official:**
+Have you had any idea of Mauritius before you came here? You knew anything about...
+
+**Prabhupāda:**
+[laughing] My idea is to preach Kṛṣṇa consciousness. Because for want of this knowledge, our mission of human life is failing all over the world. Therefore, I am trying to introduce this Kṛṣṇa consciousness all over the world, without any distinction of caste, creed, color. God is for everyone, and we have forgotten our relationship with God. Therefore, you are suffering in so many ways. And His instruction is there in the //Bhagavad-gītā.// If we follow, then we become happy; our life becomes successful. This is our mission.
+
+**Indian Official:**
+Well, briefly you have explained the purpose of your visit.
+
+**Prabhupāda:**
+Yes.
+
+**Indian Official:**
+And, of course, as you know, we have... By now we know that it is a worldwide movement, and we are pleased that it has reached Mauritius at long last. And we hope that there will be scope for this movement, and with your blessing.
+
+**Prabhupāda:**
+If you kindly give me the opportunity, then I can explain to you how much important this movement is and how everyone should take to it. Although it is very easy, but people are not trained up. So let us try combinedly. People may take it and be happy.
+
+**Indian Official:**
+So thank you very much, Swāmījī, and hope that your stay will be very fruitful after a long and arduous work which you have been doing throughout the world. We hope that you will be...
+
+**Prabhupāda:**
+I want to see the leading men of this place...
+
+**Indian Official:**
+Yes. Certainly.
+
+**Prabhupāda:**
+...because if they understand the importance of this movement, then my mission will be successful.
+
+**Indian Official:**
+But you will have the opportunity of seeing.
+
+**Prabhupāda:**
+Yes. //Yad yad ācarati śreṣṭhaḥ tat tad evetaro janaḥ// [[books:bg:3:21|[Bg. 3.21]]]. In //Bhagavad-gītā// it is said: the leaders, whatever they do, the ordinary, common man follows.
+
+**Indian Official:**
+Follows the fellowship[?]. That's fine, yes.
+
+**Prabhupāda:**
+So the leading men of Mauritius, if they understand the importance of this movement, then I am sure it will be very much beneficial for everyone.
+
+**Indian Official:**
+For everyone. Yes. So thank you very much, Swāmījī, on behalf of the people of Mauritius and all our friends, and the NBC TV who have been very kind enough. Here you have the chairman here. And we are very grateful to you.
+
+**Prabhupāda:**
+Thank you. [aside to devotees:] We can go now?
+
+**Devotees:**
+//Jaya// Prabhupāda. [end]

@@ -1,0 +1,84 @@
+~~Title: Room Conversation — April 22, 1976, Melbourne~~
+~~bc: April 22, 1976, Melbourne~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 760422r1.mel
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1976-04-22
+showdate_hidden  : 2020-04-22
+listplace_hidden : Melbourne
+Type_spoken      : Room Conversation
+Date_spoken      : April 22
+Year_spoken      : 1976
+Place_spoken     : Melbourne
+Length_hidden    : 03:20
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{spoken:760422r1.mel.mp3|Room Conversation — April 22, 1976, Melbourne}}
+</audio>
+
+**Prabhupāda:**
+What is that?
+
+**Puṣṭa Kṛṣṇa:**
+The machine, I forgot to turn it..., one knob down. I wanted to tape what you were saying, because... [break] We find actually it's true that when we try to speak philosophy sometimes to unwilling persons, they take that we are trying to convert them.
+
+**Prabhupāda:**
+Yes.
+
+**Puṣṭa Kṛṣṇa:**
+And therefore they feel threatened. They react in an adverse way, put up so many barriers.
+
+**Prabhupāda:**
+Chanting they will take part. That's it.
+
+**Puṣṭa Kṛṣṇa:**
+Before you went to America, in India, before 1965, were people coming at all, Indian people, to learn anything? Were they interested in any way?
+
+**Prabhupāda:**
+No.
+
+**Puṣṭa Kṛṣṇa:**
+Now they're coming, so many.
+
+**Prabhupāda:**
+They were coming, but I was engaged in writing. I was not visiting many... [break]
+
+**Hari-śauri:**
+...when they begin to write, then they finish up their activities and retire and simply write. But you wrote first and then came out and distributed it.
+
+**Puṣṭa Kṛṣṇa:**
+I personally, I don't think that even Americans or Westerners would have accepted even your teachings, as clear as they are, without having your personal association and seeing your example. I think people would have thought that it's totally impossible to do such a thing.
+
+**Hari-śauri:**
+It would have remained theoretical. But because you came and showed practical example, then everything has become very easy.
+
+**Prabhupāda:**
+Yes. //Āpani ācārī prabhu jīvera śikṣāya.// That is the way of teaching. Caitanya Mahāprabhu used to do.
+
+**Puṣṭa Kṛṣṇa:**
+I've read some of your old //Back to Godhead// magazines, and actually you've been saying the same thing all along, with the same force also. Some of your critiques of Dr. Radhakrishnan's //Bhagavad-gītā// and modern science...
+
+**Prabhupāda:**
+You have read?
+
+**Puṣṭa Kṛṣṇa:**
+Oh, yes.
+
+**Prabhupāda:**
+"Scholars Deluded."
+
+**Hari-śauri:**
+Sometimes the devotees say that "Now Prabhupāda is preaching much more strongly than ever before." But then, when we read the old //Back to Godheads,// it's exactly the same.
+
+**Puṣṭa Kṛṣṇa:**
+Even if we read the First Canto of //Bhāgavatam...//
+
+**Hari-śauri:**
+It's very powerful.
+
+**Puṣṭa Kṛṣṇa:**
+You translated that in India before you came. [end]

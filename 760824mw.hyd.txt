@@ -1,0 +1,62 @@
+~~Title: Morning Walk [partially recorded] — August 24, 1976, Hyderabad~~
+~~bc: August 24, 1976, Hyderabad~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760824mw.hyd
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1976-08-24
+showdate_hidden  : 2020-08-24
+listplace_hidden : Hyderabad
+Type_spoken      : Morning Walk
+Date_spoken      : August 24
+Year_spoken      : 1976
+Place_spoken     : Hyderabad
+Length_hidden    : 01:40
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:760824mw.hyd.mp3|Morning Walk [partially recorded] — August 24, 1976, Hyderabad}}
+</audio>
+
+**Mahāṁsa:**
+...thousand feet.
+
+**Prabhupāda:**
+No. What trees?
+
+**Mahāṁsa:**
+All flowers, shade and more fruit trees. About six or twelve varieties of mangoes.
+
+**Prabhupāda:**
+That's nice.
+
+**Passerby:**
+Mahārāja!
+
+**Prabhupāda:**
+Hare Kṛṣṇa. //Jaya.//
+
+**Indian man:**
+[Hindi] Big men, every nation, big.
+
+**Prabhupāda:**
+Hare Kṛṣṇa.
+
+**Mahāṁsa:**
+There's Muslims who go to the mosque in the morning just here. There's a mosque here, very big mosque. They go to the mosque for the five o'clock prayer and they come and have a wash and...
+
+**Prabhupāda:**
+Oh. Very good. But they have no temple here.
+
+**Devotee:**
+No. This was all built by the Nizam.
+
+**Mahāṁsa:**
+It was originally a zoo, and all the animals now it has been moved to some other place. [break]
+
+[sound of train coming]
+
+**Harikeśa:**
+Śrīla Prabhupāda? It's going to start raining pretty hard. Maybe we could stand under here, and he'll come with the car. [end]

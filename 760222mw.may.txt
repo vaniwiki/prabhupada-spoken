@@ -1,0 +1,30 @@
+~~Title: Morning Walk [partially recorded] — February 22, 1976, Māyāpur~~
+~~bc: February 22, 1976, Māyāpur~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760222mw.may
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1976-02-22
+showdate_hidden  : 2020-02-22
+listplace_hidden : Māyāpur
+Type_spoken      : Morning Walk
+Date_spoken      : February 22
+Year_spoken      : 1976
+Place_spoken     : Māyāpur
+Length_hidden    : 00:40
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:760222mw.may.mp3|Morning Walk [partially recorded] — February 22, 1976, Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+...by //prakṛti,// how intelligently.
+
+**Acyutānanda:**
+Even if they can make chemical colors, it's not as nice as the flowers.
+
+**Prabhupāda:**
+That... Apart from that, everything... //Sarva-kāma-dugdha-mahī.// From the earth, everything is there. This green color is there, this red color is there, the pink color is there, this white color is there---but you cannot separate. Where is your chemistry? Take the color, the flavor, from the earth. [end]

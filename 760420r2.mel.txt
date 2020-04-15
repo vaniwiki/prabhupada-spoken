@@ -1,0 +1,83 @@
+~~Title: Recording of TV Interview [partially recorded] — April 20, 1976, Melbourne~~
+~~bc: April 20, 1976, Melbourne~~
+====== Recording of TV Interview [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760420r2.mel
+listtype_hidden  : Recording of TV Interview [partially recorded]
+listdate_hidden  : 1976-04-20
+showdate_hidden  : 2020-04-20
+listplace_hidden : Melbourne
+Type_spoken      : Room Conversation
+Date_spoken      : April 20
+Year_spoken      : 1976
+Place_spoken     : Melbourne
+Length_hidden    : 03:33
+Title_hidden     : Recording of TV Interview [partially recorded]
+----
+
+<audio>
+{{spoken:760420r2.mel.mp3|Recording of TV Interview [partially recorded] — April 20, 1976, Melbourne}}
+</audio>
+
+[The following is a recording of a radio broadcast comprised of exerpts from the full interview in the file 760420R1-MELBOURNE]
+
+**Mike Barron:**
+...were minstrels who wander our city streets, mumbling about Hare Kṛṣṇa, then the man to answer your questions is the man who started the Kṛṣṇa movement, His Divine Grace Bhaktivedanta Swami Prabhupāda. And if you have trouble following that, the best is yet to come. His message might seem complicated to the unconverted, but when it's all boiled down, it's quite simple. All you have to do is concentrate, like Carol Jarvis did during this in-depth interview. [loud taped //kīrtana// interjected]
+
+**Carol Jarvis:**
+Your Divine Grace, what prompted you to start the Kṛṣṇa movement?
+
+**Prabhupāda:**
+Well, the scientists make research. One does wrong thing to do that. So our process is to carry out the order of the higher authorities. So my Guru Mahārāja, my spiritual master, asked me to do this. [inserted //kīrtana//]
+
+**Carol Jarvis:**
+But you led a rather normal life---before this you were married, you were a businessman.
+
+**Prabhupāda:**
+Yes.
+
+**Carol Jarvis:**
+What made you change suddenly?
+
+**Prabhupāda:**
+By this association. Just like we are holding meeting, and so many boys, girls, they come. If somebody is capturing the idea, he makes further progress. [inserted //kīrtana//]
+
+**Carol Jarvis:**
+Do you think the type of life that your devotees must lead...
+
+**Prabhupāda:**
+Yes.
+
+**Carol Jarvis:**
+...is in fact a happy one, getting up very early in the morning...
+
+**Prabhupāda:**
+Yes, it is. Just like if you are suffering from some ailments, so you have to follow some rules and regulation so that you may be cured. [inserted //kīrtana//]
+
+**Carol Jarvis:**
+Your Divine Grace, can I ask you how old you are now?
+
+**Prabhupāda:**
+Yes.
+
+**Carol Jarvis:**
+How old?
+
+**Prabhupāda:**
+I am eighty years old. [inserted //kīrtana//]
+
+**Carol Jarvis:**
+Do you make a lot of money out of the sales of your books, etcetera.? There is begging in the streets each day.
+
+**Prabhupāda:**
+Yes. But there are many beggars; they do not get money. We get money. We are not beggars; we are giving books, knowledge. [inserted //kīrtana//]
+
+**Carol Jarvis:**
+I wonder if I could ask you just finally, then, if you have a message for the Australian people.
+
+**Prabhupāda:**
+Yes, this is the message: that people are under the impression that one is this body, but that is not the fact. The soul, or the man, he is within the body. Just like you are not your..., this shirt and coat. [inserted //kīrtana//]
+
+**Mike Barron:**
+That was Carol Jarvis with the leader of the Hare Kṛṣṇa movement, a man with a message, and we hope you've taken note. Well, we'll be back in a few moments, and this time with a surprise... [end]

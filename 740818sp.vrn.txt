@@ -1,0 +1,34 @@
+~~Title: Ceremony Speech, partially recorded — August 18, 1974, Vṛndāvana~~
+~~bc: August 18, 1974, Vṛndāvana~~
+====== Ceremony Speech, partially recorded ======
+
+---- dataentry spoken ----
+id_hidden        : 740818sp.vrn
+listtype_hidden  : Ceremony Speech, partially recorded
+listdate_hidden  : 1974-08-18
+showdate_hidden  : 2020-08-18
+listplace_hidden : Vṛndāvana
+Type_spoken      : Lecture
+Date_spoken      : August 18
+Year_spoken      : 1974
+Place_spoken     : Vṛndāvana
+Length_hidden    : 05:11
+Title_hidden     : Ceremony Speech [partially recorded]
+----
+
+<audio>
+{{spoken:740818sp.vrn.mp3|Ceremony Speech, partially recorded — August 18, 1974, Vṛndāvana}}
+</audio>
+
+**Prabhupāda:**
+...Vedic literature that //kṣatraṁ dvijatvaṁ ca parasparārtham.// [break] They are meant for cooperation. So secular state does not mean that we should be neglectful of the spiritual progress of life. The government should be very careful that in the name of secularism people are going to..., astray. No. So this is the movement that //kṣatraṁ dvijatvaṁ ca parasparārtham.// We are trying to cooperate with the political power, and we are trying to impart spiritual instruction. This is our attempt. And another thing is that according to our Vedic literature, there cannot be different religions. It is not possible. Because God is one. God cannot be two. "This is Hindu God," "This is Muslim God," or "This is Christian God..." No. God is one. And //dharma// means //dharmaṁ tu sākṣād bhagavat-praṇītam// [[books:sb:6:3:19|[SB 6.3.19]]]: "The law which is given by God, that is //dharma.//" This is the simple definition of //dharma.// And at the end of //Bhagavad-gītā// Kṛṣṇa says, //sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja// [[books:bg:18:66|[Bg. 18.66]]]. That is the ultimate religion. One has to surrender to the Supreme Lord. This is religion.
+
+> sa vai puṁsāṁ paro dharmo
+> yato bhaktir adhokṣaje
+> ahaituky apratihatā
+> yena ātmā samprasīdati
+> [[books:sb:1:2:6|[SB 1.2.6]]]
+
+If we actually want peace, //samprasīdati,// then we must learn how to surrender to the Supreme Lord. It doesn't matter through which process. Either by Hindu religion or Muslim religion or Christian religion, it doesn't matter. We want to see that everyone is becoming a perfect lover of God. This is our definition of God. It may be, due to circumstantial changes in the country, the Muslim religion may be little different from Hindu religion so far the ritualistic ceremonies are concerned, but actually we want to see whether you have advanced in the matter of loving God. Not that "Superficially I am very advanced in religion, but I do not know how to love." This is the test. //Sarve sukhino bhavantu.// This is the test. A devotee wants to see that everyone is happy. It doesn't matter whether he is a Hindu or a Muslim or a Christian. It doesn't matter. We want to see that everyone is happy.
+
+This process we are following, and because we are sincerely following, people are accepting, and gradually we are advancing. Within the five or six years, we have written these books, about twenty books, four hundred pages, and we are selling very nicely these books---not only to the common man, but also to the learned scholar, big, big scholar in the universities... [break] ...bring people to God consciousness. Don't joke with them their process will be very nice... [end]

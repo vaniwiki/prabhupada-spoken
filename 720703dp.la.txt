@@ -1,0 +1,35 @@
+~~Title: Departure Address — July 3, 1972, Los Angeles~~
+~~bc: July 3, 1972, Los Angeles~~
+====== Departure Address ======
+
+---- dataentry spoken ----
+id_hidden        : 720703dp.la
+listtype_hidden  : Departure Address
+listdate_hidden  : 1972-07-03
+showdate_hidden  : 2020-07-03
+listplace_hidden : Los Angeles
+Type_spoken      : Lecture
+Date_spoken      : July 3
+Year_spoken      : 1972
+Place_spoken     : Los Angeles
+Length_hidden    : 00:45
+Title_hidden     : Departure Address
+----
+
+<audio>
+{{spoken:720703dp.la.mp3|Departure Address — July 3, 1972, Los Angeles}}
+</audio>
+
+**Prabhupāda:**
+So I am going out of station for few days. I shall come back again very soon.
+
+**Devotees:**
+//Jaya!//
+
+**Prabhupāda:**
+In the meantime, you go on holding this class, morning, regularly, one //śloka// from //Bhāgavata;// thoroughly discuss for one hour; //kīrtana.//
+
+Besides that, our other regular program should go on. Nothing should be hampered. That is my request. Live peacefully and chant Hare Kṛṣṇa.
+
+**Devotees:**
+//Jaya!// All glories to Śrīla Prabhupāda. [end]

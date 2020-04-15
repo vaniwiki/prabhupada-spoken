@@ -1,0 +1,42 @@
+~~Title: SB 5.5.2 [Hindi] — December 25, 1976, Bombay~~
+~~bc: December 25, 1976, Bombay~~
+====== Śrīmad-Bhāgavatam 5.5.2 [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 761226sb.bom
+listtype_hidden  : SB 5.5.2 [Hindi]
+listdate_hidden  : 1976-12-26
+showdate_hidden  : 2020-12-26
+listplace_hidden : Bombay
+Type_spoken      : Hindi
+Date_spoken      : December 25
+Year_spoken      : 1976
+Place_spoken     : Bombay
+Length_hidden    : 46:57
+Title_hidden     : Śrīmad-Bhāgavatam 5.5.2 [Hindi]
+----
+
+<audio>
+{{spoken:761226sb.bom_hindi.mp3|SB 5.5.2 [Hindi] — December 25, 1976, Bombay}}
+</audio>
+
+**Prabhupāda:**
+So, day before yesterday I spoke in Hindi, yesterday in English. Today I shall speak in Hindi again? What do you think?
+
+**Giriraja:**
+[announces] Hindi or English?
+
+**Guests:**
+[all together] Hindi, English, Hindi, etc.
+
+**Giriraja:**
+The majority rules, Hindi.
+
+**Prabhupāda:**
+Hindi? Hm. [Hindi] So? Hindi or Enlish?
+
+> mahat-sevāṁ dvāram āhur vimuktes
+> tamo-dvāraṁ yoṣitāṁ saṅgi-saṅgam
+> mahāntas te sama-cittāḥ praśāntā
+> vimanyavaḥ suhṛdaḥ sādhavo ye
+> [[books:sb:5:5:2|[SB 5.5.2]]]

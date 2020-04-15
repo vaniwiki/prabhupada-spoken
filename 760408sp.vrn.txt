@@ -1,0 +1,31 @@
+~~Title: Speech [Hindi] — April 8, 1976, Vṛndāvana~~
+~~bc: April 8, 1976, Vṛndāvana~~
+====== Speech [Hindi] [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760408sp.vrn
+listtype_hidden  : Speech [Hindi]
+listdate_hidden  : 1976-04-08
+showdate_hidden  : 2020-04-08
+listplace_hidden : Vṛndāvana
+Type_spoken      : Hindi
+Date_spoken      : April 8
+Year_spoken      : 1976
+Place_spoken     : Vṛndāvana
+Length_hidden    : 05:32
+Title_hidden     : Speech [Hindi] [partially recorded]
+----
+
+<audio>
+{{spoken:760408sp.vrn_hindi.mp3|Speech [Hindi] — April 8, 1976, Vṛndāvana}}
+</audio>
+
+**Prabhupāda:**
+
+> ...
+> kṛṣṇa-prema-pradāya te
+> kṛṣṇāya kṛṣṇa-caitanya-
+> nāmne gaura-tviṣe namaḥ
+> [[books:cc:madhya:19:53|[Cc. Madhya 19.53]]]
+
+[Hindi]

@@ -1,0 +1,30 @@
+~~Title: Room Conversation [partially recorded] — November 15, 1976, Vṛndāvana~~
+~~bc: November 15, 1976, Vṛndāvana~~
+====== Room Conversation [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 761115r1.vrn
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1976-11-15
+showdate_hidden  : 2020-11-15
+listplace_hidden : Vṛndāvana
+Type_spoken      : Room Conversation
+Date_spoken      : November 15
+Year_spoken      : 1976
+Place_spoken     : Vṛndāvana
+Length_hidden    : 00:40
+Title_hidden     : Room Conversation [partially recorded]
+----
+
+<audio>
+{{spoken:761115r1.vrn.mp3|Room Conversation [partially recorded] — November 15, 1976, Vṛndāvana}}
+</audio>
+
+**Prabhupāda:**
+...punishment, Kali-yuga. But this is proper punishment. Because the public also, they’re not anxious to become God conscious. 
+
+**Hari Śauri:**
+No. They’re anxious to avoid it. There’s a few, but not many.
+
+**Prabhupāda:**
+So they must be punished, with such rogues and thieves. That is stated in the //Bhāgavatam.// It is nature’s punishment. [end]

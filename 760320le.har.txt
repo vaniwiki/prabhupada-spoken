@@ -1,0 +1,24 @@
+~~Title: Lecture [Bengali] — March 20, 1976, Haridaspur~~
+~~bc: March 20, 1976, Haridaspur~~
+====== Lecture [Bengali] ======
+
+---- dataentry spoken ----
+id_hidden        : 760320le.har
+listtype_hidden  : Lecture [Bengali]
+listdate_hidden  : 1976-03-20
+showdate_hidden  : 2020-03-20
+listplace_hidden : Haridaspur
+Type_spoken      : Bengali
+Date_spoken      : March 20
+Year_spoken      : 1976
+Place_spoken     : Haridaspur
+Length_hidden    : 21:24
+Title_hidden     : Lecture [Bengali]
+----
+
+<audio>
+{{spoken:760320le.har_bengali.mp3|Lecture [Bengali] — March 20, 1976, Haridaspur}}
+</audio>
+
+**Devotee:**
+[announcing] March 20th, 1976. Śrīla Prabhupāda went on travelling //sankirtan// to a town two miles from the border of Bangladesh called Haridaspur. Where Thakur Haridas lived for some time. Here they're donating some land to us. Śrīla Prabhupāda is about to speak, I think in Bengali. Hare Kṛṣṇa.

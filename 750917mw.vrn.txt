@@ -1,0 +1,57 @@
+~~Title: Morning Walk [partially recorded] — September 17, 1975, Vṛndāvana~~
+~~bc: September 17, 1975, Vṛndāvana~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 750917mw.vrn
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1975-09-17
+showdate_hidden  : 2020-09-17
+listplace_hidden : Vṛndāvana
+Type_spoken      : Morning Walk
+Date_spoken      : September 17
+Year_spoken      : 1975
+Place_spoken     : Vṛndāvana
+Length_hidden    : 00:46
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:750917mw.vrn.mp3|Morning Walk [partially recorded] — September 17, 1975, Vṛndāvana}}
+</audio>
+
+**Dhanañjaya:**
+...at midday. He said we should also fast this morning. In fact, he said we should really fast all day and break the fast at moonrise.
+
+**Prabhupāda:**
+Hmm?
+
+**Harikeśa:**
+He said that?
+
+**Dhanañjaya:**
+Is that right? Until this evening?
+
+**Harikeśa:**
+No. He didn't say that.
+
+**Dhanañjaya:**
+Oh. What did he say? He said fast all day.
+
+**Gopāla Kṛṣṇa:**
+No, no. Harikeśa said that.
+
+**Brahmānanda:**
+On our calendar it says tomorrow is //Vāmana...//
+
+**Harikeśa:**
+Tomorrow is //Vāmana-dvādaśī.//
+
+**Prabhupāda:**
+You can come back, half past six, in my room.
+
+**Dhanañjaya:**
+Yes.
+
+**Prabhupāda:**
+Hare Kṛṣṇa. [end]

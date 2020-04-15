@@ -1,0 +1,41 @@
+~~Title: Room Conversation [partially recorded] — April 6, 1976, Vṛndāvana~~
+~~bc: April 6, 1976, Vṛndāvana~~
+====== Room Conversation [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760406r2.vrn
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1976-04-06
+showdate_hidden  : 2020-04-06
+listplace_hidden : Vṛndāvana
+Type_spoken      : Room Conversation
+Date_spoken      : April 6
+Year_spoken      : 1976
+Place_spoken     : Vṛndāvana
+Length_hidden    : 01:26
+Title_hidden     : Room Conversation [partially recorded]
+----
+
+<audio>
+{{spoken:760406r2.vrn.mp3|Room Conversation [partially recorded] — April 6, 1976, Vṛndāvana}}
+</audio>
+
+**Prabhupāda:**
+...approach Kṛṣṇa. Not that [indistinct] ...Hmm ...not for material benefit but for getting facilities to approach //gopīs// they worship Kātyāyanī for getting Kṛṣṇa as a husband. So we should follow. [indistinct].
+
+> sṛṣṭi-sthiti-pralaya-sādhana-śaktir ekā
+> chāyeva yasya bhuvanāni bibharti durgā
+> icchānurūpam api yasya ca ceṣṭate sā
+> govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+> [Bs 5.44]
+
+She acts according to the order of Govinda. Therefore to approach Govinda, if one prays to Kātyāyanī, it is very helpful.
+
+**Devotees:**
+Hare Kṛṣṇa.
+
+**Devotee:**
+Kātyāyanī is also Durgā?
+
+**Prabhupāda:**
+Yes, advent of Rādhā, maidservant. [end]

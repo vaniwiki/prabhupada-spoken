@@ -1,0 +1,59 @@
+~~Title: Room Conversation with Jaidayal Dalmia — November 2, 1977, Vṛndāvana~~
+~~bc: November 2, 1977, Vṛndāvana~~
+====== Room Conversation with Jaidayal Dalmia ======
+
+---- dataentry spoken ----
+id_hidden        : 771102r4.vrn
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1977-11-02
+showdate_hidden  : 2020-11-02
+listplace_hidden : Vṛndāvana
+Type_spoken      : Room Conversation
+Date_spoken      : November 2
+Year_spoken      : 1977
+Place_spoken     : Vṛndāvana
+Length_hidden    : 11:15
+Title_hidden     : Room Conversation with Jaidayal Dalmia
+----
+
+<audio>
+{{spoken:771102r4.vrn.mp3|Room Conversation with Jaidayal Dalmia — November 2, 1977, Vṛndāvana}}
+</audio>
+
+**Prabhupāda:**
+//Jaya.// [Hindi]
+
+**Jaidayal Dalmia:**
+[Hindi]
+
+**Prabhupāda:**
+[Hindi about the //Gītā// conference with guest] There is good demand all over the world. [Hindi] "Kṛṣṇa is not person; Kṛṣṇa is consciousness." [Hindi] Kṛṣṇa personally speaking, and "He is consciousness." He says, //yadā yadā hi dharmasya glānir bhavati bhārata// [[books:bg:4:7|[Bg. 4.7]]]: "I come down." [Hindi] Māyāvādī. Caitanya Mahāprabhu has condemned, //māyāvādi-bhāṣya śunile haya sarva-nāśa// [[books:cc:madhya:6:169|[Cc. Madhya 6.169]]]. //Caitanya-caritāmṛta he.// [Hindi] //Yogaḥ proktaḥ purātanaḥ// [[books:bg:4:3|[Bg. 4.3]]]. Kṛṣṇa said that "I am speaking to you the old //yoga// system." [Hindi] ...not my interpretation. [Hindi] [break] Kṛṣṇa is person. Where is that verse in the Tenth Canto?
+
+**Tamāla Kṛṣṇa:**
+In the //Bhagavad-gītā?//
+
+**Prabhupāda:**
+//Paraṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān// [[books:bg:10:12-13|[Bg. 10.12]]].
+
+**Jayādvaita:**
+Tenth Chapter.
+
+**Tamāla Kṛṣṇa:**
+
+> paraṁ brahma paraṁ dhāma
+> pavitraṁ paramaṁ bhavān
+> puruṣaṁ śāśvataṁ divyam
+> ādi-devam ajaṁ vibhum
+> [[books:bg:10:12-13|[Bg. 10.12]]]
+
+**Prabhupāda:**
+//Puruṣaṁ śāśvatam. Govindam ādi-puruṣam.// [break] This is understanding of //Bhagavad-gītā.// But they'll not do that. What can be done? They cannot preach //Bhagavad-gītā. Sarvam etad ṛtaṁ manye// [[books:bg:10:14|[Bg. 10.14]]]. Next line?
+
+**Tamāla Kṛṣṇa:**
+//Yan māṁ vadasi keśava, na hi te bhagavan vyaktiṁ vidur devā na dānavāḥ.//
+
+**Prabhupāda:**
+Ah. [Hindi] "I have come personally." //Yadā yadā hi dharmasya// [[books:bg:4:7|[Bg. 4.7]]]. //Bhagavad-gītā.// [Hindi] ...as it is. [Hindi] //Bhagavad-gītā// as it is, never say it. [Hindi] ...imagination... [Hindi] Simply waste of time. //Śrama eva hi kevalam// [[books:sb:1:2:8|[SB 1.2.8]]]. //Vāsudeve bhagavati bhakti-yogaḥ prayojitaḥ, janayaty āśu vairāgyam// [[books:sb:1:2:7|[SB 1.2.7]]]. //Janayaty āśu vairāgyam.// [Hindi] //Yaḥ śāstra-vidhim utsṛjya vartate kāma-kārataḥ, na siddhiṁ sāvāpnoti// [[books:bg:16:23|[Bg. 16.23]]]. [Hindi] //Śrama eva hi kevalam.// [Hindi with guest] There is good demand all over the world. [Hindi about American devotees] Nobody can turn them now. //Jaya.// Thank you very much.
+
+**Bhakti-caru:**
+Śrīla Prabhupāda? [Bengali] [end]

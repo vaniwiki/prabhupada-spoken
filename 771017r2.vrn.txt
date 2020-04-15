@@ -1,0 +1,74 @@
+~~Title: Room Conversation — October 17, 1977, Vṛndāvana~~
+~~bc: October 17, 1977, Vṛndāvana~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 771017r2.vrn
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1977-10-17
+showdate_hidden  : 2020-10-17
+listplace_hidden : Vṛndāvana
+Type_spoken      : Room Conversation
+Date_spoken      : October 17
+Year_spoken      : 1977
+Place_spoken     : Vṛndāvana
+Length_hidden    : 02:20
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{spoken:771017r2.vrn.mp3|Room Conversation — October 17, 1977, Vṛndāvana}}
+</audio>
+
+**Bhavānanda:**
+Śrīla Prabhupāda, Acyutānanda Mahārāja has come.
+
+**Prabhupāda:**
+Here?
+
+**Tamāla Kṛṣṇa:**
+Acyutānanda Mahārāja.
+
+**Prabhupāda:**
+Here. Where you are preaching now?
+
+**Acyutānanda:**
+I was in Calcutta during the Māyāpur affairs. Then I went to South India. Now I'm going to America. My stay in India may be terminated. And I received American passport. I'm able to travel now. Rāmeśvara Prabhu is sending me a ticket.
+
+**Prabhupāda:**
+Huh? Rāmeśvara?
+
+**Bhavānanda:**
+Rāmeśvara Mahārāja is sending a ticket for him to go.
+
+**Prabhupāda:**
+Oh. So you can go now, America, eh?
+
+**Bhavānanda:**
+Yes.
+
+Acyutānanda: Yes.
+
+**Prabhupāda:**
+That's good. You attended the conference?
+
+**Acyutānanda:**
+Yes.
+
+**Prabhupāda:**
+You liked?
+
+**Hari-śauri:**
+You liked it?
+
+**Acyutānanda:**
+Oh, yes. It was very successful. One scientist has actually been touched. His heart is changed, Dr. Ramaya. He, in fact, defended our one point with one other scientist.
+
+**Prabhupāda:**
+Yes.
+
+**Tamāla Kṛṣṇa:**
+[indistinct aside with Hari-śauri] You are ready for bathing, Śrīla Prabhupāda?
+
+**Prabhupāda:**
+Yes. [end]

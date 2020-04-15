@@ -1,0 +1,57 @@
+~~Title: Morning Walk [partially recorded] — April 3, 1976, Vṛndāvana~~
+~~bc: April 3, 1976, Vṛndāvana~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760403mw.vrn
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1976-04-03
+showdate_hidden  : 2020-04-03
+listplace_hidden : Vṛndāvana
+Type_spoken      : Morning Walk
+Date_spoken      : April 3
+Year_spoken      : 1976
+Place_spoken     : Vṛndāvana
+Length_hidden    : 00:39
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:760403mw.vrn.mp3|Morning Walk [partially recorded] — April 3, 1976, Vṛndāvana}}
+</audio>
+
+**Devotee:**
+[Announces] Morning walk, Vṛndāvana, April 3rd 1976. [break]
+
+**Gurudāsa:**
+[indistinct] like that. Is that true?
+
+**Prabhupāda:**
+No, is it fresh bought.
+
+**Gurudāsa:**
+Mmm-hmm.
+
+**Prabhupāda:**
+But according to the time.
+
+**Gurudāsa:**
+I see.
+
+**Prabhupāda:**
+This //aṣṭa-kālīya-līlā// or this //Govinda-līlā,// it is not recommended for you. 
+
+**Gurudāsa:**
+Mmm-hmm.
+
+**Prabhupāda:**
+It is for advanced devotees.
+
+**Gurudāsa:**
+Mmm-hmm.
+
+**Prabhupāda:**
+Not for the //sannyāsīs.// [laughs] Yes. The building we have?
+
+**Gurudāsa:**
+Yes. [break] [end]

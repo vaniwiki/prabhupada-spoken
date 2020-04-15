@@ -1,0 +1,31 @@
+~~Title: Lecture During Walk [partially recorded] — August 2, 1976, New Māyāpur~~
+~~bc: August 2, 1976, New Māyāpur~~
+====== Lecture During Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760802le.nmr
+listtype_hidden  : Lecture During Walk [partially recorded]
+listdate_hidden  : 1976-08-02
+showdate_hidden  : 2020-08-02
+listplace_hidden : New Māyāpur
+Type_spoken      : Lecture
+Date_spoken      : August 2
+Year_spoken      : 1976
+Place_spoken     : New Māyāpur
+Length_hidden    : 05:20
+Title_hidden     : Lecture During Walk [partially recorded]
+----
+
+<audio>
+{{spoken:760802le.nmr.mp3|Lecture During Walk [partially recorded] — August 2, 1976, New Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+//...yenātmā samprasīdati. Yena-ātmā samprasīdati// [[books:sb:1:2:6|[SB 1.2.6]]]. If you want to please yourself... Everyone is trying to please himself, but here is the formula: //yenātmā samprasīdati. Ātmā// means soul, the Supersoul, the mind and the body also. According to the different position, the //ātmā// is accepted in different angles of vision. But on the whole, we are searching after bodily comforts, mental peace, and satisfaction of the soul and satisfaction of the Supersoul. So this is the only process. //Yato bhaktir adhokṣaje.// If you engage yourself in devotional service, //bhakti, sa vai puṁsāṁ paro dharmo...// [[books:sb:1:2:6|[SB 1.2.6]]]. And that is the topmost system of religion. There are different religious systems, different parts of the world, of the universe. But the real purpose of religion is //yato bhaktir adhokṣaje,// how to become engaged in the service of the Lord. That is religion. And this service of the Lord cannot be checked. //Ahaituky apratihatā.// It is not that for certain reason one has to engage himself in devotional service. It is spontaneous. And //apratihatā,// without any check. Just like we are sitting down here, there is no check. Anywhere we can sit down. Of course, sometimes the climatic condition different, but there are different climates also. In India we have got almost all the year climate like this, except in the rainy season---that is also not constantly. Therefore India is supposed to be the best place for developing Kṛṣṇa consciousness, because the climate is very suitable. So here also, now this climate. It is not conditional, but you can perform service, //kīrtana,// without any check. Not that we have to live in that palace, then we can chant. No. We can live..., we can sit down underneath a tree and chant. There is no limit. We can go on.
+
+So we have to adjust things in such a way that without any condition, without any check, we can go on with our devotional service. Just like we can sit down here or anywhere. Here is the opportunity. This land is very good. You can sit down anywhere and chant this Hare Kṛṣṇa //mahā-mantra.// There is no need of chair or cushion or nothing else. //Ahaituky apratihatā.// Any condition. And //yenātmā samprasīdati,// that will please your everything---your heart, your mind, your body, your soul, everything. //Yenātmā samprasīdati.// This is the easiest method for achieving the highest perfection of life. So go on with this process without any check and be happy.
+
+Thank you very much.
+
+**Devotees:**
+//Jaya// Prabhupāda! [end]

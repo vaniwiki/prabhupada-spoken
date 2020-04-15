@@ -1,0 +1,37 @@
+~~Title: Initiation Lecture [partially recorded] — April 23, 1976, Melbourne~~
+~~bc: April 23, 1976, Melbourne~~
+====== Initiation Lecture [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760423in.mel
+listtype_hidden  : Initiation Lecture [partially recorded]
+listdate_hidden  : 1976-04-23
+showdate_hidden  : 2020-04-23
+listplace_hidden : Melbourne
+Type_spoken      : Initiation
+Date_spoken      : April 23
+Year_spoken      : 1976
+Place_spoken     : Melbourne
+Length_hidden    : 05:18
+Title_hidden     : Initiation Lecture [partially recorded]
+----
+
+<audio>
+{{spoken:760423in.mel.mp3|Initiation Lecture [partially recorded] — April 23, 1976, Melbourne}}
+</audio>
+
+**Prabhupāda:**
+...in the //Caitanya-caritāmṛta,// while teaching Śrīla Rūpa Gosvāmī, Caitanya Mahāprabhu said,
+
+> ei rūpe brahmāṇḍa bhramite kona bhāgyavān jīva
+> guru-kṛṣṇa-kṛpāya pāya bhakti-latā-bīja
+> [[books:cc:madhya:19:151|[Cc. Madhya 19.151]]]
+
+The living entities, they are transmigrating from one form of life to another and wandering from one planet to another, sometimes low-grade life, sometimes high-grade life. This is going on. This is called //saṁsāra-cakra-vartmani.// Last night we were explaining, //mṛtyu-saṁsāra-vartmani// [[books:bg:9:3|[Bg. 9.3]]]. This very word is used, //mṛtyu-saṁsāra-vartmani.// Very difficult ways of life, to die. Everyone is afraid of dying, because after death nobody knows what is going to happen. Those who are foolish, they are animals. Just like animals are being slaughtered, the other animal is thinking that "I am safe." So any person with little intelligence will never like to die and accept another body. And we do not know what kind of body we are going to get.
+
+So this initiation by the grace of //guru// and Kṛṣṇa, do not take it very leniently. Take it very seriously. It is a great opportunity. //Bīja// means seed, seed of //bhakti.// So whatever you have promised before the Lord, before your spiritual master, before fire, before Vaiṣṇavas, never deviate from this promise. Then you will keep fixed up in your spiritual life: no illicit sex, no meat-eating, no gambling, no intoxication---these four no's---and chanting Hare Kṛṣṇa---one yes. Four no's and one yes. That will make your life successful. It is very easy. It is not difficult. But //māyā// is very strong, sometimes deviates us. So when there is endeavor by the //māyā// to deviate us, just pray to Kṛṣṇa, "Please save me. I am surrendered, fully surrendered, and kindly give me protection," and Kṛṣṇa will give you protection. But don't miss this opportunity. That is my request. I have all my good wishes and blessings upon you. So let us take the opportunity of //bhakti, bhakti-latā-bīja. Mālī hañā sei bīja kare āropaṇa// [[books:cc:madhya:19:152|[Cc. Madhya 19.152]]]. So when you get a nice seed, we have to sow it within the earth. The example is, just like if you get very nice seed of first-class rose flower, so you sow it on the ground and just offer little, little water, it will grow. So this seed can be grown by watering. What is that watering? //Śravaṇa kīrtana jale karaye secana// [[books:cc:madhya:19:152|[Cc. Madhya 19.152]]]. This watering of the seed, //bhakti-latā,// is //śravaṇa-kīrtana,// hearing and chanting. So you will hear from the //sannyāsīs// and the Vaiṣṇavas more and more about it. But do not miss this opportunity. That is my request.
+
+Thank you very much.
+
+**Devotees:**
+//Jaya// Prabhupāda! [end]

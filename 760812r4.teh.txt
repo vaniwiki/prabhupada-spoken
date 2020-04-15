@@ -1,0 +1,45 @@
+~~Title: Conversation in Car — August 12, 1976, Tehran~~
+~~bc: August 12, 1976, Tehran~~
+====== Conversation in Car ======
+
+---- dataentry spoken ----
+id_hidden        : 760812r4.teh
+listtype_hidden  : Conversation in Car
+listdate_hidden  : 1976-08-12
+showdate_hidden  : 2020-08-12
+listplace_hidden : Tehran
+Type_spoken      : Room Conversation
+Date_spoken      : August 12
+Year_spoken      : 1976
+Place_spoken     : Tehran
+Length_hidden    : 01:21
+Title_hidden     : Conversation in Car
+----
+
+<audio>
+{{spoken:760812r4.teh.mp3|Conversation in Car — August 12, 1976, Tehran}}
+</audio>
+
+**Prabhupāda:**
+...that is Kṛṣṇa's mercy. But I am not that devotee. You are devotee. It is a fact. Kṛṣṇa supplies everything to the devotee's comfort.
+
+**Dayānanda:**
+Left or right? 
+
+**Ātreya Ṛṣi:**
+Right. Yes. Go down Jayapattim[?]. [break] Prabhupāda, in Vaiṣṇava temples, //āśramas,// do spiritual masters ever use the stick to rascal disciples?
+
+**Prabhupāda:**
+No. [laughs]
+
+**Ātreya Ṛṣi:**
+It is not customary at all?
+
+**Prabhupāda:**
+It is used for my personal friend.
+
+**Ātreya Ṛṣi:**
+But it would be nice, Śrīla Prabhupāda, once in a while...
+
+**Prabhupāda:**
+No. There was devotee, Nityānanda's contemporary, he used to whip. And his whipping means as soon as he whips, the man becomes a devotee. [break] [end]

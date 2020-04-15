@@ -1,0 +1,59 @@
+~~Title: Lecture [Hindi] — April 25, 1974, Tirupati~~
+~~bc: April 25, 1974, Tirupati~~
+====== Lecture [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 740425le.tir
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1974-04-25
+showdate_hidden  : 2020-04-25
+listplace_hidden : Tirupati
+Type_spoken      : Hindi
+Date_spoken      : April 25
+Year_spoken      : 1974
+Place_spoken     : Tirupati
+Length_hidden    : 46:22
+Title_hidden     : Lecture [Hindi]
+----
+
+<audio>
+{{spoken:740425le.tir_hindi.mp3|Lecture [Hindi] — April 25, 1974, Tirupati}}
+</audio>
+
+**Pradyumna:**
+[Prabhupāda and devotees repeat] [leads chanting of verse]
+
+> kāmasya nendriya prītir
+> lābho jīveta yāvatā
+> jīvasya tattva-jijñāsā
+> nārtho yaś ceha karmabhiḥ
+> [[books:sb:1:2:10|[SB 1.2.10]]]
+
+[01:28]
+
+Translation: "Life's desires should never be aimed at gratifying the senses. One should desire to live only because human life enables one to inquire about the Absolute Truth. This should be the goal of all works."
+
+**Prabhupāda:**
+You'll be able to translate?
+
+**Devotee:**
+Myself prabhu?
+
+**Prabhupāda:**
+Yes.
+
+**Devotee:**
+[indistinct]
+
+**Prabhupāda:**
+Anyone who can translate.
+
+> kāmasya nendriya prītir
+> lābho jīveta yāvatā
+> jīvasya tattva-jijñāsā
+> nārtho yaś ceha karmabhiḥ
+> [[books:sb:1:2:10|[SB 1.2.10]]]
+
+We have been discussing...
+
+[switches over to Hindi]

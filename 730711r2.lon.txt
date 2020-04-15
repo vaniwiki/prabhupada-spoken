@@ -1,0 +1,62 @@
+~~Title: Room Conversation with Indian Guest — July 11, 1973, London~~
+~~bc: July 11, 1973, London~~
+====== Room Conversation with Indian Guest ======
+
+---- dataentry spoken ----
+id_hidden        : 730711r2.lon
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1973-07-11
+showdate_hidden  : 2020-07-11
+listplace_hidden : London
+Type_spoken      : Room Conversation
+Date_spoken      : July 11
+Year_spoken      : 1973
+Place_spoken     : London
+Length_hidden    : 03:54
+Title_hidden     : Room Conversation with Indian Guest
+----
+
+<audio>
+{{spoken:730711r2.lon.mp3|Room Conversation with Indian Guest — July 11, 1973, London}}
+</audio>
+
+**Prabhupāda:**
+...accepted in that group.
+
+**Indian man (1):**
+Suppose if somebody is absolutely ignorant about...
+
+**Prabhupāda:**
+So therefore there should be education. Why the //śāstras// are there? Why //guru// is there? //Tad-vijñānārthaṁ sa gurum evābhigacchet// [MU 1.2.12]. You must accept //guru// and learn. Why should you remain ignorant?
+
+**Indian man (1):**
+How one should start when he's completely ignorant of all these things?
+
+**Prabhupāda:**
+He should go... //Tad-vijñānārthaṁ sa gurum evābhigacchet.//
+
+**Indian man (1):**
+//Tad viddhi praṇipātena...// [[books:bg:4:34|[Bg. 4.34]]].
+
+**Prabhupāda:**
+//Paripraśnena sevayā.// He should become a disciple of a bona fide //guru.// Otherwise, how he can learn? If you are uneducated, you should go to school.
+
+**Indian man (1):**
+[aside:] You want to ask anything?
+
+[pause]
+
+**Prabhupāda:**
+[Hindi] [laughter] It is very difficult to, to //guru,// but when //guru// comes, they also do not accept him. What can be done? They are so fallen. Only fortunate. //Ei rūpe brahmāṇḍa bhramite kona bhāgyavān jīva// [[books:cc:madhya:19:151|[Cc. Madhya 19.151]]].
+
+So to go to //guru,// to Kṛṣṇa, that requires fortune. //Kona bhāgyavān jīva.// Some fortunate person. //Guru-kṛṣṇa-kṛpāya pāya bhakti-latā-bīja// [[books:cc:madhya:19:151|[Cc. Madhya 19.151]]]. By the mercy of //guru// and Kṛṣṇa, he gets the seed of this //bhakti. Bhaktyā mām abhijānāti// [[books:bg:18:55|[Bg. 18.55]]]. And when he's a //bhakta,// then he can understand what is God.
+
+[aside:] Get the light on.
+
+//Bhaktyā mām abhijānā...// No, there. That's all right.
+
+**Indian man (2):**
+[Hindi]
+
+**Prabhupāda:**
+[Hindi for some time, a few English words] [break] [Hindi for some time] [end]

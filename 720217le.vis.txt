@@ -1,0 +1,23 @@
+~~Title: Lecture [Hindi] [Partially Recorded] — February 17, 1972, Visakhapatnam~~
+~~bc: February 17, 1972, Visakhapatnam~~
+====== Lecture [Hindi] [Partially Recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 720217le.vis
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1972-02-17
+showdate_hidden  : 2020-02-17
+listplace_hidden : Visakhapatnam
+Type_spoken      : Hindi
+Date_spoken      : February 17
+Year_spoken      : 1972
+Place_spoken     : Visakhapatnam
+Length_hidden    : 06:51
+Title_hidden     : Lecture [Hindi] [partially recorded]
+----
+
+<audio>
+{{spoken:720217le.vis_hindi.mp3|Lecture [Hindi] [Partially Recorded] — February 17, 1972, Visakhapatnam}}
+</audio>
+
+**Prabhupāda:**

@@ -1,0 +1,34 @@
+~~Title: Morning Walk — January 28, 1977, Bhubaneswar~~
+~~bc: January 28, 1977, Bhubaneswar~~
+====== Morning Walk ======
+
+---- dataentry spoken ----
+id_hidden        : 770128mw.bhu
+listtype_hidden  : Morning Walk
+listdate_hidden  : 1977-01-28
+showdate_hidden  : 2020-01-28
+listplace_hidden : Bhubaneswar
+Type_spoken      : Morning Walk
+Date_spoken      : January 28
+Year_spoken      : 1977
+Place_spoken     : Bhubaneswar
+Length_hidden    : 02:28
+Title_hidden     : Morning Walk
+----
+
+<audio>
+{{spoken:770128mw.bhu.mp3|Morning Walk — January 28, 1977, Bhubaneswar}}
+</audio>
+
+[in car]
+
+**Prabhupāda:**
+This is also arrangement by Kṛṣṇa. //Vināśāya ca duṣkṛtām.// "I will arrange soldiers. Russia will arrange for military power, America will arrange for military power, and they'll be engaged in fighting so that the overburdened earth will be released from these, all these demons. And it will pave the way for Kṛṣṇa consciousness." And so long they're alive, they'll protest against Kṛṣṇa consciousness: "This is brainwash." So Kṛṣṇa will arrange war between them. Then they'll be finished, and it will be easy for us to make progress. So //paritrāṇāya sādhūnāṁ vināśāya ca duṣkṛtām// [[books:bg:4:8|[Bg. 4.8]]].
+
+**Satsvarūpa:**
+Why will that be favorable for us? You said that will be...
+
+**Prabhupāda:**
+//Paritrāṇāya sādhūnām,// that we are meeting so many obstacles for these rascal demons, and when they will be killed, then our path will be easier. And they will also understand that "This demonic way of life is not good. Let us take to Kṛṣṇa."
+
+[break] ...that unnecessarily they fight occasionally between themselves. There is no question of fight. There is a Malthus' theory in economics that when the population is increased, there is... [break] [end]

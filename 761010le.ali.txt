@@ -1,0 +1,24 @@
+~~Title: Lecture [Hindi] — October 10, 1976, Aligarh~~
+~~bc: October 10, 1976, Aligarh~~
+====== Lecture [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 761010le.ali
+listtype_hidden  : Lecture [Hindi]
+listdate_hidden  : 1976-10-10
+showdate_hidden  : 2020-10-10
+listplace_hidden : Aligarh
+Type_spoken      : Hindi
+Date_spoken      : October 10
+Year_spoken      : 1976
+Place_spoken     : Aligarh
+Length_hidden    : 16:50
+Title_hidden     : Lecture [Hindi]
+----
+
+<audio>
+{{spoken:761010le.ali_hindi.mp3|Lecture [Hindi] — October 10, 1976, Aligarh}}
+</audio>
+
+**Prabhupāda:**
+[Hindi]

@@ -1,0 +1,23 @@
+~~Title: Lecture [Bengali] — March 4, 1972, Calcutta~~
+~~bc: March 4, 1972, Calcutta~~
+====== Lecture [Bengali] ======
+
+---- dataentry spoken ----
+id_hidden        : 720304le.cal
+listtype_hidden  : Lecture [Bengali]
+listdate_hidden  : 1972-03-04
+showdate_hidden  : 2020-03-04
+listplace_hidden : Calcutta
+Type_spoken      : Bengali
+Date_spoken      : March 4
+Year_spoken      : 1972
+Place_spoken     : Calcutta
+Length_hidden    : 33:02
+Title_hidden     : Lecture [Bengali]
+----
+
+<audio>
+{{spoken:720304le.cal_bengali.mp3|Lecture [Bengali] — March 4, 1972, Calcutta}}
+</audio>
+
+**Prabhupāda:**

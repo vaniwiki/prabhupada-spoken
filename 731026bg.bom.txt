@@ -1,0 +1,40 @@
+~~Title: Bg 7.1 [Hindi] — October 26, 1973, Bombay~~
+~~bc: October 26, 1973, Bombay~~
+====== Bhagavad-gītā 7.1 [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 731026bg.bom
+listtype_hidden  : Bg 7.1 [Hindi]
+listdate_hidden  : 1973-10-26
+showdate_hidden  : 2020-10-26
+listplace_hidden : Bombay
+Type_spoken      : Hindi
+Date_spoken      : October 26
+Year_spoken      : 1973
+Place_spoken     : Bombay
+Length_hidden    : 36:18
+Title_hidden     : Bhagavad-gītā 7.1 [Hindi]
+----
+
+<audio>
+{{spoken:731026bg.bom_hindi.mp3|Bg 7.1 [Hindi] — October 26, 1973, Bombay}}
+</audio>
+
+**Pradyumna: **"Now hear, O son of Pṛthā, how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt." [[books:bg:7:1|[Bg. 7.1]]]
+
+**Prabhupāda:**
+So, which language I shall use? English or Hindi? If I speak in Hindi...
+
+**Guest:**
+[indistinct]
+
+**Prabhupāda:**
+But if I speak in Hindi they'll not understand. As you say. Hmm? Majority? [laughter] Shall I speak in English? [Hindi] Thank you. So they want me to speak in Hindi, We got permission? [Hindi] [laughter] So, shall I speak in Hindi? [laughter] Hey?
+
+**Devotee:**
+A little of both? Maybe a little of both?
+
+**Prabhupāda:**
+Both [indistinct] ...little? Hmm.
+
+> śrī-bhagavān uvāca

@@ -1,0 +1,24 @@
+~~Title: Comment on Painting — May 9, 1968, Boston~~
+~~bc: May 9, 1968, Boston~~
+====== Comment on Painting ======
+
+---- dataentry spoken ----
+id_hidden        : 680509cm.bos
+listtype_hidden  : Comment on Painting
+listdate_hidden  : 1968-05-09
+showdate_hidden  : 2020-05-09
+listplace_hidden : Boston
+Type_spoken      : Various
+Date_spoken      : May 9
+Year_spoken      : 1968
+Place_spoken     : Boston
+Length_hidden    : 00:00
+Title_hidden     : Comment on Painting
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680509cm.bos.mp3|Comment on Painting — May 9, 1968, Boston}}
+</audio>
+
+**Prabhupāda:**
+I have to thank Jadurāṇī for nice pictures. She is giving us light about spiritual understanding. So Kṛṣṇa will bless her with greater energy for Kṛṣṇa consciousness. Thank you. So this picture, Rādhā-Kṛṣṇa, with His associates just joined into the picture... //Rādhā-kṛṣṇa-praṇaya-vikṛtir hlādinī śaktir asmād ekātmānāv api bhuvi purā deha-bhedaṁ gatau tau// [[books:cc:adi:1:5|[Cc. Ādi 1.5]]]. It is a very great science. The Absolute is one, but in order to enjoy transcendental bliss... [end]

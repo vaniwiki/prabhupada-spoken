@@ -1,0 +1,24 @@
+~~Title: Purport to Hare Krishna Maha Mantra — July 10, 1971, Los Angeles~~
+~~bc: July 10, 1971, Los Angeles~~
+====== Purport to Hare Krishna Maha Mantra ======
+
+---- dataentry spoken ----
+id_hidden        : 710710pu.la
+listtype_hidden  : Hare Krishna Maha Mantra
+listdate_hidden  : 1971-07-10
+showdate_hidden  : 2020-07-10
+listplace_hidden : Los Angeles
+Type_spoken      : Song Purport
+Date_spoken      : July 10
+Year_spoken      : 1971
+Place_spoken     : Los Angeles
+Length_hidden    : 00:00
+Title_hidden     : Purport to Hare Krishna Maha Mantra
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710710pu.la.mp3|Purport to Hare Krishna Maha Mantra — July 10, 1971, Los Angeles}}
+</audio>
+
+**Prabhupāda:**
+So this //mahā-mantra,// Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare, is being chanted by Brahmā with his four mouths. //Brahmā-jape catur-mukhe.// Brahmā means Lord Brahmā, and //jape// means he is chanting, //catur-mukhe,// with his four heads. Within this universe, only Brahmā has got four heads. And Lord Śiva sometimes exhibits five heads. So it is explained here that Lord Brahmā is also chanting this Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare, Hare Rāma Hare Rāma Rāma Rāma Hare Hare, with his four mouths. Still he is chanting. He does not think that he is satiated. This transcendental name is so sweet that either you chant with your one mouth and one tongue or with one thousand mouths or one thousand tongues, still, you will never feel tired. That is the purport of this song. Śrīla Rūpa Gosvāmī, he lamented that "This Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare, Hare Rāma Hare Rāma Rāma Rāma Hare Hare, these names are so sweet that how I can relish the transcendental sweetness with one tongue and one mouth? If God would have given me millions of tongues and millions of mouths, then I would have relished a little of it." So he lamented. Here also it is said that Nārada Muni, he has got always with him a //tampura,// and he is traveling all over the universe constantly. He cannot stay in any place more than a few seconds, and he has no companion. But his only companion is that //tampura// and chanting Hare Kṛṣṇa. Therefore it is said here, //nārada-yabe, vīṇā-yantre, kṛṣṇa kṛṣṇa hare hare.// [end]

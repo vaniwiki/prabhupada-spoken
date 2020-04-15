@@ -1,0 +1,30 @@
+~~Title: Bg 2.12 Hindi — February 26, 1973, Jakarta~~
+~~bc: February 26, 1973, Jakarta~~
+====== Bhagavad-gītā 2.12 Hindi ======
+
+---- dataentry spoken ----
+id_hidden        : 730226bg.jkt
+listtype_hidden  : Bg 2.12 Hindi
+listdate_hidden  : 1973-02-26
+showdate_hidden  : 2020-02-26
+listplace_hidden : Jakarta
+Type_spoken      : Hindi
+Date_spoken      : February 26
+Year_spoken      : 1973
+Place_spoken     : Jakarta
+Length_hidden    : 52:47
+Title_hidden     : Bhagavad-gītā 2.12 Hindi
+----
+
+<audio>
+{{spoken:730226bg.jkt.mp3|Bg 2.12 Hindi — February 26, 1973, Jakarta}}
+</audio>
+
+**Prabhupāda:**
+
+> na tv evāhaṁ jātu nāsaṁ
+> na tvaṁ neme janādhipāḥ
+> na caiva na bhaviṣyāmaḥ
+> sarve vayam ataḥ param
+> [[books:bg:2:12|[Bg. 2.12]]]
+

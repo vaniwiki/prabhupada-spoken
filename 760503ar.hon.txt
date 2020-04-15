@@ -1,0 +1,40 @@
+~~Title: Arrival — May 3, 1976, Honolulu~~
+~~bc: May 3, 1976, Honolulu~~
+====== Arrival ======
+
+---- dataentry spoken ----
+id_hidden        : 760503ar.hon
+listtype_hidden  : Arrival
+listdate_hidden  : 1976-05-03
+showdate_hidden  : 2020-05-03
+listplace_hidden : Honolulu
+Type_spoken      : Lecture
+Date_spoken      : May 3
+Year_spoken      : 1976
+Place_spoken     : Honolulu
+Length_hidden    : 03:52
+Title_hidden     : Arrival
+----
+
+<audio>
+{{spoken:760503ar.hon.mp3|Arrival — May 3, 1976, Honolulu}}
+</audio>
+
+**Prabhupāda:**
+
+> ...niścayād
+> tat-tat-karma-pravartanāt
+> sato vṛtteḥ sādhu-saṅge
+> ṣaḍbhir bhaktiḥ prasidhyati
+> [//Upadeśāmṛta// 3]
+
+You have seen this verse in the //Nectar of Instruction. Utsāhā:// enthusiasm. //Dhairya// means patience. //Utsāhād dhairyāt niścayāt,// means conviction. And //tat-tat-karma-pravartanāt,// and following the regulative principles. //Sato vṛtteḥ,// to become sincere and honest. And //sādhu-saṅge,// and in the association of devotees. //Ṣaḍbhir bhaktir prasidhyati.// The //bhakti,// Kṛṣṇa consciousness, will advance. These are the six principles we should always remember: enthusiasm, patience, conviction, following the regulative principles, becoming honest, and in the association of devotees.
+
+So I am very glad to see that you are all very enthusiastic, and you follow the other principles. Then be sure that you are advancing in Kṛṣṇa consciousness. And that will save you from the dangerous civilization which do not understand the future of life. As the cats and dogs, they do not understand what is the future of life, similarly, if human beings, getting this opportunity of very intelligent, developed consciousness, if a human being does not understand what is the goal of life, what is the future of life, then he remains a cat and dog. //Sa eva go-kharaḥ// [SB 10.84.13].
+
+So those who have joined this Kṛṣṇa consciousness movement, and my request is they follow the regulative principles, as instructed by Rūpa Gosvāmī, with enthusiasm, read books and distribute books. And that is a very great service. I'll speak something, you may forget; but if you read from the book, you will get good opportunity to understand the philosophy. So our principle is to study the books as well as to distribute the books. People will be benefited, and their life will be successful. This is Kṛṣṇa consciousness movement.
+
+Thank you very much.
+
+**Devotees:**
+//Jaya...// [break] [end]

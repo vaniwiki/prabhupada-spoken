@@ -1,0 +1,81 @@
+~~Title: Morning Walk [partially recorded] — February 25, 1976, Māyāpur~~
+~~bc: February 25, 1976, Māyāpur~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760225mw.may
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1976-02-25
+showdate_hidden  : 2020-02-25
+listplace_hidden : Māyāpur
+Type_spoken      : Morning Walk
+Date_spoken      : February 25
+Year_spoken      : 1976
+Place_spoken     : Māyāpur
+Length_hidden    : 01:29
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:760225mw.may.mp3|Morning Walk [partially recorded] — February 25, 1976, Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+...intelligence.
+
+**Gopāla Kṛṣṇa:**
+Yes.
+
+**Prabhupāda:**
+That is decision, that from this Western world, they haven't got to take anything. If they have got to take anything, it is from India. That they have decided. And that's a fact.
+
+**Gopāla Kṛṣṇa:**
+Once they buy, then the other Eastern European countries will also buy, may buy.
+
+**Prabhupāda:**
+No, other countries, they are purchasing.
+
+**Indian man (1):**
+Only...
+
+**Gopāla Kṛṣṇa:**
+East European countries like Poland, and these are all in the Communist block.
+
+**Prabhupāda:**
+Anyway, if Moscow buys, purchases, that is...
+
+**Jayapatākā:**
+If we translate into Russian then they'll probably take.
+
+**Prabhupāda:**
+Yes, we shall consult. First of all, let them take. Then we shall propose that.
+
+**Dayānanda:**
+Actually, //Bhagavad-gītā// has already been translated into Russian. I have seen one copy.
+
+**Gopāla Kṛṣṇa:**
+They have translated a lot of books like //Rāmāyaṇa// also in Russian.
+
+**Prabhupāda:**
+Yes.
+
+**Gopāla Kṛṣṇa:**
+I don't think they are bona fide translations, not by a devotee.
+
+**Subhaga[?]:**
+We have got a Polish devotee in London, a woman, and she's trying to translate.
+
+**Gopāla Kṛṣṇa:**
+I think Harikeśa is trying to go to Hungary.
+
+**Prabhupāda:**
+Oh.
+
+**Gopāla Kṛṣṇa:**
+Harikeśa Swami.
+
+**Prabhupāda:**
+That is also Communist?
+
+**Gopāla Kṛṣṇa:**
+Yes. The Russian block. It's in Eastern Europe. [end]

@@ -1,0 +1,56 @@
+~~Title: Morning Walk [partially recorded] — December 5, 1976, Hyderabad~~
+~~bc: December 5, 1976, Hyderabad~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 761205mw.hyd
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1976-12-05
+showdate_hidden  : 2020-12-05
+listplace_hidden : Hyderabad
+Type_spoken      : Morning Walk
+Date_spoken      : December 5
+Year_spoken      : 1976
+Place_spoken     : Hyderabad
+Length_hidden    : 03:41
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:761205mw.hyd.mp3|Morning Walk [partially recorded] — December 5, 1976, Hyderabad}}
+</audio>
+
+[in car]
+
+**Prabhupāda:**
+This rascal theory has meant an atheist. [break]
+
+**Vāsughoṣa:**
+//...mānava-sevā// say, "I don't have to support your society or your temple because God is everywhere."
+
+**Prabhupāda:**
+This is also //mānava-sevā.// We are giving this knowledge to the human society. Is it not //sevā?// They are remaining in darkness of their position, and we are giving them this knowledge. This is not //sevā?//
+
+**Vāsughoṣa:**
+But what about the poor, hungry, and the suffering bodies?
+
+**Prabhupāda:**
+Yes, poor, hungry, come. We can give you food. We are giving, already. Show the pictures. You have not seen the pictures of Māyāpur, how two thousand, three thousand people we are giving? That is included. //Bhāgavata-sevā// includes that. You do not require to do it separately. It is already there. Just like if you pour water on the root, the watering the leaf is included. But if you water the leaf, then that tree will dry. And that is not complete. But if you pour water on the root of the tree, it is complete. Why don't you give this reason? This is natural. If you give food to the stomach, the service of the other parts of the body is included. But if you give food to the eyes, it is spoiled only. The food is spoiled, the eyes are spoiled, and nobody is satisfied. Why don't you give this reason?
+
+**Vāsughoṣa:**
+So in that way, because they are not feeding the stomach, they are actually starving.
+
+**Prabhupāda:**
+Starving. They are supplying food to the eyes. The eyes are becoming blind and the food is wasted and no nutrition.
+
+**Vāsughoṣa:**
+So by this kind of philosophy they are destroying themselves.
+
+**Prabhupāda:**
+Yes. This is against their interest. These rascals, they do not know what is their interest. //Na te viduḥ svārtha-gatiṁ hi viṣṇum// [[books:sb:7:5:31|[SB 7.5.31]]]. If you keep the stomach empty and try to supply food to the eyes and legs, it is simply waste of time. But these rascals, they do not know. They will go on committing mistakes after mistakes. This is the position. We are giving the real knowledge, that "You serve in this way. Then everyone will be pleased." //Yasmin vijñāte sarvam idaṁ vijñātaṁ bhavati// [//Muṇḍaka Upaniṣad// 1.3].
+
+**Vāsughoṣa:**
+They are simply acting out of ignorance.
+
+**Prabhupāda:**
+That's it. So you are... We are delivering them from ignorance. [//kīrtana//] [break] [end]

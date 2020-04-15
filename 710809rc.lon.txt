@@ -1,0 +1,36 @@
+~~Title: Room Conversation [partially recorded] — August 9, 1971, London~~
+~~bc: August 9, 1971, London~~
+====== Room Conversation [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 710809rc.lon
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1971-08-09
+showdate_hidden  : 2020-08-09
+listplace_hidden : London
+Type_spoken      : Room Conversation
+Date_spoken      : August 9
+Year_spoken      : 1971
+Place_spoken     : London
+Length_hidden    : 00:00
+Title_hidden     : Room Conversation [partially recorded]
+----
+
+<audio>
+{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710809rc.lon.mp3|Room Conversation [partially recorded] — August 9, 1971, London}}
+</audio>
+
+**Prabhupāda:**
+Therefore His teachings, crude, teachings, cannot be now applied to the modern advanced educated people. That was suitable for those people. Now people have advanced in science, in philosophy. Now God consciousness ...and should be presented on the basis of science and philosophy. Otherwise people will not accept.
+
+**Guest:**
+There's one philosophical point I would like you to elucidate. I haven't been able to quite understand, certainly the dualistic, incomprehensible... the dualistic-nondualistic philosophy which sees at the same time Kṛṣṇa, as comprehending all of man, all of the world, everything, within the body, we might say, of Kṛṣṇa, And at the same time however, one sees the world as distinct from Kṛṣṇa, in other words, as //māyā,// and as illusion. And it is this, the dualistic, I would like to... If you could just explain to me the difference between the... I mean, how this fits in, the monistic or the idea of the unitary view that Kṛṣṇa is everything, all and in all. And then at the same time that the world, there is this world of illusion which is somehow distinct from Kṛṣṇa. Could you just explain this point to me?
+
+**Prabhupāda:**
+This is very easy to understand. Just like you are recording my speeches in the tape recorder. When you play back it will speak just like I am speaking, but I am not there. Is it not fact?
+
+**Guest:**
+Yes.
+
+**Prabhupāda:**
+It will appear now I am speaking from beyond this world. Somebody's hearing, here somebody's speaking. Again, when the record player will play... [end]

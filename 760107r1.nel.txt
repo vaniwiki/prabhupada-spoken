@@ -1,0 +1,74 @@
+~~Title: Room Conversation — January 7, 1976, Nellore~~
+~~bc: January 7, 1976, Nellore~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 760107r1.nel
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1976-01-07
+showdate_hidden  : 2020-01-07
+listplace_hidden : Nellore
+Type_spoken      : Room Conversation
+Date_spoken      : January 7
+Year_spoken      : 1976
+Place_spoken     : Nellore
+Length_hidden    : 05:19
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{spoken:760107r1.nel.mp3|Room Conversation — January 7, 1976, Nellore}}
+</audio>
+
+**Prabhupāda:**
+...no taste, no vitamin, and still they eat.
+
+**Gopāla Kṛṣṇa:**
+They can everything. They have canned food, canned fruits, canned...
+
+**Prabhupāda:**
+Yes. No, I have seen. Eating and remnants, it is kept in...
+
+**Tamāla Kṛṣṇa:**
+Oh, yes, put in the refrigerator. And then you cook it up again with fresh foods, mixing together.
+
+**Harikeśa:**
+Is it all right if he keeps it in there and then he puts some on the plate when taking? He puts on the plate when taking?
+
+**Prabhupāda:**
+I do not know whether it is all right, but it is not all right that you eat and keep it. This is not all right.
+
+**Harikeśa:**
+He takes it from there and puts it on the plate before you eat?
+
+**Yaśodānandana:**
+He keeps the salt in a separate bowl. When you require it he will give you only as much as you require.
+
+**Prabhupāda:**
+Yes, that is nice.
+
+**Hari-śauri:**
+That's why the bowl is there. That's what I intended to do, but I have to keep it away from the table.
+
+**Prabhupāda:**
+The principle should be that you should not leave remnants of food. As soon as it is used, it should not be used more. [break] Otherwise it is not possible to give up. //Paraṁ dṛṣṭvā nivartate// [[books:bg:2:59|[Bg. 2.59]]]. I am eating something not very superior, but if I get the chance of eating something superior, then I give up this inferior. So there is no question of making it vacant or void. To fill up the place with better things. So when you think of Kṛṣṇa, then you forget //māyā.// Otherwise you are entrapped with //māyā.// Why Kṛṣṇa says, //man-manā bhava mad-bhakto? Mām eva ye prapadyante// [[books:bg:7:14|[Bg. 7.14]]]. This is wanted. As soon as you become //anyābhilāṣī,// then it becomes difficult. Where is that knife? Give me one //am// root. Cut into pieces and get...
+
+**Tamāla Kṛṣṇa:**
+I think these are from the local..., growing here.
+
+**Prabhupāda:**
+That we should be very careful, that we should think of Kṛṣṇa only, not of //māyā,// in everything. No more strength. //Satataṁ kīrtayanto mām// [[books:bg:9:14|[Bg. 9.14]]]. //Avismṛti-kṛṣṇa-padāravindayoḥ kṣinoty abhadrāṇi.// We are in the //abhadra, māyā.// But //avismṛti-kṛṣṇa-padaravindayoḥ kṣiṇoti.// The thinking of //māyā// will gradually finish. //Avismṛiti-kṛṣṇa-padaravindayoḥ kṣiṇoti...// No, no, I said that you give these pieces, little, little. I'll do it myself. These pieces, this //am// root, yes.
+
+**Hari-śauri:**
+This. I'll give it out.
+
+**Prabhupāda:**
+So no //vismṛti. Avismṛti. Vismṛti// is ignorance. //Avismṛti.//
+
+> śṛṇvataṁ sva-kathāḥ kṛṣṇaḥ
+> puṇya-śravaṇa-kīrtanaḥ
+> hṛdy antaḥ-stho hy abhadrāṇi
+> vidhunoti suhṛt satām
+> [[books:sb:1:2:17|[SB 1.2.17]]]
+
+All right. [end]

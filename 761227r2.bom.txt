@@ -1,0 +1,82 @@
+~~Title: Room Conversation about F.A.T.E. — December 27, 1976, Bombay~~
+~~bc: December 27, 1976, Bombay~~
+====== Room Conversation about F.A.T.E. ======
+
+---- dataentry spoken ----
+id_hidden        : 761227r2.bom
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1976-12-27
+showdate_hidden  : 2020-12-27
+listplace_hidden : Bombay
+Type_spoken      : Room Conversation
+Date_spoken      : December 27
+Year_spoken      : 1976
+Place_spoken     : Bombay
+Length_hidden    : 05:09
+Title_hidden     : Room Conversation about F.A.T.E. [First American Theistic Exhibition]
+----
+
+<audio>
+{{spoken:761227r2.bom.mp3|Room Conversation about F.A.T.E. — December 27, 1976, Bombay}}
+</audio>
+
+**Rādhā-vallabha:**
+This is for the theistic exhibition. This is the copy for the sound track, and when the //karmīs// first walk in, this is the sound track that will play.
+
+**Prabhupāda:**
+No, no. You keep here.
+
+**Rādhā-vallabha:**
+So this is like the introduction to the entire thing. Then it comes up to the point when they see the diorama of yourself, and there's a certain part where they want to have you thinking.
+
+**Prabhupāda:**
+But here diorama should be explained in the local language.
+
+**Rādhā-vallabha:**
+Here in India.
+
+**Prabhupāda:**
+Hmm.
+
+**Rādhā-vallabha:**
+This is for the American one.
+
+**Prabhupāda:**
+Oh, American. That's all right.
+
+**Rādhā-vallabha:**
+So would you like me to read it to you?
+
+**Prabhupāda:**
+Hmm, hmm.
+
+**Rādhā-vallabha:**
+This is the very beginning. "Ladies and gentlemen, welcome to the First American Theistic Exhibition. Since time immemorial we have inquired about our origin. We have tried to understand our place in the universe, the nature of birth and death, free will and predestination, time, God and nature. However, even after countless years of philosophical study and comprehensive research, these questions still remain for the most part a mystery. The words you are about to hear were written five thousand years ago in a language no longer spoken, called Sanskrit."
+
+**Prabhupāda:**
+No longer spoken? Why?
+
+**Rādhā-vallabha:**
+I was just wondering about that myself. No longer spoken on the earth?
+
+**Prabhupāda:**
+Yes, it is spoken in India. There are many scholars who speak Sanskrit. In Europe also.
+
+**Rādhā-vallabha:**
+So we should just say, "Five thousand years ago in a language called Sanskrit."
+
+**Prabhupāda:**
+Which is still continuing, but in a limited circle.
+
+**Rādhā-vallabha:**
+"They come from a text which bears the most profound truths ever revealed to mankind. //Evaṁ paramparā-prāptam imaṁ rājarṣayo viduḥ// [[books:bg:4:2|[Bg. 4.2]]]." It's that series of verses. " 'This supreme science was received through the chain of disciplic succession, and the saintly kings understood it in that way. But in course of time the succession was broken, and therefore the science as it is appears to be lost. That very ancient science of the relationship with the Supreme is today told by Me to you because you are My devotee as well as My friend. Therefore you can understand the transcendental mystery of this science.'
+
+"Preserved by the invincible tradition of spiritual scholars known as the disciplic succession, these original words spoken by Lord Kṛṣṇa to one of His most intimate devotees were recorded in a book called //Bhagavad-gītā,// Sanskrit for the 'Song of God.' Today a unique presentation of this ancient classic has aroused keen interest and deep appreciation from leading scholars in diverse disciplines. It was brought to the West by His Divine Grace A. C. Bhaktivedanta Swami Prabhupāda, who is a living link in the chain of disciplic succession.
+
+"//Bhagavad-gītā,// long viewed with awe by many contemporary and early Western thinkers, is not a simple summary of the Hindu faith, although it is the book of truth for some five hundred million people. It is a scientific study of universal, spiritual truths, far above sectarian doctrines and ethnic beliefs. //Bhagavad-gītā// is a study of the nature and origin of consciousness.
+
+"Śrīla Prabhupāda, the world's most distinguished scholar of Vedic writings and a true humanitarian, began his labor of love in this tiny room in a temple in one of India's holiest cities, Vṛndāvana." This is when the scene of your working in the Rādhā-Dāmodara room comes on. "Working often throughout the night, Śrīla Prabhupāda painstakingly carried out the request of his spiritual predecessor to bring the message of //Bhagavad-gītā// to the Western world."
+
+Now this is the part that... You will be... This will be a recording of you speaking, and it will appear to be you thinking in the display. "Out of many, many human beings, //Bhagavad-gītā// is directed to the one who seeks to understand his position. The Lord has great mercy for human beings; therefore He spoke the //Bhagavad-gītā// to Arjuna, a saintly prince, to enlighten him. Arjuna was actually above ignorance, but he was put into ignorance on the Battlefield of Kurukṣetra just to ask about the meaning of life so that our mission of life can be perfected. "
+
+So Baradrāj wants to know if you could say this one into a microphone so he could use it in the display. [end]

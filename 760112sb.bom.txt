@@ -1,0 +1,30 @@
+~~Title: SB 5.5.1 [Hindi] — January 12, 1976, Bombay~~
+~~bc: January 12, 1976, Bombay~~
+====== Śrīmad-Bhāgavatam 5.5.1 [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 760112sb.bom
+listtype_hidden  : SB 5.5.1 [Hindi]
+listdate_hidden  : 1976-01-12
+showdate_hidden  : 2020-01-12
+listplace_hidden : Bombay
+Type_spoken      : Hindi
+Date_spoken      : January 12
+Year_spoken      : 1976
+Place_spoken     : Bombay
+Length_hidden    : 41:23
+Title_hidden     : Śrīmad-Bhāgavatam 5.5.1 [Hindi]
+----
+
+<audio>
+{{spoken:760112sb.bom_hindi.mp3|SB 5.5.1 [Hindi] — January 12, 1976, Bombay}}
+</audio>
+
+**Prabhupāda:**
+
+> nāyaṁ deho deha-bhājāṁ nṛ-loke
+> kaṣṭān kāmān arhate viḍ-bhujāṁ ye
+> tapo divyaṁ putrakā yena sattvaṁ
+> śuddhyed yasmād brahma-saukhyaṁ tv anantam
+> [[books:sb:5:5:1|[SB 5.5.1]]]
+

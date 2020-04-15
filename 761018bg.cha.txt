@@ -1,0 +1,54 @@
+~~Title: Bg 13.8-12 [Hindi] — October 7, 1976, Chandigarh~~
+~~bc: October 7, 1976, Chandigarh~~
+====== Bhagavad-gītā 13.8–12 [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 761018bg.cha
+listtype_hidden  : Bg 13.8–12 [Hindi]
+listdate_hidden  : 1976-10-18
+showdate_hidden  : 2020-10-18
+listplace_hidden : Chandigarh
+Type_spoken      : Hindi
+Date_spoken      : October 7
+Year_spoken      : 1976
+Place_spoken     : Chandigarh
+Length_hidden    : 65:38
+Title_hidden     : Bhagavad-gītā 13.8–12 [Hindi]
+----
+
+<audio>
+{{spoken:761018bg.cha_hindi.mp3|Bg 13.8-12 [Hindi] — October 7, 1976, Chandigarh}}
+</audio>
+
+**Pradyumna:**
+
+> amānitvam adambhitvam
+> ahiṁśā kṣāntir ārjavam
+> ācāryopāsanaṁ śaucaṁ
+> sthairyam ātma-vinigrahaḥ
+
+> indriyārtheṣu vairāgyam
+> anahaṅkāra eva ca
+> janma-mṛtyu-jarā-vyādhi-
+> duḥkha-doṣānudarśanam
+
+> aśaktir anabhiṣvaṅgaḥ
+> putra-dāra-gṛhādiṣu
+> nityaṁ ca sama-cittatvam
+> iṣṭāniṣṭopapattiṣu
+
+> mayi cānanya-yogena
+> bhaktir avyabhicāriṇī
+> vivikta-deśa-sevitvam
+> aratir jana-saṁsadi
+
+> adhyātma-jñāna-nityatvaṁ
+> tattva-jñānārtha-darśanam
+> etaj jñānam iti proktam
+> ajñānaṁ yad ato 'nyathā
+> [[books:bg:13:8-12|[Bg. 13.8-12]]]
+
+Translation: "Humility, pridelessness, nonviolence, tolerance, simplicity, approaching a bona fide spiritual master, cleanliness, steadiness and self-control; renunciation of the objects of sense gratification, absence of false ego, the perception of the evil of birth, death, old age and disease; nonattachment to children, wife, home and the rest, and evenmindedness amid pleasant and unpleasant events; constant and unalloyed devotion to Me, resorting to solitary places, detachment from the general mass of people; accepting the importance of self-realization, and philosophical search for the Absolute Truth-all these I thus declare to be knowledge, and what is contrary to these is ignorance."
+
+**Prabhupāda:**
+[Hindi]

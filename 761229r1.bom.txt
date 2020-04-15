@@ -1,0 +1,228 @@
+~~Title: Room Conversation — December 29, 1976, Bombay~~
+~~bc: December 29, 1976, Bombay~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 761229r1.bom
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1976-12-29
+showdate_hidden  : 2020-12-29
+listplace_hidden : Bombay
+Type_spoken      : Room Conversation
+Date_spoken      : December 29
+Year_spoken      : 1976
+Place_spoken     : Bombay
+Length_hidden    : 16:37
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{spoken:761229r1.bom.mp3|Room Conversation — December 29, 1976, Bombay}}
+</audio>
+
+**Gopāla Kṛṣṇa:**
+Bhaktivedanta Swami Prabhupāda is the author of all these books that you see. These books are being translated in every major language of the world.
+
+**Indian man (1):**
+How many books in number?
+
+**Gopāla Kṛṣṇa:**
+Eighty-four books of about four hundred pages each.
+
+**Indian man (2):**
+How many in vernacular languages printing?
+
+**Gopāla Kṛṣṇa:**
+About twenty-one different languages they have been translated.
+
+**Indian man (2):**
+In India? Indian languages?
+
+**Gopāla Kṛṣṇa:**
+No, international. French, Italian...
+
+**Indian man (2):**
+In India? Indian languages?
+
+**Gopāla Kṛṣṇa:**
+Hindi, Marathi, Gujarati, Tamil, Oriya, Bengali, Gujarati... Every major Indian language.
+
+**Indian man (1):**
+Can you tell us the different subjects covered by the...?
+
+**Gopāla Kṛṣṇa:**
+It's Vedic subjects. It's the //Śrīmad-Bhāgavatam...//
+
+**Prabhupāda:**
+We are stressing especially on //Bhagavad-gītā, Śrīmad-Bhāgavatam.//
+
+**Indian man (2):**
+You have printed outside India?
+
+**Indian man (3):**
+Do you have special on each chapter of //Gītā?//
+
+**Prabhupāda:**
+Oh, yes. Each word. You can show //Bhagavad-gītā.//
+
+**Gopāla Kṛṣṇa:**
+It's a very authoritative presentation. For example, here's the original Sanskrit //śloka,// word for word...
+
+**Indian man (3):**
+[indistinct] different [indistinct]. For example, //sāṅkhya-yoga.// You have a separate book? Then //sthita-prajñā.// You have a separate...?
+
+**Prabhupāda:**
+No separately. It is there in the //Bhagavad-gītā.//
+
+**Indian man (3):**
+But that way, your volumes are dealing with each chapter of //Gītā?//
+
+**Prabhupāda:**
+Yes.
+
+**Gopāla Kṛṣṇa:**
+Each //śloka.// Each chapter.
+
+**Guest (2):**
+No, no. Not inside the book. Different volumes. Like eighteen chapters, but eighteen volumes.
+
+**Prabhupāda:**
+No, no.
+
+**Gopāla Kṛṣṇa:**
+No. It's in one book. Twelve hundred pages.
+
+**Indian man (3):**
+And the interpretation is by you yourself?
+
+**Prabhupāda:**
+Yes. Not interpretation. I am explaining as it is. You can read one.
+
+**Indian man (3):**
+Have you tried to compare with //Gītā// written by Gyaneshvara, or by Vinoba Bhave or by somebody else?
+
+**Prabhupāda:**
+According to //Bhagavad-gītā,// if you don't follow the instruction of //Bhagavad-gītā,// you may be very learned scholar, whatever you write, it is lost. We follow that principle. As stated in the //Bhagavad-gītā, evaṁ paramparā-prāptam imaṁ rājarṣayo viduḥ// [[books:bg:4:2|[Bg. 4.2]]]. [aside:] Find out this Fourth Chapter.
+
+**Indian man (2):**
+Have these books been reviewed in foreign papers?
+
+**Prabhupāda:**
+It is very widely read.
+
+**Gopāla Kṛṣṇa:**
+For example, in the Fourth Chapter Lord Kṛṣṇa says,
+
+> evaṁ paramparā-prāptam
+> imaṁ rājarṣayo viduḥ
+> sa kāleneha mahatā
+> yogo naṣṭaḥ parantapa
+> [[books:bg:4:2|[Bg. 4.2]]]
+
+**Prabhupāda:**
+Kṛṣṇa says that this //Bhagavad-gītā// has to be received by the disciplic succession. And //sa kālena yogo naṣṭaḥ parantapa.// Because that disciplic succession is now broken, that //yoga// system is now lost. So all these interpreters, they are interpreting in their own way. Therefore it is lost. So there is no use of consulting this lost version.
+
+**Indian man (3):**
+So you just give it as it is.
+
+**Prabhupāda:**
+That is... Therefore my //Bhagavad-gītā// is named //Bhagavad-gītā As It Is.// No interpretation.
+
+**Gopāla Kṛṣṇa:**
+Each verse is the original Sanskrit //śloka,// English transliteration, word-by-word meaning, so there's no room for manipulation. There's a translation and purport. Every book that Śrīla Prabhupāda has written has the same format, and each book is illustrated.
+
+**Indian man (3):**
+Do you believe that the //Gītā// should be followed as it is, or interpretation is another thing?
+
+**Prabhupāda:**
+Yes, yes. If you read somebody's book, you must read the author's version. Why should you bring interpretation? This is... You have no business. If you want to say something of your philosophy, you can say, but why do you take //Bhagavad-gītā// and give your own interpretation? That is very bad.
+
+**Indian man (3):**
+But can you not apply your own philosophy...
+
+**Prabhupāda:**
+Why? Why should you? If you take //Bhagavad-gītā,// you should speak what //Bhagavad-gītā// is saying. And interpretation is required when the thing is not understood clearly. There you get interpretation. Unnecessarily, why should you interpret //Bhagavad-gītā?// You have no right. //Dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ// [[books:bg:1:1|[Bg. 1.1]]]. So anyone can understand there is a place Kurukṣetra still. Why should you interpret, "Kurukṣetra means this body and this and that"? Why? What is the necessity? Do you think there is necessity?
+
+**Indian man (3):**
+But just as...
+
+**Prabhupāda:**
+No, no. First of all let us settle, that //Bhagavad-gītā// begins,
+
+> dharma-kṣetre kuru-kṣetre
+> samavetā yuyutsavaḥ
+> māmakāḥ pāṇḍavāś caiva
+> kim akurvata...
+> [[books:bg:1:1|[Bg. 1.1]]]
+
+So //Mahābhārata// is the history, and there was Battle of Kurukṣetra. And that Kurukṣetra is mentioned there in the //Bhagavad-gītā,// and it is //dharma-kṣetra// since Vedic age. So the word used, //dharma-kṣetre// and //kuru-kṣetre,// it is completely understood. Why should you interpret, unless you have got a motive? And why a sane man accepts that interpretation? If you have got a different philosophy, you can write your own book. Why should you cheat others, taking //Bhagavad-gītā// and interpreting in your own way? This has spoiled the whole thing. And Kṛṣṇa says that as soon as you deviate from the disciplic succession system, then it will be lost. So what is the use of reading something which is already lost? If I want to supply you something food, it must be fresh and palatable. Then you'll enjoy. But if it is rotten, decomposed, and if we supply you that foodstuff, what you will enjoy, and what you will get benefit out of it?
+
+**Indian man (2):**
+Most Hindus, they are not properly able to understand Kṛṣṇa direct.
+
+**Prabhupāda:**
+No, I have already explained that when you cannot understand, then you interpret. But when it is clearly understood, why should you interpret?
+
+**Indian man (2):**
+How you explain the act of Kṛṣṇa taking away the //sārīs// of the //gopīs?//
+
+**Prabhupāda:**
+First of all try to understand //Bhagavad-gītā,// then go to the //sārī// of //gopī.// You do not know what is Kṛṣṇa and you are going to His //gopīs.// This is another malinterpretation. You are studying //Bhagavad-gītā.// Talk of that. In the //Bhagavad-gītā// the //gopīs' sārīs// are not mentioned. So why you are bringing //gopīs' sārīs// now? This is our fault.
+
+**Indian man (2):**
+Normally, you know, our people...
+
+**Prabhupāda:**
+No, no. This is our fault There is no mention of //gopīs' sārīs.// We are talking of //Bhagavad-gītā,// why you are bringing //gopīs' sārīs?//
+
+**Indian man (2):**
+Because that...
+
+**Prabhupāda:**
+Again "because." There is no subject matter there. You have no right to bring that. That is our fault---to bring a horse before a cart. We are talking of //Bhagavad-gītā.// There is no mention of Kṛṣṇa and //gopīs' sārīs// there. So let us talk. Finish that.
+
+**Indian man (3):**
+So you clearly said that interpretation is wrong.
+
+**Prabhupāda:**
+Interpretation means lost.
+
+**Indian man (3):**
+No, no. You clearly said that interpretation is wrong.
+
+**Prabhupāda:**
+Yes.
+
+**Indian man (3):**
+What has been done all these years?
+
+**Prabhupāda:**
+If you have done all these years wrong, that does it not right. If all of them have done wrong, then combined together it does not become right.
+
+**Indian man (3):**
+Will you repeat your...
+
+**Prabhupāda:**
+I mean to say if everyone has done wrong, then combined together will it become right? Hundreds of zeroes will make one? It will remain zero. It will not be effective. Kṛṣṇa says, //sa kālena yogo naṣṭaḥ parantapa.// And what is the next line?
+
+**Gopāla Kṛṣṇa:**
+//Yogo naṣṭaḥ parantapa.//
+
+**Prabhupāda:**
+Then? Next line?
+
+**Gopāla Kṛṣṇa:**
+//Sa evāyaṁ mayā te 'dya// [[books:bg:4:3|[Bg. 4.3]]].
+
+**Prabhupāda:**
+//Sa eva ayam yogaḥ proktaḥ purātanaḥ.// "Therefore I am saying you again the old //yoga// system. It is not that because the time has changed, I am changing it." Somebody says, "Now it was spoken some millions of years ago. Now it is modern ways, I am explaining in the modern way." That is not the system. The system is, "I am speaking the same //yoga// system," //yogaḥ proktaḥ purātanaḥ.// And they are modernizing, making compromise. That is //naṣṭa.// That is the defect. Therefore we did not get any benefit. And in the modern countries, before me, so many //yogīs, svāmīs// have been there for the last two hundred years.
+
+Not a single person became a Hindu. Now they are calling "American Hindus." Why? Because it was lost. Rotten thing was given. //Yogo naṣṭaḥ parantapa.// If you supply something to me which is rotten and decomposed, such foodstuff, what shall I get benefit? Now they are getting benefit. Our mission is to put //Bhagavad-gītā// as it is. It is Caitanya Mahāprabhu's mission that He said, //āmāra ājñāya guru hañā tāra' ei deśa// [[books:cc:madhya:7:128|[Cc. Madhya 7.128]]]: "Every one of you become a //guru// and deliver these persons, these fallen conditioned souls." That is your business. Now you can say, or I can say that "How can I become //guru?// I have no education, I have no talent. How can I become //guru?//" The answer is, //yāre dekha tāre kaha 'kṛṣṇa'-upadeśa// [[books:cc:madhya:7:128|[Cc. Madhya 7.128]]]. You simply repeat what Kṛṣṇa has said, you become a //guru.// So we are doing like that. We haven't got to manufacture. We haven't got to take so much trouble or create it by our fertile brain. We are simply repeating what Kṛṣṇa has said. That's all. And see how it is effective.
+
+**Indian man (1):**
+Do you mean it that a man who is under so much tension can...
+
+**Prabhupāda:**
+No, no. First of all, try to see the distinction. Before me, so many people went. They misinterpreted //Bhagavad-gītā,// there was no effect. And we are not misinterpreting. We are simply presenting //Bhagavad-gītā// as it is given. That is the point. Everyone says, "Swāmījī, you have done wonderful thing." But I say, "I do not know any magic, jugglery. But wonderful thing is that I have not adulterated." That is wonderful. Otherwise, nothing wonderful. What I am saying? //Man-manā bhava mad-bhaktaḥ// [[books:bg:9:34|[Bg. 9.34]]]. I am creating them //bhaktas,// that's all. I am starting these temples and ask them that "Here is the Supreme Personality of Godhead, Kṛṣṇa. You become devotee, you always chant Hare Kṛṣṇa." That's all. And they are giving up everything. Their father and mother, they are thinking, "They are our lost child." They are now giving the opposition. They have brought so many cases against me.
+
+But unless it is effective, how they are feeling the weight? Now these boys, their father, mother constantly kidnap them: "Stay here." No, they will not stay. They'll not eat with their father, mother. So they think that "Our son is lost." Other //yogīs// and //svāmīs// go, they give some method. And the son is there at home: "All right, a young man is going there." But here, their son is lost. Here their son is lost, and they are now called "American Hindus." So naturally they are very much against me. And counter movement is going on. They induce the government that "This is not a religion. The //svāmī// knows some mind-controlling power, and he's brainwashing." In this way, there is charge. So because America has got freedom of religion, so if they accept my movement as Hindu religion, they cannot do anything. The people are free to accept. But they are giving in a different charge, that I have manufactured something, that "No illicit sex, no meat-eating, no gambling---how people can accept all these things? They're brainwashed." There are so many charges. But anyone who comes to me, I don't make any compromise. Yes... [end]

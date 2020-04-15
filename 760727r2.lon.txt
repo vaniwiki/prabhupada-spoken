@@ -1,0 +1,24 @@
+~~Title: Room Conversation [Hindi] — July 27, 1976, London~~
+~~bc: July 27, 1976, London~~
+====== Room Conversation [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 760727r2.lon
+listtype_hidden  : Conversation [Hindi]
+listdate_hidden  : 1976-07-27
+showdate_hidden  : 2020-07-27
+listplace_hidden : London
+Type_spoken      : Hindi
+Date_spoken      : July 27
+Year_spoken      : 1976
+Place_spoken     : London
+Length_hidden    : 15:32
+Title_hidden     : Room Conversation [Hindi]
+----
+
+<audio>
+{{spoken:760727r2.lon_hindi.mp3|Room Conversation [Hindi] — July 27, 1976, London}}
+</audio>
+
+**Prabhupāda:**
+[Hindi]

@@ -1,0 +1,92 @@
+~~Title: Morning Walk [partially recorded] — December 4, 1976, Hyderabad~~
+~~bc: December 4, 1976, Hyderabad~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 761204mw.hyd
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1976-12-04
+showdate_hidden  : 2020-12-04
+listplace_hidden : Hyderabad
+Type_spoken      : Morning Walk
+Date_spoken      : December 4
+Year_spoken      : 1976
+Place_spoken     : Hyderabad
+Length_hidden    : 04:39
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:761204mw.hyd.mp3|Morning Walk [partially recorded] — December 4, 1976, Hyderabad}}
+</audio>
+
+[someone chanting verses in Sanskrit]
+
+**Prabhupāda:**
+[Hindi] [break]
+
+**Haṁsadūta:**
+...to Bombay.
+
+**Prabhupāda:**
+Yes.
+
+**Haṁsadūta:**
+The roadway is always difficult. It's better if you travel by air. [break]
+
+**Prabhupāda:**
+They are dangerous road.
+
+**Vāsughoṣa:**
+The roads are not very good.
+
+**Haṁsadūta:**
+Tribhuvanātha is in Gujarat, is that right?
+
+**Vāsughoṣa:**
+Gujarat, right.
+
+**Haṁsadūta:**
+He's collecting to get the bus fixed. [break] Another one, a small one. [break] The day Your Divine Grace... [break] ...so much danger with these machines. Not a... [break] Motorcycle... [break] [indistinct fragments]
+
+**Vāsughoṣa:**
+It's very old. [break] Many Arabs are here in Hyderabad.
+
+**Prabhupāda:**
+Oh.
+
+**Indian man:**
+They come here to get married. They marry local Muslims and go.
+
+**Vāsughoṣa:**
+They have so much money, but they only have a desert, so they have to come to India to try and enjoy. There's nothing to enjoy in Arabia, simply sand.
+
+**Prabhupāda:**
+Arabians come here, I know.
+
+**Vāsughoṣa:**
+In Bombay also, all the big hotels are filled with Arabians.
+
+**Prabhupāda:**
+//Ācchā?//
+
+**Devotee (1):**
+This Taj and Oberoi, so many are there.
+
+**Prabhupāda:**
+India has good income from Arabian tourist.
+
+**Vāsughoṣa:**
+Yes. And they come back again and again to India.
+
+**Prabhupāda:**
+//Ācchā?//
+
+**Vāsughoṣa:**
+Even in Bahrain I met the brother of the ruler, and he said that he liked India the best of any place he had been. He had been all over the world.
+
+**Prabhupāda:**
+That's a fact.
+
+**Vāsughoṣa:**
+He said India was the best place. So I told him to stay in our hotel in Juhu next time he came. [break] [end]

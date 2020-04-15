@@ -1,0 +1,55 @@
+~~Title: Evening Walk [partially recorded] — August 4, 1976, New Māyāpur~~
+~~bc: August 4, 1976, New Māyāpur~~
+====== Evening Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 760804ew.nmr
+listtype_hidden  : Evening Walk
+listdate_hidden  : 1976-08-04
+showdate_hidden  : 2020-08-04
+listplace_hidden : New Māyāpur
+Type_spoken      : Morning Walk
+Date_spoken      : August 4
+Year_spoken      : 1976
+Place_spoken     : New Māyāpur
+Length_hidden    : 01:39
+Title_hidden     : Evening Walk [partially recorded]
+----
+
+<audio>
+{{spoken:760804ew.nmr.mp3|Evening Walk [partially recorded] — August 4, 1976, New Māyāpur}}
+</audio>
+
+**Prabhupāda:**
+Oh, can I see? [break]
+
+**Bhagavān:**
+[aside:] Is it clean? Carnations, and these are gladiolus, for the vases, those long flowers. This is the chili peppers over here, green peppers. What's the best way to go, Haribol? Over here?
+
+**Haribolānanda:**
+...wants to see over there? The flowers and everything? [break] [tape of Prabhupāda singing in background]
+
+**Prabhupāda:**
+...that this voice does not belong to this universe.
+
+**Devotees:**
+//Haribol!//
+
+**Prabhupāda:**
+That is the secret. It is imported from the spiritual world. //Golokera prema-dhana, hari-nāma-saṅkīrtana. Golokera.// It is coming from Goloka Vṛndāvana.
+
+[sings //śrī-kṛṣṇa-caitanya prabhu-nityānanda//]
+
+[pause]
+
+**Prabhupāda:**
+That girl has returned? No.
+
+**Hari-śauri:**
+That girl from Thailand? She's still in Paris?
+
+**Bhagavān:**
+She's in Paris.
+
+**Hari-śauri:**
+She's still in Paris. [end]

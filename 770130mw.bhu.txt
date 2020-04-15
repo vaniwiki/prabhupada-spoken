@@ -1,0 +1,36 @@
+~~Title: Morning Walk [partially recorded] — January 30, 1977, Bhubaneswar~~
+~~bc: January 30, 1977, Bhubaneswar~~
+====== Morning Walk [partially recorded] ======
+
+---- dataentry spoken ----
+id_hidden        : 770130mw.bhu
+listtype_hidden  : Morning Walk [partially recorded]
+listdate_hidden  : 1977-01-30
+showdate_hidden  : 2020-01-30
+listplace_hidden : Bhubaneswar
+Type_spoken      : Morning Walk
+Date_spoken      : January 30
+Year_spoken      : 1977
+Place_spoken     : Bhubaneswar
+Length_hidden    : 01:37
+Title_hidden     : Morning Walk [partially recorded]
+----
+
+<audio>
+{{spoken:770130mw.bhu.mp3|Morning Walk [partially recorded] — January 30, 1977, Bhubaneswar}}
+</audio>
+
+**Indian man:**
+[indistinct]
+
+**Prabhupāda:**
+Yes, why not? We shall select.
+
+**Indian man:**
+//Īśopaniṣad.//
+
+**Prabhupāda:**
+Whichever you like. //Īśopaniṣad?// [break] Instruction is: read one or two books thoroughly, but don't show yourself a scholar and simply note down, "I have read this." That's all. This is foolishness. This we don't want, that you give one friend, he'll never read one line, and collect book and carry like an ass lots of books. We don't want this. Read it. Whatever book you have got, read it thoroughly. [break] Rascal scholarship. What is scholarship? He does not read, and "scholarship." To show, make show that "I have collected so many books. I have read so many books."
+
+**Bhāgavata:**
+Whenever you go to visit these professors, we try and get... [break] [end]

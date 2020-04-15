@@ -1,0 +1,29 @@
+~~Title: Bg 7.13 [Hindi] — January 1, 1973, Bombay~~
+~~bc: January 1, 1973, Bombay~~
+====== Bhagavad-gītā 7.13 [Hindi] ======
+
+---- dataentry spoken ----
+id_hidden        : 730101bg.bom
+listtype_hidden  : Bg 7.13 [Hindi]
+listdate_hidden  : 1973-01-01
+showdate_hidden  : 2020-01-01
+listplace_hidden : Bombay
+Type_spoken      : Hindi
+Date_spoken      : January 1
+Year_spoken      : 1973
+Place_spoken     : Bombay
+Length_hidden    : 38:15
+Title_hidden     : Bhagavad-gītā 7.13 [Hindi]
+----
+
+<audio>
+{{spoken:730101bg.bom_hindi.mp3|Bg 7.13 [Hindi] — January 1, 1973, Bombay}}
+</audio>
+
+**Prabhupāda:**
+
+> ...ebhiḥ sarvam idaṁ jagat
+> mohitaṁ nābhijānāti
+> mām ebhyaḥ param avyayam
+> [[books:bg:7:13|[Bg. 7.13]]]
+

@@ -1,0 +1,39 @@
+~~Title: Room Conversation — January 2, 1977, Bombay~~
+~~bc: January 2, 1977, Bombay~~
+====== Room Conversation ======
+
+---- dataentry spoken ----
+id_hidden        : 770102r3.bom
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1977-01-02
+showdate_hidden  : 2020-01-02
+listplace_hidden : Bombay
+Type_spoken      : Room Conversation
+Date_spoken      : January 2
+Year_spoken      : 1977
+Place_spoken     : Bombay
+Length_hidden    : 00:51
+Title_hidden     : Room Conversation
+----
+
+<audio>
+{{spoken:770102r3.bom.mp3|Room Conversation — January 2, 1977, Bombay}}
+</audio>
+
+**Gopāla Kṛṣṇa:**
+Trivikrama Mahārāja?
+
+**Hari-śauri:**
+I think he's rather keen on working in Southeast Asia still.
+
+**Gopāla Kṛṣṇa:**
+He spoke to me this morning. He has to go back for some time to Southeast Asia, but he's willing to stay in India and travel between centers. He's a very nice //sannyāsī,// and I think it would be a very good idea.
+
+**Prabhupāda:**
+Call him.
+
+**Gopāla Kṛṣṇa:**
+He is giving a class right now. But he cannot go... He told me that he has to go to Southeast Asia first because he has books and everything.
+
+**Hari-śauri:**
+He has two men there still. There's two men there still, and they have about two and a half thousand books still to distribute. He said one of the reasons he wanted to come was 'cause there's no center in Hong Kong... [end]

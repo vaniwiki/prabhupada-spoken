@@ -1,0 +1,59 @@
+~~Title: Room Conversation Excerpt — June 4, 1972, Mexico City~~
+~~bc: June 4, 1972, Mexico City~~
+====== Room Conversation Excerpt ======
+
+---- dataentry spoken ----
+id_hidden        : 720604r2.mex
+listtype_hidden  : Room Conversation
+listdate_hidden  : 1972-06-04
+showdate_hidden  : 2020-06-04
+listplace_hidden : Mexico City
+Type_spoken      : Room Conversation
+Date_spoken      : June 4
+Year_spoken      : 1972
+Place_spoken     : Mexico City
+Length_hidden    : 01:01
+Title_hidden     : Room Conversation Excerpt
+----
+
+<audio>
+{{spoken:720604r2.mex.mp3|Room Conversation Excerpt — June 4, 1972, Mexico City}}
+</audio>
+
+**Prabhupāda:**
+Subtle physical. Subtle physical.
+
+**Devotee (1):**
+But their extension of that.... Just like now, they are doing very intense research on the working of the brain and the electronic circuitry of the brain: electronic impulses flowing between different neurons.
+
+And they have..., their attempt is they put a gadget on your head which sends an electronic impulses, and they figure, "If we can find out the right program, we could make someone happy. We put the gadget on his head, send these electronic things in their mind..."
+
+**Śyāmasundara:**
+And it works...
+
+**Devotee (1):**
+"...and they'll become happy."
+
+**Śyāmasundara:**
+It works.
+
+**Ātreya Ṛṣi:**
+Temporarily.
+
+**Śyāmasundara:**
+They found it works. Even they can induce happiness or sadness or pleasure or fright or anything by finding the right spots in the brain.
+
+**Prabhupāda:**
+And when they take out?
+
+**Devotee (1):**
+[laughter] Finish!
+
+**Śyāmasundara:**
+You know, they can implant electrodes and have a big program, they say.
+
+**Ātreya Ṛṣi:**
+Permanent till when?
+
+**Śyāmasundara:**
+Till the electrode wears out. Till they die. He says that when the body dies, the mind dies and the consciousness dies. [end]
