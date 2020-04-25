@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Arlington Street Church
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690503le.bos.mp3|Lecture at Arlington Street Church — May 3, 1969, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690503le.bos.mp3|Lecture at Arlington Street Church — May 3, 1969, Boston}}
 </audio>
 
 [//kīrtana// led by Satsvarūpa dāsa]

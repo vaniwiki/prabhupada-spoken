@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation and Interview
 ----
 
 <audio>
-{{spoken:720703r1.ny.mp3|Room Conversation and Interview — July 3, 1972, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720703r1.ny.mp3|Room Conversation and Interview — July 3, 1972, New York}}
 </audio>
 
 **Guest (1):**

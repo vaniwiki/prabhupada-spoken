@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.21–22
 ----
 
 <audio>
-{{spoken:730718bg.lon.mp3|Bg 1.21-22 — July 18, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730718bg.lon.mp3|Bg 1.21-22 — July 18, 1973, London}}
 </audio>
 
 **Pradyumna:**

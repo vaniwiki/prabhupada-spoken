@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 7.119
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710217cc.gor.mp3|Cc. Ādi 7.119 — February 17, 1971, Gorakhpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710217cc.gor.mp3|Cc. Ādi 7.119 — February 17, 1971, Gorakhpur}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Interview
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680201iv.la.mp3|Interview — February 1, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680201iv.la.mp3|Interview — February 1, 1968, Los Angeles}}
 </audio>
 
 **Interviewer:**

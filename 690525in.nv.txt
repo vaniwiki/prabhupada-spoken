@@ -17,7 +17,7 @@ Title_hidden     : Brāhmaṇa Initiation Lecture #
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690525in.nv.mp3|Brāhmaṇa Initiation Lecture — May 25, 1969, New Vrindaban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690525in.nv.mp3|Brāhmaṇa Initiation Lecture — May 25, 1969, New Vrindaban}}
 </audio>
 
 

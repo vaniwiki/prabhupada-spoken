@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.23
 ----
 
 <audio>
-{{spoken:741003sb.may.mp3|SB 1.8.23 — October 3, 1974, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741003sb.may.mp3|SB 1.8.23 — October 3, 1974, Māyāpur}}
 </audio>
 
 **Nitāi:**

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk [World War III]
 ----
 
 <audio>
-{{spoken:750404mw.may.mp3|Morning Walk [World War III] — April 4, 1975, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750404mw.may.mp3|Morning Walk [World War III] — April 4, 1975, Māyāpur}}
 </audio>
 
 **Rūpānuga:**

@@ -17,7 +17,7 @@ Title_hidden     : Purport to Jaya Rādhā-Mādhava
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710214pu.gor.mp3|Purport to Jaya Rādhā-Mādhava — February 14, 1971, Gorakhpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710214pu.gor.mp3|Purport to Jaya Rādhā-Mādhava — February 14, 1971, Gorakhpur}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 8.28–9.2
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/661121bg.ny.mp3|Bg 8.28-9.2 — November 21, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661121bg.ny.mp3|Bg 8.28-9.2 — November 21, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

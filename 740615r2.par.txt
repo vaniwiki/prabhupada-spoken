@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Mr. Tran-Van-Kha, (former Vietnamese A
 ----
 
 <audio>
-{{spoken:740615r2.par.mp3|Room Conversation with Mr. Tran-Van-Kha — June 15, 1974, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740615r2.par.mp3|Room Conversation with Mr. Tran-Van-Kha — June 15, 1974, Paris}}
 </audio>
 
 **Prabhupāda:**

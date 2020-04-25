@@ -17,7 +17,7 @@ Title_hidden     : Temple Press Conference
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710805pc.lon.mp3|Temple Press Conference — August 5, 1971, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710805pc.lon.mp3|Temple Press Conference — August 5, 1971, London}}
 </audio>
 
 **Prabhupāda:**

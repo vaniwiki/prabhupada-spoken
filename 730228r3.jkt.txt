@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation [Hindi]
 ----
 
 <audio>
-{{spoken:730228r3.jkt_hindi.mp3|Room Conversation [Hindi] — February 28, 1973, Jakarta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730228r3.jkt_hindi.mp3|Room Conversation [Hindi] — February 28, 1973, Jakarta}}
 </audio>
 
 [poor audio]

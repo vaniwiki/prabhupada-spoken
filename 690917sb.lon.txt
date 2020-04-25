@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.2
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690917sb.lon.mp3|SB 5.5.2 — September 17, 1969, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690917sb.lon.mp3|SB 5.5.2 — September 17, 1969, London}}
 </audio>
 
 **Prabhupāda:**

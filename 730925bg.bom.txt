@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.1–2
 ----
 
 <audio>
-{{spoken:730925bg.bom.mp3|Bg 13.1-2 — September 25, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730925bg.bom.mp3|Bg 13.1-2 — September 25, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

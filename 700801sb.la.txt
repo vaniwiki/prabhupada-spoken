@@ -17,7 +17,7 @@ Title_hidden     : Śrīla Prabhupāda Teaching Nṛsiṁha Prayers, [Govindam r
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700801sb.la.mp3|SB 2.1.11 — August 1, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700801sb.la.mp3|SB 2.1.11 — August 1, 1970, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

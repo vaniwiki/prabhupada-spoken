@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.6.10
 ----
 
 <audio>
-{{spoken:751212sb.vrn.mp3|SB 7.6.10 — December 12, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751212sb.vrn.mp3|SB 7.6.10 — December 12, 1975, Vṛndāvana}}
 </audio>
 
 **Harikeśa:** "Money is so dear that one conceives that money is sweeter than honey, and who can give up the desire of accumulating such money, especially in the household life? The thieves, the professional soldiers, or the mercantile community tries to acquire money by risking the very life."

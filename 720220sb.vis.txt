@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.5 [At Ladies Club]
 ----
 
 <audio>
-{{spoken:720220sb.vis.mp3|SB 1.2.5 — February 20, 1972, Visakhapatnam}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720220sb.vis.mp3|SB 1.2.5 — February 20, 1972, Visakhapatnam}}
 </audio>
 
 **Prabhupāda:**

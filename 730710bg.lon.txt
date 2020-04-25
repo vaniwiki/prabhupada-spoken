@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.4–5
 ----
 
 <audio>
-{{spoken:730710bg.lon.mp3|Bg 1.4-5 — July 10, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730710bg.lon.mp3|Bg 1.4-5 — July 10, 1973, London}}
 </audio>
 
 **Pradyumna:**

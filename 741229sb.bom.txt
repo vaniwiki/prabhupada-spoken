@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.26.20
 ----
 
 <audio>
-{{spoken:741229sb.bom.mp3|SB 3.26.20 — December 29, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741229sb.bom.mp3|SB 3.26.20 — December 29, 1974, Bombay}}
 </audio>
 
 **Nitāi:**

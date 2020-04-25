@@ -17,7 +17,7 @@ Title_hidden     : Initiation Ceremony
 ----
 
 <audio>
-{{spoken:730515in.la.mp3|Initiation Ceremony — May 15, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730515in.la.mp3|Initiation Ceremony — May 15, 1973, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

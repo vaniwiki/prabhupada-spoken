@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.13
 ----
 
 <audio>
-{{spoken:721012bg.man.mp3|Bg 2.13 — October 12, 1972, Manila}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721012bg.man.mp3|Bg 2.13 — October 12, 1972, Manila}}
 </audio>
 
 **Prabhupāda:**

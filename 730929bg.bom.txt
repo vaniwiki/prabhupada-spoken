@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.6–7
 ----
 
 <audio>
-{{spoken:730929bg.bom.mp3|Bg 13.6-7 — September 29, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730929bg.bom.mp3|Bg 13.6-7 — September 29, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

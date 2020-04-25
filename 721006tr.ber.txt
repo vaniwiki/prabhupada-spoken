@@ -17,7 +17,7 @@ Title_hidden     : Tour
 ----
 
 <audio>
-{{spoken:721006tr.ber.mp3|Tour — October 6, 1972, Berkeley}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721006tr.ber.mp3|Tour — October 6, 1972, Berkeley}}
 </audio>
 
 **Prabhupāda:**

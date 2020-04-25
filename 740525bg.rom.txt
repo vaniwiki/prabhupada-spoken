@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.10, Public Lecture
 ----
 
 <audio>
-{{spoken:740525bg.rom.mp3|Bg 4.10, Public Lecture — May 25, 1974, Rome}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740525bg.rom.mp3|Bg 4.10, Public Lecture — May 25, 1974, Rome}}
 </audio>
 
 **Nitāi:**

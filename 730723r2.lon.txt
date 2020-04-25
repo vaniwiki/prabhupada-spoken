@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Mr. & Mrs. James Williams [at Bhaktive
 ----
 
 <audio>
-{{spoken:730723r2.lon.mp3|Room Conversation with Mr. & Mrs James Williams — July 23, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730723r2.lon.mp3|Room Conversation with Mr. & Mrs James Williams — July 23, 1973, London}}
 </audio>
 
 **Mr. Williams:**

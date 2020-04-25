@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.14.43
 ----
 
 <audio>
-{{spoken:730407sb.ny.mp3|SB 1.14.43 — April 7, 1973, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730407sb.ny.mp3|SB 1.14.43 — April 7, 1973, New York}}
 </audio>
 
 **Pradyumna:**

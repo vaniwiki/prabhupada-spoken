@@ -17,7 +17,7 @@ Title_hidden     : Letter Dictation by Śyāmasundara
 ----
 
 <audio>
-{{spoken:720622dt.la.mp3|Letter Dictation by Śyāmasundara — June 22, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720622dt.la.mp3|Letter Dictation by Śyāmasundara — June 22, 1972, Los Angeles}}
 </audio>
 
 **Śyāmasundara:**

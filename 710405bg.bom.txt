@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.11–13
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710405bg.bom.mp3|Bg 7.11-13 — April 5, 1971, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710405bg.bom.mp3|Bg 7.11-13 — April 5, 1971, Bombay}}
 </audio>
 
 **Prabhupāda:**

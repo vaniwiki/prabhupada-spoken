@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Indian Guests
 ----
 
 <audio>
-{{spoken:750412r1.hyd.mp3|Conversation with Indian Guests — April 12, 1975, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750412r1.hyd.mp3|Conversation with Indian Guests — April 12, 1975, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation about Marriage
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680924rc.sea.mp3|Room Conversation about Marriage — September 24, 1968, Seattle}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680924rc.sea.mp3|Room Conversation about Marriage — September 24, 1968, Seattle}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.50
 ----
 
 <audio>
-{{spoken:730512sb.la.mp3|SB 1.8.50 — May 12, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730512sb.la.mp3|SB 1.8.50 — May 12, 1973, Los Angeles}}
 </audio>
 
 **Pradyumna:**

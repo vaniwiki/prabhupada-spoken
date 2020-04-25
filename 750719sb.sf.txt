@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.37
 ----
 
 <audio>
-{{spoken:750719sb.sf.mp3|SB 6.1.37 — July 19, 1975, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750719sb.sf.mp3|SB 6.1.37 — July 19, 1975, San Francisco}}
 </audio>
 
 **Nitāi:** "Śukadeva Gosvāmī continued to speak: After the messengers of Yamarāja thus addressed the Viṣṇudūtas, those perfected beings who are personal associates of Vāsudeva smiled and, with voices resounding as the sound of the cloud, gravely spoke the following words."

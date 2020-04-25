@@ -17,6 +17,6 @@ Title_hidden     : Lecture Bengali
 ----
 
 <audio>
-{{spoken:730313le.cal_bengali.mp3|Lecture [Bengali] — March 13, 1973, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730313le.cal_bengali.mp3|Lecture [Bengali] — March 13, 1973, Calcutta}}
 </audio>
 

@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:720501le.tok.mp3|Lecture — May 1, 1972, Tokyo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720501le.tok.mp3|Lecture — May 1, 1972, Tokyo}}
 </audio>
 
 **Prabhupāda:**

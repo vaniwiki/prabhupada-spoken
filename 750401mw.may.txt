@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750401mw.may.mp3|Morning Walk — April 1, 1975, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750401mw.may.mp3|Morning Walk — April 1, 1975, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

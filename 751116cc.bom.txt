@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.108
 ----
 
 <audio>
-{{spoken:751116cc.bom.mp3|Cc. Madhya 20.108 — November 16, 1975, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751116cc.bom.mp3|Cc. Madhya 20.108 — November 16, 1975, Bombay}}
 </audio>
 
 **Prabhupāda:**

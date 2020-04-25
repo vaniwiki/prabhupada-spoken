@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Ian Polsen
 ----
 
 <audio>
-{{spoken:720802r1.lon.mp3|Room Conversation with Ian Polsen — August 2, 1972, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720802r1.lon.mp3|Room Conversation with Ian Polsen — August 2, 1972, London}}
 </audio>
 
 **Prabhupāda:**

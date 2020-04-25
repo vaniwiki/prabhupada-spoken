@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.20
 ----
 
 <audio>
-{{spoken:721125bg.hyd.mp3|Bg 2.20 — November 25, 1972, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721125bg.hyd.mp3|Bg 2.20 — November 25, 1972, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

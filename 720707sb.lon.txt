@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.1.2
 ----
 
 <audio>
-{{spoken:720707sb.lon.mp3|SB 1.1.2 — July 7, 1972, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720707sb.lon.mp3|SB 1.1.2 — July 7, 1972, London}}
 </audio>
 
 **Pradyumna:**

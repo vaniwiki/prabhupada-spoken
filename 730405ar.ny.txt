@@ -17,7 +17,7 @@ Title_hidden     : Arrival Address
 ----
 
 <audio>
-{{spoken:730405ar.ny.mp3|Arrival Address — April 5, 1973, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730405ar.ny.mp3|Arrival Address — April 5, 1973, New York}}
 </audio>
 
 **Prabhupāda:**

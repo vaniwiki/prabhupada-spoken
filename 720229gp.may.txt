@@ -17,7 +17,7 @@ Title_hidden     : Gaura-Pūrṇimā
 ----
 
 <audio>
-{{spoken:720229gp.may.mp3|Gaura-Pūrṇimā — February 29, 1972, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720229gp.may.mp3|Gaura-Pūrṇimā — February 29, 1972, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

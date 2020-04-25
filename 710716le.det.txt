@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710716le.det.mp3|Lecture — July 16, 1971, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710716le.det.mp3|Lecture — July 16, 1971, Detroit}}
 </audio>
 
 **Prabhupāda:**

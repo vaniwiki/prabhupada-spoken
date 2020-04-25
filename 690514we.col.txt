@@ -17,7 +17,7 @@ Title_hidden     : Initiation of Śrī-Caitanya dāsa and Wedding of Pradyumna a
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690514we.col.mp3|Initiation & Wedding — May 14, 1969, Columbus}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690514we.col.mp3|Initiation & Wedding — May 14, 1969, Columbus}}
 </audio>
 
 **Prabhupāda:**

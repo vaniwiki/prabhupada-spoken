@@ -17,7 +17,7 @@ Title_hidden     : Arrival Conversation
 ----
 
 <audio>
-{{spoken:720420r1.tok.mp3|Arrival Conversation — April 20, 1972, Tokyo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720420r1.tok.mp3|Arrival Conversation — April 20, 1972, Tokyo}}
 </audio>
 
 **Prabhupāda:**

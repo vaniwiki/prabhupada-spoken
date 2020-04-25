@@ -17,7 +17,7 @@ Title_hidden     : Initiation Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690827in.ham.mp3|Initiation Lecture — August 27, 1969, Hamburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690827in.ham.mp3|Initiation Lecture — August 27, 1969, Hamburg}}
 </audio>
 
 **Prabhupāda:**

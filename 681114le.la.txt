@@ -18,7 +18,7 @@ Title_hidden     : Lecture on Twenty-four Elements [partially recorded]
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681114le.la|Lecture on Twenty-four Elements [partially recorded] — November 14, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681114le.la|Lecture on Twenty-four Elements [partially recorded] — November 14, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

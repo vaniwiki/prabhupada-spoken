@@ -17,7 +17,7 @@ Title_hidden     : Bhaktiprajñāna Keśava Mahārāja's Disappearance Day (Śr�
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681021dk.sea.mp3|Bhaktiprajñāna Keśava Mahārāja’s Disappearance Day Lecture, — October 21, 1968, Seattle}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681021dk.sea.mp3|Bhaktiprajñāna Keśava Mahārāja’s Disappearance Day Lecture, — October 21, 1968, Seattle}}
 </audio>
 
 **Prabhupāda:**

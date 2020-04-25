@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.28.20
 ----
 
 <audio>
-{{spoken:751030sb.nai.mp3|SB 3.28.20 — October 30, 1975, Nairobi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751030sb.nai.mp3|SB 3.28.20 — October 30, 1975, Nairobi}}
 </audio>
 
 **Harikeśa:**

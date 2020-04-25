@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Prof. Regamay, Professor of Sanskrit a
 ----
 
 <audio>
-{{spoken:740604r1.gen.mp3|Room Conversation with Prof. Regamay — June 4, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740604r1.gen.mp3|Room Conversation with Prof. Regamay — June 4, 1974, Geneva}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrī Brahmā-saṁhitā 5.32
 ----
 
 <audio>
-{{spoken:720814bs.la.mp3|Śrī Brahmā-saṁhitā 5.32 — August 14, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720814bs.la.mp3|Śrī Brahmā-saṁhitā 5.32 — August 14, 1972, Los Angeles}}
 </audio>
 
 [obeisances] [indistinct]

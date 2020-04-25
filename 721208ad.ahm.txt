@@ -17,7 +17,7 @@ Title_hidden     : Rotary Club Address "The Present Need of Human Society"
 ----
 
 <audio>
-{{spoken:721208ad.ahm.mp3|Rotary Club Address — December 8, 1972, Ahmedabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721208ad.ahm.mp3|Rotary Club Address — December 8, 1972, Ahmedabad}}
 </audio>
 
 **Prabhupāda:**

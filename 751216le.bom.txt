@@ -17,7 +17,7 @@ Title_hidden     : Engagement at Birla House Śrīmad-Bhāgavatam 7.6.1
 ----
 
 <audio>
-{{spoken:751216le.bom.mp3|Engagement at Birla House, Śrīmad-Bhāgavatam 7.6.1 — December 16, 1975, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751216le.bom.mp3|Engagement at Birla House, Śrīmad-Bhāgavatam 7.6.1 — December 16, 1975, Bombay}}
 </audio>
 
 **Prabhupāda:**

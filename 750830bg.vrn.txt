@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.3 [Hindi with English translation]
 ----
 
 <audio>
-{{spoken:750830bg.vrn_hindi.mp3|Bg 7.3 [Hindi] — August 30, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750830bg.vrn_hindi.mp3|Bg 7.3 [Hindi] — August 30, 1975, Vṛndāvana}}
 </audio>
 
 [final proofreading pending]

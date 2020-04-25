@@ -17,7 +17,7 @@ Title_hidden     : Interview with Reporters
 ----
 
 <audio>
-{{spoken:730806iv.lon.mp3|Interview with Reporters — August 6, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730806iv.lon.mp3|Interview with Reporters — August 6, 1973, London}}
 </audio>
 
 **Reporter:**

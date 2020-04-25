@@ -17,7 +17,7 @@ Title_hidden     : Garden Conversation with Dr. Allen Gerson
 ----
 
 <audio>
-{{spoken:750622gc.la.mp3|Garden Conversation with Dr. Allen Gerson — June 22, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750622gc.la.mp3|Garden Conversation with Dr. Allen Gerson — June 22, 1975, Los Angeles}}
 </audio>
 
 **Harikeśa:**

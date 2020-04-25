@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Bengali]
 ----
 
 <audio>
-{{spoken:740929le.may_bengali.mp3|Lecture [Bengali] — September 29, 1974, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740929le.may_bengali.mp3|Lecture [Bengali] — September 29, 1974, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

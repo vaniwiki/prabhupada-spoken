@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Bhārata Chamber of Commerce "Culture and Business
 ----
 
 <audio>
-{{spoken:730130le.cal.mp3|Lecture at Bhārata Chamber of Commerce — January 30, 1973, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730130le.cal.mp3|Lecture at Bhārata Chamber of Commerce — January 30, 1973, Calcutta}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.2
 ----
 
 <audio>
-{{spoken:751022sb.joh.mp3|SB 5.5.2 — October 22, 1975, Johannesburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751022sb.joh.mp3|SB 5.5.2 — October 22, 1975, Johannesburg}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Father Tanner and Mrs. Wells
 ----
 
 <audio>
-{{spoken:730711r3.lon.mp3|Room Conversation with Father Tanner and Mrs. Wells — July 11, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730711r3.lon.mp3|Room Conversation with Father Tanner and Mrs. Wells — July 11, 1973, London}}
 </audio>
 
 **Father Tanner:**

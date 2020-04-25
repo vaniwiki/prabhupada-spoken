@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.15.27
 ----
 
 <audio>
-{{spoken:731205sb.la.mp3|SB 1.15.27 — December 5, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731205sb.la.mp3|SB 1.15.27 — December 5, 1973, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

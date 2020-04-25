@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk in the Botanical Gardens
 ----
 
 <audio>
-{{spoken:750602mw.hon.mp3|Morning Walk in the Botanical Gardens — June 2, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750602mw.hon.mp3|Morning Walk in the Botanical Gardens — June 2, 1975, Honolulu}}
 </audio>
 
 **Śrutakīrti:**

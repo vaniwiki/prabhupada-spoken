@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Kenneth Keating, U.S. Ambassador to In
 ----
 
 <audio>
-{{spoken:721014r1.del.mp3|Room Conversation with Kenneth Keating — October 14, 1972, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721014r1.del.mp3|Room Conversation with Kenneth Keating — October 14, 1972, Delhi}}
 </audio>
 
 **Prabhupāda:**

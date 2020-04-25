@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.26
 ----
 
 <audio>
-{{spoken:740922bg.del.mp3|Bg 13.26 — September 22, 1974, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740922bg.del.mp3|Bg 13.26 — September 22, 1974, Delhi}}
 </audio>
 
 **Brahmānanda:** "Again there are those who, although not conversant in spiritual knowledge, begin to worship the Supreme Person upon hearing about Him from others. Because of their tendency to hear from authorities, they also transcend the path of birth and death." Responsively: "Again there are those..."

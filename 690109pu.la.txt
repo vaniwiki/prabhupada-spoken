@@ -17,7 +17,7 @@ Title_hidden     : Purport to Gaurāṅga Bolite Habe
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690109pu.la.mp3|Purport to Gaurāṅga Bolite Habe — January 9, 1969, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690109pu.la.mp3|Purport to Gaurāṅga Bolite Habe — January 9, 1969, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

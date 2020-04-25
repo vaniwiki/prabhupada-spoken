@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:730711r4.lon.mp3|Room Conversation — July 11, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730711r4.lon.mp3|Room Conversation — July 11, 1973, London}}
 </audio>
 
 **Prabhupāda:**

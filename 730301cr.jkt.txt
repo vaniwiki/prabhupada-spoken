@@ -17,7 +17,7 @@ Title_hidden     : Car Conversation
 ----
 
 <audio>
-{{spoken:730301cr.jkt.mp3|Car Conversation — March 1, 1973, Jakarta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730301cr.jkt.mp3|Car Conversation — March 1, 1973, Jakarta}}
 </audio>
 
 [in car]

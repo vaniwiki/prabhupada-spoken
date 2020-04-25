@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.9
 ----
 
 <audio>
-{{spoken:730815bg.lon.mp3|Bg 2.9 — August 15, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730815bg.lon.mp3|Bg 2.9 — August 15, 1973, London}}
 </audio>
 
 **Pradyumna: **Translation: "Sañjaya said: Having spoken thus, Arjuna, chastiser of enemies, told Kṛṣṇa, 'Govinda, I shall not fight,' and fell silent." [[books:bg:2:9|[Bg. 2.9]]]

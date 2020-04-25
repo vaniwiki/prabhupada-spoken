@@ -17,7 +17,7 @@ Title_hidden     : Śrī Vyāsa-pūjā Lecture
 ----
 
 <audio>
-{{spoken:730822vp.lon.mp3|Śrī Vyāsa-pūjā Lecture — August 22, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730822vp.lon.mp3|Śrī Vyāsa-pūjā Lecture — August 22, 1973, London}}
 </audio>
 
 **Prabhupāda:**

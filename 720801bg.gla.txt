@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.11
 ----
 
 <audio>
-{{spoken:720801bg.gla.mp3|Bg 2.11 — August 1, 1972, Glasgow}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720801bg.gla.mp3|Bg 2.11 — August 1, 1972, Glasgow}}
 </audio>
 
 [//kīrtana//]

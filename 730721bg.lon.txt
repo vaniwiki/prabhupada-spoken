@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.26–27
 ----
 
 <audio>
-{{spoken:730721bg.lon.mp3|Bg 1.26-27 — July 21, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730721bg.lon.mp3|Bg 1.26-27 — July 21, 1973, London}}
 </audio>
 
 **Pradyumna:**

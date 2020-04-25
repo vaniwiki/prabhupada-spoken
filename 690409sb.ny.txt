@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.6.1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690409sb.ny.mp3|SB 7.6.1 — April 9, 1969, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690409sb.ny.mp3|SB 7.6.1 — April 9, 1969, New York}}
 </audio>
 
 **Prabhupāda:**

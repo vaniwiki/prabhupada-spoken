@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750311mw.lon.mp3|Morning Walk — March 11, 1975, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750311mw.lon.mp3|Morning Walk — March 11, 1975, London}}
 </audio>
 
 **Prabhupāda:**

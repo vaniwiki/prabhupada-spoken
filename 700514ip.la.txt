@@ -17,7 +17,7 @@ Title_hidden     : Śrī Īśopaniṣad, Mantra 9–10
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700514ip.la.mp3|Śrī Īśopaniṣad, Mantra 9-10 — May 14, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700514ip.la.mp3|Śrī Īśopaniṣad, Mantra 9-10 — May 14, 1970, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

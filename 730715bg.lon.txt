@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.15
 ----
 
 <audio>
-{{spoken:730715bg.lon.mp3|Bg 1.15 — July 15, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730715bg.lon.mp3|Bg 1.15 — July 15, 1973, London}}
 </audio>
 
 **Pradyumna:**

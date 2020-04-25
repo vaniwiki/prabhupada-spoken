@@ -17,7 +17,7 @@ Title_hidden     : Departure Address
 ----
 
 <audio>
-{{spoken:720703dp.la.mp3|Departure Address — July 3, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720703dp.la.mp3|Departure Address — July 3, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

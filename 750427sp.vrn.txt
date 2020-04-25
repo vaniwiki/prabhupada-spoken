@@ -17,7 +17,7 @@ Title_hidden     : Explanation of Nṛsiṁha-vallabha Gosvāmī Speech
 ----
 
 <audio>
-{{spoken:750427sp.vrn.mp3|Explanation of Nṛsiṁha-vallabha Gosvāmī Speech — April 27, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750427sp.vrn.mp3|Explanation of Nṛsiṁha-vallabha Gosvāmī Speech — April 27, 1975, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

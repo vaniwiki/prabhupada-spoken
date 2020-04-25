@@ -17,7 +17,7 @@ Title_hidden     : Interview
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680924iv.sea.mp3|Interview — September 24, 1968, Seattle}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680924iv.sea.mp3|Interview — September 24, 1968, Seattle}}
 </audio>
 
 [a tape is being played of the interview]

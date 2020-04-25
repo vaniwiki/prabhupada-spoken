@@ -17,7 +17,7 @@ Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura Appearance Day
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690207ba.la.mp3|Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture — February 7, 1969, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690207ba.la.mp3|Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture — February 7, 1969, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

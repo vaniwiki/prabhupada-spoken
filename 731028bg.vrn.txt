@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 15.1
 ----
 
 <audio>
-{{spoken:731028bg.vrn.mp3|Bg 15.1 — October 28, 1973, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731028bg.vrn.mp3|Bg 15.1 — October 28, 1973, Vṛndāvana}}
 </audio>
 
 **Pradyumna:** "The Blessed Lord said: There is a banyan tree which has its roots upward and its branches down and whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas." [[books:bg:15:1|[Bg. 15.1]]]

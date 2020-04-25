@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1
 ----
 
 <audio>
-{{spoken:750524bg.fij.mp3|Bg 7.1 — May 24, 1975, Fiji}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750524bg.fij.mp3|Bg 7.1 — May 24, 1975, Fiji}}
 </audio>
 
 **Prabhupāda:**

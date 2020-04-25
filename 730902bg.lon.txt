@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.32
 ----
 
 <audio>
-{{spoken:730902bg.lon.mp3|Bg 2.32 — September 2, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730902bg.lon.mp3|Bg 2.32 — September 2, 1973, London}}
 </audio>
 
 **Pradyumna:**

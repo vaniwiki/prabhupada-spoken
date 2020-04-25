@@ -17,7 +17,7 @@ Title_hidden     : Hari Hari Biphale
 ----
 
 <audio>
-{{spoken:720402mu.syd.mp3|Hari Hari Biphale — April 2, 1972, Sydney }}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720402mu.syd.mp3|Hari Hari Biphale — April 2, 1972, Sydney }}
 </audio>
 
 **Prabhupāda:**

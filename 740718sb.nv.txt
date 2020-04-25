@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.17
 ----
 
 <audio>
-{{spoken:740718sb.nv.mp3|Śrīmad-Bhagavatam 1.2.17 — July 18, 1974, New Vrindavan}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740718sb.nv.mp3|Śrīmad-Bhagavatam 1.2.17 — July 18, 1974, New Vrindavan}}
 </audio>
 
 [recorded on faulty equipment]

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation With Sanskrit Professor
 ----
 
 <audio>
-{{spoken:730813r1.par.mp3|Room Conversation with Sanskrit Professor — August 13, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730813r1.par.mp3|Room Conversation with Sanskrit Professor — August 13, 1973, Paris}}
 </audio>
 
 **Yogeśvara:**

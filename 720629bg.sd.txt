@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1
 ----
 
 <audio>
-{{spoken:720629bg.sd.mp3|Bg 7.1 — June 29, 1972, San Diego}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720629bg.sd.mp3|Bg 7.1 — June 29, 1972, San Diego}}
 </audio>
 
 **Pradyumna:**

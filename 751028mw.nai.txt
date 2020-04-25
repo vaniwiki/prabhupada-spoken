@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:751028mw.nai.mp3|Morning Walk — October 28, 1975, Nairobi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751028mw.nai.mp3|Morning Walk — October 28, 1975, Nairobi}}
 </audio>
 
 **Puṣṭa Kṛṣṇa:**

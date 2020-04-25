@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 22.6
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1967/670108cc.ny.mp3|Cc. Madhya 22.6 — January 8, 1967, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670108cc.ny.mp3|Cc. Madhya 22.6 — January 8, 1967, New York}}
 </audio>
 
 **Prabhupāda:**

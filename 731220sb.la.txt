@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.15.42 "In God We Trust."
 ----
 
 <audio>
-{{spoken:731220sb.la.mp3|SB 1.15.42 — December 20, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731220sb.la.mp3|SB 1.15.42 — December 20, 1973, Los Angeles}}
 </audio>
 
 **Pradyumna:**

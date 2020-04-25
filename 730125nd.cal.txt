@@ -17,7 +17,7 @@ Title_hidden     : The Nectar of Devotion
 ----
 
 <audio>
-{{spoken:730125nd.cal.mp3|The Nectar of Devotion — January 25, 1973, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730125nd.cal.mp3|The Nectar of Devotion — January 25, 1973, Calcutta}}
 </audio>
 
 **Mādhavānanda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation With Yadurabara About Early Life & Childhoo
 ----
 
 <audio>
-{{spoken:730812r1.par.mp3|Room Conversation with Yadurabara About Early Life — August 12, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730812r1.par.mp3|Room Conversation with Yadurabara About Early Life — August 12, 1973, London}}
 </audio>
 
 **Prabhupāda:**

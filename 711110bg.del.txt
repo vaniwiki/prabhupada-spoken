@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/711110bg.del.mp3|Bg 4.1 — November 10, 1971, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711110bg.del.mp3|Bg 4.1 — November 10, 1971, Delhi}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Airport Departure
 ----
 
 <audio>
-{{spoken:731026dp.bom.mp3|Conversation at Airport — October 26, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731026dp.bom.mp3|Conversation at Airport — October 26, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Initiation Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710822in.lon.mp3|Initiation Lecture — August 22, 1971, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710822in.lon.mp3|Initiation Lecture — August 22, 1971, London}}
 </audio>
 
 **Prabhupāda:**

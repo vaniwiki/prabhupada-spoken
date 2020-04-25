@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.26.40
 ----
 
 <audio>
-{{spoken:750115sb.bom.mp3|SB 3.26.40 — January 15, 1975, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750115sb.bom.mp3|SB 3.26.40 — January 15, 1975, Bombay}}
 </audio>
 
 **Nitāi:**

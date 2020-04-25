@@ -17,7 +17,7 @@ Title_hidden     : Conversation Before Lecture Brandeis University
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690429rc.bos.mp3|Conversation Before Lecture — April 29, 1969, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690429rc.bos.mp3|Conversation Before Lecture — April 29, 1969, Boston}}
 </audio>
 
 **Miss Rose:**

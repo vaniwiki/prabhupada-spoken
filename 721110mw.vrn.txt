@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:721110mw.vrn.mp3|Morning Walk — November 10, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721110mw.vrn.mp3|Morning Walk — November 10, 1972, Vṛndāvana}}
 </audio>
 
 **Guru dāsa:**

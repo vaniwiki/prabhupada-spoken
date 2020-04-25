@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750717mw.sf.mp3|Morning Walk — July 17, 1975, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750717mw.sf.mp3|Morning Walk — July 17, 1975, San Francisco}}
 </audio>
 
 **Yadubara:**

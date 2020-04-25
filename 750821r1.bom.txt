@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Lalita Bose
 ----
 
 <audio>
-{{spoken:750821r1.bom.mp3|Room Conversation with Lalita Bose — August 21, 1975, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750821r1.bom.mp3|Room Conversation with Lalita Bose — August 21, 1975, Bombay}}
 </audio>
 
 **Prabhupāda:**

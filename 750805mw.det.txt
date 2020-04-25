@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750805mw.det.mp3|Morning Walk — August 5, 1975, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750805mw.det.mp3|Morning Walk — August 5, 1975, Detroit}}
 </audio>
 
 **Prabhupāda:**

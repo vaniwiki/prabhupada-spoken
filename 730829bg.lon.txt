@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.26–27
 ----
 
 <audio>
-{{spoken:730829bg.lon.mp3|Bg 2.26-27 — August 29, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730829bg.lon.mp3|Bg 2.26-27 — August 29, 1973, London}}
 </audio>
 
 **Pradyumna:**

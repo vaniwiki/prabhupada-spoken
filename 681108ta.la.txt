@@ -17,7 +17,7 @@ Title_hidden     : Talk During Prasāda After Kīrtana
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681108ta.la.mp3|Talk During Prasāda After Kīrtana — November 8, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681108ta.la.mp3|Talk During Prasāda After Kīrtana — November 8, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

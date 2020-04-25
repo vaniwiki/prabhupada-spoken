@@ -17,7 +17,7 @@ Title_hidden     : Lecture at the Hare Kṛṣṇa Festival at La Salle Pleyel
 ----
 
 <audio>
-{{spoken:740614le.par.mp3|Lecture at the Hare Kṛṣṇa Festival at La Salle Pleyel — June 14, 1974, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740614le.par.mp3|Lecture at the Hare Kṛṣṇa Festival at La Salle Pleyel — June 14, 1974, Paris}}
 </audio>
 
 **Prabhupāda:**

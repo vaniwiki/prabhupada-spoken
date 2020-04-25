@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:720311r1.mat.mp3|Room Conversation — March 11, 1972, Mathura}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720311r1.mat.mp3|Room Conversation — March 11, 1972, Mathura}}
 </audio>
 
 [in car]

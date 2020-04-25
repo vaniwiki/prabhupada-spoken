@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Robert Gouiran, Nuclear Physicist from
 ----
 
 <audio>
-{{spoken:740605r2.gen.mp3|Room Conversation with Robert Gouiran — June 5, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740605r2.gen.mp3|Room Conversation with Robert Gouiran — June 5, 1974, Geneva}}
 </audio>
 
 **Robert Gouiran:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.24
 ----
 
 <audio>
-{{spoken:740413bg.bom.mp3|Bg 4.24 — April 13, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740413bg.bom.mp3|Bg 4.24 — April 13, 1974, Bombay}}
 </audio>
 
 **Pradyumna:** Because of his full contribution to spiritual activities in which the consummation is absolute and that which is offered is of the same spiritual nature.

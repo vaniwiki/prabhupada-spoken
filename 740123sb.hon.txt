@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.16.26–30
 ----
 
 <audio>
-{{spoken:740123sb.hon.mp3|SB 1.16.26-30 — January 23, 1974, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740123sb.hon.mp3|SB 1.16.26-30 — January 23, 1974, Honolulu}}
 </audio>
 
 **Pradyumna:**

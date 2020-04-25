@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.28.19
 ----
 
 <audio>
-{{spoken:751029sb.nai.mp3|SB 3.28.19 — October 29, 1975, Nairobi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751029sb.nai.mp3|SB 3.28.19 — October 29, 1975, Nairobi}}
 </audio>
 
 **Harikeśa:**

@@ -17,7 +17,7 @@ Title_hidden     : City Hall Lecture
 ----
 
 <audio>
-{{spoken:751007le.dur.mp3|City Hall Lecture — October 7, 1975, Durban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751007le.dur.mp3|City Hall Lecture — October 7, 1975, Durban}}
 </audio>
 
 **Prabhupāda:**

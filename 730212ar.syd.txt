@@ -17,7 +17,7 @@ Title_hidden     : Arrival Talk
 ----
 
 <audio>
-{{spoken:730212ar.syd.mp3|Arrival talk — February 12, 1973, Sydney}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730212ar.syd.mp3|Arrival talk — February 12, 1973, Sydney}}
 </audio>
 
 [//kīrtana//]

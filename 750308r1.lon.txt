@@ -17,7 +17,7 @@ Title_hidden     : Bhajans and Room Conversation
 ----
 
 <audio>
-{{spoken:750308r1.lon.mp3|Bhajans and Room Conversation — March 8, 1975, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750308r1.lon.mp3|Bhajans and Room Conversation — March 8, 1975, London}}
 </audio>
 
 [Prabhupāda plays harmonium and sings "//Gāy gorā madhur sware//" for a few minutes]

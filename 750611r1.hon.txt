@@ -17,7 +17,7 @@ Title_hidden     : Talk During Massage
 ----
 
 <audio>
-{{spoken:750611r1.hon.mp3|Talk during massage — June 11, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750611r1.hon.mp3|Talk during massage — June 11, 1975, Honolulu}}
 </audio>
 
 **Siddha-svarūpa:**

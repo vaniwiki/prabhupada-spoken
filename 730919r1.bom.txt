@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:730919r1.bom.mp3|Room Conversation — September 19, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730919r1.bom.mp3|Room Conversation — September 19, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Bernard Manischewitz
 ----
 
 <audio>
-{{spoken:750305r1.ny.mp3|Room Conversation with Bernard Manischewitz — March 5, 1975, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750305r1.ny.mp3|Room Conversation with Bernard Manischewitz — March 5, 1975, New York}}
 </audio>
 
 **Pratyatoṣa:**

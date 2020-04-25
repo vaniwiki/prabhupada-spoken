@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.7–9
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660722bg.ny.mp3|Bg 4.7-9 — July 22, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660722bg.ny.mp3|Bg 4.7-9 — July 22, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

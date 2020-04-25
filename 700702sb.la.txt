@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.1.1–6 Excerpts
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700702sb.la.mp3|SB 2.1.1-6 Excerpts — July 2, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700702sb.la.mp3|SB 2.1.1-6 Excerpts — July 2, 1970, Los Angeles}}
 </audio>
 
 [Prabhupāda and devotees recite verses]

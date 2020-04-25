@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 6.151–154
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710214cc.gor.mp3|Cc. Madhya 6.151-154 — February 14, 1971, Gorakhpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710214cc.gor.mp3|Cc. Madhya 6.151-154 — February 14, 1971, Gorakhpur}}
 </audio>
 
 **Prabhupāda:**

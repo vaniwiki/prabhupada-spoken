@@ -17,7 +17,7 @@ Title_hidden     : Initiation of Hṛṣīkeśa Dāsā Marriage of Satsvarūpa a
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680905in.ny.mp3|Initiation of Hṛṣīkeśa Dāsā, Marriage of Satsvarūpa and Jadurāṇī — September 5, 1968, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680905in.ny.mp3|Initiation of Hṛṣīkeśa Dāsā, Marriage of Satsvarūpa and Jadurāṇī — September 5, 1968, New York}}
 </audio>
 
 **Prabhupāda:**

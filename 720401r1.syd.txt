@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Author
 ----
 
 <audio>
-{{spoken:720401r1.syd.mp3|Conversation with Author — April 1, 1972, Sydney}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720401r1.syd.mp3|Conversation with Author — April 1, 1972, Sydney}}
 </audio>
 
 **Prabhupāda:**

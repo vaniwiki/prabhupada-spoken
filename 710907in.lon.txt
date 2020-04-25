@@ -17,7 +17,7 @@ Title_hidden     : Initiation Lecture [partially recorded]
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710907in.lon.mp3|Initiation Lecture [partially recorded] — September 7, 1971, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710907in.lon.mp3|Initiation Lecture [partially recorded] — September 7, 1971, London}}
 </audio>
 
 **Prabhupāda:**

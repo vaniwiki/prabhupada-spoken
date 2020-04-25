@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.2
 ----
 
 <audio>
-{{spoken:720405bg.mel.mp3|Bg 13.2 — April 5, 1972, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720405bg.mel.mp3|Bg 13.2 — April 5, 1972, Melbourne}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Engagement
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680508le.bos.mp3|Lecture at Engagement — May 8, 1968, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680508le.bos.mp3|Lecture at Engagement — May 8, 1968, Boston}}
 </audio>
 
 **Prabhupāda:**

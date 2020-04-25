@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.12
 ----
 
 <audio>
-{{spoken:730818bg.lon.mp3|Bg 2.12 — August 18, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730818bg.lon.mp3|Bg 2.12 — August 18, 1973, London}}
 </audio>
 
 **Pradyumna:**

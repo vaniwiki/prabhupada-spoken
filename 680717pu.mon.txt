@@ -17,7 +17,7 @@ Title_hidden     : Purport to Śrī-Kṛṣṇa-Caitanya Prabhu [partially recor
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680717pu.mon.mp3|Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded — July 17, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680717pu.mon.mp3|Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded — July 17, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

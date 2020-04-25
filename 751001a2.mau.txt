@@ -17,7 +17,7 @@ Title_hidden     : Arrival Reception
 ----
 
 <audio>
-{{spoken:751001a2.mau.mp3|Arrival Reception — October 1, 1975, Mauritius}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751001a2.mau.mp3|Arrival Reception — October 1, 1975, Mauritius}}
 </audio>
 
 **Indian Official:**

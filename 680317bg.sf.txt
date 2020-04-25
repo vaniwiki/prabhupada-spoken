@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680317bg.sf.mp3|Bg 7.1 — March 17, 1968, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680317bg.sf.mp3|Bg 7.1 — March 17, 1968, San Francisco}}
 </audio>
 
 **Prabhupāda:**

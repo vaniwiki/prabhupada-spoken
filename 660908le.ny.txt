@@ -17,7 +17,7 @@ Title_hidden     : Lecture on Mahā-mantra
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660908le.ny.mp3|Lecture on Mahā-mantra — September 8, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660908le.ny.mp3|Lecture on Mahā-mantra — September 8, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

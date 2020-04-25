@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.1–11
 ----
 
 <audio>
-{{spoken:751017bg.joh.mp3|Bg 2.1-11 — October 17, 1975, Johannesburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751017bg.joh.mp3|Bg 2.1-11 — October 17, 1975, Johannesburg}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.6.1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680610sb.mon.mp3|SB 7.6.1 — June 10, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680610sb.mon.mp3|SB 7.6.1 — June 10, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

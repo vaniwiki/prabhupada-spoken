@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.15.21
 ----
 
 <audio>
-{{spoken:731201sb.la.mp3|SB 1.15.21 — December 1, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731201sb.la.mp3|SB 1.15.21 — December 1, 1973, Los Angeles}}
 </audio>
 
 [//Govindam// recording being played at greeting the Deities]

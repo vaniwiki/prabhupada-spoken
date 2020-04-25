@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:751226mw.san.mp3|Morning Walk — December 26, 1975, Sanand}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751226mw.san.mp3|Morning Walk — December 26, 1975, Sanand}}
 </audio>
 
 **Prabhupāda:**

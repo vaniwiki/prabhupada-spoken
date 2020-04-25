@@ -17,7 +17,7 @@ Title_hidden     : Departure Conversation
 ----
 
 <audio>
-{{spoken:750627dp.la.mp3|Departure Conversation — June 27, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750627dp.la.mp3|Departure Conversation — June 27, 1975, Los Angeles}}
 </audio>
 
 [in car]

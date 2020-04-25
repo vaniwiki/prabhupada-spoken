@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 7.5
 ----
 
 <audio>
-{{spoken:740307cc.may.mp3|Cc. Ādi 7.5 — March 7, 1974, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740307cc.may.mp3|Cc. Ādi 7.5 — March 7, 1974, Māyāpur}}
 </audio>
 
 **Pradyumna:**

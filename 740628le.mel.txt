@@ -17,7 +17,7 @@ Title_hidden     : Lecture at St. Pascal’s Franciscan Seminary
 ----
 
 <audio>
-{{spoken:740628le.mel.mp3|Lecture at St. Pascal’s Franciscan Seminary — June 28, 1974, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740628le.mel.mp3|Lecture at St. Pascal’s Franciscan Seminary — June 28, 1974, Melbourne}}
 </audio>
 
 **Father Greene:**

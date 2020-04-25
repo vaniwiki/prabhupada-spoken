@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.16
 ----
 
 <audio>
-{{spoken:720819sb.la.mp3|SB 1.2.16 — August 19, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720819sb.la.mp3|SB 1.2.16 — August 19, 1972, Los Angeles}}
 </audio>
 
 [//Govindam// prayers playing; Prabhupāda singing along]

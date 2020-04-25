@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:720704r1.ny.mp3|Room Conversation — July 4, 1972, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720704r1.ny.mp3|Room Conversation — July 4, 1972, New York}}
 </audio>
 
 **Prabhupāda:**

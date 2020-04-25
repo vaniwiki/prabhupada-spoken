@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.172
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/661214cc.ny.mp3|Cc. Madhya 20.172 — December 14, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661214cc.ny.mp3|Cc. Madhya 20.172 — December 14, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

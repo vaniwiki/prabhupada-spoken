@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710626le.par.mp3|Lecture — June 26, 1971, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710626le.par.mp3|Lecture — June 26, 1971, Paris}}
 </audio>
 
 **Prabhupāda:**

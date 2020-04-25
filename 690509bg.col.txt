@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.1–2
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690509bg.col.mp3|Bg 4.1-2 — May 9, 1969, Columbus}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690509bg.col.mp3|Bg 4.1-2 — May 9, 1969, Columbus}}
 </audio>
 
 **Pradyumna:**

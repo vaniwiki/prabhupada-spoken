@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:731106r1.del.mp3|Room Conversation — November 6, 1973, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731106r1.del.mp3|Room Conversation — November 6, 1973, Delhi}}
 </audio>
 
 **Prabhupāda:**

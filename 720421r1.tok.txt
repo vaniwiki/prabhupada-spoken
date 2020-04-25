@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Dai Nippon Representative
 ----
 
 <audio>
-{{spoken:720421r1.tok.mp3|Conversation with Dai Nippon Representative — April 21, 1972, Tokyo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720421r1.tok.mp3|Conversation with Dai Nippon Representative — April 21, 1972, Tokyo}}
 </audio>
 
 **Prabhupāda:**

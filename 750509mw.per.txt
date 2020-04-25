@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk on Beach
 ----
 
 <audio>
-{{spoken:750509mw.per.mp3|Morning Walk on Beach — May 9, 1975, Perth}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750509mw.per.mp3|Morning Walk on Beach — May 9, 1975, Perth}}
 </audio>
 
 [Poor audio for first 1:30 Minutes]

@@ -17,7 +17,7 @@ Title_hidden     : Arrival Address at Bhaktivedanta Manor
 ----
 
 <audio>
-{{spoken:730707ar.lon.mp3|Arrival Address at Bhaktivedanta Manor — July 7, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730707ar.lon.mp3|Arrival Address at Bhaktivedanta Manor — July 7, 1973, London}}
 </audio>
 
 **Prabhupāda:**

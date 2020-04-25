@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.32–35
 ----
 
 <audio>
-{{spoken:730725bg.lon.mp3|Bg 1.32-35 — July 25, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730725bg.lon.mp3|Bg 1.32-35 — July 25, 1973, London}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation on Śrīmad-Bhāgavatam 4.13.48–14.11
 ----
 
 <audio>
-{{spoken:720118r1.jai.mp3|Room Conversation on SB 4.13.48-14.11 — January 18, 1973, Jaipur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720118r1.jai.mp3|Room Conversation on SB 4.13.48-14.11 — January 18, 1973, Jaipur}}
 </audio>
 
 [poor audio]

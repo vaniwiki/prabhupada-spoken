@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750512mw.per.mp3|Morning Walk — May 12, 1975, Perth}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750512mw.per.mp3|Morning Walk — May 12, 1975, Perth}}
 </audio>
 
 [in car]

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:751025mw.mau.mp3|Morning Walk — October 25, 1975, Mauritius}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751025mw.mau.mp3|Morning Walk — October 25, 1975, Mauritius}}
 </audio>
 
 **Harikeśa:**

@@ -17,7 +17,7 @@ Title_hidden     : Arrival Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710729ar.gai.mp3|Arrival Lecture — July 29, 1971, Gainesville}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710729ar.gai.mp3|Arrival Lecture — July 29, 1971, Gainesville}}
 </audio>
 
 **Prabhupāda:**

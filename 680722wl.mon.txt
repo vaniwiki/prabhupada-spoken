@@ -17,7 +17,7 @@ Title_hidden     : Paramānanda & Satyabhāmā’s Wedding
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680722wl.mon.mp3|Wedding Lecture — July 22, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680722wl.mon.mp3|Wedding Lecture — July 22, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Malcolm
 ----
 
 <audio>
-{{spoken:730718r1.lon.mp3|Room Conversation with Malcolm — July 18, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730718r1.lon.mp3|Room Conversation with Malcolm — July 18, 1973, London}}
 </audio>
 
 **Prabhupāda:**

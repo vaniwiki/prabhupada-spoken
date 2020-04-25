@@ -17,7 +17,7 @@ Title_hidden     : Initiation of Bali-mardana Dāsā
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680729in.mon.mp3|Initiation of Bali-mardana Dāsā — July 29, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680729in.mon.mp3|Initiation of Bali-mardana Dāsā — July 29, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

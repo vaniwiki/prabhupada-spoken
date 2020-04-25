@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.46
 ----
 
 <audio>
-{{spoken:750727sb.sd.mp3|SB 6.1.46 — July 27, 1975, San Diego}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750727sb.sd.mp3|SB 6.1.46 — July 27, 1975, San Diego}}
 </audio>
 
 **Nitāi:**

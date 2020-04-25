@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.19
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660805bg.ny.mp3|Bg 4.19 — August 5, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660805bg.ny.mp3|Bg 4.19 — August 5, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

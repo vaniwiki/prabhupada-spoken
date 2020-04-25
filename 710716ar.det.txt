@@ -17,7 +17,7 @@ Title_hidden     : Arrival Address
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710716ar.det.mp3|Arrival Address — July 16, 1971, Detroit [Airport]}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710716ar.det.mp3|Arrival Address — July 16, 1971, Detroit [Airport]}}
 </audio>
 
 [//prema-dhvanī//]

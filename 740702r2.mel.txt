@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation, Bhagavad-gītā 16.7–23
 ----
 
 <audio>
-{{spoken:740702r2.mel.mp3|Room Conversation, Bhagavad-gītā 16.7-23 — July 2, 1974, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740702r2.mel.mp3|Room Conversation, Bhagavad-gītā 16.7-23 — July 2, 1974, Melbourne}}
 </audio>
 
 **Cāru:**

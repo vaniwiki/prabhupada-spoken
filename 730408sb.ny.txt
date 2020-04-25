@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.14.44
 ----
 
 <audio>
-{{spoken:730408sb.ny.mp3|SB 1.14.44 — April 8, 1973, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730408sb.ny.mp3|SB 1.14.44 — April 8, 1973, New York}}
 </audio>
 
 **Pradyumna: **"...feeling empty for all time because you might have lost your most intimate friend, Lord Kṛṣṇa? O my brother Arjuna, I can think of no other reason for your becoming so dejected." [[books:sb:1:14:44|[SB 1.14.44]]]

@@ -17,7 +17,7 @@ Title_hidden     : Ratha-yātrā
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710627ry.sf.mp3|Ratha-yātrā Lecture — June 27, 1971, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710627ry.sf.mp3|Ratha-yātrā Lecture — June 27, 1971, San Francisco}}
 </audio>
 
 **Prabhupāda:**

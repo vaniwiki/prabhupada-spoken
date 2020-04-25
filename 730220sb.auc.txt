@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.1.9
 ----
 
 <audio>
-{{spoken:730220sb.auc.mp3|SB 1.1.9 — February 20, 1973, Auckland}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730220sb.auc.mp3|SB 1.1.9 — February 20, 1973, Auckland}}
 </audio>
 
 **Pradyumna:**

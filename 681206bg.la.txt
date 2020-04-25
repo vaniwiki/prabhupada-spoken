@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.26
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681206bg.la.mp3|Bg 2.26 — December 6, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681206bg.la.mp3|Bg 2.26 — December 6, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

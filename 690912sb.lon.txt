@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690912sb.lon.mp3|SB 5.5.1 — September 12, 1969, Tittenhurst, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690912sb.lon.mp3|SB 5.5.1 — September 12, 1969, Tittenhurst, London}}
 </audio>
 
 **Prabhupāda:**

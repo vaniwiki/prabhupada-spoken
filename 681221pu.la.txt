@@ -17,7 +17,7 @@ Title_hidden     : Purport to Nitāi-Pada-Kamala
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681221pu.la.mp3|Purport to Nitāi-Pada-Kamala — December 21, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681221pu.la.mp3|Purport to Nitāi-Pada-Kamala — December 21, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

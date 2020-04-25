@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Allen Ginsberg
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690514rc.col.mp3|Room Conversation with Allen Ginsberg — May 14, 1969, Columbus}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690514rc.col.mp3|Room Conversation with Allen Ginsberg — May 14, 1969, Columbus}}
 </audio>
 
 **Prabhupāda:**

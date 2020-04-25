@@ -17,7 +17,7 @@ Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura Appearance Day
 ----
 
 <audio>
-{{spoken:750302ba.atl.mp3|Śrīla Bhaktisiddhānta Appearance Day Lecture — March 2, 1975, Atlanta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750302ba.atl.mp3|Śrīla Bhaktisiddhānta Appearance Day Lecture — March 2, 1975, Atlanta}}
 </audio>
 
 **Prabhupāda:**

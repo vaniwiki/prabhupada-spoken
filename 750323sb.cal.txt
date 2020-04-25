@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.8 [Hindi with English translation]
 ----
 
 <audio>
-{{spoken:750323sb.cal_hindi.mp3|SB 1.2.8 [Hindi] — March 23, 1975, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750323sb.cal_hindi.mp3|SB 1.2.8 [Hindi] — March 23, 1975, Calcutta}}
 </audio>
 
 [final proofreading pending]

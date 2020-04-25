@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.12
 ----
 
 <audio>
-{{spoken:731118sb.del.mp3|SB 1.2.12 — November 18, 1973, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731118sb.del.mp3|SB 1.2.12 — November 18, 1973, Delhi}}
 </audio>
 
 **Prabhupāda:**

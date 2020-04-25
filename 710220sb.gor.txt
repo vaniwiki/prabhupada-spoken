@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.3.27–28
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710220sb.gor.mp3|SB 6.3.27-28 — February 20, 1971, Gorakhpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710220sb.gor.mp3|SB 6.3.27-28 — February 20, 1971, Gorakhpur}}
 </audio>
 
 **Haṁsadūta:**

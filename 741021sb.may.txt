@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.41
 ----
 
 <audio>
-{{spoken:741021sb.may.mp3|SB 1.8.41 — October 21, 1974, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741021sb.may.mp3|SB 1.8.41 — October 21, 1974, Māyāpur}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Arrival Address
 ----
 
 <audio>
-{{spoken:750811ar.par.mp3|Arrival Address — August 11, 1975, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750811ar.par.mp3|Arrival Address — August 11, 1975, Paris}}
 </audio>
 
 [devotee translates into French throughout]

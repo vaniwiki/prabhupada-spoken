@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Gaurachand Gosvāmī at the Rādhā-D�
 ----
 
 <audio>
-{{spoken:720311r1.vrn.mp3|Room Conversation with Gaurachand Gosvāmī — March 11, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720311r1.vrn.mp3|Room Conversation with Gaurachand Gosvāmī — March 11, 1972, Vṛndāvana}}
 </audio>
 
 [Prabhupāda converses in Bengali with guests for a couple of minutes]

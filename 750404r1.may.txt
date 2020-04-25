@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:750404r1.may.mp3|Room Conversation — April 4, 1975, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750404r1.may.mp3|Room Conversation — April 4, 1975, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

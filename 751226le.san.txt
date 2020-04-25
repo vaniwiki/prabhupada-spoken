@@ -17,7 +17,7 @@ Title_hidden     : Kirtan & Lecture [Hindi with English translation]
 ----
 
 <audio>
-{{spoken:751226le.san_hindi.mp3|Kirtan & Lecture [Hindi] — December 26, 1975, Sanand}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751226le.san_hindi.mp3|Kirtan & Lecture [Hindi] — December 26, 1975, Sanand}}
 </audio>
 
 [final proofreading pending]

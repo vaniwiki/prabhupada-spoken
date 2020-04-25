@@ -17,7 +17,7 @@ Title_hidden     : Recorded Speech to Members of ISKCON London
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681223sp.la.mp3|Recorded Speech to Members of ISKCON London — December 23, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681223sp.la.mp3|Recorded Speech to Members of ISKCON London — December 23, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

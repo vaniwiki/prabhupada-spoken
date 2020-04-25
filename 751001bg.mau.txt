@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.11
 ----
 
 <audio>
-{{spoken:751001bg.mau.mp3|Bg 2.11 — October 1, 1975, Mauritius}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751001bg.mau.mp3|Bg 2.11 — October 1, 1975, Mauritius}}
 </audio>
 
 **Harikeśa:**

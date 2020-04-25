@@ -17,7 +17,7 @@ Title_hidden     : Interview with Journalists "God is the proprietor, God is the
 ----
 
 <audio>
-{{spoken:720811iv.lon.mp3|Interview with Journalists — August 11, 1972, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720811iv.lon.mp3|Interview with Journalists — August 11, 1972, London}}
 </audio>
 
 **Prabhupāda:**

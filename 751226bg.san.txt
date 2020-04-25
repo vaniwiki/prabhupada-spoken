@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 16.7 [with translator]
 ----
 
 <audio>
-{{spoken:751226bg.san.mp3|Bg 16.7 [with translator] — December 26, 1975, Sanand}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751226bg.san.mp3|Bg 16.7 [with translator] — December 26, 1975, Sanand}}
 </audio>
 
 [translated throughout]

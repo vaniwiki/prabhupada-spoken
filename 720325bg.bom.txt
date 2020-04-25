@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.6
 ----
 
 <audio>
-{{spoken:720325bg.bom.mp3|Bg 7.6 — March 25, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720325bg.bom.mp3|Bg 7.6 — March 25, 1972, Bombay}}
 </audio>
 
 **Prabhupāda:**

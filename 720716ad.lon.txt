@@ -17,7 +17,7 @@ Title_hidden     : Address at Beginning of Ratha-yātrā Parade
 ----
 
 <audio>
-{{spoken:720716ad.lon.mp3|Ratha-yātrā Address — July 16, 1972, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720716ad.lon.mp3|Ratha-yātrā Address — July 16, 1972, London}}
 </audio>
 
 **Revatīnandana:**

@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Intro by Dr. Kapoor]
 ----
 
 <audio>
-{{spoken:721015le.vrn.mp3|Lecture [Intro by Dr. Kapoor] — October 15, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721015le.vrn.mp3|Lecture [Intro by Dr. Kapoor] — October 15, 1972, Vṛndāvana}}
 </audio>
 
 **Dr. Kapoor:**

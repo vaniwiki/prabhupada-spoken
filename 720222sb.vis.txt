@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.9.43
 ----
 
 <audio>
-{{spoken:720222sb.vis.mp3|SB 7.9.43 — February 22, 1972, Visakhapatnam}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720222sb.vis.mp3|SB 7.9.43 — February 22, 1972, Visakhapatnam}}
 </audio>
 
 **Prabhupāda:**

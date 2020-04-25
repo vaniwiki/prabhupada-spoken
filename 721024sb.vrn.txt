@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.13
 ----
 
 <audio>
-{{spoken:721024sb.vrn.mp3|SB 1.2.13 — October 24, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721024sb.vrn.mp3|SB 1.2.13 — October 24, 1972, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

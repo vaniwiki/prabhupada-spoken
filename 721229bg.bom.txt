@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.1–2
 ----
 
 <audio>
-{{spoken:721229bg.bom.mp3|Bg 13.1-2 — December 29, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721229bg.bom.mp3|Bg 13.1-2 — December 29, 1972, Bombay}}
 </audio>
 
 **Pradyumna: **Translation: "Arjuna said: O my dear Kṛṣṇa, I wish to know about //prakṛti,// nature; //puruṣa,// or the enjoyer; and the field and the knower of the field; and of knowledge and the end of knowledge. The Blessed Lord then said: This body, O son of Kuntī, is called the field, and one who knows this body..., who knows this body is called the knower of the field." [[books:bg:13:1-2|[Bg. 13.1-2]]]

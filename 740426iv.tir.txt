@@ -17,7 +17,7 @@ Title_hidden     : Interview with Minister
 ----
 
 <audio>
-{{spoken:740426iv.tir.mp3|Interview with Minister — April 26, 197, Tirupati}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740426iv.tir.mp3|Interview with Minister — April 26, 197, Tirupati}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:730709r2.lon.mp3|Room Conversation — July 9, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730709r2.lon.mp3|Room Conversation — July 9, 1973, London}}
 </audio>
 
 [Movie camera noise]

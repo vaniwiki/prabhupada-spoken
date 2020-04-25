@@ -17,7 +17,7 @@ Title_hidden     : Press Interview
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681230iv.la.mp3|Press Interview — December 30, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681230iv.la.mp3|Press Interview — December 30, 1968, Los Angeles}}
 </audio>
 
 **Journalist:**

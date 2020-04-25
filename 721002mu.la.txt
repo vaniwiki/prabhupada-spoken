@@ -17,7 +17,7 @@ Title_hidden     : Āmār Jīvan with Purport
 ----
 
 <audio>
-{{spoken:721002mu.la.mp3|Āmār Jīvan with Purport — October 2, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721002mu.la.mp3|Āmār Jīvan with Purport — October 2, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

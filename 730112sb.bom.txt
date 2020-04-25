@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5th Canto, Pandal Lecture
 ----
 
 <audio>
-{{spoken:730112sb.bom.mp3|SB 5th Canto, Pandal Lecture — January 12, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730112sb.bom.mp3|SB 5th Canto, Pandal Lecture — January 12, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

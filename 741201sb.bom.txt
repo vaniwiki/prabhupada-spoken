@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.25.31
 ----
 
 <audio>
-{{spoken:741201sb.bom.mp3|SB 3.25.31 — December 1, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741201sb.bom.mp3|SB 3.25.31 — December 1, 1974, Bombay}}
 </audio>
 
 **Devotee:**

@@ -17,7 +17,7 @@ Title_hidden     : Departure Lecture
 ----
 
 <audio>
-{{spoken:750225dp.car.mp3|Departure Lecture — February 25, 1975, Caracas}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750225dp.car.mp3|Departure Lecture — February 25, 1975, Caracas}}
 </audio>
 
 [translated throughout by Hṛdayānanda]

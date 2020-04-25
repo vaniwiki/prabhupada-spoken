@@ -17,7 +17,7 @@ Title_hidden     : Chanting Cc. Ādi-līlā 14th Chapter, Verses 1–97
 ----
 
 <audio>
-{{spoken:740714ch.la.mp3|Chanting Cc. Ādi-līlā 14th Chapter Verse 1-97 — July 14, 1974, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740714ch.la.mp3|Chanting Cc. Ādi-līlā 14th Chapter Verse 1-97 — July 14, 1974, Los Angeles}}
 </audio>
 
 ===== Lord Caitanya’s Childhood Pastimes =====

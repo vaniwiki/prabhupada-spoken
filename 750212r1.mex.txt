@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Sanskrit Professor, other Guests and D
 ----
 
 <audio>
-{{spoken:750212r1.mex.mp3|Room Conversation with Sanskrit Professor — February 12, 1975, Mexico City}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750212r1.mex.mp3|Room Conversation with Sanskrit Professor — February 12, 1975, Mexico City}}
 </audio>
 
 **Hanumān:**

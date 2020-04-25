@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk at Kailua Beach
 ----
 
 <audio>
-{{spoken:750608mw.hon.mp3|Morning Walk at Kailua Beach — June 8, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750608mw.hon.mp3|Morning Walk at Kailua Beach — June 8, 1975, Honolulu}}
 </audio>
 
 **Śrutakīrti:**

@@ -17,7 +17,7 @@ Title_hidden     : Sunday Feast Lecture
 ----
 
 <audio>
-{{spoken:720521le.la.mp3|Sunday Feast Lecture — May 21, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720521le.la.mp3|Sunday Feast Lecture — May 21, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

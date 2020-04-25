@@ -17,7 +17,7 @@ Title_hidden     : Lecture “What is Religion?”
 ----
 
 <audio>
-{{spoken:730823le.lon.mp3|Lecture, “What is Religion?” — August 23, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730823le.lon.mp3|Lecture, “What is Religion?” — August 23, 1973, London}}
 </audio>
 
 **Prabhupāda:**

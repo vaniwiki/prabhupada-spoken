@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.11–16
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/661007bg.ny.mp3|Bg 7.11-16 — October 7, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661007bg.ny.mp3|Bg 7.11-16 — October 7, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

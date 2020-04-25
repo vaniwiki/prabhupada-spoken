@@ -17,7 +17,7 @@ Title_hidden     : Talk, Initiation Lecture, and Ten Offenses Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681201in.la.mp3|Talk, Initiation Lecture, and Ten Offenses Lecture — December 1, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681201in.la.mp3|Talk, Initiation Lecture, and Ten Offenses Lecture — December 1, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

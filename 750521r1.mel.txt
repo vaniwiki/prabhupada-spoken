@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Director of Research of the Department
 ----
 
 <audio>
-{{spoken:750521r1.mel.mp3|Room Conversation with Director of Research of the Dept. of Social Welfare — May 21, 1975, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750521r1.mel.mp3|Room Conversation with Director of Research of the Dept. of Social Welfare — May 21, 1975, Melbourne}}
 </audio>
 
 **Prabhupāda:**

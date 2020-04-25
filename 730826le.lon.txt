@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:730826le.lon.mp3|Lecture — August 26, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730826le.lon.mp3|Lecture — August 26, 1973, London}}
 </audio>
 
 [Prabhupāda leads //jaya rādhā-mādhava//]

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.26.11–14
 ----
 
 <audio>
-{{spoken:741223sb.bom.mp3|SB 3.26.11-14 — December 23, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741223sb.bom.mp3|SB 3.26.11-14 — December 23, 1974, Bombay}}
 </audio>
 
 **Nitāi:** "The aggregate elements, namely the five gross elements, the five subtle elements, the four internal senses, the five senses for gathering knowledge and the five outward organs of action, are known as the pradhāna."

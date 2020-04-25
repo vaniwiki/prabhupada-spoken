@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Hotel de Ville
 ----
 
 <audio>
-{{spoken:730809le.par.mp3|Lecture at Hotel de Ville — August 9, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730809le.par.mp3|Lecture at Hotel de Ville — August 9, 1973, Paris}}
 </audio>
 
 [translated simultaneously into French by Jyotirmayī]

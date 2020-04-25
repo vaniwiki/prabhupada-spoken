@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.8
 ----
 
 <audio>
-{{spoken:740328bg.bom.mp3|Bg 4.8 — March 28, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740328bg.bom.mp3|Bg 4.8 — March 28, 1974, Bombay}}
 </audio>
 
 **Nitai:**

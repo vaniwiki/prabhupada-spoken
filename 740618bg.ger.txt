@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.13
 ----
 
 <audio>
-{{spoken:740618bg.ger.mp3|Bg 2.13 — June 18, 1974, Germany}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740618bg.ger.mp3|Bg 2.13 — June 18, 1974, Germany}}
 </audio>
 
 **Prabhupāda:**

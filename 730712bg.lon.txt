@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.8–10
 ----
 
 <audio>
-{{spoken:730712bg.lon.mp3|Bg 1.8-10 — July 12, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730712bg.lon.mp3|Bg 1.8-10 — July 12, 1973, London}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 10.2–3
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1967/670101bg.ny.mp3|Bg 10.2-3 — January 1, 1967, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670101bg.ny.mp3|Bg 10.2-3 — January 1, 1967, New York}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation Philosophical Discussions
 ----
 
 <audio>
-{{spoken:721101r1.vrn.mp3|Room Conversation — November 1, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721101r1.vrn.mp3|Room Conversation — November 1, 1972, Vṛndāvana}}
 </audio>
 
 **Acyutānanda:**

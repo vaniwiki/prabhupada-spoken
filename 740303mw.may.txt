@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk [partially recorded]
 ----
 
 <audio>
-{{spoken:740303mw.may.mp3|Morning Walk, [partially recorded] — March 3, 1974, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740303mw.may.mp3|Morning Walk, [partially recorded] — March 3, 1974, Māyāpur}}
 </audio>
 
 **Nitāi:**

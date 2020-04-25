@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:721015mw.vrn.mp3|Morning Walk — October 15, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721015mw.vrn.mp3|Morning Walk — October 15, 1972, Vṛndāvana}}
 </audio>
 
 **Śyāmasundara:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrī Śrī Rādhā Gokulānanda Deity Installation, Brahmā-
 ----
 
 <audio>
-{{spoken:730821di.lon.mp3|Śrī Śrī Rādhā Gokulānanda Deity Installation, Brahmā-saṁhitā 5.43 — August 21, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730821di.lon.mp3|Śrī Śrī Rādhā Gokulānanda Deity Installation, Brahmā-saṁhitā 5.43 — August 21, 1973, London}}
 </audio>
 
 **Prabhupāda:**

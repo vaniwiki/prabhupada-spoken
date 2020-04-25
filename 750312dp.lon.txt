@@ -17,7 +17,7 @@ Title_hidden     : Departure Lecture
 ----
 
 <audio>
-{{spoken:750312dp.lon.mp3|Departure Lecture — March 12, 1975, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750312dp.lon.mp3|Departure Lecture — March 12, 1975, London}}
 </audio>
 
 **Prabhupāda:**

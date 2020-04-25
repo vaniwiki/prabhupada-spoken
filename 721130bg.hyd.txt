@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.26
 ----
 
 <audio>
-{{spoken:721130bg.hyd.mp3|Bg 2.26 — November 30, 1972, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721130bg.hyd.mp3|Bg 2.26 — November 30, 1972, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

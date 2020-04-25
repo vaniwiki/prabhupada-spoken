@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710218le.gor.mp3|Lecture — February 18, 1971, Gorakhpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710218le.gor.mp3|Lecture — February 18, 1971, Gorakhpur}}
 </audio>
 
 **Haṁsadūta:**

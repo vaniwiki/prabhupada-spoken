@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Reporter of The Star
 ----
 
 <audio>
-{{spoken:751016r1.joh.mp3|Room Conversation with Reporter of The Star — October 16, 1975, Johannesburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751016r1.joh.mp3|Room Conversation with Reporter of The Star — October 16, 1975, Johannesburg}}
 </audio>
 
 **Reporter:**

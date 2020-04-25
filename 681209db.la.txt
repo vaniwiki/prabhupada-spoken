@@ -17,7 +17,7 @@ Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681209db.la.mp3|Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture — December 9, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681209db.la.mp3|Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture — December 9, 1968, Los Angeles}}
 </audio>
 
 [Prabhupāda leads //kīrtana//]

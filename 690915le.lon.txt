@@ -17,7 +17,7 @@ Title_hidden     : Conway Hall Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690915le.lon.mp3|Conway Hall Lecture — September 15, 1969, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690915le.lon.mp3|Conway Hall Lecture — September 15, 1969, London}}
 </audio>
 
 **Prabhupāda:**

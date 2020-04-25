@@ -17,7 +17,7 @@ Title_hidden     : Wedding Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/711117we.del.mp3|Wedding Lecture — November 17, 1971, New Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711117we.del.mp3|Wedding Lecture — November 17, 1971, New Delhi}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Scientists
 ----
 
 <audio>
-{{spoken:740702r1.mel.mp3|Room Conversation with Scientists — July 2, 1974, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740702r1.mel.mp3|Room Conversation with Scientists — July 2, 1974, Melbourne}}
 </audio>
 
 **Madhudviṣa:**

@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Hindi]
 ----
 
 <audio>
-{{spoken:740423le.hyd_hindi.mp3|Lecture [Hindi] — April 23, 1974, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740423le.hyd_hindi.mp3|Lecture [Hindi] — April 23, 1974, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

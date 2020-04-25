@@ -17,7 +17,7 @@ Title_hidden     : Arrival Address
 ----
 
 <audio>
-{{spoken:740608ar.par.mp3|Arrival Address — June 8, 1974, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740608ar.par.mp3|Arrival Address — June 8, 1974, Paris}}
 </audio>
 
 **Prabhupāda:**

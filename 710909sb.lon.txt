@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.5.30
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710909sb.lon.mp3|SB 7.5.30 — September 9, 1971, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710909sb.lon.mp3|SB 7.5.30 — September 9, 1971, London}}
 </audio>
 
 **Prabhupāda:**

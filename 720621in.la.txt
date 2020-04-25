@@ -17,7 +17,7 @@ Title_hidden     : Initiations
 ----
 
 <audio>
-{{spoken:720621in.la.mp3|Initiations — June 21, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720621in.la.mp3|Initiations — June 21, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

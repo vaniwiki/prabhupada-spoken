@@ -17,7 +17,7 @@ Title_hidden     : Darśana
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710628da.sf.mp3|Darśana — June 28, 1971, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710628da.sf.mp3|Darśana — June 28, 1971, San Francisco}}
 </audio>
 
 [sounds of devotees entering, offering obeisances, chanting //japa//]

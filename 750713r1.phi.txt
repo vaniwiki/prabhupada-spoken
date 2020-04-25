@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Professor Hopkins
 ----
 
 <audio>
-{{spoken:750713r1.phi.mp3|Conversation with Professor Hopkins — July 13, 1975, Philadelphia}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750713r1.phi.mp3|Conversation with Professor Hopkins — July 13, 1975, Philadelphia}}
 </audio>
 
 **Devotee:**

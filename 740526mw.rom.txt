@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk at Villa Borghese
 ----
 
 <audio>
-{{spoken:740526mw.rom.mp3|Morning Walk at Villa Borghese — May 26, 1974, Rome}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740526mw.rom.mp3|Morning Walk at Villa Borghese — May 26, 1974, Rome}}
 </audio>
 
 **Bhagavān:**

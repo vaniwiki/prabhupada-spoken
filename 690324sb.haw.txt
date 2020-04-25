@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.9.11–13
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690324sb.haw.mp3|SB 7.9.11-13 — March 24, 1969, Hawaii}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690324sb.haw.mp3|SB 7.9.11-13 — March 24, 1969, Hawaii}}
 </audio>
 
 **Prabhupāda:**

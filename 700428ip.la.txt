@@ -17,7 +17,7 @@ Title_hidden     : Śrī Īśopaniṣad Invocation Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700428ip.la.mp3|Śrī Īśopaniṣad Invocation Lecture — April 28, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700428ip.la.mp3|Śrī Īśopaniṣad Invocation Lecture — April 28, 1970, Los Angeles}}
 </audio>
 
 **Gargamuni:**

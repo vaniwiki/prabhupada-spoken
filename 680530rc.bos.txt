@@ -17,7 +17,7 @@ Title_hidden     : Talk After Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680530rc.bos.mp3|Talk After Lecture — May 30, 1968, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680530rc.bos.mp3|Talk After Lecture — May 30, 1968, Boston}}
 </audio>
 
 **Prabhupāda:**

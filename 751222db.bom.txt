@@ -17,7 +17,7 @@ Title_hidden     : His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvām�
 ----
 
 <audio>
-{{spoken:751222db.bom.mp3|Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 — December 22, 1975, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751222db.bom.mp3|Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 — December 22, 1975, Bombay}}
 </audio>
 
 **Prabhupāda:**

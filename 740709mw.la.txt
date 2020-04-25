@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740709mw.la.mp3|Morning Walk — July 9, 1974, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740709mw.la.mp3|Morning Walk — July 9, 1974, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

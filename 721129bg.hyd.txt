@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.25
 ----
 
 <audio>
-{{spoken:721129bg.hyd.mp3|Bg 2.25 — November 29, 1972, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721129bg.hyd.mp3|Bg 2.25 — November 29, 1972, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

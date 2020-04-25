@@ -17,7 +17,7 @@ Title_hidden     : Lecture and Initiation
 ----
 
 <audio>
-{{spoken:750710in.chi.mp3|Lecture and Initiation — July 10, 1975, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750710in.chi.mp3|Lecture and Initiation — July 10, 1975, Chicago}}
 </audio>
 
 **Prabhupāda:**

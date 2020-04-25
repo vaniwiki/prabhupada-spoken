@@ -17,7 +17,7 @@ Title_hidden     : Speech at Olympia Theater
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710626sp.par.mp3|Speech at Olympia Theater — June 26, 1971, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710626sp.par.mp3|Speech at Olympia Theater — June 26, 1971, Paris}}
 </audio>
 
 **Prabhupāda:**

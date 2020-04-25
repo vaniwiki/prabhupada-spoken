@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:721008mw.ber.mp3|Morning Walk — October 8, 1972, Berkeley}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721008mw.ber.mp3|Morning Walk — October 8, 1972, Berkeley}}
 </audio>
 
 **Svarūpa Dāmodara:**

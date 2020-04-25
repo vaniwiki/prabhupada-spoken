@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1 [Hindi with English translation]
 ----
 
 <audio>
-{{spoken:750925bg.ahm_hindi.mp3|Bg 7.1 Hindi — September 25, 1975, Ahmedabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750925bg.ahm_hindi.mp3|Bg 7.1 Hindi — September 25, 1975, Ahmedabad}}
 </audio>
 
 [final proofreading pending]

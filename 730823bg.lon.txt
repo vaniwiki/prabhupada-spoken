@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.17
 ----
 
 <audio>
-{{spoken:730823bg.lon.mp3|Bg 2.17 — August 23, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730823bg.lon.mp3|Bg 2.17 — August 23, 1973, London}}
 </audio>
 
 **Pradyumna:**

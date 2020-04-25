@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.14
 ----
 
 <audio>
-{{spoken:740806bg.vrn.mp3|Bg 4.14 — August 6, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740806bg.vrn.mp3|Bg 4.14 — August 6, 1974, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

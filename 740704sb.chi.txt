@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.18
 ----
 
 <audio>
-{{spoken:740704sb.chi.mp3|SB 1.8.18 — July 4, 1974, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740704sb.chi.mp3|SB 1.8.18 — July 4, 1974, Chicago}}
 </audio>
 
 **Prabhupāda:**

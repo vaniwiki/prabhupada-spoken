@@ -17,7 +17,7 @@ Title_hidden     : Pandal Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710407le.bom.mp3|Pandal Lecture — April 7, 1971, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710407le.bom.mp3|Pandal Lecture — April 7, 1971, Bombay}}
 </audio>
 
 **Prabhupāda:**

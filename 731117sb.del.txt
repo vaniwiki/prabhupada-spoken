@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Hindi]
 ----
 
 <audio>
-{{spoken:731117sb.del_hindi.mp3|Lecture [Hindi] — November 17, 1973, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731117sb.del_hindi.mp3|Lecture [Hindi] — November 17, 1973, Delhi}}
 </audio>
 
 **Prabhupāda:**

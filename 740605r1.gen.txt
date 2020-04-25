@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:740605r1.gen.mp3|Room Conversation — June 5, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740605r1.gen.mp3|Room Conversation — June 5, 1974, Geneva}}
 </audio>
 
 [//With M. Douant, the president of the Protestant Centre of Geneva; Mlle. Peritier, a member of the Protestant Centre of Geneva; M. Morrel, the Dean of the Faculty of Theology of the University of Geneva; M. Roche-dieu, former honorary professor of history of religion of the University of Geneva; and a theology student.//]

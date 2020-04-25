@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Dr. Inger, UNESCO Worker
 ----
 
 <audio>
-{{spoken:730810r3.par.mp3|Room Conversation with Dr. Inger, UNESCO Worker — August 10, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730810r3.par.mp3|Room Conversation with Dr. Inger, UNESCO Worker — August 10, 1973, Paris}}
 </audio>
 
 **Bhagavān:**

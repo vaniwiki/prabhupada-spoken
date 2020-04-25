@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.13
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710913bg.mom.mp3|Bg 2.13 — September 13, 1971, Mombassa}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710913bg.mom.mp3|Bg 2.13 — September 13, 1971, Mombassa}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:720909le.pit.mp3|Lecture — September 9, 1972, Pittsburgh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720909le.pit.mp3|Lecture — September 9, 1972, Pittsburgh}}
 </audio>
 
 **Prabhupāda:**

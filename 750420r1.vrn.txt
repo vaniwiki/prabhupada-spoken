@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Governor
 ----
 
 <audio>
-{{spoken:750420r1.vrn.mp3|Conversation with Governor — April 20, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750420r1.vrn.mp3|Conversation with Governor — April 20, 1975, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

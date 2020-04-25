@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740411mw.bom.mp3|Morning Walk — April 11, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740411mw.bom.mp3|Morning Walk — April 11, 1974, Bombay}}
 </audio>
 
 **Italian man (1):**

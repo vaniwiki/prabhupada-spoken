@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with George Harrison & the Shankars
 ----
 
 <audio>
-{{spoken:730805r1.lon.mp3|Room Conversation with George Harrison & the Shankars — August 5, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730805r1.lon.mp3|Room Conversation with George Harrison & the Shankars — August 5, 1973, London}}
 </audio>
 
 **Prabhupāda:**

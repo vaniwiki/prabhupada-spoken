@@ -17,7 +17,7 @@ Title_hidden     : Śrīla Prabhupāda Welcomed by Governor at Hotel de Ville
 ----
 
 <audio>
-{{spoken:740530ar.gen.mp3|Śrīla Prabhupāda Welcomed by Governor at Hotel de Ville — May 30, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740530ar.gen.mp3|Śrīla Prabhupāda Welcomed by Governor at Hotel de Ville — May 30, 1974, Geneva}}
 </audio>
 
 [translated by Guru-gaurāṅga from French]

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740112mw.la.mp3|Morning Walk — January 12, 1974, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740112mw.la.mp3|Morning Walk — January 12, 1974, Los Angeles}}
 </audio>
 
 **Nitāi:**

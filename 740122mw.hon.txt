@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740122mw.hon.mp3|Morning Walk — January 22, 1974, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740122mw.hon.mp3|Morning Walk — January 22, 1974, Honolulu}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.23
 ----
 
 <audio>
-{{spoken:730415sb.la.mp3|SB 1.8.23 — April 15, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730415sb.la.mp3|SB 1.8.23 — April 15, 1973, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

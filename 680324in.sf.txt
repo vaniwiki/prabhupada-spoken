@@ -17,7 +17,7 @@ Title_hidden     : Initiation Ceremony of Viṣṇujana
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680324in.sf.mp3|Initiation Viṣṇujana — March 24, 1968, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680324in.sf.mp3|Initiation Viṣṇujana — March 24, 1968, San Francisco}}
 </audio>
 
 **Prabhupāda:**

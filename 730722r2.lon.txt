@@ -17,7 +17,7 @@ Title_hidden     : Conversation with George Harrison
 ----
 
 <audio>
-{{spoken:730722r2.lon.mp3|Conversation with George Harrison — July 22, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730722r2.lon.mp3|Conversation with George Harrison — July 22, 1973, London}}
 </audio>
 
 **Prabhupāda:**

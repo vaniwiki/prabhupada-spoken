@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:751125r1.del.mp3|Room Conversation — November 25, 1975, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751125r1.del.mp3|Room Conversation — November 25, 1975, Delhi}}
 </audio>
 
 **Prabhupāda:**

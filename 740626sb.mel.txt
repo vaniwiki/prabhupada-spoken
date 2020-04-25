@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.1.1–5
 ----
 
 <audio>
-{{spoken:740626sb.mel.mp3|SB 2.1.1-5 — June 26, 1974, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740626sb.mel.mp3|SB 2.1.1-5 — June 26, 1974, Melbourne}}
 </audio>
 
 **Prabhupāda:**

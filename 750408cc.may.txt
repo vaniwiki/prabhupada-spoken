@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 1.15
 ----
 
 <audio>
-{{spoken:750408cc.may.mp3|Cc. Ādi 1.15 — April 8, 1975, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750408cc.may.mp3|Cc. Ādi 1.15 — April 8, 1975, Māyāpur}}
 </audio>
 
 [aside conversation while verse recitation is going on]

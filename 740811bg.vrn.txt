@@ -17,7 +17,7 @@ Title_hidden     : Janmāṣṭamī, Lord Śrī Kṛṣṇa’s Appearance Day B
 ----
 
 <audio>
-{{spoken:740811bg.vrn.mp3|Janmāṣṭamī, Bhagavad-gītā 7.5 — August 11, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740811bg.vrn.mp3|Janmāṣṭamī, Bhagavad-gītā 7.5 — August 11, 1974, Vṛndāvana}}
 </audio>
 
 **Nitāi:** "Besides this inferior nature, O mighty-armed Arjuna, there is a superior energy of Mine, which are all living entities who are struggling with material nature and are sustaining the universe."

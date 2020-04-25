@@ -17,7 +17,7 @@ Title_hidden     : Arrival
 ----
 
 <audio>
-{{spoken:740129ar.tok.mp3|Arrival — January 29, 1974, Tokyo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740129ar.tok.mp3|Arrival — January 29, 1974, Tokyo}}
 </audio>
 
 **Prabhupāda:**

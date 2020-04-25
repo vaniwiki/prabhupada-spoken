@@ -17,7 +17,7 @@ Title_hidden     : Lecture [partially recorded]
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680720le.mon.mp3|Lecture [partially recorded] — July 20, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680720le.mon.mp3|Lecture [partially recorded] — July 20, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

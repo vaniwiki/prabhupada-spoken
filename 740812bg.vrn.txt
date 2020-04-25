@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.6
 ----
 
 <audio>
-{{spoken:740812bg.vrn.mp3|Bg 7.6 — August 12, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740812bg.vrn.mp3|Bg 7.6 — August 12, 1974, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

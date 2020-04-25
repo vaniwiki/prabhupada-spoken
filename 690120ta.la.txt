@@ -17,7 +17,7 @@ Title_hidden     : Talk Before Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690120ta.la.mp3|Talk Before Lecture — January 20, 1969, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690120ta.la.mp3|Talk Before Lecture — January 20, 1969, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

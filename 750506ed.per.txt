@@ -17,7 +17,7 @@ Title_hidden     : Evening Discussion
 ----
 
 <audio>
-{{spoken:750506ed.per.mp3|Evening Discussion — May 6, 1975, Perth}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750506ed.per.mp3|Evening Discussion — May 6, 1975, Perth}}
 </audio>
 
 **Amogha:**

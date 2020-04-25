@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Mr. Wadell [Boy School Teacher]
 ----
 
 <audio>
-{{spoken:730710r1.lon.mp3|Conversation with Mr Wadell, Boy School Teacher — July 10, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730710r1.lon.mp3|Conversation with Mr Wadell, Boy School Teacher — July 10, 1973, London}}
 </audio>
 
 **Prabhupāda:**

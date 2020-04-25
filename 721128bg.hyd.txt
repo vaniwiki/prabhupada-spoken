@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.24
 ----
 
 <audio>
-{{spoken:721128bg.hyd.mp3|Bg 2.24 — November 28, 1972, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721128bg.hyd.mp3|Bg 2.24 — November 28, 1972, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

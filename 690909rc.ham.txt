@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690909rc.ham.mp3|Room Conversation — September 9, 1969, Hamburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690909rc.ham.mp3|Room Conversation — September 9, 1969, Hamburg}}
 </audio>
 
 **Prabhupāda:**

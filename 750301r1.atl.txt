@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with three Trappist Monks, Psychologists fr
 ----
 
 <audio>
-{{spoken:750301r1.atl.mp3|Room Conversation with three Trappist Monks — March 1, 1975, Atlanta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750301r1.atl.mp3|Room Conversation with three Trappist Monks — March 1, 1975, Atlanta}}
 </audio>
 
 **Prabhupāda:**

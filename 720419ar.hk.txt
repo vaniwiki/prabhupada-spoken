@@ -17,7 +17,7 @@ Title_hidden     : Arrival and Interview
 ----
 
 <audio>
-{{spoken:720419ar.hk.mp3|Arrival and Interview — April 19, 1972, Hong Kong}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720419ar.hk.mp3|Arrival and Interview — April 19, 1972, Hong Kong}}
 </audio>
 
 **Prabhupāda:**

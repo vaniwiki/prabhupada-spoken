@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.9
 ----
 
 <audio>
-{{spoken:740815bg.vrn.mp3|Bg 7.9 — August 15, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740815bg.vrn.mp3|Bg 7.9 — August 15, 1974, Vṛndāvana}}
 </audio>
 
 **Pradyumna:** "I am the original fragrance of the earth, and I am the heat in fire. I am the life of all that lives, and I am the penances of all ascetics."

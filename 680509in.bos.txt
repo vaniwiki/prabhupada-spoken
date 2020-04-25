@@ -17,7 +17,7 @@ Title_hidden     : Gāyatrī Mantra Initiation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680509in.bos.mp3|Gāyatrī Mantra Initiation — May 9, 1968, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680509in.bos.mp3|Gāyatrī Mantra Initiation — May 9, 1968, Boston}}
 </audio>
 
 **Prabhupāda:**

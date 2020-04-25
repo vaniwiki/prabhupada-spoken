@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.8
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680614bg.mon.mp3|Bg 4.8 — June 14, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680614bg.mon.mp3|Bg 4.8 — June 14, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

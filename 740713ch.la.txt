@@ -17,7 +17,7 @@ Title_hidden     : Chanting Cc. Ādi-līlā 13th Chapter, Verses 1–124
 ----
 
 <audio>
-{{spoken:740713ch.la.mp3|Chanting Cc. Ādi-līlā 13th Chapter Verses 1-124 — July 13, 1974, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740713ch.la.mp3|Chanting Cc. Ādi-līlā 13th Chapter Verses 1-124 — July 13, 1974, Los Angeles}}
 </audio>
 
 ===== The Advent of Lord Śrī Caitanya Mahāprabhu =====

@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Bhāratīya Vidyā Bhavān
 ----
 
 <audio>
-{{spoken:731018le.bom.mp3|Lecture at Bhāratīya Vidyā Bhavān — October 18, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731018le.bom.mp3|Lecture at Bhāratīya Vidyā Bhavān — October 18, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

@@ -18,7 +18,7 @@ Title_hidden     : Conversation with a German Girl and Devotees
 ----
 
 <audio>
-{{spoken:750330r1.may.mp3|Conversation with a German Girl and Devotees — March 30, 1975, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750330r1.may.mp3|Conversation with a German Girl and Devotees — March 30, 1975, Māyāpur}}
 </audio>
 
 **Haṁsadūta:**

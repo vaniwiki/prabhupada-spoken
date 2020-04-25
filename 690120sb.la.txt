@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690120sb.la.mp3|SB 5.5.1 — January 20, 1969, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690120sb.la.mp3|SB 5.5.1 — January 20, 1969, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

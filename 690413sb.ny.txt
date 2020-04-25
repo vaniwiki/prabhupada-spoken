@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 11.3.21
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690413sb.ny.mp3|SB 11.3.21 — April 13, 1969, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690413sb.ny.mp3|SB 11.3.21 — April 13, 1969, New York}}
 </audio>
 
 [//bhajana//] [//japa//] [//prema-dhvani// for initiation] [break]

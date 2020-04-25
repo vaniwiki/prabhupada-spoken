@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Mr. Deshimaru
 ----
 
 <audio>
-{{spoken:740613r1.par.mp3|Room Conversation with Mr. Deshimaru — June 13, 1974, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740613r1.par.mp3|Room Conversation with Mr. Deshimaru — June 13, 1974, Paris}}
 </audio>
 
 **M. Deshimaru:**

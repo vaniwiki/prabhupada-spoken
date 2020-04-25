@@ -18,7 +18,7 @@ Title_hidden     : First Talk with Bob Cohen [Brahmatīrtha dāsa]
 ----
 
 <audio>
-{{spoken:720227ta.may.mp3|Talk with Bob Cohen — February 27, 1972, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720227ta.may.mp3|Talk with Bob Cohen — February 27, 1972, Māyāpur}}
 </audio>
 
 **Śyāmasundara:**

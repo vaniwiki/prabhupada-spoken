@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Art Gallery
 ----
 
 <audio>
-{{spoken:720416le.auc.mp3|Lecture at Art Gallery — April 16, 1972, Auckland}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720416le.auc.mp3|Lecture at Art Gallery — April 16, 1972, Auckland}}
 </audio>
 
 **Prabhupāda:**

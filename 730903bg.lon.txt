@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.33–35
 ----
 
 <audio>
-{{spoken:730903bg.lon.mp3|Bg 2.33-35 — September 3, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730903bg.lon.mp3|Bg 2.33-35 — September 3, 1973, London}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.3.19
 ----
 
 <audio>
-{{spoken:720614sb.la.mp3|SB 2.3.19 — June 14, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720614sb.la.mp3|SB 2.3.19 — June 14, 1972, Los Angeles}}
 </audio>
 
 **Pradyumna:**

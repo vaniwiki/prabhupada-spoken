@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.16
 ----
 
 <audio>
-{{spoken:750629sb.den.mp3|SB 6.1.16 — June 29, 1975, Denver}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750629sb.den.mp3|SB 6.1.16 — June 29, 1975, Denver}}
 </audio>
 
 **Nitāi:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 9.11–14
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/661127bg.ny.mp3|Bg 9.11-14 — November 27, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661127bg.ny.mp3|Bg 9.11-14 — November 27, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

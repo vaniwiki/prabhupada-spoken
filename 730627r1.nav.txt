@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Śrīdhara Mahārāja
 ----
 
 <audio>
-{{spoken:730627r1.nav.mp3|Conversation with Śrīdhara Mahārāja — June 27, 1973, Navadvīpa}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730627r1.nav.mp3|Conversation with Śrīdhara Mahārāja — June 27, 1973, Navadvīpa}}
 </audio>
 
 **Prabhupāda:**

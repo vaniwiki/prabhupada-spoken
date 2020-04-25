@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.7.5–6
 ----
 
 <audio>
-{{spoken:751015sb.joh.mp3|SB 1.7.5-6 — October 15, 1975, Johannesburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751015sb.joh.mp3|SB 1.7.5-6 — October 15, 1975, Johannesburg}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrī Īśopaniṣad, Mantra 1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700503ip.la.mp3|Śrī Īśopaniṣad, Mantra 1 — May 3, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700503ip.la.mp3|Śrī Īśopaniṣad, Mantra 1 — May 3, 1970, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

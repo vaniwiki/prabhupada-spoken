@@ -17,7 +17,7 @@ Title_hidden     : Lecture on Teachings of Lord Caitanya
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680925le.sea.mp3|Lecture on Teachings of Lord Caitanya — September 25, 1968, Seattle}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680925le.sea.mp3|Lecture on Teachings of Lord Caitanya — September 25, 1968, Seattle}}
 </audio>
 
 [//kīrtana, prema-dhvanī//]

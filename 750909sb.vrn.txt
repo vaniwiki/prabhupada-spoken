@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.2.5–6
 ----
 
 <audio>
-{{spoken:750909sb.vrn.mp3|SB 6.2.5-6 — September 9, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750909sb.vrn.mp3|SB 6.2.5-6 — September 9, 1975, Vṛndāvana}}
 </audio>
 
 **Nitāi:**

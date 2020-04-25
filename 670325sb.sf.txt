@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.17
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1967/670325sb.sf.mp3|SB 1.2.17 — March 25, 1967, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670325sb.sf.mp3|SB 1.2.17 — March 25, 1967, San Francisco}}
 </audio>
 
 **Prabhupāda:**

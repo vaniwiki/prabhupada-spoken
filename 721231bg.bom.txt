@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.2–4
 ----
 
 <audio>
-{{spoken:721231bg.bom.mp3|Bg 13.2-4 — December 31, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721231bg.bom.mp3|Bg 13.2-4 — December 31, 1972, Bombay}}
 </audio>
 
 **Pradyumna**: "I am also the knower in all bodies, and to understand this body and its owner is called knowledge. That is my opinion." [[books:bg:13:3|[Bg. 13.3]]]

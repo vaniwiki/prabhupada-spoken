@@ -17,7 +17,7 @@ Title_hidden     : Purport to Bhajahū Re Mana
 ----
 
 <audio>
-{{spoken:720527pu.la.mp3|Purport to Bhajahū Re Mana — May 27, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720527pu.la.mp3|Purport to Bhajahū Re Mana — May 27, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

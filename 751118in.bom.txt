@@ -17,7 +17,7 @@ Title_hidden     : Sannyāsa Initiation
 ----
 
 <audio>
-{{spoken:751118in.bom.mp3|Sannyāsa Initiation — November 18, 1975, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751118in.bom.mp3|Sannyāsa Initiation — November 18, 1975, Bombay}}
 </audio>
 
 **Prabhupāda:**

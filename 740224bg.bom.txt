@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.9–10
 ----
 
 <audio>
-{{spoken:740224bg.bom.mp3|Bg 7.9-10 — February 24, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740224bg.bom.mp3|Bg 7.9-10 — February 24, 1974, Bombay}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Speech, Śrī Caitanya-caritāmṛta, Madhya 19.53
 ----
 
 <audio>
-{{spoken:750420sp.vrn.mp3|Speech, Śrī Caitanya-caritāmṛta, Madhya 19.53 — April 20, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750420sp.vrn.mp3|Speech, Śrī Caitanya-caritāmṛta, Madhya 19.53 — April 20, 1975, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Devotees
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680815rc.mon.mp3|Conversation with Devotees — August 15, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680815rc.mon.mp3|Conversation with Devotees — August 15, 1968, Montreal}}
 </audio>
 
 [After kirtan devotees chanting japa in background]

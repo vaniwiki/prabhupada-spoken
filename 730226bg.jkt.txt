@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.12 Hindi
 ----
 
 <audio>
-{{spoken:730226bg.jkt.mp3|Bg 2.12 Hindi — February 26, 1973, Jakarta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730226bg.jkt.mp3|Bg 2.12 Hindi — February 26, 1973, Jakarta}}
 </audio>
 
 **Prabhupāda:**

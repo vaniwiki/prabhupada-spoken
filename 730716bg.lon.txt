@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.16–19
 ----
 
 <audio>
-{{spoken:730716bg.lon.mp3|Bg 1.16-19 — July 16, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730716bg.lon.mp3|Bg 1.16-19 — July 16, 1973, London}}
 </audio>
 
 **Pradyumna:**

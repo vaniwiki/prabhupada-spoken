@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk at Cheviot Hills Park
 ----
 
 <audio>
-{{spoken:730419mw.la.mp3|Morning Walk at Cheviot Hills Park — April 19, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730419mw.la.mp3|Morning Walk at Cheviot Hills Park — April 19, 1973, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

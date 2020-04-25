@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.26
 ----
 
 <audio>
-{{spoken:740415bg.bom.mp3|Bg 4.26 — April 15, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740415bg.bom.mp3|Bg 4.26 — April 15, 1974, Bombay}}
 </audio>
 
 **Pradyumna:** Translation: "Some of them sacrifice the hearing process and the senses in the fire of the controlled mind, and others sacrifice the objects of the senses, such as sound, in the fire of sacrifice."

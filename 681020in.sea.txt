@@ -17,7 +17,7 @@ Title_hidden     : Lecture & Initiation
 ----
 
 <WRAP nopurple >
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681020in.sea.mp3|Lecture & Initiation — October 20, 1968, Seattle}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681020in.sea.mp3|Lecture & Initiation — October 20, 1968, Seattle}}
 </audio>
 
 

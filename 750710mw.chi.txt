@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750710mw.chi.mp3|Morning Walk — July 10, 1975, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750710mw.chi.mp3|Morning Walk — July 10, 1975, Chicago}}
 </audio>
 
 [in car]

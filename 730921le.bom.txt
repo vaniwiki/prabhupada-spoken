@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:730921le.bom.mp3|Lecture — September 21, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730921le.bom.mp3|Lecture — September 21, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

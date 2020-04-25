@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:740130r1.tok.mp3|Room Conversation — January 30, 1974, Tokyo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740130r1.tok.mp3|Room Conversation — January 30, 1974, Tokyo}}
 </audio>
 
 **Devotee:**

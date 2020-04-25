@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690330le.haw.mp3|Lecture — March 30, 1969, Hawaii}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690330le.haw.mp3|Lecture — March 30, 1969, Hawaii}}
 </audio>
 
 [Gaurasundara lectures for about 25 minutes, then asks for questions]

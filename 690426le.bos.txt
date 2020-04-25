@@ -17,7 +17,7 @@ Title_hidden     : Lecture Engagement and Prasāda Distribution
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690426le.bos.mp3|Lecture Engagement and Prasāda Distribution — April 26, 1969, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690426le.bos.mp3|Lecture Engagement and Prasāda Distribution — April 26, 1969, Boston}}
 </audio>
 
 **Prabhupāda:**

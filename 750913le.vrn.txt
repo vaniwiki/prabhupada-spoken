@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Hindi with English translation]
 ----
 
 <audio>
-{{spoken:750913le.vrn_hindi.mp3|Lecture [Hindi] — September 13, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750913le.vrn_hindi.mp3|Lecture [Hindi] — September 13, 1975, Vṛndāvana}}
 </audio>
 
 [final proofreading pending]

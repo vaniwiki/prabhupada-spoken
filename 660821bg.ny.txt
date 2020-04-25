@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.37–40
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660821bg.ny.mp3|Bg 4.37-40 — August 21, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660821bg.ny.mp3|Bg 4.37-40 — August 21, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

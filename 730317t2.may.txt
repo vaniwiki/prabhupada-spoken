@@ -17,7 +17,7 @@ Title_hidden     : Māyāpur Temple Inauguration Bengali
 ----
 
 <audio>
-{{spoken:730317t2.may.mp3|Māyāpur Temple Inauguration Lecture Bengali — March 17, 1973, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730317t2.may.mp3|Māyāpur Temple Inauguration Lecture Bengali — March 17, 1973, Māyāpur}}
 </audio>
 
 **Śrīdhara Mahārāja:**

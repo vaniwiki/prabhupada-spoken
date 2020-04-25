@@ -17,7 +17,7 @@ Title_hidden     : Conversation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690328cv.haw.mp3|Conversation — March 28, 1969, Hawaii}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690328cv.haw.mp3|Conversation — March 28, 1969, Hawaii}}
 </audio>
 
 **Prabhupāda:**

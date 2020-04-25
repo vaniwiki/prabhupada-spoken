@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.5.30
 ----
 
 <audio>
-{{spoken:751002sb.mau.mp3|SB 7.5.30 — October 2, 1975, Mauritius}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751002sb.mau.mp3|SB 7.5.30 — October 2, 1975, Mauritius}}
 </audio>
 
 **Harikeśa:**

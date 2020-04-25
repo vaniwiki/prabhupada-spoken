@@ -17,7 +17,7 @@ Title_hidden     : Sannyāsa Initiation Lecture
 ----
 
 <audio>
-{{spoken:720527in.la.mp3|Sannyāsa Initiation Lecture — May 27, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720527in.la.mp3|Sannyāsa Initiation Lecture — May 27, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

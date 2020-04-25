@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.9.40
 ----
 
 <audio>
-{{spoken:730522sb.ny.mp3|SB 1.9.40 — May 22, 1973, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730522sb.ny.mp3|SB 1.9.40 — May 22, 1973, New York}}
 </audio>
 
 **Lady devotee:**

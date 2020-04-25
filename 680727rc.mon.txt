@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Religious Group
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680727rc.mon.mp3|Conversation with Religious Group — July 27, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680727rc.mon.mp3|Conversation with Religious Group — July 27, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.15.25–26
 ----
 
 <audio>
-{{spoken:731204sb.la.mp3|SB 1.15.25-26 — December 4, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731204sb.la.mp3|SB 1.15.25-26 — December 4, 1973, Los Angeles}}
 </audio>
 
 **Pradyumna:**

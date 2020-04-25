@@ -17,7 +17,7 @@ Title_hidden     : Car Conversation
 ----
 
 <audio>
-{{spoken:750620cr.hon.mp3|Car Conversation — June 20, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750620cr.hon.mp3|Car Conversation — June 20, 1975, Honolulu}}
 </audio>
 
 **Prabhupāda:**

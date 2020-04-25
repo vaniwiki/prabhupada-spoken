@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation With Anna Conan Doyle [Daughter-in-law of F
 ----
 
 <audio>
-{{spoken:730810r1.par.mp3|Room Conversation with Anna Conan Doyle — August 10, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730810r1.par.mp3|Room Conversation with Anna Conan Doyle — August 10, 1973, Paris}}
 </audio>
 
 **Prabhupāda:**

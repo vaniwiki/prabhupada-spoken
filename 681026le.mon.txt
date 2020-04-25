@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681026le.mon.mp3|Lecture — October 26, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681026le.mon.mp3|Lecture — October 26, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

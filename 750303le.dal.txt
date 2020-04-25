@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:750303le.dal.mp3|Lecture — March 3, 1975, Dallas}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750303le.dal.mp3|Lecture — March 3, 1975, Dallas}}
 </audio>
 
 **Prabhupāda:**

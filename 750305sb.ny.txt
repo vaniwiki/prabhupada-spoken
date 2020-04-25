@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.2.5
 ----
 
 <audio>
-{{spoken:750305sb.ny.mp3|SB 2.2.5 — March 5, 1975, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750305sb.ny.mp3|SB 2.2.5 — March 5, 1975, New York}}
 </audio>
 
 [//kīrtana//]

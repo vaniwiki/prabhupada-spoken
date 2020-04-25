@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Sir Alistair Hardy
 ----
 
 <audio>
-{{spoken:730721r1.lon.mp3|Room Conversation with Sir Alistair Hardy — July 21, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730721r1.lon.mp3|Room Conversation with Sir Alistair Hardy — July 21, 1973, London}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.10.3–4
 ----
 
 <audio>
-{{spoken:750313sb.teh.mp3|SB 1.10.3-4 — March 13, 1975, Tehran}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750313sb.teh.mp3|SB 1.10.3-4 — March 13, 1975, Tehran}}
 </audio>
 
 **Prabhupāda:**

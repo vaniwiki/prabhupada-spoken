@@ -17,7 +17,7 @@ Title_hidden     : Lecture [partially recorded]
 ----
 
 <audio>
-{{spoken:730225le.jkt.mp3|Lecture [partially recorded] — February 25, 1973, Jakarta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730225le.jkt.mp3|Lecture [partially recorded] — February 25, 1973, Jakarta}}
 </audio>
 
 [Poor Recording]

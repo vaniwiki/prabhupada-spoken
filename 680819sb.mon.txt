@@ -17,7 +17,7 @@ Title_hidden     : Date possibly is the 21th, Russian invasion to Czech which ha
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680819sb.mon.mp3|SB 7.9.12 — August 19, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680819sb.mon.mp3|SB 7.9.12 — August 19, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Lecture [partially recorded] At Kṛṣṇa Caitanya Maṭha 
 ----
 
 <audio>
-{{spoken:720220le.vis.mp3|Lecture at Kṛṣṇa Caitanya Maṭha — February 20, 1972, Visakhapatnam}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720220le.vis.mp3|Lecture at Kṛṣṇa Caitanya Maṭha — February 20, 1972, Visakhapatnam}}
 </audio>
 
 **Prabhupāda:**

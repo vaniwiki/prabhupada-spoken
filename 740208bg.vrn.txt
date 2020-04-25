@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.2
 ----
 
 <audio>
-{{spoken:740208bg.vrn.mp3|Bg 4.2 — February 8, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740208bg.vrn.mp3|Bg 4.2 — February 8, 1974, Vṛndāvana}}
 </audio>
 
 [poor recording]

@@ -17,7 +17,7 @@ Title_hidden     : Meeting at University
 ----
 
 <audio>
-{{spoken:721006me.ber.mp3|Meeting at University — October 6, 1972, Berkeley}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721006me.ber.mp3|Meeting at University — October 6, 1972, Berkeley}}
 </audio>
 
 **Co-ordinator of event:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation “Definition of Chance”
 ----
 
 <audio>
-{{spoken:720505r1.kyo.mp3|Room Conversation, “Definition of Chance” — May 5, 1972, Kyoto}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720505r1.kyo.mp3|Room Conversation, “Definition of Chance” — May 5, 1972, Kyoto}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Lecture in Hindi, English translation
 ----
 
 <audio>
-{{spoken:751115le.bom.mp3|Lecture Hindi and English — November 15, 1975, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751115le.bom.mp3|Lecture Hindi and English — November 15, 1975, Bombay}}
 </audio>
 
 [Hindi for much of lecture, translated here]

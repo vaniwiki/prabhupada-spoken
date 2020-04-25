@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation [Hindi]
 ----
 
 <audio>
-{{spoken:720216r1.mad_hindi.mp3|Room Conversation [Hindi] — February 16, 1972, Madras}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720216r1.mad_hindi.mp3|Room Conversation [Hindi] — February 16, 1972, Madras}}
 </audio>
 
 **Prabhupāda:**

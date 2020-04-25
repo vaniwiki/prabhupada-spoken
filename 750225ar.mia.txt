@@ -17,7 +17,7 @@ Title_hidden     : Arrival Lecture
 ----
 
 <audio>
-{{spoken:750225ar.mia.mp3|Arrival Lecture — February 25, 1975, Miami}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750225ar.mia.mp3|Arrival Lecture — February 25, 1975, Miami}}
 </audio>
 
 **Devotee:**

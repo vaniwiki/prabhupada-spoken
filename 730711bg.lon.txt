@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.6–7
 ----
 
 <audio>
-{{spoken:730711bg.lon.mp3|Bg 1.6-7 — July 11, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730711bg.lon.mp3|Bg 1.6-7 — July 11, 1973, London}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:730811r1.par.mp3|Room Conversation — August 11, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730811r1.par.mp3|Room Conversation — August 11, 1973, Paris}}
 </audio>
 
 **Prabhupāda:**

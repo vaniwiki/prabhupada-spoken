@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Mr. & Mrs. Wax, Writer and Editing Man
 ----
 
 <audio>
-{{spoken:750705r1.chi.mp3|Room Conversation with Mr. & Mrs. Wax — July 5, 1975, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750705r1.chi.mp3|Room Conversation with Mr. & Mrs. Wax — July 5, 1975, Chicago}}
 </audio>
 
 [Mr. and Mrs. Wax are the parents of Puṇḍarīka dāsa]

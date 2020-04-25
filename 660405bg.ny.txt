@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.49–51
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660405bg.ny.mp3|Bg 2.49-51 — April 5, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660405bg.ny.mp3|Bg 2.49-51 — April 5, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Jaya Rādhe Jaya Kṛṣṇa
 ----
 
 <audio>
-{{spoken:720925mu.la.mp3|Jaya Rādhe Jaya Kṛṣṇa — September 25, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720925mu.la.mp3|Jaya Rādhe Jaya Kṛṣṇa — September 25, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

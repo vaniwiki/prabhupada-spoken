@@ -17,7 +17,7 @@ Title_hidden     : Discussion about Guru Maharaj-ji
 ----
 
 <audio>
-{{spoken:730813r3.par.mp3|Discussion about Guru Maharaj-ji — August 13, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730813r3.par.mp3|Discussion about Guru Maharaj-ji — August 13, 1973, Paris}}
 </audio>
 
 **Prabhupāda:**

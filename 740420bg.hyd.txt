@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.4
 ----
 
 <audio>
-{{spoken:740420bg.hyd.mp3|Bg 13.4 — April 20, 1974, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740420bg.hyd.mp3|Bg 13.4 — April 20, 1974, Hyderabad}}
 </audio>
 
 **Nitāi:**

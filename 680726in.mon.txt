@@ -17,7 +17,7 @@ Title_hidden     : Initiation of Satyabhāmā Dāsī and Gāyatrī Initiation of
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680726in.mon.mp3|Initiation of Satyabhāmā Dāsī — July 26, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680726in.mon.mp3|Initiation of Satyabhāmā Dāsī — July 26, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

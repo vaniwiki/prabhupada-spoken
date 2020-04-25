@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.9 University Lecture
 ----
 
 <audio>
-{{spoken:750803s2.det.mp3|SB 1.2.9 University Lecture — August 3, 1975, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750803s2.det.mp3|SB 1.2.9 University Lecture — August 3, 1975, Detroit}}
 </audio>
 
 **Prabhupāda:**

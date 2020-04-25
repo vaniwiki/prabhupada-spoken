@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1 [Public Lecture]
 ----
 
 <audio>
-{{spoken:720415bg.auc.mp3|Bg 7.1, Public Lecture — April 15, 1972, Auckland}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720415bg.auc.mp3|Bg 7.1, Public Lecture — April 15, 1972, Auckland}}
 </audio>
 
 [//kīrtana//]

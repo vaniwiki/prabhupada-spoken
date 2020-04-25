@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.5.8–9 #
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690524sb.nv.mp3|SB 1.5.8-9 — May 24, 1969, New Vrindaban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690524sb.nv.mp3|SB 1.5.8-9 — May 24, 1969, New Vrindaban}}
 </audio>
 
 

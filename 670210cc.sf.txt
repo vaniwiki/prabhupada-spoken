@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 7.80–95
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1967/670210cc.sf.mp3|Cc. Ādi 7.80-95 — February 10, 1966, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670210cc.sf.mp3|Cc. Ādi 7.80-95 — February 10, 1966, San Francisco}}
 </audio>
 
 **Prabhupāda:**

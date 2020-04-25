@@ -17,7 +17,7 @@ Title_hidden     : Wedding of Bali-mardana and Initiation of Taittireyā dāsi
 ----
 
 <audio>
-{{spoken:731204we.la.mp3|Wedding Lecture — December 4, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731204we.la.mp3|Wedding Lecture — December 4, 1973, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

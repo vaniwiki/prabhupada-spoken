@@ -17,7 +17,7 @@ Title_hidden     : Arrival Lecture
 ----
 
 <audio>
-{{spoken:720720ar.par.mp3|Arrival Lecture — July 20, 1972, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720720ar.par.mp3|Arrival Lecture — July 20, 1972, Paris}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Second Talk with Bob Cohen [Brahmatīrtha dāsa]
 ----
 
 <audio>
-{{spoken:720228ta.may.mp3|Talk with Bob Cohen — February 28, 1972, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720228ta.may.mp3|Talk with Bob Cohen — February 28, 1972, Māyāpur}}
 </audio>
 
 [loud loudspeaker with Giriraja giving lecture in background]

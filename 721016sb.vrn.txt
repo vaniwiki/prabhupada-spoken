@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.5
 ----
 
 <audio>
-{{spoken:721016sb.vrn.mp3|SB 1.2.5 — October 16, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721016sb.vrn.mp3|SB 1.2.5 — October 16, 1972, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

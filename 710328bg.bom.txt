@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1–2
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710328bg.bom.mp3|Bg 7.1-2 — March 28, 1971, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710328bg.bom.mp3|Bg 7.1-2 — March 28, 1971, Bombay}}
 </audio>
 
 **Haṁsadūta:**

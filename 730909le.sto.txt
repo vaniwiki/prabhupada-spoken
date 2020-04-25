@@ -17,7 +17,7 @@ Title_hidden     : Lecture on Gurvaṣṭakam at Uppsala University
 ----
 
 <audio>
-{{spoken:730909le.sto.mp3|Lecture on Gurvaṣṭakam at Uppsala University — September 9, 1973, Stockholm}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730909le.sto.mp3|Lecture on Gurvaṣṭakam at Uppsala University — September 9, 1973, Stockholm}}
 </audio>
 
 **Prabhupāda:**

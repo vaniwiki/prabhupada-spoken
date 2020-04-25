@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:751004r1.mau.mp3|Room Conversation — October 4, 1975, Mauritius}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751004r1.mau.mp3|Room Conversation — October 4, 1975, Mauritius}}
 </audio>
 
 [Prabhupāda is taking breakfast //prasādam//]

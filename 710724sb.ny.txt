@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.8–13
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710724sb.ny.mp3|SB 6.1.8-13 — July 24, 1971, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710724sb.ny.mp3|SB 6.1.8-13 — July 24, 1971, New York}}
 </audio>
 
 **Prabhupāda:**

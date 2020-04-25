@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.5
 ----
 
 <audio>
-{{spoken:740220bg.bom.mp3|Bg 7.5 — February 20, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740220bg.bom.mp3|Bg 7.5 — February 20, 1974, Bombay}}
 </audio>
 
 [loud Indian music in background throughout]

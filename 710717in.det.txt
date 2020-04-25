@@ -17,7 +17,7 @@ Title_hidden     : Initiation Lecture [partially recorded]
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710717in.det.mp3|Initiation Lecture [partially recorded] — July 17, 1971, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710717in.det.mp3|Initiation Lecture [partially recorded] — July 17, 1971, Detroit}}
 </audio>
 
 **Prabhupāda:**

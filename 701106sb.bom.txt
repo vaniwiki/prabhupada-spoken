@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.6
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/701106sb.bom.mp3|SB 6.1.6 — November 6, 1970, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701106sb.bom.mp3|SB 6.1.6 — November 6, 1970, Bombay}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Television Interview
 ----
 
 <audio>
-{{spoken:750709iv.chi.mp3|Television Interview — July 9, 1975, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750709iv.chi.mp3|Television Interview — July 9, 1975, Chicago}}
 </audio>
 
 **Prabhupāda:**

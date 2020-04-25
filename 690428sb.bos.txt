@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.2
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690428sb.bos.mp3|SB 5.5.2 — April 28, 1969, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690428sb.bos.mp3|SB 5.5.2 — April 28, 1969, Boston}}
 </audio>
 
 **Prabhupāda:**

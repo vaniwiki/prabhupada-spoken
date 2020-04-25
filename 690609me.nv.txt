@@ -17,7 +17,7 @@ Title_hidden     : Meeting with Devotees
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690609me.nv.mp3|Meeting with Devotees — June 9, 1969, New Vrindaban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690609me.nv.mp3|Meeting with Devotees — June 9, 1969, New Vrindaban}}
 </audio>
 
 

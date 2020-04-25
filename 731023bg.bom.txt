@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.24
 ----
 
 <audio>
-{{spoken:731023bg.bom.mp3|Bg 13.24 — October 23, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731023bg.bom.mp3|Bg 13.24 — October 23, 1973, Bombay}}
 </audio>
 
 **Pradyumna:** Translation: "One who understands this philosophy concerning material nature, the living entity and the interaction of the modes of nature is sure to attain liberation. He will not take birth here again, regardless of his present position." [[books:bg:13:24|[Bg. 13.24]]]

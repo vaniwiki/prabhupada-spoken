@@ -17,7 +17,7 @@ Title_hidden     : Initiation of Ambarīṣa dāsa
 ----
 
 <audio>
-{{spoken:750603in-hon.mp3|Initiation of Ambarīṣa dāsa — June 3, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750603in-hon.mp3|Initiation of Ambarīṣa dāsa — June 3, 1975, Honolulu}}
 </audio>
 
 **Prabhupāda:**

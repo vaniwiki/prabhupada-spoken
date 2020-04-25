@@ -17,7 +17,7 @@ Title_hidden     : Chanting Śrī Caitanya-caritāmṛta Ādi-līlā 7th Chapter
 ----
 
 <audio>
-{{spoken:731209ch.la.mp3|Chanting Cc Ādi-līlā 7th Chapter — December 9, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731209ch.la.mp3|Chanting Cc Ādi-līlā 7th Chapter — December 9, 1973, Los Angeles}}
 </audio>
 
 ===== Chapter 7: Lord Caitanya in Five Features =====

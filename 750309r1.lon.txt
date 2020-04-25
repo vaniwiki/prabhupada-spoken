@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Reporter
 ----
 
 <audio>
-{{spoken:750309r1.lon.mp3|Room Conversation with Reporter — March 9, 1975, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750309r1.lon.mp3|Room Conversation with Reporter — March 9, 1975, London}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 3.16–17
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660525bg.ny.mp3|Bg 3.16-17 — May 25, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660525bg.ny.mp3|Bg 3.16-17 — May 25, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

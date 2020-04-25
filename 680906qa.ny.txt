@@ -17,7 +17,7 @@ Title_hidden     : Questions and Answers
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680906qa.ny.mp3|Questions and Answers — September 6, 1968, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680906qa.ny.mp3|Questions and Answers — September 6, 1968, New York}}
 </audio>
 
 **Prabhupāda:**

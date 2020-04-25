@@ -17,7 +17,7 @@ Title_hidden     : Śrī Īśopaniṣad, Mantra 8
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700511ip.la.mp3|Śrī Īśopaniṣad, Mantra 8 — May 11, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700511ip.la.mp3|Śrī Īśopaniṣad, Mantra 8 — May 11, 1970, Los Angeles}}
 </audio>
 
 [Prabhupāda and devotees chant Invocation and verses 1–7]

@@ -17,7 +17,7 @@ Title_hidden     : Lecture at World Health Organization
 ----
 
 <audio>
-{{spoken:740606le.gen.mp3|Lecture at World Health Organization — June 6, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740606le.gen.mp3|Lecture at World Health Organization — June 6, 1974, Geneva}}
 </audio>
 
 **Prabhupāda:**

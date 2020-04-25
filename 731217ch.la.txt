@@ -17,7 +17,7 @@ Title_hidden     : Chanting Śrī Caitanya-caritāmṛta Ādi-līlā 10th and 11
 ----
 
 <audio>
-{{spoken:731217ch.la.mp3|Chanting Cc Ādi-līlā 10th and 11th Chapter — December 17, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731217ch.la.mp3|Chanting Cc Ādi-līlā 10th and 11th Chapter — December 17, 1973, Los Angeles}}
 </audio>
 
 ===== The Trunk, Branches and Subbranches of the Caitanya Tree =====

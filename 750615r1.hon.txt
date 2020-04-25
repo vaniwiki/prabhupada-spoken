@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation About Educational System
 ----
 
 <audio>
-{{spoken:750615r1-hon.mp3|Conversation About Educational System — June 15, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750615r1-hon.mp3|Conversation About Educational System — June 15, 1975, Honolulu}}
 </audio>
 
 **Siddha-svarūpa:**

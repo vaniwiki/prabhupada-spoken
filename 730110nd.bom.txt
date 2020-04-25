@@ -17,7 +17,7 @@ Title_hidden     : The Nectar of Devotion
 ----
 
 <audio>
-{{spoken:730110nd.bom.mp3|The Nectar of Devotion — January 10, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730110nd.bom.mp3|The Nectar of Devotion — January 10, 1973, Bombay}}
 </audio>
 
 **Pradyumna:**

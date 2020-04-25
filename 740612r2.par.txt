@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with M. Lallier, noted French Poet
 ----
 
 <audio>
-{{spoken:740612r2.par.mp3|Room Conversation with M. Lallier, noted French Poet — June 12, 1974, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740612r2.par.mp3|Room Conversation with M. Lallier, noted French Poet — June 12, 1974, Paris}}
 </audio>
 
 **Yogeśvara:**

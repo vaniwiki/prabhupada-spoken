@@ -17,7 +17,7 @@ Title_hidden     : Lecture #
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690622le.nv.mp3|Lecture — June 22, 1969, New Vrindaban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690622le.nv.mp3|Lecture — June 22, 1969, New Vrindaban}}
 </audio>
 
 

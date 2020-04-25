@@ -17,7 +17,7 @@ Title_hidden     : Śrī Rāma-navamī, Lord Rāmacandra’s Appearance Day, Cor
 ----
 
 <audio>
-{{spoken:740401cs.bom.mp3|Śrī Rāma-navamī, Cornerstone Laying — April 1, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740401cs.bom.mp3|Śrī Rāma-navamī, Cornerstone Laying — April 1, 1974, Bombay}}
 </audio>
 
 **Prabhupāda:**

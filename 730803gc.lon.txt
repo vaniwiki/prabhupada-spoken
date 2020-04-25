@@ -17,7 +17,7 @@ Title_hidden     : Garden Conversation With Mahādeva’s Mother, Mrs. Critchley
 ----
 
 <audio>
-{{spoken:730803gc.lon.mp3|Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest — August 3, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730803gc.lon.mp3|Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest — August 3, 1973, London}}
 </audio>
 
 **Prabhupāda:**

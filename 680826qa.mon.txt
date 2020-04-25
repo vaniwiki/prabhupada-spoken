@@ -17,7 +17,7 @@ Title_hidden     : Questions and Answers
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680826qa.mon.mp3|Questions and Answers — August 26, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680826qa.mon.mp3|Questions and Answers — August 26, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

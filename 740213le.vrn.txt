@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Hindi]
 ----
 
 <audio>
-{{spoken:740213le.vrn_hindi.mp3|Lecture [Hindi] — February 13, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740213le.vrn_hindi.mp3|Lecture [Hindi] — February 13, 1974, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680202le.la.mp3|Lecture — February 2, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680202le.la.mp3|Lecture — February 2, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

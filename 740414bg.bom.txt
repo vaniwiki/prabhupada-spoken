@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.25
 ----
 
 <audio>
-{{spoken:740414bg.bom.mp3|Bg 4.25 — April 14, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740414bg.bom.mp3|Bg 4.25 — April 14, 1974, Bombay}}
 </audio>
 
 **Pradyumna: **Translation: "Some yogīs perfectly worship the demigods by offering different sacrifices to them, and some of them offer sacrifices in the fire of the Supreme Brahman."

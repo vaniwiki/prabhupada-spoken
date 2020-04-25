@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.49
 ----
 
 <audio>
-{{spoken:750801sb.no.mp3|SB 6.1.49 — August 1, 1975, New Orleans Farm}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750801sb.no.mp3|SB 6.1.49 — August 1, 1975, New Orleans Farm}}
 </audio>
 
 **Harikeśa:**

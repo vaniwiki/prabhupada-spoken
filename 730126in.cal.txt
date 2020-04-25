@@ -17,7 +17,7 @@ Title_hidden     : Sannyāsa Initiation Lecture
 ----
 
 <audio>
-{{spoken:730126in.cal.mp3|Sannyāsa Initiation Lecture — January 26, 1973, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730126in.cal.mp3|Sannyāsa Initiation Lecture — January 26, 1973, Calcutta}}
 </audio>
 
 **Prabhupāda:**

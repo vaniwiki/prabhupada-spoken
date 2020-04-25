@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.11
 ----
 
 <audio>
-{{spoken:740803bg.vrn.mp3|Bg 4.11 — August 3, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740803bg.vrn.mp3|Bg 4.11 — August 3, 1974, Vṛndāvana}}
 </audio>
 
 **Nitāi:**

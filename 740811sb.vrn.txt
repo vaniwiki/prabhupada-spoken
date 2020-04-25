@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.5.30
 ----
 
 <audio>
-{{spoken:740811sb.vrn.mp3|SB 1.5.30 — August 11, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740811sb.vrn.mp3|SB 1.5.30 — August 11, 1974, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

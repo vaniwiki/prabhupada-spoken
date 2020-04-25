@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.58–59
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660427bg.ny.mp3|Bg 2.58-59 — April 27, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660427bg.ny.mp3|Bg 2.58-59 — April 27, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

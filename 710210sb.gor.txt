@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.3.16–17
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710210sb.gor.mp3|SB 6.3.16-17 — February 10, 1971, Gorakhpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710210sb.gor.mp3|SB 6.3.16-17 — February 10, 1971, Gorakhpur}}
 </audio>
 
 **Prabhupāda:**

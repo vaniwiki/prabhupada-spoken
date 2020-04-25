@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Rajmataji Gayatri Devi [Bengali]
 ----
 
 <audio>
-{{spoken:720118r2.jai_bengali.mp3|Room Conversation [Bengali] — January 18, 1972, Jaipur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720118r2.jai_bengali.mp3|Room Conversation [Bengali] — January 18, 1972, Jaipur}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.22
 ----
 
 <audio>
-{{spoken:721102sb.vrn.mp3|SB 1.2.22 — November 2, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721102sb.vrn.mp3|SB 1.2.22 — November 2, 1972, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

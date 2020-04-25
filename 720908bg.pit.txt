@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.13
 ----
 
 <audio>
-{{spoken:720908bg.pit.mp3|Bg 2.13 — September 8, 1972, Pittsburgh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720908bg.pit.mp3|Bg 2.13 — September 8, 1972, Pittsburgh}}
 </audio>
 
 **Pradyumna:**

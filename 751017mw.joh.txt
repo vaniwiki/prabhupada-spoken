@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:751017mw.joh.mp3|Morning Walk — October 17, 1975, Johannesburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751017mw.joh.mp3|Morning Walk — October 17, 1975, Johannesburg}}
 </audio>
 
 [in car]

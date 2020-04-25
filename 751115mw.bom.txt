@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:751115mw.bom.mp3|Morning Walk — November 15, 1975, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751115mw.bom.mp3|Morning Walk — November 15, 1975, Bombay}}
 </audio>
 
 **Prabhupāda:**

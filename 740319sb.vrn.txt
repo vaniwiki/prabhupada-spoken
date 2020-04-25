@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.1.4
 ----
 
 <audio>
-{{spoken:740319sb.vrn.mp3|SB 2.1.4 — March 19, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740319sb.vrn.mp3|SB 2.1.4 — March 19, 1974, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

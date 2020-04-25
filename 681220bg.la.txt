@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 3.1–5
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681220bg.la.mp3|Bg 3.1-5 — December 20, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681220bg.la.mp3|Bg 3.1-5 — December 20, 1968, Los Angeles}}
 </audio>
 
 [//kīrtana,// followed by //prema-dhvani// prayers]

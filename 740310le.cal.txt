@@ -17,7 +17,7 @@ Title_hidden     : Lecture in Bengali
 ----
 
 <audio>
-{{spoken:740310le.cal.mp3|Lecture Bengali — March 10, 1974, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740310le.cal.mp3|Lecture Bengali — March 10, 1974, Calcutta}}
 </audio>
 
 **Prabhupāda:**

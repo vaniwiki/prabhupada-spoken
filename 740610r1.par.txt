@@ -20,7 +20,7 @@ Title_hidden     : Room Conversation with Christian Priest, Mr. Chenique
 ----
 
 <audio>
-{{spoken:740610r1.par.mp3|Room Conversation with Christian Priest, Mr. Chenique — June 10, 1974, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740610r1.par.mp3|Room Conversation with Christian Priest, Mr. Chenique — June 10, 1974, Paris}}
 </audio>
 
 **Jyotirmayī:**

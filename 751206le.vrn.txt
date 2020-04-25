@@ -17,7 +17,7 @@ Title_hidden     : Sannyāsa Initiation Lecture
 ----
 
 <audio>
-{{spoken:751206le.vrn.mp3|Sannyāsa Initiation Lecture — December 6, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751206le.vrn.mp3|Sannyāsa Initiation Lecture — December 6, 1975, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

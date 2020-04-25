@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Day after Lord Rāma’s Appearance Day]
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700416le.la.mp3|Lecture [Day after Lord Rāma’s Appearance Day] — April 16, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700416le.la.mp3|Lecture [Day after Lord Rāma’s Appearance Day] — April 16, 1970, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Northeastern University Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690430le.bos.mp3|Northeastern University Lecture — April 30, 1969, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690430le.bos.mp3|Northeastern University Lecture — April 30, 1969, Boston}}
 </audio>
 
 **Prabhupāda:**

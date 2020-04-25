@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.1
 ----
 
 <audio>
-{{spoken:751128sb.del.mp3|SB 5.5.1 — November 28, 1975, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751128sb.del.mp3|SB 5.5.1 — November 28, 1975, Delhi}}
 </audio>
 
 **Prabhupāda:**

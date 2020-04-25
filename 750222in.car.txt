@@ -17,7 +17,7 @@ Title_hidden     : Initiation Lecture
 ----
 
 <audio>
-{{spoken:750222in.car.mp3|Initiation Lecture — February 22, 1975, Caracas}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750222in.car.mp3|Initiation Lecture — February 22, 1975, Caracas}}
 </audio>
 
 [translated throughout by Hṛdayānanda]

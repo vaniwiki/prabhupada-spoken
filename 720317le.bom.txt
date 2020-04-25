@@ -17,7 +17,7 @@ Title_hidden     : Pandal Lecture
 ----
 
 <audio>
-{{spoken:720317le.bom.mp3|Pandal Lecture — March 17, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720317le.bom.mp3|Pandal Lecture — March 17, 1972, Bombay}}
 </audio>
 
 **Devotee:**

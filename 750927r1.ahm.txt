@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation [Hindi with English translation]
 ----
 
 <audio>
-{{spoken:750927r1.ahm_hindi.mp3|Room Conversation [Hindi] — September 27, 1975, Ahmedabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750927r1.ahm_hindi.mp3|Room Conversation [Hindi] — September 27, 1975, Ahmedabad}}
 </audio>
 
 [final proofreading pending]

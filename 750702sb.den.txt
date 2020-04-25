@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.19
 ----
 
 <audio>
-{{spoken:750702sb.den.mp3|SB 6.1.19 — July 2, 1975, Denver}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750702sb.den.mp3|SB 6.1.19 — July 2, 1975, Denver}}
 </audio>
 
 **Nitāi:**

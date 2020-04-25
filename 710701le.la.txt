@@ -17,7 +17,7 @@ Title_hidden     : Ratha-yātrā
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710701le.la.mp3|Ratha-yātrā — July 1, 1971, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710701le.la.mp3|Ratha-yātrā — July 1, 1971, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

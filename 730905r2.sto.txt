@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Sanskrit Professor Dr. Suneson Chantin
 ----
 
 <audio>
-{{spoken:730905r2.sto.mp3|Room Conversation with Sanskrit Professor Dr. Suneson, Chanting of Ādi-līlā 7.2-59 — September 5, 1973, Stockholm}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730905r2.sto.mp3|Room Conversation with Sanskrit Professor Dr. Suneson, Chanting of Ādi-līlā 7.2-59 — September 5, 1973, Stockholm}}
 </audio>
 
 **Prabhupāda:**

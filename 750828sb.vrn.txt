@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.61
 ----
 
 <audio>
-{{spoken:750828sb.vrn.mp3|SB 6.1.61 — August 28, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750828sb.vrn.mp3|SB 6.1.61 — August 28, 1975, Vṛndāvana}}
 </audio>
 
 **Harikeśa:**

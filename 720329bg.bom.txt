@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1 [Hindi]
 ----
 
 <audio>
-{{spoken:720329bg.bom_hindi.mp3|Bg 7.1 [Hindi] — March 29, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720329bg.bom_hindi.mp3|Bg 7.1 [Hindi] — March 29, 1972, Bombay}}
 </audio>
 
 **Prabhupāda:**

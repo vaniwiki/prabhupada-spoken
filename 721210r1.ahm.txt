@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation [Hindi]
 ----
 
 <audio>
-{{spoken:721210r1.ahm_hindi.mp3|Room Conversation [Hindi] — December 10, 1972, Ahmedabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721210r1.ahm_hindi.mp3|Room Conversation [Hindi] — December 10, 1972, Ahmedabad}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam Preface Pandal Lecture "We must know the
 ----
 
 <audio>
-{{spoken:730114sb.bom.mp3|SB Preface, Pandal Lecture — January 14, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730114sb.bom.mp3|SB Preface, Pandal Lecture — January 14, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

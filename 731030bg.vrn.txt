@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.2 [Hindi]
 ----
 
 <audio>
-{{spoken:731030bg.vrn_hindi.mp3|Bg 7.2 [Hindi] — October 30, 1973, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731030bg.vrn_hindi.mp3|Bg 7.2 [Hindi] — October 30, 1973, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

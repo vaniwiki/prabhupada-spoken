@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 18.67–69
 ----
 
 <audio>
-{{spoken:721209bg.ahm.mp3|Bg 18.67-69 — December 9, 1972, Ahmedabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721209bg.ahm.mp3|Bg 18.67-69 — December 9, 1972, Ahmedabad}}
 </audio>
 
 **Prabhupāda:**

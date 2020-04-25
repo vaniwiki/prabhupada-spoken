@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680927le.sea.mp3|Lecture — September 27, 1968, Seattle}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680927le.sea.mp3|Lecture — September 27, 1968, Seattle}}
 </audio>
 
 **Prabhupāda:**

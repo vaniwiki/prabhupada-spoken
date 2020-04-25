@@ -17,7 +17,7 @@ Title_hidden     : Interview with LA Times Reporter About Moon Trip
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681226iv.la.mp3|Interview with LA Times Reporter About Moon Trip — December 26, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681226iv.la.mp3|Interview with LA Times Reporter About Moon Trip — December 26, 1968, Los Angeles}}
 </audio>
 
 **Reporter:**

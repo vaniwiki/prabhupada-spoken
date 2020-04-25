@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:730228mw.jkt.mp3|Morning Walk — February 28, 1973, Jakarta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730228mw.jkt.mp3|Morning Walk — February 28, 1973, Jakarta}}
 </audio>
 
 [poor audio]

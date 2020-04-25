@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.51
 ----
 
 <audio>
-{{spoken:750804sb.det.mp3|SB 6.1.51 — August 4, 1975, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750804sb.det.mp3|SB 6.1.51 — August 4, 1975, Detroit}}
 </audio>
 
 **Nitāi:** "The subtle body endowed with the five knowledge-acquiring senses, the five working senses, the five objects of sense gratification, and the mind, altogether sixteen parts, which is the effect of the three modes of material nature and is composed of very strong, insurmountable desires, causes the living entity to transmigrate from one body to another within the kingdom of human life, animal life or higher demigod life. When he gets the body of a demigod he is certainly very jubilant. When he gets the body of a human being he is always in lamentation. When he gets the body of an animal he is always afraid. In this way, in all conditions he is miserable. This miserable condition is called saṁsṛti, or transmigration in material life."

@@ -17,7 +17,7 @@ Title_hidden     : Jagannātha Deities Installation, Śrīmad-Bhāgavatam 1.2.13
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1967/670323sb.sf.mp3|Jagannātha Deities Installation, SB 1.2.13-14 — March 23, 1967, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670323sb.sf.mp3|Jagannātha Deities Installation, SB 1.2.13-14 — March 23, 1967, San Francisco}}
 </audio>
 
 **Prabhupāda:**

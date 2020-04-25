@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Indian Guest
 ----
 
 <audio>
-{{spoken:731004r1.bom.mp3|Room Conversation with Indian Guest — October 4, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731004r1.bom.mp3|Room Conversation with Indian Guest — October 4, 1973, Bombay}}
 </audio>
 
 **Guest (1):**

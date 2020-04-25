@@ -17,6 +17,6 @@ Title_hidden     : Lecture Bengali
 ----
 
 <audio>
-{{spoken:730316le.may_bengali.mp3|Lecture [Bengali] — March 16, 1973, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730316le.may_bengali.mp3|Lecture [Bengali] — March 16, 1973, Māyāpur}}
 </audio>
 

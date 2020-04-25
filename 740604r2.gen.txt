@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Biochemist Dr. Sallaz
 ----
 
 <audio>
-{{spoken:740604r2.gen.mp3|Room Conversation with Biochemist Dr. Sallaz — June 4, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740604r2.gen.mp3|Room Conversation with Biochemist Dr. Sallaz — June 4, 1974, Geneva}}
 </audio>
 
 **Dr. Sallaz:**

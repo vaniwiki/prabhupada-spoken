@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.20
 ----
 
 <audio>
-{{spoken:730412sb.ny.mp3|SB 1.8.20 — April 12, 1973, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730412sb.ny.mp3|SB 1.8.20 — April 12, 1973, New York}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:750513r2.per.mp3|Room Conversation — May 13, 1975, Perth}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750513r2.per.mp3|Room Conversation — May 13, 1975, Perth}}
 </audio>
 
 **Amogha:**

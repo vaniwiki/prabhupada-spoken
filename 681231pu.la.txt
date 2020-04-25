@@ -17,7 +17,7 @@ Title_hidden     : Spelling of Ārati Song
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681231pu.la.mp3|Spelling of Ārati Song — December 31, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681231pu.la.mp3|Spelling of Ārati Song — December 31, 1968, Los Angeles}}
 </audio>
 
 **Pradyumna:**

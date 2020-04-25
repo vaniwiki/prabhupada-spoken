@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740506mw.bom.mp3|Morning Walk — May 6, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740506mw.bom.mp3|Morning Walk — May 6, 1974, Bombay}}
 </audio>
 
 **Prabhupāda:**

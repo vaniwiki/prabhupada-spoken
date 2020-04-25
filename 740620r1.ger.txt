@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Christians
 ----
 
 <audio>
-{{spoken:740620r1.ger.mp3|Room Conversation — June 20, 1974, Germany}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740620r1.ger.mp3|Room Conversation — June 20, 1974, Germany}}
 </audio>
 
 **Prabhupāda:**

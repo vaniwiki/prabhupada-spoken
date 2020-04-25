@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.7.6
 ----
 
 <audio>
-{{spoken:740531sb.gen.mp3|SB 1.7.6 — May 31, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740531sb.gen.mp3|SB 1.7.6 — May 31, 1974, Geneva}}
 </audio>
 
 **Prabhupāda:**

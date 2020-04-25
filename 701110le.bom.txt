@@ -17,7 +17,7 @@ Title_hidden     : Lecture [partially recorded]
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/701110le.bom.mp3|Lecture [partially recorded] — November 10, 1970, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701110le.bom.mp3|Lecture [partially recorded] — November 10, 1970, Bombay}}
 </audio>
 
 **Prabhupāda:**

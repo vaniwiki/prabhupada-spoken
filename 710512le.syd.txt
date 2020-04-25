@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Boys’ School
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710512le.syd.mp3|Lecture at Boys’ School — May 12, 1971, Sydney}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710512le.syd.mp3|Lecture at Boys’ School — May 12, 1971, Sydney}}
 </audio>
 
 [//kīrtana//]

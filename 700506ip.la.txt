@@ -17,7 +17,7 @@ Title_hidden     : Śrī Īśopaniṣad, Mantra 2–4
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700506ip.la.mp3|Śrī Īśopaniṣad, Mantra 2-4 — May 6, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700506ip.la.mp3|Śrī Īśopaniṣad, Mantra 2-4 — May 6, 1970, Los Angeles}}
 </audio>
 
 [devotees chant Invocation and first two //mantras//]

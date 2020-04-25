@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Journalist
 ----
 
 <audio>
-{{spoken:750519r1.mel.mp3|Room Conversation with Journalist — May 19, 1975, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750519r1.mel.mp3|Room Conversation with Journalist — May 19, 1975, Melbourne}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.58 [Hindi with English translation]
 ----
 
 <audio>
-{{spoken:750819sb.bom_hindi.mp3|SB 6.1.58 [Hindi] — August 19, 1975, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750819sb.bom_hindi.mp3|SB 6.1.58 [Hindi] — August 19, 1975, Bombay}}
 </audio>
 
 [final proofreading pending]

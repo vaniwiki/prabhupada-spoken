@@ -17,7 +17,7 @@ Title_hidden     : Arrival Address
 ----
 
 <audio>
-{{spoken:750620a2.la.mp3|Arrival Address — June 20, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750620a2.la.mp3|Arrival Address — June 20, 1975, Los Angeles}}
 </audio>
 
 **Kṛṣṇa-kānti:**

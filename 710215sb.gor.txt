@@ -17,7 +17,7 @@ Title_hidden     : His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvām�
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710215sb.gor.mp3|His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, SB 6.3.24 — February 15, 1971, Gorakhpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710215sb.gor.mp3|His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, SB 6.3.24 — February 15, 1971, Gorakhpur}}
 </audio>
 
 **Mālatī:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 5.17–24
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690208bg.la.mp3|Bg 5.17-24 — February 8, 1969, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690208bg.la.mp3|Bg 5.17-24 — February 8, 1969, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

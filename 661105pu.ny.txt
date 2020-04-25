@@ -17,7 +17,7 @@ Title_hidden     : Purport to Brahma-saṁhitā Verses 32 and 38
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/661105pu.ny.mp3|Purport to Brahma-saṁhitā Verses 32 and 38 — November 5, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661105pu.ny.mp3|Purport to Brahma-saṁhitā Verses 32 and 38 — November 5, 1966, New York}}
 </audio>
 
 [Prabhupāda sings]

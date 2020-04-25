@@ -17,7 +17,7 @@ Title_hidden     : Life Member House Lecture
 ----
 
 <audio>
-{{spoken:750414l2.hyd.mp3|Life Member House Lecture — April 14, 1975, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750414l2.hyd.mp3|Life Member House Lecture — April 14, 1975, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

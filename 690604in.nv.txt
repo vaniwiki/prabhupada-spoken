@@ -17,7 +17,7 @@ Title_hidden     : Initiation Lecture, Bhagavān Marriage Ceremony #
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690604in.nv.mp3|Initiation Lecture, Bhagavān Marriage Ceremony — June 4, 1969, New Vrindaban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690604in.nv.mp3|Initiation Lecture, Bhagavān Marriage Ceremony — June 4, 1969, New Vrindaban}}
 </audio>
 
 

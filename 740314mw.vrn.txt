@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk “Varṇāśrama College”
 ----
 
 <audio>
-{{spoken:740314mw.vrn.mp3|Morning Walk, “Varṇāśrama College” — March 14, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740314mw.vrn.mp3|Morning Walk, “Varṇāśrama College” — March 14, 1974, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

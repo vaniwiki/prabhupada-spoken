@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.16.24
 ----
 
 <audio>
-{{spoken:740714sb.la.mp3|SB 1.16.24 — July 14, 1974, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740714sb.la.mp3|SB 1.16.24 — July 14, 1974, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

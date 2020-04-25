@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation, Bhagavad-gītā 9.34
 ----
 
 <audio>
-{{spoken:730225r1.jkt.mp3|Room Conversation, Bhagavad-gītā 9.34 — February 25, 1973, Jakarta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730225r1.jkt.mp3|Room Conversation, Bhagavad-gītā 9.34 — February 25, 1973, Jakarta}}
 </audio>
 
 **Devotee:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Bill Faill [reporter]
 ----
 
 <audio>
-{{spoken:751008r1.dur.mp3|Room Conversation with Bill Faill [reporter] — October 8, 1975, Durban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751008r1.dur.mp3|Room Conversation with Bill Faill [reporter] — October 8, 1975, Durban}}
 </audio>
 
 **Bill Faill:**

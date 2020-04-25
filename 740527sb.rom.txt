@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.3
 ----
 
 <audio>
-{{spoken:740527sb.rom.mp3|SB 1.2.3 — May 27, 1974, Rome}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740527sb.rom.mp3|SB 1.2.3 — May 27, 1974, Rome}}
 </audio>
 
 **Nitāi:**

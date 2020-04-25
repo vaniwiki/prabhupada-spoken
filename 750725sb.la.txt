@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.44
 ----
 
 <audio>
-{{spoken:750725sb.la.mp3|SB 6.1.44 — July 25, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750725sb.la.mp3|SB 6.1.44 — July 25, 1975, Los Angeles}}
 </audio>
 
 **Nitāi:** "O inhabitants of Vaikuṇṭha, you are all sinless, but those within this material world, they are all karmīs acting piously or impiously. Both kinds of activities are possible for them because they are contaminated by the three modes of nature and must act accordingly. One who has accepted a material body cannot remain inactive, and it is inevitable for one acting under the modes of nature to be sinful. Therefore all the living entities within this material world are punishable."

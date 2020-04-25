@@ -17,7 +17,7 @@ Title_hidden     : Departure Brahma-saṁhitā 5.1
 ----
 
 <audio>
-{{spoken:721005dp.la.mp3|Departure, Brahma-saṁhitā 5.1 — October 5, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721005dp.la.mp3|Departure, Brahma-saṁhitā 5.1 — October 5, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

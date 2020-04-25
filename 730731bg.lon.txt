@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.44
 ----
 
 <audio>
-{{spoken:730731bg.lon.mp3|Bg 1.44 — July 31, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730731bg.lon.mp3|Bg 1.44 — July 31, 1973, London}}
 </audio>
 
 **Pradyumna:** Translation: "Alas, how strange it is that we are preparing to commit greatly sinful acts, driven by the desire to enjoy royal happiness."

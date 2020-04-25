@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation About BBT Accounts
 ----
 
 <audio>
-{{spoken:750626r2.la.mp3|Room Conversation — June 26, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750626r2.la.mp3|Room Conversation — June 26, 1975, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

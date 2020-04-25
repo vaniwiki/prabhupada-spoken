@@ -17,7 +17,7 @@ Title_hidden     : Initiation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681020i2.sea.mp3|Initiation — October 20, 1968, Seattle}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681020i2.sea.mp3|Initiation — October 20, 1968, Seattle}}
 </audio>
 
 [//kīrtana,// etc.]

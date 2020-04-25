@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Bernard Manischewitz [father of Urmil�
 ----
 
 <audio>
-{{spoken:750713r3.phi.mp3|Room Conversation with Bernard Manischewitz — July 13, 1975, Philadelphia}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750713r3.phi.mp3|Room Conversation with Bernard Manischewitz — July 13, 1975, Philadelphia}}
 </audio>
 
 **Prabhupāda:**

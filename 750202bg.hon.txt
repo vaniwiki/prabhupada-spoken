@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 16.6
 ----
 
 <audio>
-{{spoken:750202bg.hon.mp3|Bg 16.6 — February 2, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750202bg.hon.mp3|Bg 16.6 — February 2, 1975, Honolulu}}
 </audio>
 
 **Nitāi:**

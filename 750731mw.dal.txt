@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750731mw.dal.mp3|Morning Walk — July 31, 1975, Dallas}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750731mw.dal.mp3|Morning Walk — July 31, 1975, Dallas}}
 </audio>
 
 **Brahmānanda:**

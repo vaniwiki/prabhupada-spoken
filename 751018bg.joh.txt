@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 16.6
 ----
 
 <audio>
-{{spoken:751018bg.joh.mp3|Bg 16.6 — October 18, 1975, Johannesburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751018bg.joh.mp3|Bg 16.6 — October 18, 1975, Johannesburg}}
 </audio>
 
 **Prabhupāda:**

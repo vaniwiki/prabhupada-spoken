@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.7
 ----
 
 <audio>
-{{spoken:740327bg.bom.mp3|Bg 4.7 — March 27, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740327bg.bom.mp3|Bg 4.7 — March 27, 1974, Bombay}}
 </audio>
 
 **Pradyumna:**

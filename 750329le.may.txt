@@ -17,7 +17,7 @@ Title_hidden     : Lecture after Manipur Dancing
 ----
 
 <audio>
-{{spoken:750329le.may.mp3|Lecture after Manipur Dancing — March 29, 1975, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750329le.may.mp3|Lecture after Manipur Dancing — March 29, 1975, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

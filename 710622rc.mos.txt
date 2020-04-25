@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Prof. Kotovsky
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710622rc.mos.mp3|Conversation with Prof. Kotovsky — June 22, 1971, Moscow}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710622rc.mos.mp3|Conversation with Prof. Kotovsky — June 22, 1971, Moscow}}
 </audio>
 
 **Prabhupāda:**

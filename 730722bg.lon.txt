@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.28–29
 ----
 
 <audio>
-{{spoken:730722bg.lon.mp3|Bg 1.28-29 — July 22, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730722bg.lon.mp3|Bg 1.28-29 — July 22, 1973, London}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Janmāṣṭamī Kṛṣṇa Book Reading
 ----
 
 <audio>
-{{spoken:720901re.nv.mp3|Janmāṣṭamī, Kṛṣṇa Book Reading — September 1, 1972, New Vrindavan}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720901re.nv.mp3|Janmāṣṭamī, Kṛṣṇa Book Reading — September 1, 1972, New Vrindavan}}
 </audio>
 
 **Prabhupāda:**

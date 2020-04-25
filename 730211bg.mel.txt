@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 3.36–37
 ----
 
 <audio>
-{{spoken:730211bg.mel.mp3|Bg 3.36-37 — February 11, 1973, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730211bg.mel.mp3|Bg 3.36-37 — February 11, 1973, Melbourne}}
 </audio>
 
 **Prabhupāda:**

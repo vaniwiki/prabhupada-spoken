@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation on SB 1.5.11
 ----
 
 <audio>
-{{spoken:720119r1.jai.mp3|Room Conversation on SB 1.5.11 — January 19, 1972, Jaipur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720119r1.jai.mp3|Room Conversation on SB 1.5.11 — January 19, 1972, Jaipur}}
 </audio>
 
 **Prabhupāda:**

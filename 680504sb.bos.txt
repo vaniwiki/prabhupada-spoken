@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.3
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680504sb.bos.mp3|SB 5.5.3 — May 4, 1968, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680504sb.bos.mp3|SB 5.5.3 — May 4, 1968, Boston}}
 </audio>
 
 **Prabhupāda:**

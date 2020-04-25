@@ -17,7 +17,7 @@ Title_hidden     : Nitāi Guṇa Mani Āmāra
 ----
 
 <audio>
-{{spoken:720923mu.la.mp3|Nitāi Guṇa Mani Āmāra — September 23, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720923mu.la.mp3|Nitāi Guṇa Mani Āmāra — September 23, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

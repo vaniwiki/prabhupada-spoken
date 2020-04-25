@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.5
 ----
 
 <audio>
-{{spoken:751101bg.nai.mp3|Bg 7.5 — November 1, 1975, Nairobi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751101bg.nai.mp3|Bg 7.5 — November 1, 1975, Nairobi}}
 </audio>
 
 **Harikeśa:** Translation: "Besides this inferior nature, O mighty-armed Arjuna, there is a superior energy of Mine, which are all living entities who are struggling with material nature and are sustaining the universe."

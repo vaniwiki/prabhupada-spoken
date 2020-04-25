@@ -17,7 +17,7 @@ Title_hidden     : Discussions
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710118rc.all.mp3|Discussions — January 18, 1971, Allahabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710118rc.all.mp3|Discussions — January 18, 1971, Allahabad}}
 </audio>
 
 **Prabhupāda:**

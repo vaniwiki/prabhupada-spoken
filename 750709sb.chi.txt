@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.25
 ----
 
 <audio>
-{{spoken:750709sb.chi.mp3|SB 6.1.25 — July 9, 1975, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750709sb.chi.mp3|SB 6.1.25 — July 9, 1975, Chicago}}
 </audio>
 
 **Nitāi:** "The child's broken language and movements were very pleasing to Ajāmila, who was very attracted to the child. He always took care of the child and enjoyed his activities."

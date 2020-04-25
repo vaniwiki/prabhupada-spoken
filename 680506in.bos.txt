@@ -17,7 +17,7 @@ Title_hidden     : Brāhmaṇa Initiation Lecture with Professor O’Connell
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680506in.bos.mp3|Brāhmaṇa Initiation Lecture with Professor O’Connell — May 6, 1968, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680506in.bos.mp3|Brāhmaṇa Initiation Lecture with Professor O’Connell — May 6, 1968, Boston}}
 </audio>
 
 **Prabhupāda:**

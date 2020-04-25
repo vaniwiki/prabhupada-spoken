@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.3.25
 ----
 
 <audio>
-{{spoken:720623sb.la.mp3|SB 2.3.25 — June 23, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720623sb.la.mp3|SB 2.3.25 — June 23, 1972, Los Angeles}}
 </audio>
 
 **Pradyumna:** Translation: "O Sūta Gosvāmī, your words are pleasing to our minds. Please therefore explain this to us as it was spoken by the great devotee Śukadeva Gosvāmī, who is very expert in transcendental knowledge, and who spoke to Mahārāja Parīkṣit upon being asked." [[books:sb:2:3:25|[SB 2.3.25]]]

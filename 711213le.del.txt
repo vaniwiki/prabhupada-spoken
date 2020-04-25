@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/711213le.del.mp3|Lecture — December 13, 1971, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711213le.del.mp3|Lecture — December 13, 1971, Delhi}}
 </audio>
 
 [beginning of tape for many minutes is inaudible]

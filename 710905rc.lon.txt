@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Dr. Weir of the Mensa Society
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710905rc.lon.mp3|Room Conversation with Dr. Weir — September 5, 1971, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710905rc.lon.mp3|Room Conversation with Dr. Weir — September 5, 1971, London}}
 </audio>
 
 **Dr. Weir:**

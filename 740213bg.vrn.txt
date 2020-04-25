@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.5
 ----
 
 <audio>
-{{spoken:740213bg.vrn.mp3|Bg 4.5 — February 13, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740213bg.vrn.mp3|Bg 4.5 — February 13, 1974, Vṛndāvana}}
 </audio>
 
 [poor recording]

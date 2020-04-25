@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/701213rc.ind.mp3|Room Conversation — December 13, 1970, Indore}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701213rc.ind.mp3|Room Conversation — December 13, 1970, Indore}}
 </audio>
 
 **Prabhupāda:**

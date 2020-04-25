@@ -17,7 +17,7 @@ Title_hidden     : Questions and Answers with Devotees
 ----
 
 <audio>
-{{spoken:750214qa.mex.mp3|Questions and Answers — February 14, 1975, Mexico City}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750214qa.mex.mp3|Questions and Answers — February 14, 1975, Mexico City}}
 </audio>
 
 [translated into Spanish throughout]

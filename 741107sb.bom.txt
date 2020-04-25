@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.25.7
 ----
 
 <audio>
-{{spoken:741107sb.bom.mp3|SB 3.25.7 — November 7, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741107sb.bom.mp3|SB 3.25.7 — November 7, 1974, Bombay}}
 </audio>
 
 **Nitāi:**

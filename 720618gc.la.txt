@@ -17,7 +17,7 @@ Title_hidden     : Garden Conversation Kṛṣṇa, “Delivery of the Message o
 ----
 
 <audio>
-{{spoken:720618gc.la.mp3|Garden Conversation, Kṛṣṇa book, “Delivery of the Message of Kṛṣṇa to the Gopīs” — June 18, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720618gc.la.mp3|Garden Conversation, Kṛṣṇa book, “Delivery of the Message of Kṛṣṇa to the Gopīs” — June 18, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

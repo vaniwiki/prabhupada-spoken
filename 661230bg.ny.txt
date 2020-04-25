@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 10.1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/661230bg.ny.mp3|Bg 10.1 — December 30, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661230bg.ny.mp3|Bg 10.1 — December 30, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

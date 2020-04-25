@@ -17,7 +17,7 @@ Title_hidden     : Initiation Ceremony
 ----
 
 <audio>
-{{spoken:731225in.la.mp3|Initiation Ceremony — December 25, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731225in.la.mp3|Initiation Ceremony — December 25, 1973, Los Angeles}}
 </audio>
 
 **Karandhara:**

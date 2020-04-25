@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.12
 ----
 
 <audio>
-{{spoken:750212bg.mex.mp3|Bg 2.12 — February 12, 1975, Mexico City}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750212bg.mex.mp3|Bg 2.12 — February 12, 1975, Mexico City}}
 </audio>
 
 **Nitāi:**

@@ -17,7 +17,7 @@ Title_hidden     : Initiation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690325in.haw.mp3|Initiation — March 25, 1969, Hawaii}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690325in.haw.mp3|Initiation — March 25, 1969, Hawaii}}
 </audio>
 
 **Prabhupāda:**

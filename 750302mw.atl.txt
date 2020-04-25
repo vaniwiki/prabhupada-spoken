@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750302mw.atl.mp3|Morning Walk — March 2, 1975, Atlanta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750302mw.atl.mp3|Morning Walk — March 2, 1975, Atlanta}}
 </audio>
 
 **Prabhupāda:**

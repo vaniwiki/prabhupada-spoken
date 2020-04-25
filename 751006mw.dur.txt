@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:751006mw.dur.mp3|Morning Walk — October 6, 1975, Durban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751006mw.dur.mp3|Morning Walk — October 6, 1975, Durban}}
 </audio>
 
 [in car]

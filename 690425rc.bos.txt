@@ -16,7 +16,7 @@ Title_hidden     : Prabhupāda Listening to Recording of His Own Room Conversati
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690425rc.bos.mp3|Prabhupāda Listening to Recording of His Own — April 25, 1969, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690425rc.bos.mp3|Prabhupāda Listening to Recording of His Own — April 25, 1969, Boston}}
 </audio>
 
 

@@ -17,7 +17,7 @@ Title_hidden     : Walk Around Farm
 ----
 
 <audio>
-{{spoken:750801mf.no.mp3|Walk Around Farm — August 1, 1975, New Orleans}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750801mf.no.mp3|Walk Around Farm — August 1, 1975, New Orleans}}
 </audio>
 
 [//kīrtana// in background]

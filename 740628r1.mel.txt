@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Reverend Gordon Powell, Head of Scots�
 ----
 
 <audio>
-{{spoken:740628r1.mel.mp3|Room Conversation with Reverend Gordon Powell — June 28, 1974, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740628r1.mel.mp3|Room Conversation with Reverend Gordon Powell — June 28, 1974, Melbourne}}
 </audio>
 
 **Reverend Powell:**

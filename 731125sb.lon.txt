@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.10.4
 ----
 
 <audio>
-{{spoken:731125sb.lon.mp3|SB 1.10.4 — November 25, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731125sb.lon.mp3|SB 1.10.4 — November 25, 1973, London}}
 </audio>
 
 **Pradyumna:**

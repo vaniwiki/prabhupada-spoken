@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.5
 ----
 
 <audio>
-{{spoken:730813bg.par.mp3|Bg 13.5 — August 13, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730813bg.par.mp3|Bg 13.5 — August 13, 1973, Paris}}
 </audio>
 
 **Pradyumna:**

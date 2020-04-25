@@ -17,7 +17,7 @@ Title_hidden     : Arrival Talk
 ----
 
 <audio>
-{{spoken:740927ar.may.mp3|Arrival Talk — September 27, 1974, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740927ar.may.mp3|Arrival Talk — September 27, 1974, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

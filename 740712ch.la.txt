@@ -17,7 +17,7 @@ Title_hidden     : Chanting Cc. Ādi-līlā 12th Chapter, Verses 1–96
 ----
 
 <audio>
-{{spoken:740712ch.la.mp3|Chanting Cc. Ādi-līlā 12th Chapter Verses 1–96 — July 12, 1974, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740712ch.la.mp3|Chanting Cc. Ādi-līlā 12th Chapter Verses 1–96 — July 12, 1974, Los Angeles}}
 </audio>
 
 ===== The Expansions of Advaita Ācārya and Gadādhara Paṇḍita =====

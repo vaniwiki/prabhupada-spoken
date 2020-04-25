@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740217mw.bom.mp3|Morning Walk — February 17, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740217mw.bom.mp3|Morning Walk — February 17, 1974, Bombay}}
 </audio>
 
 **Yaśomatīnandana:**

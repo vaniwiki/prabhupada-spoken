@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Hindi]
 ----
 
 <audio>
-{{spoken:720121le.jai_hindi.mp3|Lecture [Hindi] — January 21, 1972, Jaipur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720121le.jai_hindi.mp3|Lecture [Hindi] — January 21, 1972, Jaipur}}
 </audio>
 
 **Devotee:**

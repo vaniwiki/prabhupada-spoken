@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740612mw.par.mp3|Morning Walk — June 12, 1974, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740612mw.par.mp3|Morning Walk — June 12, 1974, Paris}}
 </audio>
 
 **Bhagavān:**

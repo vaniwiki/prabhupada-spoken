@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 5.22–29
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660831bg.ny.mp3|Bg 5.22-29 — August 31, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660831bg.ny.mp3|Bg 5.22-29 — August 31, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

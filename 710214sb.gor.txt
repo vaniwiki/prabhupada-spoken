@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.3.20–23
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710214sb.gor.mp3|SB 6.3.20-23 — February 14, 1971, Gorakhpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710214sb.gor.mp3|SB 6.3.20-23 — February 14, 1971, Gorakhpur}}
 </audio>
 
 **Prabhupāda:**

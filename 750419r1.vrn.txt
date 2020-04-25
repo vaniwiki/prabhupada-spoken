@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:750419r1.vrn.mp3|Room Conversation — April 19, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750419r1.vrn.mp3|Room Conversation — April 19, 1975, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

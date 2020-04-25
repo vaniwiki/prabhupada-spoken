@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.5
 ----
 
 <audio>
-{{spoken:730910sb.sto.mp3|SB 5.5.5 — September 10, 1973, Stockholm}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730910sb.sto.mp3|SB 5.5.5 — September 10, 1973, Stockholm}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:720925mw.la.mp3|Morning Walk — September 25, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720925mw.la.mp3|Morning Walk — September 25, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 7.8
 ----
 
 <audio>
-{{spoken:740315cc.vrn.mp3|Cc. Ādi 7.8 — March 15, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740315cc.vrn.mp3|Cc. Ādi 7.8 — March 15, 1974, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

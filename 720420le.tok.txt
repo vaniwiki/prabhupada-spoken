@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:720420le.tok.mp3|Lecture — April 20, 1972, Tokyo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720420le.tok.mp3|Lecture — April 20, 1972, Tokyo}}
 </audio>
 
 [//kīrtana//]

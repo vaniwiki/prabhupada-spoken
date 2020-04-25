@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740312mw.vrn.mp3|Morning Walk — March 12, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740312mw.vrn.mp3|Morning Walk — March 12, 1974, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1 [with Translator]
 ----
 
 <audio>
-{{spoken:751225bg.san.mp3|Bg 7.1 [with Translator] — December 25, 1975, Sanand}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751225bg.san.mp3|Bg 7.1 [with Translator] — December 25, 1975, Sanand}}
 </audio>
 
 **Prabhupāda:**

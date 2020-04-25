@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:751029r1.nai.mp3|Room Conversation — October 29, 1975, Nairobi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751029r1.nai.mp3|Room Conversation — October 29, 1975, Nairobi}}
 </audio>
 
 **Brahmānanda:**

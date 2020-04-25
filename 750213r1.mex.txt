@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Woman Sanskrit Professor
 ----
 
 <audio>
-{{spoken:750213r1.mex.mp3|Room Conversation with Woman Sanskrit Professor — February 13, 1975, Mexico City}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750213r1.mex.mp3|Room Conversation with Woman Sanskrit Professor — February 13, 1975, Mexico City}}
 </audio>
 
 **Professor:**

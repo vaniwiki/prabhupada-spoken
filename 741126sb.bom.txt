@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.25.26
 ----
 
 <audio>
-{{spoken:741126sb.bom.mp3|SB 3.25.26 — November 26, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741126sb.bom.mp3|SB 3.25.26 — November 26, 1974, Bombay}}
 </audio>
 
 **Nitāi:** "Thus consciously engaged in devotional service in the association of devotees, a person gains distaste for sense gratification, both in this world and in the next, by constantly thinking about the activities of the Lord. This process of Kṛṣṇa consciousness is the easiest process of mystic power. When one is actually situated on that path of devotional service, he is able to control the mind."

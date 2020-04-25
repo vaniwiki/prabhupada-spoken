@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Dr. John Mize
 ----
 
 <audio>
-{{spoken:750623r1.la.mp3|Room Conversation with Dr. John Mize — June 23, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750623r1.la.mp3|Room Conversation with Dr. John Mize — June 23, 1975, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

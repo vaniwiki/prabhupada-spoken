@@ -17,7 +17,7 @@ Title_hidden     : Press Conference
 ----
 
 <audio>
-{{spoken:750709pc.chi.mp3|Press Conference — July 9, 1975, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750709pc.chi.mp3|Press Conference — July 9, 1975, Chicago}}
 </audio>
 
 **Prabhupāda:**

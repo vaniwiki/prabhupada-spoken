@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750915mw.vrn.mp3|Morning Walk — September 15, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750915mw.vrn.mp3|Morning Walk — September 15, 1975, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

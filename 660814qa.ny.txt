@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.34, Questions & Answers
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660814qa.ny.mp3|Bg 4.34, Q & A — August 14, 1968, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660814qa.ny.mp3|Bg 4.34, Q & A — August 14, 1968, New York}}
 </audio>
 
 **Prabhupāda:**

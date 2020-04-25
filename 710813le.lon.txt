@@ -17,7 +17,7 @@ Title_hidden     : Lecture [partially recorded]
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710813le.lon.mp3|Lecture [partially recorded] — August 13, 1971, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710813le.lon.mp3|Lecture [partially recorded] — August 13, 1971, London}}
 </audio>
 
 **Prabhupāda:**

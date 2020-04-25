@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
 ----
 
 <audio>
-{{spoken:730723sb.lon.mp3|SB 1.2.6 — July 23, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730723sb.lon.mp3|SB 1.2.6 — July 23, 1973, London}}
 </audio>
 
 **Pradyumna:**

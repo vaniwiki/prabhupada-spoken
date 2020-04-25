@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 18.41 To Uppsala Student Assembly
 ----
 
 <audio>
-{{spoken:730907bg.sto.mp3|Bg 18.41 — September 7, 1973, Stockholm}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730907bg.sto.mp3|Bg 18.41 — September 7, 1973, Stockholm}}
 </audio>
 
 **Prabhupāda:**

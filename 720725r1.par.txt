@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:720725r1.par.mp3|Room Conversation — July 25, 1972, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720725r1.par.mp3|Room Conversation — July 25, 1972, Paris}}
 </audio>
 
 [Poor audio]

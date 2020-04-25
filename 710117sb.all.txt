@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.2.12–14
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710117sb.all.mp3|SB 6.2.12-14 — January 17, 1971, Allahabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710117sb.all.mp3|SB 6.2.12-14 — January 17, 1971, Allahabad}}
 </audio>
 
 **Prabhupāda:**

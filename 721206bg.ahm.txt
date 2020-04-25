@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.1
 ----
 
 <audio>
-{{spoken:721206bg.ahm.mp3|Bg 2.1 — December 6, 1972, Ahmedabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721206bg.ahm.mp3|Bg 2.1 — December 6, 1972, Ahmedabad}}
 </audio>
 
 **Prabhupāda:**

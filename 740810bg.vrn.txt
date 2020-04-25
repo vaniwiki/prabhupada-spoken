@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.4
 ----
 
 <audio>
-{{spoken:740810bg.vrn.mp3|Bg 7.4 — August 10, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740810bg.vrn.mp3|Bg 7.4 — August 10, 1974, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

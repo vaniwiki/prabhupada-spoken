@@ -18,7 +18,7 @@ Title_hidden     : Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gīt�
 ----
 
 <audio>
-{{spoken:740923bg.cal.mp3|Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 4.10 — September 23, 1974, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740923bg.cal.mp3|Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 4.10 — September 23, 1974, Calcutta}}
 </audio>
 
 **Nitāi:**

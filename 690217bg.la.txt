@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 6.16–24
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690217bg.la.mp3|Bg 6.16-24 — February 17, 1969, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690217bg.la.mp3|Bg 6.16-24 — February 17, 1969, Los Angeles}}
 </audio>
 
 **Devotee:**

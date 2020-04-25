@@ -17,7 +17,7 @@ Title_hidden     : Śrīla Prabhupāda and Disciples Speak
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690409le.ny.mp3|Śrīla Prabhupāda and Disciples Speak — April 9, 1969, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690409le.ny.mp3|Śrīla Prabhupāda and Disciples Speak — April 9, 1969, New York}}
 </audio>
 
 **Prabhupāda:**

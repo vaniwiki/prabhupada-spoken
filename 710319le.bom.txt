@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 10.22.35
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710319le.bom.mp3|SB 10.22.35 — March 19, 1971, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710319le.bom.mp3|SB 10.22.35 — March 19, 1971, Bombay}}
 </audio>
 
 **Prabhupāda:**

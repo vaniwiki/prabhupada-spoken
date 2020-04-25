@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1–5
 ----
 
 <audio>
-{{spoken:740131bg.hk.mp3|Bg 7.1-5 — January 31, 1974, Hong Kong}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740131bg.hk.mp3|Bg 7.1-5 — January 31, 1974, Hong Kong}}
 </audio>
 
 **Prabhupāda:**

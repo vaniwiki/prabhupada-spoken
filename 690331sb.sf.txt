@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.6.9–17
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690331sb.sf.mp3|SB 7.6.9-17 — March 31, 1969, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690331sb.sf.mp3|SB 7.6.9-17 — March 31, 1969, San Francisco}}
 </audio>
 
 **Prabhupāda:**

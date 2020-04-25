@@ -17,7 +17,7 @@ Title_hidden     : Discussion with Guests
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/691223dc.bos.mp3|Discussion with Guests — December 23, 1969, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/691223dc.bos.mp3|Discussion with Guests — December 23, 1969, Boston}}
 </audio>
 
 **Prabhupāda:**

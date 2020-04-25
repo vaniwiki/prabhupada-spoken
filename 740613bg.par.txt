@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1–3
 ----
 
 <audio>
-{{spoken:740613bg.par.mp3|Bg 7.1-3 — June 13, 1974, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740613bg.par.mp3|Bg 7.1-3 — June 13, 1974, Paris}}
 </audio>
 
 [translated into French throughout]

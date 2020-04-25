@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.10.6
 ----
 
 <audio>
-{{spoken:730621sb.may.mp3|SB 1.10.6 — June 21, 1973, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730621sb.may.mp3|SB 1.10.6 — June 21, 1973, Māyāpur}}
 </audio>
 
 **Pradyumna:**

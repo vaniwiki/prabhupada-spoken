@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.25.23
 ----
 
 <audio>
-{{spoken:741123sb.bom.mp3|SB 3.25.23 — November 23, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741123sb.bom.mp3|SB 3.25.23 — November 23, 1974, Bombay}}
 </audio>
 
 **Nitāi:**

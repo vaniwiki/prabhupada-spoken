@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:720910le.dal.mp3|Lecture — September 10, 1972, Dallas}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720910le.dal.mp3|Lecture — September 10, 1972, Dallas}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.39
 ----
 
 <audio>
-{{spoken:750720sb.sf.mp3|SB 6.1.39 — July 20, 1975, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750720sb.sf.mp3|SB 6.1.39 — July 20, 1975, San Francisco}}
 </audio>
 
 **Nitāi:** "The questions asked of the Yamadūtas by the Viṣṇudūtas are: What is the process of meeting out punishment to others? Who is actually a candidate to be punished? Are all karmīs engaged in fruitive activities fit to be punished, or only some of them?"

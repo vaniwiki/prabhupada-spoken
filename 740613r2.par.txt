@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Russian Orthodox Church Representative
 ----
 
 <audio>
-{{spoken:740613r2.par.mp3|Room Conversation with Russian Orthodox Church Representative — June 13, 1974, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740613r2.par.mp3|Room Conversation with Russian Orthodox Church Representative — June 13, 1974, Paris}}
 </audio>
 
 [Yogeśvara translates into French throughout]

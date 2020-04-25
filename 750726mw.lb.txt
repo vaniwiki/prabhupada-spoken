@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750726mw.lb.mp3|Morning Walk — July 26, 1975, Laguna Beach}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750726mw.lb.mp3|Morning Walk — July 26, 1975, Laguna Beach}}
 </audio>
 
 **Brahmānanda:**

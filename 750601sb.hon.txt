@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.28.1 [Sunday Feast]
 ----
 
 <audio>
-{{spoken:750601sb.hon.mp3|SB 3.28.1, Sunday Feast — June 1, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750601sb.hon.mp3|SB 3.28.1, Sunday Feast — June 1, 1975, Honolulu}}
 </audio>
 
 **Śrutakīrti:**

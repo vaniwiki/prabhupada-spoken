@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 1.11
 ----
 
 <audio>
-{{spoken:750404cc.may.mp3|Cc. Ādi 1.11 — April 4, 1975, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750404cc.may.mp3|Cc. Ādi 1.11 — April 4, 1975, Māyāpur}}
 </audio>
 
 **Nitāi:**

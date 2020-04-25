@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:720701r1.sd.mp3|Room Conversation — July 1, 1972, San Diego}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720701r1.sd.mp3|Room Conversation — July 1, 1972, San Diego}}
 </audio>
 
 **Prabhupāda:**

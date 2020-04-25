@@ -17,7 +17,7 @@ Title_hidden     : Initiations
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710725in.ny.mp3|Initiations — July 25, 1971, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710725in.ny.mp3|Initiations — July 25, 1971, New York}}
 </audio>
 
 **Prabhupāda:**

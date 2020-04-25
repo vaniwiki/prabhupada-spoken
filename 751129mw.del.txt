@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:751129mw.del.mp3|Morning Walk — November 29, 1975, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751129mw.del.mp3|Morning Walk — November 29, 1975, Delhi}}
 </audio>
 
 **Prabhupāda:**

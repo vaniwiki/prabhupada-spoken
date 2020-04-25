@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710718rc.det.mp3|Room Conversation — July 18, 1971, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710718rc.det.mp3|Room Conversation — July 18, 1971, Detroit}}
 </audio>
 
 **Mohsin Hassan:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1 Engagement
 ----
 
 <audio>
-{{spoken:730216bg.syd.mp3|Bg 7.1, Engagement — February 16, 1973, Sydney}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730216bg.syd.mp3|Bg 7.1, Engagement — February 16, 1973, Sydney}}
 </audio>
 
 **Prabhupāda:**

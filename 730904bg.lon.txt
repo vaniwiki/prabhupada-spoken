@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.36–37
 ----
 
 <audio>
-{{spoken:730904bg.lon.mp3|Bg 2.36-37 — September 4, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730904bg.lon.mp3|Bg 2.36-37 — September 4, 1973, London}}
 </audio>
 
 **Pradyumna:**

@@ -18,7 +18,7 @@ Title_hidden     : Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭa
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681118le.la.mp3|Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka — November 18, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681118le.la.mp3|Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka — November 18, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

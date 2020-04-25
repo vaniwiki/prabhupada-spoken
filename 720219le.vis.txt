@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Śrī Caitanya Maṭha
 ----
 
 <audio>
-{{spoken:720219le.vis.mp3|Lecture at Śrī Caitanya Maṭha — February 19, 1972, Visakhapatnam}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720219le.vis.mp3|Lecture at Śrī Caitanya Maṭha — February 19, 1972, Visakhapatnam}}
 </audio>
 
 [audience talking loudly in background throughout]

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.1–3
 ----
 
 <audio>
-{{spoken:751013bg.dur.mp3|Bg 13.1-3 — October 13, 1975, Durban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751013bg.dur.mp3|Bg 13.1-3 — October 13, 1975, Durban}}
 </audio>
 
 **Prabhupāda:**

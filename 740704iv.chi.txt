@@ -17,7 +17,7 @@ Title_hidden     : Interview with Envious Reporter
 ----
 
 <audio>
-{{spoken:740704iv.chi.mp3|Interview with Envious Reporter — July 4, 1974, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740704iv.chi.mp3|Interview with Envious Reporter — July 4, 1974, Chicago}}
 </audio>
 
 **Prabhupāda:**

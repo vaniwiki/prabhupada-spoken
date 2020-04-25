@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Andhra College
 ----
 
 <audio>
-{{spoken:720221le.vis.mp3|Lecture at Andhra College — February 21, 1972, Visakhapatnam}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720221le.vis.mp3|Lecture at Andhra College — February 21, 1972, Visakhapatnam}}
 </audio>
 
 [bad audio for 00:18]

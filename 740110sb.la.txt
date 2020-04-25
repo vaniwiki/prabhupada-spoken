@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.16.13–15
 ----
 
 <audio>
-{{spoken:740110sb.la.mp3|SB 1.16.13-15 — January 10, 1974, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740110sb.la.mp3|SB 1.16.13-15 — January 10, 1974, Los Angeles}}
 </audio>
 
 **Pradyumna:**

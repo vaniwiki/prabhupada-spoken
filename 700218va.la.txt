@@ -17,7 +17,7 @@ Title_hidden     : Varāha-dvādaśī, Lord Varāha’s Appearance Day
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700218va.la.mp3|Varāha-dvādaśī — February 18, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700218va.la.mp3|Varāha-dvādaśī — February 18, 1970, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

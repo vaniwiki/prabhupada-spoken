@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:720422r1.tok.mp3|Room Conversation — April 22, 1972, Tokyo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720422r1.tok.mp3|Room Conversation — April 22, 1972, Tokyo}}
 </audio>
 
 **Prabhupāda:**

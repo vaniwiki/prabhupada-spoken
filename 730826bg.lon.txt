@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.21–22
 ----
 
 <audio>
-{{spoken:730826bg.lon.mp3|Bg 2.21-22 — August 26, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730826bg.lon.mp3|Bg 2.21-22 — August 26, 1973, London}}
 </audio>
 
 **Pradyumna:**

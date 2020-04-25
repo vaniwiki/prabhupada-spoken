@@ -17,7 +17,7 @@ Title_hidden     : Arrival
 ----
 
 <audio>
-{{spoken:750703ar.chi.mp3|Arrival — July 3, 1975, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750703ar.chi.mp3|Arrival — July 3, 1975, Chicago}}
 </audio>
 
 **Devotee (1):**

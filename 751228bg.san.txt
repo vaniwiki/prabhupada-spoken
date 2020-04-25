@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.2 [Hindi with English translation]
 ----
 
 <audio>
-{{spoken:751228bg.san_hindi.mp3|Bg 7.2 [Hindi] — December 28, 1975, Sanand}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751228bg.san_hindi.mp3|Bg 7.2 [Hindi] — December 28, 1975, Sanand}}
 </audio>
 
 [final proofreading pending]

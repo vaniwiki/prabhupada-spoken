@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Sir Alistair Hardy [Second Conversation]
 ----
 
 <audio>
-{{spoken:730727r1.lon.mp3|Conversation with Sir Alistair Hardy — July 27, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730727r1.lon.mp3|Conversation with Sir Alistair Hardy — July 27, 1973, London}}
 </audio>
 
 **Sir Alistair Hardy:**

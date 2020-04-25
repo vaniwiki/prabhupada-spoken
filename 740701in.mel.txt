@@ -17,7 +17,7 @@ Title_hidden     : Initiation Ceremony
 ----
 
 <audio>
-{{spoken:740701in.mel.mp3|Initiation Ceremony — July 1, 1974, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740701in.mel.mp3|Initiation Ceremony — July 1, 1974, Melbourne}}
 </audio>
 
 **Prabhupāda:**

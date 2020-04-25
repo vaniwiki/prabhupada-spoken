@@ -17,7 +17,7 @@ Title_hidden     : Conversation
 ----
 
 <audio>
-{{spoken:751015r1.joh.mp3|Conversation — October 15, 1975, Johannesburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751015r1.joh.mp3|Conversation — October 15, 1975, Johannesburg}}
 </audio>
 
 [in car]

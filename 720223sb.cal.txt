@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
 ----
 
 <audio>
-{{spoken:720223sb.cal.mp3|SB 1.2.6 — February 23, 1972, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720223sb.cal.mp3|SB 1.2.6 — February 23, 1972, Calcutta}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Yadurāṇī
 ----
 
 <audio>
-{{spoken:720704r2.ny.mp3|Room Conversation with Yadurāṇī — July 4, 1972, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720704r2.ny.mp3|Room Conversation with Yadurāṇī — July 4, 1972, New York}}
 </audio>
 
 **Yadurāṇī:**

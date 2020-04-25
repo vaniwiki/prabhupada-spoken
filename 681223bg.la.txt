@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 3.6–10
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681223bg.la.mp3|Bg 3.6-10 — December 23, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681223bg.la.mp3|Bg 3.6-10 — December 23, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

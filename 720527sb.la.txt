@@ -17,7 +17,7 @@ Title_hidden     : Nṛsiṁha-caturdaśī Śrīmad-Bhāgavatam 7.5.22–32
 ----
 
 <audio>
-{{spoken:720527sb.la.mp3|Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22-32 — May 27, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720527sb.la.mp3|Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22-32 — May 27, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

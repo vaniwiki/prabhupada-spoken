@@ -17,7 +17,7 @@ Title_hidden     : Press Conference at Airport
 ----
 
 <audio>
-{{spoken:750728pc.dal.mp3|Press Conference at Airport — July 28, 1975, Dallas}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750728pc.dal.mp3|Press Conference at Airport — July 28, 1975, Dallas}}
 </audio>
 
 **Prabhupāda:**

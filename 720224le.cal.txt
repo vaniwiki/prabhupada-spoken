@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:720224le.cal.mp3|Lecture — February 24, 1972, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720224le.cal.mp3|Lecture — February 24, 1972, Calcutta}}
 </audio>
 
 **Prabhupāda:**

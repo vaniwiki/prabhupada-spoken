@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Two Buddhist Monks
 ----
 
 <audio>
-{{spoken:730712r2.lon.mp3|Room Conversation with Two Buddhist Monks — July 12, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730712r2.lon.mp3|Room Conversation with Two Buddhist Monks — July 12, 1973, London}}
 </audio>
 
 **Buddhist Monk (1):**

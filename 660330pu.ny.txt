@@ -17,7 +17,7 @@ Title_hidden     : Purport to Bhajahū Re Mana
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660330pu.ny.mp3|Purport to Bhajahū Re Mana — March 30, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660330pu.ny.mp3|Purport to Bhajahū Re Mana — March 30, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

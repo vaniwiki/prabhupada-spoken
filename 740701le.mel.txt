@@ -17,7 +17,7 @@ Title_hidden     : La Trobe University Lecture
 ----
 
 <audio>
-{{spoken:740701le.mel.mp3|La Trobe University Lecture — July 1, 1974, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740701le.mel.mp3|La Trobe University Lecture — July 1, 1974, Melbourne}}
 </audio>
 
 **Madhudviṣa:**

@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Hindi] [partially recorded]
 ----
 
 <audio>
-{{spoken:720217le.vis_hindi.mp3|Lecture [Hindi] [Partially Recorded] — February 17, 1972, Visakhapatnam}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720217le.vis_hindi.mp3|Lecture [Hindi] [Partially Recorded] — February 17, 1972, Visakhapatnam}}
 </audio>
 
 **Prabhupāda:**

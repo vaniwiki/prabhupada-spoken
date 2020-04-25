@@ -17,7 +17,7 @@ Title_hidden     : Lord Caitanya Play Told to Tamāla Kṛṣṇa
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690804lc.la.mp3|Lord Caitanya Play Told to Tamāla Kṛṣṇa — August 4, 1969, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690804lc.la.mp3|Lord Caitanya Play Told to Tamāla Kṛṣṇa — August 4, 1969, Los Angeles}}
 </audio>
 
 **Tamāla Kṛṣṇa:**

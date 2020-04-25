@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.6
 ----
 
 <audio>
-{{spoken:730217sb.syd.mp3|SB 6.1.6 — February 17, 1973, Sydney}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730217sb.syd.mp3|SB 6.1.6 — February 17, 1973, Sydney}}
 </audio>
 
 **Prabhupāda:**

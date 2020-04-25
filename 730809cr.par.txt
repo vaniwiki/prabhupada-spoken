@@ -17,7 +17,7 @@ Title_hidden     : Car Conversation after meeting with Cardinal Danielou
 ----
 
 <audio>
-{{spoken:730809cr.par.mp3|Car Conversation after meeting with Cardinal Danielou — August 9, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730809cr.par.mp3|Car Conversation after meeting with Cardinal Danielou — August 9, 1973, Paris}}
 </audio>
 
 **Prabhupāda:**

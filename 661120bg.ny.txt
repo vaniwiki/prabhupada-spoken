@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 8.22–27
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/661120bg.ny.mp3|Bg 8.22-27 — November 20, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661120bg.ny.mp3|Bg 8.22-27 — November 20, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

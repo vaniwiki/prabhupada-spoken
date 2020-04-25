@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:720604r3.mex.mp3|Room Conversation — June 4, 1972, Mexico City}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720604r3.mex.mp3|Room Conversation — June 4, 1972, Mexico City}}
 </audio>
 
 **Prabhupāda:**

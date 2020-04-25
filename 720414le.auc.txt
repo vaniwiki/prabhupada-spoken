@@ -17,7 +17,7 @@ Title_hidden     : Town Hall Lecture
 ----
 
 <audio>
-{{spoken:720414le.auc.mp3|Town Hall Lecture — April 14, 1972, Auckland}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720414le.auc.mp3|Town Hall Lecture — April 14, 1972, Auckland}}
 </audio>
 
 **Prabhupāda:**

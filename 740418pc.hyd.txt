@@ -17,7 +17,7 @@ Title_hidden     : Press Conference
 ----
 
 <audio>
-{{spoken:740418pc.hyd.mp3|Press Conference — April 18, 1974, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740418pc.hyd.mp3|Press Conference — April 18, 1974, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

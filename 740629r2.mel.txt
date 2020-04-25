@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Bishop Kelly
 ----
 
 <audio>
-{{spoken:740629r2.mel.mp3|Room Conversation with Bishop Kelly — June 29, 1974, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740629r2.mel.mp3|Room Conversation with Bishop Kelly — June 29, 1974, Melbourne}}
 </audio>
 
 **Bishop Kelly:**

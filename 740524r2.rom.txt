@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Richard Webster, Chairman, Societa Fil
 ----
 
 <audio>
-{{spoken:740524r2.rom.mp3|Room Conversation with Richard Webster — May 24, 1974, Rome}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740524r2.rom.mp3|Room Conversation with Richard Webster — May 24, 1974, Rome}}
 </audio>
 
 **Dhanañjaya:**

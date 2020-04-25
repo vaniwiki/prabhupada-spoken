@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/701102le.bom.mp3|Lecture — November 2, 1970, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701102le.bom.mp3|Lecture — November 2, 1970, Bombay}}
 </audio>
 
 **Prabhupāda:**

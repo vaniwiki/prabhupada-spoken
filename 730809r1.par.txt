@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with German and Haṁsadūta
 ----
 
 <audio>
-{{spoken:730809r1.par.mp3|Room Conversation with German and Haṁsadūta — August 9, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730809r1.par.mp3|Room Conversation with German and Haṁsadūta — August 9, 1973, Paris}}
 </audio>
 
 **Haṁsadūta:**

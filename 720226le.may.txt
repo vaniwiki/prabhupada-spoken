@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Bengali]
 ----
 
 <audio>
-{{spoken:720226le.may_bengali.mp3|Lecture [Bengali] — February 26, 1972, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720226le.may_bengali.mp3|Lecture [Bengali] — February 26, 1972, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

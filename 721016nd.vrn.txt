@@ -17,7 +17,7 @@ Title_hidden     : The Nectar of Devotion "Bhakti means devotional service"
 ----
 
 <audio>
-{{spoken:721016nd.vrn.mp3|The Nectar of Devotion — October 16, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721016nd.vrn.mp3|The Nectar of Devotion — October 16, 1972, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

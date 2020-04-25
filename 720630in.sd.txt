@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1 & Initiations
 ----
 
 <audio>
-{{spoken:720630in.sd.mp3|Bg 7.1 and Initiations — June 30, 1972, San Diego}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720630in.sd.mp3|Bg 7.1 and Initiations — June 30, 1972, San Diego}}
 </audio>
 
 [Previous radio station recording bleed through]

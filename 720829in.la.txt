@@ -17,7 +17,7 @@ Title_hidden     : Initiations, SB 1.1.1–SB 1.3.44 Recitation
 ----
 
 <audio>
-{{spoken:720829in.la.mp3|Initiations, SB 1.1.1-SB 1.3.44 Recitation — August 29, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720829in.la.mp3|Initiations, SB 1.1.1-SB 1.3.44 Recitation — August 29, 1972, Los Angeles}}
 </audio>
 
 [//Govindam// prayers playing; Prabhupāda singing along]

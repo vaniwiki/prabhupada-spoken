@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.16.7
 ----
 
 <audio>
-{{spoken:740104sb.la.mp3|SB 1.16.7 — January 4, 1974, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740104sb.la.mp3|SB 1.16.7 — January 4, 1974, Los Angeles}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Presentation Excerpt
 ----
 
 <audio>
-{{spoken:730723ap.lon.mp3|Presentation Excerpt — July 23, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730723ap.lon.mp3|Presentation Excerpt — July 23, 1973, London}}
 </audio>
 
 **Guild member:**

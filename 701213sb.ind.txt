@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.22
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/701213sb.ind.mp3|SB 6.1.22 — December 13, 1970, Indore}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701213sb.ind.mp3|SB 6.1.22 — December 13, 1970, Indore}}
 </audio>
 
 **Prabhupāda:**

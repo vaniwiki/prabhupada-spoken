@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 15.1
 ----
 
 <audio>
-{{spoken:740226bg.cal.mp3|Bg 15.1 — February 26, 1974, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740226bg.cal.mp3|Bg 15.1 — February 26, 1974, Calcutta}}
 </audio>
 
 **Nitāi:** Translation: "The Blessed Lord said: There is a banyan tree which has its roots upward and its branches downward, whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas."

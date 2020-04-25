@@ -17,7 +17,7 @@ Title_hidden     : Initiation of Mṛga-netrī Dāsī
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700622in.la.mp3|Initiation of Mṛga-netrī Dāsī — June 22, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700622in.la.mp3|Initiation of Mṛga-netrī Dāsī — June 22, 1970, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

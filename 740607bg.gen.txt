@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 8.1
 ----
 
 <audio>
-{{spoken:740607bg.gen.mp3|Bg 8.1 — June 7, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740607bg.gen.mp3|Bg 8.1 — June 7, 1974, Geneva}}
 </audio>
 
 **Nitāi:**

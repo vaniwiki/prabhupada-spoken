@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750623mw.la.mp3|Morning Walk — June 23, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750623mw.la.mp3|Morning Walk — June 23, 1975, Los Angeles}}
 </audio>
 
 [in car]

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.41–42
 ----
 
 <audio>
-{{spoken:730729bg.lon.mp3|Bg 1.41-42 — July 29, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730729bg.lon.mp3|Bg 1.41-42 — July 29, 1973, London}}
 </audio>
 
 **Pradyumna:**

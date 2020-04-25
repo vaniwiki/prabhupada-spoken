@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 22.5
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1967/670107cc.ny.mp3|Cc. Madhya 22.5 — January 7, 1967, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670107cc.ny.mp3|Cc. Madhya 22.5 — January 7, 1967, New York}}
 </audio>
 
 **Prabhupāda:**

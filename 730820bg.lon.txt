@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.14
 ----
 
 <audio>
-{{spoken:730820bg.lon.mp3|Bg 2.14 — August 20, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730820bg.lon.mp3|Bg 2.14 — August 20, 1973, London}}
 </audio>
 
 **Pradyumna:** Translation: "O son of Kuntī, the nonpermanent appearance of happiness and distress, and their disappearance in due course, are like the appearance and disappearance of winter and summer seasons. They arise from sense perception, O scion of Bharata, and one must learn to tolerate them without being disturbed." [[books:bg:2:14|[Bg. 2.14]]]

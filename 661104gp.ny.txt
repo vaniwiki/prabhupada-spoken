@@ -17,7 +17,7 @@ Title_hidden     : Govardhana Pūjā Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/661104gp.ny.mp3|Govardhana Pūjā Lecture — November 4, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661104gp.ny.mp3|Govardhana Pūjā Lecture — November 4, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

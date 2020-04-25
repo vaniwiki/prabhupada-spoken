@@ -17,7 +17,7 @@ Title_hidden     : Mānasa Deha Geha and Purport
 ----
 
 <audio>
-{{spoken:720922mu.la.mp3|Mānasa Deha Geha and Purport — September 22, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720922mu.la.mp3|Mānasa Deha Geha and Purport — September 22, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

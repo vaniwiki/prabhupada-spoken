@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740424mw.hyd.mp3|Morning Walk — April 24, 1974, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740424mw.hyd.mp3|Morning Walk — April 24, 1974, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

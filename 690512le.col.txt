@@ -17,7 +17,7 @@ Title_hidden     : Lecture with Allen Ginsberg at Ohio State University
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690512le.col.mp3|Lecture with Allen Ginsberg at Ohio State University — May 12, 1969, Columbus}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690512le.col.mp3|Lecture with Allen Ginsberg at Ohio State University — May 12, 1969, Columbus}}
 </audio>
 
 **Allen Ginsberg:**

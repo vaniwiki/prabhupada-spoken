@@ -17,7 +17,7 @@ Title_hidden     : Initiation Lecture [partially recorded]
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710705in.la.mp3|Initiation Lecture [partially recorded] — July 5, 1971, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710705in.la.mp3|Initiation Lecture [partially recorded] — July 5, 1971, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

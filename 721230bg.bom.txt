@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.3
 ----
 
 <audio>
-{{spoken:721230bg.bom.mp3|Bg 13.3 — December 30, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721230bg.bom.mp3|Bg 13.3 — December 30, 1972, Bombay}}
 </audio>
 
 **Prabhupāda:**

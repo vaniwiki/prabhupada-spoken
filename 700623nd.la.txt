@@ -17,7 +17,7 @@ Title_hidden     : The Nectar of Devotion
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700623nd.la.mp3|The Nectar of Devotion — June 23, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700623nd.la.mp3|The Nectar of Devotion — June 23, 1970, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

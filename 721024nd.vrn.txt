@@ -17,7 +17,7 @@ Title_hidden     : The Nectar of Devotion
 ----
 
 <audio>
-{{spoken:721024nd.vrn.mp3|The Nectar of Devotion — October 24, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721024nd.vrn.mp3|The Nectar of Devotion — October 24, 1972, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

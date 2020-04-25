@@ -17,7 +17,7 @@ Title_hidden     : Arrival Lecture
 ----
 
 <audio>
-{{spoken:720506ar.hon.mp3|Arrival Lecture — May 6, 1972, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720506ar.hon.mp3|Arrival Lecture — May 6, 1972, Honolulu}}
 </audio>
 @note: 720506AR-HONOLULU = 760506LE-HONOLULU [?]
 

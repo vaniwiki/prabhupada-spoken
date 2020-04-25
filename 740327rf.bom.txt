@@ -17,7 +17,7 @@ Title_hidden     : Roof Conversation
 ----
 
 <audio>
-{{spoken:740327rf.bom.mp3|Roof Conversation — March 27, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740327rf.bom.mp3|Roof Conversation — March 27, 1974, Bombay}}
 </audio>
 
 **Prabhupāda:**

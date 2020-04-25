@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 9.2–5
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/661123bg.ny.mp3|Bg 9.2-5 — November 23, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661123bg.ny.mp3|Bg 9.2-5 — November 23, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Hindi with English translation]
 ----
 
 <audio>
-{{spoken:751224le.san_hindi.mp3|Lecture [Hindi] — December 24, 1975, Sanand}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751224le.san_hindi.mp3|Lecture [Hindi] — December 24, 1975, Sanand}}
 </audio>
 
 [final proofreading pending]

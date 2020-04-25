@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710729bg.gai.mp3|Bg 7.1 — July 29, 1971, Gainesville}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710729bg.gai.mp3|Bg 7.1 — July 29, 1971, Gainesville}}
 </audio>
 
 **Prabhupāda:**

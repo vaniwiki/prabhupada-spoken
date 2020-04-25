@@ -17,7 +17,7 @@ Title_hidden     : Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, 
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700704le.sf.mp3|Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture — July 4, 1970, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700704le.sf.mp3|Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture — July 4, 1970, San Francisco}}
 </audio>
 
 **Devotees:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 18.45
 ----
 
 <audio>
-{{spoken:751011bg.dur.mp3|Bg 18.45 — October 11, 1975, Durban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751011bg.dur.mp3|Bg 18.45 — October 11, 1975, Durban}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:730426mw.la.mp3|Morning Walk — April 26, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730426mw.la.mp3|Morning Walk — April 26, 1973, Los Angeles}}
 </audio>
 
 **Devotee:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Justin Murphy [Geographer]
 ----
 
 <audio>
-{{spoken:750513r1.per.mp3|Room Conversation with Justin Murphy [Geographer] — May 13, 1975, Perth}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750513r1.per.mp3|Room Conversation with Justin Murphy [Geographer] — May 13, 1975, Perth}}
 </audio>
 
 **Amogha:**

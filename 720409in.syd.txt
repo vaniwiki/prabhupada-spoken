@@ -17,7 +17,7 @@ Title_hidden     : Initiations and Wedding Glebe Temple, in Backyard, A Former T
 ----
 
 <audio>
-{{spoken:720409in.syd.mp3|Initiations and Wedding — April 9, 1972, Sydney}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720409in.syd.mp3|Initiations and Wedding — April 9, 1972, Sydney}}
 </audio>
 
 **Prabhupāda:**

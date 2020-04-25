@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam Lecture
 ----
 
 <audio>
-{{spoken:750519sb.mel.mp3|SB Lecture — May 19, 1975, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750519sb.mel.mp3|SB Lecture — May 19, 1975, Melbourne}}
 </audio>
 
 **Prabhupāda:**

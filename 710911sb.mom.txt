@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.7.28, 32–35
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710911sb.mom.mp3|SB 7.7.28, 32-35 — September 11, 1971, Mombassa}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710911sb.mom.mp3|SB 7.7.28, 32-35 — September 11, 1971, Mombassa}}
 </audio>
 
 **Prabhupāda:**

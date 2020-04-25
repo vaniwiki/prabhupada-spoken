@@ -17,7 +17,7 @@ Title_hidden     : Śuddha-bhakata-caraṇa-reṇu and Purport
 ----
 
 <audio>
-{{spoken:720927mu.la.mp3|Śuddha-bhakata-caraṇa-reṇu and Purport — September 27, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720927mu.la.mp3|Śuddha-bhakata-caraṇa-reṇu and Purport — September 27, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

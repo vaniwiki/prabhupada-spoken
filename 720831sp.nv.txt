@@ -17,7 +17,7 @@ Title_hidden     : Speech [Bhāgavata-dharma Discourse]
 ----
 
 <audio>
-{{spoken:720831sp.nv.mp3|Speech [Bhāgavata-dharma Discourse] — August 31, 1972, New Vrindavan}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720831sp.nv.mp3|Speech [Bhāgavata-dharma Discourse] — August 31, 1972, New Vrindavan}}
 </audio>
 
 [//kirtana//]

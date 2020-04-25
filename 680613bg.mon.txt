@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.7
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680613bg.mon.mp3|Bg 4.7 — June 13, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680613bg.mon.mp3|Bg 4.7 — June 13, 1968, Montreal}}
 </audio>
 
 [Kīrtana followed by //Prema-dhvani// prayers]

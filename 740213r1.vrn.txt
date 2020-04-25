@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:740213r1.vrn.mp3|Room Conversation — February 13, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740213r1.vrn.mp3|Room Conversation — February 13, 1974, Vṛndāvana}}
 </audio>
 
 [no audio]

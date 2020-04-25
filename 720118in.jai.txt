@@ -20,7 +20,7 @@ Title_hidden     : Sannyāsa Initiation of Tamal Kṛṣṇa
 ----
 
 <audio>
-{{spoken:720118in.jai.mp3|Sannyāsa Initiation of Tamal Kṛṣṇa — January 18, 1972, Jaipur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720118in.jai.mp3|Sannyāsa Initiation of Tamal Kṛṣṇa — January 18, 1972, Jaipur}}
 </audio>
 
 **Devotee:**

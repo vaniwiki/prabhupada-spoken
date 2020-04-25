@@ -17,7 +17,7 @@ Title_hidden     : Conversation [Hindi]
 ----
 
 <audio>
-{{spoken:730301r1.jkt_hindi.mp3|Conversation [Hindi] — March 1, 1973, Jakarta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730301r1.jkt_hindi.mp3|Conversation [Hindi] — March 1, 1973, Jakarta}}
 </audio>
 
 **Prabhupāda:**

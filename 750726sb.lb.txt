@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.45
 ----
 
 <audio>
-{{spoken:750726sb.lb.mp3|SB 6.1.45 — July 26, 1975, Laguna Beach}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750726sb.lb.mp3|SB 6.1.45 — July 26, 1975, Laguna Beach}}
 </audio>
 
 **Nitāi:** Translation: "In this life, any person, to the proportionate degree of the varieties of work, either religious or irreligious, as they are performed in the next life also, the same person to the same degree, the same variety, the resultant action of his karma must enjoy or suffer."

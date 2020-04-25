@@ -17,7 +17,7 @@ Title_hidden     : Rotary Club Lecture "Sanātana-dharma" Bhagavad-gītā 2.24
 ----
 
 <audio>
-{{spoken:721205le.ahm.mp3|Rotary Club Lecture, Bhagavad-gītā 2.24 — December 5, 1972, Ahmedabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721205le.ahm.mp3|Rotary Club Lecture, Bhagavad-gītā 2.24 — December 5, 1972, Ahmedabad}}
 </audio>
 
 **Prabhupāda:**

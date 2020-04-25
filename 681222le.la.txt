@@ -17,7 +17,7 @@ Title_hidden     : Press Release
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681222le.la.mp3|Press Release — December 22, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681222le.la.mp3|Press Release — December 22, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

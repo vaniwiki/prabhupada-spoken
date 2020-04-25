@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:751214r1.del.mp3|Room Conversation — December 14, 1975, New Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751214r1.del.mp3|Room Conversation — December 14, 1975, New Delhi}}
 </audio>
 
 **Bhāgavata:**

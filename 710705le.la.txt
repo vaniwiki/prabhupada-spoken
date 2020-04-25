@@ -17,7 +17,7 @@ Title_hidden     : Lecture [partially recorded]
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710705le.la.mp3|Lecture [partially recorded] — July 5, 1971, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710705le.la.mp3|Lecture [partially recorded] — July 5, 1971, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

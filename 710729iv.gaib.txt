@@ -17,7 +17,7 @@ Title_hidden     : Interview
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710729iv.gai.mp3|Interview — July 29, 1971, Gainesville}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710729iv.gai.mp3|Interview — July 29, 1971, Gainesville}}
 </audio>
 
 **Interviewer:**

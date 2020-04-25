@@ -17,7 +17,7 @@ Title_hidden     : Speech to Indian Audience
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680728sp.mon.mp3|Speech to Indian Audience — July 28, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680728sp.mon.mp3|Speech to Indian Audience — July 28, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

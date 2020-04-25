@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.13 [Hindi]
 ----
 
 <audio>
-{{spoken:730101bg.bom_hindi.mp3|Bg 7.13 [Hindi] — January 1, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730101bg.bom_hindi.mp3|Bg 7.13 [Hindi] — January 1, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

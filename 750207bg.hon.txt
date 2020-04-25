@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 16.11–12
 ----
 
 <audio>
-{{spoken:750207bg.hon.mp3|Bg 16.11-12 — February 7, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750207bg.hon.mp3|Bg 16.11-12 — February 7, 1975, Honolulu}}
 </audio>
 
 **Nitāi:**

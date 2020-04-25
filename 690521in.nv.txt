@@ -17,7 +17,7 @@ Title_hidden     : Initiation of Lokanātha dāsa
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690521in.nv.mp3|Initiation of Lokanātha dāsa — May 21, 1969, New Vrindaban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690521in.nv.mp3|Initiation of Lokanātha dāsa — May 21, 1969, New Vrindaban}}
 </audio>
 
 

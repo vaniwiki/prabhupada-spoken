@@ -17,7 +17,7 @@ Title_hidden     : Conversation with the GBC
 ----
 
 <audio>
-{{spoken:720525r1.la.mp3|Conversation with the GBC — May 25, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720525r1.la.mp3|Conversation with the GBC — May 25, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

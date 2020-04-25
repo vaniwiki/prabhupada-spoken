@@ -17,7 +17,7 @@ Title_hidden     : Third Talk with Bob Cohen [Brahmatīrtha dāsa]
 ----
 
 <audio>
-{{spoken:720229ta.may.mp3|Talk with Bob Cohen — February 29, 1972, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720229ta.may.mp3|Talk with Bob Cohen — February 29, 1972, Māyāpur}}
 </audio>
 
 **Bob:**

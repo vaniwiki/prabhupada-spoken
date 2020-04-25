@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.26.5
 ----
 
 <audio>
-{{spoken:741217sb.bom.mp3|SB 3.26.5 — December 17, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741217sb.bom.mp3|SB 3.26.5 — December 17, 1974, Bombay}}
 </audio>
 
 **Prabhupāda:**

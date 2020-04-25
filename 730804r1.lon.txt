@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation With Mr. John Papworth and Mr. E. F. Schuma
 ----
 
 <audio>
-{{spoken:730804r1.lon.mp3|Room Conversation with John Papworth and Schumacher — August 4, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730804r1.lon.mp3|Room Conversation with John Papworth and Schumacher — August 4, 1973, London}}
 </audio>
 
 **Revatīnandana:**

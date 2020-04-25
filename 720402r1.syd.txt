@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:720402r1.syd.mp3|Room Conversation — April 2, 1972, Sydney}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720402r1.syd.mp3|Room Conversation — April 2, 1972, Sydney}}
 </audio>
 
 **Prabhupāda:**

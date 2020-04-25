@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:751014r1.joh.mp3|Room Conversation — October 14, 1975, Johannesburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751014r1.joh.mp3|Room Conversation — October 14, 1975, Johannesburg}}
 </audio>
 
 **Prabhupāda:**

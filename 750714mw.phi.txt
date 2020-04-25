@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750714mw.phi.mp3|Morning Walk — July 14, 1975, Philadelphia}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750714mw.phi.mp3|Morning Walk — July 14, 1975, Philadelphia}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk on Waikiki Beach
 ----
 
 <audio>
-{{spoken:750527mw.hon.mp3|Morning Walk on Waikiki Beach — May 27, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750527mw.hon.mp3|Morning Walk on Waikiki Beach — May 27, 1975, Honolulu}}
 </audio>
 
 **Śrutakīrti:**

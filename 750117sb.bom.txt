@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.26.42
 ----
 
 <audio>
-{{spoken:750117sb.bom.mp3|SB 3.26.42 — January 17, 1975, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750117sb.bom.mp3|SB 3.26.42 — January 17, 1975, Bombay}}
 </audio>
 
 **Nitāi:** "Although originally one, taste becomes manifold as astringent, sweet, bitter, pungent, sour and salty due to contact with other substances."

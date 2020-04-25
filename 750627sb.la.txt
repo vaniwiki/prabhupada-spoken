@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.15
 ----
 
 <audio>
-{{spoken:750627sb.la.mp3|SB 6.1.15 — June 27, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750627sb.la.mp3|SB 6.1.15 — June 27, 1975, Los Angeles}}
 </audio>
 
 **Santoṣa:**

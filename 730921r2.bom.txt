@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with American Banker
 ----
 
 <audio>
-{{spoken:730921r2.bom.mp3|Room Conversation with American Banker — September 21, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730921r2.bom.mp3|Room Conversation with American Banker — September 21, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

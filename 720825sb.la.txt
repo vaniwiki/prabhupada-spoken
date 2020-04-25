@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.22
 ----
 
 <audio>
-{{spoken:720825sb.la.mp3|SB 1.2.22 — August 25, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720825sb.la.mp3|SB 1.2.22 — August 25, 1972, Los Angeles}}
 </audio>
 
 [//Govindam// prayers playing] [Prabhupāda sings along]

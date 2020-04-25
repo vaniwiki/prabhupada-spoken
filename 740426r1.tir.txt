@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:740426r1.tir.mp3|Room Conversation — April 26, 1974, Tirupati}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740426r1.tir.mp3|Room Conversation — April 26, 1974, Tirupati}}
 </audio>
 
 **Satsvarūpa:**

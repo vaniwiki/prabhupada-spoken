@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:720909r1.pit.mp3|Room Conversation — September 9, 1972, Pittsburgh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720909r1.pit.mp3|Room Conversation — September 9, 1972, Pittsburgh}}
 </audio>
 
 **Yaśomatīnandana:**

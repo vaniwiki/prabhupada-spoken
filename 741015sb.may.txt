@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.35
 ----
 
 <audio>
-{{spoken:741015sb.may.mp3|SB 1.8.35 — October 15, 1974, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741015sb.may.mp3|SB 1.8.35 — October 15, 1974, Māyāpur}}
 </audio>
 
 **Nitāi:**

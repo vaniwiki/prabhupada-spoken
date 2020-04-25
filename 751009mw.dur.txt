@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:751009mw.dur.mp3|Morning Walk — October 9, 1975, Durban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751009mw.dur.mp3|Morning Walk — October 9, 1975, Durban}}
 </audio>
 
 **Indian man:**

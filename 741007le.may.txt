@@ -17,6 +17,6 @@ Title_hidden     : Lecture [Bengali]
 ----
 
 <audio>
-{{spoken:741007le.may_bengali.mp3|Lecture [Bengali] — October 7, 1974, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741007le.may_bengali.mp3|Lecture [Bengali] — October 7, 1974, Māyāpur}}
 </audio>
 

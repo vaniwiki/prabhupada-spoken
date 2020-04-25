@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Professor Lewcock from Cambridge Unive
 ----
 
 <audio>
-{{spoken:730805r2.lon.mp3|Room Conversation with Professor Lewcock and other guest — August 5, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730805r2.lon.mp3|Room Conversation with Professor Lewcock and other guest — August 5, 1973, London}}
 </audio>
 
 **Revatīnandana:**

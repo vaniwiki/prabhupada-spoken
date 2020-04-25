@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.1.1 [with Spanish translator]
 ----
 
 <audio>
-{{spoken:750220sb.car.mp3|SB 1.1.1 — February 20, 1975, Caracas}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750220sb.car.mp3|SB 1.1.1 — February 20, 1975, Caracas}}
 </audio>
 
 [translated throughout by Hṛdayānanda]

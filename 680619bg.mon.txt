@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.9
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680619bg.mon.mp3|Bg 4.9 — June 19, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680619bg.mon.mp3|Bg 4.9 — June 19, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

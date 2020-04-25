@@ -17,7 +17,7 @@ Title_hidden     : Lecture Manipuri Dancing Group, The Zaveri Sisters
 ----
 
 <audio>
-{{spoken:721220le.bom.mp3|Lecture, Manipurin Dancing Group, the Zaveri Sisters — December 20, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721220le.bom.mp3|Lecture, Manipurin Dancing Group, the Zaveri Sisters — December 20, 1972, Bombay}}
 </audio>
 
 **Prabhupāda:**

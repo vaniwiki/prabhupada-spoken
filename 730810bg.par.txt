@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.1–2
 ----
 
 <audio>
-{{spoken:730810bg.par.mp3|Bg 13.1-2 — August 10, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730810bg.par.mp3|Bg 13.1-2 — August 10, 1973, Paris}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrī Īśopaniṣad, Mantra 1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681030ip.la.mp3|Śrī Īśopaniṣad, Mantra 1 — October 30, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681030ip.la.mp3|Śrī Īśopaniṣad, Mantra 1 — October 30, 1968, Los Angeles}}
 </audio>
 
 [incomplete lecture]

@@ -17,7 +17,7 @@ Title_hidden     : Lecture [partially recorded]
 ----
 
 <audio>
-{{spoken:720402le.syd.mp3|Lecture [partially recorded] — April 2, 1972, Sydney}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720402le.syd.mp3|Lecture [partially recorded] — April 2, 1972, Sydney}}
 </audio>
 
 **Prabhupāda:**

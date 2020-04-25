@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 3.27 at Town Hall
 ----
 
 <audio>
-{{spoken:740627bg.mel.mp3|Bg 3.27 at Town Hall — June 27, 1974, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740627bg.mel.mp3|Bg 3.27 at Town Hall — June 27, 1974, Melbourne}}
 </audio>
 
 **Prabhupāda:**

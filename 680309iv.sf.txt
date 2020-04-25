@@ -17,7 +17,7 @@ Title_hidden     : Interview
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680309iv.sf.mp3|Interview — March 9, 1968, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680309iv.sf.mp3|Interview — March 9, 1968, San Francisco}}
 </audio>
 
 **Interviewer:**

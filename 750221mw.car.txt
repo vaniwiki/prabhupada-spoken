@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750221mw.car.mp3|Morning Walk — February 21, 1975, Caracas}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750221mw.car.mp3|Morning Walk — February 21, 1975, Caracas}}
 </audio>
 
 [translated throughout by Hṛdayānanda]

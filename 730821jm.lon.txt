@@ -17,7 +17,7 @@ Title_hidden     : Janmāṣṭamī Lecture
 ----
 
 <audio>
-{{spoken:730821jm.lon.mp3|Janmāṣṭamī Lecture — August 21, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730821jm.lon.mp3|Janmāṣṭamī Lecture — August 21, 1973, London}}
 </audio>
 
 **Prabhupāda:**

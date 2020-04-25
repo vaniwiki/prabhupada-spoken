@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:720701mw.sd.mp3|Morning Walk — July 1, 1972, San Diego}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720701mw.sd.mp3|Morning Walk — July 1, 1972, San Diego}}
 </audio>
 
 [in car]

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Scientists
 ----
 
 <audio>
-{{spoken:750302r2.atl.mp3|Room Conversation with Scientists — March 2, 1975, Atlanta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750302r2.atl.mp3|Room Conversation with Scientists — March 2, 1975, Atlanta}}
 </audio>
 
 **Prabhupāda:**

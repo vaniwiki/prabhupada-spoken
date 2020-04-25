@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.16.2
 ----
 
 <audio>
-{{spoken:731230sb.la.mp3|SB 1.16.2 — December 30, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731230sb.la.mp3|SB 1.16.2 — December 30, 1973, Los Angeles}}
 </audio>
 
 **Pradyumna:**

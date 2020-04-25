@@ -17,7 +17,7 @@ Title_hidden     : Anādi karama-phale and Purport
 ----
 
 <audio>
-{{spoken:720926mu.la.mp3|Anādi karama-phale and Purport — September 26, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720926mu.la.mp3|Anādi karama-phale and Purport — September 26, 1972, Los Angeles}}
 </audio>
 
 [sound muffled]

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Alcohol and Drug Hospital People
 ----
 
 <audio>
-{{spoken:750516r2.per.mp3|Room Conversation with Alcohol and Drug Hospital People — May 16, 1975, Perth}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750516r2.per.mp3|Room Conversation with Alcohol and Drug Hospital People — May 16, 1975, Perth}}
 </audio>
 
 **Amogha:**

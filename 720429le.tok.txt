@@ -17,7 +17,7 @@ Title_hidden     : Lecture [with interpreter]
 ----
 
 <audio>
-{{spoken:720429le.tok.mp3|Lecture — April 29, 1972, Tokyo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720429le.tok.mp3|Lecture — April 29, 1972, Tokyo}}
 </audio>
 
 [translated into Japanese throughout]

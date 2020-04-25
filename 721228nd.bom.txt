@@ -17,7 +17,7 @@ Title_hidden     : The Nectar of Devotion
 ----
 
 <audio>
-{{spoken:721228nd.bom.mp3|The Nectar of Devotion — December 28, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721228nd.bom.mp3|The Nectar of Devotion — December 28, 1972, Bombay}}
 </audio>
 
 **Pradyumna:**

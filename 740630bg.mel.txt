@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 9.1–2
 ----
 
 <audio>
-{{spoken:740630bg.mel.mp3|Bg 9.1-2 — June 30, 1974, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740630bg.mel.mp3|Bg 9.1-2 — June 30, 1974, Melbourne}}
 </audio>
 
 **Prabhupāda:**

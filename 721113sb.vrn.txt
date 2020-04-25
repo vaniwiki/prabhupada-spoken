@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.34
 ----
 
 <audio>
-{{spoken:721113sb.vrn.mp3|SB 1.2.34 — November 13, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721113sb.vrn.mp3|SB 1.2.34 — November 13, 1972, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

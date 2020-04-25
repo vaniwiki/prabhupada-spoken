@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.8
 ----
 
 <audio>
-{{spoken:720906sb.nv.mp3|SB 1.2.8 — September 6, 1972, New Vrindavan}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720906sb.nv.mp3|SB 1.2.8 — September 6, 1972, New Vrindavan}}
 </audio>
 
 **Pradyumna:**

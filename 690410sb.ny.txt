@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.1.1
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690410sb.ny.mp3|SB 2.1.1 — April 10, 1969, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690410sb.ny.mp3|SB 2.1.1 — April 10, 1969, New York}}
 </audio>
 
 **Prabhupāda:**

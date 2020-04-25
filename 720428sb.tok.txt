@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.9.10
 ----
 
 <audio>
-{{spoken:720428sb.tok.mp3|SB 2.9.10 — April 28, 1972, Tokyo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720428sb.tok.mp3|SB 2.9.10 — April 28, 1972, Tokyo}}
 </audio>
 
 **Pradyumna:**

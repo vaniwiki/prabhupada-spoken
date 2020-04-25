@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.4
 ----
 
 <audio>
-{{spoken:721219bg.bom.mp3|Bg 7.4 — December 19, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721219bg.bom.mp3|Bg 7.4 — December 19, 1972, Bombay}}
 </audio>
 
 **Prabhupāda:**

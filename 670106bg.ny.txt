@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 10.8
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1967/670106bg.ny.mp3|Bg 10.8 — January 6, 1967, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670106bg.ny.mp3|Bg 10.8 — January 6, 1967, New York}}
 </audio>
 
 **Prabhupāda:**

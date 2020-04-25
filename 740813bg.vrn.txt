@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.7
 ----
 
 <audio>
-{{spoken:740813bg.vrn.mp3|Bg 7.7 — August 13, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740813bg.vrn.mp3|Bg 7.7 — August 13, 1974, Vṛndāvana}}
 </audio>
 
 **Pradyumna:** "[O conqueror of wealth [Arjuna], there is no truth] ...superior to Me. Everything rests upon Me, as pearls are strung on a thread."

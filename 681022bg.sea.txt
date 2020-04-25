@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 3.8–11
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681022bg.sea.mp3|Bg 3.8-11 — October 22, 1968, Seattle}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681022bg.sea.mp3|Bg 3.8-11 — October 22, 1968, Seattle}}
 </audio>
 
 **Prabhupāda:**

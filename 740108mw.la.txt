@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk [partially recorded]
 ----
 
 <audio>
-{{spoken:740108mw.la.mp3|Morning Walk, partially recorded — January 8, 1974, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740108mw.la.mp3|Morning Walk, partially recorded — January 8, 1974, Los Angeles}}
 </audio>
 
 [in car]

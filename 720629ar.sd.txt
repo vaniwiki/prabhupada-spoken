@@ -17,7 +17,7 @@ Title_hidden     : Arrival Interview
 ----
 
 <audio>
-{{spoken:720629ar.sd.mp3|Arrival Interview — June 29, 1972, San Diego}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720629ar.sd.mp3|Arrival Interview — June 29, 1972, San Diego}}
 </audio>
 
 **Interviewer:**

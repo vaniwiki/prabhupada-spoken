@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.6, Sunday Feast
 ----
 
 <audio>
-{{spoken:750629sf.den.mp3|SB 1.2.6, Sunday Feast — June 29, 1975, Denver}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750629sf.den.mp3|SB 1.2.6, Sunday Feast — June 29, 1975, Denver}}
 </audio>
 
 **Nitāi:**

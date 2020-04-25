@@ -17,7 +17,7 @@ Title_hidden     : Māyāpur Temple Inauguration with Śrīdhara Mahārāja, plu
 ----
 
 <audio>
-{{spoken:730317to.may.mp3|Māyāpur Temple Inauguration — March 17, 1973, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730317to.may.mp3|Māyāpur Temple Inauguration — March 17, 1973, Māyāpur}}
 </audio>
 
 [Srila Prabhupada first asked Śrīdhara Mahārāja to give a talk during the inauguration of the ISKCON Candrodaya Mandira in Māyāpur 1973, on Gaura-pūrṇimā].

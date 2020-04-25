@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 6.13–15
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690216bg.la.mp3|Bg 6.13-15 — February 16, 1969, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690216bg.la.mp3|Bg 6.13-15 — February 16, 1969, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

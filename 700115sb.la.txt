@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.19
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700115sb.la.mp3|SB 6.1.19 — January 15, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700115sb.la.mp3|SB 6.1.19 — January 15, 1970, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

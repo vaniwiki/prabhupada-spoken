@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.33
 ----
 
 <audio>
-{{spoken:750718sb.sf.mp3|SB 6.1.33 — July 18, 1975, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750718sb.sf.mp3|SB 6.1.33 — July 18, 1975, San Francisco}}
 </audio>
 
 **Nitāi:** "Dear sirs, whose servant are you, where have you come from, and for what reason are you forbidding us to touch the body of Ajāmila? Are you coming from the heavenly planets, are you demigods, sub-demigods, or the best of the perfected devotees?"

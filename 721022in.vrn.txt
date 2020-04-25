@@ -17,7 +17,7 @@ Title_hidden     : Sannyāsa Initiations
 ----
 
 <audio>
-{{spoken:721022in.vrn.mp3|Sannyāsa Initiation — October 22, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721022in.vrn.mp3|Sannyāsa Initiation — October 22, 1972, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Purport to Jīv Jāgo
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690520pu.col.mp3|Purport to Jīv Jāgo — May 20, 1969, Columbus}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690520pu.col.mp3|Purport to Jīv Jāgo — May 20, 1969, Columbus}}
 </audio>
 
 **Prabhupāda:**

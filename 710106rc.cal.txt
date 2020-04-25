@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710106rc.cal.mp3|Room Conversation — January 6, 1971, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710106rc.cal.mp3|Room Conversation — January 6, 1971, Calcutta}}
 </audio>
 
 **Prabhupāda:**

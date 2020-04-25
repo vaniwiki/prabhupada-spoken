@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā Lecture Excerpts: 2.44–45, 2.58
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660325bg.ny.mp3|Bg Excerpts: 2.44-45, 2.58 — March 25, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660325bg.ny.mp3|Bg Excerpts: 2.44-45, 2.58 — March 25, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

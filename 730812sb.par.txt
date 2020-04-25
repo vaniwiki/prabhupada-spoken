@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.1–2
 ----
 
 <audio>
-{{spoken:730812sb.par.mp3|SB 5.5.1-2 — August 12, 1973, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730812sb.par.mp3|SB 5.5.1-2 — August 12, 1973, Paris}}
 </audio>
 
 [This lecture was simultaneously translated into French by Jyotirmayī-devī dāsī]

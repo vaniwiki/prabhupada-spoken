@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 9.34
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/661226bg.ny.mp3|Bg 9.34 — December 26, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661226bg.ny.mp3|Bg 9.34 — December 26, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

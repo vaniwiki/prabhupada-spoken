@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk in the Botanical Gardens
 ----
 
 <audio>
-{{spoken:750520mw.mel.mp3|Morning Walk in the Botanical Gardens — May 20, 1975, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750520mw.mel.mp3|Morning Walk in the Botanical Gardens — May 20, 1975, Melbourne}}
 </audio>
 
 **Śrutakīrti:**

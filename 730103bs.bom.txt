@@ -17,7 +17,7 @@ Title_hidden     : Śrī Brahma-saṁhitā recitation of 5.29-32, 5.38-39, 5.43 
 ----
 
 <audio>
-{{spoken:730103bs.bom.mp3|Śrī Brahma-saṁhitā — January 3, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730103bs.bom.mp3|Śrī Brahma-saṁhitā — January 3, 1973, Bombay}}
 </audio>
 
 **Devotees:**

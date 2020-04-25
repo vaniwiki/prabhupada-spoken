@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk [partially recorded]
 ----
 
 <audio>
-{{spoken:740225mw.bom.mp3|Morning Walk, partially recorded — February 25, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740225mw.bom.mp3|Morning Walk, partially recorded — February 25, 1974, Bombay}}
 </audio>
 
 **Prabhupāda:**

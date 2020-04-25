@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.4.2
 ----
 
 <audio>
-{{spoken:720625sb.la.mp3|SB 2.4.2 — June 25, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720625sb.la.mp3|SB 2.4.2 — June 25, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

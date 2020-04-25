@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.19
 ----
 
 <audio>
-{{spoken:721030sb.vrn.mp3|SB 1.2.19 — October 30, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721030sb.vrn.mp3|SB 1.2.19 — October 30, 1972, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

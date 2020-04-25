@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Press Representative
 ----
 
 <audio>
-{{spoken:750321r1.cal.mp3|Room Conversation with Press Representative — March 21, 1975, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750321r1.cal.mp3|Room Conversation with Press Representative — March 21, 1975, Calcutta}}
 </audio>
 
 **Prabhupāda:**

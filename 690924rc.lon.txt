@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690924rc.lon.mp3|Room Conversation — September 24, 1969, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690924rc.lon.mp3|Room Conversation — September 24, 1969, London}}
 </audio>
 
 **Prabhupāda:**

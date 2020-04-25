@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk Through the BBT Warehouse
 ----
 
 <audio>
-{{spoken:750210mw.la.mp3|Morning Walk Through the BBT Warehouse — February 10, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750210mw.la.mp3|Morning Walk Through the BBT Warehouse — February 10, 1975, Los Angeles}}
 </audio>
 
 [in car]

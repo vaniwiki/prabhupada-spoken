@@ -17,7 +17,7 @@ Title_hidden     : Radio Interview
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680312iv.sf.mp3|Radio Interview — March 12, 1968, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680312iv.sf.mp3|Radio Interview — March 12, 1968, San Francisco}}
 </audio>
 
 **Interviewer:**

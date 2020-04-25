@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 9.2–3
 ----
 
 <audio>
-{{spoken:720308bg.cal.mp3|Bg 9.2-3 — March 8, 1972, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720308bg.cal.mp3|Bg 9.2-3 — March 8, 1972, Calcutta}}
 </audio>
 
 **Prabhupāda:**

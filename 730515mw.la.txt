@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk at Cheviot Hills Golf Course
 ----
 
 <audio>
-{{spoken:730515mw.la.mp3|Morning Walk at Cheviot Hills Golf Course — May 15, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730515mw.la.mp3|Morning Walk at Cheviot Hills Golf Course — May 15, 1973, Los Angeles}}
 </audio>
 
 **Kṛṣṇa-kāntī:**

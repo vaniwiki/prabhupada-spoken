@@ -17,7 +17,7 @@ Title_hidden     : Engagement Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690423le.buf.mp3|Engagement Lecture — April 23, 1969, Buffalo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690423le.buf.mp3|Engagement Lecture — April 23, 1969, Buffalo}}
 </audio>
 
 **Prabhupāda:**

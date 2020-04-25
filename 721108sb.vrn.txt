@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.28–29
 ----
 
 <audio>
-{{spoken:721108sb.vrn.mp3|SB 1.2.28-29 — November 8, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721108sb.vrn.mp3|SB 1.2.28-29 — November 8, 1972, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

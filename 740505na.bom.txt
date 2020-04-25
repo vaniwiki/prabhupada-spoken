@@ -17,7 +17,7 @@ Title_hidden     : Nṛsiṁha-caturdaśī, Lord Nṛsiṁha-deva’s Appearance
 ----
 
 <audio>
-{{spoken:740505na.bom.mp3|Nṛsiṁha-caturdaśī — May 5, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740505na.bom.mp3|Nṛsiṁha-caturdaśī — May 5, 1974, Bombay}}
 </audio>
 
 **Prabhupāda:**

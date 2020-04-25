@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1
 ----
 
 <audio>
-{{spoken:720214bg.mad.mp3|Bg 7.1 — February 14, 1972, Madras}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720214bg.mad.mp3|Bg 7.1 — February 14, 1972, Madras}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with the Mayor of Evanston
 ----
 
 <audio>
-{{spoken:750704r1.chi.mp3|Room Conversation with the Mayor of Evanston — July 4, 1975, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750704r1.chi.mp3|Room Conversation with the Mayor of Evanston — July 4, 1975, Chicago}}
 </audio>
 
 **Prabhupāda:**

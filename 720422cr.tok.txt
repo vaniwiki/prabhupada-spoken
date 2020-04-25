@@ -17,7 +17,7 @@ Title_hidden     : Conversation in Car
 ----
 
 <audio>
-{{spoken:720422cr.tok.mp3|Conversation in car — April 22, 1972, Tokyo}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720422cr.tok.mp3|Conversation in car — April 22, 1972, Tokyo}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.25.25
 ----
 
 <audio>
-{{spoken:741125sb.bom.mp3|SB 3.25.25 — November 25, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741125sb.bom.mp3|SB 3.25.25 — November 25, 1974, Bombay}}
 </audio>
 
 [noise of fireworks in background]

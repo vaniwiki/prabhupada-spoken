@@ -19,7 +19,7 @@ Title_hidden     : Room Conversation with Metaphysics Society
 ----
 
 <audio>
-{{spoken:750221r1.car.mp3|Room Conversation with Metaphysics Society — February 21, 1975, Caracas}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750221r1.car.mp3|Room Conversation with Metaphysics Society — February 21, 1975, Caracas}}
 </audio>
 
 [translated throughout by Hṛdayānanda]

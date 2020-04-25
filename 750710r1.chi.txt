@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with City Councillor
 ----
 
 <audio>
-{{spoken:750710r1.chi.mp3|Room Conversation with City Counselor — July 10, 1975, Chicago}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750710r1.chi.mp3|Room Conversation with City Counselor — July 10, 1975, Chicago}}
 </audio>
 
 **Śrī Govinda:**

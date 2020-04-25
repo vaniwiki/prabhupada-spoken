@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.25.17
 ----
 
 <audio>
-{{spoken:741117sb.bom.mp3|SB 3.25.17 — November 17, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741117sb.bom.mp3|SB 3.25.17 — November 17, 1974, Bombay}}
 </audio>
 
 **Nitāi:**

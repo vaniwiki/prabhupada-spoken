@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.1.2 [Significance of Ṣaḍ-gosvāmy-
 ----
 
 <audio>
-{{spoken:740317sb.vrn.mp3|SB 2.1.2 [Significance of Ṣaḍ-gosvāmy-aṣṭaka] — March 17, 1974, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740317sb.vrn.mp3|SB 2.1.2 [Significance of Ṣaḍ-gosvāmy-aṣṭaka] — March 17, 1974, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

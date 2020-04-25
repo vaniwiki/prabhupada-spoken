@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.3.21
 ----
 
 <audio>
-{{spoken:720618sb.la.mp3|SB 2.3.21 — June 18, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720618sb.la.mp3|SB 2.3.21 — June 18, 1972, Los Angeles}}
 </audio>
 
 **Pradyumna:**

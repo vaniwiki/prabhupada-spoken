@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.41
 ----
 
 <audio>
-{{spoken:730503sb.la.mp3|SB 1.8.41 — May 3, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730503sb.la.mp3|SB 1.8.41 — May 3, 1973, Los Angeles}}
 </audio>
 
 **Pradyumna: **Translation: "O Lord of the universe, soul of the universe, O Personality of the form of the universe, please, therefore, sever my tie of affection for my kinsmen, the Pāṇḍavas and the Vṛṣṇis." [[books:sb:1:8:41|[SB 1.8.41]]]

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.5.2
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680110sb.la.mp3|SB 1.5.2 — January 10, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680110sb.la.mp3|SB 1.5.2 — January 10, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

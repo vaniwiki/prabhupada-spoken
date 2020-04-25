@@ -17,7 +17,7 @@ Title_hidden     : Purport to Nṛsiṁha Prayers
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700802np.la.mp3|Purport to Nṛsiṁha Prayers — August 2, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700802np.la.mp3|Purport to Nṛsiṁha Prayers — August 2, 1970, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

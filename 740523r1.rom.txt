@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Irish Poet Desmond O’Grady
 ----
 
 <audio>
-{{spoken:740523r1.rom.mp3|Room Conversation with Irish Poet Desmond O’Grady — May 23, 1974, Rome}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740523r1.rom.mp3|Room Conversation with Irish Poet Desmond O’Grady — May 23, 1974, Rome}}
 </audio>
 
 **Yogeśvara:**

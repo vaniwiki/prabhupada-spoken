@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.15
 ----
 
 <audio>
-{{spoken:730821bg.lon.mp3|Bg 2.15 — August 21, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730821bg.lon.mp3|Bg 2.15 — August 21, 1973, London}}
 </audio>
 
 **Pradyumna:**

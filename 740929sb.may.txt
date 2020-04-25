@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.19
 ----
 
 <audio>
-{{spoken:740929sb.may.mp3|SB 1.8.19 — September 29, 1974, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740929sb.may.mp3|SB 1.8.19 — September 29, 1974, Māyāpur}}
 </audio>
 
 **Nitāi:**

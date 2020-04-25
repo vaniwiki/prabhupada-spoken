@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with British Man
 ----
 
 <audio>
-{{spoken:730831r1.lon.mp3|Room Conversation with British Man — August 31, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730831r1.lon.mp3|Room Conversation with British Man — August 31, 1973, London}}
 </audio>
 
 **Guest:**

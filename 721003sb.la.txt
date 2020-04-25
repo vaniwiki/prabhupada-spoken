@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.3.28
 ----
 
 <audio>
-{{spoken:721003sb.la.mp3|SB 1.3.28 — October 3, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721003sb.la.mp3|SB 1.3.28 — October 3, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.15.30
 ----
 
 <audio>
-{{spoken:731208sb.la.mp3|SB 1.15.30 — December 8, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731208sb.la.mp3|SB 1.15.30 — December 8, 1973, Los Angeles}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:750731r1.no.mp3|Room Conversation — July 31, 1975, New Orleans}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750731r1.no.mp3|Room Conversation — July 31, 1975, New Orleans}}
 </audio>
 
 **Prabhupāda:**

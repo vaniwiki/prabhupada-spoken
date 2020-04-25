@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.13
 ----
 
 <audio>
-{{spoken:730819bg.lon.mp3|Bg 2.13 — August 19, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730819bg.lon.mp3|Bg 2.13 — August 19, 1973, London}}
 </audio>
 
 **Pradyumna:**

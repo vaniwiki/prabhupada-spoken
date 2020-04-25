@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740529mw.rom.mp3|Morning Walk — May 29, 1974, Rome}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740529mw.rom.mp3|Morning Walk — May 29, 1974, Rome}}
 </audio>
 
 **Prabhupāda:**

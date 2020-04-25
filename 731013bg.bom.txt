@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.19
 ----
 
 <audio>
-{{spoken:731013bg.bom.mp3|Bg 13.19 — October 13, 1973, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731013bg.bom.mp3|Bg 13.19 — October 13, 1973, Bombay}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.6–15
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680912sb.sf.mp3|SB 6.1.6-15 — September 12, 1968, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680912sb.sf.mp3|SB 6.1.6-15 — September 12, 1968, San Francisco}}
 </audio>
 
 **Prabhupāda:**

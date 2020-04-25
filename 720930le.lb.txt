@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:720930le.lb.mp3|Lecture — September 30, 1972, Laguna Beach}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720930le.lb.mp3|Lecture — September 30, 1972, Laguna Beach}}
 </audio>
 
 **Prabhupāda:**

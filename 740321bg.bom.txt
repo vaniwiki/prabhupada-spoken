@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.1
 ----
 
 <audio>
-{{spoken:740321bg.bom.mp3|Bg 4.1 — March 21, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740321bg.bom.mp3|Bg 4.1 — March 21, 1974, Bombay}}
 </audio>
 
 **Pradyumna:**

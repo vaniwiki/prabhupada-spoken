@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.9.48
 ----
 
 <audio>
-{{spoken:730614sb.may.mp3|SB 1.9.48 — June 14, 1973, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730614sb.may.mp3|SB 1.9.48 — June 14, 1973, Māyāpur}}
 </audio>
 
 **Pradyumna:**

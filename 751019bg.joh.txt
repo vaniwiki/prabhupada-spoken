@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.13
 ----
 
 <audio>
-{{spoken:751019bg.joh.mp3|Bg 4.13 — October 19, 1975, Johannesburg}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751019bg.joh.mp3|Bg 4.13 — October 19, 1975, Johannesburg}}
 </audio>
 
 **Prabhupāda:**

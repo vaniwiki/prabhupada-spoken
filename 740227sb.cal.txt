@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
 ----
 
 <audio>
-{{spoken:740227sb.cal.mp3|SB 1.2.6 — February 27, 1974, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740227sb.cal.mp3|SB 1.2.6 — February 27, 1974, Calcutta}}
 </audio>
 
 **Pradyumna:**

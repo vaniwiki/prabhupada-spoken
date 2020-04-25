@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.10
 ----
 
 <audio>
-{{spoken:721228sb.bom.mp3|SB 1.2.10 — December 28, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721228sb.bom.mp3|SB 1.2.10 — December 28, 1972, Bombay}}
 </audio>
 
 **Prabhupāda:**

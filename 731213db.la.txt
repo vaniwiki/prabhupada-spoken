@@ -17,7 +17,7 @@ Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Disappearance D
 ----
 
 <audio>
-{{spoken:731213db.la.mp3|Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 13, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731213db.la.mp3|Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 13, 1973, Los Angeles}}
 </audio>
 
 **Devotees:**

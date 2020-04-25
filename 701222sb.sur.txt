@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.40
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/701222sb.sur.mp3|SB 6.1.40 — December 22, 1970, Surat}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701222sb.sur.mp3|SB 6.1.40 — December 22, 1970, Surat}}
 </audio>
 
 **Prabhupāda:**

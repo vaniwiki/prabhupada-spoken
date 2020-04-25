@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk [partially recorded]
 ----
 
 <audio>
-{{spoken:740121mw.hon.mp3|Morning Walk, partially recorded — January 21, 1974, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740121mw.hon.mp3|Morning Walk, partially recorded — January 21, 1974, Honolulu}}
 </audio>
 
 **Prabhupāda:**

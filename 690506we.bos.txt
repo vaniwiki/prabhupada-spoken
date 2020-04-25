@@ -17,7 +17,7 @@ Title_hidden     : Wedding Ceremony and Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690506we.bos.mp3|Wedding Ceremony and Lecture — May 6, 1969, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690506we.bos.mp3|Wedding Ceremony and Lecture — May 6, 1969, Boston}}
 </audio>
 
 **Prabhupāda:**

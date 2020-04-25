@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.39
 ----
 
 <audio>
-{{spoken:730912bg.lon.mp3|Bg 2.39 — September 12, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730912bg.lon.mp3|Bg 2.39 — September 12, 1973, London}}
 </audio>
 
 **Pradyumna:**

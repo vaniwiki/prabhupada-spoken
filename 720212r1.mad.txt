@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with C. Rajagopalachari [Rajaji]
 ----
 
 <audio>
-{{spoken:720212r1.mad.mp3|Room Conversation with Rajaji — February 12, 1972, Madras}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720212r1.mad.mp3|Room Conversation with Rajaji — February 12, 1972, Madras}}
 </audio>
 
 **Devotee:**

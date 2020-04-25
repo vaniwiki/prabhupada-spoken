@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.18–19
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710409sb.bom.mp3|SB 1.8.18-19 — April 9, 1971, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710409sb.bom.mp3|SB 1.8.18-19 — April 9, 1971, Bombay}}
 </audio>
 
 **Prabhupāda:**

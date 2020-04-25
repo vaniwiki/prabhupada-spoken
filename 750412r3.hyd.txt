@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:750412r3.hyd.mp3|Room Conversation — April 12, 1975, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750412r3.hyd.mp3|Room Conversation — April 12, 1975, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

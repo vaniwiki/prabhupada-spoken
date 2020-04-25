@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.9.8
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681021sb.sea.mp3|SB 7.9.8 — October 21, 1968, Seattle}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681021sb.sea.mp3|SB 7.9.8 — October 21, 1968, Seattle}}
 </audio>
 
 **Prabhupāda:**

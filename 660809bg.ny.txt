@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.20–24
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660809bg.ny.mp3|Bg 4.20-24 — August 9, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660809bg.ny.mp3|Bg 4.20-24 — August 9, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

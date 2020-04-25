@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.31
 ----
 
 <audio>
-{{spoken:721110sb.vrn.mp3|SB 1.2.31 — November 10, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721110sb.vrn.mp3|SB 1.2.31 — November 10, 1972, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

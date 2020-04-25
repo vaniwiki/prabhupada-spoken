@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Indo-American Society "East and West"
 ----
 
 <audio>
-{{spoken:730131le.cal.mp3|Lecture at Indo-American Society — January 31, 1973, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730131le.cal.mp3|Lecture at Indo-American Society — January 31, 1973, Calcutta}}
 </audio>
 
 **Prabhupāda:**

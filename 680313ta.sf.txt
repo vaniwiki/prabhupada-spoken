@@ -17,7 +17,7 @@ Title_hidden     : Talk in Studio
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680313ta.sf.mp3|Talk in Studio — March 13, 1968, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680313ta.sf.mp3|Talk in Studio — March 13, 1968, San Francisco}}
 </audio>
 
 **Prabhupāda:**

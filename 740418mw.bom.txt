@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:740418mw.bom.mp3|Morning Walk — April 18, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740418mw.bom.mp3|Morning Walk — April 18, 1974, Bombay}}
 </audio>
 
 **Prabhupāda:**

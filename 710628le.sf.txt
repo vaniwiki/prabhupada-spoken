@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710628le.sf.mp3|Lecture — June 28, 1971, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710628le.sf.mp3|Lecture — June 28, 1971, San Francisco}}
 </audio>
 
 **Prabhupāda:**

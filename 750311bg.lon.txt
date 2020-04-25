@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.3
 ----
 
 <audio>
-{{spoken:750311bg.lon.mp3|Bg 7.3 — March 11, 1975, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750311bg.lon.mp3|Bg 7.3 — March 11, 1975, London}}
 </audio>
 
 **Nitāi:**

@@ -17,7 +17,7 @@ Title_hidden     : Purport to Parama Koruṇa
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690104pu.la.mp3|Purport to Parama Koruṇa — January 4, 1969, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690104pu.la.mp3|Purport to Parama Koruṇa — January 4, 1969, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Garden Conversation with Chairman of the Religion Department 
 ----
 
 <audio>
-{{spoken:750624gc.la.mp3|Garden Conversation with Professors — June 24, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750624gc.la.mp3|Garden Conversation with Professors — June 24, 1975, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:750615r2.hon.mp3|Room Conversation — June 15, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750615r2.hon.mp3|Room Conversation — June 15, 1975, Honolulu}}
 </audio>
 
 **Prabhupāda:**

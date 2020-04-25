@@ -17,7 +17,7 @@ Title_hidden     : Prabhupāda Comments on Prahlāda Mahārāja Slides
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680825cm.mon.mp3|Prabhupāda Comments on Prahlāda Mahārāja Slides — August 25, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680825cm.mon.mp3|Prabhupāda Comments on Prahlāda Mahārāja Slides — August 25, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

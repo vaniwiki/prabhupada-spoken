@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.4.3–4 & Initiations
 ----
 
 <audio>
-{{spoken:720628sb.la.mp3|SB 2.4.3-4 and Initiations — June 28, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720628sb.la.mp3|SB 2.4.3-4 and Initiations — June 28, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

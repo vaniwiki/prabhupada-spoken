@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.1.23
 ----
 
 <audio>
-{{spoken:720802sb.lon.mp3|SB 1.1.23 — August 2, 1972, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720802sb.lon.mp3|SB 1.1.23 — August 2, 1972, London}}
 </audio>
 
 **Prabhupāda:**

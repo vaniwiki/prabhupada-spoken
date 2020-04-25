@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.10
 ----
 
 <audio>
-{{spoken:750623sb.la.mp3|SB 6.1.10 — June 23, 1975, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750623sb.la.mp3|SB 6.1.10 — June 23, 1975, Los Angeles}}
 </audio>
 
 **Santoṣa:**

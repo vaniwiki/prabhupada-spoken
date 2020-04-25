@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1–3
 ----
 
 <audio>
-{{spoken:730910bg.sto.mp3|Bg 7.1-3 — September 10, 1973, Stockholm}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730910bg.sto.mp3|Bg 7.1-3 — September 10, 1973, Stockholm}}
 </audio>
 
 **Prabhupāda:**

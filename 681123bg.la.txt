@@ -17,7 +17,7 @@ Title_hidden     : Introduction to Bhagavad-gītā As It Is
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681123bg.la.mp3|Bg As It Is Introduction — November 23, 1968 , Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681123bg.la.mp3|Bg As It Is Introduction — November 23, 1968 , Los Angeles}}
 </audio>
 
 **Prabhupāda:**

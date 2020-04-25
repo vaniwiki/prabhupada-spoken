@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:750703mw.den.mp3|Morning Walk — July 3, 1975, Denver}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750703mw.den.mp3|Morning Walk — July 3, 1975, Denver}}
 </audio>
 
 [in car]

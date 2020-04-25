@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.11
 ----
 
 <audio>
-{{spoken:740601bg.gen.mp3|Bg 4.11 — June 1, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740601bg.gen.mp3|Bg 4.11 — June 1, 1974, Geneva}}
 </audio>
 
 [translated into French throughout]

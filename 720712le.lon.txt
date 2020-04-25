@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:720712le.lon.mp3|Lecture — July 12, 1972, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720712le.lon.mp3|Lecture — July 12, 1972, London}}
 </audio>
 
 **Prabhupāda:**

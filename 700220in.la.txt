@@ -17,7 +17,7 @@ Title_hidden     : Sannyāsa Initiation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1970/700220in.la.mp3|Sannyāsa Initiation — February 20, 1970, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700220in.la.mp3|Sannyāsa Initiation — February 20, 1970, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

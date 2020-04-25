@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Bengali]
 ----
 
 <audio>
-{{spoken:720304le.cal_bengali.mp3|Lecture [Bengali] — March 4, 1972, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720304le.cal_bengali.mp3|Lecture [Bengali] — March 4, 1972, Calcutta}}
 </audio>
 
 **Prabhupāda:**

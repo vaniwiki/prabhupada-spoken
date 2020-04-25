@@ -17,7 +17,7 @@ Title_hidden     : The Nectar of Devotion "You just become My devotee"
 ----
 
 <audio>
-{{spoken:721017nd.vrn.mp3|The Nectar of Devotion — October 17, 1972, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721017nd.vrn.mp3|The Nectar of Devotion — October 17, 1972, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

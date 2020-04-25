@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Kṛṣṇa Niketan
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710216le.gor.mp3|Lecture at Kṛṣṇa Niketan — February 16, 1971, Gorakhpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710216le.gor.mp3|Lecture at Kṛṣṇa Niketan — February 16, 1971, Gorakhpur}}
 </audio>
 
 **Haṁsadūta:**

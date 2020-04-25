@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1
 ----
 
 <audio>
-{{spoken:740427bg.hyd.mp3|Bg 7.1 — April 27, 1974, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740427bg.hyd.mp3|Bg 7.1 — April 27, 1974, Hyderabad}}
 </audio>
 
 **Pradyumna:**

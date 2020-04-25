@@ -17,7 +17,7 @@ Title_hidden     : Car Conversation
 ----
 
 <audio>
-{{spoken:750803cc.det.mp3|Car Conversation — August 3, 1975, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750803cc.det.mp3|Car Conversation — August 3, 1975, Detroit}}
 </audio>
 
 **Prabhupāda:**

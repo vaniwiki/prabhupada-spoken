@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Mr. C. Hennis of the International Lab
 ----
 
 <audio>
-{{spoken:740531r2.gen.mp3|Room Conversation with Mr. C. Hennis — May 31, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740531r2.gen.mp3|Room Conversation with Mr. C. Hennis — May 31, 1974, Geneva}}
 </audio>
 
 **C. Hennis:**

@@ -17,7 +17,7 @@ Title_hidden     : Talk with Lalitā Prasād Son of Śrīla Bhaktivinoda Ṭhāk
 ----
 
 <audio>
-{{spoken:720302ta.bir_bengali_english.mp3|Talk with Lalitā Prasād — March 2, 1972, Birnagar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720302ta.bir_bengali_english.mp3|Talk with Lalitā Prasād — March 2, 1972, Birnagar}}
 </audio>
 
 **Lalitā Prasāda:**

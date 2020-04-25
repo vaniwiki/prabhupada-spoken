@@ -17,7 +17,7 @@ Title_hidden     : Arrival Address
 ----
 
 <audio>
-{{spoken:730519ad.dal.mp3|Arrival Address — May 19, 1973, Dallas}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730519ad.dal.mp3|Arrival Address — May 19, 1973, Dallas}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.1.2–5
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681023sb.mon.mp3|SB 2.1.2-5 — October 23, 1968, Montreal}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681023sb.mon.mp3|SB 2.1.2-5 — October 23, 1968, Montreal}}
 </audio>
 
 **Prabhupāda:**

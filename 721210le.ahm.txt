@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Hindi]
 ----
 
 <audio>
-{{spoken:721210le.ahm_hindi.mp3|Lecture [Hindi] — December 10, 1972, Ahmedabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721210le.ahm_hindi.mp3|Lecture [Hindi] — December 10, 1972, Ahmedabad}}
 </audio>
 
 **Prabhupāda:**

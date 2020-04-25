@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/681113le.la.mp3|Lecture — November 13, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681113le.la.mp3|Lecture — November 13, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

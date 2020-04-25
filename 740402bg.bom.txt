@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.13
 ----
 
 <audio>
-{{spoken:740402bg.bom.mp3|Bg 4.13 — April 2, 1974, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740402bg.bom.mp3|Bg 4.13 — April 2, 1974, Bombay}}
 </audio>
 
 **Pradyumna:**

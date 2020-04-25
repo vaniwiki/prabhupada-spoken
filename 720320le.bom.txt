@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:720320le.bom.mp3|Lecture — March 20, 1972, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720320le.bom.mp3|Lecture — March 20, 1972, Bombay}}
 </audio>
 
 **Prabhupāda:**

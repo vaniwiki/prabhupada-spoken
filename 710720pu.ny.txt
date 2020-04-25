@@ -17,7 +17,7 @@ Title_hidden     : Purport to Jaya Rādhā-Mādhava
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710720pu.ny.mp3|Purport to Jaya Rādhā-Mādhava — July 20, 1971, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710720pu.ny.mp3|Purport to Jaya Rādhā-Mādhava — July 20, 1971, New York}}
 </audio>
 
 **Prabhupāda:**

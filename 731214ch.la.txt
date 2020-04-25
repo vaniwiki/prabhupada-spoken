@@ -17,7 +17,7 @@ Title_hidden     : Chanting Śrī Caitanya-caritāmṛta Ādi-līlā 8th Chapter
 ----
 
 <audio>
-{{spoken:731214ch.la.mp3|Chanting Cc Ādi-līlā 8th Chapter — December 14, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731214ch.la.mp3|Chanting Cc Ādi-līlā 8th Chapter — December 14, 1973, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

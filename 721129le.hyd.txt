@@ -17,7 +17,7 @@ Title_hidden     : Rotary Club Lecture Bhagavad-gītā 3.21
 ----
 
 <audio>
-{{spoken:721129le.hyd.mp3|Rotary Club Lecture, Bhagavad-gītā 3.21 — November 29, 1972, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721129le.hyd.mp3|Rotary Club Lecture, Bhagavad-gītā 3.21 — November 29, 1972, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

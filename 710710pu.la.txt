@@ -17,7 +17,7 @@ Title_hidden     : Purport to Hare Krishna Maha Mantra
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710710pu.la.mp3|Purport to Hare Krishna Maha Mantra — July 10, 1971, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710710pu.la.mp3|Purport to Hare Krishna Maha Mantra — July 10, 1971, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 16.8
 ----
 
 <audio>
-{{spoken:750204bg.hon.mp3|Bg 16.8 — February 4, 1975, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750204bg.hon.mp3|Bg 16.8 — February 4, 1975, Honolulu}}
 </audio>
 
 **Nitāi:**

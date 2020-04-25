@@ -17,7 +17,7 @@ Title_hidden     : Lecture at Harvard University Divinity School, Cambridge [nea
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1969/690428le.bos.mp3|Lecture at Harvard University Divinity School — April 28, 1969, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690428le.bos.mp3|Lecture at Harvard University Divinity School — April 28, 1969, Boston}}
 </audio>
 
 **Prabhupāda:**

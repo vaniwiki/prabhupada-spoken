@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 13.35
 ----
 
 <audio>
-{{spoken:740606bg.gen.mp3|Bg 13.35 — June 6, 1974, Geneva}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740606bg.gen.mp3|Bg 13.35 — June 6, 1974, Geneva}}
 </audio>
 
 **Nitāi:**

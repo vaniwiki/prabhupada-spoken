@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 6.254
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680108cc.la.mp3|Cc. Madhya 6.254 — January 8, 1968, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680108cc.la.mp3|Cc. Madhya 6.254 — January 8, 1968, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

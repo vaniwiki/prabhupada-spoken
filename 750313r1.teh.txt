@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with James George, Canadian Ambassador to I
 ----
 
 <audio>
-{{spoken:750313r1.teh.mp3|Room Conversation with Canadian Ambassador to Iran — March 13, 1975, Tehran}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750313r1.teh.mp3|Room Conversation with Canadian Ambassador to Iran — March 13, 1975, Tehran}}
 </audio>
 
 **Prabhupāda:**

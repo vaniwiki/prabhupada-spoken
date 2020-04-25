@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.3.16 and Initiations
 ----
 
 <audio>
-{{spoken:720921sb.la.mp3|SB 1.3.16 and Initiations — September 21, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720921sb.la.mp3|SB 1.3.16 and Initiations — September 21, 1972, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

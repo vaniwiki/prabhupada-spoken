@@ -17,7 +17,7 @@ Title_hidden     : Arrival Lecture
 ----
 
 <audio>
-{{spoken:750711a2.phi.mp3|Arrival Lecture — July 11, 1975, Philadelphia}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750711a2.phi.mp3|Arrival Lecture — July 11, 1975, Philadelphia}}
 </audio>
 
 **Prabhupāda:**

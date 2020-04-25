@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Devotees
 ----
 
 <audio>
-{{spoken:750414r1.hyd.mp3|Conversation with Devotees — April 14, 1975, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750414r1.hyd.mp3|Conversation with Devotees — April 14, 1975, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.13–14
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1966/660801bg.ny.mp3|Bg 4.13-14 — August 1, 1966, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660801bg.ny.mp3|Bg 4.13-14 — August 1, 1966, New York}}
 </audio>
 
 **Prabhupāda:**

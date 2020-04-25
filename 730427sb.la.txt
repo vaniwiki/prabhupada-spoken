@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.35
 ----
 
 <audio>
-{{spoken:730427sb.la.mp3|SB 1.8.35 — April 27, 1973, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730427sb.la.mp3|SB 1.8.35 — April 27, 1973, Los Angeles}}
 </audio>
 
 **Pradyumna:** "[And yet others say] ...that You appeared to rejuvenate the devotional service of hearing, remembering, worshiping and so on, in order that the conditioned souls suffering from material pangs might take advantage and gain liberation." [[books:sb:1:8:35|[SB 1.8.35]]]

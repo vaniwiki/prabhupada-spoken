@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:751207mw.vrn.mp3|Morning Walk — December 7, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751207mw.vrn.mp3|Morning Walk — December 7, 1975, Vṛndāvana}}
 </audio>
 
 **Akṣayānanda:**

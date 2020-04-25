@@ -17,7 +17,7 @@ Title_hidden     : Car ride from Durban to Johannesburg
 ----
 
 <audio>
-{{spoken:751013cr.dur.mp3|Car ride from Durban to Johannesburg — October 13, 1975, Durban}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751013cr.dur.mp3|Car ride from Durban to Johannesburg — October 13, 1975, Durban}}
 </audio>
 
 **Puṣṭa Kṛṣṇa:**

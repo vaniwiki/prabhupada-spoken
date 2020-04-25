@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.37–39
 ----
 
 <audio>
-{{spoken:730727bg.lon.mp3|Bg 1.37-39 — July 27, 1973, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730727bg.lon.mp3|Bg 1.37-39 — July 27, 1973, London}}
 </audio>
 
 **Pradyumna:**

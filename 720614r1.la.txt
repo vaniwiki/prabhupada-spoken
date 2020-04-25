@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with John Fahey [famous musician]
 ----
 
 <audio>
-{{spoken:720614r1.la.mp3|Room Conversation with John Fahey — June 14, 1972, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720614r1.la.mp3|Room Conversation with John Fahey — June 14, 1972, Los Angeles}}
 </audio>
 
 **John Fahey:**

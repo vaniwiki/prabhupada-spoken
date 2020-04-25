@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 4.14.14
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/711116sb.del.mp3|SB 4.14.14 — November 16, 1971, New Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711116sb.del.mp3|SB 4.14.14 — November 16, 1971, New Delhi}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk [Partially Recorded]
 ----
 
 <audio>
-{{spoken:750417mw.vrn.mp3|Morning Walk — April 17, 1975, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750417mw.vrn.mp3|Morning Walk — April 17, 1975, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

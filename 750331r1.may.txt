@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Devotees
 ----
 
 <audio>
-{{spoken:750331r1.may.mp3|Conversation with Devotees — March 31, 1975, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750331r1.may.mp3|Conversation with Devotees — March 31, 1975, Māyāpur}}
 </audio>
 
 **Acyutānanda:**

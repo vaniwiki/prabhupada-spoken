@@ -17,7 +17,7 @@ Title_hidden     : Arrival Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710629ar.la.mp3|Arrival Lecture — June 29, 1971, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710629ar.la.mp3|Arrival Lecture — June 29, 1971, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

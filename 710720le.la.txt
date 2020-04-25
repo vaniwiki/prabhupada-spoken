@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710720le.la.mp3|Lecture — July 20, 1971, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710720le.la.mp3|Lecture — July 20, 1971, Los Angeles}}
 </audio>
 
 [tape begins with //kīrtana// and //maṅgalācaraṇa// prayers]

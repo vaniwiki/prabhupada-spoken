@@ -17,7 +17,7 @@ Title_hidden     : Purport to Bhajahu Re Mana
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1967/670316pu.sf.mp3|Purport to Bhajahu Re Mana — March 16, 1967, San Francisco}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670316pu.sf.mp3|Purport to Bhajahu Re Mana — March 16, 1967, San Francisco}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Comment on Painting
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1968/680509cm.bos.mp3|Comment on Painting — May 9, 1968, Boston}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680509cm.bos.mp3|Comment on Painting — May 9, 1968, Boston}}
 </audio>
 
 **Prabhupāda:**

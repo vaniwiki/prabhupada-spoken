@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/spoken/1971/710117rc.all.mp3|Room Conversation — January 17, 1971, Allahabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710117rc.all.mp3|Room Conversation — January 17, 1971, Allahabad}}
 </audio>
 
 **Prabhupāda:**

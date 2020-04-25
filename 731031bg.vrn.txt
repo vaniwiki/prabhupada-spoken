@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.3
 ----
 
 <audio>
-{{spoken:731031bg.vrn.mp3|Bg 7.3 — October 31, 1973, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731031bg.vrn.mp3|Bg 7.3 — October 31, 1973, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

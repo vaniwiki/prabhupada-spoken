@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.8.47
 ----
 
 <audio>
-{{spoken:741027sb.may.mp3|SB 1.8.47 — October 27, 1974, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741027sb.may.mp3|SB 1.8.47 — October 27, 1974, Māyāpur}}
 </audio>
 
 **Pradyumna:**

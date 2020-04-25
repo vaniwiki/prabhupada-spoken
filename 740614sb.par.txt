@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 2.1.6
 ----
 
 <audio>
-{{spoken:740614sb.par.mp3|SB 2.1.6 — June 14, 1974, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740614sb.par.mp3|SB 2.1.6 — June 14, 1974, Paris}}
 </audio>
 
 **Nitāi:**
