@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:760810r1.teh.mp3|Room Conversation — August 10, 1976, Tehran}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760810r1.teh.mp3|Room Conversation — August 10, 1976, Tehran}}
 </audio>
 
 **Nava-yauvana:**

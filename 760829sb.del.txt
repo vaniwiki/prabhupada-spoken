@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.1 [Hindi]
 ----
 
 <audio>
-{{spoken:760829sb.del_hindi.mp3|SB 5.5.1 [Hindi] — August 29, 1976, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760829sb.del_hindi.mp3|SB 5.5.1 [Hindi] — August 29, 1976, Delhi}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Meeting with Bruno Gnan, Italian Printer
 ----
 
 <audio>
-{{spoken:760805r2.nmr.mp3|Meeting with Bruno Gnan, Italian Printer — August 5, 1976, New Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760805r2.nmr.mp3|Meeting with Bruno Gnan, Italian Printer — August 5, 1976, New Māyāpur}}
 </audio>
 
 [devotee translates throughout; Italian printer, Bruno, speaks in French]

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk and Room Conversation
 ----
 
 <audio>
-{{spoken:761226r1.bom.mp3|Morning Walk and Room Conversation — December 26, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761226r1.bom.mp3|Morning Walk and Room Conversation — December 26, 1976, Bombay}}
 </audio>
 
 **Devotee (1):**

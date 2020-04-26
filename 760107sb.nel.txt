@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.9
 ----
 
 <audio>
-{{spoken:760107sb.nel.mp3|SB 6.1.9 — January 7, 1976, Nellore}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760107sb.nel.mp3|SB 6.1.9 — January 7, 1976, Nellore}}
 </audio>
 
 **Prabhupāda:**

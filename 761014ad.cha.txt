@@ -17,7 +17,7 @@ Title_hidden     : Address [Hindi]
 ----
 
 <audio>
-{{spoken:761014ad.cha_hindi.mp3|Address [Hindi] — October 14, 1976, Chandigarh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761014ad.cha_hindi.mp3|Address [Hindi] — October 14, 1976, Chandigarh}}
 </audio>
 
 **Prabhupāda:**

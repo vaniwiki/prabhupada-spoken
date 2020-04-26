@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.7.9 [partially recorded]
 ----
 
 <audio>
-{{spoken:760908sb.vrn.mp3|SB 1.7.9 [partially recorded] — September 8, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760908sb.vrn.mp3|SB 1.7.9 [partially recorded] — September 8, 1976, Vṛndāvana}}
 </audio>
 
 **Pradyumna:** Translation: "Śrī Śaunaka asked Suta Gosvāmī: Śrī Śukadeva Gosvāmī was already on the path of self-realization, and thus he was pleased with his own self. So why did he take the trouble to undergo the study of such a vast literature?"

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.49
 ----
 
 <audio>
-{{spoken:760615sb.det.mp3|SB 6.1.49 — June 15, 1976, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760615sb.det.mp3|SB 6.1.49 — June 15, 1976, Detroit}}
 </audio>
 
 **Pradyumna:**

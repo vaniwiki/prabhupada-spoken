@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Vedic Astronomer Agnihotram Rāmānuja Tatt
 ----
 
 <audio>
-{{spoken:770430r2.bom.mp3|Conversation with Vedic Astronomer — April 30, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770430r2.bom.mp3|Conversation with Vedic Astronomer — April 30, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

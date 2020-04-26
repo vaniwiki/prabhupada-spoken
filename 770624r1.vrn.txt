@@ -17,7 +17,7 @@ Title_hidden     : Conversation: “How to Secure Brahmacārīs”
 ----
 
 <audio>
-{{spoken:770624r1.vrn.mp3|Conversation: “How to Secure Brahmacārīs” — June 24, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770624r1.vrn.mp3|Conversation: “How to Secure Brahmacārīs” — June 24, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

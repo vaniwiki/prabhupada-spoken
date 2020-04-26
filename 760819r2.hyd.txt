@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:760819r2.hyd.mp3|Room Conversation — August 19, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760819r2.hyd.mp3|Room Conversation — August 19, 1976, Hyderabad}}
 </audio>
 
 [loud //kīrtana// in background]

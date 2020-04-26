@@ -17,7 +17,7 @@ Title_hidden     : Evening Walk [partially recorded]
 ----
 
 <audio>
-{{spoken:760804ew.nmr.mp3|Evening Walk [partially recorded] — August 4, 1976, New Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760804ew.nmr.mp3|Evening Walk [partially recorded] — August 4, 1976, New Māyāpur}}
 </audio>
 
 **Prabhupāda:**

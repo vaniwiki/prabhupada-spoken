@@ -17,7 +17,7 @@ Title_hidden     : Discussion about Bhū-maṇḍala
 ----
 
 <audio>
-{{spoken:770705dc.vrn.mp3|Discussion about Bhū-maṇḍala — July 5, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770705dc.vrn.mp3|Discussion about Bhū-maṇḍala — July 5, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

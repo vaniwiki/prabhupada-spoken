@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Gaura-Govinda and Girirāja
 ----
 
 <audio>
-{{spoken:771103r5.vrn.mp3|Room Conversation with Gaura-Govinda and Girirāja — November 3, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771103r5.vrn.mp3|Room Conversation with Gaura-Govinda and Girirāja — November 3, 1977, Vṛndāvana}}
 </audio>
 
 **Bhakti-caru:**

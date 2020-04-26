@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation After Film
 ----
 
 <audio>
-{{spoken:760628r1.nv.mp3|Room Conversation After Film — June 28, 1976, New Vrindavan}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760628r1.nv.mp3|Room Conversation After Film — June 28, 1976, New Vrindavan}}
 </audio>
 
 **Ṛṣi Kumāra:**

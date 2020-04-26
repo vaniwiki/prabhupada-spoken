@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.12.3
 ----
 
 <audio>
-{{spoken:760414sb.bom.mp3|SB 7.12.3 — April 14, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760414sb.bom.mp3|SB 7.12.3 — April 14, 1976, Bombay}}
 </audio>
 
 **Pradyumna:** Translation: "Being called by the spiritual master, one should study the Vedic //mantras// regularly, and every day, before beginning his study and at the end of the study, the disciple should offer respectfully his obeisances unto the spiritual master."

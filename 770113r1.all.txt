@@ -17,7 +17,7 @@ Title_hidden     : Conversation and Instruction On New Movie
 ----
 
 <audio>
-{{spoken:770113r1.all.mp3|Conversation and Instruction On New Movie — January 13, 1977, Allahabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770113r1.all.mp3|Conversation and Instruction On New Movie — January 13, 1977, Allahabad}}
 </audio>
 
 **Prabhupāda:**

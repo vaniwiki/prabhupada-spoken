@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation [partially recorded]
 ----
 
 <audio>
-{{spoken:771102r6.vrn.mp3|Room Conversation [partially recorded] — November 2, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771102r6.vrn.mp3|Room Conversation [partially recorded] — November 2, 1977, Vṛndāvana}}
 </audio>
 
 **Bhavānanda:**

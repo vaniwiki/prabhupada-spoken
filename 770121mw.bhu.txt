@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:770121mw.bhu.mp3|Morning Walk — January 21, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770121mw.bhu.mp3|Morning Walk — January 21, 1977, Bhubaneswar}}
 </audio>
 
 [in car]

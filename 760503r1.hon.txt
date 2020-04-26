@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Siddha-svarūpa Follower
 ----
 
 <audio>
-{{spoken:760503r1.hon.mp3|Room Conversation with Siddha-svarūpa Follower — May 3, 1976, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760503r1.hon.mp3|Room Conversation with Siddha-svarūpa Follower — May 3, 1976, Honolulu}}
 </audio>
 
 **Prabhupāda:**

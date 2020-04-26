@@ -17,7 +17,7 @@ Title_hidden     : Conversation in Car
 ----
 
 <audio>
-{{spoken:760812r4.teh.mp3|Conversation in Car — August 12, 1976, Tehran}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760812r4.teh.mp3|Conversation in Car — August 12, 1976, Tehran}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.6.4
 ----
 
 <audio>
-{{spoken:760620sb.tor.mp3|SB 7.6.4 — June 20, 1976, Toronto}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760620sb.tor.mp3|SB 7.6.4 — June 20, 1976, Toronto}}
 </audio>
 
 **Pradyumna:**

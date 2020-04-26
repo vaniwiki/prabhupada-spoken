@@ -17,7 +17,7 @@ Title_hidden     : Conversation on Roof
 ----
 
 <audio>
-{{spoken:770105r2.bom.mp3|Roof Conversation — January 5, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770105r2.bom.mp3|Roof Conversation — January 5, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

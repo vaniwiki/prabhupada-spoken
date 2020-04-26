@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.7.10
 ----
 
 <audio>
-{{spoken:760909sb.vrn.mp3|SB 1.7.10 — September 9, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760909sb.vrn.mp3|SB 1.7.10 — September 9, 1976, Vṛndāvana}}
 </audio>
 
 **Pradyumna:** Translation: "All different varieties of //ātmārāmas// [those who take pleasure in //ātmā,// or spirit self], especially those established on the path of self-realization, though freed from all kinds of material bondage, desire to render unalloyed devotional service unto the Personality of Godhead. This means that the Lord possesses transcendental qualities and therefore can attract everyone, including liberated souls."

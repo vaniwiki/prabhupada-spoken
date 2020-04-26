@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:760815mw.bom.mp3|Morning Walk — August 14, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760815mw.bom.mp3|Morning Walk — August 14, 1976, Bombay}}
 </audio>
 
 [on roof of apartment. Śrīla Prabhupāda was not feeling strong enough to walk]

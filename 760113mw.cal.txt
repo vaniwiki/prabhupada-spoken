@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:760113mw.cal.mp3|Morning Walk — January 13, 1976, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760113mw.cal.mp3|Morning Walk — January 13, 1976, Calcutta}}
 </audio>
 
 **Devotees:**

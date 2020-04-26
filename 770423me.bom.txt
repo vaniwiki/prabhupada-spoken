@@ -17,7 +17,7 @@ Title_hidden     : Meeting with Mr. Dwivedi
 ----
 
 <audio>
-{{spoken:770423me.bom.mp3|Meeting with Mr. Dwivedi — April 23, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770423me.bom.mp3|Meeting with Mr. Dwivedi — April 23, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

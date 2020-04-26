@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation about F.A.T.E. [First American Theistic Exh
 ----
 
 <audio>
-{{spoken:761227r2.bom.mp3|Room Conversation about F.A.T.E. — December 27, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761227r2.bom.mp3|Room Conversation about F.A.T.E. — December 27, 1976, Bombay}}
 </audio>
 
 **Rādhā-vallabha:**

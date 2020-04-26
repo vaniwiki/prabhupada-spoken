@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.50
 ----
 
 <audio>
-{{spoken:760616sb.det.mp3|SB 6.1.50 — June 16, 1976, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760616sb.det.mp3|SB 6.1.50 — June 16, 1976, Detroit}}
 </audio>
 
 **Pradyumna:** Translation: "Above the five senses of perception, the five working senses and the five objects of the senses is the mind, which is the sixteenth element. Above the mind is the seventeenth element, the soul, the living being himself, who, in cooperation with the other sixteen, enjoys the material world alone. The living being enjoys three kinds of situations, namely happy, distressful and mixed."

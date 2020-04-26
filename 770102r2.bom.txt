@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Yogi Amrit Desai of Kripalu Ashram, Pennsyl
 ----
 
 <audio>
-{{spoken:770102r2.bom.mp3|Conversation with Yogi Amrit Desai of Kripalu Ashram, Pennsylvania, USA — January 2, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770102r2.bom.mp3|Conversation with Yogi Amrit Desai of Kripalu Ashram, Pennsylvania, USA — January 2, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

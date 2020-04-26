@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Ambarīṣa and Catholic Priest
 ----
 
 <audio>
-{{spoken:760614r1.det.mp3|Room Conversation with Ambarīṣa and Catholic Priest — June 14, 1976, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760614r1.det.mp3|Room Conversation with Ambarīṣa and Catholic Priest — June 14, 1976, Detroit}}
 </audio>
 
 **Śrutakīrti:**

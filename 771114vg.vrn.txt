@@ -17,7 +17,7 @@ Title_hidden     : Prabhupāda Vigil
 ----
 
 <audio>
-{{spoken:771114vg.vrn.mp3|Room Conversation — November 14, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771114vg.vrn.mp3|Room Conversation — November 14, 1977, Vṛndāvana}}
 </audio>
 
 [Pradyumna chanting //mantras// with devotees chanting loud //kīrtana//] [end]

@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.110
 ----
 
 <audio>
-{{spoken:760717cc.ny.mp3|Cc. Madhya 20.110 — July 17, 1976, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760717cc.ny.mp3|Cc. Madhya 20.110 — July 17, 1976, New York}}
 </audio>
 
 **Puṣṭa Kṛṣṇa:**

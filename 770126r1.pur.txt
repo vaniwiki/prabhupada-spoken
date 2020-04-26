@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:770126r1.pur.mp3|Conversation — January 26, 1977, Jagannātha Purī}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770126r1.pur.mp3|Conversation — January 26, 1977, Jagannātha Purī}}
 </audio>
 
 **Prabhupāda:**

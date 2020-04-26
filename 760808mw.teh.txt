@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk at Niavaran Park
 ----
 
 <audio>
-{{spoken:760808mw.teh.mp3|Morning Walk at Niavaran Park — August 8, 1976, Tehran}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760808mw.teh.mp3|Morning Walk at Niavaran Park — August 8, 1976, Tehran}}
 </audio>
 
 **Hari-śauri:**

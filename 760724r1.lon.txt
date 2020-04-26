@@ -17,7 +17,7 @@ Title_hidden     : Conversation at Bhaktivedanta Manor
 ----
 
 <audio>
-{{spoken:760724r1.lon.mp3|Conversation at Bhaktivedanta Manor — July 24, 1976, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760724r1.lon.mp3|Conversation at Bhaktivedanta Manor — July 24, 1976, London}}
 </audio>
 
 **Viśāla:**

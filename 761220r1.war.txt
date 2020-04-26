@@ -17,7 +17,7 @@ Title_hidden     : Conversation at the Gītā Pratiṣṭhāna [Conference]
 ----
 
 <audio>
-{{spoken:761220r1.war.mp3|Conversation at the Gītā Pratiṣṭhāna (Conference) — December 20, 1976, Wardha}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761220r1.war.mp3|Conversation at the Gītā Pratiṣṭhāna (Conference) — December 20, 1976, Wardha}}
 </audio>
 
 **Prabhupāda:**

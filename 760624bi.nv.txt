@@ -17,7 +17,7 @@ Title_hidden     : Prabhupāda Inspects New BTG
 ----
 
 <audio>
-{{spoken:760624bi.nv.mp3|Prabhupāda Inspects New BTG — June 24, 1976, New Vrindavan}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760624bi.nv.mp3|Prabhupāda Inspects New BTG — June 24, 1976, New Vrindavan}}
 </audio>
 
 **Puṣṭa Kṛṣṇa:**

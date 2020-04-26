@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.102
 ----
 
 <audio>
-{{spoken:760707cc.bal.mp3|Cc. Madhya 20.102 — July 7, 1976, Baltimore}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760707cc.bal.mp3|Cc. Madhya 20.102 — July 7, 1976, Baltimore}}
 </audio>
 
 **Pradyumna:**

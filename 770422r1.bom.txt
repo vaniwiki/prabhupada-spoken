@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Tamāla Kṛṣṇa about Yadubara
 ----
 
 <audio>
-{{spoken:770422r1.bom.mp3|Conversation with Tamāla Kṛṣṇa about Yadubara — April 22, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770422r1.bom.mp3|Conversation with Tamāla Kṛṣṇa about Yadubara — April 22, 1977, Bombay}}
 </audio>
 
 **Tamāla Kṛṣṇa:**

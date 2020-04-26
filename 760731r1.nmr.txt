@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:760731r1.nmr.mp3|Room Conversation — July 31, 1976, New Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760731r1.nmr.mp3|Room Conversation — July 31, 1976, New Māyāpur}}
 </audio>
 
 **Bhūgarbha:**

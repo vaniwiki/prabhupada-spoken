@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation on 1976 Book Scores
 ----
 
 <audio>
-{{spoken:770116r2.cal.mp3|Room Conversation on 1976 Book Scores — January 16, 1977, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770116r2.cal.mp3|Room Conversation on 1976 Book Scores — January 16, 1977, Calcutta}}
 </audio>
 
 **Rāmeśvara:**

@@ -17,7 +17,7 @@ Title_hidden     : Bhū-maṇḍala Diagram Discussion
 ----
 
 <audio>
-{{spoken:770702dc.vrn.mp3|Bhū-maṇḍala Diagram Discussion — July 2, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770702dc.vrn.mp3|Bhū-maṇḍala Diagram Discussion — July 2, 1977, Vṛndāvana}}
 </audio>
 
 **Tamāla Kṛṣṇa:**

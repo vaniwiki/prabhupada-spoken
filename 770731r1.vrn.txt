@@ -17,7 +17,7 @@ Title_hidden     : Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu
 ----
 
 <audio>
-{{spoken:770731r1.vrn.mp3|Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu — July 31, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770731r1.vrn.mp3|Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu — July 31, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

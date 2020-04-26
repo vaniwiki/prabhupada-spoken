@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.7.45–46
 ----
 
 <audio>
-{{spoken:761005sb.vrn.mp3|SB 1.7.45-46 — October 5, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761005sb.vrn.mp3|SB 1.7.45-46 — October 5, 1976, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

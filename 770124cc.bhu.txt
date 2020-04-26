@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 8.128
 ----
 
 <audio>
-{{spoken:770124cc.bhu.mp3|Cc. Madhya 8.128 — January 24, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770124cc.bhu.mp3|Cc. Madhya 8.128 — January 24, 1977, Bhubaneswar}}
 </audio>
 
 **Prabhupāda:**

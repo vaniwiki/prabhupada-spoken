@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.9.33
 ----
 
 <audio>
-{{spoken:760311sb.may.mp3|SB 7.9.33 — March 11, 1976, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760311sb.may.mp3|SB 7.9.33 — March 11, 1976, Māyāpur}}
 </audio>
 
 **Puṣṭa Kṛṣṇa:** Translation: "This cosmic manifestation, the material world, is also Your body. By Your potential energy known as kāla-śakti, this total lump of matter becomes agitated, and thus three modes of material nature become manifested. In this way You become awakened from the bedstead of Ananta-Śeṣa, and from Your navel a small transcendental seed is generated, from which the gigantic universe becomes manifest. Exactly like the small seed of banyan tree, the lotus flower of the cosmic manifestation is grown up."

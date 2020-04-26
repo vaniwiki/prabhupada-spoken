@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.14
 ----
 
 <audio>
-{{spoken:761102sb.vrn.mp3|SB 5.5.14 — November 2, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761102sb.vrn.mp3|SB 5.5.14 — November 2, 1976, Vṛndāvana}}
 </audio>
 
 **Pradyumna: **Translation: "As I have advised you, My dear sons, you should act accordingly. Be very careful. By these means you will be freed from the ignorance of the desire for fruitive activity, and the knot of bondage in the heart will be completely severed. For further advancement, you should also give up the means. That is, you should not become attached to the process of liberation itself."

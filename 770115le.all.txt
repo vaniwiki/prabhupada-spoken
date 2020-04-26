@@ -17,7 +17,7 @@ Title_hidden     : Morning Lecture at Kumbha-melā
 ----
 
 <audio>
-{{spoken:770115le.all.mp3|Morning Lecture at Kumbha-melā — January 15, 1977, Allahabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770115le.all.mp3|Morning Lecture at Kumbha-melā — January 15, 1977, Allahabad}}
 </audio>
 
 **Prabhupāda:**

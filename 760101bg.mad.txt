@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 3.27
 ----
 
 <audio>
-{{spoken:760101bg.mad.mp3|Bg 3.27 — January 1, 1976, Madras}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760101bg.mad.mp3|Bg 3.27 — January 1, 1976, Madras}}
 </audio>
 
 **Prabhupāda:**

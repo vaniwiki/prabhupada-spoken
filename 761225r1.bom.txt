@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Mr. Tombe M.L.A.
 ----
 
 <audio>
-{{spoken:761225r1.bom.mp3|Room Conversation with Mr. Tombe M.L.A. — December 25, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761225r1.bom.mp3|Room Conversation with Mr. Tombe M.L.A. — December 25, 1976, Bombay}}
 </audio>
 
 **Mr. Tombe:**

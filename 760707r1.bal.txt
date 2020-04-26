@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:760707r1.bal.mp3|Room Conversation — July 7, 1976, Baltimore}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760707r1.bal.mp3|Room Conversation — July 7, 1976, Baltimore}}
 </audio>
 
 **Prabhupāda:**

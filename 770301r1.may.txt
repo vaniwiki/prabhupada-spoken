@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation “GBC Resolutions”
 ----
 
 <audio>
-{{spoken:770301r1.may.mp3|Room Conversation “GBC Resolutions” — March 1, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770301r1.may.mp3|Room Conversation “GBC Resolutions” — March 1, 1977, Māyāpur}}
 </audio>
 
 **Satsvarūpa:**

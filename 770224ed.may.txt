@@ -17,7 +17,7 @@ Title_hidden     : Evening Darśana
 ----
 
 <audio>
-{{spoken:770224ed.may.mp3|Evening Darśana — February 24, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770224ed.may.mp3|Evening Darśana — February 24, 1977, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

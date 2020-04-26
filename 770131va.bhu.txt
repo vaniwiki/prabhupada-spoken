@@ -17,7 +17,7 @@ Title_hidden     : Varāha-dvadaśī, Lord Varāha’s Appearance Day
 ----
 
 <audio>
-{{spoken:770131va.bhu.mp3|Varāha-dvadaśī — January 31, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770131va.bhu.mp3|Varāha-dvadaśī — January 31, 1977, Bhubaneswar}}
 </audio>
 
 **Prabhupāda:**

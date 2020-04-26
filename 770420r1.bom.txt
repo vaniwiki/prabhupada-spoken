@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Patita-pāvana
 ----
 
 <audio>
-{{spoken:770420r1.bom.mp3|Conversation with Patita-pāvana — April 20, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770420r1.bom.mp3|Conversation with Patita-pāvana — April 20, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

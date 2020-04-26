@@ -17,7 +17,7 @@ Title_hidden     : Lecture During Walk [partially recorded]
 ----
 
 <audio>
-{{spoken:760802le.nmr.mp3|Lecture During Walk [partially recorded] — August 2, 1976, New Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760802le.nmr.mp3|Lecture During Walk [partially recorded] — August 2, 1976, New Māyāpur}}
 </audio>
 
 **Prabhupāda:**

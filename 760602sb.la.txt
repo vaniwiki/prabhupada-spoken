@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.34–36
 ----
 
 <audio>
-{{spoken:760602sb.la.mp3|SB 6.1.34-36 — June 2, 1976, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760602sb.la.mp3|SB 6.1.34-36 — June 2, 1976, Los Angeles}}
 </audio>
 
 [Devotees sing //Śrī guru-vandanā//] [break]

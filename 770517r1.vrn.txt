@@ -17,7 +17,7 @@ Title_hidden     : Conversations
 ----
 
 <audio>
-{{spoken:770517r1.vrn.mp3|Conversations — May 17, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770517r1.vrn.mp3|Conversations — May 17, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

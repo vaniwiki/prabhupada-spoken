@@ -17,7 +17,7 @@ Title_hidden     : Tenth Anniversary Address
 ----
 
 <audio>
-{{spoken:760706ad.wdc.mp3|Tenth Anniversary Address — July 6, 1976, Washington, D.C.}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760706ad.wdc.mp3|Tenth Anniversary Address — July 6, 1976, Washington, D.C.}}
 </audio>
 
 **Rūpānuga:**

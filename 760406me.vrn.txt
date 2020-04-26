@@ -17,7 +17,7 @@ Title_hidden     : Meeting with Bankers
 ----
 
 <audio>
-{{spoken:760406me.vrn.mp3|Meeting with Bankers — April 6, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760406me.vrn.mp3|Meeting with Bankers — April 6, 1976, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

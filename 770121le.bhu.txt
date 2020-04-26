@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:770121le.bhu.mp3|Lecture — January 21, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770121le.bhu.mp3|Lecture — January 21, 1977, Bhubaneswar}}
 </audio>
 
 [Gaura-Govinda translates into Oriya throughout]

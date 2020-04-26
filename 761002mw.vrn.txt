@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk [partially recorded]
 ----
 
 <audio>
-{{spoken:761002mw.vrn.mp3|Morning Walk [partially recorded] — October 2, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761002mw.vrn.mp3|Morning Walk [partially recorded] — October 2, 1976, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

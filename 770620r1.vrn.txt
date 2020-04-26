@@ -17,7 +17,7 @@ Title_hidden     : Talk with Svarūpa Dāmodara
 ----
 
 <audio>
-{{spoken:770620r1.vrn.mp3|Talk with Svarūpa Dāmodara — June 20, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770620r1.vrn.mp3|Talk with Svarūpa Dāmodara — June 20, 1977, Vṛndāvana}}
 </audio>
 
 **Svarūpa Dāmodara:**

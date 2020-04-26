@@ -17,7 +17,7 @@ Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture
 ----
 
 <audio>
-{{spoken:761210db.hyd.mp3|Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 10, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761210db.hyd.mp3|Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 10, 1976, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

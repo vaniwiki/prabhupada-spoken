@@ -17,7 +17,7 @@ Title_hidden     : Showing of Planetary Sketches
 ----
 
 <audio>
-{{spoken:770628r4.vrn.mp3|Showing of Planetary Sketches — June 28, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770628r4.vrn.mp3|Showing of Planetary Sketches — June 28, 1977, Vṛndāvana}}
 </audio>
 
 **Bhakti-prema:**

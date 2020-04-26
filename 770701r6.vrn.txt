@@ -17,7 +17,7 @@ Title_hidden     : Conversation
 ----
 
 <audio>
-{{spoken:770701r6.vrn.mp3|Conversation — July 1, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770701r6.vrn.mp3|Conversation — July 1, 1977, Vṛndāvana}}
 </audio>
 
 **Tamāla Kṛṣṇa:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.30
 ----
 
 <audio>
-{{spoken:760529sb.hon.mp3|SB 6.1.30 — May 29, 1976, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760529sb.hon.mp3|SB 6.1.30 — May 29, 1976, Honolulu}}
 </audio>
 
 **Pradyumna:** Translation: "My dear King, the order carriers of Viṣṇu, the Viṣṇūdutas, immediately arrived when they heard the holy name of their master from the mouth of the dying Ajāmila, who had certainly chanted without offense because he had chanted in complete anxiety."

@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 16.7
 ----
 
 <audio>
-{{spoken:761215bg.hyd.mp3|Bg 16.7 — December 15, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761215bg.hyd.mp3|Bg 16.7 — December 15, 1976, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīla Prabhupāda Vigil
 ----
 
 <audio>
-{{spoken:770527vg.vrn.mp3|Śrīla Prabhupāda Vigil — May 27, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770527vg.vrn.mp3|Śrīla Prabhupāda Vigil — May 27, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

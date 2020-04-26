@@ -17,7 +17,7 @@ Title_hidden     : Arrival [partially recorded]
 ----
 
 <audio>
-{{spoken:770119ar.bhu.mp3|Arrival [partially recorded] — January 19, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770119ar.bhu.mp3|Arrival [partially recorded] — January 19, 1977, Bhubaneswar}}
 </audio>
 
 **Prabhupāda:**

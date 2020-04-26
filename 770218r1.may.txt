@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:770218r1.may.mp3|Room Conversation — February 18, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770218r1.may.mp3|Room Conversation — February 18, 1977, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.6.1
 ----
 
 <audio>
-{{spoken:760617sb-tor.mp3|SB 7.6.1 — June 17, 1976, Toronto}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760617sb-tor.mp3|SB 7.6.1 — June 17, 1976, Toronto}}
 </audio>
 
 **Pradyumna:** Translation: "Prahlāda Mahārāja said: One who is sufficiently intelligent should use the human form of body from the very beginning of life, in other words, from the tender age of childhood, to practise the activities of devotional service, giving up all other engagements. The human body is most rarely achieved, and although temporary, like other bodies, it is meaningful because in human life one can perform devotional service. Even a slight amount of sincere devotional service can give one complete..." [break]

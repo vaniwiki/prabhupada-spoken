@@ -17,7 +17,7 @@ Title_hidden     : Evening Darśana
 ----
 
 <audio>
-{{spoken:760707ed.wdc.mp3|Evening Darśana — July 7, 1976, Washington, D.C.}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760707ed.wdc.mp3|Evening Darśana — July 7, 1976, Washington, D.C.}}
 </audio>
 
 **Bṛṣākapi:**

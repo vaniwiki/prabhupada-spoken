@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 9.4
 ----
 
 <audio>
-{{spoken:760423bg.mel.mp3|Bg 9.4 — April 23, 1976, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760423bg.mel.mp3|Bg 9.4 — April 23, 1976, Melbourne}}
 </audio>
 
 **Prabhupāda:**

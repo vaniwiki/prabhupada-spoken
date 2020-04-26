@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation & TV Interview with Mike Barron
 ----
 
 <audio>
-{{spoken:760420r1.mel.mp3|Room Conversation & TV Interview with Mike Barron — April 20, 1976, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760420r1.mel.mp3|Room Conversation & TV Interview with Mike Barron — April 20, 1976, Melbourne}}
 </audio>
 
 **Prabhupāda:**

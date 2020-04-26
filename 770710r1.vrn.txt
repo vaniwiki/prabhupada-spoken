@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Mr. Myer
 ----
 
 <audio>
-{{spoken:770710r1.vrn.mp3|Room Conversation with Mr. Myer — July 10, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770710r1.vrn.mp3|Room Conversation with Mr. Myer — July 10, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

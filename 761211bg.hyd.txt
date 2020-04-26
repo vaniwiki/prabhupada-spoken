@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.6
 ----
 
 <audio>
-{{spoken:761211bg.hyd.mp3|Bg 7.6 — December 11, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761211bg.hyd.mp3|Bg 7.6 — December 11, 1976, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

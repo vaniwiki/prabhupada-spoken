@@ -17,7 +17,7 @@ Title_hidden     : Lecture to Devotees
 ----
 
 <audio>
-{{spoken:760407le.vrn.mp3|Lecture to Devotees — April 7, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760407le.vrn.mp3|Lecture to Devotees — April 7, 1976, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

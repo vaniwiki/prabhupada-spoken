@@ -17,7 +17,7 @@ Title_hidden     : Conversation with M.P., Shri Sita Ram Singh
 ----
 
 <audio>
-{{spoken:770519r1.vrn.mp3|Conversation with M.P., Shri Sita Ram Singh — May 19, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770519r1.vrn.mp3|Conversation with M.P., Shri Sita Ram Singh — May 19, 1977, Vṛndāvana}}
 </audio>
 
 **Sita Ram Singh:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation Kavirāja from Calcutta Arrives
 ----
 
 <audio>
-{{spoken:771028r2.vrn.mp3|Room Conversation Kavirāja from Calcutta Arrives — October 28, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771028r2.vrn.mp3|Room Conversation Kavirāja from Calcutta Arrives — October 28, 1977, Vṛndāvana}}
 </audio>
 
 **Svarūpa Dāmodara:**

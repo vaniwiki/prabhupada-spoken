@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:771031r1.vrn.mp3|Room Conversation — October 31, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771031r1.vrn.mp3|Room Conversation — October 31, 1977, Vṛndāvana}}
 </audio>
 
 **Tamāla Kṛṣṇa:**

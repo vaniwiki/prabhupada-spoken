@@ -17,7 +17,7 @@ Title_hidden     : Conversations with Kīrtana Groups and Sannyāsa Initiation
 ----
 
 <audio>
-{{spoken:770529r2.vrn.mp3|Conversations with Kīrtana Groups and Sannyāsa Initiation — May 29, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770529r2.vrn.mp3|Conversations with Kīrtana Groups and Sannyāsa Initiation — May 29, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

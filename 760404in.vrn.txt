@@ -17,7 +17,7 @@ Title_hidden     : Initiation Talk [partially recorded]
 ----
 
 <audio>
-{{spoken:760404in.vrn.mp3|Initiation Talk [partially recorded] — April 4, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760404in.vrn.mp3|Initiation Talk [partially recorded] — April 4, 1976, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

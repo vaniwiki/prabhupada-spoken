@@ -17,7 +17,7 @@ Title_hidden     : Foundation Stone Ceremony Speech
 ----
 
 <audio>
-{{spoken:770202cm.bhu.mp3|Foundation Stone Ceremony Speech — February 2, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770202cm.bhu.mp3|Foundation Stone Ceremony Speech — February 2, 1977, Bhubaneswar}}
 </audio>
 
 **Prabhupāda:**

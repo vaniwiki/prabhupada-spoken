@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.9.23
 ----
 
 <audio>
-{{spoken:760301sb.may.mp3|SB 7.9.23 — March 1, 1976, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760301sb.may.mp3|SB 7.9.23 — March 1, 1976, Māyāpur}}
 </audio>
 
 **Dayānanda:**

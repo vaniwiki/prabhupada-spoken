@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam Dictation
 ----
 
 <audio>
-{{spoken:771025sb.vrn.mp3|SB Dictation — October 25, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771025sb.vrn.mp3|SB Dictation — October 25, 1977, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:761207mw.hyd.mp3|Morning Walk — December 7, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761207mw.hyd.mp3|Morning Walk — December 7, 1976, Hyderabad}}
 </audio>
 
 **Mahāṁśa:**

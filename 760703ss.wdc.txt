@@ -17,7 +17,7 @@ Title_hidden     : “Life Comes From Life” Slideshow Discussions
 ----
 
 <audio>
-{{spoken:760703ss.wdc.mp3|“Life Comes From Life” Slideshow Discussions — July 3, 1976, Washington, D.C.}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760703ss.wdc.mp3|“Life Comes From Life” Slideshow Discussions — July 3, 1976, Washington, D.C.}}
 </audio>
 
 **Prabhupāda:**

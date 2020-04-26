@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:770106r2.bom.mp3|Room Conversation — January 6, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770106r2.bom.mp3|Room Conversation — January 6, 1976, Bombay}}
 </audio>
 
 **Girirāja:**

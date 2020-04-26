@@ -17,7 +17,7 @@ Title_hidden     : Car Conversation
 ----
 
 <audio>
-{{spoken:770205cr.cal.mp3|Car Conversation — February 5, 1977, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770205cr.cal.mp3|Car Conversation — February 5, 1977, Calcutta}}
 </audio>
 
 **Jayapatākā:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation, Recent Mail
 ----
 
 <audio>
-{{spoken:770714r2.vrn.mp3|Room Conversation, Recent Mail — July 14, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770714r2.vrn.mp3|Room Conversation, Recent Mail — July 14, 1977, Vṛndāvana}}
 </audio>
 
 **Bhāgavatāśraya:**

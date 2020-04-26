@@ -17,7 +17,7 @@ Title_hidden     : Arrival Speech
 ----
 
 <audio>
-{{spoken:760621ar.nv.mp3|Arrival Speech — June 21, 1976, New Vrindavan}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760621ar.nv.mp3|Arrival Speech — June 21, 1976, New Vrindavan}}
 </audio>
 
 **Prabhupāda:**

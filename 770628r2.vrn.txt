@@ -17,7 +17,7 @@ Title_hidden     : Conversation
 ----
 
 <audio>
-{{spoken:770628r2.vrn.mp3|Conversation — June 28, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770628r2.vrn.mp3|Conversation — June 28, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

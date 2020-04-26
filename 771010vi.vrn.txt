@@ -17,7 +17,7 @@ Title_hidden     : Visit From Allopathic Doctor
 ----
 
 <audio>
-{{spoken:771010vi.vrn.mp3|Visit From Allopathic Doctor — October 10, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771010vi.vrn.mp3|Visit From Allopathic Doctor — October 10, 1977, Vṛndāvana}}
 </audio>
 
 **Doctor:**

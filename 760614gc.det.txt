@@ -17,7 +17,7 @@ Title_hidden     : Garden Conversation
 ----
 
 <audio>
-{{spoken:760614gc.det.mp3|Garden Conversation — June 14, 1976, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760614gc.det.mp3|Garden Conversation — June 14, 1976, Detroit}}
 </audio>
 
 **Mādhavānanda:**

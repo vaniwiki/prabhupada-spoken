@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Ratan Singh Rajda M.P. “Nationalism 
 ----
 
 <audio>
-{{spoken:770415r1.bom.mp3|Room Conversation with Ratan Singh Rajda M.P. “Nationalism and Cheating” — April 15, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770415r1.bom.mp3|Room Conversation with Ratan Singh Rajda M.P. “Nationalism and Cheating” — April 15, 1977, Bombay}}
 </audio>
 
 **Girirāja:**

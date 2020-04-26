@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.7.27
 ----
 
 <audio>
-{{spoken:760924sb.vrn.mp3|SB 1.7.27 — September 24, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760924sb.vrn.mp3|SB 1.7.27 — September 24, 1976, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

@@ -17,7 +17,7 @@ Title_hidden     : Lord Nityānanda Prabhu’s Āvirbhāva Appearance Day
 ----
 
 <audio>
-{{spoken:770202na.bhu.mp3|Lord Nityānanda Appearance Day — February 2, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770202na.bhu.mp3|Lord Nityānanda Appearance Day — February 2, 1977, Bhubaneswar}}
 </audio>
 
 **Prabhupāda:**

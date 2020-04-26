@@ -17,7 +17,7 @@ Title_hidden     : Conversation: Vairāgya, Salaries, and Political Etiquette
 ----
 
 <audio>
-{{spoken:770428r1.bom.mp3|Conversation: Vairāgya, Salaries, and Political Etiquette — April 28, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770428r1.bom.mp3|Conversation: Vairāgya, Salaries, and Political Etiquette — April 28, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

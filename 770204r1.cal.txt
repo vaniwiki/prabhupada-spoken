@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:770204r1.cal.mp3|Room Conversation — February 4, 1977, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770204r1.cal.mp3|Room Conversation — February 4, 1977, Calcutta}}
 </audio>
 
 **Prabhupāda:**

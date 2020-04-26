@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:770102mw.bom.mp3|Morning Walk — January 2, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770102mw.bom.mp3|Morning Walk — January 2, 1977, Bombay}}
 </audio>
 
 **Dr. Patel:**

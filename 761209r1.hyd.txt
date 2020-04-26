@@ -17,7 +17,7 @@ Title_hidden     : Preparation for Gītā Pratiṣṭhāna [Conference]
 ----
 
 <audio>
-{{spoken:761209r1.hyd.mp3|Preparation for Gītā Pratiṣṭhāna (Conference) — December 9, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761209r1.hyd.mp3|Preparation for Gītā Pratiṣṭhāna (Conference) — December 9, 1976, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

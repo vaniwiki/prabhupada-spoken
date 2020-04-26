@@ -17,7 +17,7 @@ Title_hidden     : Room Conversations
 ----
 
 <audio>
-{{spoken:770320r1.may.mp3|Room Conversations — March 20, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770320r1.may.mp3|Room Conversations — March 20, 1977, Māyāpur}}
 </audio>
 
 **Tamāla Kṛṣṇa:**

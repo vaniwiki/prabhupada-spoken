@@ -17,7 +17,7 @@ Title_hidden     : Morning Conversation
 ----
 
 <audio>
-{{spoken:770419r1.bom.mp3|Morning Conversation — April 19, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770419r1.bom.mp3|Morning Conversation — April 19, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

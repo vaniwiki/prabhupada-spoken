@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.15, Arrival Address
 ----
 
 <audio>
-{{spoken:760903bg.vrn.mp3|Bg 7.15, Arrival Address — September 3, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760903bg.vrn.mp3|Bg 7.15, Arrival Address — September 3, 1976, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

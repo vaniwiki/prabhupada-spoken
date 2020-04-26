@@ -17,7 +17,7 @@ Title_hidden     : Address to Rotary Club
 ----
 
 <audio>
-{{spoken:761017le.cha.mp3|Address to Rotary Club — October 17, 1976, Chandigarh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761017le.cha.mp3|Address to Rotary Club — October 17, 1976, Chandigarh}}
 </audio>
 
 **Prabhupāda:**

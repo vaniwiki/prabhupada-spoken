@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam Dictations 10.14.1
 ----
 
 <audio>
-{{spoken:771031sb.vrn.mp3|Śrīmad Bhagavatam Dictations 10.14.1 — October 31, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771031sb.vrn.mp3|Śrīmad Bhagavatam Dictations 10.14.1 — October 31, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Lecture
 ----
 
 <audio>
-{{spoken:770326le.bom.mp3|Lecture — March 26, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770326le.bom.mp3|Lecture — March 26, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

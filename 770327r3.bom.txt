@@ -19,7 +19,7 @@ Title_hidden     : Room Conversation with Ratan Singh Rajda [Member of Parliamen
 ----
 
 <audio>
-{{spoken:770327r3.bom.mp3|Room Conversation with Ratan Singh Rajda (Member of Parliament) — March 27, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770327r3.bom.mp3|Room Conversation with Ratan Singh Rajda (Member of Parliament) — March 27, 1977, Bombay}}
 </audio>
 
 **Girirāja:**

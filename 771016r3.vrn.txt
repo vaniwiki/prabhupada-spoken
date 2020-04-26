@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation With Baradrāj
 ----
 
 <audio>
-{{spoken:771016r3.vrn.mp3|Room Conversation With Baradrāj — October 16, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771016r3.vrn.mp3|Room Conversation With Baradrāj — October 16, 1977, Vṛndāvana}}
 </audio>
 
 **Baradrāj:**

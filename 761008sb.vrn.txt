@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.7.51–52
 ----
 
 <audio>
-{{spoken:761008sb.vrn.mp3|SB 1.7.51-52 — October 8, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761008sb.vrn.mp3|SB 1.7.51-52 — October 8, 1976, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

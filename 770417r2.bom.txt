@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Yadubara [after seeing film]
 ----
 
 <audio>
-{{spoken:770417r2.bom.mp3|Conversation with Yadubara (after seeing film) — April 17, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770417r2.bom.mp3|Conversation with Yadubara (after seeing film) — April 17, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

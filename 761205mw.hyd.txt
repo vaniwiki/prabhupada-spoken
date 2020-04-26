@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk [partially recorded]
 ----
 
 <audio>
-{{spoken:761205mw.hyd.mp3|Morning Walk [partially recorded] — December 5, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761205mw.hyd.mp3|Morning Walk [partially recorded] — December 5, 1976, Hyderabad}}
 </audio>
 
 [in car]

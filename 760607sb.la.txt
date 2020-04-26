@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.41
 ----
 
 <audio>
-{{spoken:760607sb.la.mp3|SB 6.1.41 — June 7, 1976, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760607sb.la.mp3|SB 6.1.41 — June 7, 1976, Los Angeles}}
 </audio>
 
 **Prabhupāda:**

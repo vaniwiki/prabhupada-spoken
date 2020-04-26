@@ -17,7 +17,7 @@ Title_hidden     : Arrival Speech
 ----
 
 <audio>
-{{spoken:760728ar.par.mp3|Arrival Speech — July 28, 1976, Paris}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760728ar.par.mp3|Arrival Speech — July 28, 1976, Paris}}
 </audio>
 
 [begins in car]

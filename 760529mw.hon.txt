@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:760529mw.hon.mp3|Morning Walk — May 29, 1976, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760529mw.hon.mp3|Morning Walk — May 29, 1976, Honolulu}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Conversation, “Rascal Editors,” and Morning Talk
 ----
 
 <audio>
-{{spoken:770622r1.vrn.mp3|Conversation, “Rascal Editors,” and Morning Talk — June 22, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770622r1.vrn.mp3|Conversation, “Rascal Editors,” and Morning Talk — June 22, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

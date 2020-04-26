@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:761026r1.vrn.mp3|Room Conversation — October 26, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761026r1.vrn.mp3|Room Conversation — October 26, 1976, Vṛndāvana}}
 </audio>
 
 **Pṛthu-putra:**

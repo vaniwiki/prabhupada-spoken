@@ -18,7 +18,7 @@ Title_hidden     : Morning Darśana and Room Conversation Ramkrishna Bajaj and f
 ----
 
 <audio>
-{{spoken:770109r1.bom.mp3|Morning Darśana with Ramkrishna Bajaj and friends — January 9, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770109r1.bom.mp3|Morning Darśana with Ramkrishna Bajaj and friends — January 9, 1977, Bombay}}
 </audio>
 
 **Girirāja:**

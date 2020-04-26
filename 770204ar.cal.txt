@@ -17,7 +17,7 @@ Title_hidden     : Arrival Lecture
 ----
 
 <audio>
-{{spoken:770204ar.cal.mp3|Arrival Lecture — February 4, 1977, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770204ar.cal.mp3|Arrival Lecture — February 4, 1977, Calcutta}}
 </audio>
 
 **Prabhupāda:**

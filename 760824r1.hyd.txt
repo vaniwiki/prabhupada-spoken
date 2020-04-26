@@ -17,7 +17,7 @@ Title_hidden     : Meeting with Mr. Raju, Endowments Commissioner
 ----
 
 <audio>
-{{spoken:760824r1.hyd.mp3|Meeting with Mr. Raju, Endowments Commissioner — August 24, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760824r1.hyd.mp3|Meeting with Mr. Raju, Endowments Commissioner — August 24, 1976, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

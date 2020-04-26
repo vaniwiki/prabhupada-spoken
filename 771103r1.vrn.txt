@@ -17,7 +17,7 @@ Title_hidden     : Prabhupāda Vigil
 ----
 
 <audio>
-{{spoken:771103r1.vrn.mp3|Prabhupāda Vigil — November 3, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771103r1.vrn.mp3|Prabhupāda Vigil — November 3, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:760616r1.det.mp3|Room Conversation — June 16, 1976, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760616r1.det.mp3|Room Conversation — June 16, 1976, Detroit}}
 </audio>
 
 [Several devotees conversing about doctors and hepatitis before Prabhupāda enters, offer obeisances]

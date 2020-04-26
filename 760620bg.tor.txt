@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 9.3
 ----
 
 <audio>
-{{spoken:760620bg.tor.mp3|Bg 9.3 — June 20, 1976, Toronto}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760620bg.tor.mp3|Bg 9.3 — June 20, 1976, Toronto}}
 </audio>
 
 **Pradyumna:**

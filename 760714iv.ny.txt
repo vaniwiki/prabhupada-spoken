@@ -17,7 +17,7 @@ Title_hidden     : Interview with Newsweek
 ----
 
 <audio>
-{{spoken:760714iv.ny.mp3|Interview with Newsweek — July 14, 1976, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760714iv.ny.mp3|Interview with Newsweek — July 14, 1976, New York}}
 </audio>
 
 **Rāmeśvara:**

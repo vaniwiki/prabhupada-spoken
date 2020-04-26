@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.113
 ----
 
 <audio>
-{{spoken:760723cc.lon.mp3|Cc. Madhya 20.113 — July 23, 1976, London}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760723cc.lon.mp3|Cc. Madhya 20.113 — July 23, 1976, London}}
 </audio>
 
 **Pradyumna:**

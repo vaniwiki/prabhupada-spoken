@@ -17,7 +17,7 @@ Title_hidden     : Evening Darśana, on night of arrival
 ----
 
 <audio>
-{{spoken:760816ar.hyd.mp3|Evening Darśana on night of arrival — August 16, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760816ar.hyd.mp3|Evening Darśana on night of arrival — August 16, 1976, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

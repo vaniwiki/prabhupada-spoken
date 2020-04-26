@@ -17,7 +17,7 @@ Title_hidden     : Conversation with disciples of Chinmayananda and Shivananda A
 ----
 
 <audio>
-{{spoken:770422r2.bom.mp3|Conversation with disciples of Chinmayananda and Shivananda Ashram — April 22, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770422r2.bom.mp3|Conversation with disciples of Chinmayananda and Shivananda Ashram — April 22, 1977, Bombay}}
 </audio>
 
 **Indian man (1):**

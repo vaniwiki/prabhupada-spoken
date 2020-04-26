@@ -17,7 +17,7 @@ Title_hidden     : Arrival of Devotees
 ----
 
 <audio>
-{{spoken:770224r1.may.mp3|Arrival of Devotees — February 24, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770224r1.may.mp3|Arrival of Devotees — February 24, 1977, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

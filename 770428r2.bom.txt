@@ -17,7 +17,7 @@ Title_hidden     : Conversation: Animals’ Expertise
 ----
 
 <audio>
-{{spoken:770428r2.bom.mp3|Conversation: Animals’ Expertise — April 28, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770428r2.bom.mp3|Conversation: Animals’ Expertise — April 28, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

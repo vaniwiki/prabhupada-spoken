@@ -17,7 +17,7 @@ Title_hidden     : Arrival Conversation
 ----
 
 <audio>
-{{spoken:761220ar.bom.mp3|Arrival Conversation — December 20, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761220ar.bom.mp3|Arrival Conversation — December 20, 1976, Bombay}}
 </audio>
 
 [//kīrtana// welcoming Prabhupāda at the Bombay Airport]

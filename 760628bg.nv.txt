@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 16.17–19, Garden Conversation
 ----
 
 <audio>
-{{spoken:760628bg.nv.mp3|Bg 16.17-19, Garden Conversation — June 28, 1976, New Vrindavan}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760628bg.nv.mp3|Bg 16.17-19, Garden Conversation — June 28, 1976, New Vrindavan}}
 </audio>
 
 **Prabhupāda:**

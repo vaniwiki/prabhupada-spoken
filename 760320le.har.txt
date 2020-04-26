@@ -17,7 +17,7 @@ Title_hidden     : Lecture [Bengali]
 ----
 
 <audio>
-{{spoken:760320le.har_bengali.mp3|Lecture [Bengali] — March 20, 1976, Haridaspur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760320le.har_bengali.mp3|Lecture [Bengali] — March 20, 1976, Haridaspur}}
 </audio>
 
 **Devotee:**

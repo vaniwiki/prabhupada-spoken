@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.5.23–24
 ----
 
 <audio>
-{{spoken:760331sb.vrn.mp3|SB 7.5.23-24 — March 31, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760331sb.vrn.mp3|SB 7.5.23-24 — March 31, 1976, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

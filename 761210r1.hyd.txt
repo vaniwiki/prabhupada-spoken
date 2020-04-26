@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation on Farm Management
 ----
 
 <audio>
-{{spoken:761210r1.hyd.mp3|Room Conversation on Farm Management — December 10, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761210r1.hyd.mp3|Room Conversation on Farm Management — December 10, 1976, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

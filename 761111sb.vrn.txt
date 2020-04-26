@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.24
 ----
 
 <audio>
-{{spoken:761111sb.vrn.mp3|SB 5.5.24 — November 11, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761111sb.vrn.mp3|SB 5.5.24 — November 11, 1976, Vṛndāvana}}
 </audio>
 
 **Pradyumna:**

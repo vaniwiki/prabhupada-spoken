@@ -17,7 +17,7 @@ Title_hidden     : Garden Conversation
 ----
 
 <audio>
-{{spoken:760622gc.nv.mp3|Garden Conversation — June 22, 1976, New Vrindavan}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760622gc.nv.mp3|Garden Conversation — June 22, 1976, New Vrindavan}}
 </audio>
 
 **Devotee (1):**

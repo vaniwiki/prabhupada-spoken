@@ -17,7 +17,7 @@ Title_hidden     : Discussions Will & Affidavit
 ----
 
 <audio>
-{{spoken:770602dc.vrn.mp3|Discussions Will & Affidavit — June 2, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770602dc.vrn.mp3|Discussions Will & Affidavit — June 2, 1977, Vṛndāvana}}
 </audio>
 
 **Svarūpa Dāmodara:**

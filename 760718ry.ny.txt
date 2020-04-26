@@ -17,7 +17,7 @@ Title_hidden     : Ratha-yātrā
 ----
 
 <audio>
-{{spoken:760718ry.ny.mp3|Ratha-yātrā Lecture — July 18, 1976, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760718ry.ny.mp3|Ratha-yātrā Lecture — July 18, 1976, New York}}
 </audio>
 
 **Prabhupāda:**

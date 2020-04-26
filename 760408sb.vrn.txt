@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.9.53
 ----
 
 <audio>
-{{spoken:760408sb.vrn.mp3|SB 7.9.53 — April 8, 1976, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760408sb.vrn.mp3|SB 7.9.53 — April 8, 1976, Vṛndāvana}}
 </audio>
 
 **Śāstrījī:**

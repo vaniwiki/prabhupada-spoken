@@ -17,7 +17,7 @@ Title_hidden     : Conversation [partially recorded]
 ----
 
 <audio>
-{{spoken:770204r2.cal.mp3|Conversation [partially recorded] — February 4, 1977, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770204r2.cal.mp3|Conversation [partially recorded] — February 4, 1977, Calcutta}}
 </audio>
 
 **Prabhupāda:**

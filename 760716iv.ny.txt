@@ -17,7 +17,7 @@ Title_hidden     : Interview with George Orwell Religious Editor of the Associat
 ----
 
 <audio>
-{{spoken:760716iv.ny.mp3|Interview with Religious Editor of the Associated Press — July 16, 1976, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760716iv.ny.mp3|Interview with Religious Editor of the Associated Press — July 16, 1976, New York}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:770228r3.may.mp3|Room Conversation — February 28, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770228r3.may.mp3|Room Conversation — February 28, 1977, Māyāpur}}
 </audio>
 
 **Hari-śauri:**

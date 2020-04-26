@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Sannyāsīs
 ----
 
 <audio>
-{{spoken:770122r2.bhu.mp3|Room Conversation with Sannyāsīs — January 22, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770122r2.bhu.mp3|Room Conversation with Sannyāsīs — January 22, 1977, Bhubaneswar}}
 </audio>
 
 **Prabhupāda:**

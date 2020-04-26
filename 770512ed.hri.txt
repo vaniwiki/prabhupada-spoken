@@ -17,7 +17,7 @@ Title_hidden     : Evening Darśana
 ----
 
 <audio>
-{{spoken:770512ed.hri.mp3|Evening Darśana — May 12, 1977, Rishikesh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770512ed.hri.mp3|Evening Darśana — May 12, 1977, Rishikesh}}
 </audio>
 
 **Prabhupāda:**

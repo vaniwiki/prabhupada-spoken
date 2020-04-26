@@ -17,7 +17,7 @@ Title_hidden     : Talk at Rādhā-Govinda Mandir
 ----
 
 <audio>
-{{spoken:760324r1.cal.mp3|Talk at Rādhā-Govinda Mandir — March 24, 1976, Calcutta}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760324r1.cal.mp3|Talk at Rādhā-Govinda Mandir — March 24, 1976, Calcutta}}
 </audio>
 
 **Prabhupāda:**

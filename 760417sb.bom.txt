@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.12.6
 ----
 
 <audio>
-{{spoken:760417sb.bom.mp3|SB 7.12.6 — April 17, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760417sb.bom.mp3|SB 7.12.6 — April 17, 1976, Bombay}}
 </audio>
 
 **Pradyumna:**

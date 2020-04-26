@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Rādhā-vallabha
 ----
 
 <audio>
-{{spoken:761220r1.bom.mp3|Conversation with Rādhā-vallabha dāsa — December 20, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761220r1.bom.mp3|Conversation with Rādhā-vallabha dāsa — December 20, 1976, Bombay}}
 </audio>
 
 **Rādhā-vallabha:**

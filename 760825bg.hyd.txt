@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 1.1 [Hindi]
 ----
 
 <audio>
-{{spoken:760825bg.hyd_hindi.mp3|Bg 1.1 [Hindi] — August 25, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760825bg.hyd_hindi.mp3|Bg 1.1 [Hindi] — August 25, 1976, Hyderabad}}
 </audio>
 
 **Harikeśa:**

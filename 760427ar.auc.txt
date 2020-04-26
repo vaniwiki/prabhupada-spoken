@@ -17,7 +17,7 @@ Title_hidden     : Arrival Address
 ----
 
 <audio>
-{{spoken:760427ar.auc.mp3|Arrival Address — April 27, 1976, Auckland}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760427ar.auc.mp3|Arrival Address — April 27, 1976, Auckland}}
 </audio>
 
 **Prabhupāda:**

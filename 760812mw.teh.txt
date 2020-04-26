@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:760812mw.teh.mp3|Morning Walk — August 12, 1976, Tehran}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760812mw.teh.mp3|Morning Walk — August 12, 1976, Tehran}}
 </audio>
 
 **Prabhupāda:**

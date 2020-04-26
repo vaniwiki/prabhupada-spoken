@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with George Gullen, President of Wayne Stat
 ----
 
 <audio>
-{{spoken:760615r1.det.mp3|Room Conversation with George Gullen, President of Wayne State University — June 15, 1976, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760615r1.det.mp3|Room Conversation with George Gullen, President of Wayne State University — June 15, 1976, Detroit}}
 </audio>
 
 **George Gullen:**

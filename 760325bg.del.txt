@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 2.11 Rotary Club Address at Hotel Imperial
 ----
 
 <audio>
-{{spoken:760325bg.del.mp3|Bg 2.11, Rotary Club Address at Hotel Imperial — March 25, 1976, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760325bg.del.mp3|Bg 2.11, Rotary Club Address at Hotel Imperial — March 25, 1976, Delhi}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.16
 ----
 
 <audio>
-{{spoken:760516sb.hon.mp3|SB 6.1.16 — May 16, 1976, Honolulu}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760516sb.hon.mp3|SB 6.1.16 — May 16, 1976, Honolulu}}
 </audio>
 
 **Prabhupāda:**

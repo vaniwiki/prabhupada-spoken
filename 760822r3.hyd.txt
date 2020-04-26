@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Seven Ministers of Andhra Pradesh
 ----
 
 <audio>
-{{spoken:760822r3.hyd.mp3|Conversation with Seven Ministers of Andhra Pradesh — August 22, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760822r3.hyd.mp3|Conversation with Seven Ministers of Andhra Pradesh — August 22, 1976, Hyderabad}}
 </audio>
 
 [Ministers for Endowments, Social Services, Revenue, Public Works Department, Minor Irrigation, Rehabilitation and Fisheries] [Hindi]

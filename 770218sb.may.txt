@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.9.4
 ----
 
 <audio>
-{{spoken:770218sb.may.mp3|SB 7.9.4 — February 18, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770218sb.may.mp3|SB 7.9.4 — February 18, 1977, Māyāpur}}
 </audio>
 
 **Pradyumna:** Translation: "Nārada Muni continued: O King, although the exalted devotee Prahlāda Mahārāja was only a little boy, he accepted Lord Brahmā's words. He gradually proceeded toward Lord Nṛsiṁha-deva and fell down to offer his respectful obeisances with folded hands."

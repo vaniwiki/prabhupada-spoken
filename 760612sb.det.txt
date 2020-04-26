@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.46
 ----
 
 <audio>
-{{spoken:760612sb.det.mp3|SB 6.1.46 — June 12, 1976, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760612sb.det.mp3|SB 6.1.46 — June 12, 1976, Detroit}}
 </audio>
 
 **Pradyumna:** Translation: "O best of the demigods, we can see three different varieties of life, which are due to the contamination of the three modes of nature. The living entities are thus known as peaceful, restless and foolish; as happy, unhappy or in-between; or as religious, irreligious and semireligious. We can deduce that in the next life these three kinds of material nature will similarly act."

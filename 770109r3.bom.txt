@@ -17,7 +17,7 @@ Title_hidden     : Discussion on Deprogrammers
 ----
 
 <audio>
-{{spoken:770109r3.bom.mp3|Discussion on Deprogrammers — January 9, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770109r3.bom.mp3|Discussion on Deprogrammers — January 9, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

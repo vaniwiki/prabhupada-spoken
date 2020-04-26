@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk [partially recorded]
 ----
 
 <audio>
-{{spoken:770130mw.bhu.mp3|Morning Walk [partially recorded] — January 30, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770130mw.bhu.mp3|Morning Walk [partially recorded] — January 30, 1977, Bhubaneswar}}
 </audio>
 
 **Indian man:**

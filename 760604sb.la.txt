@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 6.1.38
 ----
 
 <audio>
-{{spoken:760604sb.la.mp3|SB 6.1.38 — June 4, 1976, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760604sb.la.mp3|SB 6.1.38 — June 4, 1976, Los Angeles}}
 </audio>
 
 [Prabhupāda sings //Jaya rādhā-mādhava,// then chants //prema-dhvani//] [break]

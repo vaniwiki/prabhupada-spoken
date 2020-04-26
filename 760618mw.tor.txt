@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:760618mw.tor.mp3|Morning Walk — June 18, 1976, Toronto}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760618mw.tor.mp3|Morning Walk — June 18, 1976, Toronto}}
 </audio>
 
 **Viśvakarmā:**

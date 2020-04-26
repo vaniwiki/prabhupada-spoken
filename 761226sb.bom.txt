@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.2 [Hindi]
 ----
 
 <audio>
-{{spoken:761226sb.bom_hindi.mp3|SB 5.5.2 [Hindi] — December 25, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761226sb.bom_hindi.mp3|SB 5.5.2 [Hindi] — December 25, 1976, Bombay}}
 </audio>
 
 **Prabhupāda:**

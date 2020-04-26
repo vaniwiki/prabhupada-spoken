@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.100
 ----
 
 <audio>
-{{spoken:760705cc.wdc.mp3|Cc. Madhya 20.100 — July 5, 1976, Washington, D.C.}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760705cc.wdc.mp3|Cc. Madhya 20.100 — July 5, 1976, Washington, D.C.}}
 </audio>
 
 **Pradyumna:**

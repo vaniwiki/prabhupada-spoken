@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 4.24
 ----
 
 <audio>
-{{spoken:760804bg.nmr.mp3|Bg 4.24 — August 4, 1976, New Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760804bg.nmr.mp3|Bg 4.24 — August 4, 1976, New Māyāpur}}
 </audio>
 
 [class is held outside, in garden]

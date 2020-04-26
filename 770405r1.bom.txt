@@ -17,7 +17,7 @@ Title_hidden     : Morning Talk
 ----
 
 <audio>
-{{spoken:770405r1.bom.mp3|Morning Talk — April 5, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770405r1.bom.mp3|Morning Talk — April 5, 1977, Bombay}}
 </audio>
 
 **Indian doctor:**

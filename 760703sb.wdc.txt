@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.6.20–23
 ----
 
 <audio>
-{{spoken:760703sb.wdc.mp3|SB 7.6.20-23 — July 3, 1976, Washington D.C.}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760703sb.wdc.mp3|SB 7.6.20-23 — July 3, 1976, Washington D.C.}}
 </audio>
 
 **Pradyumna:**

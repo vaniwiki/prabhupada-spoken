@@ -17,7 +17,7 @@ Title_hidden     : Room and Car Conversation with Life Member, Mr. Malhotra
 ----
 
 <audio>
-{{spoken:761222r1.poo.mp3|Room and Car Conversation with Life Member, Mr. Malhotra — December 22, 1976, Poona}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761222r1.poo.mp3|Room and Car Conversation with Life Member, Mr. Malhotra — December 22, 1976, Poona}}
 </audio>
 
 **Prabhupāda:**

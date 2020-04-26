@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:760123mw.may.mp3|Morning Walk — January 23, 1976, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760123mw.may.mp3|Morning Walk — January 23, 1976, Māyāpur}}
 </audio>
 
 **Tamāla Kṛṣṇa:**

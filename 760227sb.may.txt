@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.9.20
 ----
 
 <audio>
-{{spoken:760227sb.may.mp3|SB 7.9.20 — February 27, 1976, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760227sb.may.mp3|SB 7.9.20 — February 27, 1976, Māyāpur}}
 </audio>
 
 **Śāstrījī:**

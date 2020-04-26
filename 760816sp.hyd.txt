@@ -17,7 +17,7 @@ Title_hidden     : Speech at Fire Yajña with South Indian Brāhmaṇas [partial
 ----
 
 <audio>
-{{spoken:760816sp.hyd.mp3|Speech at Fire Yajña with South Indian Brāhmaṇas [partially recorded] — August 16, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760816sp.hyd.mp3|Speech at Fire Yajña with South Indian Brāhmaṇas [partially recorded] — August 16, 1976, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

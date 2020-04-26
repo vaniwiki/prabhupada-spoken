@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation Visit from Dr. G. Ghosh and Dr. Gopal
 ----
 
 <audio>
-{{spoken:771017r1.vrn.mp3|Room Conversation Visit from Dr. G. Ghosh and Dr. Gopal — October 17, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771017r1.vrn.mp3|Room Conversation Visit from Dr. G. Ghosh and Dr. Gopal — October 17, 1977, Vṛndāvana}}
 </audio>
 
 **Dr. Ghosh:**

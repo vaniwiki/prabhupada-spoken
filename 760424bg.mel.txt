@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 9.5
 ----
 
 <audio>
-{{spoken:760424bg.mel.mp3|Bg 9.5 — April 24, 1976, Melbourne}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760424bg.mel.mp3|Bg 9.5 — April 24, 1976, Melbourne}}
 </audio>
 
 **Devotees:**

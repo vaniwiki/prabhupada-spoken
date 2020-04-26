@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1 [Hindi]
 ----
 
 <audio>
-{{spoken:761015bg.cha_hindi.mp3|Bg 7.1 [Hindi] — October 15, 1976, Chandigarh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761015bg.cha_hindi.mp3|Bg 7.1 [Hindi] — October 15, 1976, Chandigarh}}
 </audio>
 
 **Praduymna: **Translation: "Now hear, O son of Pṛthā [Arjuna], how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt."

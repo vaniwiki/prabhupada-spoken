@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with GBC members
 ----
 
 <audio>
-{{spoken:770304r1.may|Room Conversation with GBC members — March 2-3, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770304r1.may|Room Conversation with GBC members — March 2-3, 1977, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

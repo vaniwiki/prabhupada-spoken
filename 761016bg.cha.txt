@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 9.3 [Hindi]
 ----
 
 <audio>
-{{spoken:761016bg.cha_hindi.mp3|Bg 9.3 [Hindi] — October 6, 1976, Chandigarh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761016bg.cha_hindi.mp3|Bg 9.3 [Hindi] — October 6, 1976, Chandigarh}}
 </audio>
 
 **Pradyumna:**

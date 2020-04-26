@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Scientists, Svarūpa Dāmodara and Dr.
 ----
 
 <audio>
-{{spoken:770331r3.bom.mp3|Room Conversation with Scientists, Svarūpa Dāmodara and Dr. Sharma — March 31, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770331r3.bom.mp3|Room Conversation with Scientists, Svarūpa Dāmodara and Dr. Sharma — March 31, 1977, Bombay}}
 </audio>
 
 **Prabhupāda:**

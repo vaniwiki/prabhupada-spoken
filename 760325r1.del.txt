@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Newspaper Reporters
 ----
 
 <audio>
-{{spoken:760325r1.del.mp3|Conversation with Newspaper Reporters — March 25, 1976, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760325r1.del.mp3|Conversation with Newspaper Reporters — March 25, 1976, Delhi}}
 </audio>
 
 **Prabhupāda:**

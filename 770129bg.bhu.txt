@@ -17,7 +17,7 @@ Title_hidden     : Bhagavad-gītā 7.1
 ----
 
 <audio>
-{{spoken:770129bg.bhu.mp3|Bg 7.1 — January 29, 1977, Bhubaneswar }}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770129bg.bhu.mp3|Bg 7.1 — January 29, 1977, Bhubaneswar }}
 </audio>
 
 **Prabhupāda:**

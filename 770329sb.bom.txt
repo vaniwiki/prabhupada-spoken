@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 5.5.3–4
 ----
 
 <audio>
-{{spoken:770329sb.bom.mp3|SB 5.5.3-4 — March 29, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770329sb.bom.mp3|SB 5.5.3-4 — March 29, 1977, Bombay}}
 </audio>
 
 **Girirāja:**

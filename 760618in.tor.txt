@@ -17,7 +17,7 @@ Title_hidden     : Initiation Lecture
 ----
 
 <audio>
-{{spoken:760618in.tor.mp3|Initiation Lecture — June 18, 1976, Toronto}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760618in.tor.mp3|Initiation Lecture — June 18, 1976, Toronto}}
 </audio>
 
 **Prabhupāda:**

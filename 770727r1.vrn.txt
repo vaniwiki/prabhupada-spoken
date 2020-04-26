@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:770727r1.vrn|Room Conversation — July 27-28, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770727r1.vrn|Room Conversation — July 27-28, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

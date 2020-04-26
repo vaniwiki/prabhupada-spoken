@@ -17,7 +17,7 @@ Title_hidden     : Arrival Lecture
 ----
 
 <audio>
-{{spoken:770207ar.may.mp3|Arrival Lecture — February 7, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770207ar.may.mp3|Arrival Lecture — February 7, 1977, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

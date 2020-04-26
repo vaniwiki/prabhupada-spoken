@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:770326r2.bom.mp3|Room Conversation — March 26, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770326r2.bom.mp3|Room Conversation — March 26, 1977, Bombay}}
 </audio>
 
 **Hari-śauri:**

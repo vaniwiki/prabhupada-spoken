@@ -17,7 +17,7 @@ Title_hidden     : Arrival Conversation in Car and at Temple
 ----
 
 <audio>
-{{spoken:760813ar.bom.mp3|Arrival Conversation in Car and at Temple — August 13, 1976, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760813ar.bom.mp3|Arrival Conversation in Car and at Temple — August 13, 1976, Bombay}}
 </audio>
 
 **Gopāla Kṛṣṇa:**

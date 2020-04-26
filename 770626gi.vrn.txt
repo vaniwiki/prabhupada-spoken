@@ -17,7 +17,7 @@ Title_hidden     : Gurukula Inspection
 ----
 
 <audio>
-{{spoken:770626gi.vrn.mp3|Gurukula Inspection — June 26, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770626gi.vrn.mp3|Gurukula Inspection — June 26, 1977, Vṛndāvana}}
 </audio>
 
 **Bhagatjī:**

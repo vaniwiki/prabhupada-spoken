@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:770120r1.bhu.mp3|Room Conversation — January 20, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770120r1.bhu.mp3|Room Conversation — January 20, 1977, Bhubaneswar}}
 </audio>
 
 [someone preaching in temple in Oriya over loudspeaker in background]

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:761216r1.hyd.mp3|Room Conversation — December 16, 1976, Hyderabad}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761216r1.hyd.mp3|Room Conversation — December 16, 1976, Hyderabad}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:760104mw.nel.mp3|Morning Walk — January 4, 1976, Nellore}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760104mw.nel.mp3|Morning Walk — January 4, 1976, Nellore}}
 </audio>
 
 **Keśavalāl Trivedi:**

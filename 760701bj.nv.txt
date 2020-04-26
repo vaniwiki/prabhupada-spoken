@@ -17,7 +17,7 @@ Title_hidden     : Answers to a Questionnaire from Bhavan’s Journal, Questions
 ----
 
 <audio>
-{{spoken:760701bj.nv.mp3|Bhavan’s Journal, Answers to a Questionnaire 3 — July 1, 1976, New Vrindavan}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760701bj.nv.mp3|Bhavan’s Journal, Answers to a Questionnaire 3 — July 1, 1976, New Vrindavan}}
 </audio>
 
 **Puṣṭa Kṛṣṇa:**

@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:770125mw.pur.mp3|Morning Walk — January 25, 1977, Jagannātha Purī}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770125mw.pur.mp3|Morning Walk — January 25, 1977, Jagannātha Purī}}
 </audio>
 
 **Prabhupāda:**

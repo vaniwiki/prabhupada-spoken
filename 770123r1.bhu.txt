@@ -17,7 +17,7 @@ Title_hidden     : Conversation During Massage
 ----
 
 <audio>
-{{spoken:770123r1.bhu.mp3|Conversation During Massage — January 23, 1977, Bhubaneswar}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770123r1.bhu.mp3|Conversation During Massage — January 23, 1977, Bhubaneswar}}
 </audio>
 
 **Gargamuni:**

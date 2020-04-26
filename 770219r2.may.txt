@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Ādi-keśava Swami
 ----
 
 <audio>
-{{spoken:770219r2.may.mp3|Room Conversation with Ādi-keśava Swami — February 19, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770219r2.may.mp3|Room Conversation with Ādi-keśava Swami — February 19, 1977, Māyāpur}}
 </audio>
 
 **Ādi-keśava:**

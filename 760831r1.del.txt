@@ -17,7 +17,7 @@ Title_hidden     : Meeting with Mr. Krishna Modi, Member of Parliament
 ----
 
 <audio>
-{{spoken:760831r1.del.mp3|Meeting with Mr. Krishna Modi, Member of Parliament — August 31, 1976, Delhi}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760831r1.del.mp3|Meeting with Mr. Krishna Modi, Member of Parliament — August 31, 1976, Delhi}}
 </audio>
 
 [Hindi conversation]

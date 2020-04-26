@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:760503mw.fij.mp3|Morning Walk — May 3, 1976, Fiji}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760503mw.fij.mp3|Morning Walk — May 3, 1976, Fiji}}
 </audio>
 
 **Prabhupāda:**

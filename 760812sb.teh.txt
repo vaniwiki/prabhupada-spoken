@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 3.22.22 and Initiations
 ----
 
 <audio>
-{{spoken:760812sb.teh.mp3|SB 3.22.22 and Initiations — August 12, 1976, Tehran}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760812sb.teh.mp3|SB 3.22.22 and Initiations — August 12, 1976, Tehran}}
 </audio>
 
 **Prabhupāda:**

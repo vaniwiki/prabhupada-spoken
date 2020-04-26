@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.9.7
 ----
 
 <audio>
-{{spoken:770227sb.may.mp3|SB 7.9.7 — February 27, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770227sb.may.mp3|SB 7.9.7 — February 27, 1977, Māyāpur}}
 </audio>
 
 **Prabhupāda:**

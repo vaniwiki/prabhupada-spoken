@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:760610mw.la.mp3|Morning Walk — June 10, 1976, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760610mw.la.mp3|Morning Walk — June 10, 1976, Los Angeles}}
 </audio>
 
 [morning walk is a drive in car, due to rain]

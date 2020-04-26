@@ -17,7 +17,7 @@ Title_hidden     : Morning Walk
 ----
 
 <audio>
-{{spoken:761014mw.cha.mp3|Morning Walk — October 14, 1976, Chandigarh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761014mw.cha.mp3|Morning Walk — October 14, 1976, Chandigarh}}
 </audio>
 
 **Prabhupāda:**

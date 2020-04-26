@@ -17,7 +17,7 @@ Title_hidden     : Initiations
 ----
 
 <audio>
-{{spoken:760615in.det.mp3|Initiations — June 15, 1976, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760615in.det.mp3|Initiations — June 15, 1976, Detroit}}
 </audio>
 
 **Prabhupāda:**

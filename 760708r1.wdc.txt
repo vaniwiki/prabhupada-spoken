@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Dr. Sharma
 ----
 
 <audio>
-{{spoken:760708r1.wdc.mp3|Room Conversation with Dr. Sharma — July 8, 1976, Washington, D.C.}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760708r1.wdc.mp3|Room Conversation with Dr. Sharma — July 8, 1976, Washington, D.C.}}
 </audio>
 
 **Prabhupāda:**

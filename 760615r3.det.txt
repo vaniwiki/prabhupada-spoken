@@ -17,7 +17,7 @@ Title_hidden     : Conversation with Clergymen
 ----
 
 <audio>
-{{spoken:760615r3.det.mp3|Conversation with Clergymen — June 15, 1976, Detroit}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760615r3.det.mp3|Conversation with Clergymen — June 15, 1976, Detroit}}
 </audio>
 
 **Jayādvaita:**

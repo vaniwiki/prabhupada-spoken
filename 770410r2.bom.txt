@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation about Harijanas
 ----
 
 <audio>
-{{spoken:770410r2.bom.mp3|Room Conversation about Harijanas — April 10, 1977, Bombay}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770410r2.bom.mp3|Room Conversation about Harijanas — April 10, 1977, Bombay}}
 </audio>
 
 **Bhakti-caru:**

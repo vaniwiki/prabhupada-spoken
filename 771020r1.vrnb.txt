@@ -17,7 +17,7 @@ Title_hidden     : Doctor Visit and Conversation
 ----
 
 <audio>
-{{spoken:771020r1.vrn.mp3|Doctor Visit and Conversation — October 20, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771020r1.vrn.mp3|Doctor Visit and Conversation — October 20, 1977, Vṛndāvana}}
 </audio>
 
 **Dr. Gopal:**

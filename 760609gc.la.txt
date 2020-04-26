@@ -17,7 +17,7 @@ Title_hidden     : Garden Conversation
 ----
 
 <audio>
-{{spoken:760609gc.la.mp3|Garden Conversation — June 9, 1976, Los Angeles}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760609gc.la.mp3|Garden Conversation — June 9, 1976, Los Angeles}}
 </audio>
 
 **Nalinīkaṇṭha:**

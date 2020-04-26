@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation With Madhudviṣa and others
 ----
 
 <audio>
-{{spoken:770817r1.vrn.mp3|Room Conversation with Madhudviṣa and others — August 17, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770817r1.vrn.mp3|Room Conversation with Madhudviṣa and others — August 17, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:760809r1.teh.mp3|Room Conversation — August 9, 1976, Tehran}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760809r1.teh.mp3|Room Conversation — August 9, 1976, Tehran}}
 </audio>
 
 **Prabhupāda:**

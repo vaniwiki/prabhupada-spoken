@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation with Jaidayal Dalmia
 ----
 
 <audio>
-{{spoken:771102r4.vrn.mp3|Room Conversation with Jaidayal Dalmia — November 2, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771102r4.vrn.mp3|Room Conversation with Jaidayal Dalmia — November 2, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:771013r1.vrn.mp3|Room Conversation — October 13, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771013r1.vrn.mp3|Room Conversation — October 13, 1977, Vṛndāvana}}
 </audio>
 
 [visit with Prabhupāda's Godbrothers, Bengali]

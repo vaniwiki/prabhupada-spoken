@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 7.9.5
 ----
 
 <audio>
-{{spoken:770225sb.may.mp3|SB 7.9.5 — February 25, 1977, Māyāpur}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770225sb.may.mp3|SB 7.9.5 — February 25, 1977, Māyāpur}}
 </audio>
 
 **Pradyumna:** Translation: "When Lord Nṛsiṁha-deva saw the small boy Prahlāda Mahārāja prostrated at the soles of His lotus feet, He became most ecstatic in affection toward His devotee. Raising Prahlāda, the Lord placed His lotus hand upon the boy's head because His hand is always ready to create fearlessness in all of His devotees."

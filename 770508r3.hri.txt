@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation
 ----
 
 <audio>
-{{spoken:770508r3.hri.mp3|Room Conversation — May 8, 1977, Rishikesh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770508r3.hri.mp3|Room Conversation — May 8, 1977, Rishikesh}}
 </audio>
 
 **Prabhupāda:**

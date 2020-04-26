@@ -17,7 +17,7 @@ Title_hidden     : Arrival Comments in Car to Temple
 ----
 
 <audio>
-{{spoken:760709ar.ny.mp3|Arrival Comments in Car to Temple — July 9, 1976, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760709ar.ny.mp3|Arrival Comments in Car to Temple — July 9, 1976, New York}}
 </audio>
 
 **Tamāla Kṛṣṇa:**

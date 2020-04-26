@@ -17,7 +17,7 @@ Title_hidden     : Interview with Mike Darby, from Wheeling Intelligencer
 ----
 
 <audio>
-{{spoken:760630iv.whe.mp3|Interview with Mike Darby, Wheeling Intelligencer — June 30, 1976, Wheeling, W. Virginia}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760630iv.whe.mp3|Interview with Mike Darby, Wheeling Intelligencer — June 30, 1976, Wheeling, W. Virginia}}
 </audio>
 
 [Mike Darby was a long-time admirer of Prabhupāda and was well-informed about Kṛṣṇa consciousness]

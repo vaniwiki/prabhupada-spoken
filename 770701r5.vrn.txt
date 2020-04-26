@@ -17,7 +17,7 @@ Title_hidden     : Conversation about Old Days in Calcutta
 ----
 
 <audio>
-{{spoken:770701r5.vrn.mp3|Conversation about Old Days in Calcutta — July 1, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770701r5.vrn.mp3|Conversation about Old Days in Calcutta — July 1, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

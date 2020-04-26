@@ -17,7 +17,7 @@ Title_hidden     : Room Conversation Kavirāja Visit
 ----
 
 <audio>
-{{spoken:771102r8.vrn.mp3|Room Conversation Kavirāja Visit — November 2, 1977, Vṛndāvana}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771102r8.vrn.mp3|Room Conversation Kavirāja Visit — November 2, 1977, Vṛndāvana}}
 </audio>
 
 **Prabhupāda:**

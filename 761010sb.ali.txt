@@ -17,7 +17,7 @@ Title_hidden     : Śrīmad-Bhāgavatam 1.2.6 [Hindi]
 ----
 
 <audio>
-{{spoken:761010sb.ali_hindi.mp3|SB 1.2.6 [Hindi] — October 10, 1976, Aligarh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761010sb.ali_hindi.mp3|SB 1.2.6 [Hindi] — October 10, 1976, Aligarh}}
 </audio>
 
 **Prabhupāda:**

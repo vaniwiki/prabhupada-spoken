@@ -17,7 +17,7 @@ Title_hidden     : Evening Conversation
 ----
 
 <audio>
-{{spoken:760808r1.teh.mp3|Evening Conversation — August 8, 1976, Tehran}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760808r1.teh.mp3|Evening Conversation — August 8, 1976, Tehran}}
 </audio>
 
 **Ātreya Ṛṣi:**

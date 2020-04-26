@@ -17,7 +17,7 @@ Title_hidden     : Arrival Talk at House of Surendra Kumar Saigal
 ----
 
 <audio>
-{{spoken:761009ar.ali.mp3|Arrival Talk — October 9, 1976, Aligarh}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761009ar.ali.mp3|Arrival Talk — October 9, 1976, Aligarh}}
 </audio>
 
 **Prabhupāda:**

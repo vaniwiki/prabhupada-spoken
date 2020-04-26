@@ -17,7 +17,7 @@ Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.104
 ----
 
 <audio>
-{{spoken:760710cc.ny.mp3|Cc. Madhya 20.104 — July 10, 1976, New York}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760710cc.ny.mp3|Cc. Madhya 20.104 — July 10, 1976, New York}}
 </audio>
 
 **Pradyumna:**

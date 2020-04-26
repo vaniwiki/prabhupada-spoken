@@ -17,7 +17,7 @@ Title_hidden     : Conversation on Train to Allahabad
 ----
 
 <audio>
-{{spoken:770111tt.ida.mp3|Conversation on Train to Allahabad — January 11, 1977, India}}
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770111tt.ida.mp3|Conversation on Train to Allahabad — January 11, 1977, India}}
 </audio>
 
 **Rāmeśvara:**
