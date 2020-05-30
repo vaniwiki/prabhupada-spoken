@@ -4,7 +4,7 @@
 
 ---- dataentry spoken ----
 id_hidden        : 760706cc.wdc
-listtype_hidden  : CC Madhya 20.101
+listtype_hidden  : Cc. Madhya 20.101
 listdate_hidden  : 1976-07-06
 showdate_hidden  : 2020-07-06
 listplace_hidden : Washington, D.C.
