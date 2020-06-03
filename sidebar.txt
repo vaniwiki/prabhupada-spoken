@@ -1,2 +1,0 @@
-~~NOCACHE~~
-<minimap showHeader="false" namespace="/">
