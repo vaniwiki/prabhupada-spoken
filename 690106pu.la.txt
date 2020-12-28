@@ -6,7 +6,7 @@
 id_hidden        : 690106pu.la
 listtype_hidden  : Gaurāṇgera Duṭi Pada
 listdate_hidden  : 1969-01-06
-showdate_hidden  : 2020-01-06
+showdate_hidden  : 2021-01-06
 listplace_hidden : Los Angeles
 Type_spoken      : Song Purport
 Date_spoken      : January 6

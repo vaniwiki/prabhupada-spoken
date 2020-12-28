@@ -6,7 +6,7 @@
 id_hidden        : 740530ar.gen
 listtype_hidden  : Śrīla Prabhupāda Welcomed by Governor at Hotel de Ville
 listdate_hidden  : 1974-05-30
-showdate_hidden  : 2020-05-30
+showdate_hidden  : 2021-05-30
 listplace_hidden : Geneva
 Type_spoken      : Lecture
 Date_spoken      : May 30

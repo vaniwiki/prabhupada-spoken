@@ -6,7 +6,7 @@
 id_hidden        : 721122bg.hyd
 listtype_hidden  : Bg 2.17
 listdate_hidden  : 1972-11-22
-showdate_hidden  : 2020-11-22
+showdate_hidden  : 2021-11-22
 listplace_hidden : Hyderabad
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : November 22

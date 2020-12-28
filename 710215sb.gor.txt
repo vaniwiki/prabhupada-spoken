@@ -6,7 +6,7 @@
 id_hidden        : 710215sb.gor
 listtype_hidden  : Disappearance, SB 6.3.24
 listdate_hidden  : 1971-02-15
-showdate_hidden  : 2020-02-15
+showdate_hidden  : 2021-02-15
 listplace_hidden : Gorakhpur
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : February 15

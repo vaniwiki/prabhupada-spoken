@@ -6,7 +6,7 @@
 id_hidden        : 660328bg.ny
 listtype_hidden  : Bg 2.46–47
 listdate_hidden  : 1966-03-28
-showdate_hidden  : 2020-03-28
+showdate_hidden  : 2021-03-28
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : March 28

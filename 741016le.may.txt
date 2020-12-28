@@ -6,7 +6,7 @@
 id_hidden        : 741016le.may
 listtype_hidden  : Lecture [Bengali]
 listdate_hidden  : 1974-10-16
-showdate_hidden  : 2020-10-16
+showdate_hidden  : 2021-10-16
 listplace_hidden : Māyāpur
 Type_spoken      : Bengali
 Date_spoken      : October 16

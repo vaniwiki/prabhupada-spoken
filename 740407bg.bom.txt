@@ -6,7 +6,7 @@
 id_hidden        : 740407bg.bom
 listtype_hidden  : Bg 4.18
 listdate_hidden  : 1974-04-07
-showdate_hidden  : 2020-04-07
+showdate_hidden  : 2021-04-07
 listplace_hidden : Bombay
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : April 7

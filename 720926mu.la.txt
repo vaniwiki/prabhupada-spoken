@@ -6,7 +6,7 @@
 id_hidden        : 720926mu.la
 listtype_hidden  : Anādi karama-phale and Purport
 listdate_hidden  : 1972-09-26
-showdate_hidden  : 2020-09-26
+showdate_hidden  : 2021-09-26
 listplace_hidden : Los Angeles
 Type_spoken      : Song Purport
 Date_spoken      : September 26

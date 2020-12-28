@@ -6,7 +6,7 @@
 id_hidden        : 681109bs.la
 listtype_hidden  : Bs. Lecture
 listdate_hidden  : 1968-11-09
-showdate_hidden  : 2020-11-09
+showdate_hidden  : 2021-11-09
 listplace_hidden : Los Angeles
 Type_spoken      : Śrī Brahma-saṁhitā
 Date_spoken      : November 9

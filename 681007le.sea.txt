@@ -6,7 +6,7 @@
 id_hidden        : 681007le.sea
 listtype_hidden  : Lecture
 listdate_hidden  : 1968-10-07
-showdate_hidden  : 2020-10-07
+showdate_hidden  : 2021-10-07
 listplace_hidden : Seattle
 Type_spoken      : Lecture
 Date_spoken      : October 7

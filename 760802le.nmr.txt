@@ -6,7 +6,7 @@
 id_hidden        : 760802le.nmr
 listtype_hidden  : Lecture During Walk [partially recorded]
 listdate_hidden  : 1976-08-02
-showdate_hidden  : 2020-08-02
+showdate_hidden  : 2021-08-02
 listplace_hidden : New Māyāpur
 Type_spoken      : Lecture
 Date_spoken      : August 2

@@ -6,7 +6,7 @@
 id_hidden        : 760712bg.ny
 listtype_hidden  : Comments on Bhagavad-gītā Play
 listdate_hidden  : 1976-07-12
-showdate_hidden  : 2020-07-12
+showdate_hidden  : 2021-07-12
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : July 12

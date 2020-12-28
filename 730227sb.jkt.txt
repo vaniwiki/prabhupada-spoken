@@ -6,7 +6,7 @@
 id_hidden        : 730227sb.jkt
 listtype_hidden  : SB 1.1.23
 listdate_hidden  : 1973-02-27
-showdate_hidden  : 2020-02-27
+showdate_hidden  : 2021-02-27
 listplace_hidden : Jakarta
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : February 27

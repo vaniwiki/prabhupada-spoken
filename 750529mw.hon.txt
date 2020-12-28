@@ -6,7 +6,7 @@
 id_hidden        : 750529mw.hon
 listtype_hidden  : Morning Walk on Waikiki Beach
 listdate_hidden  : 1975-05-29
-showdate_hidden  : 2020-05-29
+showdate_hidden  : 2021-05-29
 listplace_hidden : Honolulu
 Type_spoken      : Morning Walk
 Date_spoken      : May 29

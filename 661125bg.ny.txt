@@ -6,7 +6,7 @@
 id_hidden        : 661125bg.ny
 listtype_hidden  : Bg 9.7–10
 listdate_hidden  : 1966-11-25
-showdate_hidden  : 2020-11-25
+showdate_hidden  : 2021-11-25
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : November 25

@@ -6,7 +6,7 @@
 id_hidden        : 730515mw.la
 listtype_hidden  : Morning Walk at Cheviot Hills Golf Course
 listdate_hidden  : 1973-05-15
-showdate_hidden  : 2020-05-15
+showdate_hidden  : 2021-05-15
 listplace_hidden : Los Angeles
 Type_spoken      : Morning Walk
 Date_spoken      : May 15

@@ -6,7 +6,7 @@
 id_hidden        : 760619le.tor
 listtype_hidden  : Lecture
 listdate_hidden  : 1976-06-19
-showdate_hidden  : 2020-06-19
+showdate_hidden  : 2021-06-19
 listplace_hidden : Toronto
 Type_spoken      : Lecture
 Date_spoken      : June 19

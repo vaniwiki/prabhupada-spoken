@@ -6,7 +6,7 @@
 id_hidden        : 750727sb.sd
 listtype_hidden  : SB 6.1.46
 listdate_hidden  : 1975-07-27
-showdate_hidden  : 2020-07-27
+showdate_hidden  : 2021-07-27
 listplace_hidden : San Diego
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : July 27

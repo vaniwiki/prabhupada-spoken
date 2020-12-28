@@ -6,7 +6,7 @@
 id_hidden        : 730711bg.lon
 listtype_hidden  : Bg 1.6–7
 listdate_hidden  : 1973-07-11
-showdate_hidden  : 2020-07-11
+showdate_hidden  : 2021-07-11
 listplace_hidden : London
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : July 11

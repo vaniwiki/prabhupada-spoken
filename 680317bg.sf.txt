@@ -6,7 +6,7 @@
 id_hidden        : 680317bg.sf
 listtype_hidden  : Bg 7.1
 listdate_hidden  : 1968-03-17
-showdate_hidden  : 2020-03-17
+showdate_hidden  : 2021-03-17
 listplace_hidden : San Francisco
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : March 17

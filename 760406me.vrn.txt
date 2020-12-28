@@ -6,7 +6,7 @@
 id_hidden        : 760406me.vrn
 listtype_hidden  : Meeting Bankers
 listdate_hidden  : 1976-04-06
-showdate_hidden  : 2020-04-06
+showdate_hidden  : 2021-04-06
 listplace_hidden : Vṛndāvana
 Type_spoken      : Room Conversation
 Date_spoken      : April 6

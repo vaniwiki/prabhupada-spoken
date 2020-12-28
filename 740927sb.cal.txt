@@ -6,7 +6,7 @@
 id_hidden        : 740927sb.cal
 listtype_hidden  : SB 1.2.19
 listdate_hidden  : 1974-09-27
-showdate_hidden  : 2020-09-27
+showdate_hidden  : 2021-09-27
 listplace_hidden : Calcutta
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 27

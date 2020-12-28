@@ -6,7 +6,7 @@
 id_hidden        : 710513le.syd
 listtype_hidden  : Lecture at Wayside Chapel
 listdate_hidden  : 1971-05-13
-showdate_hidden  : 2020-05-13
+showdate_hidden  : 2021-05-13
 listplace_hidden : Sydney
 Type_spoken      : Lecture
 Date_spoken      : May 13

@@ -6,7 +6,7 @@
 id_hidden        : 681030ip.la
 listtype_hidden  : Īśo Mantra 1
 listdate_hidden  : 1968-10-30
-showdate_hidden  : 2020-10-30
+showdate_hidden  : 2021-10-30
 listplace_hidden : Los Angeles
 Type_spoken      : Śrī Īśopaniṣad
 Date_spoken      : October 30

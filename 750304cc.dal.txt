@@ -6,7 +6,7 @@
 id_hidden        : 750304cc.dal
 listtype_hidden  : Cc. Ādi 1.15
 listdate_hidden  : 1975-03-04
-showdate_hidden  : 2020-03-04
+showdate_hidden  : 2021-03-04
 listplace_hidden : Dallas
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : March 4

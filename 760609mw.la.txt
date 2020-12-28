@@ -6,7 +6,7 @@
 id_hidden        : 760609mw.la
 listtype_hidden  : Morning Walk
 listdate_hidden  : 1976-06-09
-showdate_hidden  : 2020-06-09
+showdate_hidden  : 2021-06-09
 listplace_hidden : Los Angeles
 Type_spoken      : Morning Walk
 Date_spoken      : June 9

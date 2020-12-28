@@ -6,7 +6,7 @@
 id_hidden        : 760621ar.nv
 listtype_hidden  : Arrival Speech
 listdate_hidden  : 1976-06-21
-showdate_hidden  : 2020-06-21
+showdate_hidden  : 2021-06-21
 listplace_hidden : New Vrindavan
 Type_spoken      : Lecture
 Date_spoken      : June 21

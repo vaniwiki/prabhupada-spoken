@@ -6,7 +6,7 @@
 id_hidden        : 750614mw.hon
 listtype_hidden  : Morning Walk
 listdate_hidden  : 1975-06-14
-showdate_hidden  : 2020-06-14
+showdate_hidden  : 2021-06-14
 listplace_hidden : Honolulu
 Type_spoken      : Morning Walk
 Date_spoken      : June 14

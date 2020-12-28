@@ -6,7 +6,7 @@
 id_hidden        : 731210sb.la
 listtype_hidden  : SB 1.15.32
 listdate_hidden  : 1973-12-10
-showdate_hidden  : 2020-12-10
+showdate_hidden  : 2021-12-10
 listplace_hidden : Los Angeles
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : December 10

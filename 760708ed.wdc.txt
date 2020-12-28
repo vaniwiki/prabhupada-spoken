@@ -6,7 +6,7 @@
 id_hidden        : 760708ed.wdc
 listtype_hidden  : Evening Darśana
 listdate_hidden  : 1976-07-08
-showdate_hidden  : 2020-07-08
+showdate_hidden  : 2021-07-08
 listplace_hidden : Washington, D.C.
 Type_spoken      : Room Conversation
 Date_spoken      : July 8

@@ -6,7 +6,7 @@
 id_hidden        : 700704ar.sf
 listtype_hidden  : Ratha-yātrā and Press Conference
 listdate_hidden  : 1970-07-04
-showdate_hidden  : 2020-07-04
+showdate_hidden  : 2021-07-04
 listplace_hidden : San Francisco
 Type_spoken      : Lecture
 Date_spoken      : July 4

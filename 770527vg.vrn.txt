@@ -6,7 +6,7 @@
 id_hidden        : 770527vg.vrn
 listtype_hidden  : Śrīla Prabhupāda Vigil
 listdate_hidden  : 1977-05-27
-showdate_hidden  : 2020-05-27
+showdate_hidden  : 2021-05-27
 listplace_hidden : Vṛndāvana
 Type_spoken      : Various
 Date_spoken      : May 27

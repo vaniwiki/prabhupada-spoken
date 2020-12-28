@@ -6,7 +6,7 @@
 id_hidden        : 681226iv.la
 listtype_hidden  : Interview
 listdate_hidden  : 1968-12-26
-showdate_hidden  : 2020-12-26
+showdate_hidden  : 2021-12-26
 listplace_hidden : Los Angeles
 Type_spoken      : Interview
 Date_spoken      : December 26

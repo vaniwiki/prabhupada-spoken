@@ -6,7 +6,7 @@
 id_hidden        : 690716in.la
 listtype_hidden  : Lecture at Initiation Fire Sacrifice
 listdate_hidden  : 1969-07-16
-showdate_hidden  : 2020-07-16
+showdate_hidden  : 2021-07-16
 listplace_hidden : Los Angeles
 Type_spoken      : Initiation
 Date_spoken      : July 16

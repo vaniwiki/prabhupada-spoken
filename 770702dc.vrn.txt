@@ -6,7 +6,7 @@
 id_hidden        : 770702dc.vrn
 listtype_hidden  : Bhū-maṇḍala Diagram
 listdate_hidden  : 1977-07-02
-showdate_hidden  : 2020-07-02
+showdate_hidden  : 2021-07-02
 listplace_hidden : Vṛndāvana
 Type_spoken      : Room Conversation
 Date_spoken      : July 2

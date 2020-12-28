@@ -6,7 +6,7 @@
 id_hidden        : 721108sb.vrn
 listtype_hidden  : SB 1.2.28–29
 listdate_hidden  : 1972-11-08
-showdate_hidden  : 2020-11-08
+showdate_hidden  : 2021-11-08
 listplace_hidden : Vṛndāvana
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : November 8

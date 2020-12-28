@@ -6,7 +6,7 @@
 id_hidden        : 750330cc.may
 listtype_hidden  : Cc. Ādi 1.6
 listdate_hidden  : 1975-03-30
-showdate_hidden  : 2020-03-30
+showdate_hidden  : 2021-03-30
 listplace_hidden : Māyāpur
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : March 30

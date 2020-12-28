@@ -6,7 +6,7 @@
 id_hidden        : 740420bg.hyd
 listtype_hidden  : Bg 13.4
 listdate_hidden  : 1974-04-20
-showdate_hidden  : 2020-04-20
+showdate_hidden  : 2021-04-20
 listplace_hidden : Hyderabad
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : April 20

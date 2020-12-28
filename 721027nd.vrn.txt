@@ -6,7 +6,7 @@
 id_hidden        : 721027nd.vrn
 listtype_hidden  : The Nectar of Devotion
 listdate_hidden  : 1972-10-27
-showdate_hidden  : 2020-10-27
+showdate_hidden  : 2021-10-27
 listplace_hidden : Vṛndāvana
 Type_spoken      : Nectar of Devotion
 Date_spoken      : October 27

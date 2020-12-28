@@ -6,7 +6,7 @@
 id_hidden        : 730810bg.par
 listtype_hidden  : Bg 13.1–2
 listdate_hidden  : 1973-08-10
-showdate_hidden  : 2020-08-10
+showdate_hidden  : 2021-08-10
 listplace_hidden : Paris
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : August 10

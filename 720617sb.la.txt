@@ -6,7 +6,7 @@
 id_hidden        : 720617sb.la
 listtype_hidden  : SB 2.3.20–21
 listdate_hidden  : 1972-06-17
-showdate_hidden  : 2020-06-17
+showdate_hidden  : 2021-06-17
 listplace_hidden : Los Angeles
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : June 17

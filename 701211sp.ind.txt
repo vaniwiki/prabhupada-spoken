@@ -6,7 +6,7 @@
 id_hidden        : 701211sp.ind
 listtype_hidden  : Speech to Mahārāja and Mahārāṇī
 listdate_hidden  : 1970-12-11
-showdate_hidden  : 2020-12-11
+showdate_hidden  : 2021-12-11
 listplace_hidden : Indore
 Type_spoken      : Lecture
 Date_spoken      : December 11

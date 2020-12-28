@@ -6,7 +6,7 @@
 id_hidden        : 700518ip.la
 listtype_hidden  : Īśo Mantra 13–15
 listdate_hidden  : 1970-05-18
-showdate_hidden  : 2020-05-18
+showdate_hidden  : 2021-05-18
 listplace_hidden : Los Angeles
 Type_spoken      : Śrī Īśopaniṣad
 Date_spoken      : May 18

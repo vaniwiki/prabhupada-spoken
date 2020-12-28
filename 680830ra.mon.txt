@@ -6,7 +6,7 @@
 id_hidden        : 680830ra.mon
 listtype_hidden  : Rādhāṣṭamī
 listdate_hidden  : 1968-08-30
-showdate_hidden  : 2020-08-30
+showdate_hidden  : 2021-08-30
 listplace_hidden : Montreal
 Type_spoken      : Lecture
 Date_spoken      : August 30

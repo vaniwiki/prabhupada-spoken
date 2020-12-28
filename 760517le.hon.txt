@@ -6,7 +6,7 @@
 id_hidden        : 760517le.hon
 listtype_hidden  : Lecture about Māyāvāda Philosophy
 listdate_hidden  : 1976-05-17
-showdate_hidden  : 2020-05-17
+showdate_hidden  : 2021-05-17
 listplace_hidden : Honolulu
 Type_spoken      : Lecture
 Date_spoken      : May 17

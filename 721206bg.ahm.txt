@@ -6,7 +6,7 @@
 id_hidden        : 721206bg.ahm
 listtype_hidden  : Bg 2.1
 listdate_hidden  : 1972-12-06
-showdate_hidden  : 2020-12-06
+showdate_hidden  : 2021-12-06
 listplace_hidden : Ahmedabad
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : December 6

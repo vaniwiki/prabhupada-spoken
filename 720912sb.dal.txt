@@ -6,7 +6,7 @@
 id_hidden        : 720912sb.dal
 listtype_hidden  : SB 2.1.1
 listdate_hidden  : 1972-09-12
-showdate_hidden  : 2020-09-12
+showdate_hidden  : 2021-09-12
 listplace_hidden : Dallas
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 12

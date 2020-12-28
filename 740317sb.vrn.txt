@@ -6,7 +6,7 @@
 id_hidden        : 740317sb.vrn
 listtype_hidden  : SB 2.1.2 [Significance of Ṣaḍ-gosvāmy-aṣṭaka]
 listdate_hidden  : 1974-03-17
-showdate_hidden  : 2020-03-17
+showdate_hidden  : 2021-03-17
 listplace_hidden : Vṛndāvana
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : March 17

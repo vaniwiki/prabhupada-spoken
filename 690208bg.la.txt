@@ -6,7 +6,7 @@
 id_hidden        : 690208bg.la
 listtype_hidden  : Bg 5.17–24
 listdate_hidden  : 1969-02-08
-showdate_hidden  : 2020-02-08
+showdate_hidden  : 2021-02-08
 listplace_hidden : Los Angeles
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : February 8

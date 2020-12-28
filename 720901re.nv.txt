@@ -6,7 +6,7 @@
 id_hidden        : 720901re.nv
 listtype_hidden  : Kṛṣṇa Book Reading
 listdate_hidden  : 1972-09-01
-showdate_hidden  : 2020-09-01
+showdate_hidden  : 2021-09-01
 listplace_hidden : New Vrindavan
 Type_spoken      : Various
 Date_spoken      : September 1

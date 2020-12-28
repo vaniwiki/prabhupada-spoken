@@ -6,7 +6,7 @@
 id_hidden        : 751124cc.bom
 listtype_hidden  : Cc. Madhya 6.154
 listdate_hidden  : 1975-11-24
-showdate_hidden  : 2020-11-24
+showdate_hidden  : 2021-11-24
 listplace_hidden : Bombay
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : November 24

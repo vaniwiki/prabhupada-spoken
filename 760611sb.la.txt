@@ -6,7 +6,7 @@
 id_hidden        : 760611sb.la
 listtype_hidden  : SB 6.1.45
 listdate_hidden  : 1976-06-11
-showdate_hidden  : 2020-06-11
+showdate_hidden  : 2021-06-11
 listplace_hidden : Los Angeles
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : June 11

@@ -6,7 +6,7 @@
 id_hidden        : 760819vp.hyd
 listtype_hidden  : Śrī Vyāsa-pūjā
 listdate_hidden  : 1976-08-19
-showdate_hidden  : 2020-08-19
+showdate_hidden  : 2021-08-19
 listplace_hidden : Hyderabad
 Type_spoken      : Lecture
 Date_spoken      : August 19

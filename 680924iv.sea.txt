@@ -6,7 +6,7 @@
 id_hidden        : 680924iv.sea
 listtype_hidden  : Interview
 listdate_hidden  : 1968-09-24
-showdate_hidden  : 2020-09-24
+showdate_hidden  : 2021-09-24
 listplace_hidden : Seattle
 Type_spoken      : Interview
 Date_spoken      : September 24

@@ -6,7 +6,7 @@
 id_hidden        : 710708ip.la
 listtype_hidden  : Īśo Lecture
 listdate_hidden  : 1971-07-08
-showdate_hidden  : 2020-07-08
+showdate_hidden  : 2021-07-08
 listplace_hidden : Los Angeles
 Type_spoken      : Śrī Īśopaniṣad
 Date_spoken      : July 8

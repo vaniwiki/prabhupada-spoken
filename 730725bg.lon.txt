@@ -6,7 +6,7 @@
 id_hidden        : 730725bg.lon
 listtype_hidden  : Bg 1.32–35
 listdate_hidden  : 1973-07-25
-showdate_hidden  : 2020-07-25
+showdate_hidden  : 2021-07-25
 listplace_hidden : London
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : July 25

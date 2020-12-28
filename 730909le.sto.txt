@@ -6,7 +6,7 @@
 id_hidden        : 730909le.sto
 listtype_hidden  : Lecture on Gurvaṣṭakam at Uppsala University
 listdate_hidden  : 1973-09-09
-showdate_hidden  : 2020-09-09
+showdate_hidden  : 2021-09-09
 listplace_hidden : Stockholm
 Type_spoken      : Lecture
 Date_spoken      : September 9

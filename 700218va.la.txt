@@ -6,7 +6,7 @@
 id_hidden        : 700218va.la
 listtype_hidden  : Varāha-dvādaśī
 listdate_hidden  : 1970-02-18
-showdate_hidden  : 2020-02-18
+showdate_hidden  : 2021-02-18
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : February 18

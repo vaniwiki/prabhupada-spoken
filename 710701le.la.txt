@@ -6,7 +6,7 @@
 id_hidden        : 710701le.la
 listtype_hidden  : Ratha-yātrā
 listdate_hidden  : 1971-07-01
-showdate_hidden  : 2020-07-01
+showdate_hidden  : 2021-07-01
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : July 1

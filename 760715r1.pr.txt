@@ -6,7 +6,7 @@
 id_hidden        : 760715r1.pr
 listtype_hidden  : Conversation at Gītā-nagarī Farm
 listdate_hidden  : 1976-07-15
-showdate_hidden  : 2020-07-15
+showdate_hidden  : 2021-07-15
 listplace_hidden : Port Royal
 Type_spoken      : Room Conversation
 Date_spoken      : July 15

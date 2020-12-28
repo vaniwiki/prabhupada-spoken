@@ -6,7 +6,7 @@
 id_hidden        : 751028bg.nai
 listtype_hidden  : Bg 7.2
 listdate_hidden  : 1975-10-28
-showdate_hidden  : 2020-10-28
+showdate_hidden  : 2021-10-28
 listplace_hidden : Nairobi
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : October 28

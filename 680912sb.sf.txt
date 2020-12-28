@@ -6,7 +6,7 @@
 id_hidden        : 680912sb.sf
 listtype_hidden  : SB 6.1.6–15
 listdate_hidden  : 1968-09-12
-showdate_hidden  : 2020-09-12
+showdate_hidden  : 2021-09-12
 listplace_hidden : San Francisco
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 12

@@ -6,7 +6,7 @@
 id_hidden        : 681201in.la
 listtype_hidden  : Talk, Initiation Lecture, and Ten Offenses Lecture
 listdate_hidden  : 1968-12-01
-showdate_hidden  : 2020-12-01
+showdate_hidden  : 2021-12-01
 listplace_hidden : Los Angeles
 Type_spoken      : Initiation
 Date_spoken      : December 1

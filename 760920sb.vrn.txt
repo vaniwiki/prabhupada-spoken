@@ -6,7 +6,7 @@
 id_hidden        : 760920sb.vrn
 listtype_hidden  : SB 1.7.23
 listdate_hidden  : 1976-09-20
-showdate_hidden  : 2020-09-20
+showdate_hidden  : 2021-09-20
 listplace_hidden : Vṛndāvana
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 20

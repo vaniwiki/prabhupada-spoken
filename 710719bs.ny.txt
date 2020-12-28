@@ -6,7 +6,7 @@
 id_hidden        : 710719bs.ny
 listtype_hidden  : Bs. 33
 listdate_hidden  : 1971-07-19
-showdate_hidden  : 2020-07-19
+showdate_hidden  : 2021-07-19
 listplace_hidden : New York
 Type_spoken      : Śrī Brahma-saṁhitā
 Date_spoken      : July 19

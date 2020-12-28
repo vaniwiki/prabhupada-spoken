@@ -6,7 +6,7 @@
 id_hidden        : 680913bs.sf
 listtype_hidden  : Bs. 34
 listdate_hidden  : 1968-09-13
-showdate_hidden  : 2020-09-13
+showdate_hidden  : 2021-09-13
 listplace_hidden : San Francisco
 Type_spoken      : Śrī Brahma-saṁhitā
 Date_spoken      : September 13
