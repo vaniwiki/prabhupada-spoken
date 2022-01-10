@@ -6,7 +6,7 @@
 id_hidden        : 680815in.mon
 listtype_hidden  : Initiation of Rukmiṇī Dāsī
 listdate_hidden  : 1968-08-15
-showdate_hidden  : 2021-08-15
+showdate_hidden  : 2022-08-15
 listplace_hidden : Montreal
 Type_spoken      : Initiation
 Date_spoken      : August 15

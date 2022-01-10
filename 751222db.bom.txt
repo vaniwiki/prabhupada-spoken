@@ -6,7 +6,7 @@
 id_hidden        : 751222db.bom
 listtype_hidden  : Disappearance, Bg 16.7
 listdate_hidden  : 1975-12-22
-showdate_hidden  : 2021-12-22
+showdate_hidden  : 2022-12-22
 listplace_hidden : Bombay
 Type_spoken      : Lecture
 Date_spoken      : December 22

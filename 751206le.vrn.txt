@@ -6,7 +6,7 @@
 id_hidden        : 751206le.vrn
 listtype_hidden  : Sannyāsa Initiation Lecture
 listdate_hidden  : 1975-12-06
-showdate_hidden  : 2021-12-06
+showdate_hidden  : 2022-12-06
 listplace_hidden : Vṛndāvana
 Type_spoken      : Lecture
 Date_spoken      : December 6

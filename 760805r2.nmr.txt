@@ -6,7 +6,7 @@
 id_hidden        : 760805r2.nmr
 listtype_hidden  : Meeting with Bruno Gnan, Italian Printer
 listdate_hidden  : 1976-08-05
-showdate_hidden  : 2021-08-05
+showdate_hidden  : 2022-08-05
 listplace_hidden : New Māyāpur
 Type_spoken      : Room Conversation
 Date_spoken      : August 5

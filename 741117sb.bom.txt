@@ -6,7 +6,7 @@
 id_hidden        : 741117sb.bom
 listtype_hidden  : SB 3.25.17
 listdate_hidden  : 1974-11-17
-showdate_hidden  : 2021-11-17
+showdate_hidden  : 2022-11-17
 listplace_hidden : Bombay
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : November 17

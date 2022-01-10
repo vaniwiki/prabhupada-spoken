@@ -6,7 +6,7 @@
 id_hidden        : 720219le.vis
 listtype_hidden  : Lecture at Śrī Caitanya Maṭha
 listdate_hidden  : 1972-02-19
-showdate_hidden  : 2021-02-19
+showdate_hidden  : 2022-02-19
 listplace_hidden : Visakhapatnam
 Type_spoken      : Lecture
 Date_spoken      : February 19

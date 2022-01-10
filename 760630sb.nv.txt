@@ -6,7 +6,7 @@
 id_hidden        : 760630sb.nv
 listtype_hidden  : SB 7.6.16
 listdate_hidden  : 1976-06-30
-showdate_hidden  : 2021-06-30
+showdate_hidden  : 2022-06-30
 listplace_hidden : New Vrindavan
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : June 30

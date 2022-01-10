@@ -6,7 +6,7 @@
 id_hidden        : 720415di.auc
 listtype_hidden  : Deity Installation
 listdate_hidden  : 1972-04-15
-showdate_hidden  : 2021-04-15
+showdate_hidden  : 2022-04-15
 listplace_hidden : Auckland
 Type_spoken      : Lecture
 Date_spoken      : April 15

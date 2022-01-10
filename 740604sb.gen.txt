@@ -6,7 +6,7 @@
 id_hidden        : 740604sb.gen
 listtype_hidden  : SB 1.13.15
 listdate_hidden  : 1974-06-04
-showdate_hidden  : 2021-06-04
+showdate_hidden  : 2022-06-04
 listplace_hidden : Geneva
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : June 4

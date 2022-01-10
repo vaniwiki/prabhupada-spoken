@@ -6,7 +6,7 @@
 id_hidden        : 760427cc.auc
 listtype_hidden  : Cc. Madhya 20.98–102
 listdate_hidden  : 1976-04-27
-showdate_hidden  : 2021-04-27
+showdate_hidden  : 2022-04-27
 listplace_hidden : Auckland
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : April 27

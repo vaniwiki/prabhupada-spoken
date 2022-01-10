@@ -6,7 +6,7 @@
 id_hidden        : 700622in.la
 listtype_hidden  : Initiation of Mṛga-netrī Dāsī
 listdate_hidden  : 1970-06-22
-showdate_hidden  : 2021-06-22
+showdate_hidden  : 2022-06-22
 listplace_hidden : Los Angeles
 Type_spoken      : Initiation
 Date_spoken      : June 22

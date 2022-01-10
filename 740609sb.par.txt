@@ -6,7 +6,7 @@
 id_hidden        : 740609sb.par
 listtype_hidden  : SB 2.1.1
 listdate_hidden  : 1974-06-09
-showdate_hidden  : 2021-06-09
+showdate_hidden  : 2022-06-09
 listplace_hidden : Paris
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : June 9

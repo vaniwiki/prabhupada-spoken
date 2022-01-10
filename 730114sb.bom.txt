@@ -6,7 +6,7 @@
 id_hidden        : 730114sb.bom
 listtype_hidden  : SB Preface, Pandal Lecture
 listdate_hidden  : 1973-01-14
-showdate_hidden  : 2021-01-14
+showdate_hidden  : 2022-01-14
 listplace_hidden : Bombay
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : January 14

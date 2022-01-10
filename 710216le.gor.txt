@@ -6,7 +6,7 @@
 id_hidden        : 710216le.gor
 listtype_hidden  : Lecture at Kṛṣṇa Niketan
 listdate_hidden  : 1971-02-16
-showdate_hidden  : 2021-02-16
+showdate_hidden  : 2022-02-16
 listplace_hidden : Gorakhpur
 Type_spoken      : Lecture
 Date_spoken      : February 16

@@ -6,7 +6,7 @@
 id_hidden        : 721006tr.ber
 listtype_hidden  : Tour
 listdate_hidden  : 1972-10-06
-showdate_hidden  : 2021-10-06
+showdate_hidden  : 2022-10-06
 listplace_hidden : Berkeley
 Type_spoken      : Various
 Date_spoken      : October 6

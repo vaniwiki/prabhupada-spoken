@@ -6,7 +6,7 @@
 id_hidden        : 751216le.bom
 listtype_hidden  : Engagement at Birla House, Śrīmad-Bhāgavatam 7.6.1
 listdate_hidden  : 1975-12-16
-showdate_hidden  : 2021-12-16
+showdate_hidden  : 2022-12-16
 listplace_hidden : Bombay
 Type_spoken      : Lecture
 Date_spoken      : December 16

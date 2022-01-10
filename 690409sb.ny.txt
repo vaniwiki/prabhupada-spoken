@@ -6,7 +6,7 @@
 id_hidden        : 690409sb.ny
 listtype_hidden  : SB 7.6.1
 listdate_hidden  : 1969-04-09
-showdate_hidden  : 2021-04-09
+showdate_hidden  : 2022-04-09
 listplace_hidden : New York
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : April 9

@@ -6,7 +6,7 @@
 id_hidden        : 690618sb.nv # 
 listtype_hidden  : SB 1.5.14 # 
 listdate_hidden  : 1969-06-18
-showdate_hidden  : 2021-06-18 # 
+showdate_hidden  : 2022-06-18 #
 listplace_hidden : New Vrindaban # 
 Type_spoken      : Śrīmad-Bhāgavatam # 
 Date_spoken      : June 18 # 

@@ -6,7 +6,7 @@
 id_hidden        : 710409sb.bom
 listtype_hidden  : SB 1.8.18–19
 listdate_hidden  : 1971-04-09
-showdate_hidden  : 2021-04-09
+showdate_hidden  : 2022-04-09
 listplace_hidden : Bombay
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : April 9

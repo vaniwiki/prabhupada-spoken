@@ -6,7 +6,7 @@
 id_hidden        : 710912sb.mom
 listtype_hidden  : SB 7.7.30–31
 listdate_hidden  : 1971-09-12
-showdate_hidden  : 2021-09-12
+showdate_hidden  : 2022-09-12
 listplace_hidden : Mombassa
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 12

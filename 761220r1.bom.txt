@@ -6,7 +6,7 @@
 id_hidden        : 761220r1.bom
 listtype_hidden  : Conversation with Rādhā-vallabha dāsa
 listdate_hidden  : 1976-12-20
-showdate_hidden  : 2021-12-20
+showdate_hidden  : 2022-12-20
 listplace_hidden : Bombay
 Type_spoken      : Room Conversation
 Date_spoken      : December 20

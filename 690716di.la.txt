@@ -6,7 +6,7 @@
 id_hidden        : 690716di.la
 listtype_hidden  : Śrī Śrī Rukmiṇī Dvārakānātha Deity Installation
 listdate_hidden  : 1969-07-16
-showdate_hidden  : 2021-07-16
+showdate_hidden  : 2022-07-16
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : July 16

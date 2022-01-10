@@ -6,7 +6,7 @@
 id_hidden        : 760805bg.nmr
 listtype_hidden  : Bg 15.15
 listdate_hidden  : 1976-08-05
-showdate_hidden  : 2021-08-05
+showdate_hidden  : 2022-08-05
 listplace_hidden : New Māyāpur
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : August 5

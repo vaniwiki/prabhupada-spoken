@@ -6,7 +6,7 @@
 id_hidden        : 690905ve.ham
 listtype_hidden  : Śrī Vyāsa-pūjā
 listdate_hidden  : 1969-09-05
-showdate_hidden  : 2021-09-05
+showdate_hidden  : 2022-09-05
 listplace_hidden : Hamburg
 Type_spoken      : Lecture
 Date_spoken      : September 5

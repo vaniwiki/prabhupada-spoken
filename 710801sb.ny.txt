@@ -6,7 +6,7 @@
 id_hidden        : 710801sb.ny
 listtype_hidden  : SB 6.1.15
 listdate_hidden  : 1971-08-01
-showdate_hidden  : 2021-08-01
+showdate_hidden  : 2022-08-01
 listplace_hidden : New York
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : August 1

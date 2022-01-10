@@ -6,7 +6,7 @@
 id_hidden        : 750703mw.den
 listtype_hidden  : Morning Walk
 listdate_hidden  : 1975-07-03
-showdate_hidden  : 2021-07-03
+showdate_hidden  : 2022-07-03
 listplace_hidden : Denver
 Type_spoken      : Morning Walk
 Date_spoken      : July 3

@@ -6,7 +6,7 @@
 id_hidden        : 730909bs.sto
 listtype_hidden  : Bs. 5.33
 listdate_hidden  : 1973-09-09
-showdate_hidden  : 2021-09-09
+showdate_hidden  : 2022-09-09
 listplace_hidden : Stockholm
 Type_spoken      : Śrī Brahma-saṁhitā
 Date_spoken      : September 9

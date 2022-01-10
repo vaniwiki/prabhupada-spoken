@@ -6,7 +6,7 @@
 id_hidden        : 750830bg.vrn
 listtype_hidden  : Bg 7.3 [Hindi]
 listdate_hidden  : 1975-08-30
-showdate_hidden  : 2021-08-30
+showdate_hidden  : 2022-08-30
 listplace_hidden : Vṛndāvana
 Type_spoken      : Hindi
 Date_spoken      : August 30

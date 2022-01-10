@@ -6,7 +6,7 @@
 id_hidden        : 690512le.col
 listtype_hidden  : Lecture with Allen Ginsberg at Ohio State University
 listdate_hidden  : 1969-05-12
-showdate_hidden  : 2021-05-12
+showdate_hidden  : 2022-05-12
 listplace_hidden : Columbus
 Type_spoken      : Lecture
 Date_spoken      : May 12
