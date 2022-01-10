@@ -6,7 +6,7 @@
 id_hidden        : 740224bg.bom
 listtype_hidden  : Bg 7.9–10
 listdate_hidden  : 1974-02-24
-showdate_hidden  : 2021-02-24
+showdate_hidden  : 2022-02-24
 listplace_hidden : Bombay
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : February 24

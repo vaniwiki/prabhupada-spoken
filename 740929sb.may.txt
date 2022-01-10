@@ -6,7 +6,7 @@
 id_hidden        : 740929sb.may
 listtype_hidden  : SB 1.8.19
 listdate_hidden  : 1974-09-29
-showdate_hidden  : 2021-09-29
+showdate_hidden  : 2022-09-29
 listplace_hidden : Māyāpur
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 29

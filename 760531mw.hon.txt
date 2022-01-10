@@ -6,7 +6,7 @@
 id_hidden        : 760531mw.hon
 listtype_hidden  : Morning Walk [partially recorded]
 listdate_hidden  : 1976-05-31
-showdate_hidden  : 2021-05-31
+showdate_hidden  : 2022-05-31
 listplace_hidden : Honolulu
 Type_spoken      : Morning Walk
 Date_spoken      : May 31

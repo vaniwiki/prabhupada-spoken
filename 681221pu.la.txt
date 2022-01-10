@@ -6,7 +6,7 @@
 id_hidden        : 681221pu.la
 listtype_hidden  : Nitāi-Pada-Kamala
 listdate_hidden  : 1968-12-21
-showdate_hidden  : 2021-12-21
+showdate_hidden  : 2022-12-21
 listplace_hidden : Los Angeles
 Type_spoken      : Song Purport
 Date_spoken      : December 21

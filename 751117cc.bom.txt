@@ -6,7 +6,7 @@
 id_hidden        : 751117cc.bom
 listtype_hidden  : Cc. Madhya 20.110–111
 listdate_hidden  : 1975-11-17
-showdate_hidden  : 2021-11-17
+showdate_hidden  : 2022-11-17
 listplace_hidden : Bombay
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : November 17

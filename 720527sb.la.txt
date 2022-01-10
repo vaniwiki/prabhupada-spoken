@@ -6,7 +6,7 @@
 id_hidden        : 720527sb.la
 listtype_hidden  : Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22–32
 listdate_hidden  : 1972-05-27
-showdate_hidden  : 2021-05-27
+showdate_hidden  : 2022-05-27
 listplace_hidden : Los Angeles
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : May 27

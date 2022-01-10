@@ -6,7 +6,7 @@
 id_hidden        : 670116cc.ny
 listtype_hidden  : Cc. Madhya 22.31–33
 listdate_hidden  : 1967-01-16
-showdate_hidden  : 2021-01-16
+showdate_hidden  : 2022-01-16
 listplace_hidden : New York
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : January 16

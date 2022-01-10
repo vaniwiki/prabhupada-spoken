@@ -6,7 +6,7 @@
 id_hidden        : 690102pu.la
 listtype_hidden  : Śrī-Śrī-Gurv-aṣṭakam
 listdate_hidden  : 1969-01-02
-showdate_hidden  : 2021-01-02
+showdate_hidden  : 2022-01-02
 listplace_hidden : Los Angeles
 Type_spoken      : Song Purport
 Date_spoken      : January 2

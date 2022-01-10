@@ -6,7 +6,7 @@
 id_hidden        : 771025sb.vrn
 listtype_hidden  : SB Dictation
 listdate_hidden  : 1977-10-25
-showdate_hidden  : 2021-10-25
+showdate_hidden  : 2022-10-25
 listplace_hidden : Vṛndāvana
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : October 25

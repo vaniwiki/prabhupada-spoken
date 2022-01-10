@@ -6,7 +6,7 @@
 id_hidden        : 760613mw.det
 listtype_hidden  : Morning Walk
 listdate_hidden  : 1976-06-13
-showdate_hidden  : 2021-06-13
+showdate_hidden  : 2022-06-13
 listplace_hidden : Detroit
 Type_spoken      : Morning Walk
 Date_spoken      : June 13

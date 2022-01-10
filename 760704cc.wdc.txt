@@ -6,7 +6,7 @@
 id_hidden        : 760704cc.wdc
 listtype_hidden  : Cc. Madhya 20.98–99
 listdate_hidden  : 1976-07-04
-showdate_hidden  : 2021-07-04
+showdate_hidden  : 2022-07-04
 listplace_hidden : Washington, D.C.
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : July 4

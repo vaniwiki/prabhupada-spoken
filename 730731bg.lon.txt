@@ -6,7 +6,7 @@
 id_hidden        : 730731bg.lon
 listtype_hidden  : Bg 1.44
 listdate_hidden  : 1973-07-31
-showdate_hidden  : 2021-07-31
+showdate_hidden  : 2022-07-31
 listplace_hidden : London
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : July 31

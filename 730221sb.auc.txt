@@ -6,7 +6,7 @@
 id_hidden        : 730221sb.auc
 listtype_hidden  : SB 6.1.13–15
 listdate_hidden  : 1973-02-21
-showdate_hidden  : 2021-02-21
+showdate_hidden  : 2022-02-21
 listplace_hidden : Auckland
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : February 21

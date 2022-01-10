@@ -6,7 +6,7 @@
 id_hidden        : 690827in.ham
 listtype_hidden  : Initiation Lecture
 listdate_hidden  : 1969-08-27
-showdate_hidden  : 2021-08-27
+showdate_hidden  : 2022-08-27
 listplace_hidden : Hamburg
 Type_spoken      : Initiation
 Date_spoken      : August 27

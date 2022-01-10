@@ -6,7 +6,7 @@
 id_hidden        : 681226p2.la
 listtype_hidden  : Prayers to the Six Gosvāmīs
 listdate_hidden  : 1968-12-26
-showdate_hidden  : 2021-12-26
+showdate_hidden  : 2022-12-26
 listplace_hidden : Los Angeles
 Type_spoken      : Song Purport
 Date_spoken      : December 26

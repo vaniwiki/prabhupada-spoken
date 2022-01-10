@@ -6,7 +6,7 @@
 id_hidden        : 700427ip.la
 listtype_hidden  : Īśo Invocation
 listdate_hidden  : 1970-04-27
-showdate_hidden  : 2021-04-27
+showdate_hidden  : 2022-04-27
 listplace_hidden : Los Angeles
 Type_spoken      : Śrī Īśopaniṣad
 Date_spoken      : April 27

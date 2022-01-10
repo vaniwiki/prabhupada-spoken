@@ -6,7 +6,7 @@
 id_hidden        : 661226cc.ny
 listtype_hidden  : Cc. Madhya 20.353–354
 listdate_hidden  : 1966-12-26
-showdate_hidden  : 2021-12-26
+showdate_hidden  : 2022-12-26
 listplace_hidden : New York
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : December 26

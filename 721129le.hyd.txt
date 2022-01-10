@@ -6,7 +6,7 @@
 id_hidden        : 721129le.hyd
 listtype_hidden  : Rotary Club Lecture, Bhagavad-gītā 3.21
 listdate_hidden  : 1972-11-29
-showdate_hidden  : 2021-11-29
+showdate_hidden  : 2022-11-29
 listplace_hidden : Hyderabad
 Type_spoken      : Lecture
 Date_spoken      : November 29

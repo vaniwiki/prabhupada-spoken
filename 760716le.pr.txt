@@ -6,7 +6,7 @@
 id_hidden        : 760716le.pr
 listtype_hidden  : Evening Lecture at Gītā-Nagarī Farm
 listdate_hidden  : 1976-07-16
-showdate_hidden  : 2021-07-16
+showdate_hidden  : 2022-07-16
 listplace_hidden : Port Royal
 Type_spoken      : Lecture
 Date_spoken      : July 16

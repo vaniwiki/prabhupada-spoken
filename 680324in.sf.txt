@@ -6,7 +6,7 @@
 id_hidden        : 680324in.sf
 listtype_hidden  : Initiation Viṣṇujana
 listdate_hidden  : 1968-03-24
-showdate_hidden  : 2021-03-24
+showdate_hidden  : 2022-03-24
 listplace_hidden : San Francisco
 Type_spoken      : Initiation
 Date_spoken      : March 24

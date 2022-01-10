@@ -6,7 +6,7 @@
 id_hidden        : 730902bg.lon
 listtype_hidden  : Bg 2.32
 listdate_hidden  : 1973-09-02
-showdate_hidden  : 2021-09-02
+showdate_hidden  : 2022-09-02
 listplace_hidden : London
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : September 2

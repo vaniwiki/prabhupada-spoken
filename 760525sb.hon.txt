@@ -6,7 +6,7 @@
 id_hidden        : 760525sb.hon
 listtype_hidden  : SB 6.1.25
 listdate_hidden  : 1976-05-25
-showdate_hidden  : 2021-05-25
+showdate_hidden  : 2022-05-25
 listplace_hidden : Honolulu
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : May 25

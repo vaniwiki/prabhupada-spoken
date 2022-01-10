@@ -6,7 +6,7 @@
 id_hidden        : 660814qa.ny
 listtype_hidden  : Bg 4.34, Q & A
 listdate_hidden  : 1966-08-14
-showdate_hidden  : 2021-08-14
+showdate_hidden  : 2022-08-14
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : August 14

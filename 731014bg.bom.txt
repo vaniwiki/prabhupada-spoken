@@ -6,7 +6,7 @@
 id_hidden        : 731014bg.bom
 listtype_hidden  : Bg 13.20
 listdate_hidden  : 1973-10-14
-showdate_hidden  : 2021-10-14
+showdate_hidden  : 2022-10-14
 listplace_hidden : Bombay
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : October 14

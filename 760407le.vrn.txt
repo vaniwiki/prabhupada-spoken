@@ -6,7 +6,7 @@
 id_hidden        : 760407le.vrn
 listtype_hidden  : Lecture to Devotees
 listdate_hidden  : 1976-04-07
-showdate_hidden  : 2021-04-07
+showdate_hidden  : 2022-04-07
 listplace_hidden : Vṛndāvana
 Type_spoken      : Lecture
 Date_spoken      : April 7

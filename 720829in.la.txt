@@ -6,7 +6,7 @@
 id_hidden        : 720829in.la
 listtype_hidden  : Initiations, SB 1.1.1–SB 1.3.44 Recitation
 listdate_hidden  : 1972-08-29
-showdate_hidden  : 2021-08-29
+showdate_hidden  : 2022-08-29
 listplace_hidden : Los Angeles
 Type_spoken      : Initiation
 Date_spoken      : August 29

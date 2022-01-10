@@ -6,7 +6,7 @@
 id_hidden        : 770517ar.vrn
 listtype_hidden  : Arrival Speech
 listdate_hidden  : 1977-05-17
-showdate_hidden  : 2021-05-17
+showdate_hidden  : 2022-05-17
 listplace_hidden : Vṛndāvana
 Type_spoken      : Lecture
 Date_spoken      : May 17

@@ -6,7 +6,7 @@
 id_hidden        : 680825cm.mon
 listtype_hidden  : Prahlāda Mahārāja Slides
 listdate_hidden  : 1968-08-25
-showdate_hidden  : 2021-08-25
+showdate_hidden  : 2022-08-25
 listplace_hidden : Montreal
 Type_spoken      : Various
 Date_spoken      : August 25

@@ -6,7 +6,7 @@
 id_hidden        : 720502sb.tok
 listtype_hidden  : SB 2.9.6–14
 listdate_hidden  : 1972-05-02
-showdate_hidden  : 2021-05-02
+showdate_hidden  : 2022-05-02
 listplace_hidden : Tokyo
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : May 2

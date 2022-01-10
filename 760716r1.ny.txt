@@ -6,7 +6,7 @@
 id_hidden        : 760716r1.ny
 listtype_hidden  : Conversation after Interview with Religious Editor, Associated Press
 listdate_hidden  : 1976-07-16
-showdate_hidden  : 2021-07-16
+showdate_hidden  : 2022-07-16
 listplace_hidden : New York
 Type_spoken      : Room Conversation
 Date_spoken      : July 16

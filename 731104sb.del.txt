@@ -6,7 +6,7 @@
 id_hidden        : 731104sb.del
 listtype_hidden  : SB 2.1.1
 listdate_hidden  : 1973-11-04
-showdate_hidden  : 2021-11-04
+showdate_hidden  : 2022-11-04
 listplace_hidden : Delhi
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : November 4

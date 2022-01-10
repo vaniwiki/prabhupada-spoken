@@ -6,7 +6,7 @@
 id_hidden        : 660909bg.ny
 listtype_hidden  : Bg 6.21–27
 listdate_hidden  : 1966-09-09
-showdate_hidden  : 2021-09-09
+showdate_hidden  : 2022-09-09
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : September 9
