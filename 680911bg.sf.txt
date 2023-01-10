@@ -6,7 +6,7 @@
 id_hidden        : 680911bg.sf
 listtype_hidden  : Bg 7.2
 listdate_hidden  : 1968-09-11
-showdate_hidden  : 2022-09-11
+showdate_hidden  : 2023-09-11
 listplace_hidden : San Francisco
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : September 11

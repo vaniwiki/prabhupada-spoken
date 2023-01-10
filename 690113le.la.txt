@@ -6,7 +6,7 @@
 id_hidden        : 690113le.la
 listtype_hidden  : Lecture [partially recorded]
 listdate_hidden  : 1969-01-13
-showdate_hidden  : 2022-01-13
+showdate_hidden  : 2023-01-13
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : January 13

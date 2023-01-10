@@ -6,7 +6,7 @@
 id_hidden        : 760706ad.wdc
 listtype_hidden  : Tenth Anniversary Address
 listdate_hidden  : 1976-07-06
-showdate_hidden  : 2022-07-06
+showdate_hidden  : 2023-07-06
 listplace_hidden : Washington, D.C.
 Type_spoken      : Lecture
 Date_spoken      : July 6

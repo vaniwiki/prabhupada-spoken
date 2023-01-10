@@ -6,7 +6,7 @@
 id_hidden        : 760215sb.may
 listtype_hidden  : SB 7.9.8
 listdate_hidden  : 1976-02-15
-showdate_hidden  : 2022-02-15
+showdate_hidden  : 2023-02-15
 listplace_hidden : Māyāpur
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : February 15

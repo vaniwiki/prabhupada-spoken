@@ -6,7 +6,7 @@
 id_hidden        : 751007le.dur
 listtype_hidden  : City Hall Lecture
 listdate_hidden  : 1975-10-07
-showdate_hidden  : 2022-10-07
+showdate_hidden  : 2023-10-07
 listplace_hidden : Durban
 Type_spoken      : Lecture
 Date_spoken      : October 7

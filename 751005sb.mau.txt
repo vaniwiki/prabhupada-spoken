@@ -6,7 +6,7 @@
 id_hidden        : 751005sb.mau
 listtype_hidden  : SB 1.2.6
 listdate_hidden  : 1975-10-05
-showdate_hidden  : 2022-10-05
+showdate_hidden  : 2023-10-05
 listplace_hidden : Mauritius
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : October 5

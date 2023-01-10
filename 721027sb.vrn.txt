@@ -6,7 +6,7 @@
 id_hidden        : 721027sb.vrn
 listtype_hidden  : SB 1.2.16
 listdate_hidden  : 1972-10-27
-showdate_hidden  : 2022-10-27
+showdate_hidden  : 2023-10-27
 listplace_hidden : Vṛndāvana
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : October 27

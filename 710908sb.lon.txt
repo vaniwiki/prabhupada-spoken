@@ -6,7 +6,7 @@
 id_hidden        : 710908sb.lon
 listtype_hidden  : SB 7.5.22–30
 listdate_hidden  : 1971-09-08
-showdate_hidden  : 2022-09-08
+showdate_hidden  : 2023-09-08
 listplace_hidden : London
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 8

@@ -6,7 +6,7 @@
 id_hidden        : 731225in.la
 listtype_hidden  : Initiation
 listdate_hidden  : 1973-12-25
-showdate_hidden  : 2022-12-25
+showdate_hidden  : 2023-12-25
 listplace_hidden : Los Angeles
 Type_spoken      : Initiation
 Date_spoken      : December 25

@@ -7,7 +7,7 @@
 id_hidden        : 660219-20bg.ny
 listtype_hidden  : Bg Introduction
 listdate_hidden  : 1966-02-19
-showdate_hidden  : 2022-02-19
+showdate_hidden  : 2023-02-19
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spokens     : February 19, February 20

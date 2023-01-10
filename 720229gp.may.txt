@@ -6,7 +6,7 @@
 id_hidden        : 720229gp.may
 listtype_hidden  : Gaura-Pūrṇimā
 listdate_hidden  : 1972-02-29
-showdate_hidden  : 2022-02-29
+showdate_hidden  : 2023-02-29
 listplace_hidden : Māyāpur
 Type_spoken      : Lecture
 Date_spoken      : February 29

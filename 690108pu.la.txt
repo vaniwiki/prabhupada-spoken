@@ -6,7 +6,7 @@
 id_hidden        : 690108pu.la
 listtype_hidden  : Maṅgalācaraṇa Prayers
 listdate_hidden  : 1969-01-08
-showdate_hidden  : 2022-01-08
+showdate_hidden  : 2023-01-08
 listplace_hidden : Los Angeles
 Type_spoken      : Song Purport
 Date_spoken      : January 8

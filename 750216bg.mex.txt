@@ -6,7 +6,7 @@
 id_hidden        : 750216bg.mex
 listtype_hidden  : Bg 2.16
 listdate_hidden  : 1975-02-16
-showdate_hidden  : 2022-02-16
+showdate_hidden  : 2023-02-16
 listplace_hidden : Mexico City
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : February 16

@@ -6,7 +6,7 @@
 id_hidden        : 660405bg.ny
 listtype_hidden  : Bg 2.49–51
 listdate_hidden  : 1966-04-05
-showdate_hidden  : 2022-04-05
+showdate_hidden  : 2023-04-05
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : April 5

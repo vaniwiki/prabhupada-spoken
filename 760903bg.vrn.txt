@@ -6,7 +6,7 @@
 id_hidden        : 760903bg.vrn
 listtype_hidden  : Bg 7.15, Arrival Address
 listdate_hidden  : 1976-09-03
-showdate_hidden  : 2022-09-03
+showdate_hidden  : 2023-09-03
 listplace_hidden : Vṛndāvana
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : September 3

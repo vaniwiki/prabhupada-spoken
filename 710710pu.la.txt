@@ -6,7 +6,7 @@
 id_hidden        : 710710pu.la
 listtype_hidden  : Hare Krishna Maha Mantra
 listdate_hidden  : 1971-07-10
-showdate_hidden  : 2022-07-10
+showdate_hidden  : 2023-07-10
 listplace_hidden : Los Angeles
 Type_spoken      : Song Purport
 Date_spoken      : July 10

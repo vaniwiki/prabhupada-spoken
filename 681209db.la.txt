@@ -6,7 +6,7 @@
 id_hidden        : 681209db.la
 listtype_hidden  : Disappearance Day
 listdate_hidden  : 1968-12-09
-showdate_hidden  : 2022-12-09
+showdate_hidden  : 2023-12-09
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : December 9

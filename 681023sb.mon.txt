@@ -6,7 +6,7 @@
 id_hidden        : 681023sb.mon
 listtype_hidden  : SB 2.1.2–5
 listdate_hidden  : 1968-10-23
-showdate_hidden  : 2022-10-23
+showdate_hidden  : 2023-10-23
 listplace_hidden : Montreal
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : October 23

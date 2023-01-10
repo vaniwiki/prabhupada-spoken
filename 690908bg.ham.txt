@@ -6,7 +6,7 @@
 id_hidden        : 690908bg.ham
 listtype_hidden  : Bg 7.14
 listdate_hidden  : 1969-09-08
-showdate_hidden  : 2022-09-08
+showdate_hidden  : 2023-09-08
 listplace_hidden : Hamburg
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : September 8

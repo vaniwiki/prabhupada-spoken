@@ -6,7 +6,7 @@
 id_hidden        : 720904sb.nv
 listtype_hidden  : SB 1.2.6
 listdate_hidden  : 1972-09-04
-showdate_hidden  : 2022-09-04
+showdate_hidden  : 2023-09-04
 listplace_hidden : New Vrindavan
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 4

@@ -6,7 +6,7 @@
 id_hidden        : 690907sb.ham
 listtype_hidden  : SB 7.9.19
 listdate_hidden  : 1969-09-07
-showdate_hidden  : 2022-09-07
+showdate_hidden  : 2023-09-07
 listplace_hidden : Hamburg
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 7

@@ -6,7 +6,7 @@
 id_hidden        : 690604in.nv # 
 listtype_hidden  : Initiation Lecture, Bhagavān Marriage Ceremony # 
 listdate_hidden  : 1969-06-04
-showdate_hidden  : 2022-06-04 #
+showdate_hidden  : 2023-06-04 #
 listplace_hidden : New Vrindaban # 
 Type_spoken      : Initiation # 
 Date_spoken      : June 4 # 

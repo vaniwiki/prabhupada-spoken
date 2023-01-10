@@ -6,7 +6,7 @@
 id_hidden        : 750728pc.dal
 listtype_hidden  : Press Conference
 listdate_hidden  : 1975-07-28
-showdate_hidden  : 2022-07-28
+showdate_hidden  : 2023-07-28
 listplace_hidden : Dallas
 Type_spoken      : Room Conversation
 Date_spoken      : July 28

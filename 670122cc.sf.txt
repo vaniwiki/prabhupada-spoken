@@ -6,7 +6,7 @@
 id_hidden        : 670122cc.sf
 listtype_hidden  : Cc. Madhya 25.31–38
 listdate_hidden  : 1967-01-22
-showdate_hidden  : 2022-01-22
+showdate_hidden  : 2023-01-22
 listplace_hidden : San Francisco
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : January 22

@@ -6,7 +6,7 @@
 id_hidden        : 670215cc.sf
 listtype_hidden  : Cc. Ādi 7.107–109
 listdate_hidden  : 1967-02-15
-showdate_hidden  : 2022-02-15
+showdate_hidden  : 2023-02-15
 listplace_hidden : San Francisco
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : February 15

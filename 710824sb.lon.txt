@@ -6,7 +6,7 @@
 id_hidden        : 710824sb.lon
 listtype_hidden  : SB 1.2.3
 listdate_hidden  : 1971-08-24
-showdate_hidden  : 2022-08-24
+showdate_hidden  : 2023-08-24
 listplace_hidden : London
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : August 24

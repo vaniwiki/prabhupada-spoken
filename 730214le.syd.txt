@@ -6,7 +6,7 @@
 id_hidden        : 730214le.syd
 listtype_hidden  : Lecture
 listdate_hidden  : 1973-02-14
-showdate_hidden  : 2022-02-14
+showdate_hidden  : 2023-02-14
 listplace_hidden : Sydney
 Type_spoken      : Lecture
 Date_spoken      : February 14

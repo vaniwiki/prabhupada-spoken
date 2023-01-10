@@ -6,7 +6,7 @@
 id_hidden        : 720930le.lb
 listtype_hidden  : Lecture
 listdate_hidden  : 1972-09-30
-showdate_hidden  : 2022-09-30
+showdate_hidden  : 2023-09-30
 listplace_hidden : Laguna Beach
 Type_spoken      : Lecture
 Date_spoken      : September 30

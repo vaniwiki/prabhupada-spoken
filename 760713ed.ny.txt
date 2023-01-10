@@ -6,7 +6,7 @@
 id_hidden        : 760713ed.ny
 listtype_hidden  : Evening Darśana
 listdate_hidden  : 1976-07-13
-showdate_hidden  : 2022-07-13
+showdate_hidden  : 2023-07-13
 listplace_hidden : New York
 Type_spoken      : Room Conversation
 Date_spoken      : July 13

@@ -6,7 +6,7 @@
 id_hidden        : 761209r1.hyd
 listtype_hidden  : Preparation for Gītā Pratiṣṭhāna (Conference)
 listdate_hidden  : 1976-12-09
-showdate_hidden  : 2022-12-09
+showdate_hidden  : 2023-12-09
 listplace_hidden : Hyderabad
 Type_spoken      : Room Conversation
 Date_spoken      : December 9

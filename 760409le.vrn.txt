@@ -6,7 +6,7 @@
 id_hidden        : 760409le.vrn
 listtype_hidden  : Lecture [Hindi]
 listdate_hidden  : 1976-04-09
-showdate_hidden  : 2022-04-09
+showdate_hidden  : 2023-04-09
 listplace_hidden : Vṛndāvana
 Type_spoken      : Hindi
 Date_spoken      : April 9

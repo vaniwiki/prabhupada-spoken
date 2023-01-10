@@ -6,7 +6,7 @@
 id_hidden        : 730126in.cal
 listtype_hidden  : Sannyāsa Initiation Lecture
 listdate_hidden  : 1973-01-26
-showdate_hidden  : 2022-01-26
+showdate_hidden  : 2023-01-26
 listplace_hidden : Calcutta
 Type_spoken      : Initiation
 Date_spoken      : January 26

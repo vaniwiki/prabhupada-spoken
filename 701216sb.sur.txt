@@ -6,7 +6,7 @@
 id_hidden        : 701216sb.sur
 listtype_hidden  : SB 6.1.32
 listdate_hidden  : 1970-12-16
-showdate_hidden  : 2022-12-16
+showdate_hidden  : 2023-12-16
 listplace_hidden : Surat
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : December 16

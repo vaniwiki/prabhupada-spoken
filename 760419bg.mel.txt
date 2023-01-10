@@ -6,7 +6,7 @@
 id_hidden        : 760419bg.mel
 listtype_hidden  : Bg 9.1
 listdate_hidden  : 1976-04-19
-showdate_hidden  : 2022-04-19
+showdate_hidden  : 2023-04-19
 listplace_hidden : Melbourne
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : April 19

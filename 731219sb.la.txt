@@ -6,7 +6,7 @@
 id_hidden        : 731219sb.la
 listtype_hidden  : SB 1.15.41
 listdate_hidden  : 1973-12-19
-showdate_hidden  : 2022-12-19
+showdate_hidden  : 2023-12-19
 listplace_hidden : Los Angeles
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : December 19

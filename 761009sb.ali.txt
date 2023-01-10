@@ -6,7 +6,7 @@
 id_hidden        : 761009sb.ali
 listtype_hidden  : SB 1.2.5
 listdate_hidden  : 1976-10-09
-showdate_hidden  : 2022-10-09
+showdate_hidden  : 2023-10-09
 listplace_hidden : Aligarh
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : October 9

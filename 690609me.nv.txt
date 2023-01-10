@@ -6,7 +6,7 @@
 id_hidden        : 690609me.nv
 listtype_hidden  : Meeting Devotees
 listdate_hidden  : 1969-06-09
-showdate_hidden  : 2022-06-09
+showdate_hidden  : 2023-06-09
 listplace_hidden : New Vrindaban
 Type_spoken      : Room Conversation
 Date_spoken      : June 9

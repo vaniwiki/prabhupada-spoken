@@ -6,7 +6,7 @@
 id_hidden        : 670102cc.ny
 listtype_hidden  : Cc. Madhya 20.391–405
 listdate_hidden  : 1967-01-02
-showdate_hidden  : 2022-01-02
+showdate_hidden  : 2023-01-02
 listplace_hidden : New York
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : January 2

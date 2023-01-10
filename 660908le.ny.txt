@@ -6,7 +6,7 @@
 id_hidden        : 660908le.ny
 listtype_hidden  : Mahā-mantra Lecture
 listdate_hidden  : 1966-09-08
-showdate_hidden  : 2022-09-08
+showdate_hidden  : 2023-09-08
 listplace_hidden : New York
 Type_spoken      : Lecture
 Date_spoken      : September 8

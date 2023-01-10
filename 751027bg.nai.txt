@@ -6,7 +6,7 @@
 id_hidden        : 751027bg.nai
 listtype_hidden  : Bg 7.1
 listdate_hidden  : 1975-10-27
-showdate_hidden  : 2022-10-27
+showdate_hidden  : 2023-10-27
 listplace_hidden : Nairobi
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : October 27

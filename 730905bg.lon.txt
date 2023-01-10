@@ -6,7 +6,7 @@
 id_hidden        : 730905bg.lon
 listtype_hidden  : Rādhāṣṭamī
 listdate_hidden  : 1973-09-05
-showdate_hidden  : 2022-09-05
+showdate_hidden  : 2023-09-05
 listplace_hidden : London
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : September 5

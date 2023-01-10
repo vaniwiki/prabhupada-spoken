@@ -6,7 +6,7 @@
 id_hidden        : 660918bg.ny
 listtype_hidden  : Bg 6.40–43
 listdate_hidden  : 1966-09-18
-showdate_hidden  : 2022-09-18
+showdate_hidden  : 2023-09-18
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : September 18

@@ -6,7 +6,7 @@
 id_hidden        : 670325sb.sf
 listtype_hidden  : SB 1.2.17
 listdate_hidden  : 1967-03-25
-showdate_hidden  : 2022-03-25
+showdate_hidden  : 2023-03-25
 listplace_hidden : San Francisco
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : March 25

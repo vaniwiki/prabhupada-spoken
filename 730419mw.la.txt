@@ -6,7 +6,7 @@
 id_hidden        : 730419mw.la
 listtype_hidden  : Morning Walk at Cheviot Hills Park
 listdate_hidden  : 1973-04-19
-showdate_hidden  : 2022-04-19
+showdate_hidden  : 2023-04-19
 listplace_hidden : Los Angeles
 Type_spoken      : Morning Walk
 Date_spoken      : April 19

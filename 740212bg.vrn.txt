@@ -6,7 +6,7 @@
 id_hidden        : 740212bg.vrn
 listtype_hidden  : Bg 4.4
 listdate_hidden  : 1974-02-12
-showdate_hidden  : 2022-02-12
+showdate_hidden  : 2023-02-12
 listplace_hidden : Vṛndāvana
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : February 12

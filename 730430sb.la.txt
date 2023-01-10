@@ -6,7 +6,7 @@
 id_hidden        : 730430sb.la
 listtype_hidden  : SB 1.8.38
 listdate_hidden  : 1973-04-30
-showdate_hidden  : 2022-04-30
+showdate_hidden  : 2023-04-30
 listplace_hidden : Los Angeles
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : April 30

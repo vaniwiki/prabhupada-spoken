@@ -6,7 +6,7 @@
 id_hidden        : 721007mw.ber
 listtype_hidden  : Morning Walk
 listdate_hidden  : 1972-10-07
-showdate_hidden  : 2022-10-07
+showdate_hidden  : 2023-10-07
 listplace_hidden : Berkeley
 Type_spoken      : Morning Walk
 Date_spoken      : October 7

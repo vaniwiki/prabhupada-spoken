@@ -6,7 +6,7 @@
 id_hidden        : 661216bg.ny
 listtype_hidden  : Bg 9.26–27
 listdate_hidden  : 1966-12-16
-showdate_hidden  : 2022-12-16
+showdate_hidden  : 2023-12-16
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : December 16

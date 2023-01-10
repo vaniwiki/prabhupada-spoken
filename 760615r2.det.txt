@@ -6,7 +6,7 @@
 id_hidden        : 760615r2.det
 listtype_hidden  : Room Conversation
 listdate_hidden  : 1976-06-15
-showdate_hidden  : 2022-06-15
+showdate_hidden  : 2023-06-15
 listplace_hidden : Detroit
 Type_spoken      : Room Conversation
 Date_spoken      : June 15

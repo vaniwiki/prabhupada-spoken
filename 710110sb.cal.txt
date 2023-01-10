@@ -6,7 +6,7 @@
 id_hidden        : 710110sb.cal
 listtype_hidden  : SB 6.2.5–8
 listdate_hidden  : 1971-01-10
-showdate_hidden  : 2022-01-10
+showdate_hidden  : 2023-01-10
 listplace_hidden : Calcutta
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : January 10

@@ -6,7 +6,7 @@
 id_hidden        : 761217bg.hyd
 listtype_hidden  : Bg 3.25
 listdate_hidden  : 1976-12-17
-showdate_hidden  : 2022-12-17
+showdate_hidden  : 2023-12-17
 listplace_hidden : Hyderabad
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : December 17

@@ -6,7 +6,7 @@
 id_hidden        : 680509in.bos
 listtype_hidden  : Gāyatrī Mantra Initiation
 listdate_hidden  : 1968-05-09
-showdate_hidden  : 2022-05-09
+showdate_hidden  : 2023-05-09
 listplace_hidden : Boston
 Type_spoken      : Initiation
 Date_spoken      : May 9

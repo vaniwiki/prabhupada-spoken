@@ -6,7 +6,7 @@
 id_hidden        : 730812sb.par
 listtype_hidden  : SB 5.5.1–2
 listdate_hidden  : 1973-08-12
-showdate_hidden  : 2022-08-12
+showdate_hidden  : 2023-08-12
 listplace_hidden : Paris
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : August 12

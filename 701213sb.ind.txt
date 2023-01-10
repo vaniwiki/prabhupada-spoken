@@ -6,7 +6,7 @@
 id_hidden        : 701213sb.ind
 listtype_hidden  : SB 6.1.22
 listdate_hidden  : 1970-12-13
-showdate_hidden  : 2022-12-13
+showdate_hidden  : 2023-12-13
 listplace_hidden : Indore
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : December 13

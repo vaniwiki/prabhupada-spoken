@@ -6,7 +6,7 @@
 id_hidden        : 690330le.haw
 listtype_hidden  : Lecture
 listdate_hidden  : 1969-03-30
-showdate_hidden  : 2022-03-30
+showdate_hidden  : 2023-03-30
 listplace_hidden : Hawaii
 Type_spoken      : Lecture
 Date_spoken      : March 30

@@ -6,7 +6,7 @@
 id_hidden        : 721004sb.la
 listtype_hidden  : SB 1.3.29
 listdate_hidden  : 1972-10-04
-showdate_hidden  : 2022-10-04
+showdate_hidden  : 2023-10-04
 listplace_hidden : Los Angeles
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : October 4

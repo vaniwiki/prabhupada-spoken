@@ -6,7 +6,7 @@
 id_hidden        : 740123sb.hon
 listtype_hidden  : SB 1.16.26–30
 listdate_hidden  : 1974-01-23
-showdate_hidden  : 2022-01-23
+showdate_hidden  : 2023-01-23
 listplace_hidden : Honolulu
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : January 23

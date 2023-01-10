@@ -6,7 +6,7 @@
 id_hidden        : 680927le.sea
 listtype_hidden  : Lecture
 listdate_hidden  : 1968-09-27
-showdate_hidden  : 2022-09-27
+showdate_hidden  : 2023-09-27
 listplace_hidden : Seattle
 Type_spoken      : Lecture
 Date_spoken      : September 27

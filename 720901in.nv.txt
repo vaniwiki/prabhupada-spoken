@@ -6,7 +6,7 @@
 id_hidden        : 720901in.nv
 listtype_hidden  : Initiations
 listdate_hidden  : 1972-09-01
-showdate_hidden  : 2022-09-01
+showdate_hidden  : 2023-09-01
 listplace_hidden : New Vrindavan
 Type_spoken      : Initiation
 Date_spoken      : September 1

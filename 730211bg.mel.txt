@@ -6,7 +6,7 @@
 id_hidden        : 730211bg.mel
 listtype_hidden  : Bg 3.36–37
 listdate_hidden  : 1973-02-11
-showdate_hidden  : 2022-02-11
+showdate_hidden  : 2023-02-11
 listplace_hidden : Melbourne
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : February 11

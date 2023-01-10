@@ -6,7 +6,7 @@
 id_hidden        : 700416le.la
 listtype_hidden  : Lecture [Day after Lord Rāma's Appearance Day]
 listdate_hidden  : 1970-04-16
-showdate_hidden  : 2022-04-16
+showdate_hidden  : 2023-04-16
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : April 16

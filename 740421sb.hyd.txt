@@ -6,7 +6,7 @@
 id_hidden        : 740421sb.hyd
 listtype_hidden  : SB 1.2.7
 listdate_hidden  : 1974-04-21
-showdate_hidden  : 2022-04-21
+showdate_hidden  : 2023-04-21
 listplace_hidden : Hyderabad
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : April 21

@@ -6,7 +6,7 @@
 id_hidden        : 720731sb.gla
 listtype_hidden  : SB 1.2.5
 listdate_hidden  : 1972-07-31
-showdate_hidden  : 2022-07-31
+showdate_hidden  : 2023-07-31
 listplace_hidden : Glasgow
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : July 31

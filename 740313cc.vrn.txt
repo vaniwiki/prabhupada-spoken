@@ -6,7 +6,7 @@
 id_hidden        : 740313cc.vrn
 listtype_hidden  : Cc. Ādi 7.91–2
 listdate_hidden  : 1974-03-13
-showdate_hidden  : 2022-03-13
+showdate_hidden  : 2023-03-13
 listplace_hidden : Vṛndāvana
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : March 13

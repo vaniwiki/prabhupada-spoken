@@ -6,7 +6,7 @@
 id_hidden        : 750730mw.dal
 listtype_hidden  : Morning Walk
 listdate_hidden  : 1975-07-30
-showdate_hidden  : 2022-07-30
+showdate_hidden  : 2023-07-30
 listplace_hidden : Dallas
 Type_spoken      : Morning Walk
 Date_spoken      : July 30

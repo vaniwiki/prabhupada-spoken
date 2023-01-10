@@ -6,7 +6,7 @@
 id_hidden        : 740625bg.mel
 listtype_hidden  : Bg 13.22–24
 listdate_hidden  : 1974-06-25
-showdate_hidden  : 2022-06-25
+showdate_hidden  : 2023-06-25
 listplace_hidden : Melbourne
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : June 25

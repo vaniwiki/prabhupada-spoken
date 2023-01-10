@@ -6,7 +6,7 @@
 id_hidden        : 740603mw.gen
 listtype_hidden  : Morning Walk, partially recorded
 listdate_hidden  : 1974-06-03
-showdate_hidden  : 2022-06-03
+showdate_hidden  : 2023-06-03
 listplace_hidden : Geneva
 Type_spoken      : Morning Walk
 Date_spoken      : June 3

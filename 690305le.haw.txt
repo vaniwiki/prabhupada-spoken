@@ -6,7 +6,7 @@
 id_hidden        : 690305le.haw
 listtype_hidden  : Lecture-Day after Śrī Gaura-Pūrṇimā
 listdate_hidden  : 1969-03-05
-showdate_hidden  : 2022-03-05
+showdate_hidden  : 2023-03-05
 listplace_hidden : Hawaii
 Type_spoken      : Lecture
 Date_spoken      : March 5

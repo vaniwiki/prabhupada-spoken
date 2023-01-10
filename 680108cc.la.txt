@@ -6,7 +6,7 @@
 id_hidden        : 680108cc.la
 listtype_hidden  : Cc. Madhya 6.254
 listdate_hidden  : 1968-01-08
-showdate_hidden  : 2022-01-08
+showdate_hidden  : 2023-01-08
 listplace_hidden : Los Angeles
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : January 8

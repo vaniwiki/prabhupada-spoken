@@ -6,7 +6,7 @@
 id_hidden        : 681223sp.la
 listtype_hidden  : Recorded Speech to Members of ISKCON London
 listdate_hidden  : 1968-12-23
-showdate_hidden  : 2022-12-23
+showdate_hidden  : 2023-12-23
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : December 23

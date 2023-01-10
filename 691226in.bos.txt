@@ -6,7 +6,7 @@
 id_hidden        : 691226in.bos
 listtype_hidden  : Initiation Lecture
 listdate_hidden  : 1969-12-26
-showdate_hidden  : 2022-12-26
+showdate_hidden  : 2023-12-26
 listplace_hidden : Boston
 Type_spoken      : Initiation
 Date_spoken      : December 26

@@ -6,7 +6,7 @@
 id_hidden        : 760705mw.wdc
 listtype_hidden  : Morning Walk
 listdate_hidden  : 1976-07-05
-showdate_hidden  : 2022-07-05
+showdate_hidden  : 2023-07-05
 listplace_hidden : Washington, D.C.
 Type_spoken      : Morning Walk
 Date_spoken      : July 5

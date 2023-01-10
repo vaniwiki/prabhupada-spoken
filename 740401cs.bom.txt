@@ -6,7 +6,7 @@
 id_hidden        : 740401cs.bom
 listtype_hidden  : Śrī Rāma-navamī
 listdate_hidden  : 1974-04-01
-showdate_hidden  : 2022-04-01
+showdate_hidden  : 2023-04-01
 listplace_hidden : Bombay
 Type_spoken      : Lecture
 Date_spoken      : April 1

@@ -6,7 +6,7 @@
 id_hidden        : 720915mw.la
 listtype_hidden  : Morning Walk
 listdate_hidden  : 1972-09-15
-showdate_hidden  : 2022-09-15
+showdate_hidden  : 2023-09-15
 listplace_hidden : Los Angeles
 Type_spoken      : Morning Walk
 Date_spoken      : September 15

@@ -6,7 +6,7 @@
 id_hidden        : 750627ar.den
 listtype_hidden  : Arrival Address
 listdate_hidden  : 1975-06-27
-showdate_hidden  : 2022-06-27
+showdate_hidden  : 2023-06-27
 listplace_hidden : Denver
 Type_spoken      : Lecture
 Date_spoken      : June 27

@@ -6,7 +6,7 @@
 id_hidden        : 750401r1.may
 listtype_hidden  : Conversation with Devotees on Theology
 listdate_hidden  : 1975-04-01
-showdate_hidden  : 2022-04-01
+showdate_hidden  : 2023-04-01
 listplace_hidden : Māyāpur
 Type_spoken      : Room Conversation
 Date_spoken      : April 1

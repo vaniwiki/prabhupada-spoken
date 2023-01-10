@@ -6,7 +6,7 @@
 id_hidden        : 681020in.sea
 listtype_hidden  : Lecture & Initiation
 listdate_hidden  : 1968-10-20
-showdate_hidden  : 2022-10-20
+showdate_hidden  : 2023-10-20
 listplace_hidden : Seattle
 Type_spoken      : Initiation
 Date_spoken      : October 20

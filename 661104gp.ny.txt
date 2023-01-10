@@ -6,7 +6,7 @@
 id_hidden        : 661104gp.ny
 listtype_hidden  : Govardhana Pūjā
 listdate_hidden  : 1966-11-04
-showdate_hidden  : 2022-11-04
+showdate_hidden  : 2023-11-04
 listplace_hidden : New York
 Type_spoken      : Lecture
 Date_spoken      : November 4

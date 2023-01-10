@@ -6,7 +6,7 @@
 id_hidden        : 720630in.sd
 listtype_hidden  : Bg 7.1 and Initiations
 listdate_hidden  : 1972-06-30
-showdate_hidden  : 2022-06-30
+showdate_hidden  : 2023-06-30
 listplace_hidden : San Diego
 Type_spoken      : Initiation
 Date_spoken      : June 30

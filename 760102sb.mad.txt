@@ -6,7 +6,7 @@
 id_hidden        : 760102sb.mad
 listtype_hidden  : SB 7.6.1
 listdate_hidden  : 1976-01-02
-showdate_hidden  : 2022-01-02
+showdate_hidden  : 2023-01-02
 listplace_hidden : Madras
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : January 2

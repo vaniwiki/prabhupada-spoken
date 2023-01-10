@@ -6,7 +6,7 @@
 id_hidden        : 720630le.sd
 listtype_hidden  : Lecture at Indians Home
 listdate_hidden  : 1972-06-30
-showdate_hidden  : 2022-06-30
+showdate_hidden  : 2023-06-30
 listplace_hidden : San Diego
 Type_spoken      : Lecture
 Date_spoken      : June 30

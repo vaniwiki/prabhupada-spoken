@@ -6,7 +6,7 @@
 id_hidden        : 690207ba.la
 listtype_hidden  : Appearance Day
 listdate_hidden  : 1969-02-07
-showdate_hidden  : 2022-02-07
+showdate_hidden  : 2023-02-07
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : February 7

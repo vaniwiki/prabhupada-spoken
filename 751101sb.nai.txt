@@ -6,7 +6,7 @@
 id_hidden        : 751101sb.nai
 listtype_hidden  : SB 3.28.21
 listdate_hidden  : 1975-11-01
-showdate_hidden  : 2022-11-01
+showdate_hidden  : 2023-11-01
 listplace_hidden : Nairobi
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : November 1

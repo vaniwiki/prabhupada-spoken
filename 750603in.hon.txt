@@ -6,7 +6,7 @@
 id_hidden        : 750603in-hon
 listtype_hidden  : Initiation
 listdate_hidden  : 1975-06-03
-showdate_hidden  : 2022-06-03
+showdate_hidden  : 2023-06-03
 listplace_hidden : Honolulu
 Type_spoken      : Initiation
 Date_spoken      : June 3

@@ -6,7 +6,7 @@
 id_hidden        : 750414le.hyd
 listtype_hidden  : Lecture on Science of Kṛṣṇa
 listdate_hidden  : 1975-04-14
-showdate_hidden  : 2022-04-14
+showdate_hidden  : 2023-04-14
 listplace_hidden : Hyderabad
 Type_spoken      : Lecture
 Date_spoken      : April 14

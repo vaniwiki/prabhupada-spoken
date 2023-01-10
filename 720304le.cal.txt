@@ -6,7 +6,7 @@
 id_hidden        : 720304le.cal
 listtype_hidden  : Lecture [Bengali]
 listdate_hidden  : 1972-03-04
-showdate_hidden  : 2022-03-04
+showdate_hidden  : 2023-03-04
 listplace_hidden : Calcutta
 Type_spoken      : Bengali
 Date_spoken      : March 4

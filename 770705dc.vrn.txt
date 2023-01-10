@@ -6,7 +6,7 @@
 id_hidden        : 770705dc.vrn
 listtype_hidden  : Bhū-maṇḍala
 listdate_hidden  : 1977-07-05
-showdate_hidden  : 2022-07-05
+showdate_hidden  : 2023-07-05
 listplace_hidden : Vṛndāvana
 Type_spoken      : Room Conversation
 Date_spoken      : July 5

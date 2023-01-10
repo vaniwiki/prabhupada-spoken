@@ -6,7 +6,7 @@
 id_hidden        : 661002bg.ny
 listtype_hidden  : Bg 7.8–14
 listdate_hidden  : 1966-10-02
-showdate_hidden  : 2022-10-02
+showdate_hidden  : 2023-10-02
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : October 2

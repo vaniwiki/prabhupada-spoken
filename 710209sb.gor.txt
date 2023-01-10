@@ -6,7 +6,7 @@
 id_hidden        : 710209sb.gor
 listtype_hidden  : SB 6.3.12–15
 listdate_hidden  : 1971-02-09
-showdate_hidden  : 2022-02-09
+showdate_hidden  : 2023-02-09
 listplace_hidden : Gorakhpur
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : February 9

@@ -6,7 +6,7 @@
 id_hidden        : 770622r1.vrn
 listtype_hidden  : Conversation, “Rascal Editors,” and Morning Talk
 listdate_hidden  : 1977-06-22
-showdate_hidden  : 2022-06-22
+showdate_hidden  : 2023-06-22
 listplace_hidden : Vṛndāvana
 Type_spoken      : Room Conversation
 Date_spoken      : June 22

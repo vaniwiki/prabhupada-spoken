@@ -6,7 +6,7 @@
 id_hidden        : 770208ba.may
 listtype_hidden  : Appearance Day
 listdate_hidden  : 1977-02-08
-showdate_hidden  : 2022-02-08
+showdate_hidden  : 2023-02-08
 listplace_hidden : Māyāpur
 Type_spoken      : Lecture
 Date_spoken      : February 8

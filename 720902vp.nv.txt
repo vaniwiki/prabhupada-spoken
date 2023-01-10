@@ -6,7 +6,7 @@
 id_hidden        : 720902vp.nv
 listtype_hidden  : Śrī Vyāsa-pūjā
 listdate_hidden  : 1972-09-02
-showdate_hidden  : 2022-09-02
+showdate_hidden  : 2023-09-02
 listplace_hidden : New Vrindavan
 Type_spoken      : Lecture
 Date_spoken      : September 2

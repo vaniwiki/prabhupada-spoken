@@ -6,7 +6,7 @@
 id_hidden        : 720521le.la
 listtype_hidden  : Sunday Feast Lecture
 listdate_hidden  : 1972-05-21
-showdate_hidden  : 2022-05-21
+showdate_hidden  : 2023-05-21
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : May 21

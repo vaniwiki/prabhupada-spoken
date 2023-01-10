@@ -6,7 +6,7 @@
 id_hidden        : 750128bg.tok
 listtype_hidden  : Bg 16.8
 listdate_hidden  : 1975-01-28
-showdate_hidden  : 2022-01-28
+showdate_hidden  : 2023-01-28
 listplace_hidden : Tokyo
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : January 28

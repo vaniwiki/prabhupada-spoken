@@ -6,7 +6,7 @@
 id_hidden        : 770524r1.vrn
 listtype_hidden  : Short Discussions
 listdate_hidden  : 1977-05-24
-showdate_hidden  : 2022-05-24
+showdate_hidden  : 2023-05-24
 listplace_hidden : Vṛndāvana
 Type_spoken      : Room Conversation
 Date_spoken      : May 24

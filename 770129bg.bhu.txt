@@ -6,7 +6,7 @@
 id_hidden        : 770129bg.bhu
 listtype_hidden  : Bg 7.1
 listdate_hidden  : 1977-01-29
-showdate_hidden  : 2022-01-29
+showdate_hidden  : 2023-01-29
 listplace_hidden : Bhubaneswar 
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : January 29

@@ -6,7 +6,7 @@
 id_hidden        : 720505r1.kyo
 listtype_hidden  : Room Conversation
 listdate_hidden  : 1972-05-05
-showdate_hidden  : 2022-05-05
+showdate_hidden  : 2023-05-05
 listplace_hidden : Kyoto
 Type_spoken      : Room Conversation
 Date_spoken      : May 5

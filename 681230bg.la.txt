@@ -6,7 +6,7 @@
 id_hidden        : 681230bg.la
 listtype_hidden  : Bg 3.18–30
 listdate_hidden  : 1968-12-30
-showdate_hidden  : 2022-12-30
+showdate_hidden  : 2023-12-30
 listplace_hidden : Los Angeles
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : December 30

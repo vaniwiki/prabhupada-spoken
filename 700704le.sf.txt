@@ -6,7 +6,7 @@
 id_hidden        : 700704le.sf
 listtype_hidden  : Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture
 listdate_hidden  : 1970-07-04
-showdate_hidden  : 2022-07-04
+showdate_hidden  : 2023-07-04
 listplace_hidden : San Francisco
 Type_spoken      : Lecture
 Date_spoken      : July 4

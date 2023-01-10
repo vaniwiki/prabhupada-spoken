@@ -6,7 +6,7 @@
 id_hidden        : 680714sb.mon
 listtype_hidden  : SB 7.9.10–11
 listdate_hidden  : 1968-07-14
-showdate_hidden  : 2022-07-14
+showdate_hidden  : 2023-07-14
 listplace_hidden : Montreal
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : July 14

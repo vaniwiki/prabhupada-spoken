@@ -6,7 +6,7 @@
 id_hidden        : 680328sb.sf
 listtype_hidden  : SB 1.3.1–3
 listdate_hidden  : 1968-03-28
-showdate_hidden  : 2022-03-28
+showdate_hidden  : 2023-03-28
 listplace_hidden : San Francisco
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : March 28

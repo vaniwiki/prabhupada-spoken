@@ -6,7 +6,7 @@
 id_hidden        : 760907r1.vrn
 listtype_hidden  : Room Conversation
 listdate_hidden  : 1976-09-07
-showdate_hidden  : 2022-09-07
+showdate_hidden  : 2023-09-07
 listplace_hidden : Vṛndāvana
 Type_spoken      : Room Conversation
 Date_spoken      : September 7

@@ -6,7 +6,7 @@
 id_hidden        : 760401sb.vrn
 listtype_hidden  : SB 7.9.46
 listdate_hidden  : 1976-04-01
-showdate_hidden  : 2022-04-01
+showdate_hidden  : 2023-04-01
 listplace_hidden : Vṛndāvana
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : April 1

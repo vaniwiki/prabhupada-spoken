@@ -6,7 +6,7 @@
 id_hidden        : 750427sp.vrn
 listtype_hidden  : Explanation of Nṛsiṁha-vallabha Gosvāmī Speech
 listdate_hidden  : 1975-04-27
-showdate_hidden  : 2022-04-27
+showdate_hidden  : 2023-04-27
 listplace_hidden : Vṛndāvana
 Type_spoken      : Lecture
 Date_spoken      : April 27

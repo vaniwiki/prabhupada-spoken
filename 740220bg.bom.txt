@@ -6,7 +6,7 @@
 id_hidden        : 740220bg.bom
 listtype_hidden  : Bg 7.5
 listdate_hidden  : 1974-02-20
-showdate_hidden  : 2022-02-20
+showdate_hidden  : 2023-02-20
 listplace_hidden : Bombay
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : February 20

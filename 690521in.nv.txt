@@ -6,7 +6,7 @@
 id_hidden        : 690521in.nv
 listtype_hidden  : Initiation of Lokanātha dāsa
 listdate_hidden  : 1969-05-21
-showdate_hidden  : 2022-05-21
+showdate_hidden  : 2023-05-21
 listplace_hidden : New Vrindaban
 Type_spoken      : Initiation
 Date_spoken      : May 21

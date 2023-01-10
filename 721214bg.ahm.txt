@@ -6,7 +6,7 @@
 id_hidden        : 721214bg.ahm
 listtype_hidden  : Bg 7.1–3
 listdate_hidden  : 1972-12-14
-showdate_hidden  : 2022-12-14
+showdate_hidden  : 2023-12-14
 listplace_hidden : Ahmedabad
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : December 14

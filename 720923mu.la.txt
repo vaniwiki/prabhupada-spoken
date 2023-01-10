@@ -6,7 +6,7 @@
 id_hidden        : 720923mu.la
 listtype_hidden  : Nitāi Guṇa Mani Āmāra
 listdate_hidden  : 1972-09-23
-showdate_hidden  : 2022-09-23
+showdate_hidden  : 2023-09-23
 listplace_hidden : Los Angeles
 Type_spoken      : Song Purport
 Date_spoken      : September 23

@@ -6,7 +6,7 @@
 id_hidden        : 750719sb.sf
 listtype_hidden  : SB 6.1.37
 listdate_hidden  : 1975-07-19
-showdate_hidden  : 2022-07-19
+showdate_hidden  : 2023-07-19
 listplace_hidden : San Francisco
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : July 19

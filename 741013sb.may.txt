@@ -6,7 +6,7 @@
 id_hidden        : 741013sb.may
 listtype_hidden  : SB 1.8.33
 listdate_hidden  : 1974-10-13
-showdate_hidden  : 2022-10-13
+showdate_hidden  : 2023-10-13
 listplace_hidden : Māyāpur
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : October 13

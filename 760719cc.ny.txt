@@ -6,7 +6,7 @@
 id_hidden        : 760719cc.ny
 listtype_hidden  : Cc. Madhya 20.111
 listdate_hidden  : 1976-07-19
-showdate_hidden  : 2022-07-19
+showdate_hidden  : 2023-07-19
 listplace_hidden : New York
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : July 19

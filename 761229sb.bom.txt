@@ -6,7 +6,7 @@
 id_hidden        : 761229sb.bom
 listtype_hidden  : SB 5.6.11
 listdate_hidden  : 1976-12-29
-showdate_hidden  : 2022-12-29
+showdate_hidden  : 2023-12-29
 listplace_hidden : Bombay
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : December 29

@@ -6,7 +6,7 @@
 id_hidden        : 750906mw.vrn
 listtype_hidden  : Morning Walk
 listdate_hidden  : 1975-09-06
-showdate_hidden  : 2022-09-06
+showdate_hidden  : 2023-09-06
 listplace_hidden : Vṛndāvana
 Type_spoken      : Morning Walk
 Date_spoken      : September 6

@@ -6,7 +6,7 @@
 id_hidden        : 760804bg.nmr
 listtype_hidden  : Bg 4.24
 listdate_hidden  : 1976-08-04
-showdate_hidden  : 2022-08-04
+showdate_hidden  : 2023-08-04
 listplace_hidden : New Māyāpur
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : August 4

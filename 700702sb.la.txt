@@ -6,7 +6,7 @@
 id_hidden        : 700702sb.la
 listtype_hidden  : SB 2.1.1–6 Excerpts
 listdate_hidden  : 1970-07-02
-showdate_hidden  : 2022-07-02
+showdate_hidden  : 2023-07-02
 listplace_hidden : Los Angeles
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : July 2

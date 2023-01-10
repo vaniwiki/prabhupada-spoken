@@ -6,7 +6,7 @@
 id_hidden        : 760704ss.wdc
 listtype_hidden  : Slideshow Discussions
 listdate_hidden  : 1976-07-04
-showdate_hidden  : 2022-07-04
+showdate_hidden  : 2023-07-04
 listplace_hidden : Washington, D.C.
 Type_spoken      : Room Conversation
 Date_spoken      : July 4

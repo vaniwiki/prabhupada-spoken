@@ -6,7 +6,7 @@
 id_hidden        : 711110bg.del
 listtype_hidden  : Bg 4.1
 listdate_hidden  : 1971-11-10
-showdate_hidden  : 2022-11-10
+showdate_hidden  : 2023-11-10
 listplace_hidden : Delhi
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : November 10

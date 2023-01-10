@@ -6,7 +6,7 @@
 id_hidden        : 731116sb.del
 listtype_hidden  : Lecture at Pandal
 listdate_hidden  : 1973-11-16
-showdate_hidden  : 2022-11-16
+showdate_hidden  : 2023-11-16
 listplace_hidden : Delhi
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : November 16

@@ -6,7 +6,7 @@
 id_hidden        : 760731bg.nmr
 listtype_hidden  : Bg 10.8
 listdate_hidden  : 1976-07-31
-showdate_hidden  : 2022-07-31
+showdate_hidden  : 2023-07-31
 listplace_hidden : New Māyāpur
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : July 31

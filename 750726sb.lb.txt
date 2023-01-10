@@ -6,7 +6,7 @@
 id_hidden        : 750726sb.lb
 listtype_hidden  : SB 6.1.45
 listdate_hidden  : 1975-07-26
-showdate_hidden  : 2022-07-26
+showdate_hidden  : 2023-07-26
 listplace_hidden : Laguna Beach
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : July 26

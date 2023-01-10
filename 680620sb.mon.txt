@@ -6,7 +6,7 @@
 id_hidden        : 680620sb.mon
 listtype_hidden  : SB 1.4.25
 listdate_hidden  : 1968-06-20
-showdate_hidden  : 2022-06-20
+showdate_hidden  : 2023-06-20
 listplace_hidden : Montreal
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : June 20

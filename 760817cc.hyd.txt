@@ -6,7 +6,7 @@
 id_hidden        : 760817cc.hyd
 listtype_hidden  : Cc. Madhya 20.395
 listdate_hidden  : 1976-08-17
-showdate_hidden  : 2022-08-17
+showdate_hidden  : 2023-08-17
 listplace_hidden : Hyderabad
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : August 17

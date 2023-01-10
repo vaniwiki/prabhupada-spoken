@@ -6,7 +6,7 @@
 id_hidden        : 761002mw.vrn
 listtype_hidden  : Morning Walk [partially recorded]
 listdate_hidden  : 1976-10-02
-showdate_hidden  : 2022-10-02
+showdate_hidden  : 2023-10-02
 listplace_hidden : Vṛndāvana
 Type_spoken      : Morning Walk
 Date_spoken      : October 2

@@ -6,7 +6,7 @@
 id_hidden        : 740527sb.rom
 listtype_hidden  : SB 1.2.3
 listdate_hidden  : 1974-05-27
-showdate_hidden  : 2022-05-27
+showdate_hidden  : 2023-05-27
 listplace_hidden : Rome
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : May 27

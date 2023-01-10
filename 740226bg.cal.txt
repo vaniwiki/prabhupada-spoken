@@ -6,7 +6,7 @@
 id_hidden        : 740226bg.cal
 listtype_hidden  : Bg 15.1
 listdate_hidden  : 1974-02-26
-showdate_hidden  : 2022-02-26
+showdate_hidden  : 2023-02-26
 listplace_hidden : Calcutta
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : February 26

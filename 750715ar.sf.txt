@@ -6,7 +6,7 @@
 id_hidden        : 750715ar.sf
 listtype_hidden  : Arrival Lecture
 listdate_hidden  : 1975-07-15
-showdate_hidden  : 2022-07-15
+showdate_hidden  : 2023-07-15
 listplace_hidden : San Francisco
 Type_spoken      : Lecture
 Date_spoken      : July 15

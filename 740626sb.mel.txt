@@ -6,7 +6,7 @@
 id_hidden        : 740626sb.mel
 listtype_hidden  : SB 2.1.1–5
 listdate_hidden  : 1974-06-26
-showdate_hidden  : 2022-06-26
+showdate_hidden  : 2023-06-26
 listplace_hidden : Melbourne
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : June 26

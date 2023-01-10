@@ -6,7 +6,7 @@
 id_hidden        : 751020sb.joh
 listtype_hidden  : SB 5.5.1
 listdate_hidden  : 1975-10-20
-showdate_hidden  : 2022-10-20
+showdate_hidden  : 2023-10-20
 listplace_hidden : Johannesburg
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : October 20

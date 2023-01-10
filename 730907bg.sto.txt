@@ -6,7 +6,7 @@
 id_hidden        : 730907bg.sto
 listtype_hidden  : Bg 18.41
 listdate_hidden  : 1973-09-07
-showdate_hidden  : 2022-09-07
+showdate_hidden  : 2023-09-07
 listplace_hidden : Stockholm
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : September 7

@@ -6,7 +6,7 @@
 id_hidden        : 750703ar.chi
 listtype_hidden  : Arrival
 listdate_hidden  : 1975-07-03
-showdate_hidden  : 2022-07-03
+showdate_hidden  : 2023-07-03
 listplace_hidden : Chicago
 Type_spoken      : Lecture
 Date_spoken      : July 3

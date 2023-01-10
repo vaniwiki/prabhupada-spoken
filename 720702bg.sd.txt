@@ -6,7 +6,7 @@
 id_hidden        : 720702bg.sd
 listtype_hidden  : Bg 7.1
 listdate_hidden  : 1972-07-02
-showdate_hidden  : 2022-07-02
+showdate_hidden  : 2023-07-02
 listplace_hidden : San Diego
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : July 2

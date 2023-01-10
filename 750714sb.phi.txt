@@ -6,7 +6,7 @@
 id_hidden        : 750714sb.phi
 listtype_hidden  : SB 6.1.30
 listdate_hidden  : 1975-07-14
-showdate_hidden  : 2022-07-14
+showdate_hidden  : 2023-07-14
 listplace_hidden : Philadelphia
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : July 14

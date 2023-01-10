@@ -6,7 +6,7 @@
 id_hidden        : 720629le.sd
 listtype_hidden  : Lecture at San Diego University
 listdate_hidden  : 1972-06-29
-showdate_hidden  : 2022-06-29
+showdate_hidden  : 2023-06-29
 listplace_hidden : San Diego
 Type_spoken      : Lecture
 Date_spoken      : June 29

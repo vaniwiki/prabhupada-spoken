@@ -6,7 +6,7 @@
 id_hidden        : 720527pu.la
 listtype_hidden  : Bhajahū Re Mana
 listdate_hidden  : 1972-05-27
-showdate_hidden  : 2022-05-27
+showdate_hidden  : 2023-05-27
 listplace_hidden : Los Angeles
 Type_spoken      : Song Purport
 Date_spoken      : May 27

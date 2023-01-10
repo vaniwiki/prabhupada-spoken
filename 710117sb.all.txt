@@ -6,7 +6,7 @@
 id_hidden        : 710117sb.all
 listtype_hidden  : SB 6.2.12–14
 listdate_hidden  : 1971-01-17
-showdate_hidden  : 2022-01-17
+showdate_hidden  : 2023-01-17
 listplace_hidden : Allahabad
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : January 17

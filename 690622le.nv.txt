@@ -6,7 +6,7 @@
 id_hidden        : 690622le.nv # 
 listtype_hidden  : Lecture # 
 listdate_hidden  : 1969-06-22
-showdate_hidden  : 2022-06-22 #
+showdate_hidden  : 2023-06-22 #
 listplace_hidden : New Vrindaban # 
 Type_spoken      : Lecture # 
 Date_spoken      : June 22 # 

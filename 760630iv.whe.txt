@@ -6,7 +6,7 @@
 id_hidden        : 760630iv.whe
 listtype_hidden  : Interview
 listdate_hidden  : 1976-06-30
-showdate_hidden  : 2022-06-30
+showdate_hidden  : 2023-06-30
 listplace_hidden : Wheeling, W. Virginia
 Type_spoken      : Interview
 Date_spoken      : June 30

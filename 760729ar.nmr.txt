@@ -6,7 +6,7 @@
 id_hidden        : 760729ar.nmr
 listtype_hidden  : Arrival at Farm
 listdate_hidden  : 1976-07-29
-showdate_hidden  : 2022-07-29
+showdate_hidden  : 2023-07-29
 listplace_hidden : New Māyāpur
 Type_spoken      : Lecture
 Date_spoken      : July 29

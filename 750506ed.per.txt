@@ -6,7 +6,7 @@
 id_hidden        : 750506ed.per
 listtype_hidden  : Evening Discussion
 listdate_hidden  : 1975-05-06
-showdate_hidden  : 2022-05-06
+showdate_hidden  : 2023-05-06
 listplace_hidden : Perth
 Type_spoken      : Room Conversation
 Date_spoken      : May 6

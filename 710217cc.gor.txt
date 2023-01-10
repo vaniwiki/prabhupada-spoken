@@ -6,7 +6,7 @@
 id_hidden        : 710217cc.gor
 listtype_hidden  : Cc. Ādi 7.119
 listdate_hidden  : 1971-02-17
-showdate_hidden  : 2022-02-17
+showdate_hidden  : 2023-02-17
 listplace_hidden : Gorakhpur
 Type_spoken      : Śrī Caitanya-caritāmṛta
 Date_spoken      : February 17

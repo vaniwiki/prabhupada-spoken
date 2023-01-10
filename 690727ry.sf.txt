@@ -6,7 +6,7 @@
 id_hidden        : 690727ry.sf
 listtype_hidden  : Ratha-yātrā
 listdate_hidden  : 1969-07-27
-showdate_hidden  : 2022-07-27
+showdate_hidden  : 2023-07-27
 listplace_hidden : San Francisco
 Type_spoken      : Lecture
 Date_spoken      : July 27

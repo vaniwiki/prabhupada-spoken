@@ -6,7 +6,7 @@
 id_hidden        : 690917sb.lon
 listtype_hidden  : SB 5.5.2
 listdate_hidden  : 1969-09-17
-showdate_hidden  : 2022-09-17
+showdate_hidden  : 2023-09-17
 listplace_hidden : London
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 17

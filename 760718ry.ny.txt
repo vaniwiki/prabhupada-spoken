@@ -6,7 +6,7 @@
 id_hidden        : 760718ry.ny
 listtype_hidden  : Ratha-yātrā
 listdate_hidden  : 1976-07-18
-showdate_hidden  : 2022-07-18
+showdate_hidden  : 2023-07-18
 listplace_hidden : New York
 Type_spoken      : Lecture
 Date_spoken      : July 18

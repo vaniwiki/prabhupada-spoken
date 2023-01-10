@@ -6,7 +6,7 @@
 id_hidden        : 730909sb.sto
 listtype_hidden  : SB 5.5.3
 listdate_hidden  : 1973-09-09
-showdate_hidden  : 2022-09-09
+showdate_hidden  : 2023-09-09
 listplace_hidden : Stockholm
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : September 9

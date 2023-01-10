@@ -6,7 +6,7 @@
 id_hidden        : 681105bs.la
 listtype_hidden  : Bs. 29
 listdate_hidden  : 1968-11-05
-showdate_hidden  : 2022-11-05
+showdate_hidden  : 2023-11-05
 listplace_hidden : Los Angeles
 Type_spoken      : Śrī Brahma-saṁhitā
 Date_spoken      : November 5

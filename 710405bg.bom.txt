@@ -6,7 +6,7 @@
 id_hidden        : 710405bg.bom
 listtype_hidden  : Bg 7.11–13
 listdate_hidden  : 1971-04-05
-showdate_hidden  : 2022-04-05
+showdate_hidden  : 2023-04-05
 listplace_hidden : Bombay
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : April 5

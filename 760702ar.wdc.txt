@@ -6,7 +6,7 @@
 id_hidden        : 760702ar.wdc
 listtype_hidden  : Car Journey and Arrival
 listdate_hidden  : 1976-07-02
-showdate_hidden  : 2022-07-02
+showdate_hidden  : 2023-07-02
 listplace_hidden : Washington, D.C.
 Type_spoken      : Lecture
 Date_spoken      : July 2

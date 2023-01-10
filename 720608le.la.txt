@@ -6,7 +6,7 @@
 id_hidden        : 720608le.la
 listtype_hidden  : Lecture [partially recorded]
 listdate_hidden  : 1972-06-08
-showdate_hidden  : 2022-06-08
+showdate_hidden  : 2023-06-08
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : June 8

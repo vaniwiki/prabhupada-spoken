@@ -6,7 +6,7 @@
 id_hidden        : 760427ar.auc
 listtype_hidden  : Arrival Address
 listdate_hidden  : 1976-04-27
-showdate_hidden  : 2022-04-27
+showdate_hidden  : 2023-04-27
 listplace_hidden : Auckland
 Type_spoken      : Lecture
 Date_spoken      : April 27

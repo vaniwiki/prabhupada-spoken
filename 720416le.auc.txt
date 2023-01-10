@@ -6,7 +6,7 @@
 id_hidden        : 720416le.auc
 listtype_hidden  : Lecture at Art Gallery
 listdate_hidden  : 1972-04-16
-showdate_hidden  : 2022-04-16
+showdate_hidden  : 2023-04-16
 listplace_hidden : Auckland
 Type_spoken      : Lecture
 Date_spoken      : April 16

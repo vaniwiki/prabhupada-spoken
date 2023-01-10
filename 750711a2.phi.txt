@@ -6,7 +6,7 @@
 id_hidden        : 750711a2.phi
 listtype_hidden  : Arrival Lecture
 listdate_hidden  : 1975-07-11
-showdate_hidden  : 2022-07-11
+showdate_hidden  : 2023-07-11
 listplace_hidden : Philadelphia
 Type_spoken      : Lecture
 Date_spoken      : July 11

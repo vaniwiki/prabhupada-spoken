@@ -6,7 +6,7 @@
 id_hidden        : 760615in.det
 listtype_hidden  : Initiations
 listdate_hidden  : 1976-06-15
-showdate_hidden  : 2022-06-15
+showdate_hidden  : 2023-06-15
 listplace_hidden : Detroit
 Type_spoken      : Initiation
 Date_spoken      : June 15

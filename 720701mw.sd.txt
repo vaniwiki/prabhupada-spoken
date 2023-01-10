@@ -6,7 +6,7 @@
 id_hidden        : 720701mw.sd
 listtype_hidden  : Morning Walk
 listdate_hidden  : 1972-07-01
-showdate_hidden  : 2022-07-01
+showdate_hidden  : 2023-07-01
 listplace_hidden : San Diego
 Type_spoken      : Morning Walk
 Date_spoken      : July 1

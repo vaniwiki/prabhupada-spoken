@@ -6,7 +6,7 @@
 id_hidden        : 730925bg.bom
 listtype_hidden  : Bg 13.1–2
 listdate_hidden  : 1973-09-25
-showdate_hidden  : 2022-09-25
+showdate_hidden  : 2023-09-25
 listplace_hidden : Bombay
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : September 25

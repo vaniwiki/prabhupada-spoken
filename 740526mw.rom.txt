@@ -6,7 +6,7 @@
 id_hidden        : 740526mw.rom
 listtype_hidden  : Morning Walk at Villa Borghese
 listdate_hidden  : 1974-05-26
-showdate_hidden  : 2022-05-26
+showdate_hidden  : 2023-05-26
 listplace_hidden : Rome
 Type_spoken      : Morning Walk
 Date_spoken      : May 26

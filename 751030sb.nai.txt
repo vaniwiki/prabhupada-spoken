@@ -6,7 +6,7 @@
 id_hidden        : 751030sb.nai
 listtype_hidden  : SB 3.28.20
 listdate_hidden  : 1975-10-30
-showdate_hidden  : 2022-10-30
+showdate_hidden  : 2023-10-30
 listplace_hidden : Nairobi
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : October 30

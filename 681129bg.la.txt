@@ -6,7 +6,7 @@
 id_hidden        : 681129bg.la
 listtype_hidden  : Bg 2.13–17
 listdate_hidden  : 1968-11-29
-showdate_hidden  : 2022-11-29
+showdate_hidden  : 2023-11-29
 listplace_hidden : Los Angeles
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : November 29

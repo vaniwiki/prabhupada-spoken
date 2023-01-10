@@ -6,7 +6,7 @@
 id_hidden        : 731213db.la
 listtype_hidden  : Disappearance Day
 listdate_hidden  : 1973-12-13
-showdate_hidden  : 2022-12-13
+showdate_hidden  : 2023-12-13
 listplace_hidden : Los Angeles
 Type_spoken      : Lecture
 Date_spoken      : December 13

@@ -6,7 +6,7 @@
 id_hidden        : 760615sb.det
 listtype_hidden  : SB 6.1.49
 listdate_hidden  : 1976-06-15
-showdate_hidden  : 2022-06-15
+showdate_hidden  : 2023-06-15
 listplace_hidden : Detroit
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : June 15

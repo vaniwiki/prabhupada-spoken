@@ -6,7 +6,7 @@
 id_hidden        : 681004le.sea
 listtype_hidden  : Lecture
 listdate_hidden  : 1968-10-04
-showdate_hidden  : 2022-10-04
+showdate_hidden  : 2023-10-04
 listplace_hidden : Seattle
 Type_spoken      : Lecture
 Date_spoken      : October 4

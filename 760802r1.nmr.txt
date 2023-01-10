@@ -6,7 +6,7 @@
 id_hidden        : 760802r1.nmr
 listtype_hidden  : Room Conversation
 listdate_hidden  : 1976-08-02
-showdate_hidden  : 2022-08-02
+showdate_hidden  : 2023-08-02
 listplace_hidden : New Māyāpur
 Type_spoken      : Room Conversation
 Date_spoken      : August 2

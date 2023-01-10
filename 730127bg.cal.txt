@@ -6,7 +6,7 @@
 id_hidden        : 730127bg.cal
 listtype_hidden  : Bg 7.1
 listdate_hidden  : 1973-01-27
-showdate_hidden  : 2022-01-27
+showdate_hidden  : 2023-01-27
 listplace_hidden : Calcutta
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : January 27

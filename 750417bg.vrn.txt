@@ -6,7 +6,7 @@
 id_hidden        : 750417bg.vrn
 listtype_hidden  : Bg 9.1
 listdate_hidden  : 1975-04-17
-showdate_hidden  : 2022-04-17
+showdate_hidden  : 2023-04-17
 listplace_hidden : Vṛndāvana
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : April 17

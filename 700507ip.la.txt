@@ -6,7 +6,7 @@
 id_hidden        : 700507ip.la
 listtype_hidden  : Īśo Mantra 5
 listdate_hidden  : 1970-05-07
-showdate_hidden  : 2022-05-07
+showdate_hidden  : 2023-05-07
 listplace_hidden : Los Angeles
 Type_spoken      : Śrī Īśopaniṣad
 Date_spoken      : May 7

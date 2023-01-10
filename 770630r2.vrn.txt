@@ -6,7 +6,7 @@
 id_hidden        : 770630r2.vrn
 listtype_hidden  : Conversation with Bhakti-caitanya Swami (New GBC)
 listdate_hidden  : 1977-06-30
-showdate_hidden  : 2022-06-30
+showdate_hidden  : 2023-06-30
 listplace_hidden : Vṛndāvana
 Type_spoken      : Room Conversation
 Date_spoken      : June 30

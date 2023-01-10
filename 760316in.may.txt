@@ -6,7 +6,7 @@
 id_hidden        : 760316in.may
 listtype_hidden  : Sannyāsa and Harināma Initiations
 listdate_hidden  : 1976-03-16
-showdate_hidden  : 2022-03-16
+showdate_hidden  : 2023-03-16
 listplace_hidden : Māyāpur
 Type_spoken      : Initiation
 Date_spoken      : March 16

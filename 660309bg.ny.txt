@@ -6,7 +6,7 @@
 id_hidden        : 660309bg.ny
 listtype_hidden  : Bg 2.12
 listdate_hidden  : 1966-03-09
-showdate_hidden  : 2022-03-09
+showdate_hidden  : 2023-03-09
 listplace_hidden : New York
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : March 9

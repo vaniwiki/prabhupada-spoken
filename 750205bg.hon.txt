@@ -6,7 +6,7 @@
 id_hidden        : 750205bg.hon
 listtype_hidden  : Bg 16.9
 listdate_hidden  : 1975-02-05
-showdate_hidden  : 2022-02-05
+showdate_hidden  : 2023-02-05
 listplace_hidden : Honolulu
 Type_spoken      : Bhagavad-gītā
 Date_spoken      : February 5

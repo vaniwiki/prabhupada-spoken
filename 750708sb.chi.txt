@@ -6,7 +6,7 @@
 id_hidden        : 750708sb.chi
 listtype_hidden  : SB 6.1.24
 listdate_hidden  : 1975-07-08
-showdate_hidden  : 2022-07-08
+showdate_hidden  : 2023-07-08
 listplace_hidden : Chicago
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : July 8

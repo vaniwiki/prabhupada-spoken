@@ -6,7 +6,7 @@
 id_hidden        : 740713mw.la
 listtype_hidden  : Morning Walk at Marine del Rey
 listdate_hidden  : 1974-07-13
-showdate_hidden  : 2022-07-13
+showdate_hidden  : 2023-07-13
 listplace_hidden : Los Angeles
 Type_spoken      : Morning Walk
 Date_spoken      : July 13

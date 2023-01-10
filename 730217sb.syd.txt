@@ -6,7 +6,7 @@
 id_hidden        : 730217sb.syd
 listtype_hidden  : SB 6.1.6
 listdate_hidden  : 1973-02-17
-showdate_hidden  : 2022-02-17
+showdate_hidden  : 2023-02-17
 listplace_hidden : Sydney
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : February 17

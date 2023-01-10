@@ -6,7 +6,7 @@
 id_hidden        : 730620sb.may
 listtype_hidden  : SB 1.10.5
 listdate_hidden  : 1973-06-20
-showdate_hidden  : 2022-06-20
+showdate_hidden  : 2023-06-20
 listplace_hidden : Māyāpur
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : June 20

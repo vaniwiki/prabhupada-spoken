@@ -6,7 +6,7 @@
 id_hidden        : 731217ch.la
 listtype_hidden  : Cc Ādi 10 and 11
 listdate_hidden  : 1973-12-17
-showdate_hidden  : 2022-12-17
+showdate_hidden  : 2023-12-17
 listplace_hidden : Los Angeles
 Type_spoken      : Various
 Date_spoken      : December 17

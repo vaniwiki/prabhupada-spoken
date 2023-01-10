@@ -6,7 +6,7 @@
 id_hidden        : 770207ar.may
 listtype_hidden  : Arrival Lecture
 listdate_hidden  : 1977-02-07
-showdate_hidden  : 2022-02-07
+showdate_hidden  : 2023-02-07
 listplace_hidden : Māyāpur
 Type_spoken      : Lecture
 Date_spoken      : February 7

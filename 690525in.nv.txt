@@ -6,7 +6,7 @@
 id_hidden        : 690525in.nv # 
 listtype_hidden  : Brāhmaṇa Initiation Lecture # 
 listdate_hidden  : 1969-05-25
-showdate_hidden  : 2022-05-25 #
+showdate_hidden  : 2023-05-25 #
 listplace_hidden : New Vrindaban # 
 Type_spoken      : Initiation # 
 Date_spoken      : May 25 # 

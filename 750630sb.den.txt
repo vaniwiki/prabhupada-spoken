@@ -6,7 +6,7 @@
 id_hidden        : 750630sb.den
 listtype_hidden  : SB 6.1.17
 listdate_hidden  : 1975-06-30
-showdate_hidden  : 2022-06-30
+showdate_hidden  : 2023-06-30
 listplace_hidden : Denver
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : June 30

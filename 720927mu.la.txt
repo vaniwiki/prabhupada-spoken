@@ -6,7 +6,7 @@
 id_hidden        : 720927mu.la
 listtype_hidden  : Śuddha-bhakata-caraṇa-reṇu and Purport
 listdate_hidden  : 1972-09-27
-showdate_hidden  : 2022-09-27
+showdate_hidden  : 2023-09-27
 listplace_hidden : Los Angeles
 Type_spoken      : Song Purport
 Date_spoken      : September 27

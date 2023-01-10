@@ -6,7 +6,7 @@
 id_hidden        : 770323sb.bom
 listtype_hidden  : SB 2.3.18–19
 listdate_hidden  : 1977-03-23
-showdate_hidden  : 2022-03-23
+showdate_hidden  : 2023-03-23
 listplace_hidden : Bombay
 Type_spoken      : Śrīmad-Bhāgavatam
 Date_spoken      : March 23
