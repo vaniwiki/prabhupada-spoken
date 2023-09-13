@@ -1,7 +1,13 @@
-~~Title: Bg Introduction — February 19-20, 1966, New York~~
-~~bc: February 19–20, 1966, New York~~
+---json
+{
+    "name":"Bg 2.7-11 — March 2, 1966, New York",
+    "h1":"March 2, 1966, New York",
+    "title":"Bg 2.7-11 — March 2, 1966, New York",
+    "description":""
+}
+---
 
-====== Introduction to Gītopaniṣad ======
+====== Bhagavad-gītā 2.7–11 ======
 
 ---- dataentry spoken ----
 id_hidden        : 660219-20bg.ny
