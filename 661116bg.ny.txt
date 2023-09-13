@@ -1,5 +1,12 @@
-~~Title: Bg 8.14-15 — November 16, 1966, New York~~
-~~bc: November 16, 1966, New York~~
+---json
+{
+    "name":"Bg 8.14-15 — November 16, 1966, New York",
+    "h1":"November 16, 1966, New York",
+    "title":"Bg 8.14-15 — November 16, 1966, New York",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 8.14–15 ======
 
 ---- dataentry spoken ----

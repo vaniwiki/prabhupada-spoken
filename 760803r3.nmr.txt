@@ -1,5 +1,12 @@
-~~Title: Room Conversation With French Commander — August 3, 1976, New Māyāpur~~
-~~bc: August 3, 1976, New Māyāpur~~
+---json
+{
+    "name":"Room Conversation With French Commander — August 3, 1976, New Māyāpur",
+    "h1":"August 3, 1976, New Māyāpur",
+    "title":"Room Conversation With French Commander — August 3, 1976, New Māyāpur",
+    "description":""
+}
+---
+
 ====== Room Conversation With French Commander ======
 
 ---- dataentry spoken ----

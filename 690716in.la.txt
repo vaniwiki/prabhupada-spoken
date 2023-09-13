@@ -1,5 +1,12 @@
-~~Title: Lecture at Initiation Fire Sacrifice — July 16, 1969, Los Angeles~~
-~~bc: July 16, 1969, Los Angeles~~
+---json
+{
+    "name":"Lecture at Initiation Fire Sacrifice — July 16, 1969, Los Angeles",
+    "h1":"July 16, 1969, Los Angeles",
+    "title":"Lecture at Initiation Fire Sacrifice — July 16, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Lecture at Initiation Fire Sacrifice ======
 
 ---- dataentry spoken ----

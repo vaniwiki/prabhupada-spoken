@@ -1,5 +1,12 @@
-~~Title: Talk with Svarūpa Dāmodara — June 20, 1977, Vṛndāvana~~
-~~bc: June 20, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Talk with Svarūpa Dāmodara — June 20, 1977, Vṛndāvana",
+    "h1":"June 20, 1977, Vṛndāvana",
+    "title":"Talk with Svarūpa Dāmodara — June 20, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Talk with Svarūpa Dāmodara ======
 
 ---- dataentry spoken ----

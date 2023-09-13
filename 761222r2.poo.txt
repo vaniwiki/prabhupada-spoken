@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Indian Man — December 22, 1976, Poona~~
-~~bc: December 22, 1976, Poona~~
+---json
+{
+    "name":"Room Conversation with Indian Man — December 22, 1976, Poona",
+    "h1":"December 22, 1976, Poona",
+    "title":"Room Conversation with Indian Man — December 22, 1976, Poona",
+    "description":""
+}
+---
+
 ====== Room Conversation with Indian Man ======
 
 ---- dataentry spoken ----

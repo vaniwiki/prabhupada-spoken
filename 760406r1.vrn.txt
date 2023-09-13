@@ -1,5 +1,12 @@
-~~Title: Conversation in Hindi — April 6, 1976, Vṛndāvana~~
-~~bc: April 6, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Conversation in Hindi — April 6, 1976, Vṛndāvana",
+    "h1":"April 6, 1976, Vṛndāvana",
+    "title":"Conversation in Hindi — April 6, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Conversation in Hindi ======
 
 ---- dataentry spoken ----

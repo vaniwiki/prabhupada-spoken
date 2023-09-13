@@ -1,5 +1,12 @@
-~~Title: Lecture on Gurvaṣṭakam at Uppsala University — September 9, 1973, Stockholm~~
-~~bc: September 9, 1973, Stockholm~~
+---json
+{
+    "name":"Lecture on Gurvaṣṭakam at Uppsala University — September 9, 1973, Stockholm",
+    "h1":"September 9, 1973, Stockholm",
+    "title":"Lecture on Gurvaṣṭakam at Uppsala University — September 9, 1973, Stockholm",
+    "description":""
+}
+---
+
 ====== Lecture on Gurvaṣṭakam at Uppsala University ======
 
 ---- dataentry spoken ----

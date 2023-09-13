@@ -1,5 +1,12 @@
-~~Title: Room Conversation — July 2, 1976, New Vrindavan~~
-~~bc: July 2, 1976, New Vrindavan~~
+---json
+{
+    "name":"Room Conversation — July 2, 1976, New Vrindavan",
+    "h1":"July 2, 1976, New Vrindavan",
+    "title":"Room Conversation — July 2, 1976, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

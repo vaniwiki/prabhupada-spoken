@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Indonesian Scholar — February 27, 1973, Jakarta~~
-~~bc: February 27, 1973, Jakarta~~
+---json
+{
+    "name":"Room Conversation with Indonesian Scholar — February 27, 1973, Jakarta",
+    "h1":"February 27, 1973, Jakarta",
+    "title":"Room Conversation with Indonesian Scholar — February 27, 1973, Jakarta",
+    "description":""
+}
+---
+
 ====== Room Conversation with Indonesian Scholar ======
 
 ---- dataentry spoken ----

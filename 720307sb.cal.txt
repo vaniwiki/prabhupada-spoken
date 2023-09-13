@@ -1,5 +1,12 @@
-~~Title: SB 7.9.9 — March 7, 1972, Calcutta~~
-~~bc: March 7, 1972, Calcutta~~
+---json
+{
+    "name":"SB 7.9.9 — March 7, 1972, Calcutta",
+    "h1":"March 7, 1972, Calcutta",
+    "title":"SB 7.9.9 — March 7, 1972, Calcutta",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.9.9 ======
 
 ---- dataentry spoken ----

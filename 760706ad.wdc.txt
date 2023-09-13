@@ -1,5 +1,12 @@
-~~Title: Tenth Anniversary Address — July 6, 1976, Washington, D.C.~~
-~~bc: July 6, 1976, Washington, D.C.~~
+---json
+{
+    "name":"Tenth Anniversary Address — July 6, 1976, Washington, D.C.",
+    "h1":"July 6, 1976, Washington, D.C.",
+    "title":"Tenth Anniversary Address — July 6, 1976, Washington, D.C.",
+    "description":""
+}
+---
+
 ====== Tenth Anniversary Address ======
 
 ---- dataentry spoken ----

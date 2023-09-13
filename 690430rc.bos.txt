@@ -1,5 +1,12 @@
-~~Title: Room Conversation — April 30, 1969, Boston~~
-~~bc: April 30, 1969, Boston~~
+---json
+{
+    "name":"Room Conversation — April 30, 1969, Boston",
+    "h1":"April 30, 1969, Boston",
+    "title":"Room Conversation — April 30, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

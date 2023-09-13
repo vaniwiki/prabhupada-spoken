@@ -1,5 +1,12 @@
-~~Title: Evening Darśana — August 14, 1976, Bombay~~
-~~bc: August 14, 1976, Bombay~~
+---json
+{
+    "name":"Evening Darśana — August 14, 1976, Bombay",
+    "h1":"August 14, 1976, Bombay",
+    "title":"Evening Darśana — August 14, 1976, Bombay",
+    "description":""
+}
+---
+
 ====== Evening Darśana ======
 
 ---- dataentry spoken ----

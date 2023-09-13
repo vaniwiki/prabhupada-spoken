@@ -1,5 +1,12 @@
-~~Title: Nṛsiṁha-caturdaśī — May 1, 1969, Boston~~
-~~bc: May 1, 1969, Boston~~
+---json
+{
+    "name":"Nṛsiṁha-caturdaśī — May 1, 1969, Boston",
+    "h1":"May 1, 1969, Boston",
+    "title":"Nṛsiṁha-caturdaśī — May 1, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Nṛsiṁha-caturdaśī, Lord Nṛsiṁha-deva’s Appearance Day ======
 
 ---- dataentry spoken ----

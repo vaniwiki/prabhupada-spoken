@@ -1,5 +1,12 @@
-~~Title: Bg 2.26-27 — August 29, 1973, London~~
-~~bc: August 29, 1973, London~~
+---json
+{
+    "name":"Bg 2.26-27 — August 29, 1973, London",
+    "h1":"August 29, 1973, London",
+    "title":"Bg 2.26-27 — August 29, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.26–27 ======
 
 ---- dataentry spoken ----

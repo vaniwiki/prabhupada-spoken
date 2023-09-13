@@ -1,5 +1,12 @@
-~~Title: Conversation — January 26, 1977, Jagannātha Purī~~
-~~bc: January 26, 1977, Jagannātha Purī~~
+---json
+{
+    "name":"Conversation — January 26, 1977, Jagannātha Purī",
+    "h1":"January 26, 1977, Jagannātha Purī",
+    "title":"Conversation — January 26, 1977, Jagannātha Purī",
+    "description":""
+}
+---
+
 ====== Conversation ======
 
 ---- dataentry spoken ----

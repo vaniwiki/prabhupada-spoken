@@ -1,5 +1,12 @@
-~~Title: Talk with Bob Cohen — February 29, 1972, Māyāpur~~
-~~bc: February 29, 1972, Māyāpur~~
+---json
+{
+    "name":"Talk with Bob Cohen — February 29, 1972, Māyāpur",
+    "h1":"February 29, 1972, Māyāpur",
+    "title":"Talk with Bob Cohen — February 29, 1972, Māyāpur",
+    "description":""
+}
+---
+
 ====== Talk with Bob Cohen ======
 
 ---- dataentry spoken ----

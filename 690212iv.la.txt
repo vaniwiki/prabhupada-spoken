@@ -1,5 +1,12 @@
-~~Title: Radio Interview — February 12, 1969, Los Angeles~~
-~~bc: February 12, 1969, Los Angeles~~
+---json
+{
+    "name":"Radio Interview — February 12, 1969, Los Angeles",
+    "h1":"February 12, 1969, Los Angeles",
+    "title":"Radio Interview — February 12, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Radio Interview ======
 
 ---- dataentry spoken ----

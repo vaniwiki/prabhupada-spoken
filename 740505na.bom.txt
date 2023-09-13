@@ -1,5 +1,12 @@
-~~Title: Nṛsiṁha-caturdaśī — May 5, 1974, Bombay~~
-~~bc: May 5, 1974, Bombay~~
+---json
+{
+    "name":"Nṛsiṁha-caturdaśī — May 5, 1974, Bombay",
+    "h1":"May 5, 1974, Bombay",
+    "title":"Nṛsiṁha-caturdaśī — May 5, 1974, Bombay",
+    "description":""
+}
+---
+
 ====== Nṛsiṁha-caturdaśī, Lord Nṛsiṁha-deva’s Appearance Day ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.2.9 — April 23, 1974, Hyderabad~~
-~~bc: April 23, 1974, Hyderabad~~
+---json
+{
+    "name":"SB 1.2.9 — April 23, 1974, Hyderabad",
+    "h1":"April 23, 1974, Hyderabad",
+    "title":"SB 1.2.9 — April 23, 1974, Hyderabad",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.9 ======
 
 ---- dataentry spoken ----

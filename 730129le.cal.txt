@@ -1,5 +1,12 @@
-~~Title: Lecture at University — January 29, 1973, Calcutta~~
-~~bc: January 29, 1973, Calcutta~~
+---json
+{
+    "name":"Lecture at University — January 29, 1973, Calcutta",
+    "h1":"January 29, 1973, Calcutta",
+    "title":"Lecture at University — January 29, 1973, Calcutta",
+    "description":""
+}
+---
+
 ====== Lecture at University ======
 
 ---- dataentry spoken ----

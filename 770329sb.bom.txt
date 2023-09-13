@@ -1,5 +1,12 @@
-~~Title: SB 5.5.3-4 — March 29, 1977, Bombay~~
-~~bc: March 29, 1977, Bombay~~
+---json
+{
+    "name":"SB 5.5.3-4 — March 29, 1977, Bombay",
+    "h1":"March 29, 1977, Bombay",
+    "title":"SB 5.5.3-4 — March 29, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.3–4 ======
 
 ---- dataentry spoken ----

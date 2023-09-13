@@ -1,5 +1,12 @@
-~~Title: Initiation Lecture — August 22, 1976, Hyderabad~~
-~~bc: August 22, 1976, Hyderabad~~
+---json
+{
+    "name":"Initiation Lecture — August 22, 1976, Hyderabad",
+    "h1":"August 22, 1976, Hyderabad",
+    "title":"Initiation Lecture — August 22, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Initiation Lecture ======
 
 ---- dataentry spoken ----

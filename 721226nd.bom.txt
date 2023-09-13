@@ -1,5 +1,12 @@
-~~Title: The Nectar of Devotion — December 26, 1972, Bombay~~
-~~bc: December 26, 1972, Bombay~~
+---json
+{
+    "name":"The Nectar of Devotion — December 26, 1972, Bombay",
+    "h1":"December 26, 1972, Bombay",
+    "title":"The Nectar of Devotion — December 26, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== The Nectar of Devotion ======
 
 ---- dataentry spoken ----

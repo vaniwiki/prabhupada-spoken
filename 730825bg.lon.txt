@@ -1,5 +1,12 @@
-~~Title: Bg 2.19-20 — August 25, 1973, London~~
-~~bc: August 25, 1973, London~~
+---json
+{
+    "name":"Bg 2.19-20 — August 25, 1973, London",
+    "h1":"August 25, 1973, London",
+    "title":"Bg 2.19-20 — August 25, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.19–20 ======
 
 ---- dataentry spoken ----

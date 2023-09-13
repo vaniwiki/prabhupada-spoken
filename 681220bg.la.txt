@@ -1,5 +1,12 @@
-~~Title: Bg 3.1-5 — December 20, 1968, Los Angeles~~
-~~bc: December 20, 1968, Los Angeles~~
+---json
+{
+    "name":"Bg 3.1-5 — December 20, 1968, Los Angeles",
+    "h1":"December 20, 1968, Los Angeles",
+    "title":"Bg 3.1-5 — December 20, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.1–5 ======
 
 ---- dataentry spoken ----

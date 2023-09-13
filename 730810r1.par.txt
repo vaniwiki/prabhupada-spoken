@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Anna Conan Doyle — August 10, 1973, Paris~~
-~~bc: August 10, 1973, Paris~~
+---json
+{
+    "name":"Room Conversation with Anna Conan Doyle — August 10, 1973, Paris",
+    "h1":"August 10, 1973, Paris",
+    "title":"Room Conversation with Anna Conan Doyle — August 10, 1973, Paris",
+    "description":""
+}
+---
+
 ====== Room Conversation with Anna Conan Doyle ======
 
 ---- dataentry spoken ----

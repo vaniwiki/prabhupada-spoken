@@ -1,6 +1,13 @@
 ~~bc:Lecture — November 18, 1968, Los Angeles~~
-~~Title: Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka — November 18, 1968, Los Angeles~~
-~~bc: November 18, 1968, Los Angeles~~
+---json
+{
+    "name":"Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka — November 18, 1968, Los Angeles",
+    "h1":"November 18, 1968, Los Angeles",
+    "title":"Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka — November 18, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka ======
 
 ---- dataentry spoken ----

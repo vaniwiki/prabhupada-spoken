@@ -1,5 +1,12 @@
-~~Title: Bg 15.15 — August 5, 1976, New Māyāpur~~
-~~bc: August 5, 1976, New Māyāpur~~
+---json
+{
+    "name":"Bg 15.15 — August 5, 1976, New Māyāpur",
+    "h1":"August 5, 1976, New Māyāpur",
+    "title":"Bg 15.15 — August 5, 1976, New Māyāpur",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 15.15 ======
 
 ---- dataentry spoken ----

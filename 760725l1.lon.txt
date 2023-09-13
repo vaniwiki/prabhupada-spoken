@@ -1,5 +1,12 @@
-~~Title: Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa — July 25, 1976, London~~
-~~bc: July 25, 1976, London~~
+---json
+{
+    "name":"Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa — July 25, 1976, London",
+    "h1":"July 25, 1976, London",
+    "title":"Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa — July 25, 1976, London",
+    "description":""
+}
+---
+
 ====== Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa ======
 
 ---- dataentry spoken ----

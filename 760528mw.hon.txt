@@ -1,5 +1,12 @@
-~~Title: Morning Walk — May 28, 1976, Honolulu~~
-~~bc: May 28, 1976, Honolulu~~
+---json
+{
+    "name":"Morning Walk — May 28, 1976, Honolulu",
+    "h1":"May 28, 1976, Honolulu",
+    "title":"Morning Walk — May 28, 1976, Honolulu",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

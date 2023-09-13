@@ -1,5 +1,12 @@
-~~Title: SB 1.14.44 — April 8, 1973, New York~~
-~~bc: April 8, 1973, New York~~
+---json
+{
+    "name":"SB 1.14.44 — April 8, 1973, New York",
+    "h1":"April 8, 1973, New York",
+    "title":"SB 1.14.44 — April 8, 1973, New York",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.14.44 ======
 
 ---- dataentry spoken ----

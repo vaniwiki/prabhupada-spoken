@@ -1,5 +1,12 @@
-~~Title: Morning Walk — January 30, 1974, Tokyo~~
-~~bc: January 30, 1974, Tokyo~~
+---json
+{
+    "name":"Morning Walk — January 30, 1974, Tokyo",
+    "h1":"January 30, 1974, Tokyo",
+    "title":"Morning Walk — January 30, 1974, Tokyo",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

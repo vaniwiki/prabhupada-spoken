@@ -1,5 +1,12 @@
-~~Title: Spelling of Prayers to the Six Gosvāmīs — December 26, 1968, Los Angeles~~
-~~bc: December 26, 1968, Los Angeles~~
+---json
+{
+    "name":"Spelling of Prayers to the Six Gosvāmīs — December 26, 1968, Los Angeles",
+    "h1":"December 26, 1968, Los Angeles",
+    "title":"Spelling of Prayers to the Six Gosvāmīs — December 26, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Spelling of Prayers to the Six Gosvāmīs ======
 
 ---- dataentry spoken ----

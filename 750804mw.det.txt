@@ -1,5 +1,12 @@
-~~Title: Morning Walk — August 4, 1975, Detroit~~
-~~bc: August 4, 1975, Detroit~~
+---json
+{
+    "name":"Morning Walk — August 4, 1975, Detroit",
+    "h1":"August 4, 1975, Detroit",
+    "title":"Morning Walk — August 4, 1975, Detroit",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

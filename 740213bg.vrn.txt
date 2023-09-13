@@ -1,5 +1,12 @@
-~~Title: Bg 4.5 — February 13, 1974, Vṛndāvana~~
-~~bc: February 13, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Bg 4.5 — February 13, 1974, Vṛndāvana",
+    "h1":"February 13, 1974, Vṛndāvana",
+    "title":"Bg 4.5 — February 13, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 4.5 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation at Airport — October 26, 1973, Bombay~~
-~~bc: October 26, 1973, Bombay~~
+---json
+{
+    "name":"Conversation at Airport — October 26, 1973, Bombay",
+    "h1":"October 26, 1973, Bombay",
+    "title":"Conversation at Airport — October 26, 1973, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation at Airport ======
 
 ---- dataentry spoken ----

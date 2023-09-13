@@ -1,5 +1,12 @@
-~~Title: Bg 7.4 — February 19, 1974, Bombay~~
-~~bc: February 19, 1974, Bombay~~
+---json
+{
+    "name":"Bg 7.4 — February 19, 1974, Bombay",
+    "h1":"February 19, 1974, Bombay",
+    "title":"Bg 7.4 — February 19, 1974, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.4 ======
 
 ---- dataentry spoken ----

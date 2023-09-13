@@ -1,5 +1,12 @@
-~~Title: Morning Walk — February 28, 1973, Jakarta~~
-~~bc: February 28, 1973, Jakarta~~
+---json
+{
+    "name":"Morning Walk — February 28, 1973, Jakarta",
+    "h1":"February 28, 1973, Jakarta",
+    "title":"Morning Walk — February 28, 1973, Jakarta",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

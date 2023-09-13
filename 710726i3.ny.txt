@@ -1,5 +1,12 @@
-~~Title: Initiations and Sannyāsa — July 26, 1971, New York~~
-~~bc: July 26, 1971, New York~~
+---json
+{
+    "name":"Initiations and Sannyāsa — July 26, 1971, New York",
+    "h1":"July 26, 1971, New York",
+    "title":"Initiations and Sannyāsa — July 26, 1971, New York",
+    "description":""
+}
+---
+
 ====== Initiations and Sannyāsa ======
 
 ---- dataentry spoken ----

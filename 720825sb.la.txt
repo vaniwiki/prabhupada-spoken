@@ -1,5 +1,12 @@
-~~Title: SB 1.2.22 — August 25, 1972, Los Angeles~~
-~~bc: August 25, 1972, Los Angeles~~
+---json
+{
+    "name":"SB 1.2.22 — August 25, 1972, Los Angeles",
+    "h1":"August 25, 1972, Los Angeles",
+    "title":"SB 1.2.22 — August 25, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.22 ======
 
 ---- dataentry spoken ----

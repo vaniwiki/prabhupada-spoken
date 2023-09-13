@@ -1,5 +1,12 @@
-~~Title: Śrī Brahma-saṁhitā, Lecture — July 28, 1971, New York~~
-~~bc: July 28, 1971, New York~~
+---json
+{
+    "name":"Śrī Brahma-saṁhitā, Lecture — July 28, 1971, New York",
+    "h1":"July 28, 1971, New York",
+    "title":"Śrī Brahma-saṁhitā, Lecture — July 28, 1971, New York",
+    "description":""
+}
+---
+
 ====== Śrī Brahma-saṁhitā, Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Morning Walk — November 2, 1975, Nairobi~~
-~~bc: November 2, 1975, Nairobi~~
+---json
+{
+    "name":"Morning Walk — November 2, 1975, Nairobi",
+    "h1":"November 2, 1975, Nairobi",
+    "title":"Morning Walk — November 2, 1975, Nairobi",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

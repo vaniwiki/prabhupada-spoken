@@ -1,5 +1,12 @@
-~~Title: Śrīla Prabhupāda Vigil — May 28-29, 1977, Vṛndāvana~~
-~~bc: May 28–29, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Śrīla Prabhupāda Vigil — May 28-29, 1977, Vṛndāvana",
+    "h1":"May 28–29, 1977, Vṛndāvana",
+    "title":"Śrīla Prabhupāda Vigil — May 28-29, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīla Prabhupāda Vigil ======
 
 ---- dataentry spoken ----

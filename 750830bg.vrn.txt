@@ -1,5 +1,12 @@
-~~Title: Bg 7.3 [Hindi] — August 30, 1975, Vṛndāvana~~
-~~bc: August 30, 1975, Vṛndāvana~~
+---json
+{
+    "name":"Bg 7.3 [Hindi] — August 30, 1975, Vṛndāvana",
+    "h1":"August 30, 1975, Vṛndāvana",
+    "title":"Bg 7.3 [Hindi] — August 30, 1975, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.3 [Hindi] ======
 
 ---- dataentry spoken ----

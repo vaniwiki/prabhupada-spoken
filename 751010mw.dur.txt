@@ -1,5 +1,12 @@
-~~Title: Morning Walk — October 10, 1975, Durban~~
-~~bc: October 10, 1975, Durban~~
+---json
+{
+    "name":"Morning Walk — October 10, 1975, Durban",
+    "h1":"October 10, 1975, Durban",
+    "title":"Morning Walk — October 10, 1975, Durban",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

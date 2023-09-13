@@ -1,5 +1,12 @@
-~~Title: SB 7.6.3-4 — March 8, 1967, San Francisco~~
-~~bc: March 8, 1967, San Francisco~~
+---json
+{
+    "name":"SB 7.6.3-4 — March 8, 1967, San Francisco",
+    "h1":"March 8, 1967, San Francisco",
+    "title":"SB 7.6.3-4 — March 8, 1967, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.6.3–4 ======
 
 ---- dataentry spoken ----

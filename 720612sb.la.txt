@@ -1,5 +1,12 @@
-~~Title: SB 2.3.17 — June 12, 1972, Los Angeles~~
-~~bc: June 12, 1972, Los Angeles~~
+---json
+{
+    "name":"SB 2.3.17 — June 12, 1972, Los Angeles",
+    "h1":"June 12, 1972, Los Angeles",
+    "title":"SB 2.3.17 — June 12, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.3.17 ======
 
 ---- dataentry spoken ----

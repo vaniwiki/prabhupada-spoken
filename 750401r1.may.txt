@@ -1,5 +1,12 @@
-~~Title: Conversation with Devotees on Theology — April 1, 1975, Māyāpur~~
-~~bc: April 1, 1975, Māyāpur~~
+---json
+{
+    "name":"Conversation with Devotees on Theology — April 1, 1975, Māyāpur",
+    "h1":"April 1, 1975, Māyāpur",
+    "title":"Conversation with Devotees on Theology — April 1, 1975, Māyāpur",
+    "description":""
+}
+---
+
 ====== Conversation with Devotees on Theology ======
 
 ---- dataentry spoken ----

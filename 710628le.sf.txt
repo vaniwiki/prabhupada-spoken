@@ -1,5 +1,12 @@
-~~Title: Lecture — June 28, 1971, San Francisco~~
-~~bc: June 28, 1971, San Francisco~~
+---json
+{
+    "name":"Lecture — June 28, 1971, San Francisco",
+    "h1":"June 28, 1971, San Francisco",
+    "title":"Lecture — June 28, 1971, San Francisco",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

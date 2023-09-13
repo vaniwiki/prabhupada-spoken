@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Indian Guests — May 20, 1977, Vṛndāvana~~
-~~bc: May 20, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation with Indian Guests — May 20, 1977, Vṛndāvana",
+    "h1":"May 20, 1977, Vṛndāvana",
+    "title":"Room Conversation with Indian Guests — May 20, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation with Indian Guests ======
 
 ---- dataentry spoken ----

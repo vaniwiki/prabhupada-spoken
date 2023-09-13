@@ -1,5 +1,12 @@
-~~Title: Pandal Lecture [Hindi] — March 30, 1972, Bombay~~
-~~bc: March 30, 1972, Bombay~~
+---json
+{
+    "name":"Pandal Lecture [Hindi] — March 30, 1972, Bombay",
+    "h1":"March 30, 1972, Bombay",
+    "title":"Pandal Lecture [Hindi] — March 30, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== Pandal Lecture [Hindi] ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 3.8-11 — October 22, 1968, Seattle~~
-~~bc: October 22, 1968, Seattle~~
+---json
+{
+    "name":"Bg 3.8-11 — October 22, 1968, Seattle",
+    "h1":"October 22, 1968, Seattle",
+    "title":"Bg 3.8-11 — October 22, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.8–11 ======
 
 ---- dataentry spoken ----

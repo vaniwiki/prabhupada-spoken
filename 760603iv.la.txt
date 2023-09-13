@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Reporter — June 3, 1976, Los Angeles~~
-~~bc: June 3, 1976, Los Angeles~~
+---json
+{
+    "name":"Room Conversation with Reporter — June 3, 1976, Los Angeles",
+    "h1":"June 3, 1976, Los Angeles",
+    "title":"Room Conversation with Reporter — June 3, 1976, Los Angeles",
+    "description":""
+}
+---
+
 ====== Room Conversation with Reporter ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB, Canto Six Dictation — August 11, 1975, Paris~~
-~~bc: August 11, 1975, Paris~~
+---json
+{
+    "name":"SB, Canto Six Dictation — August 11, 1975, Paris",
+    "h1":"August 11, 1975, Paris",
+    "title":"SB, Canto Six Dictation — August 11, 1975, Paris",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam, Canto Six Dictation ======
 
 ---- dataentry spoken ----

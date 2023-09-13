@@ -1,5 +1,12 @@
-~~Title: Arrival [Hindi] — September 18, 1973, Bombay~~
-~~bc: September 18, 1973, Bombay~~
+---json
+{
+    "name":"Arrival [Hindi] — September 18, 1973, Bombay",
+    "h1":"September 18, 1973, Bombay",
+    "title":"Arrival [Hindi] — September 18, 1973, Bombay",
+    "description":""
+}
+---
+
 ====== Arrival [Hindi] ======
 
 ---- dataentry spoken ----

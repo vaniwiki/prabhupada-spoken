@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Director of Research of the Dept. of Social Welfare — May 21, 1975, Melbourne~~
-~~bc: May 21, 1975, Melbourne~~
+---json
+{
+    "name":"Room Conversation with Director of Research of the Dept. of Social Welfare — May 21, 1975, Melbourne",
+    "h1":"May 21, 1975, Melbourne",
+    "title":"Room Conversation with Director of Research of the Dept. of Social Welfare — May 21, 1975, Melbourne",
+    "description":""
+}
+---
+
 ====== Room Conversation with Director of Research of the Dept. of Social Welfare ======
 
 ---- dataentry spoken ----

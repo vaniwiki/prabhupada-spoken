@@ -1,5 +1,12 @@
-~~Title: Television Interview — July 9, 1975, Chicago~~
-~~bc: July 9, 1975, Chicago~~
+---json
+{
+    "name":"Television Interview — July 9, 1975, Chicago",
+    "h1":"July 9, 1975, Chicago",
+    "title":"Television Interview — July 9, 1975, Chicago",
+    "description":""
+}
+---
+
 ====== Television Interview ======
 
 ---- dataentry spoken ----

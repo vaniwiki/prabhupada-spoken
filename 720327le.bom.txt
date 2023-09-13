@@ -1,5 +1,12 @@
-~~Title: Lecture [partially recorded] — March 27, 1972, Bombay~~
-~~bc: March 27, 1972, Bombay~~
+---json
+{
+    "name":"Lecture [partially recorded] — March 27, 1972, Bombay",
+    "h1":"March 27, 1972, Bombay",
+    "title":"Lecture [partially recorded] — March 27, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

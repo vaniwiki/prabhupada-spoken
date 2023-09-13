@@ -1,5 +1,12 @@
-~~Title: Lecture [Bengali] — February 26, 1972, Māyāpur~~
-~~bc: February 26, 1972, Māyāpur~~
+---json
+{
+    "name":"Lecture [Bengali] — February 26, 1972, Māyāpur",
+    "h1":"February 26, 1972, Māyāpur",
+    "title":"Lecture [Bengali] — February 26, 1972, Māyāpur",
+    "description":""
+}
+---
+
 ====== Lecture [Bengali] ======
 
 ---- dataentry spoken ----

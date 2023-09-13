@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Reporter of The Star — October 16, 1975, Johannesburg~~
-~~bc: October 16, 1975, Johannesburg~~
+---json
+{
+    "name":"Room Conversation with Reporter of The Star — October 16, 1975, Johannesburg",
+    "h1":"October 16, 1975, Johannesburg",
+    "title":"Room Conversation with Reporter of The Star — October 16, 1975, Johannesburg",
+    "description":""
+}
+---
+
 ====== Room Conversation with Reporter of The Star ======
 
 ---- dataentry spoken ----

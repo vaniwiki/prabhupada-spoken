@@ -1,5 +1,12 @@
-~~Title: Initiation Ceremony — July 1, 1974, Melbourne~~
-~~bc: July 1, 1974, Melbourne~~
+---json
+{
+    "name":"Initiation Ceremony — July 1, 1974, Melbourne",
+    "h1":"July 1, 1974, Melbourne",
+    "title":"Initiation Ceremony — July 1, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Initiation Ceremony ======
 
 ---- dataentry spoken ----

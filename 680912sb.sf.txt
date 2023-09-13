@@ -1,5 +1,12 @@
-~~Title: SB 6.1.6-15 — September 12, 1968, San Francisco~~
-~~bc: September 12, 1968, San Francisco~~
+---json
+{
+    "name":"SB 6.1.6-15 — September 12, 1968, San Francisco",
+    "h1":"September 12, 1968, San Francisco",
+    "title":"SB 6.1.6-15 — September 12, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.6–15 ======
 
 ---- dataentry spoken ----

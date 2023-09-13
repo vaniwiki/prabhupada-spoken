@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Endowments Commissioner of Andhra Pradesh — August 22, 1976, Hyderabad~~
-~~bc: August 22, 1976, Hyderabad~~
+---json
+{
+    "name":"Room Conversation with Endowments Commissioner of Andhra Pradesh — August 22, 1976, Hyderabad",
+    "h1":"August 22, 1976, Hyderabad",
+    "title":"Room Conversation with Endowments Commissioner of Andhra Pradesh — August 22, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Room Conversation with Endowments Commissioner of Andhra Pradesh ======
 
 ---- dataentry spoken ----

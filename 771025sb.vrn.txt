@@ -1,5 +1,12 @@
-~~Title: SB Dictation — October 25, 1977, Vṛndāvana~~
-~~bc: October 25, 1977, Vṛndāvana~~
+---json
+{
+    "name":"SB Dictation — October 25, 1977, Vṛndāvana",
+    "h1":"October 25, 1977, Vṛndāvana",
+    "title":"SB Dictation — October 25, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam Dictation ======
 
 ---- dataentry spoken ----

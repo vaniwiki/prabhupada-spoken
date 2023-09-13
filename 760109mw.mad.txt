@@ -1,5 +1,12 @@
-~~Title: Morning Walk — January 9, 1976, Madras~~
-~~bc: January 9, 1976, Madras~~
+---json
+{
+    "name":"Morning Walk — January 9, 1976, Madras",
+    "h1":"January 9, 1976, Madras",
+    "title":"Morning Walk — January 9, 1976, Madras",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

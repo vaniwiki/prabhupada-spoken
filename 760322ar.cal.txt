@@ -1,5 +1,12 @@
-~~Title: Arrival Talk — March 22, 1976, Calcutta~~
-~~bc: March 22, 1976, Calcutta~~
+---json
+{
+    "name":"Arrival Talk — March 22, 1976, Calcutta",
+    "h1":"March 22, 1976, Calcutta",
+    "title":"Arrival Talk — March 22, 1976, Calcutta",
+    "description":""
+}
+---
+
 ====== Arrival Talk ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.2.21 — November 1, 1972, Vṛndāvana~~
-~~bc: November 1, 1972, Vṛndāvana~~
+---json
+{
+    "name":"SB 1.2.21 — November 1, 1972, Vṛndāvana",
+    "h1":"November 1, 1972, Vṛndāvana",
+    "title":"SB 1.2.21 — November 1, 1972, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.21 ======
 
 ---- dataentry spoken ----

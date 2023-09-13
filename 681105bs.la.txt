@@ -1,5 +1,12 @@
-~~Title: Śrī Brahma-saṁhitā, Verse 29 — November 5, 1968, Los Angeles~~
-~~bc: November 5, 1968, Los Angeles~~
+---json
+{
+    "name":"Śrī Brahma-saṁhitā, Verse 29 — November 5, 1968, Los Angeles",
+    "h1":"November 5, 1968, Los Angeles",
+    "title":"Śrī Brahma-saṁhitā, Verse 29 — November 5, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrī Brahma-saṁhitā, Verse 29 ======
 
 ---- dataentry spoken ----

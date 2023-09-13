@@ -1,5 +1,12 @@
-~~Title: Ratha-yātrā Lecture — June 27, 1971, San Francisco~~
-~~bc: June 27, 1971, San Francisco~~
+---json
+{
+    "name":"Ratha-yātrā Lecture — June 27, 1971, San Francisco",
+    "h1":"June 27, 1971, San Francisco",
+    "title":"Ratha-yātrā Lecture — June 27, 1971, San Francisco",
+    "description":""
+}
+---
+
 ====== Ratha-yātrā ======
 
 ---- dataentry spoken ----

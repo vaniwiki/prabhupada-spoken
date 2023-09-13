@@ -1,5 +1,12 @@
-~~Title: Garden Conversation with Professors — June 24, 1975, Los Angeles~~
-~~bc: June 24, 1975, Los Angeles~~
+---json
+{
+    "name":"Garden Conversation with Professors — June 24, 1975, Los Angeles",
+    "h1":"June 24, 1975, Los Angeles",
+    "title":"Garden Conversation with Professors — June 24, 1975, Los Angeles",
+    "description":""
+}
+---
+
 ====== Garden Conversation with Professors ======
 
 ---- dataentry spoken ----

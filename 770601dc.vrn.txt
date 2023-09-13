@@ -1,5 +1,12 @@
-~~Title: Discussions with Devotees and Conversation with Dr. Ghosh — June 1, 1977, Vṛndāvana~~
-~~bc: June 1, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Discussions with Devotees and Conversation with Dr. Ghosh — June 1, 1977, Vṛndāvana",
+    "h1":"June 1, 1977, Vṛndāvana",
+    "title":"Discussions with Devotees and Conversation with Dr. Ghosh — June 1, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Discussions with Devotees and Conversation with Dr. Ghosh ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Morning Walk — January 25, 1977, Jagannātha Purī~~
-~~bc: January 25, 1977, Jagannātha Purī~~
+---json
+{
+    "name":"Morning Walk — January 25, 1977, Jagannātha Purī",
+    "h1":"January 25, 1977, Jagannātha Purī",
+    "title":"Morning Walk — January 25, 1977, Jagannātha Purī",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

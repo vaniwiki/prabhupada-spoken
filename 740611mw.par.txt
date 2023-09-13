@@ -1,5 +1,12 @@
-~~Title: Morning Walk — June 11, 1974, Paris~~
-~~bc: June 11, 1974, Paris~~
+---json
+{
+    "name":"Morning Walk — June 11, 1974, Paris",
+    "h1":"June 11, 1974, Paris",
+    "title":"Morning Walk — June 11, 1974, Paris",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

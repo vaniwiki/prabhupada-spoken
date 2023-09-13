@@ -1,5 +1,12 @@
-~~Title: Room Conversation with three Trappist Monks — March 1, 1975, Atlanta~~
-~~bc: March 1, 1975, Atlanta~~
+---json
+{
+    "name":"Room Conversation with three Trappist Monks — March 1, 1975, Atlanta",
+    "h1":"March 1, 1975, Atlanta",
+    "title":"Room Conversation with three Trappist Monks — March 1, 1975, Atlanta",
+    "description":""
+}
+---
+
 ====== Room Conversation with three Trappist Monks ======
 
 ---- dataentry spoken ----

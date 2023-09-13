@@ -1,5 +1,12 @@
-~~Title: Room Conversation About Making Deities — June 16, 1975, Honolulu~~
-~~bc: June 16, 1975, Honolulu~~
+---json
+{
+    "name":"Room Conversation About Making Deities — June 16, 1975, Honolulu",
+    "h1":"June 16, 1975, Honolulu",
+    "title":"Room Conversation About Making Deities — June 16, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Room Conversation About Making Deities ======
 
 ---- dataentry spoken ----

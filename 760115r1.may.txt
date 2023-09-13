@@ -1,5 +1,12 @@
-~~Title: Room Conversation — January 15, 1976, Māyāpur~~
-~~bc: January 15, 1976, Māyāpur~~
+---json
+{
+    "name":"Room Conversation — January 15, 1976, Māyāpur",
+    "h1":"January 15, 1976, Māyāpur",
+    "title":"Room Conversation — January 15, 1976, Māyāpur",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

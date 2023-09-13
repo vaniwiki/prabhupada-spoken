@@ -1,5 +1,12 @@
-~~Title: Wedding Lecture — December 25, 1968, Los Angeles~~
-~~bc: December 25, 1968, Los Angeles~~
+---json
+{
+    "name":"Wedding Lecture — December 25, 1968, Los Angeles",
+    "h1":"December 25, 1968, Los Angeles",
+    "title":"Wedding Lecture — December 25, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Wedding of Śyāma dāsī and Hayagrīva ======
 
 ---- dataentry spoken ----

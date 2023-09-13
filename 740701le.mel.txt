@@ -1,5 +1,12 @@
-~~Title: La Trobe University Lecture — July 1, 1974, Melbourne~~
-~~bc: July 1, 1974, Melbourne~~
+---json
+{
+    "name":"La Trobe University Lecture — July 1, 1974, Melbourne",
+    "h1":"July 1, 1974, Melbourne",
+    "title":"La Trobe University Lecture — July 1, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== La Trobe University Lecture ======
 
 ---- dataentry spoken ----

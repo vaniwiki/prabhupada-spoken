@@ -1,5 +1,12 @@
-~~Title: Morning Walk — June 29, 1974, Melbourne~~
-~~bc: June 29, 1974, Melbourne~~
+---json
+{
+    "name":"Morning Walk — June 29, 1974, Melbourne",
+    "h1":"June 29, 1974, Melbourne",
+    "title":"Morning Walk — June 29, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

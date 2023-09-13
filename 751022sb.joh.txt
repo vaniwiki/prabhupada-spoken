@@ -1,5 +1,12 @@
-~~Title: SB 5.5.2 — October 22, 1975, Johannesburg~~
-~~bc: October 22, 1975, Johannesburg~~
+---json
+{
+    "name":"SB 5.5.2 — October 22, 1975, Johannesburg",
+    "h1":"October 22, 1975, Johannesburg",
+    "title":"SB 5.5.2 — October 22, 1975, Johannesburg",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.2 ======
 
 ---- dataentry spoken ----

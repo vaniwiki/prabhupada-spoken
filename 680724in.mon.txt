@@ -1,5 +1,12 @@
-~~Title: Initiation of Jayapatāka Dāsā — July 24, 1968, Montreal~~
-~~bc: July 24, 1968, Montreal~~
+---json
+{
+    "name":"Initiation of Jayapatāka Dāsā — July 24, 1968, Montreal",
+    "h1":"July 24, 1968, Montreal",
+    "title":"Initiation of Jayapatāka Dāsā — July 24, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Initiation of Jayapatāka Dāsā ======
 
 ---- dataentry spoken ----

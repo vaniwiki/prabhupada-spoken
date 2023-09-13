@@ -1,5 +1,12 @@
-~~Title: Morning Walk at Marina del Rey — July 14, 1974, Los Angeles~~
-~~bc: July 14, 1974, Los Angeles~~
+---json
+{
+    "name":"Morning Walk at Marina del Rey — July 14, 1974, Los Angeles",
+    "h1":"July 14, 1974, Los Angeles",
+    "title":"Morning Walk at Marina del Rey — July 14, 1974, Los Angeles",
+    "description":""
+}
+---
+
 ====== Morning Walk at Marina del Rey ======
 
 ---- dataentry spoken ----

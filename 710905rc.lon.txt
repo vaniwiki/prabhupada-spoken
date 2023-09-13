@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Dr. Weir — September 5, 1971, London~~
-~~bc: September 5, 1971, London~~
+---json
+{
+    "name":"Room Conversation with Dr. Weir — September 5, 1971, London",
+    "h1":"September 5, 1971, London",
+    "title":"Room Conversation with Dr. Weir — September 5, 1971, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with Dr. Weir ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Tripurāri — March 2, 1975, Atlanta~~
-~~bc: March 2, 1975, Atlanta~~
+---json
+{
+    "name":"Room Conversation with Tripurāri — March 2, 1975, Atlanta",
+    "h1":"March 2, 1975, Atlanta",
+    "title":"Room Conversation with Tripurāri — March 2, 1975, Atlanta",
+    "description":""
+}
+---
+
 ====== Room Conversation with Tripurāri ======
 
 ---- dataentry spoken ----

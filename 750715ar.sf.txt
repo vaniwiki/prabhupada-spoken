@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — July 15, 1975, San Francisco~~
-~~bc: July 15, 1975, San Francisco~~
+---json
+{
+    "name":"Arrival Lecture — July 15, 1975, San Francisco",
+    "h1":"July 15, 1975, San Francisco",
+    "title":"Arrival Lecture — July 15, 1975, San Francisco",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

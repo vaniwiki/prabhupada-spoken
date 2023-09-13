@@ -1,5 +1,12 @@
-~~Title: Room Conversation — May 3, 1976, Fiji~~
-~~bc: May 3, 1976, Fiji~~
+---json
+{
+    "name":"Room Conversation — May 3, 1976, Fiji",
+    "h1":"May 3, 1976, Fiji",
+    "title":"Room Conversation — May 3, 1976, Fiji",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

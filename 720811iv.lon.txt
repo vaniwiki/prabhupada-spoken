@@ -1,5 +1,12 @@
-~~Title: Interview with Journalists — August 11, 1972, London~~
-~~bc: August 11, 1972, London~~
+---json
+{
+    "name":"Interview with Journalists — August 11, 1972, London",
+    "h1":"August 11, 1972, London",
+    "title":"Interview with Journalists — August 11, 1972, London",
+    "description":""
+}
+---
+
 ====== Interview with Journalists ======
 
 ---- dataentry spoken ----

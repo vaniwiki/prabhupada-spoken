@@ -1,5 +1,12 @@
-~~Title: SB 7.6.4 — December 5, 1975, Vṛndāvana~~
-~~bc: December 5, 1975, Vṛndāvana~~
+---json
+{
+    "name":"SB 7.6.4 — December 5, 1975, Vṛndāvana",
+    "h1":"December 5, 1975, Vṛndāvana",
+    "title":"SB 7.6.4 — December 5, 1975, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.6.4 ======
 
 ---- dataentry spoken ----

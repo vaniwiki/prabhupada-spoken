@@ -1,5 +1,12 @@
-~~Title: Room Conversation — June 9, 1976, Los Angeles~~
-~~bc: June 9, 1976, Los Angeles~~
+---json
+{
+    "name":"Room Conversation — June 9, 1976, Los Angeles",
+    "h1":"June 9, 1976, Los Angeles",
+    "title":"Room Conversation — June 9, 1976, Los Angeles",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Lecture [Bengali] — September 29, 1974, Māyāpur~~
-~~bc: September 29, 1974, Māyāpur~~
+---json
+{
+    "name":"Lecture [Bengali] — September 29, 1974, Māyāpur",
+    "h1":"September 29, 1974, Māyāpur",
+    "title":"Lecture [Bengali] — September 29, 1974, Māyāpur",
+    "description":""
+}
+---
+
 ====== Lecture [Bengali] ======
 
 ---- dataentry spoken ----

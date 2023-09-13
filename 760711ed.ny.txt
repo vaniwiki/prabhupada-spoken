@@ -1,5 +1,12 @@
-~~Title: Evening Darśana — July 11, 1976, New York~~
-~~bc: July 11, 1976, New York~~
+---json
+{
+    "name":"Evening Darśana — July 11, 1976, New York",
+    "h1":"July 11, 1976, New York",
+    "title":"Evening Darśana — July 11, 1976, New York",
+    "description":""
+}
+---
+
 ====== Evening Darśana ======
 
 ---- dataentry spoken ----

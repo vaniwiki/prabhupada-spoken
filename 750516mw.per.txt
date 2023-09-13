@@ -1,5 +1,12 @@
-~~Title: Morning Walk — May 16, 1975, Perth~~
-~~bc: May 16, 1975, Perth~~
+---json
+{
+    "name":"Morning Walk — May 16, 1975, Perth",
+    "h1":"May 16, 1975, Perth",
+    "title":"Morning Walk — May 16, 1975, Perth",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

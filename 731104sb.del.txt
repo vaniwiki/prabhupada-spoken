@@ -1,5 +1,12 @@
-~~Title: SB 2.1.1 — November 4, 1973, Delhi~~
-~~bc: November 4, 1973, Delhi~~
+---json
+{
+    "name":"SB 2.1.1 — November 4, 1973, Delhi",
+    "h1":"November 4, 1973, Delhi",
+    "title":"SB 2.1.1 — November 4, 1973, Delhi",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.1.1 ======
 
 ---- dataentry spoken ----

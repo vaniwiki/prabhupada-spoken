@@ -1,5 +1,12 @@
-~~Title: Conversation in car — April 22, 1972, Tokyo~~
-~~bc: April 22, 1972, Tokyo~~
+---json
+{
+    "name":"Conversation in car — April 22, 1972, Tokyo",
+    "h1":"April 22, 1972, Tokyo",
+    "title":"Conversation in car — April 22, 1972, Tokyo",
+    "description":""
+}
+---
+
 ====== Conversation in car ======
 
 ---- dataentry spoken ----

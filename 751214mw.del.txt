@@ -1,5 +1,12 @@
-~~Title: Morning Walk — December 14, 1975, New Delhi~~
-~~bc: December 14, 1975, New Delhi~~
+---json
+{
+    "name":"Morning Walk — December 14, 1975, New Delhi",
+    "h1":"December 14, 1975, New Delhi",
+    "title":"Morning Walk — December 14, 1975, New Delhi",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

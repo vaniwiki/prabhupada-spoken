@@ -1,5 +1,12 @@
-~~Title: Bg 6.46-47 — February 21, 1969, Los Angeles~~
-~~bc: February 21, 1969, Los Angeles~~
+---json
+{
+    "name":"Bg 6.46-47 — February 21, 1969, Los Angeles",
+    "h1":"February 21, 1969, Los Angeles",
+    "title":"Bg 6.46-47 — February 21, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 6.46–47 ======
 
 ---- dataentry spoken ----

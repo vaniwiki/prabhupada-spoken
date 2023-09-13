@@ -1,5 +1,12 @@
-~~Title: Interview — March 5, 1975, New York~~
-~~bc: March 5, 1975, New York~~
+---json
+{
+    "name":"Interview — March 5, 1975, New York",
+    "h1":"March 5, 1975, New York",
+    "title":"Interview — March 5, 1975, New York",
+    "description":""
+}
+---
+
 ====== Interview ======
 
 ---- dataentry spoken ----

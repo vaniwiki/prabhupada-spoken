@@ -1,5 +1,12 @@
-~~Title: Short Discussions — May 24, 1977, Vṛndāvana~~
-~~bc: May 24, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Short Discussions — May 24, 1977, Vṛndāvana",
+    "h1":"May 24, 1977, Vṛndāvana",
+    "title":"Short Discussions — May 24, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Short Discussions ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation During Massage — January 23, 1977, Bhubaneswar~~
-~~bc: January 23, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Conversation During Massage — January 23, 1977, Bhubaneswar",
+    "h1":"January 23, 1977, Bhubaneswar",
+    "title":"Conversation During Massage — January 23, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Conversation During Massage ======
 
 ---- dataentry spoken ----

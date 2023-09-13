@@ -1,5 +1,12 @@
-~~Title: Bg 16.7 [with translator] — December 26, 1975, Sanand~~
-~~bc: December 26, 1975, Sanand~~
+---json
+{
+    "name":"Bg 16.7 [with translator] — December 26, 1975, Sanand",
+    "h1":"December 26, 1975, Sanand",
+    "title":"Bg 16.7 [with translator] — December 26, 1975, Sanand",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 16.7 [with translator] ======
 
 ---- dataentry spoken ----

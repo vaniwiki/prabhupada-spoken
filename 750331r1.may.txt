@@ -1,5 +1,12 @@
-~~Title: Conversation with Devotees — March 31, 1975, Māyāpur~~
-~~bc: March 31, 1975, Māyāpur~~
+---json
+{
+    "name":"Conversation with Devotees — March 31, 1975, Māyāpur",
+    "h1":"March 31, 1975, Māyāpur",
+    "title":"Conversation with Devotees — March 31, 1975, Māyāpur",
+    "description":""
+}
+---
+
 ====== Conversation with Devotees ======
 
 ---- dataentry spoken ----

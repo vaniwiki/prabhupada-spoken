@@ -1,5 +1,12 @@
-~~Title: Room Conversation — October 27, 1968, Montreal~~
-~~bc: October 27, 1968, Montreal~~
+---json
+{
+    "name":"Room Conversation — October 27, 1968, Montreal",
+    "h1":"October 27, 1968, Montreal",
+    "title":"Room Conversation — October 27, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

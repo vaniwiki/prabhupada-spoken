@@ -1,5 +1,12 @@
-~~Title: Room Conversation — April 5, 1976, Vṛndāvana~~
-~~bc: April 5, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation — April 5, 1976, Vṛndāvana",
+    "h1":"April 5, 1976, Vṛndāvana",
+    "title":"Room Conversation — April 5, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

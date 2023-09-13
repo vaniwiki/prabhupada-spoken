@@ -1,5 +1,12 @@
-~~Title: Bg 2.13-17 — November 29, 1968, Los Angeles~~
-~~bc: November 29, 1968, Los Angeles~~
+---json
+{
+    "name":"Bg 2.13-17 — November 29, 1968, Los Angeles",
+    "h1":"November 29, 1968, Los Angeles",
+    "title":"Bg 2.13-17 — November 29, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.13–17 ======
 
 ---- dataentry spoken ----

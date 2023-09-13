@@ -1,5 +1,12 @@
-~~Title: Bg 2.14 — February 14, 1975, Mexico City~~
-~~bc: February 14, 1975, Mexico City~~
+---json
+{
+    "name":"Bg 2.14 — February 14, 1975, Mexico City",
+    "h1":"February 14, 1975, Mexico City",
+    "title":"Bg 2.14 — February 14, 1975, Mexico City",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.14 ======
 
 ---- dataentry spoken ----

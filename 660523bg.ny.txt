@@ -1,5 +1,12 @@
-~~Title: Bg 3.13-16 — May 23, 1966, New York~~
-~~bc: May 23, 1966, New York~~
+---json
+{
+    "name":"Bg 3.13-16 — May 23, 1966, New York",
+    "h1":"May 23, 1966, New York",
+    "title":"Bg 3.13-16 — May 23, 1966, New York",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.13–16 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Purport to Jaya Rādhā-Mādhava — February 14, 1971, Gorakhpur~~
-~~bc: February 14, 1971, Gorakhpur~~
+---json
+{
+    "name":"Purport to Jaya Rādhā-Mādhava — February 14, 1971, Gorakhpur",
+    "h1":"February 14, 1971, Gorakhpur",
+    "title":"Purport to Jaya Rādhā-Mādhava — February 14, 1971, Gorakhpur",
+    "description":""
+}
+---
+
 ====== Purport to Jaya Rādhā-Mādhava ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.2.10 — December 28, 1972, Bombay~~
-~~bc: December 28, 1972, Bombay~~
+---json
+{
+    "name":"SB 1.2.10 — December 28, 1972, Bombay",
+    "h1":"December 28, 1972, Bombay",
+    "title":"SB 1.2.10 — December 28, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.10 ======
 
 ---- dataentry spoken ----

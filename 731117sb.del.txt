@@ -1,5 +1,12 @@
-~~Title: Lecture [Hindi] — November 17, 1973, Delhi~~
-~~bc: November 17, 1973, Delhi~~
+---json
+{
+    "name":"Lecture [Hindi] — November 17, 1973, Delhi",
+    "h1":"November 17, 1973, Delhi",
+    "title":"Lecture [Hindi] — November 17, 1973, Delhi",
+    "description":""
+}
+---
+
 ====== Lecture [Hindi] ======
 
 ---- dataentry spoken ----

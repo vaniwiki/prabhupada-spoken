@@ -1,5 +1,12 @@
-~~Title: Arrival Conversation — December 20, 1976, Bombay~~
-~~bc: December 20, 1976, Bombay~~
+---json
+{
+    "name":"Arrival Conversation — December 20, 1976, Bombay",
+    "h1":"December 20, 1976, Bombay",
+    "title":"Arrival Conversation — December 20, 1976, Bombay",
+    "description":""
+}
+---
+
 ====== Arrival Conversation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Ceremony Speech, partially recorded — August 18, 1974, Vṛndāvana~~
-~~bc: August 18, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Ceremony Speech, partially recorded — August 18, 1974, Vṛndāvana",
+    "h1":"August 18, 1974, Vṛndāvana",
+    "title":"Ceremony Speech, partially recorded — August 18, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Ceremony Speech, partially recorded ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation — October 14, 1975, Johannesburg~~
-~~bc: October 14, 1975, Johannesburg~~
+---json
+{
+    "name":"Room Conversation — October 14, 1975, Johannesburg",
+    "h1":"October 14, 1975, Johannesburg",
+    "title":"Room Conversation — October 14, 1975, Johannesburg",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

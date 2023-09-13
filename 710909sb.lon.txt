@@ -1,5 +1,12 @@
-~~Title: SB 7.5.30 — September 9, 1971, London~~
-~~bc: September 9, 1971, London~~
+---json
+{
+    "name":"SB 7.5.30 — September 9, 1971, London",
+    "h1":"September 9, 1971, London",
+    "title":"SB 7.5.30 — September 9, 1971, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.5.30 ======
 
 ---- dataentry spoken ----

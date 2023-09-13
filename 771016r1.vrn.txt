@@ -1,5 +1,12 @@
-~~Title: Room Conversation About 10th Canto — October 16, 1977, Vṛndāvana~~
-~~bc: October 16, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation About 10th Canto — October 16, 1977, Vṛndāvana",
+    "h1":"October 16, 1977, Vṛndāvana",
+    "title":"Room Conversation About 10th Canto — October 16, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation About 10th Canto ======
 
 ---- dataentry spoken ----

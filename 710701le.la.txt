@@ -1,5 +1,12 @@
-~~Title: Ratha-yātrā — July 1, 1971, Los Angeles~~
-~~bc: July 1, 1971, Los Angeles~~
+---json
+{
+    "name":"Ratha-yātrā — July 1, 1971, Los Angeles",
+    "h1":"July 1, 1971, Los Angeles",
+    "title":"Ratha-yātrā — July 1, 1971, Los Angeles",
+    "description":""
+}
+---
+
 ====== Ratha-yātrā ======
 
 ---- dataentry spoken ----

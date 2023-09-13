@@ -1,5 +1,12 @@
-~~Title: Lecture after Manipur Dancing — March 29, 1975, Māyāpur~~
-~~bc: March 29, 1975, Māyāpur~~
+---json
+{
+    "name":"Lecture after Manipur Dancing — March 29, 1975, Māyāpur",
+    "h1":"March 29, 1975, Māyāpur",
+    "title":"Lecture after Manipur Dancing — March 29, 1975, Māyāpur",
+    "description":""
+}
+---
+
 ====== Lecture after Manipur Dancing ======
 
 ---- dataentry spoken ----

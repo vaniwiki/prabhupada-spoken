@@ -1,5 +1,12 @@
-~~Title: Departure Address — July 3, 1972, Los Angeles~~
-~~bc: July 3, 1972, Los Angeles~~
+---json
+{
+    "name":"Departure Address — July 3, 1972, Los Angeles",
+    "h1":"July 3, 1972, Los Angeles",
+    "title":"Departure Address — July 3, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Departure Address ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 6.1.34-39 — December 19, 1970, Surat~~
-~~bc: December 19, 1970, Surat~~
+---json
+{
+    "name":"SB 6.1.34-39 — December 19, 1970, Surat",
+    "h1":"December 19, 1970, Surat",
+    "title":"SB 6.1.34-39 — December 19, 1970, Surat",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.34–39 ======
 
 ---- dataentry spoken ----

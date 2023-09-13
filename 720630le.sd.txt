@@ -1,5 +1,12 @@
-~~Title: Lecture at Indians Home — June 30, 1972, San Diego~~
-~~bc: June 30, 1972, San Diego~~
+---json
+{
+    "name":"Lecture at Indians Home — June 30, 1972, San Diego",
+    "h1":"June 30, 1972, San Diego",
+    "title":"Lecture at Indians Home — June 30, 1972, San Diego",
+    "description":""
+}
+---
+
 ====== Lecture at Indians Home ======
 
 ---- dataentry spoken ----

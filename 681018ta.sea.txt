@@ -1,5 +1,12 @@
-~~Title: Talk — October 18, 1968, Seattle~~
-~~bc: October 18, 1968, Seattle~~
+---json
+{
+    "name":"Talk — October 18, 1968, Seattle",
+    "h1":"October 18, 1968, Seattle",
+    "title":"Talk — October 18, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Talk ======
 
 ---- dataentry spoken ----

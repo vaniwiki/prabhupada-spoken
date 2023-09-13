@@ -1,5 +1,12 @@
-~~Title: Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 — December 22, 1975, Bombay~~
-~~bc: December 22, 1975, Bombay~~
+---json
+{
+    "name":"Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 — December 22, 1975, Bombay",
+    "h1":"December 22, 1975, Bombay",
+    "title":"Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 — December 22, 1975, Bombay",
+    "description":""
+}
+---
+
 ====== Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 ======
 
 ---- dataentry spoken ----

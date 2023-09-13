@@ -1,5 +1,12 @@
-~~Title: Talk During Prasāda After Kīrtana — November 8, 1968, Los Angeles~~
-~~bc: November 8, 1968, Los Angeles~~
+---json
+{
+    "name":"Talk During Prasāda After Kīrtana — November 8, 1968, Los Angeles",
+    "h1":"November 8, 1968, Los Angeles",
+    "title":"Talk During Prasāda After Kīrtana — November 8, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Talk During Prasāda After Kīrtana ======
 
 ---- dataentry spoken ----

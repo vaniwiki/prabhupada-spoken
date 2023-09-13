@@ -1,5 +1,12 @@
-~~Title: SB 1.1.23 — August 2, 1972, London~~
-~~bc: August 2, 1972, London~~
+---json
+{
+    "name":"SB 1.1.23 — August 2, 1972, London",
+    "h1":"August 2, 1972, London",
+    "title":"SB 1.1.23 — August 2, 1972, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.1.23 ======
 
 ---- dataentry spoken ----

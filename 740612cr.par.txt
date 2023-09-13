@@ -1,5 +1,12 @@
-~~Title: Car Conversation — June 12, 1974, Paris~~
-~~bc: June 12, 1974, Paris~~
+---json
+{
+    "name":"Car Conversation — June 12, 1974, Paris",
+    "h1":"June 12, 1974, Paris",
+    "title":"Car Conversation — June 12, 1974, Paris",
+    "description":""
+}
+---
+
 ====== Car Conversation ======
 
 ---- dataentry spoken ----

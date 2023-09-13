@@ -1,5 +1,12 @@
-~~Title: Bg 3.9-14 — February 6, 1974, Vṛndāvana~~
-~~bc: February 6, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Bg 3.9-14 — February 6, 1974, Vṛndāvana",
+    "h1":"February 6, 1974, Vṛndāvana",
+    "title":"Bg 3.9-14 — February 6, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.9–14 ======
 
 ---- dataentry spoken ----

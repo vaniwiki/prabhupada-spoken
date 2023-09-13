@@ -1,5 +1,12 @@
-~~Title: Engagement Lecture — April 23, 1969, Buffalo~~
-~~bc: April 23, 1969, Buffalo~~
+---json
+{
+    "name":"Engagement Lecture — April 23, 1969, Buffalo",
+    "h1":"April 23, 1969, Buffalo",
+    "title":"Engagement Lecture — April 23, 1969, Buffalo",
+    "description":""
+}
+---
+
 ====== Engagement Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.13.12-14 — June 3, 1974, Geneva~~
-~~bc: June 3, 1974, Geneva~~
+---json
+{
+    "name":"SB 1.13.12-14 — June 3, 1974, Geneva",
+    "h1":"June 3, 1974, Geneva",
+    "title":"SB 1.13.12-14 — June 3, 1974, Geneva",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.13.12–14 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Letter Dictation by Śyāmasundara — June 22, 1972, Los Angeles~~
-~~bc: June 22, 1972, Los Angeles~~
+---json
+{
+    "name":"Letter Dictation by Śyāmasundara — June 22, 1972, Los Angeles",
+    "h1":"June 22, 1972, Los Angeles",
+    "title":"Letter Dictation by Śyāmasundara — June 22, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Letter Dictation by Śyāmasundara ======
 
 ---- dataentry spoken ----

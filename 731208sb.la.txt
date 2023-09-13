@@ -1,5 +1,12 @@
-~~Title: SB 1.15.30 — December 8, 1973, Los Angeles~~
-~~bc: December 8, 1973, Los Angeles~~
+---json
+{
+    "name":"SB 1.15.30 — December 8, 1973, Los Angeles",
+    "h1":"December 8, 1973, Los Angeles",
+    "title":"SB 1.15.30 — December 8, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.15.30 ======
 
 ---- dataentry spoken ----

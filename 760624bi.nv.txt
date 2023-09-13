@@ -1,5 +1,12 @@
-~~Title: Prabhupāda Inspects New BTG — June 24, 1976, New Vrindavan~~
-~~bc: June 24, 1976, New Vrindavan~~
+---json
+{
+    "name":"Prabhupāda Inspects New BTG — June 24, 1976, New Vrindavan",
+    "h1":"June 24, 1976, New Vrindavan",
+    "title":"Prabhupāda Inspects New BTG — June 24, 1976, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Prabhupāda Inspects New BTG ======
 
 ---- dataentry spoken ----

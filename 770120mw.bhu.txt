@@ -1,5 +1,12 @@
-~~Title: Morning Walk [partially recorded] — January 20, 1977, Bhubaneswar~~
-~~bc: January 20, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Morning Walk [partially recorded] — January 20, 1977, Bhubaneswar",
+    "h1":"January 20, 1977, Bhubaneswar",
+    "title":"Morning Walk [partially recorded] — January 20, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Morning Walk [partially recorded] ======
 
 ---- dataentry spoken ----

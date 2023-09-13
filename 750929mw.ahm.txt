@@ -1,5 +1,12 @@
-~~Title: Morning Walk — September 29, 1975, Ahmedabad~~
-~~bc: September 29, 1975, Ahmedabad~~
+---json
+{
+    "name":"Morning Walk — September 29, 1975, Ahmedabad",
+    "h1":"September 29, 1975, Ahmedabad",
+    "title":"Morning Walk — September 29, 1975, Ahmedabad",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

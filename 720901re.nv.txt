@@ -1,5 +1,12 @@
-~~Title: Janmāṣṭamī, Kṛṣṇa Book Reading — September 1, 1972, New Vrindavan~~
-~~bc: September 1, 1972, New Vrindavan~~
+---json
+{
+    "name":"Janmāṣṭamī, Kṛṣṇa Book Reading — September 1, 1972, New Vrindavan",
+    "h1":"September 1, 1972, New Vrindavan",
+    "title":"Janmāṣṭamī, Kṛṣṇa Book Reading — September 1, 1972, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Janmāṣṭamī, Kṛṣṇa Book Reading ======
 
 ---- dataentry spoken ----

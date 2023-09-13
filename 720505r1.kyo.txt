@@ -1,5 +1,12 @@
-~~Title: Room Conversation, “Definition of Chance” — May 5, 1972, Kyoto~~
-~~bc: May 5, 1972, Kyoto~~
+---json
+{
+    "name":"Room Conversation, “Definition of Chance” — May 5, 1972, Kyoto",
+    "h1":"May 5, 1972, Kyoto",
+    "title":"Room Conversation, “Definition of Chance” — May 5, 1972, Kyoto",
+    "description":""
+}
+---
+
 ====== Room Conversation, “Definition of Chance” ======
 
 ---- dataentry spoken ----

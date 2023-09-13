@@ -1,5 +1,12 @@
-~~Title: SB 1.8.18 — September 28, 1974, Māyāpur~~
-~~bc: September 28, 1974, Māyāpur~~
+---json
+{
+    "name":"SB 1.8.18 — September 28, 1974, Māyāpur",
+    "h1":"September 28, 1974, Māyāpur",
+    "title":"SB 1.8.18 — September 28, 1974, Māyāpur",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.8.18 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Press Interview — December 31, 1976, Bombay~~
-~~bc: December 31, 1976, Bombay~~
+---json
+{
+    "name":"Press Interview — December 31, 1976, Bombay",
+    "h1":"December 31, 1976, Bombay",
+    "title":"Press Interview — December 31, 1976, Bombay",
+    "description":""
+}
+---
+
 ====== Press Interview ======
 
 ---- dataentry spoken ----

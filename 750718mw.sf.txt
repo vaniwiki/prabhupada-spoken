@@ -1,5 +1,12 @@
-~~Title: Morning Walk — July 18, 1975, San Francisco~~
-~~bc: July 18, 1975, San Francisco~~
+---json
+{
+    "name":"Morning Walk — July 18, 1975, San Francisco",
+    "h1":"July 18, 1975, San Francisco",
+    "title":"Morning Walk — July 18, 1975, San Francisco",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

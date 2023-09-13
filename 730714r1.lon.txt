@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Indian Guests — July 14, 1973, London~~
-~~bc: July 14, 1973, London~~
+---json
+{
+    "name":"Room Conversation with Indian Guests — July 14, 1973, London",
+    "h1":"July 14, 1973, London",
+    "title":"Room Conversation with Indian Guests — July 14, 1973, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with Indian Guests ======
 
 ---- dataentry spoken ----

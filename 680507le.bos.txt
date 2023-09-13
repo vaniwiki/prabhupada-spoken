@@ -1,5 +1,12 @@
-~~Title: Lecture: “Nobody Wants to Die” — May 7, 1968, Boston~~
-~~bc: May 7, 1968, Boston~~
+---json
+{
+    "name":"Lecture: “Nobody Wants to Die” — May 7, 1968, Boston",
+    "h1":"May 7, 1968, Boston",
+    "title":"Lecture: “Nobody Wants to Die” — May 7, 1968, Boston",
+    "description":""
+}
+---
+
 ====== Lecture: “Nobody Wants to Die” ======
 
 ---- dataentry spoken ----

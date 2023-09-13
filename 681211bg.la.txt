@@ -1,5 +1,12 @@
-~~Title: Bg 2.27-38 — December 11, 1968, Los Angeles~~
-~~bc: December 11, 1968, Los Angeles~~
+---json
+{
+    "name":"Bg 2.27-38 — December 11, 1968, Los Angeles",
+    "h1":"December 11, 1968, Los Angeles",
+    "title":"Bg 2.27-38 — December 11, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.27–38 ======
 
 ---- dataentry spoken ----

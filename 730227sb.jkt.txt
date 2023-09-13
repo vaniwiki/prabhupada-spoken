@@ -1,5 +1,12 @@
-~~Title: SB 1.1.23 — February 27, 1973, Jakarta~~
-~~bc: February 27, 1973, Jakarta~~
+---json
+{
+    "name":"SB 1.1.23 — February 27, 1973, Jakarta",
+    "h1":"February 27, 1973, Jakarta",
+    "title":"SB 1.1.23 — February 27, 1973, Jakarta",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.1.23 ======
 
 ---- dataentry spoken ----

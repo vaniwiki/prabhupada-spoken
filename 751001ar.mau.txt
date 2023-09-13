@@ -1,5 +1,12 @@
-~~Title: Arrival Address — October 1, 1975, Mauritius~~
-~~bc: October 1, 1975, Mauritius~~
+---json
+{
+    "name":"Arrival Address — October 1, 1975, Mauritius",
+    "h1":"October 1, 1975, Mauritius",
+    "title":"Arrival Address — October 1, 1975, Mauritius",
+    "description":""
+}
+---
+
 ====== Arrival Address ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 3.36-37 — February 11, 1973, Melbourne~~
-~~bc: February 11, 1973, Melbourne~~
+---json
+{
+    "name":"Bg 3.36-37 — February 11, 1973, Melbourne",
+    "h1":"February 11, 1973, Melbourne",
+    "title":"Bg 3.36-37 — February 11, 1973, Melbourne",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.36–37 ======
 
 ---- dataentry spoken ----

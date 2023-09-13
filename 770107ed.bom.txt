@@ -1,5 +1,12 @@
-~~Title: Evening Darśana — January 7, 1977, Bombay~~
-~~bc: January 7, 1977, Bombay~~
+---json
+{
+    "name":"Evening Darśana — January 7, 1977, Bombay",
+    "h1":"January 7, 1977, Bombay",
+    "title":"Evening Darśana — January 7, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Evening Darśana ======
 
 ---- dataentry spoken ----

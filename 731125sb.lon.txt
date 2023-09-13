@@ -1,5 +1,12 @@
-~~Title: SB 1.10.4 — November 25, 1973, London~~
-~~bc: November 25, 1973, London~~
+---json
+{
+    "name":"SB 1.10.4 — November 25, 1973, London",
+    "h1":"November 25, 1973, London",
+    "title":"SB 1.10.4 — November 25, 1973, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.10.4 ======
 
 ---- dataentry spoken ----

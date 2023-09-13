@@ -1,5 +1,12 @@
-~~Title: Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture — February 7, 1969, Los Angeles~~
-~~bc: February 7, 1969, Los Angeles~~
+---json
+{
+    "name":"Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture — February 7, 1969, Los Angeles",
+    "h1":"February 7, 1969, Los Angeles",
+    "title":"Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture — February 7, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation — December 16, 1976, Hyderabad~~
-~~bc: December 16, 1976, Hyderabad~~
+---json
+{
+    "name":"Room Conversation — December 16, 1976, Hyderabad",
+    "h1":"December 16, 1976, Hyderabad",
+    "title":"Room Conversation — December 16, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

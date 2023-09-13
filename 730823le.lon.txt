@@ -1,5 +1,12 @@
-~~Title: Lecture, “What is Religion?” — August 23, 1973, London~~
-~~bc: August 23, 1973, London~~
+---json
+{
+    "name":"Lecture, “What is Religion?” — August 23, 1973, London",
+    "h1":"August 23, 1973, London",
+    "title":"Lecture, “What is Religion?” — August 23, 1973, London",
+    "description":""
+}
+---
+
 ====== Lecture, “What is Religion?” ======
 
 ---- dataentry spoken ----

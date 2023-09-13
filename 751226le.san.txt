@@ -1,5 +1,12 @@
-~~Title: Kirtan & Lecture [Hindi] — December 26, 1975, Sanand~~
-~~bc: December 26, 1975, Sanand~~
+---json
+{
+    "name":"Kirtan & Lecture [Hindi] — December 26, 1975, Sanand",
+    "h1":"December 26, 1975, Sanand",
+    "title":"Kirtan & Lecture [Hindi] — December 26, 1975, Sanand",
+    "description":""
+}
+---
+
 ====== Kirtan & Lecture [Hindi] ======
 
 ---- dataentry spoken ----

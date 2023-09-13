@@ -1,5 +1,12 @@
-~~Title: Evening Conversation — August 8, 1976, Tehran~~
-~~bc: August 8, 1976, Tehran~~
+---json
+{
+    "name":"Evening Conversation — August 8, 1976, Tehran",
+    "h1":"August 8, 1976, Tehran",
+    "title":"Evening Conversation — August 8, 1976, Tehran",
+    "description":""
+}
+---
+
 ====== Evening Conversation ======
 
 ---- dataentry spoken ----

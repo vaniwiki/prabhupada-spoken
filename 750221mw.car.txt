@@ -1,5 +1,12 @@
-~~Title: Morning Walk — February 21, 1975, Caracas~~
-~~bc: February 21, 1975, Caracas~~
+---json
+{
+    "name":"Morning Walk — February 21, 1975, Caracas",
+    "h1":"February 21, 1975, Caracas",
+    "title":"Morning Walk — February 21, 1975, Caracas",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

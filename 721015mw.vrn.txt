@@ -1,5 +1,12 @@
-~~Title: Morning Walk — October 15, 1972, Vṛndāvana~~
-~~bc: October 15, 1972, Vṛndāvana~~
+---json
+{
+    "name":"Morning Walk — October 15, 1972, Vṛndāvana",
+    "h1":"October 15, 1972, Vṛndāvana",
+    "title":"Morning Walk — October 15, 1972, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

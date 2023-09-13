@@ -1,5 +1,12 @@
-~~Title: Bg 7.4-5 — March 30, 1971, Bombay~~
-~~bc: March 30, 1971, Bombay~~
+---json
+{
+    "name":"Bg 7.4-5 — March 30, 1971, Bombay",
+    "h1":"March 30, 1971, Bombay",
+    "title":"Bg 7.4-5 — March 30, 1971, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.4–5 ======
 
 ---- dataentry spoken ----

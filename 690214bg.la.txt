@@ -1,5 +1,12 @@
-~~Title: Bg 6.2-5 — February 14, 1969, Los Angeles~~
-~~bc: February 14, 1969, Los Angeles~~
+---json
+{
+    "name":"Bg 6.2-5 — February 14, 1969, Los Angeles",
+    "h1":"February 14, 1969, Los Angeles",
+    "title":"Bg 6.2-5 — February 14, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 6.2–5 ======
 
 ---- dataentry spoken ----

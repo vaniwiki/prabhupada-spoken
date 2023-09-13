@@ -1,5 +1,12 @@
-~~Title: Evening Walk [partially recorded] — August 4, 1976, New Māyāpur~~
-~~bc: August 4, 1976, New Māyāpur~~
+---json
+{
+    "name":"Evening Walk [partially recorded] — August 4, 1976, New Māyāpur",
+    "h1":"August 4, 1976, New Māyāpur",
+    "title":"Evening Walk [partially recorded] — August 4, 1976, New Māyāpur",
+    "description":""
+}
+---
+
 ====== Evening Walk [partially recorded] ======
 
 ---- dataentry spoken ----

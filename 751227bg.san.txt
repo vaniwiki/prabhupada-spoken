@@ -1,5 +1,12 @@
-~~Title: Bg 3.14 [with translator] — December 27, 1975, Sanand~~
-~~bc: December 27, 1975, Sanand~~
+---json
+{
+    "name":"Bg 3.14 [with translator] — December 27, 1975, Sanand",
+    "h1":"December 27, 1975, Sanand",
+    "title":"Bg 3.14 [with translator] — December 27, 1975, Sanand",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.14 [with translator] ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 3.26.9 — December 21, 1974, Bombay~~
-~~bc: December 21, 1974, Bombay~~
+---json
+{
+    "name":"SB 3.26.9 — December 21, 1974, Bombay",
+    "h1":"December 21, 1974, Bombay",
+    "title":"SB 3.26.9 — December 21, 1974, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 3.26.9 ======
 
 ---- dataentry spoken ----

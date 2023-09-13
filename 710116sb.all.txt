@@ -1,5 +1,12 @@
-~~Title: SB 6.2.11 — January 16, 1971, Allahabad~~
-~~bc: January 16, 1971, Allahabad~~
+---json
+{
+    "name":"SB 6.2.11 — January 16, 1971, Allahabad",
+    "h1":"January 16, 1971, Allahabad",
+    "title":"SB 6.2.11 — January 16, 1971, Allahabad",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.2.11 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation on Roof — February 14, 1977, Māyāpur~~
-~~bc: February 14, 1977, Māyāpur~~
+---json
+{
+    "name":"Conversation on Roof — February 14, 1977, Māyāpur",
+    "h1":"February 14, 1977, Māyāpur",
+    "title":"Conversation on Roof — February 14, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Conversation on Roof ======
 
 ---- dataentry spoken ----

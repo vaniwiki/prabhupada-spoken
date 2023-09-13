@@ -1,5 +1,12 @@
-~~Title: Morning Walk — January 24, 1977, Bhubaneswar~~
-~~bc: January 24, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Morning Walk — January 24, 1977, Bhubaneswar",
+    "h1":"January 24, 1977, Bhubaneswar",
+    "title":"Morning Walk — January 24, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

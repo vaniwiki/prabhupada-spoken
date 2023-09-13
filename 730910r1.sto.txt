@@ -1,5 +1,12 @@
-~~Title: Room Conversation on Cc with Dr. Christian Hauser, Psychiatrist — September 10, 1973, Stockholm~~
-~~bc: September 10, 1973, Stockholm~~
+---json
+{
+    "name":"Room Conversation on Cc with Dr. Christian Hauser, Psychiatrist — September 10, 1973, Stockholm",
+    "h1":"September 10, 1973, Stockholm",
+    "title":"Room Conversation on Cc with Dr. Christian Hauser, Psychiatrist — September 10, 1973, Stockholm",
+    "description":""
+}
+---
+
 ====== Room Conversation on Cc with Dr. Christian Hauser, Psychiatrist ======
 
 ---- dataentry spoken ----

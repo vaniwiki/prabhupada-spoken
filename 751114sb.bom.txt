@@ -1,5 +1,12 @@
-~~Title: SB 5.5.1 [Hindi] — November 14, 1975, Bombay~~
-~~bc: November 14, 1975, Bombay~~
+---json
+{
+    "name":"SB 5.5.1 [Hindi] — November 14, 1975, Bombay",
+    "h1":"November 14, 1975, Bombay",
+    "title":"SB 5.5.1 [Hindi] — November 14, 1975, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.1 [Hindi] ======
 
 ---- dataentry spoken ----

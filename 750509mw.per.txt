@@ -1,5 +1,12 @@
-~~Title: Morning Walk on Beach — May 9, 1975, Perth~~
-~~bc: May 9, 1975, Perth~~
+---json
+{
+    "name":"Morning Walk on Beach — May 9, 1975, Perth",
+    "h1":"May 9, 1975, Perth",
+    "title":"Morning Walk on Beach — May 9, 1975, Perth",
+    "description":""
+}
+---
+
 ====== Morning Walk on Beach ======
 
 ---- dataentry spoken ----

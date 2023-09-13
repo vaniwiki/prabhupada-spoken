@@ -1,5 +1,12 @@
-~~Title: Pandal Lecture — November 12, 1971, Delhi~~
-~~bc: November 12, 1971, Delhi~~
+---json
+{
+    "name":"Pandal Lecture — November 12, 1971, Delhi",
+    "h1":"November 12, 1971, Delhi",
+    "title":"Pandal Lecture — November 12, 1971, Delhi",
+    "description":""
+}
+---
+
 ====== Pandal Lecture ======
 
 ---- dataentry spoken ----

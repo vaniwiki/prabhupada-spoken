@@ -1,5 +1,12 @@
-~~Title: SB 1.2.7 [Hindi] — March 22, 1975, Calcutta~~
-~~bc: March 22, 1975, Calcutta~~
+---json
+{
+    "name":"SB 1.2.7 [Hindi] — March 22, 1975, Calcutta",
+    "h1":"March 22, 1975, Calcutta",
+    "title":"SB 1.2.7 [Hindi] — March 22, 1975, Calcutta",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.7 [Hindi] ======
 
 ---- dataentry spoken ----

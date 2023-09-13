@@ -1,5 +1,12 @@
-~~Title: Car Conversation — July 21, 1976, New York~~
-~~bc: July 21, 1976, New York~~
+---json
+{
+    "name":"Car Conversation — July 21, 1976, New York",
+    "h1":"July 21, 1976, New York",
+    "title":"Car Conversation — July 21, 1976, New York",
+    "description":""
+}
+---
+
 ====== Car Conversation ======
 
 ---- dataentry spoken ----

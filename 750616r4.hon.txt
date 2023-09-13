@@ -1,5 +1,12 @@
-~~Title: Room Conversation about Modern Soceity — June 16, 1975, Honolulu~~
-~~bc: June 16, 1975, Honolulu~~
+---json
+{
+    "name":"Room Conversation about Modern Soceity — June 16, 1975, Honolulu",
+    "h1":"June 16, 1975, Honolulu",
+    "title":"Room Conversation about Modern Soceity — June 16, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Room Conversation about Modern Soceity ======
 
 ---- dataentry spoken ----

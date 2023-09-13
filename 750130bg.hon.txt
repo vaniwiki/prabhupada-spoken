@@ -1,5 +1,12 @@
-~~Title: Bg 16.4 — January 30, 1975, Honolulu~~
-~~bc: January 30, 1975, Honolulu~~
+---json
+{
+    "name":"Bg 16.4 — January 30, 1975, Honolulu",
+    "h1":"January 30, 1975, Honolulu",
+    "title":"Bg 16.4 — January 30, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 16.4 ======
 
 ---- dataentry spoken ----

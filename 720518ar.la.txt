@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — May 18, 1972, Los Angeles~~
-~~bc: May 18, 1972, Los Angeles~~
+---json
+{
+    "name":"Arrival Lecture — May 18, 1972, Los Angeles",
+    "h1":"May 18, 1972, Los Angeles",
+    "title":"Arrival Lecture — May 18, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

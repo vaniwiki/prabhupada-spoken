@@ -1,5 +1,12 @@
-~~Title: Morning Walk — October 2, 1975, Mauritius~~
-~~bc: October 2, 1975, Mauritius~~
+---json
+{
+    "name":"Morning Walk — October 2, 1975, Mauritius",
+    "h1":"October 2, 1975, Mauritius",
+    "title":"Morning Walk — October 2, 1975, Mauritius",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

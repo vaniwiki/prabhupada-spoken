@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 21.62-67 — January 6, 1966, New York~~
-~~bc: January 6, 1966, New York~~
+---json
+{
+    "name":"Cc. Madhya 21.62-67 — January 6, 1966, New York",
+    "h1":"January 6, 1966, New York",
+    "title":"Cc. Madhya 21.62-67 — January 6, 1966, New York",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 21.62–67 ======
 
 ---- dataentry spoken ----

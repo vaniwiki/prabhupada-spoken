@@ -1,5 +1,12 @@
-~~Title: Brāhmaṇa Initiation Lecture with Professor O’Connell — May 6, 1968, Boston~~
-~~bc: May 6, 1968, Boston~~
+---json
+{
+    "name":"Brāhmaṇa Initiation Lecture with Professor O’Connell — May 6, 1968, Boston",
+    "h1":"May 6, 1968, Boston",
+    "title":"Brāhmaṇa Initiation Lecture with Professor O’Connell — May 6, 1968, Boston",
+    "description":""
+}
+---
+
 ====== Brāhmaṇa Initiation Lecture with Professor O’Connell ======
 
 ---- dataentry spoken ----

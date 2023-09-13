@@ -1,5 +1,12 @@
-~~Title: Tour — October 6, 1972, Berkeley~~
-~~bc: October 6, 1972, Berkeley~~
+---json
+{
+    "name":"Tour — October 6, 1972, Berkeley",
+    "h1":"October 6, 1972, Berkeley",
+    "title":"Tour — October 6, 1972, Berkeley",
+    "description":""
+}
+---
+
 ====== Tour ======
 
 ---- dataentry spoken ----

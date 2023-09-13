@@ -1,5 +1,12 @@
-~~Title: Conversation — March 28, 1969, Hawaii~~
-~~bc: March 28, 1969, Hawaii~~
+---json
+{
+    "name":"Conversation — March 28, 1969, Hawaii",
+    "h1":"March 28, 1969, Hawaii",
+    "title":"Conversation — March 28, 1969, Hawaii",
+    "description":""
+}
+---
+
 ====== Conversation ======
 
 ---- dataentry spoken ----

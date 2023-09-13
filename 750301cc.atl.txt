@@ -1,5 +1,12 @@
-~~Title: Cc. Ādi 7.1 — March 1, 1975, Atlanta~~
-~~bc: March 1, 1975, Atlanta~~
+---json
+{
+    "name":"Cc. Ādi 7.1 — March 1, 1975, Atlanta",
+    "h1":"March 1, 1975, Atlanta",
+    "title":"Cc. Ādi 7.1 — March 1, 1975, Atlanta",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 7.1 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 18.5 — September 5, 1973, London~~
-~~bc: September 5, 1973, London~~
+---json
+{
+    "name":"Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 18.5 — September 5, 1973, London",
+    "h1":"September 5, 1973, London",
+    "title":"Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 18.5 — September 5, 1973, London",
+    "description":""
+}
+---
+
 ====== Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 18.5 ======
 
 ---- dataentry spoken ----

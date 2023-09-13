@@ -1,5 +1,12 @@
-~~Title: SB 2.1.2 — September 13, 1971, Mombassa~~
-~~bc: September 13, 1971, Mombassa~~
+---json
+{
+    "name":"SB 2.1.2 — September 13, 1971, Mombassa",
+    "h1":"September 13, 1971, Mombassa",
+    "title":"SB 2.1.2 — September 13, 1971, Mombassa",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.1.2 ======
 
 ---- dataentry spoken ----

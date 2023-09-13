@@ -1,5 +1,12 @@
-~~Title: Cornerstone Laying, Bhagavad-gītā 16.7-9 — January 23, 1975, Bombay~~
-~~bc: January 23, 1975, Bombay~~
+---json
+{
+    "name":"Cornerstone Laying, Bhagavad-gītā 16.7-9 — January 23, 1975, Bombay",
+    "h1":"January 23, 1975, Bombay",
+    "title":"Cornerstone Laying, Bhagavad-gītā 16.7-9 — January 23, 1975, Bombay",
+    "description":""
+}
+---
+
 ====== Cornerstone Laying, Bhagavad-gītā 16.7–9 ======
 
 ---- dataentry spoken ----

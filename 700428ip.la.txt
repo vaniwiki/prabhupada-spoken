@@ -1,5 +1,12 @@
-~~Title: Śrī Īśopaniṣad Invocation Lecture — April 28, 1970, Los Angeles~~
-~~bc: April 28, 1970, Los Angeles~~
+---json
+{
+    "name":"Śrī Īśopaniṣad Invocation Lecture — April 28, 1970, Los Angeles",
+    "h1":"April 28, 1970, Los Angeles",
+    "title":"Śrī Īśopaniṣad Invocation Lecture — April 28, 1970, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrī Īśopaniṣad Invocation Lecture ======
 
 ---- dataentry spoken ----

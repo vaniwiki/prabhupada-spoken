@@ -1,5 +1,12 @@
-~~Title: SB 7.7.19-20 — March 18, 1971, Bombay~~
-~~bc: March 18, 1971, Bombay~~
+---json
+{
+    "name":"SB 7.7.19-20 — March 18, 1971, Bombay",
+    "h1":"March 18, 1971, Bombay",
+    "title":"SB 7.7.19-20 — March 18, 1971, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.7.19–20 ======
 
 ---- dataentry spoken ----

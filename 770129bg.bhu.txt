@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 — January 29, 1977, Bhubaneswar ~~
-~~bc: January 29, 1977, Bhubaneswar ~~
+---json
+{
+    "name":"Bg 7.1 — January 29, 1977, Bhubaneswar ",
+    "h1":"January 29, 1977, Bhubaneswar ",
+    "title":"Bg 7.1 — January 29, 1977, Bhubaneswar ",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 ======
 
 ---- dataentry spoken ----

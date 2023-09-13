@@ -1,5 +1,12 @@
-~~Title: Address to Rotary Club — October 17, 1976, Chandigarh~~
-~~bc: October 17, 1976, Chandigarh~~
+---json
+{
+    "name":"Address to Rotary Club — October 17, 1976, Chandigarh",
+    "h1":"October 17, 1976, Chandigarh",
+    "title":"Address to Rotary Club — October 17, 1976, Chandigarh",
+    "description":""
+}
+---
+
 ====== Address to Rotary Club ======
 
 ---- dataentry spoken ----

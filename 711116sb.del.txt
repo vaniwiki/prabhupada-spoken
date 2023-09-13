@@ -1,5 +1,12 @@
-~~Title: SB 4.14.14 — November 16, 1971, New Delhi~~
-~~bc: November 16, 1971, New Delhi~~
+---json
+{
+    "name":"SB 4.14.14 — November 16, 1971, New Delhi",
+    "h1":"November 16, 1971, New Delhi",
+    "title":"SB 4.14.14 — November 16, 1971, New Delhi",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 4.14.14 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Prabhupāda Vigil — November 3, 1977, Vṛndāvana~~
-~~bc: November 3, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Prabhupāda Vigil — November 3, 1977, Vṛndāvana",
+    "h1":"November 3, 1977, Vṛndāvana",
+    "title":"Prabhupāda Vigil — November 3, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Prabhupāda Vigil ======
 
 ---- dataentry spoken ----

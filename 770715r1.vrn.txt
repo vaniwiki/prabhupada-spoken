@@ -1,5 +1,12 @@
-~~Title: Room Conversation Māyāpur attack — July 15, 1977, Vṛndāvana~~
-~~bc: July 15, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation Māyāpur attack — July 15, 1977, Vṛndāvana",
+    "h1":"July 15, 1977, Vṛndāvana",
+    "title":"Room Conversation Māyāpur attack — July 15, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation Māyāpur attack ======
 
 ---- dataentry spoken ----

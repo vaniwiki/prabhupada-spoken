@@ -1,5 +1,12 @@
-~~Title: Lecture about Māyāvāda Philosophy — May 17, 1976, Honolulu~~
-~~bc: May 17, 1976, Honolulu~~
+---json
+{
+    "name":"Lecture about Māyāvāda Philosophy — May 17, 1976, Honolulu",
+    "h1":"May 17, 1976, Honolulu",
+    "title":"Lecture about Māyāvāda Philosophy — May 17, 1976, Honolulu",
+    "description":""
+}
+---
+
 ====== Lecture about Māyāvāda Philosophy ======
 
 ---- dataentry spoken ----

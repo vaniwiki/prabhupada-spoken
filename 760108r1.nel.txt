@@ -1,5 +1,12 @@
-~~Title: Room Conversation — January 8, 1976, Nellore~~
-~~bc: January 8, 1976, Nellore~~
+---json
+{
+    "name":"Room Conversation — January 8, 1976, Nellore",
+    "h1":"January 8, 1976, Nellore",
+    "title":"Room Conversation — January 8, 1976, Nellore",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

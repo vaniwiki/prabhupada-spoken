@@ -1,5 +1,12 @@
-~~Title: Lecture — March 23, 1969, Hawaii~~
-~~bc: March 23, 1969, Hawaii~~
+---json
+{
+    "name":"Lecture — March 23, 1969, Hawaii",
+    "h1":"March 23, 1969, Hawaii",
+    "title":"Lecture — March 23, 1969, Hawaii",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

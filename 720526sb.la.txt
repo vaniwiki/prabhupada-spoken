@@ -1,5 +1,12 @@
-~~Title: SB 2.3.9 — May 26, 1972, Los Angeles~~
-~~bc: May 26, 1972, Los Angeles~~
+---json
+{
+    "name":"SB 2.3.9 — May 26, 1972, Los Angeles",
+    "h1":"May 26, 1972, Los Angeles",
+    "title":"SB 2.3.9 — May 26, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.3.9 ======
 
 ---- dataentry spoken ----

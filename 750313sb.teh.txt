@@ -1,5 +1,12 @@
-~~Title: SB 1.10.3-4 — March 13, 1975, Tehran~~
-~~bc: March 13, 1975, Tehran~~
+---json
+{
+    "name":"SB 1.10.3-4 — March 13, 1975, Tehran",
+    "h1":"March 13, 1975, Tehran",
+    "title":"SB 1.10.3-4 — March 13, 1975, Tehran",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.10.3–4 ======
 
 ---- dataentry spoken ----

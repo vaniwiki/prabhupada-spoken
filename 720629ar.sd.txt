@@ -1,5 +1,12 @@
-~~Title: Arrival Interview — June 29, 1972, San Diego~~
-~~bc: June 29, 1972, San Diego~~
+---json
+{
+    "name":"Arrival Interview — June 29, 1972, San Diego",
+    "h1":"June 29, 1972, San Diego",
+    "title":"Arrival Interview — June 29, 1972, San Diego",
+    "description":""
+}
+---
+
 ====== Arrival Interview ======
 
 ---- dataentry spoken ----

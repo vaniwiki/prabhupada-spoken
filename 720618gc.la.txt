@@ -1,5 +1,12 @@
-~~Title: Garden Conversation, Kṛṣṇa book, “Delivery of the Message of Kṛṣṇa to the Gopīs” — June 18, 1972, Los Angeles~~
-~~bc: June 18, 1972, Los Angeles~~
+---json
+{
+    "name":"Garden Conversation, Kṛṣṇa book, “Delivery of the Message of Kṛṣṇa to the Gopīs” — June 18, 1972, Los Angeles",
+    "h1":"June 18, 1972, Los Angeles",
+    "title":"Garden Conversation, Kṛṣṇa book, “Delivery of the Message of Kṛṣṇa to the Gopīs” — June 18, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Garden Conversation, Kṛṣṇa book, “Delivery of the Message of Kṛṣṇa to the Gopīs” ======
 
 ---- dataentry spoken ----

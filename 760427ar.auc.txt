@@ -1,5 +1,12 @@
-~~Title: Arrival Address — April 27, 1976, Auckland~~
-~~bc: April 27, 1976, Auckland~~
+---json
+{
+    "name":"Arrival Address — April 27, 1976, Auckland",
+    "h1":"April 27, 1976, Auckland",
+    "title":"Arrival Address — April 27, 1976, Auckland",
+    "description":""
+}
+---
+
 ====== Arrival Address ======
 
 ---- dataentry spoken ----

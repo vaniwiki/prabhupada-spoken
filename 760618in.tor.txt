@@ -1,5 +1,12 @@
-~~Title: Initiation Lecture — June 18, 1976, Toronto~~
-~~bc: June 18, 1976, Toronto~~
+---json
+{
+    "name":"Initiation Lecture — June 18, 1976, Toronto",
+    "h1":"June 18, 1976, Toronto",
+    "title":"Initiation Lecture — June 18, 1976, Toronto",
+    "description":""
+}
+---
+
 ====== Initiation Lecture ======
 
 ---- dataentry spoken ----

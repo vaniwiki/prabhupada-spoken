@@ -1,5 +1,12 @@
-~~Title: Explanation of Nṛsiṁha-vallabha Gosvāmī Speech — April 27, 1975, Vṛndāvana~~
-~~bc: April 27, 1975, Vṛndāvana~~
+---json
+{
+    "name":"Explanation of Nṛsiṁha-vallabha Gosvāmī Speech — April 27, 1975, Vṛndāvana",
+    "h1":"April 27, 1975, Vṛndāvana",
+    "title":"Explanation of Nṛsiṁha-vallabha Gosvāmī Speech — April 27, 1975, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Explanation of Nṛsiṁha-vallabha Gosvāmī Speech ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Ratha-yātrā and Press Conference — July 4, 1970, San Francisco~~
-~~bc: July 4, 1970, San Francisco~~
+---json
+{
+    "name":"Ratha-yātrā and Press Conference — July 4, 1970, San Francisco",
+    "h1":"July 4, 1970, San Francisco",
+    "title":"Ratha-yātrā and Press Conference — July 4, 1970, San Francisco",
+    "description":""
+}
+---
+
 ====== Ratha-yātrā and Press Conference ======
 
 ---- dataentry spoken ----

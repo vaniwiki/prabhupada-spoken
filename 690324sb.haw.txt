@@ -1,5 +1,12 @@
-~~Title: SB 7.9.11-13 — March 24, 1969, Hawaii~~
-~~bc: March 24, 1969, Hawaii~~
+---json
+{
+    "name":"SB 7.9.11-13 — March 24, 1969, Hawaii",
+    "h1":"March 24, 1969, Hawaii",
+    "title":"SB 7.9.11-13 — March 24, 1969, Hawaii",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.9.11–13 ======
 
 ---- dataentry spoken ----

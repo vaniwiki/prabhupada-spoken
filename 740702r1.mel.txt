@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Scientists — July 2, 1974, Melbourne~~
-~~bc: July 2, 1974, Melbourne~~
+---json
+{
+    "name":"Room Conversation with Scientists — July 2, 1974, Melbourne",
+    "h1":"July 2, 1974, Melbourne",
+    "title":"Room Conversation with Scientists — July 2, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Room Conversation with Scientists ======
 
 ---- dataentry spoken ----

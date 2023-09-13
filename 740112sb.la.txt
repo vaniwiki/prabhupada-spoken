@@ -1,5 +1,12 @@
-~~Title: SB 1.16.17 — January 12, 1974, Los Angeles~~
-~~bc: January 12, 1974, Los Angeles~~
+---json
+{
+    "name":"SB 1.16.17 — January 12, 1974, Los Angeles",
+    "h1":"January 12, 1974, Los Angeles",
+    "title":"SB 1.16.17 — January 12, 1974, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.16.17 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 13.1-3 — October 13, 1975, Durban~~
-~~bc: October 13, 1975, Durban~~
+---json
+{
+    "name":"Bg 13.1-3 — October 13, 1975, Durban",
+    "h1":"October 13, 1975, Durban",
+    "title":"Bg 13.1-3 — October 13, 1975, Durban",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.1–3 ======
 
 ---- dataentry spoken ----

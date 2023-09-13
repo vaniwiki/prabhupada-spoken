@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 — June 29, 1972, San Diego~~
-~~bc: June 29, 1972, San Diego~~
+---json
+{
+    "name":"Bg 7.1 — June 29, 1972, San Diego",
+    "h1":"June 29, 1972, San Diego",
+    "title":"Bg 7.1 — June 29, 1972, San Diego",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 ======
 
 ---- dataentry spoken ----

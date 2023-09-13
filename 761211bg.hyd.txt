@@ -1,5 +1,12 @@
-~~Title: Bg 7.6 — December 11, 1976, Hyderabad~~
-~~bc: December 11, 1976, Hyderabad~~
+---json
+{
+    "name":"Bg 7.6 — December 11, 1976, Hyderabad",
+    "h1":"December 11, 1976, Hyderabad",
+    "title":"Bg 7.6 — December 11, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.6 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.385-394 — January 1, 1967, New York~~
-~~bc: January 1, 1967, New York~~
+---json
+{
+    "name":"Cc. Madhya 20.385-394 — January 1, 1967, New York",
+    "h1":"January 1, 1967, New York",
+    "title":"Cc. Madhya 20.385-394 — January 1, 1967, New York",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.385–394 ======
 
 ---- dataentry spoken ----

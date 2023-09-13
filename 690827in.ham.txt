@@ -1,5 +1,12 @@
-~~Title: Initiation Lecture — August 27, 1969, Hamburg~~
-~~bc: August 27, 1969, Hamburg~~
+---json
+{
+    "name":"Initiation Lecture — August 27, 1969, Hamburg",
+    "h1":"August 27, 1969, Hamburg",
+    "title":"Initiation Lecture — August 27, 1969, Hamburg",
+    "description":""
+}
+---
+
 ====== Initiation Lecture ======
 
 ---- dataentry spoken ----

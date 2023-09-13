@@ -1,5 +1,12 @@
-~~Title: SB 1.2.6 — February 23, 1972, Calcutta~~
-~~bc: February 23, 1972, Calcutta~~
+---json
+{
+    "name":"SB 1.2.6 — February 23, 1972, Calcutta",
+    "h1":"February 23, 1972, Calcutta",
+    "title":"SB 1.2.6 — February 23, 1972, Calcutta",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
 ---- dataentry spoken ----

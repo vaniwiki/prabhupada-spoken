@@ -1,5 +1,12 @@
-~~Title: SB 1.2.2 — May 26, 1974, Rome~~
-~~bc: May 26, 1974, Rome~~
+---json
+{
+    "name":"SB 1.2.2 — May 26, 1974, Rome",
+    "h1":"May 26, 1974, Rome",
+    "title":"SB 1.2.2 — May 26, 1974, Rome",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.2 ======
 
 ---- dataentry spoken ----

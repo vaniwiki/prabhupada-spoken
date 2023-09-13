@@ -1,5 +1,12 @@
-~~Title: Bg 13.1-2 — August 10, 1973, Paris~~
-~~bc: August 10, 1973, Paris~~
+---json
+{
+    "name":"Bg 13.1-2 — August 10, 1973, Paris",
+    "h1":"August 10, 1973, Paris",
+    "title":"Bg 13.1-2 — August 10, 1973, Paris",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.1–2 ======
 
 ---- dataentry spoken ----

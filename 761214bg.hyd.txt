@@ -1,5 +1,12 @@
-~~Title: Bg 16.7 — December 14, 1976, Hyderabad~~
-~~bc: December 14, 1976, Hyderabad~~
+---json
+{
+    "name":"Bg 16.7 — December 14, 1976, Hyderabad",
+    "h1":"December 14, 1976, Hyderabad",
+    "title":"Bg 16.7 — December 14, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 16.7 ======
 
 ---- dataentry spoken ----

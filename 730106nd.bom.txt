@@ -1,5 +1,12 @@
-~~Title: The Nectar of Devotion — January 6, 1973, Bombay~~
-~~bc: January 6, 1973, Bombay~~
+---json
+{
+    "name":"The Nectar of Devotion — January 6, 1973, Bombay",
+    "h1":"January 6, 1973, Bombay",
+    "title":"The Nectar of Devotion — January 6, 1973, Bombay",
+    "description":""
+}
+---
+
 ====== The Nectar of Devotion ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Cc. Ādi 7.119 — February 17, 1971, Gorakhpur~~
-~~bc: February 17, 1971, Gorakhpur~~
+---json
+{
+    "name":"Cc. Ādi 7.119 — February 17, 1971, Gorakhpur",
+    "h1":"February 17, 1971, Gorakhpur",
+    "title":"Cc. Ādi 7.119 — February 17, 1971, Gorakhpur",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 7.119 ======
 
 ---- dataentry spoken ----

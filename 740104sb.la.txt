@@ -1,5 +1,12 @@
-~~Title: SB 1.16.7 — January 4, 1974, Los Angeles~~
-~~bc: January 4, 1974, Los Angeles~~
+---json
+{
+    "name":"SB 1.16.7 — January 4, 1974, Los Angeles",
+    "h1":"January 4, 1974, Los Angeles",
+    "title":"SB 1.16.7 — January 4, 1974, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.16.7 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 — December 2, 1968, Los Angeles~~
-~~bc: December 2, 1968, Los Angeles~~
+---json
+{
+    "name":"Bg 7.1 — December 2, 1968, Los Angeles",
+    "h1":"December 2, 1968, Los Angeles",
+    "title":"Bg 7.1 — December 2, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 ======
 
 ---- dataentry spoken ----

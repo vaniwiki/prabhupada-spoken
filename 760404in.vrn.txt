@@ -1,5 +1,12 @@
-~~Title: Initiation Talk [partially recorded] — April 4, 1976, Vṛndāvana~~
-~~bc: April 4, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Initiation Talk [partially recorded] — April 4, 1976, Vṛndāvana",
+    "h1":"April 4, 1976, Vṛndāvana",
+    "title":"Initiation Talk [partially recorded] — April 4, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Initiation Talk [partially recorded] ======
 
 ---- dataentry spoken ----

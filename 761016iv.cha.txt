@@ -1,5 +1,12 @@
-~~Title: Press Interview — October 16, 1976, Chandigarh~~
-~~bc: October 16, 1976, Chandigarh~~
+---json
+{
+    "name":"Press Interview — October 16, 1976, Chandigarh",
+    "h1":"October 16, 1976, Chandigarh",
+    "title":"Press Interview — October 16, 1976, Chandigarh",
+    "description":""
+}
+---
+
 ====== Press Interview ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.2.6 — July 23, 1973, London~~
-~~bc: July 23, 1973, London~~
+---json
+{
+    "name":"SB 1.2.6 — July 23, 1973, London",
+    "h1":"July 23, 1973, London",
+    "title":"SB 1.2.6 — July 23, 1973, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
 ---- dataentry spoken ----

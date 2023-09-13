@@ -1,5 +1,12 @@
-~~Title: Garden Conversation — August 9, 1976, Tehran~~
-~~bc: August 9, 1976, Tehran~~
+---json
+{
+    "name":"Garden Conversation — August 9, 1976, Tehran",
+    "h1":"August 9, 1976, Tehran",
+    "title":"Garden Conversation — August 9, 1976, Tehran",
+    "description":""
+}
+---
+
 ====== Garden Conversation ======
 
 ---- dataentry spoken ----

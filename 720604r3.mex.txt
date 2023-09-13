@@ -1,5 +1,12 @@
-~~Title: Room Conversation — June 4, 1972, Mexico City~~
-~~bc: June 4, 1972, Mexico City~~
+---json
+{
+    "name":"Room Conversation — June 4, 1972, Mexico City",
+    "h1":"June 4, 1972, Mexico City",
+    "title":"Room Conversation — June 4, 1972, Mexico City",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

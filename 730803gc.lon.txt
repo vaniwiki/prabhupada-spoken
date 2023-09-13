@@ -1,5 +1,12 @@
-~~Title: Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest — August 3, 1973, London~~
-~~bc: August 3, 1973, London~~
+---json
+{
+    "name":"Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest — August 3, 1973, London",
+    "h1":"August 3, 1973, London",
+    "title":"Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest — August 3, 1973, London",
+    "description":""
+}
+---
+
 ====== Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Lecture [Bengali] — March 12, 1973, Calcutta~~
-~~bc: March 12, 1973, Calcutta~~
+---json
+{
+    "name":"Lecture [Bengali] — March 12, 1973, Calcutta",
+    "h1":"March 12, 1973, Calcutta",
+    "title":"Lecture [Bengali] — March 12, 1973, Calcutta",
+    "description":""
+}
+---
+
 ====== Lecture [Bengali] ======
 
 ---- dataentry spoken ----

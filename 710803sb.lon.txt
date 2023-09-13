@@ -1,5 +1,12 @@
-~~Title: SB 6.1.15 — August 3, 1971, London~~
-~~bc: August 3, 1971, London~~
+---json
+{
+    "name":"SB 6.1.15 — August 3, 1971, London",
+    "h1":"August 3, 1971, London",
+    "title":"SB 6.1.15 — August 3, 1971, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.15 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Morning Walk — June 19, 1974, Germany~~
-~~bc: June 19, 1974, Germany~~
+---json
+{
+    "name":"Morning Walk — June 19, 1974, Germany",
+    "h1":"June 19, 1974, Germany",
+    "title":"Morning Walk — June 19, 1974, Germany",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

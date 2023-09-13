@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Psychiatrists — February 22, 1975, Caracas~~
-~~bc: February 22, 1975, Caracas~~
+---json
+{
+    "name":"Room Conversation with Psychiatrists — February 22, 1975, Caracas",
+    "h1":"February 22, 1975, Caracas",
+    "title":"Room Conversation with Psychiatrists — February 22, 1975, Caracas",
+    "description":""
+}
+---
+
 ====== Room Conversation with Psychiatrists ======
 
 ---- dataentry spoken ----

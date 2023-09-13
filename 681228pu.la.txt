@@ -1,5 +1,12 @@
-~~Title: Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded] — December 28, 1968, Los Angeles~~
-~~bc: December 28, 1968, Los Angeles~~
+---json
+{
+    "name":"Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded] — December 28, 1968, Los Angeles",
+    "h1":"December 28, 1968, Los Angeles",
+    "title":"Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded] — December 28, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded] ======
 
 ---- dataentry spoken ----

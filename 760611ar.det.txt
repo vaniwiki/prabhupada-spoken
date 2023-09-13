@@ -1,5 +1,12 @@
-~~Title: Arrival — June 11, 1976, Detroit~~
-~~bc: June 11, 1976, Detroit~~
+---json
+{
+    "name":"Arrival — June 11, 1976, Detroit",
+    "h1":"June 11, 1976, Detroit",
+    "title":"Arrival — June 11, 1976, Detroit",
+    "description":""
+}
+---
+
 ====== Arrival ======
 
 ---- dataentry spoken ----

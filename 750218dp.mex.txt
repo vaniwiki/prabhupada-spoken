@@ -1,5 +1,12 @@
-~~Title: Departure Lecture — February 18, 1975, Mexico City~~
-~~bc: February 18, 1975, Mexico City~~
+---json
+{
+    "name":"Departure Lecture — February 18, 1975, Mexico City",
+    "h1":"February 18, 1975, Mexico City",
+    "title":"Departure Lecture — February 18, 1975, Mexico City",
+    "description":""
+}
+---
+
 ====== Departure Lecture ======
 
 ---- dataentry spoken ----

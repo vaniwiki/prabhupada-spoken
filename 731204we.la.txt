@@ -1,5 +1,12 @@
-~~Title: Wedding Lecture — December 4, 1973, Los Angeles~~
-~~bc: December 4, 1973, Los Angeles~~
+---json
+{
+    "name":"Wedding Lecture — December 4, 1973, Los Angeles",
+    "h1":"December 4, 1973, Los Angeles",
+    "title":"Wedding Lecture — December 4, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Wedding of Bali-mardana and Initiation of Taittireyā dāsi ======
 
 ---- dataentry spoken ----

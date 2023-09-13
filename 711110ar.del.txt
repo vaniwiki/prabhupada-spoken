@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — November 10, 1971, New Delhi~~
-~~bc: November 10, 1971, New Delhi~~
+---json
+{
+    "name":"Arrival Lecture — November 10, 1971, New Delhi",
+    "h1":"November 10, 1971, New Delhi",
+    "title":"Arrival Lecture — November 10, 1971, New Delhi",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

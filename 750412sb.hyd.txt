@@ -1,5 +1,12 @@
-~~Title: SB 5.5.2 — April 12, 1975, Hyderabad~~
-~~bc: April 12, 1975, Hyderabad~~
+---json
+{
+    "name":"SB 5.5.2 — April 12, 1975, Hyderabad",
+    "h1":"April 12, 1975, Hyderabad",
+    "title":"SB 5.5.2 — April 12, 1975, Hyderabad",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.2 ======
 
 ---- dataentry spoken ----

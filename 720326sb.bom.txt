@@ -1,5 +1,12 @@
-~~Title: SB 1.2.6 — March 26, 1972, Bombay~~
-~~bc: March 26, 1972, Bombay~~
+---json
+{
+    "name":"SB 1.2.6 — March 26, 1972, Bombay",
+    "h1":"March 26, 1972, Bombay",
+    "title":"SB 1.2.6 — March 26, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
 ---- dataentry spoken ----

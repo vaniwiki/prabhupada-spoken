@@ -1,5 +1,12 @@
-~~Title: Morning Talk — April 18, 1977, Bombay~~
-~~bc: April 18, 1977, Bombay~~
+---json
+{
+    "name":"Morning Talk — April 18, 1977, Bombay",
+    "h1":"April 18, 1977, Bombay",
+    "title":"Morning Talk — April 18, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Morning Talk ======
 
 ---- dataentry spoken ----

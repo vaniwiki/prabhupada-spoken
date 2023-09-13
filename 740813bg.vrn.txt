@@ -1,5 +1,12 @@
-~~Title: Bg 7.7 — August 13, 1974, Vṛndāvana~~
-~~bc: August 13, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Bg 7.7 — August 13, 1974, Vṛndāvana",
+    "h1":"August 13, 1974, Vṛndāvana",
+    "title":"Bg 7.7 — August 13, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.7 ======
 
 ---- dataentry spoken ----

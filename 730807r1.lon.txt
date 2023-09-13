@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Reporter — August 7, 1973, London~~
-~~bc: August 7, 1973, London~~
+---json
+{
+    "name":"Room Conversation with Reporter — August 7, 1973, London",
+    "h1":"August 7, 1973, London",
+    "title":"Room Conversation with Reporter — August 7, 1973, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with Reporter ======
 
 ---- dataentry spoken ----

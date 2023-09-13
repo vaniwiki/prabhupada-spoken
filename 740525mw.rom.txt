@@ -1,5 +1,12 @@
-~~Title: Morning Walk at Villa Borghese — May 25, 1974, Rome~~
-~~bc: May 25, 1974, Rome~~
+---json
+{
+    "name":"Morning Walk at Villa Borghese — May 25, 1974, Rome",
+    "h1":"May 25, 1974, Rome",
+    "title":"Morning Walk at Villa Borghese — May 25, 1974, Rome",
+    "description":""
+}
+---
+
 ====== Morning Walk at Villa Borghese ======
 
 ---- dataentry spoken ----

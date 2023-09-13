@@ -1,5 +1,12 @@
-~~Title: Morning Walk [partially recorded] — December 4, 1976, Hyderabad~~
-~~bc: December 4, 1976, Hyderabad~~
+---json
+{
+    "name":"Morning Walk [partially recorded] — December 4, 1976, Hyderabad",
+    "h1":"December 4, 1976, Hyderabad",
+    "title":"Morning Walk [partially recorded] — December 4, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Morning Walk [partially recorded] ======
 
 ---- dataentry spoken ----

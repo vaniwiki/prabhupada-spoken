@@ -1,5 +1,12 @@
-~~Title: Arrival Address — May 19, 1973, Dallas~~
-~~bc: May 19, 1973, Dallas~~
+---json
+{
+    "name":"Arrival Address — May 19, 1973, Dallas",
+    "h1":"May 19, 1973, Dallas",
+    "title":"Arrival Address — May 19, 1973, Dallas",
+    "description":""
+}
+---
+
 ====== Arrival Address ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation with Yadubara (after seeing film) — April 17, 1977, Bombay~~
-~~bc: April 17, 1977, Bombay~~
+---json
+{
+    "name":"Conversation with Yadubara (after seeing film) — April 17, 1977, Bombay",
+    "h1":"April 17, 1977, Bombay",
+    "title":"Conversation with Yadubara (after seeing film) — April 17, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation with Yadubara (after seeing film) ======
 
 ---- dataentry spoken ----

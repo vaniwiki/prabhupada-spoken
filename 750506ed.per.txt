@@ -1,5 +1,12 @@
-~~Title: Evening Discussion — May 6, 1975, Perth~~
-~~bc: May 6, 1975, Perth~~
+---json
+{
+    "name":"Evening Discussion — May 6, 1975, Perth",
+    "h1":"May 6, 1975, Perth",
+    "title":"Evening Discussion — May 6, 1975, Perth",
+    "description":""
+}
+---
+
 ====== Evening Discussion ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Car Conversation — March 1, 1973, Jakarta~~
-~~bc: March 1, 1973, Jakarta~~
+---json
+{
+    "name":"Car Conversation — March 1, 1973, Jakarta",
+    "h1":"March 1, 1973, Jakarta",
+    "title":"Car Conversation — March 1, 1973, Jakarta",
+    "description":""
+}
+---
+
 ====== Car Conversation ======
 
 ---- dataentry spoken ----

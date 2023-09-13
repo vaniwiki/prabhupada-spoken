@@ -1,5 +1,12 @@
-~~Title: Lecture [partially recorded] — September 14, 1968, San Francisco~~
-~~bc: September 14, 1968, San Francisco~~
+---json
+{
+    "name":"Lecture [partially recorded] — September 14, 1968, San Francisco",
+    "h1":"September 14, 1968, San Francisco",
+    "title":"Lecture [partially recorded] — September 14, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

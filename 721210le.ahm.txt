@@ -1,5 +1,12 @@
-~~Title: Lecture [Hindi] — December 10, 1972, Ahmedabad~~
-~~bc: December 10, 1972, Ahmedabad~~
+---json
+{
+    "name":"Lecture [Hindi] — December 10, 1972, Ahmedabad",
+    "h1":"December 10, 1972, Ahmedabad",
+    "title":"Lecture [Hindi] — December 10, 1972, Ahmedabad",
+    "description":""
+}
+---
+
 ====== Lecture [Hindi] ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Gurukula Inspection — June 26, 1977, Vṛndāvana~~
-~~bc: June 26, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Gurukula Inspection — June 26, 1977, Vṛndāvana",
+    "h1":"June 26, 1977, Vṛndāvana",
+    "title":"Gurukula Inspection — June 26, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Gurukula Inspection ======
 
 ---- dataentry spoken ----

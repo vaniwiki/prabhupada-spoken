@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 [Hindi] — October 29, 1973, Vṛndāvana~~
-~~bc: October 29, 1973, Vṛndāvana~~
+---json
+{
+    "name":"Bg 7.1 [Hindi] — October 29, 1973, Vṛndāvana",
+    "h1":"October 29, 1973, Vṛndāvana",
+    "title":"Bg 7.1 [Hindi] — October 29, 1973, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 [Hindi] ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg As It Is Introduction — November 23, 1968 , Los Angeles~~
-~~bc: November 23, 1968 , Los Angeles~~
+---json
+{
+    "name":"Bg As It Is Introduction — November 23, 1968 , Los Angeles",
+    "h1":"November 23, 1968 , Los Angeles",
+    "title":"Bg As It Is Introduction — November 23, 1968 , Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā As It Is Introduction ======
 
 ---- dataentry spoken ----

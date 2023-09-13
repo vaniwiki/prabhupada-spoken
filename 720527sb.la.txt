@@ -1,5 +1,12 @@
-~~Title: Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22-32 — May 27, 1972, Los Angeles~~
-~~bc: May 27, 1972, Los Angeles~~
+---json
+{
+    "name":"Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22-32 — May 27, 1972, Los Angeles",
+    "h1":"May 27, 1972, Los Angeles",
+    "title":"Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22-32 — May 27, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22–32 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation with Śrīdhara Mahārāja — June 27, 1973, Navadvīpa~~
-~~bc: June 27, 1973, Navadvīpa~~
+---json
+{
+    "name":"Conversation with Śrīdhara Mahārāja — June 27, 1973, Navadvīpa",
+    "h1":"June 27, 1973, Navadvīpa",
+    "title":"Conversation with Śrīdhara Mahārāja — June 27, 1973, Navadvīpa",
+    "description":""
+}
+---
+
 ====== Conversation with Śrīdhara Mahārāja ======
 
 ---- dataentry spoken ----

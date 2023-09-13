@@ -1,5 +1,12 @@
-~~Title: Lecture at a School — June 11, 1968, Montreal~~
-~~bc: June 11, 1968, Montreal~~
+---json
+{
+    "name":"Lecture at a School — June 11, 1968, Montreal",
+    "h1":"June 11, 1968, Montreal",
+    "title":"Lecture at a School — June 11, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Lecture at a School ======
 
 ---- dataentry spoken ----

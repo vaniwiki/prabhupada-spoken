@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — March 20, 1975, Calcutta~~
-~~bc: March 20, 1975, Calcutta~~
+---json
+{
+    "name":"Arrival Lecture — March 20, 1975, Calcutta",
+    "h1":"March 20, 1975, Calcutta",
+    "title":"Arrival Lecture — March 20, 1975, Calcutta",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

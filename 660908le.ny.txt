@@ -1,5 +1,12 @@
-~~Title: Lecture on Mahā-mantra — September 8, 1966, New York~~
-~~bc: September 8, 1966, New York~~
+---json
+{
+    "name":"Lecture on Mahā-mantra — September 8, 1966, New York",
+    "h1":"September 8, 1966, New York",
+    "title":"Lecture on Mahā-mantra — September 8, 1966, New York",
+    "description":""
+}
+---
+
 ====== Lecture on Mahā-mantra ======
 
 ---- dataentry spoken ----

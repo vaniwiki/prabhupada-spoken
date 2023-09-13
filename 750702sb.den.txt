@@ -1,5 +1,12 @@
-~~Title: SB 6.1.19 — July 2, 1975, Denver~~
-~~bc: July 2, 1975, Denver~~
+---json
+{
+    "name":"SB 6.1.19 — July 2, 1975, Denver",
+    "h1":"July 2, 1975, Denver",
+    "title":"SB 6.1.19 — July 2, 1975, Denver",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.19 ======
 
 ---- dataentry spoken ----

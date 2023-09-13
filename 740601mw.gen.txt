@@ -1,5 +1,12 @@
-~~Title: Morning Walk, Partial Recording — June 1, 1974, Geneva~~
-~~bc: June 1, 1974, Geneva~~
+---json
+{
+    "name":"Morning Walk, Partial Recording — June 1, 1974, Geneva",
+    "h1":"June 1, 1974, Geneva",
+    "title":"Morning Walk, Partial Recording — June 1, 1974, Geneva",
+    "description":""
+}
+---
+
 ====== Morning Walk, Partial Recording ======
 
 ---- dataentry spoken ----

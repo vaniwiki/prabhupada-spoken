@@ -1,5 +1,12 @@
-~~Title: Bg 16.6 — February 2, 1975, Honolulu~~
-~~bc: February 2, 1975, Honolulu~~
+---json
+{
+    "name":"Bg 16.6 — February 2, 1975, Honolulu",
+    "h1":"February 2, 1975, Honolulu",
+    "title":"Bg 16.6 — February 2, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 16.6 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Interview — February 1, 1968, Los Angeles~~
-~~bc: February 1, 1968, Los Angeles~~
+---json
+{
+    "name":"Interview — February 1, 1968, Los Angeles",
+    "h1":"February 1, 1968, Los Angeles",
+    "title":"Interview — February 1, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Interview ======
 
 ---- dataentry spoken ----

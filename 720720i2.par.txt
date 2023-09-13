@@ -1,5 +1,12 @@
-~~Title: Interview — July 20, 1972, Paris~~
-~~bc: July 20, 1972, Paris~~
+---json
+{
+    "name":"Interview — July 20, 1972, Paris",
+    "h1":"July 20, 1972, Paris",
+    "title":"Interview — July 20, 1972, Paris",
+    "description":""
+}
+---
+
 ====== Interview ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 2.12 Hindi — February 26, 1973, Jakarta~~
-~~bc: February 26, 1973, Jakarta~~
+---json
+{
+    "name":"Bg 2.12 Hindi — February 26, 1973, Jakarta",
+    "h1":"February 26, 1973, Jakarta",
+    "title":"Bg 2.12 Hindi — February 26, 1973, Jakarta",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.12 Hindi ======
 
 ---- dataentry spoken ----

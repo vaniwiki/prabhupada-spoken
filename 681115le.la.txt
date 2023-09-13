@@ -1,5 +1,12 @@
-~~Title: Class in Los Angeles — November 15, 1968, Los Angeles~~
-~~bc: November 15, 1968, Los Angeles~~
+---json
+{
+    "name":"Class in Los Angeles — November 15, 1968, Los Angeles",
+    "h1":"November 15, 1968, Los Angeles",
+    "title":"Class in Los Angeles — November 15, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Class in Los Angeles ======
 
 ---- dataentry spoken ----

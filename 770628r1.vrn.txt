@@ -1,5 +1,12 @@
-~~Title: Talk About Varṇāśrama, S.B. 2.1.1-5 — June 28, 1977, Vṛndāvana~~
-~~bc: June 28, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Talk About Varṇāśrama, S.B. 2.1.1-5 — June 28, 1977, Vṛndāvana",
+    "h1":"June 28, 1977, Vṛndāvana",
+    "title":"Talk About Varṇāśrama, S.B. 2.1.1-5 — June 28, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Talk About Varṇāśrama, S.B. 2.1.1–5 ======
 
 ---- dataentry spoken ----

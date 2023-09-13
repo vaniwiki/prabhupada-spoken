@@ -1,5 +1,12 @@
-~~Title: Room Conversation on Farm Management — December 10, 1976, Hyderabad~~
-~~bc: December 10, 1976, Hyderabad~~
+---json
+{
+    "name":"Room Conversation on Farm Management — December 10, 1976, Hyderabad",
+    "h1":"December 10, 1976, Hyderabad",
+    "title":"Room Conversation on Farm Management — December 10, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Room Conversation on Farm Management ======
 
 ---- dataentry spoken ----

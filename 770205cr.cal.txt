@@ -1,5 +1,12 @@
-~~Title: Car Conversation — February 5, 1977, Calcutta~~
-~~bc: February 5, 1977, Calcutta~~
+---json
+{
+    "name":"Car Conversation — February 5, 1977, Calcutta",
+    "h1":"February 5, 1977, Calcutta",
+    "title":"Car Conversation — February 5, 1977, Calcutta",
+    "description":""
+}
+---
+
 ====== Car Conversation ======
 
 ---- dataentry spoken ----

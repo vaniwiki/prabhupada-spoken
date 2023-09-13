@@ -1,5 +1,12 @@
-~~Title: Bg 7.1-3 — June 13, 1974, Paris~~
-~~bc: June 13, 1974, Paris~~
+---json
+{
+    "name":"Bg 7.1-3 — June 13, 1974, Paris",
+    "h1":"June 13, 1974, Paris",
+    "title":"Bg 7.1-3 — June 13, 1974, Paris",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1–3 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Rajaji — February 12, 1972, Madras~~
-~~bc: February 12, 1972, Madras~~
+---json
+{
+    "name":"Room Conversation with Rajaji — February 12, 1972, Madras",
+    "h1":"February 12, 1972, Madras",
+    "title":"Room Conversation with Rajaji — February 12, 1972, Madras",
+    "description":""
+}
+---
+
 ====== Room Conversation with Rajaji ======
 
 ---- dataentry spoken ----

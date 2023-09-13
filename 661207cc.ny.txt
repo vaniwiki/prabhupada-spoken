@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.154-157 — December 7, 1966, New York~~
-~~bc: December 7, 1966, New York~~
+---json
+{
+    "name":"Cc. Madhya 20.154-157 — December 7, 1966, New York",
+    "h1":"December 7, 1966, New York",
+    "title":"Cc. Madhya 20.154-157 — December 7, 1966, New York",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.154–157 ======
 
 ---- dataentry spoken ----

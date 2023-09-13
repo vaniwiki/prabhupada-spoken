@@ -1,5 +1,12 @@
-~~Title: Bg 1.1 [Hindi] — August 25, 1976, Hyderabad~~
-~~bc: August 25, 1976, Hyderabad~~
+---json
+{
+    "name":"Bg 1.1 [Hindi] — August 25, 1976, Hyderabad",
+    "h1":"August 25, 1976, Hyderabad",
+    "title":"Bg 1.1 [Hindi] — August 25, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 1.1 [Hindi] ======
 
 ---- dataentry spoken ----

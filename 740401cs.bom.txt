@@ -1,5 +1,12 @@
-~~Title: Śrī Rāma-navamī, Cornerstone Laying — April 1, 1974, Bombay~~
-~~bc: April 1, 1974, Bombay~~
+---json
+{
+    "name":"Śrī Rāma-navamī, Cornerstone Laying — April 1, 1974, Bombay",
+    "h1":"April 1, 1974, Bombay",
+    "title":"Śrī Rāma-navamī, Cornerstone Laying — April 1, 1974, Bombay",
+    "description":""
+}
+---
+
 ====== Śrī Rāma-navamī, Cornerstone Laying ======
 
 ---- dataentry spoken ----

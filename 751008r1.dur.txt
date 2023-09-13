@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Bill Faill [reporter] — October 8, 1975, Durban~~
-~~bc: October 8, 1975, Durban~~
+---json
+{
+    "name":"Room Conversation with Bill Faill [reporter] — October 8, 1975, Durban",
+    "h1":"October 8, 1975, Durban",
+    "title":"Room Conversation with Bill Faill [reporter] — October 8, 1975, Durban",
+    "description":""
+}
+---
+
 ====== Room Conversation with Bill Faill [reporter] ======
 
 ---- dataentry spoken ----

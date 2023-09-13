@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Yogi Bhajan — June 7, 1975, Honolulu~~
-~~bc: June 7, 1975, Honolulu~~
+---json
+{
+    "name":"Room Conversation with Yogi Bhajan — June 7, 1975, Honolulu",
+    "h1":"June 7, 1975, Honolulu",
+    "title":"Room Conversation with Yogi Bhajan — June 7, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Room Conversation with Yogi Bhajan ======
 
 ---- dataentry spoken ----

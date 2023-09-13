@@ -1,5 +1,12 @@
-~~Title: Arrival — July 3, 1975, Chicago~~
-~~bc: July 3, 1975, Chicago~~
+---json
+{
+    "name":"Arrival — July 3, 1975, Chicago",
+    "h1":"July 3, 1975, Chicago",
+    "title":"Arrival — July 3, 1975, Chicago",
+    "description":""
+}
+---
+
 ====== Arrival ======
 
 ---- dataentry spoken ----

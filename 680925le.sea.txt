@@ -1,5 +1,12 @@
-~~Title: Lecture on Teachings of Lord Caitanya — September 25, 1968, Seattle~~
-~~bc: September 25, 1968, Seattle~~
+---json
+{
+    "name":"Lecture on Teachings of Lord Caitanya — September 25, 1968, Seattle",
+    "h1":"September 25, 1968, Seattle",
+    "title":"Lecture on Teachings of Lord Caitanya — September 25, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Lecture on Teachings of Lord Caitanya ======
 
 ---- dataentry spoken ----

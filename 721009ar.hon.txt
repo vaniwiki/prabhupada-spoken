@@ -1,5 +1,12 @@
-~~Title: Arrival Address — October 9, 1972, Honolulu~~
-~~bc: October 9, 1972, Honolulu~~
+---json
+{
+    "name":"Arrival Address — October 9, 1972, Honolulu",
+    "h1":"October 9, 1972, Honolulu",
+    "title":"Arrival Address — October 9, 1972, Honolulu",
+    "description":""
+}
+---
+
 ====== Arrival Address ======
 
 ---- dataentry spoken ----

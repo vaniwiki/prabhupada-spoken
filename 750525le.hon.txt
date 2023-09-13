@@ -1,5 +1,12 @@
-~~Title: Lecture after Prahlāda-caritra Play — May 25, 1975, Honolulu~~
-~~bc: May 25, 1975, Honolulu~~
+---json
+{
+    "name":"Lecture after Prahlāda-caritra Play — May 25, 1975, Honolulu",
+    "h1":"May 25, 1975, Honolulu",
+    "title":"Lecture after Prahlāda-caritra Play — May 25, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Lecture after Prahlāda-caritra Play ======
 
 ---- dataentry spoken ----

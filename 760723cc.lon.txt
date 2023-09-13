@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.113 — July 23, 1976, London~~
-~~bc: July 23, 1976, London~~
+---json
+{
+    "name":"Cc. Madhya 20.113 — July 23, 1976, London",
+    "h1":"July 23, 1976, London",
+    "title":"Cc. Madhya 20.113 — July 23, 1976, London",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.113 ======
 
 ---- dataentry spoken ----

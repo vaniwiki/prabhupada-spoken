@@ -1,5 +1,12 @@
-~~Title: Initiation of Mṛga-netrī Dāsī — June 22, 1970, Los Angeles~~
-~~bc: June 22, 1970, Los Angeles~~
+---json
+{
+    "name":"Initiation of Mṛga-netrī Dāsī — June 22, 1970, Los Angeles",
+    "h1":"June 22, 1970, Los Angeles",
+    "title":"Initiation of Mṛga-netrī Dāsī — June 22, 1970, Los Angeles",
+    "description":""
+}
+---
+
 ====== Initiation of Mṛga-netrī Dāsī ======
 
 ---- dataentry spoken ----

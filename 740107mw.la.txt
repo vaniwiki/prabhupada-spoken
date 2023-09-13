@@ -1,5 +1,12 @@
-~~Title: Morning Walk, partially recorded — January 7, 1974, Los Angeles~~
-~~bc: January 7, 1974, Los Angeles~~
+---json
+{
+    "name":"Morning Walk, partially recorded — January 7, 1974, Los Angeles",
+    "h1":"January 7, 1974, Los Angeles",
+    "title":"Morning Walk, partially recorded — January 7, 1974, Los Angeles",
+    "description":""
+}
+---
+
 ====== Morning Walk, partially recorded ======
 
 ---- dataentry spoken ----

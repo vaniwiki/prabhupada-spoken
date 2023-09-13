@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Krishna Tiwari — May 16, 1973, Los Angeles~~
-~~bc: May 16, 1973, Los Angeles~~
+---json
+{
+    "name":"Room Conversation with Krishna Tiwari — May 16, 1973, Los Angeles",
+    "h1":"May 16, 1973, Los Angeles",
+    "title":"Room Conversation with Krishna Tiwari — May 16, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Room Conversation with Krishna Tiwari ======
 
 ---- dataentry spoken ----

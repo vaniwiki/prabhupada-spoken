@@ -1,5 +1,12 @@
-~~Title: Lecture with Allen Ginsberg at Ohio State University — May 12, 1969, Columbus~~
-~~bc: May 12, 1969, Columbus~~
+---json
+{
+    "name":"Lecture with Allen Ginsberg at Ohio State University — May 12, 1969, Columbus",
+    "h1":"May 12, 1969, Columbus",
+    "title":"Lecture with Allen Ginsberg at Ohio State University — May 12, 1969, Columbus",
+    "description":""
+}
+---
+
 ====== Lecture with Allen Ginsberg at Ohio State University ======
 
 ---- dataentry spoken ----

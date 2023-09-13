@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Richard Webster — May 24, 1974, Rome~~
-~~bc: May 24, 1974, Rome~~
+---json
+{
+    "name":"Room Conversation with Richard Webster — May 24, 1974, Rome",
+    "h1":"May 24, 1974, Rome",
+    "title":"Room Conversation with Richard Webster — May 24, 1974, Rome",
+    "description":""
+}
+---
+
 ====== Room Conversation with Richard Webster ======
 
 ---- dataentry spoken ----

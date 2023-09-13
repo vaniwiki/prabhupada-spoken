@@ -1,5 +1,12 @@
-~~Title: Bg 4.12-13 — July 29, 1966, New York~~
-~~bc: July 29, 1966, New York~~
+---json
+{
+    "name":"Bg 4.12-13 — July 29, 1966, New York",
+    "h1":"July 29, 1966, New York",
+    "title":"Bg 4.12-13 — July 29, 1966, New York",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 4.12–13 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Evening Address to Paṇḍas and Scholars — January 26, 1977, Jagannātha Purī~~
-~~bc: January 26, 1977, Jagannātha Purī~~
+---json
+{
+    "name":"Evening Address to Paṇḍas and Scholars — January 26, 1977, Jagannātha Purī",
+    "h1":"January 26, 1977, Jagannātha Purī",
+    "title":"Evening Address to Paṇḍas and Scholars — January 26, 1977, Jagannātha Purī",
+    "description":""
+}
+---
+
 ====== Evening Address to Paṇḍas and Scholars ======
 
 ---- dataentry spoken ----

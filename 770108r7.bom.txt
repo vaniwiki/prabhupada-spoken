@@ -1,5 +1,12 @@
-~~Title: Arrival of BBT manager — January 8, 1977, Bombay~~
-~~bc: January 8, 1977, Bombay~~
+---json
+{
+    "name":"Arrival of BBT manager — January 8, 1977, Bombay",
+    "h1":"January 8, 1977, Bombay",
+    "title":"Arrival of BBT manager — January 8, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Arrival of BBT manager ======
 
 ---- dataentry spoken ----

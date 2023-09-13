@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.101 — July 6, 1976, Washington, D.C.~~
-~~bc: July 6, 1976, Washington, D.C.~~
+---json
+{
+    "name":"Cc. Madhya 20.101 — July 6, 1976, Washington, D.C.",
+    "h1":"July 6, 1976, Washington, D.C.",
+    "title":"Cc. Madhya 20.101 — July 6, 1976, Washington, D.C.",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.101 ======
 
 ---- dataentry spoken ----

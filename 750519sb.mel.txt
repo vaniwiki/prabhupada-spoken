@@ -1,5 +1,12 @@
-~~Title: SB Lecture — May 19, 1975, Melbourne~~
-~~bc: May 19, 1975, Melbourne~~
+---json
+{
+    "name":"SB Lecture — May 19, 1975, Melbourne",
+    "h1":"May 19, 1975, Melbourne",
+    "title":"SB Lecture — May 19, 1975, Melbourne",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bhaktivinoda Ṭhākura Appearance Day, Lecture — September 3, 1971, London~~
-~~bc: September 3, 1971, London~~
+---json
+{
+    "name":"Bhaktivinoda Ṭhākura Appearance Day, Lecture — September 3, 1971, London",
+    "h1":"September 3, 1971, London",
+    "title":"Bhaktivinoda Ṭhākura Appearance Day, Lecture — September 3, 1971, London",
+    "description":""
+}
+---
+
 ====== Bhaktivinoda Ṭhākura Appearance Day, Lecture ======
 
 ---- dataentry spoken ----

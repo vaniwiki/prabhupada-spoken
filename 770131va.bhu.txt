@@ -1,5 +1,12 @@
-~~Title: Varāha-dvadaśī — January 31, 1977, Bhubaneswar~~
-~~bc: January 31, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Varāha-dvadaśī — January 31, 1977, Bhubaneswar",
+    "h1":"January 31, 1977, Bhubaneswar",
+    "title":"Varāha-dvadaśī — January 31, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Varāha-dvadaśī, Lord Varāha’s Appearance Day ======
 
 ---- dataentry spoken ----

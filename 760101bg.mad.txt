@@ -1,5 +1,12 @@
-~~Title: Bg 3.27 — January 1, 1976, Madras~~
-~~bc: January 1, 1976, Madras~~
+---json
+{
+    "name":"Bg 3.27 — January 1, 1976, Madras",
+    "h1":"January 1, 1976, Madras",
+    "title":"Bg 3.27 — January 1, 1976, Madras",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.27 ======
 
 ---- dataentry spoken ----

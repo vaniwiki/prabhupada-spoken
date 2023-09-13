@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Reverend Gordon Powell — June 28, 1974, Melbourne~~
-~~bc: June 28, 1974, Melbourne~~
+---json
+{
+    "name":"Room Conversation with Reverend Gordon Powell — June 28, 1974, Melbourne",
+    "h1":"June 28, 1974, Melbourne",
+    "title":"Room Conversation with Reverend Gordon Powell — June 28, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Room Conversation with Reverend Gordon Powell ======
 
 ---- dataentry spoken ----

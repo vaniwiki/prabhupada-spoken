@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Lalita Bose — August 21, 1975, Bombay~~
-~~bc: August 21, 1975, Bombay~~
+---json
+{
+    "name":"Room Conversation with Lalita Bose — August 21, 1975, Bombay",
+    "h1":"August 21, 1975, Bombay",
+    "title":"Room Conversation with Lalita Bose — August 21, 1975, Bombay",
+    "description":""
+}
+---
+
 ====== Room Conversation with Lalita Bose ======
 
 ---- dataentry spoken ----

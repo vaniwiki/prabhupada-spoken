@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 — December 13, 1972, Ahmedabad~~
-~~bc: December 13, 1972, Ahmedabad~~
+---json
+{
+    "name":"Bg 7.1 — December 13, 1972, Ahmedabad",
+    "h1":"December 13, 1972, Ahmedabad",
+    "title":"Bg 7.1 — December 13, 1972, Ahmedabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 ======
 
 ---- dataentry spoken ----

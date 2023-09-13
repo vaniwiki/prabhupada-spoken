@@ -1,5 +1,12 @@
-~~Title: Conversation with Dai Nippon Representative — April 21, 1972, Tokyo~~
-~~bc: April 21, 1972, Tokyo~~
+---json
+{
+    "name":"Conversation with Dai Nippon Representative — April 21, 1972, Tokyo",
+    "h1":"April 21, 1972, Tokyo",
+    "title":"Conversation with Dai Nippon Representative — April 21, 1972, Tokyo",
+    "description":""
+}
+---
+
 ====== Conversation with Dai Nippon Representative ======
 
 ---- dataentry spoken ----

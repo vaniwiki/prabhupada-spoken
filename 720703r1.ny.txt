@@ -1,5 +1,12 @@
-~~Title: Room Conversation and Interview — July 3, 1972, New York~~
-~~bc: July 3, 1972, New York~~
+---json
+{
+    "name":"Room Conversation and Interview — July 3, 1972, New York",
+    "h1":"July 3, 1972, New York",
+    "title":"Room Conversation and Interview — July 3, 1972, New York",
+    "description":""
+}
+---
+
 ====== Room Conversation and Interview ======
 
 ---- dataentry spoken ----

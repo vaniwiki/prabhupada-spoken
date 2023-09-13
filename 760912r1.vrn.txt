@@ -1,5 +1,12 @@
-~~Title: Room Conversation about Bullock Cart SKP — September 12, 1976, Vṛndāvana~~
-~~bc: September 12, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation about Bullock Cart SKP — September 12, 1976, Vṛndāvana",
+    "h1":"September 12, 1976, Vṛndāvana",
+    "title":"Room Conversation about Bullock Cart SKP — September 12, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation about Bullock Cart SKP ======
 
 ---- dataentry spoken ----

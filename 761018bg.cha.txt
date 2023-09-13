@@ -1,5 +1,12 @@
-~~Title: Bg 13.8-12 [Hindi] — October 7, 1976, Chandigarh~~
-~~bc: October 7, 1976, Chandigarh~~
+---json
+{
+    "name":"Bg 13.8-12 [Hindi] — October 7, 1976, Chandigarh",
+    "h1":"October 7, 1976, Chandigarh",
+    "title":"Bg 13.8-12 [Hindi] — October 7, 1976, Chandigarh",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.8–12 [Hindi] ======
 
 ---- dataentry spoken ----

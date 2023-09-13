@@ -1,5 +1,12 @@
-~~Title: Morning Walk [partially recorded] — February 22, 1976, Māyāpur~~
-~~bc: February 22, 1976, Māyāpur~~
+---json
+{
+    "name":"Morning Walk [partially recorded] — February 22, 1976, Māyāpur",
+    "h1":"February 22, 1976, Māyāpur",
+    "title":"Morning Walk [partially recorded] — February 22, 1976, Māyāpur",
+    "description":""
+}
+---
+
 ====== Morning Walk [partially recorded] ======
 
 ---- dataentry spoken ----

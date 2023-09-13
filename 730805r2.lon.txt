@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Professor Lewcock and other guest — August 5, 1973, London~~
-~~bc: August 5, 1973, London~~
+---json
+{
+    "name":"Room Conversation with Professor Lewcock and other guest — August 5, 1973, London",
+    "h1":"August 5, 1973, London",
+    "title":"Room Conversation with Professor Lewcock and other guest — August 5, 1973, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with Professor Lewcock and other guest ======
 
 ---- dataentry spoken ----

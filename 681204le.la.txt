@@ -1,5 +1,12 @@
-~~Title: Lecture — December 4, 1968, Los Angeles~~
-~~bc: December 4, 1968, Los Angeles~~
+---json
+{
+    "name":"Lecture — December 4, 1968, Los Angeles",
+    "h1":"December 4, 1968, Los Angeles",
+    "title":"Lecture — December 4, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Arrival Address — September 11, 1969, London~~
-~~bc: September 11, 1969, London~~
+---json
+{
+    "name":"Arrival Address — September 11, 1969, London",
+    "h1":"September 11, 1969, London",
+    "title":"Arrival Address — September 11, 1969, London",
+    "description":""
+}
+---
+
 ====== Arrival Address ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Car Conversation — June 20, 1975, Honolulu~~
-~~bc: June 20, 1975, Honolulu~~
+---json
+{
+    "name":"Car Conversation — June 20, 1975, Honolulu",
+    "h1":"June 20, 1975, Honolulu",
+    "title":"Car Conversation — June 20, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Car Conversation ======
 
 ---- dataentry spoken ----

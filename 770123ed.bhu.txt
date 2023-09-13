@@ -1,5 +1,12 @@
-~~Title: Evening Darśana — January 23, 1977, Bhubaneswar~~
-~~bc: January 23, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Evening Darśana — January 23, 1977, Bhubaneswar",
+    "h1":"January 23, 1977, Bhubaneswar",
+    "title":"Evening Darśana — January 23, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Evening Darśana ======
 
 ---- dataentry spoken ----

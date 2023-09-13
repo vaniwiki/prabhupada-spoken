@@ -1,5 +1,12 @@
-~~Title: Initiations and Lecture — March 17, 1972, Bombay~~
-~~bc: March 17, 1972, Bombay~~
+---json
+{
+    "name":"Initiations and Lecture — March 17, 1972, Bombay",
+    "h1":"March 17, 1972, Bombay",
+    "title":"Initiations and Lecture — March 17, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== Initiations and Lecture ======
 
 ---- dataentry spoken ----

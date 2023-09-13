@@ -1,5 +1,12 @@
-~~Title: SB 6.1.11 — July 25, 1971, New York~~
-~~bc: July 25, 1971, New York~~
+---json
+{
+    "name":"SB 6.1.11 — July 25, 1971, New York",
+    "h1":"July 25, 1971, New York",
+    "title":"SB 6.1.11 — July 25, 1971, New York",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.11 ======
 
 ---- dataentry spoken ----

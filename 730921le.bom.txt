@@ -1,5 +1,12 @@
-~~Title: Lecture — September 21, 1973, Bombay~~
-~~bc: September 21, 1973, Bombay~~
+---json
+{
+    "name":"Lecture — September 21, 1973, Bombay",
+    "h1":"September 21, 1973, Bombay",
+    "title":"Lecture — September 21, 1973, Bombay",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

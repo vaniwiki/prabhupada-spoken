@@ -1,5 +1,12 @@
-~~Title: Bg 7.10 — March 27, 1972, Bombay~~
-~~bc: March 27, 1972, Bombay~~
+---json
+{
+    "name":"Bg 7.10 — March 27, 1972, Bombay",
+    "h1":"March 27, 1972, Bombay",
+    "title":"Bg 7.10 — March 27, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.10 ======
 
 ---- dataentry spoken ----

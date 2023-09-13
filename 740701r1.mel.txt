@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Bhūrijana and Other Devotees — July 1, 1974, Melbourne~~
-~~bc: July 1, 1974, Melbourne~~
+---json
+{
+    "name":"Room Conversation with Bhūrijana and Other Devotees — July 1, 1974, Melbourne",
+    "h1":"July 1, 1974, Melbourne",
+    "title":"Room Conversation with Bhūrijana and Other Devotees — July 1, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Room Conversation with Bhūrijana and Other Devotees ======
 
 ---- dataentry spoken ----

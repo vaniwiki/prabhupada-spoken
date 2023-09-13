@@ -1,5 +1,12 @@
-~~Title: SB 2.3.11-12 — May 29, 1972, Los Angeles~~
-~~bc: May 29, 1972, Los Angeles~~
+---json
+{
+    "name":"SB 2.3.11-12 — May 29, 1972, Los Angeles",
+    "h1":"May 29, 1972, Los Angeles",
+    "title":"SB 2.3.11-12 — May 29, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.3.11–12 ======
 
 ---- dataentry spoken ----

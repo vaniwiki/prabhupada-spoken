@@ -1,5 +1,12 @@
-~~Title: Lecture — February 14, 1973, Sydney~~
-~~bc: February 14, 1973, Sydney~~
+---json
+{
+    "name":"Lecture — February 14, 1973, Sydney",
+    "h1":"February 14, 1973, Sydney",
+    "title":"Lecture — February 14, 1973, Sydney",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

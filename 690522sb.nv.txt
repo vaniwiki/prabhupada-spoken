@@ -1,5 +1,12 @@
-~~Title: SB 1.5.1-4 — May 22, 1969, New Vrindaban~~
-~~bc: May 22, 1969, New Vrindaban~~
+---json
+{
+    "name":"SB 1.5.1-4 — May 22, 1969, New Vrindaban",
+    "h1":"May 22, 1969, New Vrindaban",
+    "title":"SB 1.5.1-4 — May 22, 1969, New Vrindaban",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.5.1–4 ======
 
 ---- dataentry spoken ----

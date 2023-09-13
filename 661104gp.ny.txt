@@ -1,5 +1,12 @@
-~~Title: Govardhana Pūjā Lecture — November 4, 1966, New York~~
-~~bc: November 4, 1966, New York~~
+---json
+{
+    "name":"Govardhana Pūjā Lecture — November 4, 1966, New York",
+    "h1":"November 4, 1966, New York",
+    "title":"Govardhana Pūjā Lecture — November 4, 1966, New York",
+    "description":""
+}
+---
+
 ====== Govardhana Pūjā Lecture ======
 
 ---- dataentry spoken ----

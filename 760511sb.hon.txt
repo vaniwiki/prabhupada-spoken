@@ -1,5 +1,12 @@
-~~Title: SB 6.1.10 — May 11, 1976, Honolulu~~
-~~bc: May 11, 1976, Honolulu~~
+---json
+{
+    "name":"SB 6.1.10 — May 11, 1976, Honolulu",
+    "h1":"May 11, 1976, Honolulu",
+    "title":"SB 6.1.10 — May 11, 1976, Honolulu",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.10 ======
 
 ---- dataentry spoken ----

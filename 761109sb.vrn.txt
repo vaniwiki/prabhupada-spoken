@@ -1,5 +1,12 @@
-~~Title: SB 5.5.21-22 — November 9, 1976, Vṛndāvana~~
-~~bc: November 9, 1976, Vṛndāvana~~
+---json
+{
+    "name":"SB 5.5.21-22 — November 9, 1976, Vṛndāvana",
+    "h1":"November 9, 1976, Vṛndāvana",
+    "title":"SB 5.5.21-22 — November 9, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.21–22 ======
 
 ---- dataentry spoken ----

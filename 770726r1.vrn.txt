@@ -1,5 +1,12 @@
-~~Title: Room Conversation Gaurasundara, Dr. Kapoor — July 26, 1977, Vṛndāvana~~
-~~bc: July 26, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation Gaurasundara, Dr. Kapoor — July 26, 1977, Vṛndāvana",
+    "h1":"July 26, 1977, Vṛndāvana",
+    "title":"Room Conversation Gaurasundara, Dr. Kapoor — July 26, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation Gaurasundara, Dr. Kapoor ======
 
 ---- dataentry spoken ----

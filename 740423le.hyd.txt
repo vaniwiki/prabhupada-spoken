@@ -1,5 +1,12 @@
-~~Title: Lecture [Hindi] — April 23, 1974, Hyderabad~~
-~~bc: April 23, 1974, Hyderabad~~
+---json
+{
+    "name":"Lecture [Hindi] — April 23, 1974, Hyderabad",
+    "h1":"April 23, 1974, Hyderabad",
+    "title":"Lecture [Hindi] — April 23, 1974, Hyderabad",
+    "description":""
+}
+---
+
 ====== Lecture [Hindi] ======
 
 ---- dataentry spoken ----

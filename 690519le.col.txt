@@ -1,5 +1,12 @@
-~~Title: Lecture at Engagement — May 19, 1969, Columbus~~
-~~bc: May 19, 1969, Columbus~~
+---json
+{
+    "name":"Lecture at Engagement — May 19, 1969, Columbus",
+    "h1":"May 19, 1969, Columbus",
+    "title":"Lecture at Engagement — May 19, 1969, Columbus",
+    "description":""
+}
+---
+
 ====== Lecture at Engagement ======
 
 ---- dataentry spoken ----

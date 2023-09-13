@@ -1,5 +1,12 @@
-~~Title: Room Conversation — February 15, 1972, Madras~~
-~~bc: February 15, 1972, Madras~~
+---json
+{
+    "name":"Room Conversation — February 15, 1972, Madras",
+    "h1":"February 15, 1972, Madras",
+    "title":"Room Conversation — February 15, 1972, Madras",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

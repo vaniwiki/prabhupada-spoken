@@ -1,5 +1,12 @@
-~~Title: Interview with Mike Darby, Wheeling Intelligencer — June 30, 1976, Wheeling, W. Virginia~~
-~~bc: June 30, 1976, Wheeling, W. Virginia~~
+---json
+{
+    "name":"Interview with Mike Darby, Wheeling Intelligencer — June 30, 1976, Wheeling, W. Virginia",
+    "h1":"June 30, 1976, Wheeling, W. Virginia",
+    "title":"Interview with Mike Darby, Wheeling Intelligencer — June 30, 1976, Wheeling, W. Virginia",
+    "description":""
+}
+---
+
 ====== Interview with Mike Darby, Wheeling Intelligencer ======
 
 ---- dataentry spoken ----

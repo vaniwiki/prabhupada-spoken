@@ -1,5 +1,12 @@
-~~Title: Bg 2.11 — August 1, 1972, Glasgow~~
-~~bc: August 1, 1972, Glasgow~~
+---json
+{
+    "name":"Bg 2.11 — August 1, 1972, Glasgow",
+    "h1":"August 1, 1972, Glasgow",
+    "title":"Bg 2.11 — August 1, 1972, Glasgow",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.11 ======
 
 ---- dataentry spoken ----

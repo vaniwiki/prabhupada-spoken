@@ -1,5 +1,12 @@
-~~Title: Śrīmad-Bhagavatam Dictation SB 10.13.62 — October 27, 1977, Vṛndāvana~~
-~~bc: October 27, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Śrīmad-Bhagavatam Dictation SB 10.13.62 — October 27, 1977, Vṛndāvana",
+    "h1":"October 27, 1977, Vṛndāvana",
+    "title":"Śrīmad-Bhagavatam Dictation SB 10.13.62 — October 27, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhagavatam Dictation SB 10.13.62 ======
 
 ---- dataentry spoken ----

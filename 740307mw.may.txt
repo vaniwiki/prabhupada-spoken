@@ -1,5 +1,12 @@
-~~Title: Morning Walk, [partially recorded] — March 7, 1974, Māyāpur~~
-~~bc: March 7, 1974, Māyāpur~~
+---json
+{
+    "name":"Morning Walk, [partially recorded] — March 7, 1974, Māyāpur",
+    "h1":"March 7, 1974, Māyāpur",
+    "title":"Morning Walk, [partially recorded] — March 7, 1974, Māyāpur",
+    "description":""
+}
+---
+
 ====== Morning Walk, [partially recorded] ======
 
 ---- dataentry spoken ----

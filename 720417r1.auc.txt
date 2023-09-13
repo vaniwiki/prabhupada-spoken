@@ -1,5 +1,12 @@
-~~Title: Room Conversation — April 17, 1972, Auckland~~
-~~bc: April 17, 1972, Auckland~~
+---json
+{
+    "name":"Room Conversation — April 17, 1972, Auckland",
+    "h1":"April 17, 1972, Auckland",
+    "title":"Room Conversation — April 17, 1972, Auckland",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

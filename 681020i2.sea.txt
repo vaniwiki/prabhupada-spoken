@@ -1,5 +1,12 @@
-~~Title: Initiation — October 20, 1968, Seattle~~
-~~bc: October 20, 1968, Seattle~~
+---json
+{
+    "name":"Initiation — October 20, 1968, Seattle",
+    "h1":"October 20, 1968, Seattle",
+    "title":"Initiation — October 20, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Initiation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation with Bajaj and Bhusan — September 13, 1972, Arlington~~
-~~bc: September 13, 1972, Arlington~~
+---json
+{
+    "name":"Conversation with Bajaj and Bhusan — September 13, 1972, Arlington",
+    "h1":"September 13, 1972, Arlington",
+    "title":"Conversation with Bajaj and Bhusan — September 13, 1972, Arlington",
+    "description":""
+}
+---
+
 ====== Conversation with Bajaj and Bhusan ======
 
 ---- dataentry spoken ----

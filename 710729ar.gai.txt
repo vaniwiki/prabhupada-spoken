@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — July 29, 1971, Gainesville~~
-~~bc: July 29, 1971, Gainesville~~
+---json
+{
+    "name":"Arrival Lecture — July 29, 1971, Gainesville",
+    "h1":"July 29, 1971, Gainesville",
+    "title":"Arrival Lecture — July 29, 1971, Gainesville",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

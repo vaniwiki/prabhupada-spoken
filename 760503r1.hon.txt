@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Siddha-svarūpa Follower — May 3, 1976, Honolulu~~
-~~bc: May 3, 1976, Honolulu~~
+---json
+{
+    "name":"Room Conversation with Siddha-svarūpa Follower — May 3, 1976, Honolulu",
+    "h1":"May 3, 1976, Honolulu",
+    "title":"Room Conversation with Siddha-svarūpa Follower — May 3, 1976, Honolulu",
+    "description":""
+}
+---
+
 ====== Room Conversation with Siddha-svarūpa Follower ======
 
 ---- dataentry spoken ----

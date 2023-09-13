@@ -1,5 +1,12 @@
-~~Title: Lecture at 7 Bury Place [partially recorded] — July 25, 1976, London~~
-~~bc: July 25, 1976, London~~
+---json
+{
+    "name":"Lecture at 7 Bury Place [partially recorded] — July 25, 1976, London",
+    "h1":"July 25, 1976, London",
+    "title":"Lecture at 7 Bury Place [partially recorded] — July 25, 1976, London",
+    "description":""
+}
+---
+
 ====== Lecture at 7 Bury Place [partially recorded] ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.2.9-10 — November 14, 1973, Delhi~~
-~~bc: November 14, 1973, Delhi~~
+---json
+{
+    "name":"SB 1.2.9-10 — November 14, 1973, Delhi",
+    "h1":"November 14, 1973, Delhi",
+    "title":"SB 1.2.9-10 — November 14, 1973, Delhi",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.9–10 ======
 
 ---- dataentry spoken ----

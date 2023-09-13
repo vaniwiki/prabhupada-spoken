@@ -1,5 +1,12 @@
-~~Title: Bg 2.33-35 — September 3, 1973, London~~
-~~bc: September 3, 1973, London~~
+---json
+{
+    "name":"Bg 2.33-35 — September 3, 1973, London",
+    "h1":"September 3, 1973, London",
+    "title":"Bg 2.33-35 — September 3, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.33–35 ======
 
 ---- dataentry spoken ----

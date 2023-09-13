@@ -1,5 +1,12 @@
-~~Title: Bg 5.17-24 — February 8, 1969, Los Angeles~~
-~~bc: February 8, 1969, Los Angeles~~
+---json
+{
+    "name":"Bg 5.17-24 — February 8, 1969, Los Angeles",
+    "h1":"February 8, 1969, Los Angeles",
+    "title":"Bg 5.17-24 — February 8, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 5.17–24 ======
 
 ---- dataentry spoken ----

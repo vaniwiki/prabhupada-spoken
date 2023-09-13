@@ -1,5 +1,12 @@
-~~Title: Cc. Ādi 1.13 — April 6, 1975, Māyāpur~~
-~~bc: April 6, 1975, Māyāpur~~
+---json
+{
+    "name":"Cc. Ādi 1.13 — April 6, 1975, Māyāpur",
+    "h1":"April 6, 1975, Māyāpur",
+    "title":"Cc. Ādi 1.13 — April 6, 1975, Māyāpur",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 1.13 ======
 
 ---- dataentry spoken ----

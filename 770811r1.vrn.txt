@@ -1,5 +1,12 @@
-~~Title: Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta — August 11, 1977, Vṛndāvana~~
-~~bc: August 11, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta — August 11, 1977, Vṛndāvana",
+    "h1":"August 11, 1977, Vṛndāvana",
+    "title":"Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta — August 11, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Morning Discussion about Kumbha Melā — January 8, 1977, Bombay~~
-~~bc: January 8, 1977, Bombay~~
+---json
+{
+    "name":"Morning Discussion about Kumbha Melā — January 8, 1977, Bombay",
+    "h1":"January 8, 1977, Bombay",
+    "title":"Morning Discussion about Kumbha Melā — January 8, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Morning Discussion about Kumbha Melā ======
 
 ---- dataentry spoken ----

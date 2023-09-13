@@ -1,5 +1,12 @@
-~~Title: Room Conversation — April 4, 1975, Māyāpur~~
-~~bc: April 4, 1975, Māyāpur~~
+---json
+{
+    "name":"Room Conversation — April 4, 1975, Māyāpur",
+    "h1":"April 4, 1975, Māyāpur",
+    "title":"Room Conversation — April 4, 1975, Māyāpur",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

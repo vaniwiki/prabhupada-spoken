@@ -1,5 +1,12 @@
-~~Title: Lecture — September 30, 1968, Seattle~~
-~~bc: September 30, 1968, Seattle~~
+---json
+{
+    "name":"Lecture — September 30, 1968, Seattle",
+    "h1":"September 30, 1968, Seattle",
+    "title":"Lecture — September 30, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

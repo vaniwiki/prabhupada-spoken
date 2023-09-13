@@ -1,5 +1,12 @@
-~~Title: SB 5.5.5 — September 3, 1971, London~~
-~~bc: September 3, 1971, London~~
+---json
+{
+    "name":"SB 5.5.5 — September 3, 1971, London",
+    "h1":"September 3, 1971, London",
+    "title":"SB 5.5.5 — September 3, 1971, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.5 ======
 
 ---- dataentry spoken ----

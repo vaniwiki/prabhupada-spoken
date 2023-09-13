@@ -1,5 +1,12 @@
-~~Title: Room Conversation — May 7, 1976, Honolulu~~
-~~bc: May 7, 1976, Honolulu~~
+---json
+{
+    "name":"Room Conversation — May 7, 1976, Honolulu",
+    "h1":"May 7, 1976, Honolulu",
+    "title":"Room Conversation — May 7, 1976, Honolulu",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

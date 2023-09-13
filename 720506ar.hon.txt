@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — May 6, 1972, Honolulu~~
-~~bc: May 6, 1972, Honolulu~~
+---json
+{
+    "name":"Arrival Lecture — May 6, 1972, Honolulu",
+    "h1":"May 6, 1972, Honolulu",
+    "title":"Arrival Lecture — May 6, 1972, Honolulu",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

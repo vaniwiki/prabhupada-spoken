@@ -1,5 +1,12 @@
-~~Title: Room Conversation — August 12, 1976, Tehran~~
-~~bc: August 12, 1976, Tehran~~
+---json
+{
+    "name":"Room Conversation — August 12, 1976, Tehran",
+    "h1":"August 12, 1976, Tehran",
+    "title":"Room Conversation — August 12, 1976, Tehran",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

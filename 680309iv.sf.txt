@@ -1,5 +1,12 @@
-~~Title: Interview — March 9, 1968, San Francisco~~
-~~bc: March 9, 1968, San Francisco~~
+---json
+{
+    "name":"Interview — March 9, 1968, San Francisco",
+    "h1":"March 9, 1968, San Francisco",
+    "title":"Interview — March 9, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Interview ======
 
 ---- dataentry spoken ----

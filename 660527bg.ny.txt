@@ -1,5 +1,12 @@
-~~Title: Bg 3.17-20 — May 27, 1966, New York~~
-~~bc: May 27, 1966, New York~~
+---json
+{
+    "name":"Bg 3.17-20 — May 27, 1966, New York",
+    "h1":"May 27, 1966, New York",
+    "title":"Bg 3.17-20 — May 27, 1966, New York",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.17–20 ======
 
 ---- dataentry spoken ----

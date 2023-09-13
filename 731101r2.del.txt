@@ -1,5 +1,12 @@
-~~Title: Room Conversation about Rādhā-Dāmodara Property — November 1, 1973, Delhi~~
-~~bc: November 1, 1973, Delhi~~
+---json
+{
+    "name":"Room Conversation about Rādhā-Dāmodara Property — November 1, 1973, Delhi",
+    "h1":"November 1, 1973, Delhi",
+    "title":"Room Conversation about Rādhā-Dāmodara Property — November 1, 1973, Delhi",
+    "description":""
+}
+---
+
 ====== Room Conversation about Rādhā-Dāmodara Property ======
 
 ---- dataentry spoken ----

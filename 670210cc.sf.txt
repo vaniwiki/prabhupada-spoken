@@ -1,5 +1,12 @@
-~~Title: Cc. Ādi 7.80-95 — February 10, 1966, San Francisco~~
-~~bc: February 10, 1966, San Francisco~~
+---json
+{
+    "name":"Cc. Ādi 7.80-95 — February 10, 1966, San Francisco",
+    "h1":"February 10, 1966, San Francisco",
+    "title":"Cc. Ādi 7.80-95 — February 10, 1966, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 7.80–95 ======
 
 ---- dataentry spoken ----

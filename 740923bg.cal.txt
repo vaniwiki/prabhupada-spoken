@@ -1,5 +1,11 @@
-~~Title: Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 4.10 — September 23, 1974, Calcutta~~
-~~bc: September 23, 1974, Calcutta~~
+---json
+{
+    "name":"Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 4.10 — September 23, 1974, Calcutta",
+    "h1":"September 23, 1974, Calcutta",
+    "title":"Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 4.10 — September 23, 1974, Calcutta",
+    "description":""
+}
+---
 
 ====== Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 4.10 ======
 

@@ -1,5 +1,12 @@
-~~Title: Lecture at Kumbha-melā — January 13, 1977, Allahabad~~
-~~bc: January 13, 1977, Allahabad~~
+---json
+{
+    "name":"Lecture at Kumbha-melā — January 13, 1977, Allahabad",
+    "h1":"January 13, 1977, Allahabad",
+    "title":"Lecture at Kumbha-melā — January 13, 1977, Allahabad",
+    "description":""
+}
+---
+
 ====== Lecture at Kumbha-melā ======
 
 ---- dataentry spoken ----

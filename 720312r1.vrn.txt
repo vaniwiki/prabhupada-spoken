@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Dr. Kapoor — March 12, 1972, Vṛndāvana~~
-~~bc: March 12, 1972, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation with Dr. Kapoor — March 12, 1972, Vṛndāvana",
+    "h1":"March 12, 1972, Vṛndāvana",
+    "title":"Room Conversation with Dr. Kapoor — March 12, 1972, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation with Dr. Kapoor ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 15.1 — February 26, 1974, Calcutta~~
-~~bc: February 26, 1974, Calcutta~~
+---json
+{
+    "name":"Bg 15.1 — February 26, 1974, Calcutta",
+    "h1":"February 26, 1974, Calcutta",
+    "title":"Bg 15.1 — February 26, 1974, Calcutta",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 15.1 ======
 
 ---- dataentry spoken ----

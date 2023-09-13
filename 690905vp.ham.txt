@@ -1,5 +1,12 @@
-~~Title: Śrī Vyāsa-pūjā — September 5, 1969, Hamburg~~
-~~bc: September 5, 1969, Hamburg~~
+---json
+{
+    "name":"Śrī Vyāsa-pūjā — September 5, 1969, Hamburg",
+    "h1":"September 5, 1969, Hamburg",
+    "title":"Śrī Vyāsa-pūjā — September 5, 1969, Hamburg",
+    "description":""
+}
+---
+
 ====== Śrī Vyāsa-pūjā ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Coversation with Psychiatrist and Indian Boy — May 12, 1975, Perth~~
-~~bc: May 12, 1975, Perth~~
+---json
+{
+    "name":"Room Coversation with Psychiatrist and Indian Boy — May 12, 1975, Perth",
+    "h1":"May 12, 1975, Perth",
+    "title":"Room Coversation with Psychiatrist and Indian Boy — May 12, 1975, Perth",
+    "description":""
+}
+---
+
 ====== Room Coversation with Psychiatrist and Indian Boy ======
 
 ---- dataentry spoken ----

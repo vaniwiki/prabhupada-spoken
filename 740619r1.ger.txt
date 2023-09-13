@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Professor Durckheim, Dr. P. J. Saher and Professor Porsch — June 19, 1974, Germany~~
-~~bc: June 19, 1974, Germany~~
+---json
+{
+    "name":"Room Conversation with Professor Durckheim, Dr. P. J. Saher and Professor Porsch — June 19, 1974, Germany",
+    "h1":"June 19, 1974, Germany",
+    "title":"Room Conversation with Professor Durckheim, Dr. P. J. Saher and Professor Porsch — June 19, 1974, Germany",
+    "description":""
+}
+---
+
 ====== Room Conversation with Professor Durckheim, Dr. P. J. Saher and Professor Porsch ======
 
 ---- dataentry spoken ----

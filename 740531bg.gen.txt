@@ -1,5 +1,12 @@
-~~Title: Bg 4.10, Festival at Maison de Faubourg — May 31, 1974, Geneva~~
-~~bc: May 31, 1974, Geneva~~
+---json
+{
+    "name":"Bg 4.10, Festival at Maison de Faubourg — May 31, 1974, Geneva",
+    "h1":"May 31, 1974, Geneva",
+    "title":"Bg 4.10, Festival at Maison de Faubourg — May 31, 1974, Geneva",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 4.10, Festival at Maison de Faubourg ======
 
 ---- dataentry spoken ----

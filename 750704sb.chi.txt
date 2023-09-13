@@ -1,5 +1,12 @@
-~~Title: SB 6.1.20 — July 4, 1975, Chicago~~
-~~bc: July 4, 1975, Chicago~~
+---json
+{
+    "name":"SB 6.1.20 — July 4, 1975, Chicago",
+    "h1":"July 4, 1975, Chicago",
+    "title":"SB 6.1.20 — July 4, 1975, Chicago",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.20 ======
 
 ---- dataentry spoken ----

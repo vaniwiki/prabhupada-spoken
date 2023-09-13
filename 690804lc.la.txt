@@ -1,5 +1,12 @@
-~~Title: Lord Caitanya Play Told to Tamāla Kṛṣṇa — August 4, 1969, Los Angeles~~
-~~bc: August 4, 1969, Los Angeles~~
+---json
+{
+    "name":"Lord Caitanya Play Told to Tamāla Kṛṣṇa — August 4, 1969, Los Angeles",
+    "h1":"August 4, 1969, Los Angeles",
+    "title":"Lord Caitanya Play Told to Tamāla Kṛṣṇa — August 4, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Lord Caitanya Play Told to Tamāla Kṛṣṇa ======
 
 ---- dataentry spoken ----

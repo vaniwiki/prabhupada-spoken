@@ -1,5 +1,12 @@
-~~Title: Garden Conversation with Dr. Allen Gerson — June 22, 1975, Los Angeles~~
-~~bc: June 22, 1975, Los Angeles~~
+---json
+{
+    "name":"Garden Conversation with Dr. Allen Gerson — June 22, 1975, Los Angeles",
+    "h1":"June 22, 1975, Los Angeles",
+    "title":"Garden Conversation with Dr. Allen Gerson — June 22, 1975, Los Angeles",
+    "description":""
+}
+---
+
 ====== Garden Conversation with Dr. Allen Gerson ======
 
 ---- dataentry spoken ----

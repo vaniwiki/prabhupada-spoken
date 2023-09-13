@@ -1,5 +1,12 @@
-~~Title: Conway Hall Lecture — September 15, 1969, London~~
-~~bc: September 15, 1969, London~~
+---json
+{
+    "name":"Conway Hall Lecture — September 15, 1969, London",
+    "h1":"September 15, 1969, London",
+    "title":"Conway Hall Lecture — September 15, 1969, London",
+    "description":""
+}
+---
+
 ====== Conway Hall Lecture ======
 
 ---- dataentry spoken ----

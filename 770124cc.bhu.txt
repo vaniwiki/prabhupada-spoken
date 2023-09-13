@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 8.128 — January 24, 1977, Bhubaneswar~~
-~~bc: January 24, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Cc. Madhya 8.128 — January 24, 1977, Bhubaneswar",
+    "h1":"January 24, 1977, Bhubaneswar",
+    "title":"Cc. Madhya 8.128 — January 24, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 8.128 ======
 
 ---- dataentry spoken ----

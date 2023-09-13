@@ -1,5 +1,12 @@
-~~Title: SB 1.4.25 — June 20, 1968, Montreal~~
-~~bc: June 20, 1968, Montreal~~
+---json
+{
+    "name":"SB 1.4.25 — June 20, 1968, Montreal",
+    "h1":"June 20, 1968, Montreal",
+    "title":"SB 1.4.25 — June 20, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.4.25 ======
 
 ---- dataentry spoken ----

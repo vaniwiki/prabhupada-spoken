@@ -1,5 +1,12 @@
-~~Title: Śrī Īśopaniṣad, Mantra 1 — May 3, 1970, Los Angeles~~
-~~bc: May 3, 1970, Los Angeles~~
+---json
+{
+    "name":"Śrī Īśopaniṣad, Mantra 1 — May 3, 1970, Los Angeles",
+    "h1":"May 3, 1970, Los Angeles",
+    "title":"Śrī Īśopaniṣad, Mantra 1 — May 3, 1970, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrī Īśopaniṣad, Mantra 1 ======
 
 ---- dataentry spoken ----

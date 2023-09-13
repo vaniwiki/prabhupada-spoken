@@ -1,5 +1,12 @@
-~~Title: Morning Walk at Cheviot Hills Park — April 19, 1973, Los Angeles~~
-~~bc: April 19, 1973, Los Angeles~~
+---json
+{
+    "name":"Morning Walk at Cheviot Hills Park — April 19, 1973, Los Angeles",
+    "h1":"April 19, 1973, Los Angeles",
+    "title":"Morning Walk at Cheviot Hills Park — April 19, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Morning Walk at Cheviot Hills Park ======
 
 ---- dataentry spoken ----

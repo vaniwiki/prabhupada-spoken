@@ -1,5 +1,12 @@
-~~Title: Bg 7.1, Public Lecture — April 15, 1972, Auckland~~
-~~bc: April 15, 1972, Auckland~~
+---json
+{
+    "name":"Bg 7.1, Public Lecture — April 15, 1972, Auckland",
+    "h1":"April 15, 1972, Auckland",
+    "title":"Bg 7.1, Public Lecture — April 15, 1972, Auckland",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1, Public Lecture ======
 
 ---- dataentry spoken ----

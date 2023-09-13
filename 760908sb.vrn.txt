@@ -1,5 +1,12 @@
-~~Title: SB 1.7.9 [partially recorded] — September 8, 1976, Vṛndāvana~~
-~~bc: September 8, 1976, Vṛndāvana~~
+---json
+{
+    "name":"SB 1.7.9 [partially recorded] — September 8, 1976, Vṛndāvana",
+    "h1":"September 8, 1976, Vṛndāvana",
+    "title":"SB 1.7.9 [partially recorded] — September 8, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.7.9 [partially recorded] ======
 
 ---- dataentry spoken ----

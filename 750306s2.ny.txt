@@ -1,5 +1,12 @@
-~~Title: SB 1.15.27 — March 6, 1975, New York~~
-~~bc: March 6, 1975, New York~~
+---json
+{
+    "name":"SB 1.15.27 — March 6, 1975, New York",
+    "h1":"March 6, 1975, New York",
+    "title":"SB 1.15.27 — March 6, 1975, New York",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.15.27 ======
 
 ---- dataentry spoken ----

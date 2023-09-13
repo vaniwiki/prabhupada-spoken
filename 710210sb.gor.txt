@@ -1,5 +1,12 @@
-~~Title: SB 6.3.16-17 — February 10, 1971, Gorakhpur~~
-~~bc: February 10, 1971, Gorakhpur~~
+---json
+{
+    "name":"SB 6.3.16-17 — February 10, 1971, Gorakhpur",
+    "h1":"February 10, 1971, Gorakhpur",
+    "title":"SB 6.3.16-17 — February 10, 1971, Gorakhpur",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.3.16–17 ======
 
 ---- dataentry spoken ----

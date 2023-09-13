@@ -1,5 +1,12 @@
-~~Title: Lecture [partially recorded] — August 23, 1968, Montreal~~
-~~bc: August 23, 1968, Montreal~~
+---json
+{
+    "name":"Lecture [partially recorded] — August 23, 1968, Montreal",
+    "h1":"August 23, 1968, Montreal",
+    "title":"Lecture [partially recorded] — August 23, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

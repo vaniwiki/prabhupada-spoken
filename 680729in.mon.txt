@@ -1,5 +1,12 @@
-~~Title: Initiation of Bali-mardana Dāsā — July 29, 1968, Montreal~~
-~~bc: July 29, 1968, Montreal~~
+---json
+{
+    "name":"Initiation of Bali-mardana Dāsā — July 29, 1968, Montreal",
+    "h1":"July 29, 1968, Montreal",
+    "title":"Initiation of Bali-mardana Dāsā — July 29, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Initiation of Bali-mardana Dāsā ======
 
 ---- dataentry spoken ----

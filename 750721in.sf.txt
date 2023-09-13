@@ -1,5 +1,12 @@
-~~Title: Gurudāsa Sannyāsa and Harināma Initiations — July 21, 1975, San Francisco~~
-~~bc: July 21, 1975, San Francisco~~
+---json
+{
+    "name":"Gurudāsa Sannyāsa and Harināma Initiations — July 21, 1975, San Francisco",
+    "h1":"July 21, 1975, San Francisco",
+    "title":"Gurudāsa Sannyāsa and Harināma Initiations — July 21, 1975, San Francisco",
+    "description":""
+}
+---
+
 ====== Gurudāsa Sannyāsa and Harināma Initiations ======
 
 ---- dataentry spoken ----

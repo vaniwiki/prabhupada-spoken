@@ -1,5 +1,12 @@
-~~Title: Discussion with Guests — December 23, 1969, Boston~~
-~~bc: December 23, 1969, Boston~~
+---json
+{
+    "name":"Discussion with Guests — December 23, 1969, Boston",
+    "h1":"December 23, 1969, Boston",
+    "title":"Discussion with Guests — December 23, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Discussion with Guests ======
 
 ---- dataentry spoken ----

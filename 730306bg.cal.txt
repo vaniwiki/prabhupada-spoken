@@ -1,5 +1,12 @@
-~~Title: Bg 10.1-3 — March 6, 1973, Calcutta~~
-~~bc: March 6, 1973, Calcutta~~
+---json
+{
+    "name":"Bg 10.1-3 — March 6, 1973, Calcutta",
+    "h1":"March 6, 1973, Calcutta",
+    "title":"Bg 10.1-3 — March 6, 1973, Calcutta",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 10.1–3 ======
 
 ---- dataentry spoken ----

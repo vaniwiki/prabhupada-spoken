@@ -1,5 +1,12 @@
-~~Title: Lecture — May 1, 1972, Tokyo~~
-~~bc: May 1, 1972, Tokyo~~
+---json
+{
+    "name":"Lecture — May 1, 1972, Tokyo",
+    "h1":"May 1, 1972, Tokyo",
+    "title":"Lecture — May 1, 1972, Tokyo",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

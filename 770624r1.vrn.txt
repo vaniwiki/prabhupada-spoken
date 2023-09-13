@@ -1,5 +1,12 @@
-~~Title: Conversation: “How to Secure Brahmacārīs” — June 24, 1977, Vṛndāvana~~
-~~bc: June 24, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Conversation: “How to Secure Brahmacārīs” — June 24, 1977, Vṛndāvana",
+    "h1":"June 24, 1977, Vṛndāvana",
+    "title":"Conversation: “How to Secure Brahmacārīs” — June 24, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Conversation: “How to Secure Brahmacārīs” ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation — March 25, 1968, San Francisco~~
-~~bc: March 25, 1968, San Francisco~~
+---json
+{
+    "name":"Room Conversation — March 25, 1968, San Francisco",
+    "h1":"March 25, 1968, San Francisco",
+    "title":"Room Conversation — March 25, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

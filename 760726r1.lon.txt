@@ -1,5 +1,12 @@
-~~Title: Conversation with George Harrison — July 26, 1976, London~~
-~~bc: July 26, 1976, London~~
+---json
+{
+    "name":"Conversation with George Harrison — July 26, 1976, London",
+    "h1":"July 26, 1976, London",
+    "title":"Conversation with George Harrison — July 26, 1976, London",
+    "description":""
+}
+---
+
 ====== Conversation with George Harrison ======
 
 ---- dataentry spoken ----

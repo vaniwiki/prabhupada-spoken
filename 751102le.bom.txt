@@ -1,5 +1,12 @@
-~~Title: Lecture [Hindi] — November 2, 1975, Bombay~~
-~~bc: November 2, 1975, Bombay~~
+---json
+{
+    "name":"Lecture [Hindi] — November 2, 1975, Bombay",
+    "h1":"November 2, 1975, Bombay",
+    "title":"Lecture [Hindi] — November 2, 1975, Bombay",
+    "description":""
+}
+---
+
 ====== Lecture [Hindi] ======
 
 ---- dataentry spoken ----

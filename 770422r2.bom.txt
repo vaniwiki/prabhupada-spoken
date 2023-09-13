@@ -1,5 +1,12 @@
-~~Title: Conversation with disciples of Chinmayananda and Shivananda Ashram — April 22, 1977, Bombay~~
-~~bc: April 22, 1977, Bombay~~
+---json
+{
+    "name":"Conversation with disciples of Chinmayananda and Shivananda Ashram — April 22, 1977, Bombay",
+    "h1":"April 22, 1977, Bombay",
+    "title":"Conversation with disciples of Chinmayananda and Shivananda Ashram — April 22, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation with disciples of Chinmayananda and Shivananda Ashram ======
 
 ---- dataentry spoken ----

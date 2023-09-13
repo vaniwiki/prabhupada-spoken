@@ -1,5 +1,12 @@
-~~Title: Room Conversation — November 25, 1975, Delhi~~
-~~bc: November 25, 1975, Delhi~~
+---json
+{
+    "name":"Room Conversation — November 25, 1975, Delhi",
+    "h1":"November 25, 1975, Delhi",
+    "title":"Room Conversation — November 25, 1975, Delhi",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 18.45 — October 11, 1975, Durban~~
-~~bc: October 11, 1975, Durban~~
+---json
+{
+    "name":"Bg 18.45 — October 11, 1975, Durban",
+    "h1":"October 11, 1975, Durban",
+    "title":"Bg 18.45 — October 11, 1975, Durban",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 18.45 ======
 
 ---- dataentry spoken ----

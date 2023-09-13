@@ -1,5 +1,12 @@
-~~Title: SB 5.5.3 — May 4, 1968, Boston~~
-~~bc: May 4, 1968, Boston~~
+---json
+{
+    "name":"SB 5.5.3 — May 4, 1968, Boston",
+    "h1":"May 4, 1968, Boston",
+    "title":"SB 5.5.3 — May 4, 1968, Boston",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.3 ======
 
 ---- dataentry spoken ----

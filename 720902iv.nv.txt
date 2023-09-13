@@ -1,5 +1,12 @@
-~~Title: Interview with the New York Times — September 2, 1972, New Vrindavan~~
-~~bc: September 2, 1972, New Vrindavan~~
+---json
+{
+    "name":"Interview with the New York Times — September 2, 1972, New Vrindavan",
+    "h1":"September 2, 1972, New Vrindavan",
+    "title":"Interview with the New York Times — September 2, 1972, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Interview with the New York Times ======
 
 ---- dataentry spoken ----

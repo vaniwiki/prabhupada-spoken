@@ -1,5 +1,12 @@
-~~Title: Room Conversation First Day in Juhu Quarters — March 30, 1977, Bombay~~
-~~bc: March 30, 1977, Bombay~~
+---json
+{
+    "name":"Room Conversation First Day in Juhu Quarters — March 30, 1977, Bombay",
+    "h1":"March 30, 1977, Bombay",
+    "title":"Room Conversation First Day in Juhu Quarters — March 30, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Room Conversation First Day in Juhu Quarters ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 6.1.24 — July 8, 1975, Chicago~~
-~~bc: July 8, 1975, Chicago~~
+---json
+{
+    "name":"SB 6.1.24 — July 8, 1975, Chicago",
+    "h1":"July 8, 1975, Chicago",
+    "title":"SB 6.1.24 — July 8, 1975, Chicago",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.24 ======
 
 ---- dataentry spoken ----

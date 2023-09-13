@@ -1,5 +1,12 @@
-~~Title: Arrival at Farm — July 29, 1976, New Māyāpur~~
-~~bc: July 29, 1976, New Māyāpur~~
+---json
+{
+    "name":"Arrival at Farm — July 29, 1976, New Māyāpur",
+    "h1":"July 29, 1976, New Māyāpur",
+    "title":"Arrival at Farm — July 29, 1976, New Māyāpur",
+    "description":""
+}
+---
+
 ====== Arrival at Farm ======
 
 ---- dataentry spoken ----

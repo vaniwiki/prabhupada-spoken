@@ -1,5 +1,12 @@
-~~Title: Morning Walk [partially recorded] — April 3, 1976, Vṛndāvana~~
-~~bc: April 3, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Morning Walk [partially recorded] — April 3, 1976, Vṛndāvana",
+    "h1":"April 3, 1976, Vṛndāvana",
+    "title":"Morning Walk [partially recorded] — April 3, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Morning Walk [partially recorded] ======
 
 ---- dataentry spoken ----

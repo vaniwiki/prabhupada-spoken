@@ -1,5 +1,12 @@
-~~Title: SB 6.1.6 — February 17, 1973, Sydney~~
-~~bc: February 17, 1973, Sydney~~
+---json
+{
+    "name":"SB 6.1.6 — February 17, 1973, Sydney",
+    "h1":"February 17, 1973, Sydney",
+    "title":"SB 6.1.6 — February 17, 1973, Sydney",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.6 ======
 
 ---- dataentry spoken ----

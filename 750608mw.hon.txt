@@ -1,5 +1,12 @@
-~~Title: Morning Walk at Kailua Beach — June 8, 1975, Honolulu~~
-~~bc: June 8, 1975, Honolulu~~
+---json
+{
+    "name":"Morning Walk at Kailua Beach — June 8, 1975, Honolulu",
+    "h1":"June 8, 1975, Honolulu",
+    "title":"Morning Walk at Kailua Beach — June 8, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Morning Walk at Kailua Beach ======
 
 ---- dataentry spoken ----

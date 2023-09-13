@@ -1,5 +1,12 @@
-~~Title: SB 2.4.1, SB 2.3.1-25 Recitation — June 24, 1972, Los Angeles~~
-~~bc: June 24, 1972, Los Angeles~~
+---json
+{
+    "name":"SB 2.4.1, SB 2.3.1-25 Recitation — June 24, 1972, Los Angeles",
+    "h1":"June 24, 1972, Los Angeles",
+    "title":"SB 2.4.1, SB 2.3.1-25 Recitation — June 24, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.4.1, SB 2.3.1–25 Recitation ======
 
 ---- dataentry spoken ----

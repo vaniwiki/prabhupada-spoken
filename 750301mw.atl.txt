@@ -1,5 +1,12 @@
-~~Title: Morning Walk — March 1, 1975, Atlanta~~
-~~bc: March 1, 1975, Atlanta~~
+---json
+{
+    "name":"Morning Walk — March 1, 1975, Atlanta",
+    "h1":"March 1, 1975, Atlanta",
+    "title":"Morning Walk — March 1, 1975, Atlanta",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

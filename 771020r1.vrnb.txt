@@ -1,5 +1,12 @@
-~~Title: Doctor Visit and Conversation — October 20, 1977, Vṛndāvana~~
-~~bc: October 20, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Doctor Visit and Conversation — October 20, 1977, Vṛndāvana",
+    "h1":"October 20, 1977, Vṛndāvana",
+    "title":"Doctor Visit and Conversation — October 20, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Doctor Visit and Conversation ======
 
 ---- dataentry spoken ----

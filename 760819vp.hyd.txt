@@ -1,5 +1,12 @@
-~~Title: Śrī Vyāsa-pūjā Lecture — August 19, 1976, Hyderabad~~
-~~bc: August 19, 1976, Hyderabad~~
+---json
+{
+    "name":"Śrī Vyāsa-pūjā Lecture — August 19, 1976, Hyderabad",
+    "h1":"August 19, 1976, Hyderabad",
+    "title":"Śrī Vyāsa-pūjā Lecture — August 19, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Śrī Vyāsa-pūjā Lecture ======
 
 ---- dataentry spoken ----

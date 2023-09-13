@@ -1,5 +1,12 @@
-~~Title: Śrī Brahma-saṁhitā, Lecture — November 9, 1968, Los Angeles~~
-~~bc: November 9, 1968, Los Angeles~~
+---json
+{
+    "name":"Śrī Brahma-saṁhitā, Lecture — November 9, 1968, Los Angeles",
+    "h1":"November 9, 1968, Los Angeles",
+    "title":"Śrī Brahma-saṁhitā, Lecture — November 9, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrī Brahma-saṁhitā, Lecture ======
 
 ---- dataentry spoken ----

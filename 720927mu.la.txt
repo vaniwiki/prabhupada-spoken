@@ -1,5 +1,12 @@
-~~Title: Śuddha-bhakata-caraṇa-reṇu and Purport — September 27, 1972, Los Angeles~~
-~~bc: September 27, 1972, Los Angeles~~
+---json
+{
+    "name":"Śuddha-bhakata-caraṇa-reṇu and Purport — September 27, 1972, Los Angeles",
+    "h1":"September 27, 1972, Los Angeles",
+    "title":"Śuddha-bhakata-caraṇa-reṇu and Purport — September 27, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śuddha-bhakata-caraṇa-reṇu and Purport ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Presentation Excerpt — July 23, 1973, London~~
-~~bc: July 23, 1973, London~~
+---json
+{
+    "name":"Presentation Excerpt — July 23, 1973, London",
+    "h1":"July 23, 1973, London",
+    "title":"Presentation Excerpt — July 23, 1973, London",
+    "description":""
+}
+---
+
 ====== Presentation Excerpt ======
 
 ---- dataentry spoken ----

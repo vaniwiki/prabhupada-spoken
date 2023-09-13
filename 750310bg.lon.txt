@@ -1,5 +1,12 @@
-~~Title: Bg 7.2 — March 10, 1975, London~~
-~~bc: March 10, 1975, London~~
+---json
+{
+    "name":"Bg 7.2 — March 10, 1975, London",
+    "h1":"March 10, 1975, London",
+    "title":"Bg 7.2 — March 10, 1975, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.2 ======
 
 ---- dataentry spoken ----

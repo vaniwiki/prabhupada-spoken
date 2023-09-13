@@ -1,5 +1,12 @@
-~~Title: SB 2.1.1-6 Excerpts — July 2, 1970, Los Angeles~~
-~~bc: July 2, 1970, Los Angeles~~
+---json
+{
+    "name":"SB 2.1.1-6 Excerpts — July 2, 1970, Los Angeles",
+    "h1":"July 2, 1970, Los Angeles",
+    "title":"SB 2.1.1-6 Excerpts — July 2, 1970, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.1.1–6 Excerpts ======
 
 ---- dataentry spoken ----

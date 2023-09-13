@@ -1,5 +1,12 @@
-~~Title: Interview with Professors — June 18, 1976, Toronto~~
-~~bc: June 18, 1976, Toronto~~
+---json
+{
+    "name":"Interview with Professors — June 18, 1976, Toronto",
+    "h1":"June 18, 1976, Toronto",
+    "title":"Interview with Professors — June 18, 1976, Toronto",
+    "description":""
+}
+---
+
 ====== Interview with Professors O’Connell, Motilal and Shivaram ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation — July 1, 1977, Vṛndāvana~~
-~~bc: July 1, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Conversation — July 1, 1977, Vṛndāvana",
+    "h1":"July 1, 1977, Vṛndāvana",
+    "title":"Conversation — July 1, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Conversation ======
 
 ---- dataentry spoken ----

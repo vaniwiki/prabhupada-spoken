@@ -1,5 +1,12 @@
-~~Title: Conversation with Seven Ministers of Andhra Pradesh — August 22, 1976, Hyderabad~~
-~~bc: August 22, 1976, Hyderabad~~
+---json
+{
+    "name":"Conversation with Seven Ministers of Andhra Pradesh — August 22, 1976, Hyderabad",
+    "h1":"August 22, 1976, Hyderabad",
+    "title":"Conversation with Seven Ministers of Andhra Pradesh — August 22, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Conversation with Seven Ministers of Andhra Pradesh ======
 
 ---- dataentry spoken ----

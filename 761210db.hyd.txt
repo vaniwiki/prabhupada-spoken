@@ -1,5 +1,12 @@
-~~Title: Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 10, 1976, Hyderabad~~
-~~bc: December 10, 1976, Hyderabad~~
+---json
+{
+    "name":"Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 10, 1976, Hyderabad",
+    "h1":"December 10, 1976, Hyderabad",
+    "title":"Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 10, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture ======
 
 ---- dataentry spoken ----

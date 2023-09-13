@@ -1,5 +1,12 @@
-~~Title: SB 1.16.36 — January 30, 1974, Tokyo~~
-~~bc: January 30, 1974, Tokyo~~
+---json
+{
+    "name":"SB 1.16.36 — January 30, 1974, Tokyo",
+    "h1":"January 30, 1974, Tokyo",
+    "title":"SB 1.16.36 — January 30, 1974, Tokyo",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.16.36 ======
 
 ---- dataentry spoken ----

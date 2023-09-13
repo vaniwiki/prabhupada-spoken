@@ -1,5 +1,12 @@
-~~Title: SB 1.7.6, Temple Opening — August 18, 1976, Hyderabad~~
-~~bc: August 18, 1976, Hyderabad~~
+---json
+{
+    "name":"SB 1.7.6, Temple Opening — August 18, 1976, Hyderabad",
+    "h1":"August 18, 1976, Hyderabad",
+    "title":"SB 1.7.6, Temple Opening — August 18, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.7.6, Temple Opening ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 13.2 — April 5, 1972, Melbourne~~
-~~bc: April 5, 1972, Melbourne~~
+---json
+{
+    "name":"Bg 13.2 — April 5, 1972, Melbourne",
+    "h1":"April 5, 1972, Melbourne",
+    "title":"Bg 13.2 — April 5, 1972, Melbourne",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.2 ======
 
 ---- dataentry spoken ----

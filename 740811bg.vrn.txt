@@ -1,5 +1,12 @@
-~~Title: Janmāṣṭamī, Bhagavad-gītā 7.5 — August 11, 1974, Vṛndāvana~~
-~~bc: August 11, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Janmāṣṭamī, Bhagavad-gītā 7.5 — August 11, 1974, Vṛndāvana",
+    "h1":"August 11, 1974, Vṛndāvana",
+    "title":"Janmāṣṭamī, Bhagavad-gītā 7.5 — August 11, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Janmāṣṭamī, Bhagavad-gītā 7.5 ======
 
 ---- dataentry spoken ----

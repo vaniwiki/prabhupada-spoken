@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — April 13, 1973, Los Angeles~~
-~~bc: April 13, 1973, Los Angeles~~
+---json
+{
+    "name":"Arrival Lecture — April 13, 1973, Los Angeles",
+    "h1":"April 13, 1973, Los Angeles",
+    "title":"Arrival Lecture — April 13, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

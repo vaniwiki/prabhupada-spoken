@@ -1,5 +1,12 @@
-~~Title: Lecture — December 23, 1969, Boston~~
-~~bc: December 23, 1969, Boston~~
+---json
+{
+    "name":"Lecture — December 23, 1969, Boston",
+    "h1":"December 23, 1969, Boston",
+    "title":"Lecture — December 23, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

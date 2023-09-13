@@ -1,5 +1,12 @@
-~~Title: SB 1.1.9 — February 20, 1973, Auckland~~
-~~bc: February 20, 1973, Auckland~~
+---json
+{
+    "name":"SB 1.1.9 — February 20, 1973, Auckland",
+    "h1":"February 20, 1973, Auckland",
+    "title":"SB 1.1.9 — February 20, 1973, Auckland",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.1.9 ======
 
 ---- dataentry spoken ----

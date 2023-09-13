@@ -1,5 +1,12 @@
-~~Title: Bg 2.32 — September 2, 1973, London~~
-~~bc: September 2, 1973, London~~
+---json
+{
+    "name":"Bg 2.32 — September 2, 1973, London",
+    "h1":"September 2, 1973, London",
+    "title":"Bg 2.32 — September 2, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.32 ======
 
 ---- dataentry spoken ----

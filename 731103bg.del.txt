@@ -1,5 +1,12 @@
-~~Title: Bg 3.9 — November 3, 1973, Delhi~~
-~~bc: November 3, 1973, Delhi~~
+---json
+{
+    "name":"Bg 3.9 — November 3, 1973, Delhi",
+    "h1":"November 3, 1973, Delhi",
+    "title":"Bg 3.9 — November 3, 1973, Delhi",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.9 ======
 
 ---- dataentry spoken ----

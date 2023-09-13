@@ -1,5 +1,12 @@
-~~Title: Bg 2.40-45 — December 13, 1968, Los Angeles~~
-~~bc: December 13, 1968, Los Angeles~~
+---json
+{
+    "name":"Bg 2.40-45 — December 13, 1968, Los Angeles",
+    "h1":"December 13, 1968, Los Angeles",
+    "title":"Bg 2.40-45 — December 13, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.40–45 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 16.1-16 Garden Discussion — June 26, 1976, New Vrindavan~~
-~~bc: June 26, 1976, New Vrindavan~~
+---json
+{
+    "name":"Bg 16.1-16 Garden Discussion — June 26, 1976, New Vrindavan",
+    "h1":"June 26, 1976, New Vrindavan",
+    "title":"Bg 16.1-16 Garden Discussion — June 26, 1976, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 16.1–16 Garden Discussion ======
 
 ---- dataentry spoken ----

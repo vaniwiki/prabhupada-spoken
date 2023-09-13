@@ -1,5 +1,12 @@
-~~Title: Discussion on Deprogrammers — January 9, 1977, Bombay~~
-~~bc: January 9, 1977, Bombay~~
+---json
+{
+    "name":"Discussion on Deprogrammers — January 9, 1977, Bombay",
+    "h1":"January 9, 1977, Bombay",
+    "title":"Discussion on Deprogrammers — January 9, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Discussion on Deprogrammers ======
 
 ---- dataentry spoken ----

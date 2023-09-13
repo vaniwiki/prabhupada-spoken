@@ -1,5 +1,12 @@
-~~Title: SB 2.4.3-4 and Initiations — June 28, 1972, Los Angeles~~
-~~bc: June 28, 1972, Los Angeles~~
+---json
+{
+    "name":"SB 2.4.3-4 and Initiations — June 28, 1972, Los Angeles",
+    "h1":"June 28, 1972, Los Angeles",
+    "title":"SB 2.4.3-4 and Initiations — June 28, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.4.3–4 and Initiations ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Śrī Īśopaniṣad, Mantra 1 — October 30, 1968, Los Angeles~~
-~~bc: October 30, 1968, Los Angeles~~
+---json
+{
+    "name":"Śrī Īśopaniṣad, Mantra 1 — October 30, 1968, Los Angeles",
+    "h1":"October 30, 1968, Los Angeles",
+    "title":"Śrī Īśopaniṣad, Mantra 1 — October 30, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrī Īśopaniṣad, Mantra 1 ======
 
 ---- dataentry spoken ----

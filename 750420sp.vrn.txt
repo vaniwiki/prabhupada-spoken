@@ -1,5 +1,12 @@
-~~Title: Speech, Śrī Caitanya-caritāmṛta, Madhya 19.53 — April 20, 1975, Vṛndāvana~~
-~~bc: April 20, 1975, Vṛndāvana~~
+---json
+{
+    "name":"Speech, Śrī Caitanya-caritāmṛta, Madhya 19.53 — April 20, 1975, Vṛndāvana",
+    "h1":"April 20, 1975, Vṛndāvana",
+    "title":"Speech, Śrī Caitanya-caritāmṛta, Madhya 19.53 — April 20, 1975, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Speech, Śrī Caitanya-caritāmṛta, Madhya 19.53 ======
 
 ---- dataentry spoken ----

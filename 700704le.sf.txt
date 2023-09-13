@@ -1,5 +1,12 @@
-~~Title: Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture — July 4, 1970, San Francisco~~
-~~bc: July 4, 1970, San Francisco~~
+---json
+{
+    "name":"Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture — July 4, 1970, San Francisco",
+    "h1":"July 4, 1970, San Francisco",
+    "title":"Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture — July 4, 1970, San Francisco",
+    "description":""
+}
+---
+
 ====== Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,11 @@
-~~Title: Evening Darśana — May 11, 1977, Rishikesh~~
-~~bc: May 11, 1977, Rishikesh~~
+---json
+{
+    "name":"Evening Darśana — May 11, 1977, Rishikesh",
+    "h1":"May 11, 1977, Rishikesh",
+    "title":"Evening Darśana — May 11, 1977, Rishikesh",
+    "description":""
+}
+---
 
 ====== Evening Darśana ======
 

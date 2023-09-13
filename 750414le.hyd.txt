@@ -1,5 +1,12 @@
-~~Title: Lecture on Science of Kṛṣṇa — April 14, 1975, Hyderabad~~
-~~bc: April 14, 1975, Hyderabad~~
+---json
+{
+    "name":"Lecture on Science of Kṛṣṇa — April 14, 1975, Hyderabad",
+    "h1":"April 14, 1975, Hyderabad",
+    "title":"Lecture on Science of Kṛṣṇa — April 14, 1975, Hyderabad",
+    "description":""
+}
+---
+
 ====== Lecture on Science of Kṛṣṇa ======
 
 ---- dataentry spoken ----

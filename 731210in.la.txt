@@ -1,5 +1,12 @@
-~~Title: Initiations — December 10, 1973, Los Angeles~~
-~~bc: December 10, 1973, Los Angeles~~
+---json
+{
+    "name":"Initiations — December 10, 1973, Los Angeles",
+    "h1":"December 10, 1973, Los Angeles",
+    "title":"Initiations — December 10, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Initiations ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Mr. & Mrs James Williams — July 23, 1973, London~~
-~~bc: July 23, 1973, London~~
+---json
+{
+    "name":"Room Conversation with Mr. & Mrs James Williams — July 23, 1973, London",
+    "h1":"July 23, 1973, London",
+    "title":"Room Conversation with Mr. & Mrs James Williams — July 23, 1973, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with Mr. & Mrs James Williams ======
 
 ---- dataentry spoken ----

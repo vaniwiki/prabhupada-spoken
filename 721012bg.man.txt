@@ -1,5 +1,12 @@
-~~Title: Bg 2.13 — October 12, 1972, Manila~~
-~~bc: October 12, 1972, Manila~~
+---json
+{
+    "name":"Bg 2.13 — October 12, 1972, Manila",
+    "h1":"October 12, 1972, Manila",
+    "title":"Bg 2.13 — October 12, 1972, Manila",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.13 ======
 
 ---- dataentry spoken ----

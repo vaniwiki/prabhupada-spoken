@@ -1,5 +1,12 @@
-~~Title: Talk After Lecture [Brahma-saṁhitā, verse 29] — November 8, 1968, Los Angeles~~
-~~bc: November 8, 1968, Los Angeles~~
+---json
+{
+    "name":"Talk After Lecture [Brahma-saṁhitā, verse 29] — November 8, 1968, Los Angeles",
+    "h1":"November 8, 1968, Los Angeles",
+    "title":"Talk After Lecture [Brahma-saṁhitā, verse 29] — November 8, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Talk After Lecture [Brahma-saṁhitā, verse 29] ======
 
 ---- dataentry spoken ----

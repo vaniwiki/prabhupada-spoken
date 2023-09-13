@@ -1,5 +1,12 @@
-~~Title: Address to Indian Association — May 11, 1969, Columbus~~
-~~bc: May 11, 1969, Columbus~~
+---json
+{
+    "name":"Address to Indian Association — May 11, 1969, Columbus",
+    "h1":"May 11, 1969, Columbus",
+    "title":"Address to Indian Association — May 11, 1969, Columbus",
+    "description":""
+}
+---
+
 ====== Address to Indian Association ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 — February 14, 1972, Madras~~
-~~bc: February 14, 1972, Madras~~
+---json
+{
+    "name":"Bg 7.1 — February 14, 1972, Madras",
+    "h1":"February 14, 1972, Madras",
+    "title":"Bg 7.1 — February 14, 1972, Madras",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation on Train — February 4, 1977, Bhubaneswar~~
-~~bc: February 4, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Conversation on Train — February 4, 1977, Bhubaneswar",
+    "h1":"February 4, 1977, Bhubaneswar",
+    "title":"Conversation on Train — February 4, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Conversation on Train ======
 
 ---- dataentry spoken ----

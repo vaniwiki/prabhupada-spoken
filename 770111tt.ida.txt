@@ -1,5 +1,12 @@
-~~Title: Conversation on Train to Allahabad — January 11, 1977, India~~
-~~bc: January 11, 1977, India~~
+---json
+{
+    "name":"Conversation on Train to Allahabad — January 11, 1977, India",
+    "h1":"January 11, 1977, India",
+    "title":"Conversation on Train to Allahabad — January 11, 1977, India",
+    "description":""
+}
+---
+
 ====== Conversation on Train to Allahabad ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversations with Kīrtana Groups and Sannyāsa Initiation — May 29, 1977, Vṛndāvana~~
-~~bc: May 29, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Conversations with Kīrtana Groups and Sannyāsa Initiation — May 29, 1977, Vṛndāvana",
+    "h1":"May 29, 1977, Vṛndāvana",
+    "title":"Conversations with Kīrtana Groups and Sannyāsa Initiation — May 29, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Conversations with Kīrtana Groups and Sannyāsa Initiation ======
 
 ---- dataentry spoken ----

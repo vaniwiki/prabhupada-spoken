@@ -1,5 +1,12 @@
-~~Title: Press Conference — July 9, 1975, Chicago~~
-~~bc: July 9, 1975, Chicago~~
+---json
+{
+    "name":"Press Conference — July 9, 1975, Chicago",
+    "h1":"July 9, 1975, Chicago",
+    "title":"Press Conference — July 9, 1975, Chicago",
+    "description":""
+}
+---
+
 ====== Press Conference ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: City Hall Lecture — October 7, 1975, Durban~~
-~~bc: October 7, 1975, Durban~~
+---json
+{
+    "name":"City Hall Lecture — October 7, 1975, Durban",
+    "h1":"October 7, 1975, Durban",
+    "title":"City Hall Lecture — October 7, 1975, Durban",
+    "description":""
+}
+---
+
 ====== City Hall Lecture ======
 
 ---- dataentry spoken ----

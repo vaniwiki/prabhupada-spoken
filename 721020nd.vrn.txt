@@ -1,5 +1,12 @@
-~~Title: The Nectar of Devotion — October 20, 1972, Vṛndāvana~~
-~~bc: October 20, 1972, Vṛndāvana~~
+---json
+{
+    "name":"The Nectar of Devotion — October 20, 1972, Vṛndāvana",
+    "h1":"October 20, 1972, Vṛndāvana",
+    "title":"The Nectar of Devotion — October 20, 1972, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== The Nectar of Devotion ======
 
 ---- dataentry spoken ----

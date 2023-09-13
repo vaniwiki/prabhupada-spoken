@@ -1,5 +1,12 @@
-~~Title: Morning Walk in the Botanical Gardens — June 2, 1975, Honolulu~~
-~~bc: June 2, 1975, Honolulu~~
+---json
+{
+    "name":"Morning Walk in the Botanical Gardens — June 2, 1975, Honolulu",
+    "h1":"June 2, 1975, Honolulu",
+    "title":"Morning Walk in the Botanical Gardens — June 2, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Morning Walk in the Botanical Gardens ======
 
 ---- dataentry spoken ----

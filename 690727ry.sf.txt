@@ -1,5 +1,12 @@
-~~Title: Ratha-yātrā Lecture — July 27, 1969, San Francisco~~
-~~bc: July 27, 1969, San Francisco~~
+---json
+{
+    "name":"Ratha-yātrā Lecture — July 27, 1969, San Francisco",
+    "h1":"July 27, 1969, San Francisco",
+    "title":"Ratha-yātrā Lecture — July 27, 1969, San Francisco",
+    "description":""
+}
+---
+
 ====== Ratha-yātrā Lecture at The Family Dog Auditorium ======
 
 ---- dataentry spoken ----

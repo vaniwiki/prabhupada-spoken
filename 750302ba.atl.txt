@@ -1,5 +1,12 @@
-~~Title: Śrīla Bhaktisiddhānta Appearance Day Lecture — March 2, 1975, Atlanta~~
-~~bc: March 2, 1975, Atlanta~~
+---json
+{
+    "name":"Śrīla Bhaktisiddhānta Appearance Day Lecture — March 2, 1975, Atlanta",
+    "h1":"March 2, 1975, Atlanta",
+    "title":"Śrīla Bhaktisiddhānta Appearance Day Lecture — March 2, 1975, Atlanta",
+    "description":""
+}
+---
+
 ====== Śrīla Bhaktisiddhānta Appearance Day Lecture ======
 
 ---- dataentry spoken ----

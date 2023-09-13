@@ -1,5 +1,12 @@
-~~Title: Bg 2.62-72 — December 19, 1968, Los Angeles~~
-~~bc: December 19, 1968, Los Angeles~~
+---json
+{
+    "name":"Bg 2.62-72 — December 19, 1968, Los Angeles",
+    "h1":"December 19, 1968, Los Angeles",
+    "title":"Bg 2.62-72 — December 19, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.62–72 ======
 
 ---- dataentry spoken ----

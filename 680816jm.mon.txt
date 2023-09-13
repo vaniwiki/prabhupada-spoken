@@ -1,5 +1,12 @@
-~~Title: Janmāṣṭamī — August 16, 1968, Montreal~~
-~~bc: August 16, 1968, Montreal~~
+---json
+{
+    "name":"Janmāṣṭamī — August 16, 1968, Montreal",
+    "h1":"August 16, 1968, Montreal",
+    "title":"Janmāṣṭamī — August 16, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Janmāṣṭamī, Lord Śrī Kṛṣṇa’s Appearance Day ======
 
 ---- dataentry spoken ----

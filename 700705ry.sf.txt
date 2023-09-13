@@ -1,5 +1,12 @@
-~~Title: Ratha-yātrā Lecture — July 5, 1970, San Francisco~~
-~~bc: July 5, 1970, San Francisco~~
+---json
+{
+    "name":"Ratha-yātrā Lecture — July 5, 1970, San Francisco",
+    "h1":"July 5, 1970, San Francisco",
+    "title":"Ratha-yātrā Lecture — July 5, 1970, San Francisco",
+    "description":""
+}
+---
+
 ====== Ratha-yātrā ======
 
 ---- dataentry spoken ----

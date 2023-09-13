@@ -1,5 +1,12 @@
-~~Title: Bhajans and Room Conversation — March 8, 1975, London~~
-~~bc: March 8, 1975, London~~
+---json
+{
+    "name":"Bhajans and Room Conversation — March 8, 1975, London",
+    "h1":"March 8, 1975, London",
+    "title":"Bhajans and Room Conversation — March 8, 1975, London",
+    "description":""
+}
+---
+
 ====== Bhajans and Room Conversation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation with Shri Narayan — May 2, 1977, Bombay~~
-~~bc: May 2, 1977, Bombay~~
+---json
+{
+    "name":"Conversation with Shri Narayan — May 2, 1977, Bombay",
+    "h1":"May 2, 1977, Bombay",
+    "title":"Conversation with Shri Narayan — May 2, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation with Shri Narayan ======
 
 ---- dataentry spoken ----

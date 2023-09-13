@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Yadurabara About Early Life — August 12, 1973, London~~
-~~bc: August 12, 1973, London~~
+---json
+{
+    "name":"Room Conversation with Yadurabara About Early Life — August 12, 1973, London",
+    "h1":"August 12, 1973, London",
+    "title":"Room Conversation with Yadurabara About Early Life — August 12, 1973, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with Yadurabara About Early Life ======
 
 ---- dataentry spoken ----

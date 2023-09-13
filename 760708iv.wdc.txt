@@ -1,5 +1,12 @@
-~~Title: Interview and Conversation — July 8, 1976, Washington, D.C.~~
-~~bc: July 8, 1976, Washington, D.C.~~
+---json
+{
+    "name":"Interview and Conversation — July 8, 1976, Washington, D.C.",
+    "h1":"July 8, 1976, Washington, D.C.",
+    "title":"Interview and Conversation — July 8, 1976, Washington, D.C.",
+    "description":""
+}
+---
+
 ====== Interview and Conversation ======
 
 ---- dataentry spoken ----

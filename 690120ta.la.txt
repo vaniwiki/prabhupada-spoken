@@ -1,5 +1,12 @@
-~~Title: Talk Before Lecture — January 20, 1969, Los Angeles~~
-~~bc: January 20, 1969, Los Angeles~~
+---json
+{
+    "name":"Talk Before Lecture — January 20, 1969, Los Angeles",
+    "h1":"January 20, 1969, Los Angeles",
+    "title":"Talk Before Lecture — January 20, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Talk Before Lecture ======
 
 ---- dataentry spoken ----

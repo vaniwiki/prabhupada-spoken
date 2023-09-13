@@ -1,5 +1,12 @@
-~~Title: Garden Conversation — June 23, 1976, New Vrindavan~~
-~~bc: June 23, 1976, New Vrindavan~~
+---json
+{
+    "name":"Garden Conversation — June 23, 1976, New Vrindavan",
+    "h1":"June 23, 1976, New Vrindavan",
+    "title":"Garden Conversation — June 23, 1976, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Garden Conversation ======
 
 ---- dataentry spoken ----

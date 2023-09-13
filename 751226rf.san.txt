@@ -1,5 +1,12 @@
-~~Title: Conversation on Roof — December 26, 1975, Sanand~~
-~~bc: December 26, 1975, Sanand~~
+---json
+{
+    "name":"Conversation on Roof — December 26, 1975, Sanand",
+    "h1":"December 26, 1975, Sanand",
+    "title":"Conversation on Roof — December 26, 1975, Sanand",
+    "description":""
+}
+---
+
 ====== Conversation on Roof ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 4.7-10 — January 6, 1969, Los Angeles~~
-~~bc: January 6, 1969, Los Angeles~~
+---json
+{
+    "name":"Bg 4.7-10 — January 6, 1969, Los Angeles",
+    "h1":"January 6, 1969, Los Angeles",
+    "title":"Bg 4.7-10 — January 6, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 4.7–10 ======
 
 ---- dataentry spoken ----

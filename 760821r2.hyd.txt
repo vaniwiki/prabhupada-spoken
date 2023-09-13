@@ -1,5 +1,12 @@
-~~Title: Room Conversation About Blitz News Clipping — August 21, 1976, Hyderabad~~
-~~bc: August 21, 1976, Hyderabad~~
+---json
+{
+    "name":"Room Conversation About Blitz News Clipping — August 21, 1976, Hyderabad",
+    "h1":"August 21, 1976, Hyderabad",
+    "title":"Room Conversation About Blitz News Clipping — August 21, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Room Conversation About Blitz News Clipping ======
 
 ---- dataentry spoken ----

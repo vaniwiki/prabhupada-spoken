@@ -1,5 +1,12 @@
-~~Title: Bg 9.3 — June 20, 1976, Toronto~~
-~~bc: June 20, 1976, Toronto~~
+---json
+{
+    "name":"Bg 9.3 — June 20, 1976, Toronto",
+    "h1":"June 20, 1976, Toronto",
+    "title":"Bg 9.3 — June 20, 1976, Toronto",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 9.3 ======
 
 ---- dataentry spoken ----

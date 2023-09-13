@@ -1,5 +1,12 @@
-~~Title: Bg 1.15 — July 15, 1973, London~~
-~~bc: July 15, 1973, London~~
+---json
+{
+    "name":"Bg 1.15 — July 15, 1973, London",
+    "h1":"July 15, 1973, London",
+    "title":"Bg 1.15 — July 15, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 1.15 ======
 
 ---- dataentry spoken ----

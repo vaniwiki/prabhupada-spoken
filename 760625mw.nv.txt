@@ -1,5 +1,12 @@
-~~Title: Morning Talk in Car [partially recorded] — June 25, 1976, New Vrindavan~~
-~~bc: June 25, 1976, New Vrindavan~~
+---json
+{
+    "name":"Morning Talk in Car [partially recorded] — June 25, 1976, New Vrindavan",
+    "h1":"June 25, 1976, New Vrindavan",
+    "title":"Morning Talk in Car [partially recorded] — June 25, 1976, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Morning Talk in Car [partially recorded] ======
 
 ---- dataentry spoken ----

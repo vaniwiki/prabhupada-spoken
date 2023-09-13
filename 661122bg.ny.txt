@@ -1,5 +1,12 @@
-~~Title: Bg 9.2 — November 22, 1966, New York~~
-~~bc: November 22, 1966, New York~~
+---json
+{
+    "name":"Bg 9.2 — November 22, 1966, New York",
+    "h1":"November 22, 1966, New York",
+    "title":"Bg 9.2 — November 22, 1966, New York",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 9.2 ======
 
 ---- dataentry spoken ----

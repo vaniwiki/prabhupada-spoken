@@ -1,5 +1,12 @@
-~~Title: Morning Walk — August 7, 1975, Toronto~~
-~~bc: August 7, 1975, Toronto~~
+---json
+{
+    "name":"Morning Walk — August 7, 1975, Toronto",
+    "h1":"August 7, 1975, Toronto",
+    "title":"Morning Walk — August 7, 1975, Toronto",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

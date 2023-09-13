@@ -1,5 +1,12 @@
-~~Title: L.A. Magazine Interview — June 10, 1976, Los Angeles~~
-~~bc: June 10, 1976, Los Angeles~~
+---json
+{
+    "name":"L.A. Magazine Interview — June 10, 1976, Los Angeles",
+    "h1":"June 10, 1976, Los Angeles",
+    "title":"L.A. Magazine Interview — June 10, 1976, Los Angeles",
+    "description":""
+}
+---
+
 ====== L.A. Magazine Interview ======
 
 ---- dataentry spoken ----

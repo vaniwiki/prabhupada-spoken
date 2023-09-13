@@ -1,5 +1,12 @@
-~~Title: Interview with Envious Reporter — July 4, 1974, Chicago~~
-~~bc: July 4, 1974, Chicago~~
+---json
+{
+    "name":"Interview with Envious Reporter — July 4, 1974, Chicago",
+    "h1":"July 4, 1974, Chicago",
+    "title":"Interview with Envious Reporter — July 4, 1974, Chicago",
+    "description":""
+}
+---
+
 ====== Interview with Envious Reporter ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Lecture & Initiation — October 20, 1968, Seattle~~
-~~bc: October 20, 1968, Seattle~~
+---json
+{
+    "name":"Lecture & Initiation — October 20, 1968, Seattle",
+    "h1":"October 20, 1968, Seattle",
+    "title":"Lecture & Initiation — October 20, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Lecture & Initiation ======
 
 ---- dataentry spoken ----

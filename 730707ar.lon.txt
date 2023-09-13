@@ -1,5 +1,12 @@
-~~Title: Arrival Address at Bhaktivedanta Manor — July 7, 1973, London~~
-~~bc: July 7, 1973, London~~
+---json
+{
+    "name":"Arrival Address at Bhaktivedanta Manor — July 7, 1973, London",
+    "h1":"July 7, 1973, London",
+    "title":"Arrival Address at Bhaktivedanta Manor — July 7, 1973, London",
+    "description":""
+}
+---
+
 ====== Arrival Address at Bhaktivedanta Manor ======
 
 ---- dataentry spoken ----

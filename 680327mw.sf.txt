@@ -1,5 +1,12 @@
-~~Title: Morning Walk at Stow Lake — March 27, 1968, San Francisco~~
-~~bc: March 27, 1968, San Francisco~~
+---json
+{
+    "name":"Morning Walk at Stow Lake — March 27, 1968, San Francisco",
+    "h1":"March 27, 1968, San Francisco",
+    "title":"Morning Walk at Stow Lake — March 27, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Morning Walk at Stow Lake ======
 
 ---- dataentry spoken ----

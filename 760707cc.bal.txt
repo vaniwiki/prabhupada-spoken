@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.102 — July 7, 1976, Baltimore~~
-~~bc: July 7, 1976, Baltimore~~
+---json
+{
+    "name":"Cc. Madhya 20.102 — July 7, 1976, Baltimore",
+    "h1":"July 7, 1976, Baltimore",
+    "title":"Cc. Madhya 20.102 — July 7, 1976, Baltimore",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.102 ======
 
 ---- dataentry spoken ----

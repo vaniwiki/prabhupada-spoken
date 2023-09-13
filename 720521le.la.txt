@@ -1,5 +1,12 @@
-~~Title: Sunday Feast Lecture — May 21, 1972, Los Angeles~~
-~~bc: May 21, 1972, Los Angeles~~
+---json
+{
+    "name":"Sunday Feast Lecture — May 21, 1972, Los Angeles",
+    "h1":"May 21, 1972, Los Angeles",
+    "title":"Sunday Feast Lecture — May 21, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Sunday Feast Lecture ======
 
 ---- dataentry spoken ----

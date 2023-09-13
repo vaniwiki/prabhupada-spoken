@@ -1,5 +1,12 @@
-~~Title: Conversation with Author — April 1, 1972, Sydney~~
-~~bc: April 1, 1972, Sydney~~
+---json
+{
+    "name":"Conversation with Author — April 1, 1972, Sydney",
+    "h1":"April 1, 1972, Sydney",
+    "title":"Conversation with Author — April 1, 1972, Sydney",
+    "description":""
+}
+---
+
 ====== Conversation with Author ======
 
 ---- dataentry spoken ----

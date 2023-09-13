@@ -1,5 +1,12 @@
-~~Title: Bg [partially recorded] — April 25, 1966, New York~~
-~~bc: April 25, 1966, New York~~
+---json
+{
+    "name":"Bg [partially recorded] — April 25, 1966, New York",
+    "h1":"April 25, 1966, New York",
+    "title":"Bg [partially recorded] — April 25, 1966, New York",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā [partially recorded] ======
 
 ---- dataentry spoken ----

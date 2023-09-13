@@ -1,5 +1,12 @@
-~~Title: Conversation with Governor — April 20, 1975, Vṛndāvana~~
-~~bc: April 20, 1975, Vṛndāvana~~
+---json
+{
+    "name":"Conversation with Governor — April 20, 1975, Vṛndāvana",
+    "h1":"April 20, 1975, Vṛndāvana",
+    "title":"Conversation with Governor — April 20, 1975, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Conversation with Governor ======
 
 ---- dataentry spoken ----

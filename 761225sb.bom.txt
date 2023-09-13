@@ -1,5 +1,12 @@
-~~Title: SB 5.5.1 — December 25, 1976, Bombay~~
-~~bc: December 25, 1976, Bombay~~
+---json
+{
+    "name":"SB 5.5.1 — December 25, 1976, Bombay",
+    "h1":"December 25, 1976, Bombay",
+    "title":"SB 5.5.1 — December 25, 1976, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.1 ======
 
 ---- dataentry spoken ----

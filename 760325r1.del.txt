@@ -1,5 +1,12 @@
-~~Title: Conversation with Newspaper Reporters — March 25, 1976, Delhi~~
-~~bc: March 25, 1976, Delhi~~
+---json
+{
+    "name":"Conversation with Newspaper Reporters — March 25, 1976, Delhi",
+    "h1":"March 25, 1976, Delhi",
+    "title":"Conversation with Newspaper Reporters — March 25, 1976, Delhi",
+    "description":""
+}
+---
+
 ====== Conversation with Newspaper Reporters ======
 
 ---- dataentry spoken ----

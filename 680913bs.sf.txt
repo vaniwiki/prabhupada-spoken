@@ -1,5 +1,12 @@
-~~Title: Śrī Brahma-saṁhitā, Verse 34 — September 13, 1968 , San Francisco~~
-~~bc: September 13, 1968 , San Francisco~~
+---json
+{
+    "name":"Śrī Brahma-saṁhitā, Verse 34 — September 13, 1968 , San Francisco",
+    "h1":"September 13, 1968 , San Francisco",
+    "title":"Śrī Brahma-saṁhitā, Verse 34 — September 13, 1968 , San Francisco",
+    "description":""
+}
+---
+
 ====== Śrī Brahma-saṁhitā, Verse 34 ======
 
 ---- dataentry spoken ----

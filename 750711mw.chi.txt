@@ -1,5 +1,12 @@
-~~Title: Morning Walk — July 11, 1975, Chicago~~
-~~bc: July 11, 1975, Chicago~~
+---json
+{
+    "name":"Morning Walk — July 11, 1975, Chicago",
+    "h1":"July 11, 1975, Chicago",
+    "title":"Morning Walk — July 11, 1975, Chicago",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Speech at Fire Yajña with South Indian Brāhmaṇas [partially recorded] — August 16, 1976, Hyderabad~~
-~~bc: August 16, 1976, Hyderabad~~
+---json
+{
+    "name":"Speech at Fire Yajña with South Indian Brāhmaṇas [partially recorded] — August 16, 1976, Hyderabad",
+    "h1":"August 16, 1976, Hyderabad",
+    "title":"Speech at Fire Yajña with South Indian Brāhmaṇas [partially recorded] — August 16, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Speech at Fire Yajña with South Indian Brāhmaṇas [partially recorded] ======
 
 ---- dataentry spoken ----

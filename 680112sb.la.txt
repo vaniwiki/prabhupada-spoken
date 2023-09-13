@@ -1,5 +1,12 @@
-~~Title: SB 1.5.4 — January 12, 1968, Los Angeles~~
-~~bc: January 12, 1968, Los Angeles~~
+---json
+{
+    "name":"SB 1.5.4 — January 12, 1968, Los Angeles",
+    "h1":"January 12, 1968, Los Angeles",
+    "title":"SB 1.5.4 — January 12, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.5.4 ======
 
 ---- dataentry spoken ----

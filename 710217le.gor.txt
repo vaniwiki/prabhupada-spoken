@@ -1,5 +1,12 @@
-~~Title: Lecture — February 17, 1971, Gorakhpur~~
-~~bc: February 17, 1971, Gorakhpur~~
+---json
+{
+    "name":"Lecture — February 17, 1971, Gorakhpur",
+    "h1":"February 17, 1971, Gorakhpur",
+    "title":"Lecture — February 17, 1971, Gorakhpur",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Lecture [partially recorded] — August 13, 1971, London~~
-~~bc: August 13, 1971, London~~
+---json
+{
+    "name":"Lecture [partially recorded] — August 13, 1971, London",
+    "h1":"August 13, 1971, London",
+    "title":"Lecture [partially recorded] — August 13, 1971, London",
+    "description":""
+}
+---
+
 ====== Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

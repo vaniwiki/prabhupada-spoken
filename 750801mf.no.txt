@@ -1,5 +1,12 @@
-~~Title: Walk Around Farm — August 1, 1975, New Orleans~~
-~~bc: August 1, 1975, New Orleans~~
+---json
+{
+    "name":"Walk Around Farm — August 1, 1975, New Orleans",
+    "h1":"August 1, 1975, New Orleans",
+    "title":"Walk Around Farm — August 1, 1975, New Orleans",
+    "description":""
+}
+---
+
 ====== Walk Around Farm ======
 
 ---- dataentry spoken ----

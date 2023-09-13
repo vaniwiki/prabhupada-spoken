@@ -1,5 +1,12 @@
-~~Title: Bg 13.22-24 — June 25, 1974, Melbourne~~
-~~bc: June 25, 1974, Melbourne~~
+---json
+{
+    "name":"Bg 13.22-24 — June 25, 1974, Melbourne",
+    "h1":"June 25, 1974, Melbourne",
+    "title":"Bg 13.22-24 — June 25, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.22–24 ======
 
 ---- dataentry spoken ----

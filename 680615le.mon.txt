@@ -1,5 +1,12 @@
-~~Title: Lecture Engagement — June 15, 1968, Montreal~~
-~~bc: June 15, 1968, Montreal~~
+---json
+{
+    "name":"Lecture Engagement — June 15, 1968, Montreal",
+    "h1":"June 15, 1968, Montreal",
+    "title":"Lecture Engagement — June 15, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Lecture Engagement ======
 
 ---- dataentry spoken ----

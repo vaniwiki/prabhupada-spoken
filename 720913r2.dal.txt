@@ -1,5 +1,12 @@
-~~Title: Room Conversation — September 13, 1972, Dallas~~
-~~bc: September 13, 1972, Dallas~~
+---json
+{
+    "name":"Room Conversation — September 13, 1972, Dallas",
+    "h1":"September 13, 1972, Dallas",
+    "title":"Room Conversation — September 13, 1972, Dallas",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Police Officer — August 30, 1973, London~~
-~~bc: August 30, 1973, London~~
+---json
+{
+    "name":"Room Conversation with Police Officer — August 30, 1973, London",
+    "h1":"August 30, 1973, London",
+    "title":"Room Conversation with Police Officer — August 30, 1973, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with Police Officer ======
 
 ---- dataentry spoken ----

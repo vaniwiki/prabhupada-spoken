@@ -1,5 +1,12 @@
-~~Title: SB 1.2.9 University Lecture — August 3, 1975, Detroit~~
-~~bc: August 3, 1975, Detroit~~
+---json
+{
+    "name":"SB 1.2.9 University Lecture — August 3, 1975, Detroit",
+    "h1":"August 3, 1975, Detroit",
+    "title":"SB 1.2.9 University Lecture — August 3, 1975, Detroit",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.9 University Lecture ======
 
 ---- dataentry spoken ----

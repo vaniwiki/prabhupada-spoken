@@ -1,5 +1,12 @@
-~~Title: Conversation Including Śrīmad-Bhāgavatam 1.2.1-34 Recitation & Explanation — April 1, 1969, San Francisco~~
-~~bc: April 1, 1969, San Francisco~~
+---json
+{
+    "name":"Conversation Including Śrīmad-Bhāgavatam 1.2.1-34 Recitation & Explanation — April 1, 1969, San Francisco",
+    "h1":"April 1, 1969, San Francisco",
+    "title":"Conversation Including Śrīmad-Bhāgavatam 1.2.1-34 Recitation & Explanation — April 1, 1969, San Francisco",
+    "description":""
+}
+---
+
 ====== Conversation Including Śrīmad-Bhāgavatam 1.2.1–34 Recitation & Explanation ======
 
 ---- dataentry spoken ----

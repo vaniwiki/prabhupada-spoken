@@ -1,5 +1,12 @@
-~~Title: SB 6.1.19 and Conversation — November 15, 1970, Bombay~~
-~~bc: November 15, 1970, Bombay~~
+---json
+{
+    "name":"SB 6.1.19 and Conversation — November 15, 1970, Bombay",
+    "h1":"November 15, 1970, Bombay",
+    "title":"SB 6.1.19 and Conversation — November 15, 1970, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.19 and Conversation ======
 
 ---- dataentry spoken ----

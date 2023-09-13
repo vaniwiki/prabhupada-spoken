@@ -1,5 +1,12 @@
-~~Title: Conversation with Devotees — August 15, 1968, Montreal~~
-~~bc: August 15, 1968, Montreal~~
+---json
+{
+    "name":"Conversation with Devotees — August 15, 1968, Montreal",
+    "h1":"August 15, 1968, Montreal",
+    "title":"Conversation with Devotees — August 15, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Conversation with Devotees ======
 
 ---- dataentry spoken ----

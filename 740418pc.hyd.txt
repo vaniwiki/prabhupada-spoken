@@ -1,5 +1,12 @@
-~~Title: Press Conference — April 18, 1974, Hyderabad~~
-~~bc: April 18, 1974, Hyderabad~~
+---json
+{
+    "name":"Press Conference — April 18, 1974, Hyderabad",
+    "h1":"April 18, 1974, Hyderabad",
+    "title":"Press Conference — April 18, 1974, Hyderabad",
+    "description":""
+}
+---
+
 ====== Press Conference ======
 
 ---- dataentry spoken ----

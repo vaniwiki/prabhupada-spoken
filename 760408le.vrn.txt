@@ -1,5 +1,12 @@
-~~Title: Lecture [Hindi] — April 8, 1976, Vṛndāvana~~
-~~bc: April 8, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Lecture [Hindi] — April 8, 1976, Vṛndāvana",
+    "h1":"April 8, 1976, Vṛndāvana",
+    "title":"Lecture [Hindi] — April 8, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Lecture [Hindi] ======
 
 ---- dataentry spoken ----

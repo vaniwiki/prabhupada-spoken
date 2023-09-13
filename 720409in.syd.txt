@@ -1,5 +1,12 @@
-~~Title: Initiations and Wedding — April 9, 1972, Sydney~~
-~~bc: April 9, 1972, Sydney~~
+---json
+{
+    "name":"Initiations and Wedding — April 9, 1972, Sydney",
+    "h1":"April 9, 1972, Sydney",
+    "title":"Initiations and Wedding — April 9, 1972, Sydney",
+    "description":""
+}
+---
+
 ====== Initiations and Wedding ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation — June 20, 1974, Germany~~
-~~bc: June 20, 1974, Germany~~
+---json
+{
+    "name":"Room Conversation — June 20, 1974, Germany",
+    "h1":"June 20, 1974, Germany",
+    "title":"Room Conversation — June 20, 1974, Germany",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

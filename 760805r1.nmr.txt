@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Professor Francois Chenique — August 5, 1976, New Māyāpur~~
-~~bc: August 5, 1976, New Māyāpur~~
+---json
+{
+    "name":"Room Conversation with Professor Francois Chenique — August 5, 1976, New Māyāpur",
+    "h1":"August 5, 1976, New Māyāpur",
+    "title":"Room Conversation with Professor Francois Chenique — August 5, 1976, New Māyāpur",
+    "description":""
+}
+---
+
 ====== Room Conversation with Professor Francois Chenique ======
 
 ---- dataentry spoken ----

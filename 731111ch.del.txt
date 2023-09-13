@@ -1,5 +1,12 @@
-~~Title: Chanting Śrīmad-Bhagavatam 5.5.6-16 — November 11, 1973, Delhi~~
-~~bc: November 11, 1973, Delhi~~
+---json
+{
+    "name":"Chanting Śrīmad-Bhagavatam 5.5.6-16 — November 11, 1973, Delhi",
+    "h1":"November 11, 1973, Delhi",
+    "title":"Chanting Śrīmad-Bhagavatam 5.5.6-16 — November 11, 1973, Delhi",
+    "description":""
+}
+---
+
 ====== Chanting Śrīmad-Bhagavatam 5.5.6–16 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 4.14 — August 6, 1974, Vṛndāvana~~
-~~bc: August 6, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Bg 4.14 — August 6, 1974, Vṛndāvana",
+    "h1":"August 6, 1974, Vṛndāvana",
+    "title":"Bg 4.14 — August 6, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 4.14 ======
 
 ---- dataentry spoken ----

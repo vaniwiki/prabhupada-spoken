@@ -1,5 +1,12 @@
-~~Title: SB 7.6.1 [Partially Recorded] — March 16, 1968, San Francisco~~
-~~bc: March 16, 1968, San Francisco~~
+---json
+{
+    "name":"SB 7.6.1 [Partially Recorded] — March 16, 1968, San Francisco",
+    "h1":"March 16, 1968, San Francisco",
+    "title":"SB 7.6.1 [Partially Recorded] — March 16, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.6.1 [Partially Recorded] ======
 
 ---- dataentry spoken ----

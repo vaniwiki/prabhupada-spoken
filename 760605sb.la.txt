@@ -1,5 +1,12 @@
-~~Title: SB 6.1.39 — June 5, 1976, Los Angeles~~
-~~bc: June 5, 1976, Los Angeles~~
+---json
+{
+    "name":"SB 6.1.39 — June 5, 1976, Los Angeles",
+    "h1":"June 5, 1976, Los Angeles",
+    "title":"SB 6.1.39 — June 5, 1976, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.39 ======
 
 ---- dataentry spoken ----

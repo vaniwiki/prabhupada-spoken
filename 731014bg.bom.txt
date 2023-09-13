@@ -1,5 +1,12 @@
-~~Title: Bg 13.20 — October 14, 1973, Bombay~~
-~~bc: October 14, 1973, Bombay~~
+---json
+{
+    "name":"Bg 13.20 — October 14, 1973, Bombay",
+    "h1":"October 14, 1973, Bombay",
+    "title":"Bg 13.20 — October 14, 1973, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.20 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 4.1 — August 24, 1968, Montreal~~
-~~bc: August 24, 1968, Montreal~~
+---json
+{
+    "name":"Bg 4.1 — August 24, 1968, Montreal",
+    "h1":"August 24, 1968, Montreal",
+    "title":"Bg 4.1 — August 24, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 4.1 ======
 
 ---- dataentry spoken ----

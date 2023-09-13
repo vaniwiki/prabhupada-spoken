@@ -1,5 +1,12 @@
-~~Title: Bg 3.25 — December 17, 1976, Hyderabad~~
-~~bc: December 17, 1976, Hyderabad~~
+---json
+{
+    "name":"Bg 3.25 — December 17, 1976, Hyderabad",
+    "h1":"December 17, 1976, Hyderabad",
+    "title":"Bg 3.25 — December 17, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.25 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Arrival Address — July 16, 1971, Detroit [Airport]~~
-~~bc: July 16, 1971, Detroit [Airport]~~
+---json
+{
+    "name":"Arrival Address — July 16, 1971, Detroit [Airport]",
+    "h1":"July 16, 1971, Detroit [Airport]",
+    "title":"Arrival Address — July 16, 1971, Detroit [Airport]",
+    "description":""
+}
+---
+
 ====== Arrival Address ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation about New Vrindavan — May 18, 1976, Honolulu~~
-~~bc: May 18, 1976, Honolulu~~
+---json
+{
+    "name":"Room Conversation about New Vrindavan — May 18, 1976, Honolulu",
+    "h1":"May 18, 1976, Honolulu",
+    "title":"Room Conversation about New Vrindavan — May 18, 1976, Honolulu",
+    "description":""
+}
+---
+
 ====== Room Conversation about New Vrindavan ======
 
 ---- dataentry spoken ----

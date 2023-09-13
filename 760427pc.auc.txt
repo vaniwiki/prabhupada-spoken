@@ -1,5 +1,12 @@
-~~Title: Press Conference — April 27, 1976, Auckland~~
-~~bc: April 27, 1976, Auckland~~
+---json
+{
+    "name":"Press Conference — April 27, 1976, Auckland",
+    "h1":"April 27, 1976, Auckland",
+    "title":"Press Conference — April 27, 1976, Auckland",
+    "description":""
+}
+---
+
 ====== Press Conference ======
 
 ---- dataentry spoken ----

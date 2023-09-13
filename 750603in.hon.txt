@@ -1,5 +1,12 @@
-~~Title: Initiation of Ambarīṣa dāsa — June 3, 1975, Honolulu~~
-~~bc: June 3, 1975, Honolulu~~
+---json
+{
+    "name":"Initiation of Ambarīṣa dāsa — June 3, 1975, Honolulu",
+    "h1":"June 3, 1975, Honolulu",
+    "title":"Initiation of Ambarīṣa dāsa — June 3, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Initiation of Ambarīṣa dāsa ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 — January 25, 1975, Hong Kong~~
-~~bc: January 25, 1975, Hong Kong~~
+---json
+{
+    "name":"Bg 7.1 — January 25, 1975, Hong Kong",
+    "h1":"January 25, 1975, Hong Kong",
+    "title":"Bg 7.1 — January 25, 1975, Hong Kong",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 ======
 
 ---- dataentry spoken ----

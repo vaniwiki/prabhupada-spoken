@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Dr. John Mize — June 23, 1975, Los Angeles~~
-~~bc: June 23, 1975, Los Angeles~~
+---json
+{
+    "name":"Room Conversation with Dr. John Mize — June 23, 1975, Los Angeles",
+    "h1":"June 23, 1975, Los Angeles",
+    "title":"Room Conversation with Dr. John Mize — June 23, 1975, Los Angeles",
+    "description":""
+}
+---
+
 ====== Room Conversation with Dr. John Mize ======
 
 ---- dataentry spoken ----

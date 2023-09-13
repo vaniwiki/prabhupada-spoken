@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 [Hindi] — October 15, 1976, Chandigarh~~
-~~bc: October 15, 1976, Chandigarh~~
+---json
+{
+    "name":"Bg 7.1 [Hindi] — October 15, 1976, Chandigarh",
+    "h1":"October 15, 1976, Chandigarh",
+    "title":"Bg 7.1 [Hindi] — October 15, 1976, Chandigarh",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 [Hindi] ======
 
 ---- dataentry spoken ----

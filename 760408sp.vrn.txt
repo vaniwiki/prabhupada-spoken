@@ -1,5 +1,12 @@
-~~Title: Speech [Hindi] — April 8, 1976, Vṛndāvana~~
-~~bc: April 8, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Speech [Hindi] — April 8, 1976, Vṛndāvana",
+    "h1":"April 8, 1976, Vṛndāvana",
+    "title":"Speech [Hindi] — April 8, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Speech [Hindi] [partially recorded] ======
 
 ---- dataentry spoken ----

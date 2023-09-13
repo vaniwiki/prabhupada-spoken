@@ -1,5 +1,12 @@
-~~Title: Room Conversation — July 31, 1975, New Orleans~~
-~~bc: July 31, 1975, New Orleans~~
+---json
+{
+    "name":"Room Conversation — July 31, 1975, New Orleans",
+    "h1":"July 31, 1975, New Orleans",
+    "title":"Room Conversation — July 31, 1975, New Orleans",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 6.1.55 — August 11, 1975, Paris~~
-~~bc: August 11, 1975, Paris~~
+---json
+{
+    "name":"SB 6.1.55 — August 11, 1975, Paris",
+    "h1":"August 11, 1975, Paris",
+    "title":"SB 6.1.55 — August 11, 1975, Paris",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.55 ======
 
 ---- dataentry spoken ----

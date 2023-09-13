@@ -1,5 +1,12 @@
-~~Title: Garden Conversation — June 25, 1972, Los Angeles~~
-~~bc: June 25, 1972, Los Angeles~~
+---json
+{
+    "name":"Garden Conversation — June 25, 1972, Los Angeles",
+    "h1":"June 25, 1972, Los Angeles",
+    "title":"Garden Conversation — June 25, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Garden Conversation ======
 
 ---- dataentry spoken ----

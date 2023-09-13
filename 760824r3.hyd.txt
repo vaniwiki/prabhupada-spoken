@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Tirupati Paṇḍita and Government Minister — August 24, 1976, Hyderabad~~
-~~bc: August 24, 1976, Hyderabad~~
+---json
+{
+    "name":"Room Conversation with Tirupati Paṇḍita and Government Minister — August 24, 1976, Hyderabad",
+    "h1":"August 24, 1976, Hyderabad",
+    "title":"Room Conversation with Tirupati Paṇḍita and Government Minister — August 24, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Room Conversation with Tirupati Paṇḍita and Government Minister ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Initiations — July 22, 1971, New York~~
-~~bc: July 22, 1971, New York~~
+---json
+{
+    "name":"Initiations — July 22, 1971, New York",
+    "h1":"July 22, 1971, New York",
+    "title":"Initiations — July 22, 1971, New York",
+    "description":""
+}
+---
+
 ====== Initiations ======
 
 ---- dataentry spoken ----

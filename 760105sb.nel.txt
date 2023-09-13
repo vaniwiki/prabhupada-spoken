@@ -1,5 +1,12 @@
-~~Title: SB 6.1.6 — January 5, 1976, Nellore~~
-~~bc: January 5, 1976, Nellore~~
+---json
+{
+    "name":"SB 6.1.6 — January 5, 1976, Nellore",
+    "h1":"January 5, 1976, Nellore",
+    "title":"SB 6.1.6 — January 5, 1976, Nellore",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.6 ======
 
 ---- dataentry spoken ----

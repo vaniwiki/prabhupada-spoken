@@ -1,5 +1,12 @@
-~~Title: Janmāṣṭamī Lecture — August 21, 1973, London~~
-~~bc: August 21, 1973, London~~
+---json
+{
+    "name":"Janmāṣṭamī Lecture — August 21, 1973, London",
+    "h1":"August 21, 1973, London",
+    "title":"Janmāṣṭamī Lecture — August 21, 1973, London",
+    "description":""
+}
+---
+
 ====== Janmāṣṭamī Lecture ======
 
 ---- dataentry spoken ----

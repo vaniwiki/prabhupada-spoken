@@ -1,5 +1,12 @@
-~~Title: Bg 3.27 at Town Hall — June 27, 1974, Melbourne~~
-~~bc: June 27, 1974, Melbourne~~
+---json
+{
+    "name":"Bg 3.27 at Town Hall — June 27, 1974, Melbourne",
+    "h1":"June 27, 1974, Melbourne",
+    "title":"Bg 3.27 at Town Hall — June 27, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.27 at Town Hall ======
 
 ---- dataentry spoken ----

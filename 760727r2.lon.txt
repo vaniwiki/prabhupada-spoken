@@ -1,5 +1,12 @@
-~~Title: Room Conversation [Hindi] — July 27, 1976, London~~
-~~bc: July 27, 1976, London~~
+---json
+{
+    "name":"Room Conversation [Hindi] — July 27, 1976, London",
+    "h1":"July 27, 1976, London",
+    "title":"Room Conversation [Hindi] — July 27, 1976, London",
+    "description":""
+}
+---
+
 ====== Room Conversation [Hindi] ======
 
 ---- dataentry spoken ----

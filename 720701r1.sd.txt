@@ -1,5 +1,12 @@
-~~Title: Room Conversation — July 1, 1972, San Diego~~
-~~bc: July 1, 1972, San Diego~~
+---json
+{
+    "name":"Room Conversation — July 1, 1972, San Diego",
+    "h1":"July 1, 1972, San Diego",
+    "title":"Room Conversation — July 1, 1972, San Diego",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

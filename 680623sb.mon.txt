@@ -1,5 +1,12 @@
-~~Title: SB 7.6.6-9 — June 23, 1968, Montreal~~
-~~bc: June 23, 1968, Montreal~~
+---json
+{
+    "name":"SB 7.6.6-9 — June 23, 1968, Montreal",
+    "h1":"June 23, 1968, Montreal",
+    "title":"SB 7.6.6-9 — June 23, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.6.6–9 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 6.1.61 — August 28, 1975, Vṛndāvana~~
-~~bc: August 28, 1975, Vṛndāvana~~
+---json
+{
+    "name":"SB 6.1.61 — August 28, 1975, Vṛndāvana",
+    "h1":"August 28, 1975, Vṛndāvana",
+    "title":"SB 6.1.61 — August 28, 1975, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.61 ======
 
 ---- dataentry spoken ----

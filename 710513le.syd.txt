@@ -1,5 +1,12 @@
-~~Title: Lecture at Wayside Chapel — May 13, 1971, Sydney~~
-~~bc: May 13, 1971, Sydney~~
+---json
+{
+    "name":"Lecture at Wayside Chapel — May 13, 1971, Sydney",
+    "h1":"May 13, 1971, Sydney",
+    "title":"Lecture at Wayside Chapel — May 13, 1971, Sydney",
+    "description":""
+}
+---
+
 ====== Lecture at Wayside Chapel ======
 
 ---- dataentry spoken ----

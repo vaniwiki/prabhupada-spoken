@@ -1,5 +1,12 @@
-~~Title: Room Conversation With John Lennon, Yoko Ono, and George Harrison — September 11, 1969, London~~
-~~bc: September 11, 1969, London~~
+---json
+{
+    "name":"Room Conversation With John Lennon, Yoko Ono, and George Harrison — September 11, 1969, London",
+    "h1":"September 11, 1969, London",
+    "title":"Room Conversation With John Lennon, Yoko Ono, and George Harrison — September 11, 1969, London",
+    "description":""
+}
+---
+
 ====== Room Conversation With John Lennon, Yoko Ono, and George Harrison ======
 
 ---- dataentry spoken ----

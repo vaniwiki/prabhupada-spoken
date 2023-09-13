@@ -1,5 +1,12 @@
-~~Title: SB 2.1.11 — August 1, 1970, Los Angeles~~
-~~bc: August 1, 1970, Los Angeles~~
+---json
+{
+    "name":"SB 2.1.11 — August 1, 1970, Los Angeles",
+    "h1":"August 1, 1970, Los Angeles",
+    "title":"SB 2.1.11 — August 1, 1970, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.1.11 ======
 
 ---- dataentry spoken ----

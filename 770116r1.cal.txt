@@ -1,5 +1,12 @@
-~~Title: Room Conversation — January 16, 1977, Calcutta~~
-~~bc: January 16, 1977, Calcutta~~
+---json
+{
+    "name":"Room Conversation — January 16, 1977, Calcutta",
+    "h1":"January 16, 1977, Calcutta",
+    "title":"Room Conversation — January 16, 1977, Calcutta",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 7.4 — October 31, 1975, Nairobi~~
-~~bc: October 31, 1975, Nairobi~~
+---json
+{
+    "name":"Bg 7.4 — October 31, 1975, Nairobi",
+    "h1":"October 31, 1975, Nairobi",
+    "title":"Bg 7.4 — October 31, 1975, Nairobi",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.4 ======
 
 ---- dataentry spoken ----

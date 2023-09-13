@@ -1,5 +1,12 @@
-~~Title: Arrival Address — August 8, 1973, Paris~~
-~~bc: August 8, 1973, Paris~~
+---json
+{
+    "name":"Arrival Address — August 8, 1973, Paris",
+    "h1":"August 8, 1973, Paris",
+    "title":"Arrival Address — August 8, 1973, Paris",
+    "description":""
+}
+---
+
 ====== Arrival Address ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Canadian Ambassador to Iran — March 13, 1975, Tehran~~
-~~bc: March 13, 1975, Tehran~~
+---json
+{
+    "name":"Room Conversation with Canadian Ambassador to Iran — March 13, 1975, Tehran",
+    "h1":"March 13, 1975, Tehran",
+    "title":"Room Conversation with Canadian Ambassador to Iran — March 13, 1975, Tehran",
+    "description":""
+}
+---
+
 ====== Room Conversation with Canadian Ambassador to Iran ======
 
 ---- dataentry spoken ----

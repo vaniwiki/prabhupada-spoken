@@ -1,5 +1,12 @@
-~~Title: Initiation Lecture — December 19, 1968, Los Angeles~~
-~~bc: December 19, 1968, Los Angeles~~
+---json
+{
+    "name":"Initiation Lecture — December 19, 1968, Los Angeles",
+    "h1":"December 19, 1968, Los Angeles",
+    "title":"Initiation Lecture — December 19, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Initiation Lecture ======
 
 ---- dataentry spoken ----

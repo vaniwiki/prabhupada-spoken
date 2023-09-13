@@ -1,5 +1,12 @@
-~~Title: Bg 4.18 — April 7, 1974, Bombay~~
-~~bc: April 7, 1974, Bombay~~
+---json
+{
+    "name":"Bg 4.18 — April 7, 1974, Bombay",
+    "h1":"April 7, 1974, Bombay",
+    "title":"Bg 4.18 — April 7, 1974, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 4.18 ======
 
 ---- dataentry spoken ----

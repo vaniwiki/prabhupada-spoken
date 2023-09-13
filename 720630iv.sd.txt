@@ -1,5 +1,12 @@
-~~Title: Interview — June 30, 1972, San Diego~~
-~~bc: June 30, 1972, San Diego~~
+---json
+{
+    "name":"Interview — June 30, 1972, San Diego",
+    "h1":"June 30, 1972, San Diego",
+    "title":"Interview — June 30, 1972, San Diego",
+    "description":""
+}
+---
+
 ====== Interview ======
 
 ---- dataentry spoken ----

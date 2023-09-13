@@ -1,5 +1,12 @@
-~~Title: Cc. Ādi 1.15 — March 4, 1975, Dallas~~
-~~bc: March 4, 1975, Dallas~~
+---json
+{
+    "name":"Cc. Ādi 1.15 — March 4, 1975, Dallas",
+    "h1":"March 4, 1975, Dallas",
+    "title":"Cc. Ādi 1.15 — March 4, 1975, Dallas",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 1.15 ======
 
 ---- dataentry spoken ----

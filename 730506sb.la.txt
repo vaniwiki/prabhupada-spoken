@@ -1,5 +1,12 @@
-~~Title: SB 1.8.44 — May 6, 1973, Los Angeles~~
-~~bc: May 6, 1973, Los Angeles~~
+---json
+{
+    "name":"SB 1.8.44 — May 6, 1973, Los Angeles",
+    "h1":"May 6, 1973, Los Angeles",
+    "title":"SB 1.8.44 — May 6, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.8.44 ======
 
 ---- dataentry spoken ----

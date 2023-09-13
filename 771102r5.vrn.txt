@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Akṣayānanda — November 2, 1977, Vṛndāvana~~
-~~bc: November 2, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation with Akṣayānanda — November 2, 1977, Vṛndāvana",
+    "h1":"November 2, 1977, Vṛndāvana",
+    "title":"Room Conversation with Akṣayānanda — November 2, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation with Akṣayānanda ======
 
 ---- dataentry spoken ----

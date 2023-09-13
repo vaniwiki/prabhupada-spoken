@@ -1,5 +1,12 @@
-~~Title: Arrival of Devotees — February 24, 1977, Māyāpur~~
-~~bc: February 24, 1977, Māyāpur~~
+---json
+{
+    "name":"Arrival of Devotees — February 24, 1977, Māyāpur",
+    "h1":"February 24, 1977, Māyāpur",
+    "title":"Arrival of Devotees — February 24, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Arrival of Devotees ======
 
 ---- dataentry spoken ----

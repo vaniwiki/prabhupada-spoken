@@ -1,5 +1,12 @@
-~~Title: Initiation Lecture — March 10, 1968, San Francisco~~
-~~bc: March 10, 1968, San Francisco~~
+---json
+{
+    "name":"Initiation Lecture — March 10, 1968, San Francisco",
+    "h1":"March 10, 1968, San Francisco",
+    "title":"Initiation Lecture — March 10, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Initiation Lecture ======
 
 ---- dataentry spoken ----

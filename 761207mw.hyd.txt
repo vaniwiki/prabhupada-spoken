@@ -1,5 +1,12 @@
-~~Title: Morning Walk — December 7, 1976, Hyderabad~~
-~~bc: December 7, 1976, Hyderabad~~
+---json
+{
+    "name":"Morning Walk — December 7, 1976, Hyderabad",
+    "h1":"December 7, 1976, Hyderabad",
+    "title":"Morning Walk — December 7, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

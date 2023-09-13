@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 6.154-155 — February 19, 1971, Gorakhpur~~
-~~bc: February 19, 1971, Gorakhpur~~
+---json
+{
+    "name":"Cc. Madhya 6.154-155 — February 19, 1971, Gorakhpur",
+    "h1":"February 19, 1971, Gorakhpur",
+    "title":"Cc. Madhya 6.154-155 — February 19, 1971, Gorakhpur",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 6.154–155 ======
 
 ---- dataentry spoken ----

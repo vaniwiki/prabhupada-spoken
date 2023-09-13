@@ -1,5 +1,12 @@
-~~Title: Bg 7.7 [with Translator] — December 27, 1975, Sanand~~
-~~bc: December 27, 1975, Sanand~~
+---json
+{
+    "name":"Bg 7.7 [with Translator] — December 27, 1975, Sanand",
+    "h1":"December 27, 1975, Sanand",
+    "title":"Bg 7.7 [with Translator] — December 27, 1975, Sanand",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.7 [with Translator] ======
 
 ---- dataentry spoken ----

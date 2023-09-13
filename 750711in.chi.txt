@@ -1,5 +1,12 @@
-~~Title: Bābājī Initiation — July 11, 1975, Chicago~~
-~~bc: July 11, 1975, Chicago~~
+---json
+{
+    "name":"Bābājī Initiation — July 11, 1975, Chicago",
+    "h1":"July 11, 1975, Chicago",
+    "title":"Bābājī Initiation — July 11, 1975, Chicago",
+    "description":""
+}
+---
+
 ====== Bābājī Initiation ======
 
 ---- dataentry spoken ----

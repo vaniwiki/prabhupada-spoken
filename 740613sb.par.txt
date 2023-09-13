@@ -1,5 +1,12 @@
-~~Title: SB 2.1.5 — June 13, 1974, Paris~~
-~~bc: June 13, 1974, Paris~~
+---json
+{
+    "name":"SB 2.1.5 — June 13, 1974, Paris",
+    "h1":"June 13, 1974, Paris",
+    "title":"SB 2.1.5 — June 13, 1974, Paris",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.1.5 ======
 
 ---- dataentry spoken ----

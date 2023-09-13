@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.98-102 — April 27, 1976, Auckland~~
-~~bc: April 27, 1976, Auckland~~
+---json
+{
+    "name":"Cc. Madhya 20.98-102 — April 27, 1976, Auckland",
+    "h1":"April 27, 1976, Auckland",
+    "title":"Cc. Madhya 20.98-102 — April 27, 1976, Auckland",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.98–102 ======
 
 ---- dataentry spoken ----

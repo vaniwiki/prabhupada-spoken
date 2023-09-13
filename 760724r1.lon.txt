@@ -1,5 +1,12 @@
-~~Title: Conversation at Bhaktivedanta Manor — July 24, 1976, London~~
-~~bc: July 24, 1976, London~~
+---json
+{
+    "name":"Conversation at Bhaktivedanta Manor — July 24, 1976, London",
+    "h1":"July 24, 1976, London",
+    "title":"Conversation at Bhaktivedanta Manor — July 24, 1976, London",
+    "description":""
+}
+---
+
 ====== Conversation at Bhaktivedanta Manor ======
 
 ---- dataentry spoken ----

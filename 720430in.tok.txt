@@ -1,5 +1,12 @@
-~~Title: SB 11.23.57, Initiations and Sannyāsa of Sudāmā — April 30, 1972, Tokyo~~
-~~bc: April 30, 1972, Tokyo~~
+---json
+{
+    "name":"SB 11.23.57, Initiations and Sannyāsa of Sudāmā — April 30, 1972, Tokyo",
+    "h1":"April 30, 1972, Tokyo",
+    "title":"SB 11.23.57, Initiations and Sannyāsa of Sudāmā — April 30, 1972, Tokyo",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 11.23.57, Initiations and Sannyāsa of Sudāmā ======
 
 ---- dataentry spoken ----

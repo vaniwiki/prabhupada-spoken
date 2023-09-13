@@ -1,5 +1,12 @@
-~~Title: Bg 13.6-7 — October 25, 1968, Montreal~~
-~~bc: October 25, 1968, Montreal~~
+---json
+{
+    "name":"Bg 13.6-7 — October 25, 1968, Montreal",
+    "h1":"October 25, 1968, Montreal",
+    "title":"Bg 13.6-7 — October 25, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.6–7 ======
 
 ---- dataentry spoken ----

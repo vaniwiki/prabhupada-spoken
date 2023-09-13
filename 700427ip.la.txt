@@ -1,5 +1,12 @@
-~~Title: Śrī Īśopaniṣad Invocation Lecture [partially recorded] — April 27, 1970, Los Angeles~~
-~~bc: April 27, 1970, Los Angeles~~
+---json
+{
+    "name":"Śrī Īśopaniṣad Invocation Lecture [partially recorded] — April 27, 1970, Los Angeles",
+    "h1":"April 27, 1970, Los Angeles",
+    "title":"Śrī Īśopaniṣad Invocation Lecture [partially recorded] — April 27, 1970, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrī Īśopaniṣad Invocation Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

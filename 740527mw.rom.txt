@@ -1,5 +1,12 @@
-~~Title: Morning Walk — May 27, 1974, Rome~~
-~~bc: May 27, 1974, Rome~~
+---json
+{
+    "name":"Morning Walk — May 27, 1974, Rome",
+    "h1":"May 27, 1974, Rome",
+    "title":"Morning Walk — May 27, 1974, Rome",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

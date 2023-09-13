@@ -1,5 +1,12 @@
-~~Title: Bg 7.4 — August 10, 1974, Vṛndāvana~~
-~~bc: August 10, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Bg 7.4 — August 10, 1974, Vṛndāvana",
+    "h1":"August 10, 1974, Vṛndāvana",
+    "title":"Bg 7.4 — August 10, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.4 ======
 
 ---- dataentry spoken ----

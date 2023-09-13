@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Two Lawyers and Photographer — May 22, 1975, Melbourne~~
-~~bc: May 22, 1975, Melbourne~~
+---json
+{
+    "name":"Room Conversation with Two Lawyers and Photographer — May 22, 1975, Melbourne",
+    "h1":"May 22, 1975, Melbourne",
+    "title":"Room Conversation with Two Lawyers and Photographer — May 22, 1975, Melbourne",
+    "description":""
+}
+---
+
 ====== Room Conversation with Two Lawyers and Photographer ======
 
 ---- dataentry spoken ----

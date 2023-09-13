@@ -1,5 +1,12 @@
-~~Title: Lecture — September 10, 1972, Dallas~~
-~~bc: September 10, 1972, Dallas~~
+---json
+{
+    "name":"Lecture — September 10, 1972, Dallas",
+    "h1":"September 10, 1972, Dallas",
+    "title":"Lecture — September 10, 1972, Dallas",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.8.18-19 — April 9, 1971, Bombay~~
-~~bc: April 9, 1971, Bombay~~
+---json
+{
+    "name":"SB 1.8.18-19 — April 9, 1971, Bombay",
+    "h1":"April 9, 1971, Bombay",
+    "title":"SB 1.8.18-19 — April 9, 1971, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.8.18–19 ======
 
 ---- dataentry spoken ----

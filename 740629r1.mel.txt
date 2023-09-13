@@ -1,5 +1,12 @@
-~~Title: Room Conversation — June 29, 1974, Melbourne~~
-~~bc: June 29, 1974, Melbourne~~
+---json
+{
+    "name":"Room Conversation — June 29, 1974, Melbourne",
+    "h1":"June 29, 1974, Melbourne",
+    "title":"Room Conversation — June 29, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

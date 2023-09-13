@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Lt. Mozee, Policeman — July 5, 1975, Chicago~~
-~~bc: July 5, 1975, Chicago~~
+---json
+{
+    "name":"Room Conversation with Lt. Mozee, Policeman — July 5, 1975, Chicago",
+    "h1":"July 5, 1975, Chicago",
+    "title":"Room Conversation with Lt. Mozee, Policeman — July 5, 1975, Chicago",
+    "description":""
+}
+---
+
 ====== Room Conversation with Lt. Mozee, Policeman ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 25.29 — January 21, 1967, San Francisco~~
-~~bc: January 21, 1967, San Francisco~~
+---json
+{
+    "name":"Cc. Madhya 25.29 — January 21, 1967, San Francisco",
+    "h1":"January 21, 1967, San Francisco",
+    "title":"Cc. Madhya 25.29 — January 21, 1967, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 25.29 ======
 
 ---- dataentry spoken ----

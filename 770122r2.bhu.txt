@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Sannyāsīs — January 22, 1977, Bhubaneswar~~
-~~bc: January 22, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Room Conversation with Sannyāsīs — January 22, 1977, Bhubaneswar",
+    "h1":"January 22, 1977, Bhubaneswar",
+    "title":"Room Conversation with Sannyāsīs — January 22, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Room Conversation with Sannyāsīs ======
 
 ---- dataentry spoken ----

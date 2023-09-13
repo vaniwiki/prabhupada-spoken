@@ -1,5 +1,12 @@
-~~Title: Car Conversation after meeting with Cardinal Danielou — August 9, 1973, Paris~~
-~~bc: August 9, 1973, Paris~~
+---json
+{
+    "name":"Car Conversation after meeting with Cardinal Danielou — August 9, 1973, Paris",
+    "h1":"August 9, 1973, Paris",
+    "title":"Car Conversation after meeting with Cardinal Danielou — August 9, 1973, Paris",
+    "description":""
+}
+---
+
 ====== Car Conversation after meeting with Cardinal Danielou ======
 
 ---- dataentry spoken ----

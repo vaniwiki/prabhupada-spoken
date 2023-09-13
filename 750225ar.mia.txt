@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — February 25, 1975, Miami~~
-~~bc: February 25, 1975, Miami~~
+---json
+{
+    "name":"Arrival Lecture — February 25, 1975, Miami",
+    "h1":"February 25, 1975, Miami",
+    "title":"Arrival Lecture — February 25, 1975, Miami",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

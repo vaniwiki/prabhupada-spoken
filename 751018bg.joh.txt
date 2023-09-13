@@ -1,5 +1,12 @@
-~~Title: Bg 16.6 — October 18, 1975, Johannesburg~~
-~~bc: October 18, 1975, Johannesburg~~
+---json
+{
+    "name":"Bg 16.6 — October 18, 1975, Johannesburg",
+    "h1":"October 18, 1975, Johannesburg",
+    "title":"Bg 16.6 — October 18, 1975, Johannesburg",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 16.6 ======
 
 ---- dataentry spoken ----

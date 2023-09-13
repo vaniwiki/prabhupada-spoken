@@ -1,5 +1,12 @@
-~~Title: SB 6.1.52 — August 5, 1975, Detroit~~
-~~bc: August 5, 1975, Detroit~~
+---json
+{
+    "name":"SB 6.1.52 — August 5, 1975, Detroit",
+    "h1":"August 5, 1975, Detroit",
+    "title":"SB 6.1.52 — August 5, 1975, Detroit",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.52 ======
 
 ---- dataentry spoken ----

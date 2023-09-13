@@ -1,5 +1,12 @@
-~~Title: Evening Darśana — December 3, 1976, Hyderabad~~
-~~bc: December 3, 1976, Hyderabad~~
+---json
+{
+    "name":"Evening Darśana — December 3, 1976, Hyderabad",
+    "h1":"December 3, 1976, Hyderabad",
+    "title":"Evening Darśana — December 3, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Evening Darśana ======
 
 ---- dataentry spoken ----

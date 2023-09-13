@@ -1,5 +1,12 @@
-~~Title: Interview with Reporters — August 6, 1973, London~~
-~~bc: August 6, 1973, London~~
+---json
+{
+    "name":"Interview with Reporters — August 6, 1973, London",
+    "h1":"August 6, 1973, London",
+    "title":"Interview with Reporters — August 6, 1973, London",
+    "description":""
+}
+---
+
 ====== Interview with Reporters ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Arrival Conversation in Car and at Temple — August 13, 1976, Bombay~~
-~~bc: August 13, 1976, Bombay~~
+---json
+{
+    "name":"Arrival Conversation in Car and at Temple — August 13, 1976, Bombay",
+    "h1":"August 13, 1976, Bombay",
+    "title":"Arrival Conversation in Car and at Temple — August 13, 1976, Bombay",
+    "description":""
+}
+---
+
 ====== Arrival Conversation in Car and at Temple ======
 
 ---- dataentry spoken ----

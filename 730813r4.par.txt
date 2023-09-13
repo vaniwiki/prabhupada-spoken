@@ -1,5 +1,12 @@
-~~Title: Room Conversation with French Nun — August 13, 1973, Paris~~
-~~bc: August 13, 1973, Paris~~
+---json
+{
+    "name":"Room Conversation with French Nun — August 13, 1973, Paris",
+    "h1":"August 13, 1973, Paris",
+    "title":"Room Conversation with French Nun — August 13, 1973, Paris",
+    "description":""
+}
+---
+
 ====== Room Conversation with French Nun ======
 
 ---- dataentry spoken ----

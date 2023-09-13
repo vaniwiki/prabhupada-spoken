@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — July 20, 1972, Paris~~
-~~bc: July 20, 1972, Paris~~
+---json
+{
+    "name":"Arrival Lecture — July 20, 1972, Paris",
+    "h1":"July 20, 1972, Paris",
+    "title":"Arrival Lecture — July 20, 1972, Paris",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

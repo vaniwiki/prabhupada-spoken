@@ -1,5 +1,12 @@
-~~Title: Room Conversation — September 9, 1969, Hamburg~~
-~~bc: September 9, 1969, Hamburg~~
+---json
+{
+    "name":"Room Conversation — September 9, 1969, Hamburg",
+    "h1":"September 9, 1969, Hamburg",
+    "title":"Room Conversation — September 9, 1969, Hamburg",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

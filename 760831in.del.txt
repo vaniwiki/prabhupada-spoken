@@ -1,5 +1,12 @@
-~~Title: Initiations — August 31, 1976, Delhi~~
-~~bc: August 31, 1976, Delhi~~
+---json
+{
+    "name":"Initiations — August 31, 1976, Delhi",
+    "h1":"August 31, 1976, Delhi",
+    "title":"Initiations — August 31, 1976, Delhi",
+    "description":""
+}
+---
+
 ====== Initiations ======
 
 ---- dataentry spoken ----

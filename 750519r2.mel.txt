@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Jesuit — May 19, 1975, Melbourne~~
-~~bc: May 19, 1975, Melbourne~~
+---json
+{
+    "name":"Room Conversation with Jesuit — May 19, 1975, Melbourne",
+    "h1":"May 19, 1975, Melbourne",
+    "title":"Room Conversation with Jesuit — May 19, 1975, Melbourne",
+    "description":""
+}
+---
+
 ====== Room Conversation with Jesuit ======
 
 ---- dataentry spoken ----

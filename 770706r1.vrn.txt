@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Vrindavan De — July 5, 1977, Vṛndāvana~~
-~~bc: July 5, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation with Vrindavan De — July 5, 1977, Vṛndāvana",
+    "h1":"July 5, 1977, Vṛndāvana",
+    "title":"Room Conversation with Vrindavan De — July 5, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation with Vrindavan De ======
 
 ---- dataentry spoken ----

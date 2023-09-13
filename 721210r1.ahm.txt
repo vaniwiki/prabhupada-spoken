@@ -1,5 +1,12 @@
-~~Title: Room Conversation [Hindi] — December 10, 1972, Ahmedabad~~
-~~bc: December 10, 1972, Ahmedabad~~
+---json
+{
+    "name":"Room Conversation [Hindi] — December 10, 1972, Ahmedabad",
+    "h1":"December 10, 1972, Ahmedabad",
+    "title":"Room Conversation [Hindi] — December 10, 1972, Ahmedabad",
+    "description":""
+}
+---
+
 ====== Room Conversation [Hindi] ======
 
 ---- dataentry spoken ----

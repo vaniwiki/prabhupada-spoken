@@ -1,5 +1,12 @@
-~~Title: Bg 9.4-6 — March 9, 1972, Calcutta~~
-~~bc: March 9, 1972, Calcutta~~
+---json
+{
+    "name":"Bg 9.4-6 — March 9, 1972, Calcutta",
+    "h1":"March 9, 1972, Calcutta",
+    "title":"Bg 9.4-6 — March 9, 1972, Calcutta",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 9.4–6 ======
 
 ---- dataentry spoken ----

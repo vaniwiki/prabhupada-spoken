@@ -1,5 +1,12 @@
-~~Title: Conversation with Tamāla Kṛṣṇa about Yadubara — April 22, 1977, Bombay~~
-~~bc: April 22, 1977, Bombay~~
+---json
+{
+    "name":"Conversation with Tamāla Kṛṣṇa about Yadubara — April 22, 1977, Bombay",
+    "h1":"April 22, 1977, Bombay",
+    "title":"Conversation with Tamāla Kṛṣṇa about Yadubara — April 22, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation with Tamāla Kṛṣṇa about Yadubara ======
 
 ---- dataentry spoken ----

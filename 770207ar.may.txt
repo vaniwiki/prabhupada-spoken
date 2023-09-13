@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — February 7, 1977, Māyāpur~~
-~~bc: February 7, 1977, Māyāpur~~
+---json
+{
+    "name":"Arrival Lecture — February 7, 1977, Māyāpur",
+    "h1":"February 7, 1977, Māyāpur",
+    "title":"Arrival Lecture — February 7, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

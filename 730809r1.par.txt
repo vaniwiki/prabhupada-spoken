@@ -1,5 +1,12 @@
-~~Title: Room Conversation with German and Haṁsadūta — August 9, 1973, Paris~~
-~~bc: August 9, 1973, Paris~~
+---json
+{
+    "name":"Room Conversation with German and Haṁsadūta — August 9, 1973, Paris",
+    "h1":"August 9, 1973, Paris",
+    "title":"Room Conversation with German and Haṁsadūta — August 9, 1973, Paris",
+    "description":""
+}
+---
+
 ====== Room Conversation with German and Haṁsadūta ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation — April 20, 1972, Hong Kong~~
-~~bc: April 20, 1972, Hong Kong~~
+---json
+{
+    "name":"Room Conversation — April 20, 1972, Hong Kong",
+    "h1":"April 20, 1972, Hong Kong",
+    "title":"Room Conversation — April 20, 1972, Hong Kong",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

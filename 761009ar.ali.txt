@@ -1,5 +1,12 @@
-~~Title: Arrival Talk — October 9, 1976, Aligarh~~
-~~bc: October 9, 1976, Aligarh~~
+---json
+{
+    "name":"Arrival Talk — October 9, 1976, Aligarh",
+    "h1":"October 9, 1976, Aligarh",
+    "title":"Arrival Talk — October 9, 1976, Aligarh",
+    "description":""
+}
+---
+
 ====== Arrival Talk ======
 
 ---- dataentry spoken ----

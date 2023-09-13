@@ -1,5 +1,12 @@
-~~Title: Room Conversation Hindi and English — February 26, 1973, Jakarta~~
-~~bc: February 26, 1973, Jakarta~~
+---json
+{
+    "name":"Room Conversation Hindi and English — February 26, 1973, Jakarta",
+    "h1":"February 26, 1973, Jakarta",
+    "title":"Room Conversation Hindi and English — February 26, 1973, Jakarta",
+    "description":""
+}
+---
+
 ====== Room Conversation Hindi and English ======
 
 ---- dataentry spoken ----

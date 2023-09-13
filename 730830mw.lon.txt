@@ -1,5 +1,12 @@
-~~Title: Morning Walk — August 30, 1973, London~~
-~~bc: August 30, 1973, London~~
+---json
+{
+    "name":"Morning Walk — August 30, 1973, London",
+    "h1":"August 30, 1973, London",
+    "title":"Morning Walk — August 30, 1973, London",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

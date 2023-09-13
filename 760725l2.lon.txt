@@ -1,5 +1,12 @@
-~~Title: Sunday Feast Lecture — July 25, 1976, London~~
-~~bc: July 25, 1976, London~~
+---json
+{
+    "name":"Sunday Feast Lecture — July 25, 1976, London",
+    "h1":"July 25, 1976, London",
+    "title":"Sunday Feast Lecture — July 25, 1976, London",
+    "description":""
+}
+---
+
 ====== Sunday Feast Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Guest — July 11, 1973, London~~
-~~bc: July 11, 1973, London~~
+---json
+{
+    "name":"Room Conversation with Guest — July 11, 1973, London",
+    "h1":"July 11, 1973, London",
+    "title":"Room Conversation with Guest — July 11, 1973, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with Guest ======
 
 ---- dataentry spoken ----

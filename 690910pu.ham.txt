@@ -1,5 +1,12 @@
-~~Title: Purport to Hari Hari Biphale — September 10, 1969, Hamburg~~
-~~bc: September 10, 1969, Hamburg~~
+---json
+{
+    "name":"Purport to Hari Hari Biphale — September 10, 1969, Hamburg",
+    "h1":"September 10, 1969, Hamburg",
+    "title":"Purport to Hari Hari Biphale — September 10, 1969, Hamburg",
+    "description":""
+}
+---
+
 ====== Purport to Hari Hari Biphale ======
 
 ---- dataentry spoken ----

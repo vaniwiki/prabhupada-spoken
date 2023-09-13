@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — February 4, 1977, Calcutta~~
-~~bc: February 4, 1977, Calcutta~~
+---json
+{
+    "name":"Arrival Lecture — February 4, 1977, Calcutta",
+    "h1":"February 4, 1977, Calcutta",
+    "title":"Arrival Lecture — February 4, 1977, Calcutta",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

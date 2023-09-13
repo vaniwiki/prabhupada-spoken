@@ -1,5 +1,12 @@
-~~Title: Recording of TV Interview [partially recorded] — April 20, 1976, Melbourne~~
-~~bc: April 20, 1976, Melbourne~~
+---json
+{
+    "name":"Recording of TV Interview [partially recorded] — April 20, 1976, Melbourne",
+    "h1":"April 20, 1976, Melbourne",
+    "title":"Recording of TV Interview [partially recorded] — April 20, 1976, Melbourne",
+    "description":""
+}
+---
+
 ====== Recording of TV Interview [partially recorded] ======
 
 ---- dataentry spoken ----

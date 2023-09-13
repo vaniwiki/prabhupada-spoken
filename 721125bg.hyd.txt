@@ -1,5 +1,12 @@
-~~Title: Bg 2.20 — November 25, 1972, Hyderabad~~
-~~bc: November 25, 1972, Hyderabad~~
+---json
+{
+    "name":"Bg 2.20 — November 25, 1972, Hyderabad",
+    "h1":"November 25, 1972, Hyderabad",
+    "title":"Bg 2.20 — November 25, 1972, Hyderabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.20 ======
 
 ---- dataentry spoken ----

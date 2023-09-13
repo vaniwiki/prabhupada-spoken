@@ -1,5 +1,12 @@
-~~Title: SB 7.6.17-18 — July 1, 1976, New Vrindavan~~
-~~bc: July 1, 1976, New Vrindavan~~
+---json
+{
+    "name":"SB 7.6.17-18 — July 1, 1976, New Vrindavan",
+    "h1":"July 1, 1976, New Vrindavan",
+    "title":"SB 7.6.17-18 — July 1, 1976, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.6.17–18 ======
 
 ---- dataentry spoken ----

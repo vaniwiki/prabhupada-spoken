@@ -1,5 +1,12 @@
-~~Title: Cc. Ādi 7.149-171 — March 18, 1967, San Francisco~~
-~~bc: March 18, 1967, San Francisco~~
+---json
+{
+    "name":"Cc. Ādi 7.149-171 — March 18, 1967, San Francisco",
+    "h1":"March 18, 1967, San Francisco",
+    "title":"Cc. Ādi 7.149-171 — March 18, 1967, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 7.149–171 ======
 
 ---- dataentry spoken ----

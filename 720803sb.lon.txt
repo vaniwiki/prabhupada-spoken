@@ -1,5 +1,12 @@
-~~Title: SB 5.5.1, Engagement — August 3, 1972, London~~
-~~bc: August 3, 1972, London~~
+---json
+{
+    "name":"SB 5.5.1, Engagement — August 3, 1972, London",
+    "h1":"August 3, 1972, London",
+    "title":"SB 5.5.1, Engagement — August 3, 1972, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.1, Engagement ======
 
 ---- dataentry spoken ----

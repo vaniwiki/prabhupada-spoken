@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Svarūpa Dāmodara — January 30, 1977, Bhubaneswar~~
-~~bc: January 30, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Room Conversation with Svarūpa Dāmodara — January 30, 1977, Bhubaneswar",
+    "h1":"January 30, 1977, Bhubaneswar",
+    "title":"Room Conversation with Svarūpa Dāmodara — January 30, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Room Conversation with Svarūpa Dāmodara ======
 
 ---- dataentry spoken ----

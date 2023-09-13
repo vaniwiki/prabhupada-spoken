@@ -1,5 +1,12 @@
-~~Title: Interview with Jackie Vaughn, State Representative — June 12, 1976, Detroit~~
-~~bc: June 12, 1976, Detroit~~
+---json
+{
+    "name":"Interview with Jackie Vaughn, State Representative — June 12, 1976, Detroit",
+    "h1":"June 12, 1976, Detroit",
+    "title":"Interview with Jackie Vaughn, State Representative — June 12, 1976, Detroit",
+    "description":""
+}
+---
+
 ====== Interview with Jackie Vaughn, State Representative ======
 
 ---- dataentry spoken ----

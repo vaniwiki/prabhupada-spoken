@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.106 — July 12, 1976, New York~~
-~~bc: July 12, 1976, New York~~
+---json
+{
+    "name":"Cc. Madhya 20.106 — July 12, 1976, New York",
+    "h1":"July 12, 1976, New York",
+    "title":"Cc. Madhya 20.106 — July 12, 1976, New York",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.106 ======
 
 ---- dataentry spoken ----

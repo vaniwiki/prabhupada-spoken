@@ -1,5 +1,12 @@
-~~Title: Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture — December 9, 1968, Los Angeles~~
-~~bc: December 9, 1968, Los Angeles~~
+---json
+{
+    "name":"Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture — December 9, 1968, Los Angeles",
+    "h1":"December 9, 1968, Los Angeles",
+    "title":"Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture — December 9, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture ======
 
 ---- dataentry spoken ----

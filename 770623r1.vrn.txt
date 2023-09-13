@@ -1,5 +1,12 @@
-~~Title: Morning Conversation — June 23, 1977, Vṛndāvana~~
-~~bc: June 23, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Morning Conversation — June 23, 1977, Vṛndāvana",
+    "h1":"June 23, 1977, Vṛndāvana",
+    "title":"Morning Conversation — June 23, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Morning Conversation ======
 
 ---- dataentry spoken ----

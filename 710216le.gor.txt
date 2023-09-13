@@ -1,5 +1,12 @@
-~~Title: Lecture at Kṛṣṇa Niketan — February 16, 1971, Gorakhpur~~
-~~bc: February 16, 1971, Gorakhpur~~
+---json
+{
+    "name":"Lecture at Kṛṣṇa Niketan — February 16, 1971, Gorakhpur",
+    "h1":"February 16, 1971, Gorakhpur",
+    "title":"Lecture at Kṛṣṇa Niketan — February 16, 1971, Gorakhpur",
+    "description":""
+}
+---
+
 ====== Lecture at Kṛṣṇa Niketan ======
 
 ---- dataentry spoken ----

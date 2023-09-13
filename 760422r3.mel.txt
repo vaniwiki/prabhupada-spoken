@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Guests — April 22, 1976, Melbourne~~
-~~bc: April 22, 1976, Melbourne~~
+---json
+{
+    "name":"Room Conversation with Guests — April 22, 1976, Melbourne",
+    "h1":"April 22, 1976, Melbourne",
+    "title":"Room Conversation with Guests — April 22, 1976, Melbourne",
+    "description":""
+}
+---
+
 ====== Room Conversation with Guests ======
 
 ---- dataentry spoken ----

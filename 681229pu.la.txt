@@ -1,5 +1,12 @@
-~~Title: Purport to Gaurāṅga Bolite Habe — December 29, 1968, Los Angeles~~
-~~bc: December 29, 1968, Los Angeles~~
+---json
+{
+    "name":"Purport to Gaurāṅga Bolite Habe — December 29, 1968, Los Angeles",
+    "h1":"December 29, 1968, Los Angeles",
+    "title":"Purport to Gaurāṅga Bolite Habe — December 29, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Purport to Gaurāṅga Bolite Habe ======
 
 ---- dataentry spoken ----

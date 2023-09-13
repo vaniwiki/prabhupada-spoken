@@ -1,5 +1,12 @@
-~~Title: Room Conversation [partially recorded] — August 9, 1971, London~~
-~~bc: August 9, 1971, London~~
+---json
+{
+    "name":"Room Conversation [partially recorded] — August 9, 1971, London",
+    "h1":"August 9, 1971, London",
+    "title":"Room Conversation [partially recorded] — August 9, 1971, London",
+    "description":""
+}
+---
+
 ====== Room Conversation [partially recorded] ======
 
 ---- dataentry spoken ----

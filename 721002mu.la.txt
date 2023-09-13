@@ -1,5 +1,12 @@
-~~Title: Āmār Jīvan with Purport — October 2, 1972, Los Angeles~~
-~~bc: October 2, 1972, Los Angeles~~
+---json
+{
+    "name":"Āmār Jīvan with Purport — October 2, 1972, Los Angeles",
+    "h1":"October 2, 1972, Los Angeles",
+    "title":"Āmār Jīvan with Purport — October 2, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Āmār Jīvan with Purport ======
 
 ---- dataentry spoken ----

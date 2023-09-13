@@ -1,5 +1,12 @@
-~~Title: SB 1.2.5 — October 9, 1976, Aligarh~~
-~~bc: October 9, 1976, Aligarh~~
+---json
+{
+    "name":"SB 1.2.5 — October 9, 1976, Aligarh",
+    "h1":"October 9, 1976, Aligarh",
+    "title":"SB 1.2.5 — October 9, 1976, Aligarh",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.5 ======
 
 ---- dataentry spoken ----

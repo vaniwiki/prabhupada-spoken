@@ -1,5 +1,12 @@
-~~Title: SB 6.1.58 [Hindi] — August 19, 1975, Bombay~~
-~~bc: August 19, 1975, Bombay~~
+---json
+{
+    "name":"SB 6.1.58 [Hindi] — August 19, 1975, Bombay",
+    "h1":"August 19, 1975, Bombay",
+    "title":"SB 6.1.58 [Hindi] — August 19, 1975, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.58 [Hindi] ======
 
 ---- dataentry spoken ----

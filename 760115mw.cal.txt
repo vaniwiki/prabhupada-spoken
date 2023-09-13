@@ -1,5 +1,12 @@
-~~Title: Morning Walk — January 15, 1976, Calcutta~~
-~~bc: January 15, 1976, Calcutta~~
+---json
+{
+    "name":"Morning Walk — January 15, 1976, Calcutta",
+    "h1":"January 15, 1976, Calcutta",
+    "title":"Morning Walk — January 15, 1976, Calcutta",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

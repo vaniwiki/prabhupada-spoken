@@ -1,5 +1,12 @@
-~~Title: SB 12.2.1 — March 18, 1968, San Francisco~~
-~~bc: March 18, 1968, San Francisco~~
+---json
+{
+    "name":"SB 12.2.1 — March 18, 1968, San Francisco",
+    "h1":"March 18, 1968, San Francisco",
+    "title":"SB 12.2.1 — March 18, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 12.2.1 ======
 
 ---- dataentry spoken ----

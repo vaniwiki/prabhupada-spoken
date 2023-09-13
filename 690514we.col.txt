@@ -1,5 +1,12 @@
-~~Title: Initiation & Wedding — May 14, 1969, Columbus~~
-~~bc: May 14, 1969, Columbus~~
+---json
+{
+    "name":"Initiation & Wedding — May 14, 1969, Columbus",
+    "h1":"May 14, 1969, Columbus",
+    "title":"Initiation & Wedding — May 14, 1969, Columbus",
+    "description":""
+}
+---
+
 ====== Initiation of Śrī-Caitanya dāsa and Wedding of Pradyumna and Arundhatī ======
 
 ---- dataentry spoken ----

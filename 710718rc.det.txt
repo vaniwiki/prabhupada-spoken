@@ -1,5 +1,12 @@
-~~Title: Room Conversation — July 18, 1971, Detroit~~
-~~bc: July 18, 1971, Detroit~~
+---json
+{
+    "name":"Room Conversation — July 18, 1971, Detroit",
+    "h1":"July 18, 1971, Detroit",
+    "title":"Room Conversation — July 18, 1971, Detroit",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

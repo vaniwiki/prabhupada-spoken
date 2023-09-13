@@ -1,5 +1,12 @@
-~~Title: Rādhāṣṭamī — August 30, 1968, Montreal~~
-~~bc: August 30, 1968, Montreal~~
+---json
+{
+    "name":"Rādhāṣṭamī — August 30, 1968, Montreal",
+    "h1":"August 30, 1968, Montreal",
+    "title":"Rādhāṣṭamī — August 30, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Rādhāṣṭamī, Śrīmatī Rādhārāṇī’s Appearance Day ======
 
 ---- dataentry spoken ----

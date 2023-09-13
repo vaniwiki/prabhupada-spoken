@@ -1,5 +1,12 @@
-~~Title: Bg 1.32-35 — July 25, 1973, London~~
-~~bc: July 25, 1973, London~~
+---json
+{
+    "name":"Bg 1.32-35 — July 25, 1973, London",
+    "h1":"July 25, 1973, London",
+    "title":"Bg 1.32-35 — July 25, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 1.32–35 ======
 
 ---- dataentry spoken ----

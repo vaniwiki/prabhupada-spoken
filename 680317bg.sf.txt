@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 — March 17, 1968, San Francisco~~
-~~bc: March 17, 1968, San Francisco~~
+---json
+{
+    "name":"Bg 7.1 — March 17, 1968, San Francisco",
+    "h1":"March 17, 1968, San Francisco",
+    "title":"Bg 7.1 — March 17, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 ======
 
 ---- dataentry spoken ----

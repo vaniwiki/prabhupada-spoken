@@ -1,5 +1,12 @@
-~~Title: SB 1.7.7 — April 24, 1975, Vṛndāvana~~
-~~bc: April 24, 1975, Vṛndāvana~~
+---json
+{
+    "name":"SB 1.7.7 — April 24, 1975, Vṛndāvana",
+    "h1":"April 24, 1975, Vṛndāvana",
+    "title":"SB 1.7.7 — April 24, 1975, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.7.7 ======
 
 ---- dataentry spoken ----

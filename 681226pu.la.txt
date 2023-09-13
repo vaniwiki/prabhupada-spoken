@@ -1,6 +1,13 @@
 ~~bc:December 26, 1968, Los Angeles~~
-~~Title: Purport & Explanation to Hari Hari Biphale — December 26, 1968, Los Angeles~~
-~~bc: December 26, 1968, Los Angeles~~
+---json
+{
+    "name":"Purport & Explanation to Hari Hari Biphale — December 26, 1968, Los Angeles",
+    "h1":"December 26, 1968, Los Angeles",
+    "title":"Purport & Explanation to Hari Hari Biphale — December 26, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Purport & Explanation to Hari Hari Biphale ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Śrīmad Bhagavatam Dictations 10.14.1 — October 31, 1977, Vṛndāvana~~
-~~bc: October 31, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Śrīmad Bhagavatam Dictations 10.14.1 — October 31, 1977, Vṛndāvana",
+    "h1":"October 31, 1977, Vṛndāvana",
+    "title":"Śrīmad Bhagavatam Dictations 10.14.1 — October 31, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad Bhagavatam Dictations 10.14.1 ======
 
 ---- dataentry spoken ----

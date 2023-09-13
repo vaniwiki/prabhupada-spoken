@@ -1,5 +1,12 @@
-~~Title: Bg 2.11 — August 17, 1973, London~~
-~~bc: August 17, 1973, London~~
+---json
+{
+    "name":"Bg 2.11 — August 17, 1973, London",
+    "h1":"August 17, 1973, London",
+    "title":"Bg 2.11 — August 17, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.11 ======
 
 ---- dataentry spoken ----

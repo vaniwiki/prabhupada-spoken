@@ -1,5 +1,12 @@
-~~Title: Morning Conversation About Newspaper Articles — April 11, 1977, Bombay~~
-~~bc: April 11, 1977, Bombay~~
+---json
+{
+    "name":"Morning Conversation About Newspaper Articles — April 11, 1977, Bombay",
+    "h1":"April 11, 1977, Bombay",
+    "title":"Morning Conversation About Newspaper Articles — April 11, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Morning Conversation About Newspaper Articles ======
 
 ---- dataentry spoken ----

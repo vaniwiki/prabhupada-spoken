@@ -1,5 +1,12 @@
-~~Title: SB 1.5.11 — September 12, 1973, London~~
-~~bc: September 12, 1973, London~~
+---json
+{
+    "name":"SB 1.5.11 — September 12, 1973, London",
+    "h1":"September 12, 1973, London",
+    "title":"SB 1.5.11 — September 12, 1973, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.5.11 ======
 
 ---- dataentry spoken ----

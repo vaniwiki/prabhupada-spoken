@@ -1,5 +1,12 @@
-~~Title: Bg 5.14-22 — August 28, 1966, New York~~
-~~bc: August 28, 1966, New York~~
+---json
+{
+    "name":"Bg 5.14-22 — August 28, 1966, New York",
+    "h1":"August 28, 1966, New York",
+    "title":"Bg 5.14-22 — August 28, 1966, New York",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 5.14–22 ======
 
 ---- dataentry spoken ----

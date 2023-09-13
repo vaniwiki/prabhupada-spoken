@@ -1,5 +1,12 @@
-~~Title: SB 1.7.5-6 — October 15, 1975, Johannesburg~~
-~~bc: October 15, 1975, Johannesburg~~
+---json
+{
+    "name":"SB 1.7.5-6 — October 15, 1975, Johannesburg",
+    "h1":"October 15, 1975, Johannesburg",
+    "title":"SB 1.7.5-6 — October 15, 1975, Johannesburg",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.7.5–6 ======
 
 ---- dataentry spoken ----

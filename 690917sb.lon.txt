@@ -1,5 +1,12 @@
-~~Title: SB 5.5.2 — September 17, 1969, London~~
-~~bc: September 17, 1969, London~~
+---json
+{
+    "name":"SB 5.5.2 — September 17, 1969, London",
+    "h1":"September 17, 1969, London",
+    "title":"SB 5.5.2 — September 17, 1969, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.2 ======
 
 ---- dataentry spoken ----

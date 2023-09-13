@@ -1,5 +1,12 @@
-~~Title: Questions and Answers — August 26, 1968, Montreal~~
-~~bc: August 26, 1968, Montreal~~
+---json
+{
+    "name":"Questions and Answers — August 26, 1968, Montreal",
+    "h1":"August 26, 1968, Montreal",
+    "title":"Questions and Answers — August 26, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Questions and Answers ======
 
 ---- dataentry spoken ----

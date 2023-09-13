@@ -1,5 +1,12 @@
-~~Title: Bg 7.15, Arrival Address — September 3, 1976, Vṛndāvana~~
-~~bc: September 3, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Bg 7.15, Arrival Address — September 3, 1976, Vṛndāvana",
+    "h1":"September 3, 1976, Vṛndāvana",
+    "title":"Bg 7.15, Arrival Address — September 3, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.15, Arrival Address ======
 
 ---- dataentry spoken ----

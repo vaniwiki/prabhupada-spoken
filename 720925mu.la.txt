@@ -1,5 +1,12 @@
-~~Title: Jaya Rādhe Jaya Kṛṣṇa — September 25, 1972, Los Angeles~~
-~~bc: September 25, 1972, Los Angeles~~
+---json
+{
+    "name":"Jaya Rādhe Jaya Kṛṣṇa — September 25, 1972, Los Angeles",
+    "h1":"September 25, 1972, Los Angeles",
+    "title":"Jaya Rādhe Jaya Kṛṣṇa — September 25, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Jaya Rādhe Jaya Kṛṣṇa ======
 
 ---- dataentry spoken ----

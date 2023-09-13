@@ -1,5 +1,12 @@
-~~Title: Room Conversation — August 4, 1976, New Māyāpur~~
-~~bc: August 4, 1976, New Māyāpur~~
+---json
+{
+    "name":"Room Conversation — August 4, 1976, New Māyāpur",
+    "h1":"August 4, 1976, New Māyāpur",
+    "title":"Room Conversation — August 4, 1976, New Māyāpur",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

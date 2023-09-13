@@ -1,5 +1,12 @@
-~~Title: Morning Walk — August 25, 1975, Vṛndāvana~~
-~~bc: August 25, 1975, Vṛndāvana~~
+---json
+{
+    "name":"Morning Walk — August 25, 1975, Vṛndāvana",
+    "h1":"August 25, 1975, Vṛndāvana",
+    "title":"Morning Walk — August 25, 1975, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

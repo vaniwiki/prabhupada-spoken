@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Sumati Morarjee — July 11, 1972, London~~
-~~bc: July 11, 1972, London~~
+---json
+{
+    "name":"Room Conversation with Sumati Morarjee — July 11, 1972, London",
+    "h1":"July 11, 1972, London",
+    "title":"Room Conversation with Sumati Morarjee — July 11, 1972, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with Sumati Morarjee ======
 
 ---- dataentry spoken ----

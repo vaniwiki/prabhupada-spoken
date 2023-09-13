@@ -1,5 +1,12 @@
-~~Title: Address [Hindi] — October 14, 1976, Chandigarh~~
-~~bc: October 14, 1976, Chandigarh~~
+---json
+{
+    "name":"Address [Hindi] — October 14, 1976, Chandigarh",
+    "h1":"October 14, 1976, Chandigarh",
+    "title":"Address [Hindi] — October 14, 1976, Chandigarh",
+    "description":""
+}
+---
+
 ====== Address [Hindi] ======
 
 ---- dataentry spoken ----

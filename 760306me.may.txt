@@ -1,5 +1,12 @@
-~~Title: Meeting with Godbrothers [Bengali] — March 6, 1976, Māyāpur~~
-~~bc: March 6, 1976, Māyāpur~~
+---json
+{
+    "name":"Meeting with Godbrothers [Bengali] — March 6, 1976, Māyāpur",
+    "h1":"March 6, 1976, Māyāpur",
+    "title":"Meeting with Godbrothers [Bengali] — March 6, 1976, Māyāpur",
+    "description":""
+}
+---
+
 ====== Meeting with Godbrothers [Bengali] ======
 
 ---- dataentry spoken ----

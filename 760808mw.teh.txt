@@ -1,5 +1,12 @@
-~~Title: Morning Walk at Niavaran Park — August 8, 1976, Tehran~~
-~~bc: August 8, 1976, Tehran~~
+---json
+{
+    "name":"Morning Walk at Niavaran Park — August 8, 1976, Tehran",
+    "h1":"August 8, 1976, Tehran",
+    "title":"Morning Walk at Niavaran Park — August 8, 1976, Tehran",
+    "description":""
+}
+---
+
 ====== Morning Walk at Niavaran Park ======
 
 ---- dataentry spoken ----

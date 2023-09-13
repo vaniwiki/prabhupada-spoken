@@ -1,5 +1,12 @@
-~~Title: Morning Walk — April 20, 1974, Hyderabad~~
-~~bc: April 20, 1974, Hyderabad~~
+---json
+{
+    "name":"Morning Walk — April 20, 1974, Hyderabad",
+    "h1":"April 20, 1974, Hyderabad",
+    "title":"Morning Walk — April 20, 1974, Hyderabad",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 5.5.1 — September 12, 1969, Tittenhurst, London~~
-~~bc: September 12, 1969, Tittenhurst, London~~
+---json
+{
+    "name":"SB 5.5.1 — September 12, 1969, Tittenhurst, London",
+    "h1":"September 12, 1969, Tittenhurst, London",
+    "title":"SB 5.5.1 — September 12, 1969, Tittenhurst, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.1 ======
 
 ---- dataentry spoken ----

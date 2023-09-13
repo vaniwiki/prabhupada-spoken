@@ -1,5 +1,12 @@
-~~Title: Bg 4.12, Appearance Day of Lord Rāmacandra — April 1, 1974, Bombay~~
-~~bc: April 1, 1974, Bombay~~
+---json
+{
+    "name":"Bg 4.12, Appearance Day of Lord Rāmacandra — April 1, 1974, Bombay",
+    "h1":"April 1, 1974, Bombay",
+    "title":"Bg 4.12, Appearance Day of Lord Rāmacandra — April 1, 1974, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 4.12, Appearance Day of Lord Rāmacandra ======
 
 ---- dataentry spoken ----

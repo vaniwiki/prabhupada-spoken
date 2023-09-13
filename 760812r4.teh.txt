@@ -1,5 +1,12 @@
-~~Title: Conversation in Car — August 12, 1976, Tehran~~
-~~bc: August 12, 1976, Tehran~~
+---json
+{
+    "name":"Conversation in Car — August 12, 1976, Tehran",
+    "h1":"August 12, 1976, Tehran",
+    "title":"Conversation in Car — August 12, 1976, Tehran",
+    "description":""
+}
+---
+
 ====== Conversation in Car ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversations — March 20, 1977, Māyāpur~~
-~~bc: March 20, 1977, Māyāpur~~
+---json
+{
+    "name":"Room Conversations — March 20, 1977, Māyāpur",
+    "h1":"March 20, 1977, Māyāpur",
+    "title":"Room Conversations — March 20, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Room Conversations ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Car ride from Durban to Johannesburg — October 13, 1975, Durban~~
-~~bc: October 13, 1975, Durban~~
+---json
+{
+    "name":"Car ride from Durban to Johannesburg — October 13, 1975, Durban",
+    "h1":"October 13, 1975, Durban",
+    "title":"Car ride from Durban to Johannesburg — October 13, 1975, Durban",
+    "description":""
+}
+---
+
 ====== Car ride from Durban to Johannesburg ======
 
 ---- dataentry spoken ----

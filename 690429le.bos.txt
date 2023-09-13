@@ -1,5 +1,12 @@
-~~Title: Brandeis University Lecture — April 29, 1969, Boston~~
-~~bc: April 29, 1969, Boston~~
+---json
+{
+    "name":"Brandeis University Lecture — April 29, 1969, Boston",
+    "h1":"April 29, 1969, Boston",
+    "title":"Brandeis University Lecture — April 29, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Brandeis University Lecture ======
 
 ---- dataentry spoken ----

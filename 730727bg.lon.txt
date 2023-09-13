@@ -1,5 +1,12 @@
-~~Title: Bg 1.37-39 — July 27, 1973, London~~
-~~bc: July 27, 1973, London~~
+---json
+{
+    "name":"Bg 1.37-39 — July 27, 1973, London",
+    "h1":"July 27, 1973, London",
+    "title":"Bg 1.37-39 — July 27, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 1.37–39 ======
 
 ---- dataentry spoken ----

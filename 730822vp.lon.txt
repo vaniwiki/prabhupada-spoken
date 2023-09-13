@@ -1,5 +1,12 @@
-~~Title: Śrī Vyāsa-pūjā Lecture — August 22, 1973, London~~
-~~bc: August 22, 1973, London~~
+---json
+{
+    "name":"Śrī Vyāsa-pūjā Lecture — August 22, 1973, London",
+    "h1":"August 22, 1973, London",
+    "title":"Śrī Vyāsa-pūjā Lecture — August 22, 1973, London",
+    "description":""
+}
+---
+
 ====== Śrī Vyāsa-pūjā Lecture ======
 
 ---- dataentry spoken ----

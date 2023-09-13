@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Dr. Sharma — July 8, 1976, Washington, D.C.~~
-~~bc: July 8, 1976, Washington, D.C.~~
+---json
+{
+    "name":"Room Conversation with Dr. Sharma — July 8, 1976, Washington, D.C.",
+    "h1":"July 8, 1976, Washington, D.C.",
+    "title":"Room Conversation with Dr. Sharma — July 8, 1976, Washington, D.C.",
+    "description":""
+}
+---
+
 ====== Room Conversation with Dr. Sharma ======
 
 ---- dataentry spoken ----

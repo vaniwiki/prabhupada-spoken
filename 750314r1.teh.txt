@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Yoga Student and Other Guests — March 14, 1975, Tehran~~
-~~bc: March 14, 1975, Tehran~~
+---json
+{
+    "name":"Room Conversation with Yoga Student and Other Guests — March 14, 1975, Tehran",
+    "h1":"March 14, 1975, Tehran",
+    "title":"Room Conversation with Yoga Student and Other Guests — March 14, 1975, Tehran",
+    "description":""
+}
+---
+
 ====== Room Conversation with Yoga Student and Other Guests ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Lecture — March 3, 1975, Dallas~~
-~~bc: March 3, 1975, Dallas~~
+---json
+{
+    "name":"Lecture — March 3, 1975, Dallas",
+    "h1":"March 3, 1975, Dallas",
+    "title":"Lecture — March 3, 1975, Dallas",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — February 11, 1975, Mexico City~~
-~~bc: February 11, 1975, Mexico City~~
+---json
+{
+    "name":"Arrival Lecture — February 11, 1975, Mexico City",
+    "h1":"February 11, 1975, Mexico City",
+    "title":"Arrival Lecture — February 11, 1975, Mexico City",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

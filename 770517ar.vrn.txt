@@ -1,5 +1,12 @@
-~~Title: Arrival Speech — May 17, 1977, Vṛndāvana~~
-~~bc: May 17, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Arrival Speech — May 17, 1977, Vṛndāvana",
+    "h1":"May 17, 1977, Vṛndāvana",
+    "title":"Arrival Speech — May 17, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Arrival Speech ======
 
 ---- dataentry spoken ----

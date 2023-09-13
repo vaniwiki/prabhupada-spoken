@@ -1,5 +1,12 @@
-~~Title: SB 1.3.13 — September 18, 1972, Los Angeles~~
-~~bc: September 18, 1972, Los Angeles~~
+---json
+{
+    "name":"SB 1.3.13 — September 18, 1972, Los Angeles",
+    "h1":"September 18, 1972, Los Angeles",
+    "title":"SB 1.3.13 — September 18, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.3.13 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Life Member House Lecture — April 14, 1975, Hyderabad~~
-~~bc: April 14, 1975, Hyderabad~~
+---json
+{
+    "name":"Life Member House Lecture — April 14, 1975, Hyderabad",
+    "h1":"April 14, 1975, Hyderabad",
+    "title":"Life Member House Lecture — April 14, 1975, Hyderabad",
+    "description":""
+}
+---
+
 ====== Life Member House Lecture ======
 
 ---- dataentry spoken ----

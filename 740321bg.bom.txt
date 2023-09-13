@@ -1,5 +1,12 @@
-~~Title: Bg 4.1 — March 21, 1974, Bombay~~
-~~bc: March 21, 1974, Bombay~~
+---json
+{
+    "name":"Bg 4.1 — March 21, 1974, Bombay",
+    "h1":"March 21, 1974, Bombay",
+    "title":"Bg 4.1 — March 21, 1974, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 4.1 ======
 
 ---- dataentry spoken ----

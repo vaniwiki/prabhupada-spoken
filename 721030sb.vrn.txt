@@ -1,5 +1,12 @@
-~~Title: SB 1.2.19 — October 30, 1972, Vṛndāvana~~
-~~bc: October 30, 1972, Vṛndāvana~~
+---json
+{
+    "name":"SB 1.2.19 — October 30, 1972, Vṛndāvana",
+    "h1":"October 30, 1972, Vṛndāvana",
+    "title":"SB 1.2.19 — October 30, 1972, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.19 ======
 
 ---- dataentry spoken ----

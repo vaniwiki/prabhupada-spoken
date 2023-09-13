@@ -1,5 +1,12 @@
-~~Title: Initiation Lecture [partially recorded] — April 23, 1976, Melbourne~~
-~~bc: April 23, 1976, Melbourne~~
+---json
+{
+    "name":"Initiation Lecture [partially recorded] — April 23, 1976, Melbourne",
+    "h1":"April 23, 1976, Melbourne",
+    "title":"Initiation Lecture [partially recorded] — April 23, 1976, Melbourne",
+    "description":""
+}
+---
+
 ====== Initiation Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

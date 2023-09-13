@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Professors — February 19, 1975, Caracas~~
-~~bc: February 19, 1975, Caracas~~
+---json
+{
+    "name":"Room Conversation with Professors — February 19, 1975, Caracas",
+    "h1":"February 19, 1975, Caracas",
+    "title":"Room Conversation with Professors — February 19, 1975, Caracas",
+    "description":""
+}
+---
+
 ====== Room Conversation with Professors ======
 
 ---- dataentry spoken ----

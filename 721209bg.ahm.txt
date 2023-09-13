@@ -1,5 +1,12 @@
-~~Title: Bg 18.67-69 — December 9, 1972, Ahmedabad~~
-~~bc: December 9, 1972, Ahmedabad~~
+---json
+{
+    "name":"Bg 18.67-69 — December 9, 1972, Ahmedabad",
+    "h1":"December 9, 1972, Ahmedabad",
+    "title":"Bg 18.67-69 — December 9, 1972, Ahmedabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 18.67–69 ======
 
 ---- dataentry spoken ----

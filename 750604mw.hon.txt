@@ -1,5 +1,12 @@
-~~Title: Morning Walk at Waikiki Beach — June 4, 1975, Honolulu~~
-~~bc: June 4, 1975, Honolulu~~
+---json
+{
+    "name":"Morning Walk at Waikiki Beach — June 4, 1975, Honolulu",
+    "h1":"June 4, 1975, Honolulu",
+    "title":"Morning Walk at Waikiki Beach — June 4, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Morning Walk at Waikiki Beach ======
 
 ---- dataentry spoken ----

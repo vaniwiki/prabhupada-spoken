@@ -1,5 +1,12 @@
-~~Title: Evening Lecture — January 19, 1977, Bhubaneswar~~
-~~bc: January 19, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Evening Lecture — January 19, 1977, Bhubaneswar",
+    "h1":"January 19, 1977, Bhubaneswar",
+    "title":"Evening Lecture — January 19, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Evening Lecture ======
 
 ---- dataentry spoken ----

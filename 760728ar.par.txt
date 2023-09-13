@@ -1,5 +1,12 @@
-~~Title: Arrival Speech — July 28, 1976, Paris~~
-~~bc: July 28, 1976, Paris~~
+---json
+{
+    "name":"Arrival Speech — July 28, 1976, Paris",
+    "h1":"July 28, 1976, Paris",
+    "title":"Arrival Speech — July 28, 1976, Paris",
+    "description":""
+}
+---
+
 ====== Arrival Speech ======
 
 ---- dataentry spoken ----

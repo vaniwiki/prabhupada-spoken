@@ -1,5 +1,12 @@
-~~Title: Śrī Rāma-Navamī — March 27, 1969, Hawaii~~
-~~bc: March 27, 1969, Hawaii~~
+---json
+{
+    "name":"Śrī Rāma-Navamī — March 27, 1969, Hawaii",
+    "h1":"March 27, 1969, Hawaii",
+    "title":"Śrī Rāma-Navamī — March 27, 1969, Hawaii",
+    "description":""
+}
+---
+
 ====== Śrī Rāma-Navamī, Lord Rāmacandra’s Appearance Day ======
 
 ---- dataentry spoken ----

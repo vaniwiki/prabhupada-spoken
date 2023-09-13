@@ -1,5 +1,12 @@
-~~Title: Meeting with Mr. Raju, Endowments Commissioner — August 24, 1976, Hyderabad~~
-~~bc: August 24, 1976, Hyderabad~~
+---json
+{
+    "name":"Meeting with Mr. Raju, Endowments Commissioner — August 24, 1976, Hyderabad",
+    "h1":"August 24, 1976, Hyderabad",
+    "title":"Meeting with Mr. Raju, Endowments Commissioner — August 24, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Meeting with Mr. Raju, Endowments Commissioner ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Morning Talk — June 19, 1977, Vṛndāvana~~
-~~bc: June 19, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Morning Talk — June 19, 1977, Vṛndāvana",
+    "h1":"June 19, 1977, Vṛndāvana",
+    "title":"Morning Talk — June 19, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Morning Talk ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 1.36 — July 26, 1973, London~~
-~~bc: July 26, 1973, London~~
+---json
+{
+    "name":"Bg 1.36 — July 26, 1973, London",
+    "h1":"July 26, 1973, London",
+    "title":"Bg 1.36 — July 26, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 1.36 ======
 
 ---- dataentry spoken ----

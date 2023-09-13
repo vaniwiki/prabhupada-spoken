@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Professor Olivier — October 10, 1975, Durban~~
-~~bc: October 10, 1975, Durban~~
+---json
+{
+    "name":"Room Conversation with Professor Olivier — October 10, 1975, Durban",
+    "h1":"October 10, 1975, Durban",
+    "title":"Room Conversation with Professor Olivier — October 10, 1975, Durban",
+    "description":""
+}
+---
+
 ====== Room Conversation with Professor Olivier ======
 
 ---- dataentry spoken ----

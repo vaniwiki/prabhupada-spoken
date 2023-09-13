@@ -1,5 +1,12 @@
-~~Title: Lecture, partially recorded — February 12, 1974, Vṛndāvana~~
-~~bc: February 12, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Lecture, partially recorded — February 12, 1974, Vṛndāvana",
+    "h1":"February 12, 1974, Vṛndāvana",
+    "title":"Lecture, partially recorded — February 12, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Lecture, partially recorded ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 13.26 — September 22, 1974, Delhi~~
-~~bc: September 22, 1974, Delhi~~
+---json
+{
+    "name":"Bg 13.26 — September 22, 1974, Delhi",
+    "h1":"September 22, 1974, Delhi",
+    "title":"Bg 13.26 — September 22, 1974, Delhi",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.26 ======
 
 ---- dataentry spoken ----

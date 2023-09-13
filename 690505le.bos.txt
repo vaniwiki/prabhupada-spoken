@@ -1,5 +1,12 @@
-~~Title: Lecture [partially recorded] — May 5, 1969, Boston~~
-~~bc: May 5, 1969, Boston~~
+---json
+{
+    "name":"Lecture [partially recorded] — May 5, 1969, Boston",
+    "h1":"May 5, 1969, Boston",
+    "title":"Lecture [partially recorded] — May 5, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

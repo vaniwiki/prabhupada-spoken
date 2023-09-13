@@ -1,5 +1,12 @@
-~~Title: Conversation: Vairāgya, Salaries, and Political Etiquette — April 28, 1977, Bombay~~
-~~bc: April 28, 1977, Bombay~~
+---json
+{
+    "name":"Conversation: Vairāgya, Salaries, and Political Etiquette — April 28, 1977, Bombay",
+    "h1":"April 28, 1977, Bombay",
+    "title":"Conversation: Vairāgya, Salaries, and Political Etiquette — April 28, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation: Vairāgya, Salaries, and Political Etiquette ======
 
 ---- dataentry spoken ----

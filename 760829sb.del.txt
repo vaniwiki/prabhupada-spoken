@@ -1,5 +1,12 @@
-~~Title: SB 5.5.1 [Hindi] — August 29, 1976, Delhi~~
-~~bc: August 29, 1976, Delhi~~
+---json
+{
+    "name":"SB 5.5.1 [Hindi] — August 29, 1976, Delhi",
+    "h1":"August 29, 1976, Delhi",
+    "title":"SB 5.5.1 [Hindi] — August 29, 1976, Delhi",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.1 [Hindi] ======
 
 ---- dataentry spoken ----

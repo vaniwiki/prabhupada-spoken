@@ -1,5 +1,12 @@
-~~Title: Lecture to Devotees — April 7, 1976, Vṛndāvana~~
-~~bc: April 7, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Lecture to Devotees — April 7, 1976, Vṛndāvana",
+    "h1":"April 7, 1976, Vṛndāvana",
+    "title":"Lecture to Devotees — April 7, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Lecture to Devotees ======
 
 ---- dataentry spoken ----

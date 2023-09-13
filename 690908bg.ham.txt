@@ -1,5 +1,12 @@
-~~Title: Bg 7.14 — September 8, 1969, Hamburg~~
-~~bc: September 8, 1969, Hamburg~~
+---json
+{
+    "name":"Bg 7.14 — September 8, 1969, Hamburg",
+    "h1":"September 8, 1969, Hamburg",
+    "title":"Bg 7.14 — September 8, 1969, Hamburg",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.14 ======
 
 ---- dataentry spoken ----

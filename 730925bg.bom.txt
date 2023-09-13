@@ -1,5 +1,12 @@
-~~Title: Bg 13.1-2 — September 25, 1973, Bombay~~
-~~bc: September 25, 1973, Bombay~~
+---json
+{
+    "name":"Bg 13.1-2 — September 25, 1973, Bombay",
+    "h1":"September 25, 1973, Bombay",
+    "title":"Bg 13.1-2 — September 25, 1973, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.1–2 ======
 
 ---- dataentry spoken ----

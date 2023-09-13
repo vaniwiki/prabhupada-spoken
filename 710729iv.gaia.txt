@@ -1,5 +1,12 @@
-~~Title: Television Interview — July 29, 1971, Gainesville~~
-~~bc: July 29, 1971, Gainesville~~
+---json
+{
+    "name":"Television Interview — July 29, 1971, Gainesville",
+    "h1":"July 29, 1971, Gainesville",
+    "title":"Television Interview — July 29, 1971, Gainesville",
+    "description":""
+}
+---
+
 ====== Television Interview ======
 
 ---- dataentry spoken ----

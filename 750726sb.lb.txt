@@ -1,5 +1,12 @@
-~~Title: SB 6.1.45 — July 26, 1975, Laguna Beach~~
-~~bc: July 26, 1975, Laguna Beach~~
+---json
+{
+    "name":"SB 6.1.45 — July 26, 1975, Laguna Beach",
+    "h1":"July 26, 1975, Laguna Beach",
+    "title":"SB 6.1.45 — July 26, 1975, Laguna Beach",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.45 ======
 
 ---- dataentry spoken ----

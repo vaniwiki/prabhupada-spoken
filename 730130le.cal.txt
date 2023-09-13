@@ -1,5 +1,12 @@
-~~Title: Lecture at Bhārata Chamber of Commerce — January 30, 1973, Calcutta~~
-~~bc: January 30, 1973, Calcutta~~
+---json
+{
+    "name":"Lecture at Bhārata Chamber of Commerce — January 30, 1973, Calcutta",
+    "h1":"January 30, 1973, Calcutta",
+    "title":"Lecture at Bhārata Chamber of Commerce — January 30, 1973, Calcutta",
+    "description":""
+}
+---
+
 ====== Lecture at Bhārata Chamber of Commerce ======
 
 ---- dataentry spoken ----

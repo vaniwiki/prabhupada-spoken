@@ -1,5 +1,12 @@
-~~Title: Room Conversation — December 13, 1970, Indore~~
-~~bc: December 13, 1970, Indore~~
+---json
+{
+    "name":"Room Conversation — December 13, 1970, Indore",
+    "h1":"December 13, 1970, Indore",
+    "title":"Room Conversation — December 13, 1970, Indore",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

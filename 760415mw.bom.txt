@@ -1,5 +1,12 @@
-~~Title: Morning Walk — April 15, 1976, Bombay~~
-~~bc: April 15, 1976, Bombay~~
+---json
+{
+    "name":"Morning Walk — April 15, 1976, Bombay",
+    "h1":"April 15, 1976, Bombay",
+    "title":"Morning Walk — April 15, 1976, Bombay",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

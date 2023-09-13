@@ -1,5 +1,12 @@
-~~Title: Morning Walk, “Varṇāśrama College” — March 14, 1974, Vṛndāvana~~
-~~bc: March 14, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Morning Walk, “Varṇāśrama College” — March 14, 1974, Vṛndāvana",
+    "h1":"March 14, 1974, Vṛndāvana",
+    "title":"Morning Walk, “Varṇāśrama College” — March 14, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Morning Walk, “Varṇāśrama College” ======
 
 ---- dataentry spoken ----

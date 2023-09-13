@@ -1,5 +1,12 @@
-~~Title: Cc. Ādi 7.8 — March 15, 1974, Vṛndāvana~~
-~~bc: March 15, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Cc. Ādi 7.8 — March 15, 1974, Vṛndāvana",
+    "h1":"March 15, 1974, Vṛndāvana",
+    "title":"Cc. Ādi 7.8 — March 15, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 7.8 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Car Journey and Arrival — July 2, 1976, Washington, D.C.~~
-~~bc: July 2, 1976, Washington, D.C.~~
+---json
+{
+    "name":"Car Journey and Arrival — July 2, 1976, Washington, D.C.",
+    "h1":"July 2, 1976, Washington, D.C.",
+    "title":"Car Journey and Arrival — July 2, 1976, Washington, D.C.",
+    "description":""
+}
+---
+
 ====== Car Journey and Arrival ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Wedding Lecture — July 22, 1968, Montreal~~
-~~bc: July 22, 1968, Montreal~~
+---json
+{
+    "name":"Wedding Lecture — July 22, 1968, Montreal",
+    "h1":"July 22, 1968, Montreal",
+    "title":"Wedding Lecture — July 22, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Paramānanda & Satyabhāmā’s Wedding ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Meeting at University — October 6, 1972, Berkeley~~
-~~bc: October 6, 1972, Berkeley~~
+---json
+{
+    "name":"Meeting at University — October 6, 1972, Berkeley",
+    "h1":"October 6, 1972, Berkeley",
+    "title":"Meeting at University — October 6, 1972, Berkeley",
+    "description":""
+}
+---
+
 ====== Meeting at University ======
 
 ---- dataentry spoken ----

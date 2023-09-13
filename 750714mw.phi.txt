@@ -1,5 +1,12 @@
-~~Title: Morning Walk — July 14, 1975, Philadelphia~~
-~~bc: July 14, 1975, Philadelphia~~
+---json
+{
+    "name":"Morning Walk — July 14, 1975, Philadelphia",
+    "h1":"July 14, 1975, Philadelphia",
+    "title":"Morning Walk — July 14, 1975, Philadelphia",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

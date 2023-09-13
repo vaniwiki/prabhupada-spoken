@@ -1,5 +1,12 @@
-~~Title: Morning Walk — June 27, 1975, Los Angeles~~
-~~bc: June 27, 1975, Los Angeles~~
+---json
+{
+    "name":"Morning Walk — June 27, 1975, Los Angeles",
+    "h1":"June 27, 1975, Los Angeles",
+    "title":"Morning Walk — June 27, 1975, Los Angeles",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

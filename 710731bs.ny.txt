@@ -1,5 +1,12 @@
-~~Title: Śrī Brahma-saṁhitā, Verse 35 — July 31, 1971, New York~~
-~~bc: July 31, 1971, New York~~
+---json
+{
+    "name":"Śrī Brahma-saṁhitā, Verse 35 — July 31, 1971, New York",
+    "h1":"July 31, 1971, New York",
+    "title":"Śrī Brahma-saṁhitā, Verse 35 — July 31, 1971, New York",
+    "description":""
+}
+---
+
 ====== Śrī Brahma-saṁhitā, Verse 35 ======
 
 ---- dataentry spoken ----

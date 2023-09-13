@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.395 — August 17, 1976, Hyderabad~~
-~~bc: August 17, 1976, Hyderabad~~
+---json
+{
+    "name":"Cc. Madhya 20.395 — August 17, 1976, Hyderabad",
+    "h1":"August 17, 1976, Hyderabad",
+    "title":"Cc. Madhya 20.395 — August 17, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.395 ======
 
 ---- dataentry spoken ----

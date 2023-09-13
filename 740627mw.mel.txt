@@ -1,5 +1,12 @@
-~~Title: Morning Walk, partially recorded — June 27, 1974, Melbourne~~
-~~bc: June 27, 1974, Melbourne~~
+---json
+{
+    "name":"Morning Walk, partially recorded — June 27, 1974, Melbourne",
+    "h1":"June 27, 1974, Melbourne",
+    "title":"Morning Walk, partially recorded — June 27, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Morning Walk, partially recorded ======
 
 ---- dataentry spoken ----

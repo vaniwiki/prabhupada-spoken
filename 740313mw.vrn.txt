@@ -1,5 +1,12 @@
-~~Title: Morning Walk — March 13, 1974, Vṛndāvana~~
-~~bc: March 13, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Morning Walk — March 13, 1974, Vṛndāvana",
+    "h1":"March 13, 1974, Vṛndāvana",
+    "title":"Morning Walk — March 13, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

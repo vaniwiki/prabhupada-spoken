@@ -1,5 +1,12 @@
-~~Title: Śrī Īśopaniṣad Lecture [partially recorded] — July 8, 1971, Los Angeles~~
-~~bc: July 8, 1971, Los Angeles~~
+---json
+{
+    "name":"Śrī Īśopaniṣad Lecture [partially recorded] — July 8, 1971, Los Angeles",
+    "h1":"July 8, 1971, Los Angeles",
+    "title":"Śrī Īśopaniṣad Lecture [partially recorded] — July 8, 1971, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrī Īśopaniṣad Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

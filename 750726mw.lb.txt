@@ -1,5 +1,12 @@
-~~Title: Morning Walk — July 26, 1975, Laguna Beach~~
-~~bc: July 26, 1975, Laguna Beach~~
+---json
+{
+    "name":"Morning Walk — July 26, 1975, Laguna Beach",
+    "h1":"July 26, 1975, Laguna Beach",
+    "title":"Morning Walk — July 26, 1975, Laguna Beach",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

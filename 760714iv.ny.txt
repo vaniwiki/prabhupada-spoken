@@ -1,5 +1,12 @@
-~~Title: Interview with Newsweek — July 14, 1976, New York~~
-~~bc: July 14, 1976, New York~~
+---json
+{
+    "name":"Interview with Newsweek — July 14, 1976, New York",
+    "h1":"July 14, 1976, New York",
+    "title":"Interview with Newsweek — July 14, 1976, New York",
+    "description":""
+}
+---
+
 ====== Interview with Newsweek ======
 
 ---- dataentry spoken ----

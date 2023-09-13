@@ -1,7 +1,13 @@
 {{tag>beta}}
 
-~~Title: Bg 1.2-3 — July 9, 1973, London~~
-~~bc: July 9, 1973, London~~
+---json
+{
+    "name":"Bg 1.2-3 — July 9, 1973, London",
+    "h1":"July 9, 1973, London",
+    "title":"Bg 1.2-3 — July 9, 1973, London",
+    "description":""
+}
+---
 
 ====== Bhagavad-gītā 1.2–3 ======
 

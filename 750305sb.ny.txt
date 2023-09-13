@@ -1,5 +1,12 @@
-~~Title: SB 2.2.5 — March 5, 1975, New York~~
-~~bc: March 5, 1975, New York~~
+---json
+{
+    "name":"SB 2.2.5 — March 5, 1975, New York",
+    "h1":"March 5, 1975, New York",
+    "title":"SB 2.2.5 — March 5, 1975, New York",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.2.5 ======
 
 ---- dataentry spoken ----

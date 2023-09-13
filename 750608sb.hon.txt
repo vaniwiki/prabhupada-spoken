@@ -1,5 +1,12 @@
-~~Title: SB 6.1.6-7 — June 8, 1975, Honolulu~~
-~~bc: June 8, 1975, Honolulu~~
+---json
+{
+    "name":"SB 6.1.6-7 — June 8, 1975, Honolulu",
+    "h1":"June 8, 1975, Honolulu",
+    "title":"SB 6.1.6-7 — June 8, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.6–7 ======
 
 ---- dataentry spoken ----

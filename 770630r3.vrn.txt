@@ -1,5 +1,12 @@
-~~Title: Letter from Yugoslavia “Books!” — June 30, 1977, Vṛndāvana~~
-~~bc: June 30, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Letter from Yugoslavia “Books!” — June 30, 1977, Vṛndāvana",
+    "h1":"June 30, 1977, Vṛndāvana",
+    "title":"Letter from Yugoslavia “Books!” — June 30, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Letter from Yugoslavia “Books!” ======
 
 ---- dataentry spoken ----

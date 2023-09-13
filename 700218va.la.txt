@@ -1,5 +1,12 @@
-~~Title: Varāha-dvādaśī — February 18, 1970, Los Angeles~~
-~~bc: February 18, 1970, Los Angeles~~
+---json
+{
+    "name":"Varāha-dvādaśī — February 18, 1970, Los Angeles",
+    "h1":"February 18, 1970, Los Angeles",
+    "title":"Varāha-dvādaśī — February 18, 1970, Los Angeles",
+    "description":""
+}
+---
+
 ====== Varāha-dvādaśī, Lord Varāha’s Appearance Day ======
 
 ---- dataentry spoken ----

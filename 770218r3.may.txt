@@ -1,5 +1,12 @@
-~~Title: Room Conversation about BTG — February 18, 1977, Māyāpur~~
-~~bc: February 18, 1977, Māyāpur~~
+---json
+{
+    "name":"Room Conversation about BTG — February 18, 1977, Māyāpur",
+    "h1":"February 18, 1977, Māyāpur",
+    "title":"Room Conversation about BTG — February 18, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Room Conversation about BTG ======
 
 ---- dataentry spoken ----

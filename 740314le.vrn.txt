@@ -1,5 +1,12 @@
-~~Title: Lecture — March 14, 1974, Vṛndāvana~~
-~~bc: March 14, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Lecture — March 14, 1974, Vṛndāvana",
+    "h1":"March 14, 1974, Vṛndāvana",
+    "title":"Lecture — March 14, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

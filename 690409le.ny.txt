@@ -1,5 +1,12 @@
-~~Title: Śrīla Prabhupāda and Disciples Speak — April 9, 1969, New York~~
-~~bc: April 9, 1969, New York~~
+---json
+{
+    "name":"Śrīla Prabhupāda and Disciples Speak — April 9, 1969, New York",
+    "h1":"April 9, 1969, New York",
+    "title":"Śrīla Prabhupāda and Disciples Speak — April 9, 1969, New York",
+    "description":""
+}
+---
+
 ====== Śrīla Prabhupāda and Disciples Speak ======
 
 ---- dataentry spoken ----

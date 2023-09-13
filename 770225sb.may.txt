@@ -1,5 +1,12 @@
-~~Title: SB 7.9.5 — February 25, 1977, Māyāpur~~
-~~bc: February 25, 1977, Māyāpur~~
+---json
+{
+    "name":"SB 7.9.5 — February 25, 1977, Māyāpur",
+    "h1":"February 25, 1977, Māyāpur",
+    "title":"SB 7.9.5 — February 25, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.9.5 ======
 
 ---- dataentry spoken ----

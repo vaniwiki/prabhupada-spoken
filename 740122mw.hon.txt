@@ -1,5 +1,12 @@
-~~Title: Morning Walk — January 22, 1974, Honolulu~~
-~~bc: January 22, 1974, Honolulu~~
+---json
+{
+    "name":"Morning Walk — January 22, 1974, Honolulu",
+    "h1":"January 22, 1974, Honolulu",
+    "title":"Morning Walk — January 22, 1974, Honolulu",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

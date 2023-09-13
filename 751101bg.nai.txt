@@ -1,5 +1,12 @@
-~~Title: Bg 7.5 — November 1, 1975, Nairobi~~
-~~bc: November 1, 1975, Nairobi~~
+---json
+{
+    "name":"Bg 7.5 — November 1, 1975, Nairobi",
+    "h1":"November 1, 1975, Nairobi",
+    "title":"Bg 7.5 — November 1, 1975, Nairobi",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.5 ======
 
 ---- dataentry spoken ----

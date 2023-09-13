@@ -1,5 +1,12 @@
-~~Title: Morning Walk — August 12, 1975, Paris~~
-~~bc: August 12, 1975, Paris~~
+---json
+{
+    "name":"Morning Walk — August 12, 1975, Paris",
+    "h1":"August 12, 1975, Paris",
+    "title":"Morning Walk — August 12, 1975, Paris",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

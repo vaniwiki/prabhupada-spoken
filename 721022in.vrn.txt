@@ -1,5 +1,12 @@
-~~Title: Sannyāsa Initiation — October 22, 1972, Vṛndāvana~~
-~~bc: October 22, 1972, Vṛndāvana~~
+---json
+{
+    "name":"Sannyāsa Initiation — October 22, 1972, Vṛndāvana",
+    "h1":"October 22, 1972, Vṛndāvana",
+    "title":"Sannyāsa Initiation — October 22, 1972, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Sannyāsa Initiation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Talk with Lalitā Prasād — March 2, 1972, Birnagar~~
-~~bc: March 2, 1972, Birnagar~~
+---json
+{
+    "name":"Talk with Lalitā Prasād — March 2, 1972, Birnagar",
+    "h1":"March 2, 1972, Birnagar",
+    "title":"Talk with Lalitā Prasād — March 2, 1972, Birnagar",
+    "description":""
+}
+---
+
 ====== Talk with Lalitā Prasād ======
 
 ---- dataentry spoken ----

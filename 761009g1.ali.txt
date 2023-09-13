@@ -1,5 +1,12 @@
-~~Title: Garden Conversation — October 9, 1976, Aligarh~~
-~~bc: October 9, 1976, Aligarh~~
+---json
+{
+    "name":"Garden Conversation — October 9, 1976, Aligarh",
+    "h1":"October 9, 1976, Aligarh",
+    "title":"Garden Conversation — October 9, 1976, Aligarh",
+    "description":""
+}
+---
+
 ====== Garden Conversation ======
 
 ---- dataentry spoken ----

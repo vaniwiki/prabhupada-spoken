@@ -1,5 +1,12 @@
-~~Title: Interview — July 29, 1971, Gainesville~~
-~~bc: July 29, 1971, Gainesville~~
+---json
+{
+    "name":"Interview — July 29, 1971, Gainesville",
+    "h1":"July 29, 1971, Gainesville",
+    "title":"Interview — July 29, 1971, Gainesville",
+    "description":""
+}
+---
+
 ====== Interview ======
 
 ---- dataentry spoken ----

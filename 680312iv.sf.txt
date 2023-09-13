@@ -1,5 +1,12 @@
-~~Title: Radio Interview — March 12, 1968, San Francisco~~
-~~bc: March 12, 1968, San Francisco~~
+---json
+{
+    "name":"Radio Interview — March 12, 1968, San Francisco",
+    "h1":"March 12, 1968, San Francisco",
+    "title":"Radio Interview — March 12, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Radio Interview ======
 
 ---- dataentry spoken ----

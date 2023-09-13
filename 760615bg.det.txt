@@ -1,5 +1,12 @@
-~~Title: Bg 2.1-2.12 Reading — June 15, 1976, Detroit~~
-~~bc: June 15, 1976, Detroit~~
+---json
+{
+    "name":"Bg 2.1-2.12 Reading — June 15, 1976, Detroit",
+    "h1":"June 15, 1976, Detroit",
+    "title":"Bg 2.1-2.12 Reading — June 15, 1976, Detroit",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.1–2.12 Reading ======
 
 ---- dataentry spoken ----

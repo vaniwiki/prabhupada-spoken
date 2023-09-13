@@ -1,5 +1,12 @@
-~~Title: Śrī Vyāsa-pūjā Address — September 2, 1972, New Vrindavan~~
-~~bc: September 2, 1972, New Vrindavan~~
+---json
+{
+    "name":"Śrī Vyāsa-pūjā Address — September 2, 1972, New Vrindavan",
+    "h1":"September 2, 1972, New Vrindavan",
+    "title":"Śrī Vyāsa-pūjā Address — September 2, 1972, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Śrī Vyāsa-pūjā Address ======
 
 ---- dataentry spoken ----

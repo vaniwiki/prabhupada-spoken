@@ -1,5 +1,12 @@
-~~Title: Room Conversation — July 6, 1976, Washington, D.C.~~
-~~bc: July 6, 1976, Washington, D.C.~~
+---json
+{
+    "name":"Room Conversation — July 6, 1976, Washington, D.C.",
+    "h1":"July 6, 1976, Washington, D.C.",
+    "title":"Room Conversation — July 6, 1976, Washington, D.C.",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

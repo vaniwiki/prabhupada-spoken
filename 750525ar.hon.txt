@@ -1,5 +1,12 @@
-~~Title: Arrival — May 25, 1975, Honolulu~~
-~~bc: May 25, 1975, Honolulu~~
+---json
+{
+    "name":"Arrival — May 25, 1975, Honolulu",
+    "h1":"May 25, 1975, Honolulu",
+    "title":"Arrival — May 25, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Arrival ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Morning Walk — March 13, 1975, Tehran~~
-~~bc: March 13, 1975, Tehran~~
+---json
+{
+    "name":"Morning Walk — March 13, 1975, Tehran",
+    "h1":"March 13, 1975, Tehran",
+    "title":"Morning Walk — March 13, 1975, Tehran",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 7.12.2 — April 13, 1976, Bombay~~
-~~bc: April 13, 1976, Bombay~~
+---json
+{
+    "name":"SB 7.12.2 — April 13, 1976, Bombay",
+    "h1":"April 13, 1976, Bombay",
+    "title":"SB 7.12.2 — April 13, 1976, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.12.2 ======
 
 ---- dataentry spoken ----

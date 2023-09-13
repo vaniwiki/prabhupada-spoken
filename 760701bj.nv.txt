@@ -1,5 +1,12 @@
-~~Title: Bhavan’s Journal, Answers to a Questionnaire 3 — July 1, 1976, New Vrindavan~~
-~~bc: July 1, 1976, New Vrindavan~~
+---json
+{
+    "name":"Bhavan’s Journal, Answers to a Questionnaire 3 — July 1, 1976, New Vrindavan",
+    "h1":"July 1, 1976, New Vrindavan",
+    "title":"Bhavan’s Journal, Answers to a Questionnaire 3 — July 1, 1976, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Bhavan’s Journal, Answers to a Questionnaire 3 ======
 
 ---- dataentry spoken ----

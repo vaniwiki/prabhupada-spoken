@@ -1,5 +1,12 @@
-~~Title: Room Conversation, Bhagavad-gītā 9.34 — February 25, 1973, Jakarta~~
-~~bc: February 25, 1973, Jakarta~~
+---json
+{
+    "name":"Room Conversation, Bhagavad-gītā 9.34 — February 25, 1973, Jakarta",
+    "h1":"February 25, 1973, Jakarta",
+    "title":"Room Conversation, Bhagavad-gītā 9.34 — February 25, 1973, Jakarta",
+    "description":""
+}
+---
+
 ====== Room Conversation, Bhagavad-gītā 9.34 ======
 
 ---- dataentry spoken ----

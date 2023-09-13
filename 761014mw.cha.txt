@@ -1,5 +1,12 @@
-~~Title: Morning Walk — October 14, 1976, Chandigarh~~
-~~bc: October 14, 1976, Chandigarh~~
+---json
+{
+    "name":"Morning Walk — October 14, 1976, Chandigarh",
+    "h1":"October 14, 1976, Chandigarh",
+    "title":"Morning Walk — October 14, 1976, Chandigarh",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

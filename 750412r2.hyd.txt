@@ -1,5 +1,12 @@
-~~Title: Room Conversation — April 12, 1975, Hyderabad~~
-~~bc: April 12, 1975, Hyderabad~~
+---json
+{
+    "name":"Room Conversation — April 12, 1975, Hyderabad",
+    "h1":"April 12, 1975, Hyderabad",
+    "title":"Room Conversation — April 12, 1975, Hyderabad",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

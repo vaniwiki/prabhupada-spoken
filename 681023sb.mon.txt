@@ -1,5 +1,12 @@
-~~Title: SB 2.1.2-5 — October 23, 1968, Montreal~~
-~~bc: October 23, 1968, Montreal~~
+---json
+{
+    "name":"SB 2.1.2-5 — October 23, 1968, Montreal",
+    "h1":"October 23, 1968, Montreal",
+    "title":"SB 2.1.2-5 — October 23, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.1.2–5 ======
 
 ---- dataentry spoken ----

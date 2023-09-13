@@ -1,5 +1,12 @@
-~~Title: Lecture at Engagement — May 8, 1968, Boston~~
-~~bc: May 8, 1968, Boston~~
+---json
+{
+    "name":"Lecture at Engagement — May 8, 1968, Boston",
+    "h1":"May 8, 1968, Boston",
+    "title":"Lecture at Engagement — May 8, 1968, Boston",
+    "description":""
+}
+---
+
 ====== Lecture at Engagement ======
 
 ---- dataentry spoken ----

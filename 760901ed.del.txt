@@ -1,5 +1,12 @@
-~~Title: Evening Darśana — September 1, 1976, Delhi~~
-~~bc: September 1, 1976, Delhi~~
+---json
+{
+    "name":"Evening Darśana — September 1, 1976, Delhi",
+    "h1":"September 1, 1976, Delhi",
+    "title":"Evening Darśana — September 1, 1976, Delhi",
+    "description":""
+}
+---
+
 ====== Evening Darśana ======
 
 ---- dataentry spoken ----

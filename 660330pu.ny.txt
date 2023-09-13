@@ -1,5 +1,12 @@
-~~Title: Purport to Bhajahū Re Mana — March 30, 1966, New York~~
-~~bc: March 30, 1966, New York~~
+---json
+{
+    "name":"Purport to Bhajahū Re Mana — March 30, 1966, New York",
+    "h1":"March 30, 1966, New York",
+    "title":"Purport to Bhajahū Re Mana — March 30, 1966, New York",
+    "description":""
+}
+---
+
 ====== Purport to Bhajahū Re Mana ======
 
 ---- dataentry spoken ----

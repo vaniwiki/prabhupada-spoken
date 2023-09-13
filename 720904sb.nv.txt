@@ -1,5 +1,12 @@
-~~Title: SB 1.2.6 — September 4, 1972, New Vrindavan~~
-~~bc: September 4, 1972, New Vrindavan~~
+---json
+{
+    "name":"SB 1.2.6 — September 4, 1972, New Vrindavan",
+    "h1":"September 4, 1972, New Vrindavan",
+    "title":"SB 1.2.6 — September 4, 1972, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
 ---- dataentry spoken ----

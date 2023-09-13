@@ -1,5 +1,12 @@
-~~Title: SB 7.6.2 — June 18, 1976, Toronto~~
-~~bc: June 18, 1976, Toronto~~
+---json
+{
+    "name":"SB 7.6.2 — June 18, 1976, Toronto",
+    "h1":"June 18, 1976, Toronto",
+    "title":"SB 7.6.2 — June 18, 1976, Toronto",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.6.2 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Morning Walk — June 4, 1976, Los Angeles~~
-~~bc: June 4, 1976, Los Angeles~~
+---json
+{
+    "name":"Morning Walk — June 4, 1976, Los Angeles",
+    "h1":"June 4, 1976, Los Angeles",
+    "title":"Morning Walk — June 4, 1976, Los Angeles",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

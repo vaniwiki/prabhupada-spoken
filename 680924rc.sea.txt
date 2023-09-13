@@ -1,5 +1,12 @@
-~~Title: Room Conversation about Marriage — September 24, 1968, Seattle~~
-~~bc: September 24, 1968, Seattle~~
+---json
+{
+    "name":"Room Conversation about Marriage — September 24, 1968, Seattle",
+    "h1":"September 24, 1968, Seattle",
+    "title":"Room Conversation about Marriage — September 24, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Room Conversation about Marriage ======
 
 ---- dataentry spoken ----

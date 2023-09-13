@@ -1,5 +1,12 @@
-~~Title: Sunday Feast Lecture — March 2, 1975, Atlanta~~
-~~bc: March 2, 1975, Atlanta~~
+---json
+{
+    "name":"Sunday Feast Lecture — March 2, 1975, Atlanta",
+    "h1":"March 2, 1975, Atlanta",
+    "title":"Sunday Feast Lecture — March 2, 1975, Atlanta",
+    "description":""
+}
+---
+
 ====== Sunday Feast Lecture ======
 
 ---- dataentry spoken ----

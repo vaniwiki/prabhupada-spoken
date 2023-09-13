@@ -1,5 +1,12 @@
-~~Title: Purport to Bhajahū Re Mana — May 27, 1972, Los Angeles~~
-~~bc: May 27, 1972, Los Angeles~~
+---json
+{
+    "name":"Purport to Bhajahū Re Mana — May 27, 1972, Los Angeles",
+    "h1":"May 27, 1972, Los Angeles",
+    "title":"Purport to Bhajahū Re Mana — May 27, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Purport to Bhajahū Re Mana ======
 
 ---- dataentry spoken ----

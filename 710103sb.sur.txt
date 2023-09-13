@@ -1,5 +1,12 @@
-~~Title: SB 6.1.56-62 — January 3, 1971, Surat~~
-~~bc: January 3, 1971, Surat~~
+---json
+{
+    "name":"SB 6.1.56-62 — January 3, 1971, Surat",
+    "h1":"January 3, 1971, Surat",
+    "title":"SB 6.1.56-62 — January 3, 1971, Surat",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.56–62 ======
 
 ---- dataentry spoken ----

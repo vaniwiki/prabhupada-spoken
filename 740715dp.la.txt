@@ -1,5 +1,12 @@
-~~Title: Departure Address — July 15, 1974, Los Angeles~~
-~~bc: July 15, 1974, Los Angeles~~
+---json
+{
+    "name":"Departure Address — July 15, 1974, Los Angeles",
+    "h1":"July 15, 1974, Los Angeles",
+    "title":"Departure Address — July 15, 1974, Los Angeles",
+    "description":""
+}
+---
+
 ====== Departure Address ======
 
 ---- dataentry spoken ----

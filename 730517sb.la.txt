@@ -1,5 +1,12 @@
-~~Title: SB 1.9.3 — May 17, 1973, Los Angeles~~
-~~bc: May 17, 1973, Los Angeles~~
+---json
+{
+    "name":"SB 1.9.3 — May 17, 1973, Los Angeles",
+    "h1":"May 17, 1973, Los Angeles",
+    "title":"SB 1.9.3 — May 17, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.9.3 ======
 
 ---- dataentry spoken ----

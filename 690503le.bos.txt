@@ -1,5 +1,12 @@
-~~Title: Lecture at Arlington Street Church — May 3, 1969, Boston~~
-~~bc: May 3, 1969, Boston~~
+---json
+{
+    "name":"Lecture at Arlington Street Church — May 3, 1969, Boston",
+    "h1":"May 3, 1969, Boston",
+    "title":"Lecture at Arlington Street Church — May 3, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Lecture at Arlington Street Church ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Morning Walk — July 14, 1976, New York~~
-~~bc: July 14, 1976, New York~~
+---json
+{
+    "name":"Morning Walk — July 14, 1976, New York",
+    "h1":"July 14, 1976, New York",
+    "title":"Morning Walk — July 14, 1976, New York",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

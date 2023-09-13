@@ -1,5 +1,12 @@
-~~Title: Mānasa Deha Geha and Purport — September 22, 1972, Los Angeles~~
-~~bc: September 22, 1972, Los Angeles~~
+---json
+{
+    "name":"Mānasa Deha Geha and Purport — September 22, 1972, Los Angeles",
+    "h1":"September 22, 1972, Los Angeles",
+    "title":"Mānasa Deha Geha and Purport — September 22, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Mānasa Deha Geha and Purport ======
 
 ---- dataentry spoken ----

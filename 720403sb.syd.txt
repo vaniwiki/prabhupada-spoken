@@ -1,5 +1,12 @@
-~~Title: SB 1.2.5 — April 3, 1972, Sydney ~~
-~~bc: April 3, 1972, Sydney ~~
+---json
+{
+    "name":"SB 1.2.5 — April 3, 1972, Sydney ",
+    "h1":"April 3, 1972, Sydney ",
+    "title":"SB 1.2.5 — April 3, 1972, Sydney ",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.5 ======
 
 ---- dataentry spoken ----

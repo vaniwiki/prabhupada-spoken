@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Dr. Theodore Kneupper — November 6, 1976, Vṛndāvana~~
-~~bc: November 6, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation with Dr. Theodore Kneupper — November 6, 1976, Vṛndāvana",
+    "h1":"November 6, 1976, Vṛndāvana",
+    "title":"Room Conversation with Dr. Theodore Kneupper — November 6, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation with Dr. Theodore Kneupper ======
 
 ---- dataentry spoken ----

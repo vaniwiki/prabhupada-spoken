@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 [Hindi] — September 25, 1975, Ahmedabad~~
-~~bc: September 25, 1975, Ahmedabad~~
+---json
+{
+    "name":"Bg 7.1 [Hindi] — September 25, 1975, Ahmedabad",
+    "h1":"September 25, 1975, Ahmedabad",
+    "title":"Bg 7.1 [Hindi] — September 25, 1975, Ahmedabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 [Hindi] ======
 
 ---- dataentry spoken ----

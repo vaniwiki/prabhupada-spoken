@@ -1,5 +1,12 @@
-~~Title: Talk during massage — June 11, 1975, Honolulu~~
-~~bc: June 11, 1975, Honolulu~~
+---json
+{
+    "name":"Talk during massage — June 11, 1975, Honolulu",
+    "h1":"June 11, 1975, Honolulu",
+    "title":"Talk during massage — June 11, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Talk during massage ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Lecture at Auckland University — April 17, 1972, Auckland~~
-~~bc: April 17, 1972, Auckland~~
+---json
+{
+    "name":"Lecture at Auckland University — April 17, 1972, Auckland",
+    "h1":"April 17, 1972, Auckland",
+    "title":"Lecture at Auckland University — April 17, 1972, Auckland",
+    "description":""
+}
+---
+
 ====== Lecture at Auckland University ======
 
 ---- dataentry spoken ----

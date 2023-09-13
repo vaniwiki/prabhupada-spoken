@@ -1,5 +1,12 @@
-~~Title: Lecture [Bengali] Intro by Purī Mahārāja — February 27, 1972, Māyāpur~~
-~~bc: February 27, 1972, Māyāpur~~
+---json
+{
+    "name":"Lecture [Bengali] Intro by Purī Mahārāja — February 27, 1972, Māyāpur",
+    "h1":"February 27, 1972, Māyāpur",
+    "title":"Lecture [Bengali] Intro by Purī Mahārāja — February 27, 1972, Māyāpur",
+    "description":""
+}
+---
+
 ====== Lecture [Bengali] Intro by Purī Mahārāja ======
 
 ---- dataentry spoken ----

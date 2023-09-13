@@ -1,5 +1,12 @@
-~~Title: Initiation Ceremony — December 25, 1973, Los Angeles~~
-~~bc: December 25, 1973, Los Angeles~~
+---json
+{
+    "name":"Initiation Ceremony — December 25, 1973, Los Angeles",
+    "h1":"December 25, 1973, Los Angeles",
+    "title":"Initiation Ceremony — December 25, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Initiation Ceremony ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Sannyāsa Initiation — February 20, 1970, Los Angeles~~
-~~bc: February 20, 1970, Los Angeles~~
+---json
+{
+    "name":"Sannyāsa Initiation — February 20, 1970, Los Angeles",
+    "h1":"February 20, 1970, Los Angeles",
+    "title":"Sannyāsa Initiation — February 20, 1970, Los Angeles",
+    "description":""
+}
+---
+
 ====== Sannyāsa Initiation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 6.1.49 — August 1, 1975, New Orleans Farm~~
-~~bc: August 1, 1975, New Orleans Farm~~
+---json
+{
+    "name":"SB 6.1.49 — August 1, 1975, New Orleans Farm",
+    "h1":"August 1, 1975, New Orleans Farm",
+    "title":"SB 6.1.49 — August 1, 1975, New Orleans Farm",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.49 ======
 
 ---- dataentry spoken ----

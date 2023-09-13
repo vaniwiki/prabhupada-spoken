@@ -1,5 +1,12 @@
-~~Title: Bg 9.22-23 — December 8, 1966, New York~~
-~~bc: December 8, 1966, New York~~
+---json
+{
+    "name":"Bg 9.22-23 — December 8, 1966, New York",
+    "h1":"December 8, 1966, New York",
+    "title":"Bg 9.22-23 — December 8, 1966, New York",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 9.22–23 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Prabhupāda Listening to Recording of His Own — April 25, 1969, Boston~~
-~~bc: April 25, 1969, Boston~~
+---json
+{
+    "name":"Prabhupāda Listening to Recording of His Own — April 25, 1969, Boston",
+    "h1":"April 25, 1969, Boston",
+    "title":"Prabhupāda Listening to Recording of His Own — April 25, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Prabhupāda Listening to Recording of His Own ======
 ---- dataentry spoken ----
 id_hidden        : 690425rc.bos

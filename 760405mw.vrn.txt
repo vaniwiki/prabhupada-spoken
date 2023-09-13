@@ -1,5 +1,12 @@
-~~Title: Morning Walk — April 5, 1976, Vṛndāvana~~
-~~bc: April 5, 1976, Vṛndāvana~~
+---json
+{
+    "name":"Morning Walk — April 5, 1976, Vṛndāvana",
+    "h1":"April 5, 1976, Vṛndāvana",
+    "title":"Morning Walk — April 5, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.5.13 — June 13, 1969, New Vrindaban~~
-~~bc: June 13, 1969, New Vrindaban~~
+---json
+{
+    "name":"SB 1.5.13 — June 13, 1969, New Vrindaban",
+    "h1":"June 13, 1969, New Vrindaban",
+    "title":"SB 1.5.13 — June 13, 1969, New Vrindaban",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.5.13 ======
 
 ---- dataentry spoken ----

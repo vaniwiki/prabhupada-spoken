@@ -1,5 +1,12 @@
-~~Title: Room Conversation [Hindi] — February 6, 1972, Bombay~~
-~~bc: February 6, 1972, Bombay~~
+---json
+{
+    "name":"Room Conversation [Hindi] — February 6, 1972, Bombay",
+    "h1":"February 6, 1972, Bombay",
+    "title":"Room Conversation [Hindi] — February 6, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== Room Conversation [Hindi] ======
 
 ---- dataentry spoken ----

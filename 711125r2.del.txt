@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Dr. Karan Singh — November 25, 1971, New Delhi~~
-~~bc: November 25, 1971, New Delhi~~
+---json
+{
+    "name":"Room Conversation with Dr. Karan Singh — November 25, 1971, New Delhi",
+    "h1":"November 25, 1971, New Delhi",
+    "title":"Room Conversation with Dr. Karan Singh — November 25, 1971, New Delhi",
+    "description":""
+}
+---
+
 ====== Room Conversation with Dr. Karan Singh ======
 
 ---- dataentry spoken ----

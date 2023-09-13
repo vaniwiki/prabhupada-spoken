@@ -1,5 +1,12 @@
-~~Title: SB 5.5.2 — April 28, 1969, Boston~~
-~~bc: April 28, 1969, Boston~~
+---json
+{
+    "name":"SB 5.5.2 — April 28, 1969, Boston",
+    "h1":"April 28, 1969, Boston",
+    "title":"SB 5.5.2 — April 28, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.2 ======
 
 ---- dataentry spoken ----

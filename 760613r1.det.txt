@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Mother and Son — June 13, 1976, Detroit~~
-~~bc: June 13, 1976, Detroit~~
+---json
+{
+    "name":"Room Conversation with Mother and Son — June 13, 1976, Detroit",
+    "h1":"June 13, 1976, Detroit",
+    "title":"Room Conversation with Mother and Son — June 13, 1976, Detroit",
+    "description":""
+}
+---
+
 ====== Room Conversation with Mother and Son ======
 
 ---- dataentry spoken ----

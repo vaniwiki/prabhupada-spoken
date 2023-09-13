@@ -1,5 +1,12 @@
-~~Title: Bg 9.3 [Hindi] — October 6, 1976, Chandigarh~~
-~~bc: October 6, 1976, Chandigarh~~
+---json
+{
+    "name":"Bg 9.3 [Hindi] — October 6, 1976, Chandigarh",
+    "h1":"October 6, 1976, Chandigarh",
+    "title":"Bg 9.3 [Hindi] — October 6, 1976, Chandigarh",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 9.3 [Hindi] ======
 
 ---- dataentry spoken ----

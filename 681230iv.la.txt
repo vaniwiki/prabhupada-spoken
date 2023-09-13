@@ -1,5 +1,12 @@
-~~Title: Press Interview — December 30, 1968, Los Angeles~~
-~~bc: December 30, 1968, Los Angeles~~
+---json
+{
+    "name":"Press Interview — December 30, 1968, Los Angeles",
+    "h1":"December 30, 1968, Los Angeles",
+    "title":"Press Interview — December 30, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Press Interview ======
 
 ---- dataentry spoken ----

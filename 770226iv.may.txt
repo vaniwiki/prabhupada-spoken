@@ -1,5 +1,12 @@
-~~Title: Interview — February 26, 1977, Māyāpur~~
-~~bc: February 26, 1977, Māyāpur~~
+---json
+{
+    "name":"Interview — February 26, 1977, Māyāpur",
+    "h1":"February 26, 1977, Māyāpur",
+    "title":"Interview — February 26, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Interview ======
 
 ---- dataentry spoken ----

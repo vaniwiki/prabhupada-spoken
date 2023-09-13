@@ -1,5 +1,12 @@
-~~Title: Radio Interview — May 25, 1975, Fiji~~
-~~bc: May 25, 1975, Fiji~~
+---json
+{
+    "name":"Radio Interview — May 25, 1975, Fiji",
+    "h1":"May 25, 1975, Fiji",
+    "title":"Radio Interview — May 25, 1975, Fiji",
+    "description":""
+}
+---
+
 ====== Radio Interview ======
 
 ---- dataentry spoken ----

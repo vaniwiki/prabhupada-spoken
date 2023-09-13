@@ -1,5 +1,12 @@
-~~Title: Pandal Speech — November 10, 1973, Delhi~~
-~~bc: November 10, 1973, Delhi~~
+---json
+{
+    "name":"Pandal Speech — November 10, 1973, Delhi",
+    "h1":"November 10, 1973, Delhi",
+    "title":"Pandal Speech — November 10, 1973, Delhi",
+    "description":""
+}
+---
+
 ====== Pandal Speech ======
 
 ---- dataentry spoken ----

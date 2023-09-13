@@ -1,5 +1,12 @@
-~~Title: Bg 7.3 — June 3, 1968, Montreal~~
-~~bc: June 3, 1968, Montreal~~
+---json
+{
+    "name":"Bg 7.3 — June 3, 1968, Montreal",
+    "h1":"June 3, 1968, Montreal",
+    "title":"Bg 7.3 — June 3, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.3 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.2.6 — November 26, 1972, Hyderabad~~
-~~bc: November 26, 1972, Hyderabad~~
+---json
+{
+    "name":"SB 1.2.6 — November 26, 1972, Hyderabad",
+    "h1":"November 26, 1972, Hyderabad",
+    "title":"SB 1.2.6 — November 26, 1972, Hyderabad",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
 ---- dataentry spoken ----

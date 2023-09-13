@@ -1,5 +1,12 @@
-~~Title: SB 1.7.20-21 — September 17, 1976, Vṛndāvana~~
-~~bc: September 17, 1976, Vṛndāvana~~
+---json
+{
+    "name":"SB 1.7.20-21 — September 17, 1976, Vṛndāvana",
+    "h1":"September 17, 1976, Vṛndāvana",
+    "title":"SB 1.7.20-21 — September 17, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.7.20–21 ======
 
 ---- dataentry spoken ----

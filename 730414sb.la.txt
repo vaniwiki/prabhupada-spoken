@@ -1,5 +1,12 @@
-~~Title: SB 1.8.22 — April 14, 1973, Los Angeles~~
-~~bc: April 14, 1973, Los Angeles~~
+---json
+{
+    "name":"SB 1.8.22 — April 14, 1973, Los Angeles",
+    "h1":"April 14, 1973, Los Angeles",
+    "title":"SB 1.8.22 — April 14, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.8.22 ======
 
 ---- dataentry spoken ----

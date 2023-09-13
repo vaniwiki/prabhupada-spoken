@@ -1,5 +1,12 @@
-~~Title: Bhajana with Harmonium, Room Conversation — November 10, 1973, Delhi~~
-~~bc: November 10, 1973, Delhi~~
+---json
+{
+    "name":"Bhajana with Harmonium, Room Conversation — November 10, 1973, Delhi",
+    "h1":"November 10, 1973, Delhi",
+    "title":"Bhajana with Harmonium, Room Conversation — November 10, 1973, Delhi",
+    "description":""
+}
+---
+
 ====== Bhajana with Harmonium, Room Conversation ======
 
 ---- dataentry spoken ----

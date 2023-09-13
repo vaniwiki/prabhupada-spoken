@@ -1,5 +1,12 @@
-~~Title: Deity Installation, Wedding and Initiations — April 6, 1972, Melbourne~~
-~~bc: April 6, 1972, Melbourne~~
+---json
+{
+    "name":"Deity Installation, Wedding and Initiations — April 6, 1972, Melbourne",
+    "h1":"April 6, 1972, Melbourne",
+    "title":"Deity Installation, Wedding and Initiations — April 6, 1972, Melbourne",
+    "description":""
+}
+---
+
 ====== Deity Installation, Wedding and Initiations ======
 
 ---- dataentry spoken ----

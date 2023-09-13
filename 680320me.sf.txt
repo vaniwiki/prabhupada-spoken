@@ -1,5 +1,12 @@
-~~Title: Morning Walk — March 20, 1968, San Francisco~~
-~~bc: March 20, 1968, San Francisco~~
+---json
+{
+    "name":"Morning Walk — March 20, 1968, San Francisco",
+    "h1":"March 20, 1968, San Francisco",
+    "title":"Morning Walk — March 20, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

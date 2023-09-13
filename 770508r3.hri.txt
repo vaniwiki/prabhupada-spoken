@@ -1,5 +1,12 @@
-~~Title: Room Conversation — May 8, 1977, Rishikesh~~
-~~bc: May 8, 1977, Rishikesh~~
+---json
+{
+    "name":"Room Conversation — May 8, 1977, Rishikesh",
+    "h1":"May 8, 1977, Rishikesh",
+    "title":"Room Conversation — May 8, 1977, Rishikesh",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

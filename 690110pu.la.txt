@@ -1,5 +1,12 @@
-~~Title: Purport to Gaura Pahū — January 10, 1969, Los Angeles~~
-~~bc: January 10, 1969, Los Angeles~~
+---json
+{
+    "name":"Purport to Gaura Pahū — January 10, 1969, Los Angeles",
+    "h1":"January 10, 1969, Los Angeles",
+    "title":"Purport to Gaura Pahū — January 10, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Purport to Gaura Pahū ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 6.1.41 — July 22, 1975 , Los Angeles~~
-~~bc: July 22, 1975 , Los Angeles~~
+---json
+{
+    "name":"SB 6.1.41 — July 22, 1975 , Los Angeles",
+    "h1":"July 22, 1975 , Los Angeles",
+    "title":"SB 6.1.41 — July 22, 1975 , Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.41 ======
 
 ---- dataentry spoken ----

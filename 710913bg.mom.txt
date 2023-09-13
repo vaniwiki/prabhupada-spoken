@@ -1,5 +1,12 @@
-~~Title: Bg 2.13 — September 13, 1971, Mombassa~~
-~~bc: September 13, 1971, Mombassa~~
+---json
+{
+    "name":"Bg 2.13 — September 13, 1971, Mombassa",
+    "h1":"September 13, 1971, Mombassa",
+    "title":"Bg 2.13 — September 13, 1971, Mombassa",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.13 ======
 
 ---- dataentry spoken ----

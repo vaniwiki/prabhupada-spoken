@@ -1,5 +1,12 @@
-~~Title: Talk with Svarūpa Dāmodara — April 18, 1977, Bombay~~
-~~bc: April 18, 1977, Bombay~~
+---json
+{
+    "name":"Talk with Svarūpa Dāmodara — April 18, 1977, Bombay",
+    "h1":"April 18, 1977, Bombay",
+    "title":"Talk with Svarūpa Dāmodara — April 18, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Talk with Svarūpa Dāmodara ======
 
 ---- dataentry spoken ----

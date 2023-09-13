@@ -1,5 +1,12 @@
-~~Title: Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded — July 17, 1968, Montreal~~
-~~bc: July 17, 1968, Montreal~~
+---json
+{
+    "name":"Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded — July 17, 1968, Montreal",
+    "h1":"July 17, 1968, Montreal",
+    "title":"Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded — July 17, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded ======
 
 ---- dataentry spoken ----

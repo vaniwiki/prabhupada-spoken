@@ -1,5 +1,12 @@
-~~Title: Talk at Rādhā-Govinda Mandir — March 24, 1976, Calcutta~~
-~~bc: March 24, 1976, Calcutta~~
+---json
+{
+    "name":"Talk at Rādhā-Govinda Mandir — March 24, 1976, Calcutta",
+    "h1":"March 24, 1976, Calcutta",
+    "title":"Talk at Rādhā-Govinda Mandir — March 24, 1976, Calcutta",
+    "description":""
+}
+---
+
 ====== Talk at Rādhā-Govinda Mandir ======
 
 ---- dataentry spoken ----

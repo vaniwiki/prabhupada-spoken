@@ -1,5 +1,12 @@
-~~Title: Conversation with Bhakti-caitanya Swami (New GBC) — June 30, 1977, Vṛndāvana~~
-~~bc: June 30, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Conversation with Bhakti-caitanya Swami (New GBC) — June 30, 1977, Vṛndāvana",
+    "h1":"June 30, 1977, Vṛndāvana",
+    "title":"Conversation with Bhakti-caitanya Swami (New GBC) — June 30, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Conversation with Bhakti-caitanya Swami (New GBC) ======
 
 ---- dataentry spoken ----

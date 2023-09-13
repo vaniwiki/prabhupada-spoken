@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Ambarīṣa and Catholic Priest — June 14, 1976, Detroit~~
-~~bc: June 14, 1976, Detroit~~
+---json
+{
+    "name":"Room Conversation with Ambarīṣa and Catholic Priest — June 14, 1976, Detroit",
+    "h1":"June 14, 1976, Detroit",
+    "title":"Room Conversation with Ambarīṣa and Catholic Priest — June 14, 1976, Detroit",
+    "description":""
+}
+---
+
 ====== Room Conversation with Ambarīṣa and Catholic Priest ======
 
 ---- dataentry spoken ----

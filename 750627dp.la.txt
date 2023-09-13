@@ -1,5 +1,12 @@
-~~Title: Departure Conversation — June 27, 1975, Los Angeles~~
-~~bc: June 27, 1975, Los Angeles~~
+---json
+{
+    "name":"Departure Conversation — June 27, 1975, Los Angeles",
+    "h1":"June 27, 1975, Los Angeles",
+    "title":"Departure Conversation — June 27, 1975, Los Angeles",
+    "description":""
+}
+---
+
 ====== Departure Conversation ======
 
 ---- dataentry spoken ----

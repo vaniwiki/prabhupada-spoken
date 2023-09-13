@@ -1,5 +1,12 @@
-~~Title: Morning Walk [partially recorded] — September 2, 1976, Delhi~~
-~~bc: September 2, 1976, Delhi~~
+---json
+{
+    "name":"Morning Walk [partially recorded] — September 2, 1976, Delhi",
+    "h1":"September 2, 1976, Delhi",
+    "title":"Morning Walk [partially recorded] — September 2, 1976, Delhi",
+    "description":""
+}
+---
+
 ====== Morning Walk [partially recorded] ======
 
 ---- dataentry spoken ----

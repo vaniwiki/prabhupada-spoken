@@ -1,5 +1,12 @@
-~~Title: Conversation in Airport and Car to New Vrindavan — June 21, 1976, Toronto, New Vrindavan~~
-~~bc: June 21, 1976, Toronto, New Vrindavan~~
+---json
+{
+    "name":"Conversation in Airport and Car to New Vrindavan — June 21, 1976, Toronto, New Vrindavan",
+    "h1":"June 21, 1976, Toronto, New Vrindavan",
+    "title":"Conversation in Airport and Car to New Vrindavan — June 21, 1976, Toronto, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Conversation in Airport and Car to New Vrindavan ======
 
 ---- dataentry spoken ----

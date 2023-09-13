@@ -1,5 +1,12 @@
-~~Title: Initiation Lecture [partially recorded] — September 7, 1971, London~~
-~~bc: September 7, 1971, London~~
+---json
+{
+    "name":"Initiation Lecture [partially recorded] — September 7, 1971, London",
+    "h1":"September 7, 1971, London",
+    "title":"Initiation Lecture [partially recorded] — September 7, 1971, London",
+    "description":""
+}
+---
+
 ====== Initiation Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

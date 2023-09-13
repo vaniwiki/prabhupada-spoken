@@ -1,5 +1,12 @@
-~~Title: Lecture on Twenty-four Elements [partially recorded] — November 14, 1968, Los Angeles~~
-~~bc: November 14, 1968, Los Angeles~~
+---json
+{
+    "name":"Lecture on Twenty-four Elements [partially recorded] — November 14, 1968, Los Angeles",
+    "h1":"November 14, 1968, Los Angeles",
+    "title":"Lecture on Twenty-four Elements [partially recorded] — November 14, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Lecture on Twenty-four Elements [partially recorded] ======
 
 ---- dataentry spoken ----

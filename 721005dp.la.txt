@@ -1,5 +1,12 @@
-~~Title: Departure, Brahma-saṁhitā 5.1 — October 5, 1972, Los Angeles~~
-~~bc: October 5, 1972, Los Angeles~~
+---json
+{
+    "name":"Departure, Brahma-saṁhitā 5.1 — October 5, 1972, Los Angeles",
+    "h1":"October 5, 1972, Los Angeles",
+    "title":"Departure, Brahma-saṁhitā 5.1 — October 5, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Departure, Brahma-saṁhitā 5.1 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 7.2 [Hindi] — December 28, 1975, Sanand~~
-~~bc: December 28, 1975, Sanand~~
+---json
+{
+    "name":"Bg 7.2 [Hindi] — December 28, 1975, Sanand",
+    "h1":"December 28, 1975, Sanand",
+    "title":"Bg 7.2 [Hindi] — December 28, 1975, Sanand",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.2 [Hindi] ======
 
 ---- dataentry spoken ----

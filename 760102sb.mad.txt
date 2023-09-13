@@ -1,5 +1,12 @@
-~~Title: SB 7.6.1 — January 2, 1976, Madras~~
-~~bc: January 2, 1976, Madras~~
+---json
+{
+    "name":"SB 7.6.1 — January 2, 1976, Madras",
+    "h1":"January 2, 1976, Madras",
+    "title":"SB 7.6.1 — January 2, 1976, Madras",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.6.1 ======
 
 ---- dataentry spoken ----

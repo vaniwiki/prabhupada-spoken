@@ -1,5 +1,12 @@
-~~Title: SB 7.5.31 — October 4, 1975, Mauritius~~
-~~bc: October 4, 1975, Mauritius~~
+---json
+{
+    "name":"SB 7.5.31 — October 4, 1975, Mauritius",
+    "h1":"October 4, 1975, Mauritius",
+    "title":"SB 7.5.31 — October 4, 1975, Mauritius",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.5.31 ======
 
 ---- dataentry spoken ----

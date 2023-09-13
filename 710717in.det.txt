@@ -1,5 +1,12 @@
-~~Title: Initiation Lecture [partially recorded] — July 17, 1971, Detroit~~
-~~bc: July 17, 1971, Detroit~~
+---json
+{
+    "name":"Initiation Lecture [partially recorded] — July 17, 1971, Detroit",
+    "h1":"July 17, 1971, Detroit",
+    "title":"Initiation Lecture [partially recorded] — July 17, 1971, Detroit",
+    "description":""
+}
+---
+
 ====== Initiation Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

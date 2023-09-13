@@ -1,5 +1,12 @@
-~~Title: Bg 2.13 — June 22, 1974, Germany~~
-~~bc: June 22, 1974, Germany~~
+---json
+{
+    "name":"Bg 2.13 — June 22, 1974, Germany",
+    "h1":"June 22, 1974, Germany",
+    "title":"Bg 2.13 — June 22, 1974, Germany",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.13 ======
 
 ---- dataentry spoken ----

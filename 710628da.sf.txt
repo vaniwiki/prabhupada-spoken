@@ -1,5 +1,12 @@
-~~Title: Darśana — June 28, 1971, San Francisco~~
-~~bc: June 28, 1971, San Francisco~~
+---json
+{
+    "name":"Darśana — June 28, 1971, San Francisco",
+    "h1":"June 28, 1971, San Francisco",
+    "title":"Darśana — June 28, 1971, San Francisco",
+    "description":""
+}
+---
+
 ====== Darśana ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Psychiatrist — October 3, 1972, Los Angeles~~
-~~bc: October 3, 1972, Los Angeles~~
+---json
+{
+    "name":"Room Conversation with Psychiatrist — October 3, 1972, Los Angeles",
+    "h1":"October 3, 1972, Los Angeles",
+    "title":"Room Conversation with Psychiatrist — October 3, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Room Conversation with Psychiatrist ======
 
 ---- dataentry spoken ----

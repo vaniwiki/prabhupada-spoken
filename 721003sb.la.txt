@@ -1,5 +1,12 @@
-~~Title: SB 1.3.28 — October 3, 1972, Los Angeles~~
-~~bc: October 3, 1972, Los Angeles~~
+---json
+{
+    "name":"SB 1.3.28 — October 3, 1972, Los Angeles",
+    "h1":"October 3, 1972, Los Angeles",
+    "title":"SB 1.3.28 — October 3, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.3.28 ======
 
 ---- dataentry spoken ----

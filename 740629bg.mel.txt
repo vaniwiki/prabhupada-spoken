@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 — June 29, 1974, Melbourne~~
-~~bc: June 29, 1974, Melbourne~~
+---json
+{
+    "name":"Bg 7.1 — June 29, 1974, Melbourne",
+    "h1":"June 29, 1974, Melbourne",
+    "title":"Bg 7.1 — June 29, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 ======
 
 ---- dataentry spoken ----

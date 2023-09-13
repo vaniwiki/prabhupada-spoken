@@ -1,5 +1,12 @@
-~~Title: Arrival Address — June 17, 1976, Toronto~~
-~~bc: June 17, 1976, Toronto~~
+---json
+{
+    "name":"Arrival Address — June 17, 1976, Toronto",
+    "h1":"June 17, 1976, Toronto",
+    "title":"Arrival Address — June 17, 1976, Toronto",
+    "description":""
+}
+---
+
 ====== Arrival Address ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 3.25.14 — November 14, 1974, Bombay~~
-~~bc: November 14, 1974, Bombay~~
+---json
+{
+    "name":"SB 3.25.14 — November 14, 1974, Bombay",
+    "h1":"November 14, 1974, Bombay",
+    "title":"SB 3.25.14 — November 14, 1974, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 3.25.14 ======
 
 ---- dataentry spoken ----

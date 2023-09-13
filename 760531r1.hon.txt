@@ -1,5 +1,12 @@
-~~Title: Philosophy Discussion with Hayagriva — May 31, 1976, Honolulu~~
-~~bc: May 31, 1976, Honolulu~~
+---json
+{
+    "name":"Philosophy Discussion with Hayagriva — May 31, 1976, Honolulu",
+    "h1":"May 31, 1976, Honolulu",
+    "title":"Philosophy Discussion with Hayagriva — May 31, 1976, Honolulu",
+    "description":""
+}
+---
+
 ====== Philosophy Discussion with Hayagriva ======
 
 ---- dataentry spoken ----

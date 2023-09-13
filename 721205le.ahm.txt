@@ -1,5 +1,12 @@
-~~Title: Rotary Club Lecture, Bhagavad-gītā 2.24 — December 5, 1972, Ahmedabad~~
-~~bc: December 5, 1972, Ahmedabad~~
+---json
+{
+    "name":"Rotary Club Lecture, Bhagavad-gītā 2.24 — December 5, 1972, Ahmedabad",
+    "h1":"December 5, 1972, Ahmedabad",
+    "title":"Rotary Club Lecture, Bhagavad-gītā 2.24 — December 5, 1972, Ahmedabad",
+    "description":""
+}
+---
+
 ====== Rotary Club Lecture, Bhagavad-gītā 2.24 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation with Prof. Kotovsky — June 22, 1971, Moscow~~
-~~bc: June 22, 1971, Moscow~~
+---json
+{
+    "name":"Conversation with Prof. Kotovsky — June 22, 1971, Moscow",
+    "h1":"June 22, 1971, Moscow",
+    "title":"Conversation with Prof. Kotovsky — June 22, 1971, Moscow",
+    "description":""
+}
+---
+
 ====== Conversation with Prof. Kotovsky ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.337-353 — December 25, 1966, New York~~
-~~bc: December 25, 1966, New York~~
+---json
+{
+    "name":"Cc. Madhya 20.337-353 — December 25, 1966, New York",
+    "h1":"December 25, 1966, New York",
+    "title":"Cc. Madhya 20.337-353 — December 25, 1966, New York",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.337–353 ======
 
 ---- dataentry spoken ----

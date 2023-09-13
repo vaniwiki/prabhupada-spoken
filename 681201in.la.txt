@@ -1,5 +1,12 @@
-~~Title: Talk, Initiation Lecture, and Ten Offenses Lecture — December 1, 1968, Los Angeles~~
-~~bc: December 1, 1968, Los Angeles~~
+---json
+{
+    "name":"Talk, Initiation Lecture, and Ten Offenses Lecture — December 1, 1968, Los Angeles",
+    "h1":"December 1, 1968, Los Angeles",
+    "title":"Talk, Initiation Lecture, and Ten Offenses Lecture — December 1, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Talk, Initiation Lecture, and Ten Offenses Lecture ======
 
 ---- dataentry spoken ----

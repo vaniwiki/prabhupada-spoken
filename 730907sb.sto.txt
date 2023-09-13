@@ -1,5 +1,12 @@
-~~Title: SB 5.5.1-2 — September 7, 1973, Stockholm~~
-~~bc: September 7, 1973, Stockholm~~
+---json
+{
+    "name":"SB 5.5.1-2 — September 7, 1973, Stockholm",
+    "h1":"September 7, 1973, Stockholm",
+    "title":"SB 5.5.1-2 — September 7, 1973, Stockholm",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.1–2 ======
 
 ---- dataentry spoken ----

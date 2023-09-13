@@ -1,5 +1,12 @@
-~~Title: Lecture [partially recorded] — February 10, 1969, Los Angeles~~
-~~bc: February 10, 1969, Los Angeles~~
+---json
+{
+    "name":"Lecture [partially recorded] — February 10, 1969, Los Angeles",
+    "h1":"February 10, 1969, Los Angeles",
+    "title":"Lecture [partially recorded] — February 10, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

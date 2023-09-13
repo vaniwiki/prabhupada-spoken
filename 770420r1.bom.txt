@@ -1,5 +1,12 @@
-~~Title: Conversation with Patita-pāvana — April 20, 1977, Bombay~~
-~~bc: April 20, 1977, Bombay~~
+---json
+{
+    "name":"Conversation with Patita-pāvana — April 20, 1977, Bombay",
+    "h1":"April 20, 1977, Bombay",
+    "title":"Conversation with Patita-pāvana — April 20, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation with Patita-pāvana ======
 
 ---- dataentry spoken ----

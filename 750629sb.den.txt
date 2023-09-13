@@ -1,5 +1,12 @@
-~~Title: SB 6.1.16 — June 29, 1975, Denver~~
-~~bc: June 29, 1975, Denver~~
+---json
+{
+    "name":"SB 6.1.16 — June 29, 1975, Denver",
+    "h1":"June 29, 1975, Denver",
+    "title":"SB 6.1.16 — June 29, 1975, Denver",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.16 ======
 
 ---- dataentry spoken ----

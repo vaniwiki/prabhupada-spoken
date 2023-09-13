@@ -1,5 +1,12 @@
-~~Title: SB 2.1.4 — March 19, 1974, Vṛndāvana~~
-~~bc: March 19, 1974, Vṛndāvana~~
+---json
+{
+    "name":"SB 2.1.4 — March 19, 1974, Vṛndāvana",
+    "h1":"March 19, 1974, Vṛndāvana",
+    "title":"SB 2.1.4 — March 19, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.1.4 ======
 
 ---- dataentry spoken ----

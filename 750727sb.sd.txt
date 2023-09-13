@@ -1,5 +1,12 @@
-~~Title: SB 6.1.46 — July 27, 1975, San Diego~~
-~~bc: July 27, 1975, San Diego~~
+---json
+{
+    "name":"SB 6.1.46 — July 27, 1975, San Diego",
+    "h1":"July 27, 1975, San Diego",
+    "title":"SB 6.1.46 — July 27, 1975, San Diego",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.46 ======
 
 ---- dataentry spoken ----

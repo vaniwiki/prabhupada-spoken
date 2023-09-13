@@ -1,5 +1,12 @@
-~~Title: Lecture [Hindi] — April 25, 1974, Tirupati~~
-~~bc: April 25, 1974, Tirupati~~
+---json
+{
+    "name":"Lecture [Hindi] — April 25, 1974, Tirupati",
+    "h1":"April 25, 1974, Tirupati",
+    "title":"Lecture [Hindi] — April 25, 1974, Tirupati",
+    "description":""
+}
+---
+
 ====== Lecture [Hindi] ======
 
 ---- dataentry spoken ----

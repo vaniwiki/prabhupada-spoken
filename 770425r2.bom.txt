@@ -1,5 +1,12 @@
-~~Title: Conversation: Bogus Gurus — April 25, 1977, Bombay~~
-~~bc: April 25, 1977, Bombay~~
+---json
+{
+    "name":"Conversation: Bogus Gurus — April 25, 1977, Bombay",
+    "h1":"April 25, 1977, Bombay",
+    "title":"Conversation: Bogus Gurus — April 25, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation: Bogus Gurus ======
 
 ---- dataentry spoken ----

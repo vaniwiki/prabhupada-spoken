@@ -1,5 +1,12 @@
-~~Title: Lecture — May 10, 1972, Honolulu~~
-~~bc: May 10, 1972, Honolulu~~
+---json
+{
+    "name":"Lecture — May 10, 1972, Honolulu",
+    "h1":"May 10, 1972, Honolulu",
+    "title":"Lecture — May 10, 1972, Honolulu",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

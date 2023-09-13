@@ -1,5 +1,12 @@
-~~Title: Bg 9.2 — March 7, 1972, Calcutta~~
-~~bc: March 7, 1972, Calcutta~~
+---json
+{
+    "name":"Bg 9.2 — March 7, 1972, Calcutta",
+    "h1":"March 7, 1972, Calcutta",
+    "title":"Bg 9.2 — March 7, 1972, Calcutta",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 9.2 ======
 
 ---- dataentry spoken ----

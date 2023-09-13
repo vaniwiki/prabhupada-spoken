@@ -1,5 +1,12 @@
-~~Title: Morning Walk — May 3, 1973, Los Angeles~~
-~~bc: May 3, 1973, Los Angeles~~
+---json
+{
+    "name":"Morning Walk — May 3, 1973, Los Angeles",
+    "h1":"May 3, 1973, Los Angeles",
+    "title":"Morning Walk — May 3, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

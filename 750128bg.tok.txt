@@ -1,5 +1,12 @@
-~~Title: Bg 16.8 — January 28, 1975, Tokyo~~
-~~bc: January 28, 1975, Tokyo~~
+---json
+{
+    "name":"Bg 16.8 — January 28, 1975, Tokyo",
+    "h1":"January 28, 1975, Tokyo",
+    "title":"Bg 16.8 — January 28, 1975, Tokyo",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 16.8 ======
 
 ---- dataentry spoken ----

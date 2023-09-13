@@ -1,5 +1,12 @@
-~~Title: Bg 2.12 — December 12, 1976, Hyderabad~~
-~~bc: December 12, 1976, Hyderabad~~
+---json
+{
+    "name":"Bg 2.12 — December 12, 1976, Hyderabad",
+    "h1":"December 12, 1976, Hyderabad",
+    "title":"Bg 2.12 — December 12, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.12 ======
 
 ---- dataentry spoken ----

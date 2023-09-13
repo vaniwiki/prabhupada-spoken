@@ -1,5 +1,12 @@
-~~Title: Bg 7.5 — February 20, 1974, Bombay~~
-~~bc: February 20, 1974, Bombay~~
+---json
+{
+    "name":"Bg 7.5 — February 20, 1974, Bombay",
+    "h1":"February 20, 1974, Bombay",
+    "title":"Bg 7.5 — February 20, 1974, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.5 ======
 
 ---- dataentry spoken ----

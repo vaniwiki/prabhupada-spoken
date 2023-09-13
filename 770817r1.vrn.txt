@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Madhudviṣa and others — August 17, 1977, Vṛndāvana~~
-~~bc: August 17, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation with Madhudviṣa and others — August 17, 1977, Vṛndāvana",
+    "h1":"August 17, 1977, Vṛndāvana",
+    "title":"Room Conversation with Madhudviṣa and others — August 17, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation with Madhudviṣa and others ======
 
 ---- dataentry spoken ----

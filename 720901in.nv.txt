@@ -1,5 +1,12 @@
-~~Title: Initiations — September 1, 1972, New Vrindavan~~
-~~bc: September 1, 1972, New Vrindavan~~
+---json
+{
+    "name":"Initiations — September 1, 1972, New Vrindavan",
+    "h1":"September 1, 1972, New Vrindavan",
+    "title":"Initiations — September 1, 1972, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Initiations ======
 
 ---- dataentry spoken ----

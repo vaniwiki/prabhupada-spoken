@@ -1,5 +1,12 @@
-~~Title: Discussions Will & Affidavit — June 2, 1977, Vṛndāvana~~
-~~bc: June 2, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Discussions Will & Affidavit — June 2, 1977, Vṛndāvana",
+    "h1":"June 2, 1977, Vṛndāvana",
+    "title":"Discussions Will & Affidavit — June 2, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Discussions Will & Affidavit ======
 
 ---- dataentry spoken ----

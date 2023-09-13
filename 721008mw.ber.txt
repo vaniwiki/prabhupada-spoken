@@ -1,5 +1,12 @@
-~~Title: Morning Walk — October 8, 1972, Berkeley~~
-~~bc: October 8, 1972, Berkeley~~
+---json
+{
+    "name":"Morning Walk — October 8, 1972, Berkeley",
+    "h1":"October 8, 1972, Berkeley",
+    "title":"Morning Walk — October 8, 1972, Berkeley",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

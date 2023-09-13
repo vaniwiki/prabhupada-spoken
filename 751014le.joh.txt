@@ -1,5 +1,12 @@
-~~Title: Lecture — October 14, 1975, Johannesburg~~
-~~bc: October 14, 1975, Johannesburg~~
+---json
+{
+    "name":"Lecture — October 14, 1975, Johannesburg",
+    "h1":"October 14, 1975, Johannesburg",
+    "title":"Lecture — October 14, 1975, Johannesburg",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Purport to Prayers by King Kulaśekhara — December 25, 1968, Los Angeles~~
-~~bc: December 25, 1968, Los Angeles~~
+---json
+{
+    "name":"Purport to Prayers by King Kulaśekhara — December 25, 1968, Los Angeles",
+    "h1":"December 25, 1968, Los Angeles",
+    "title":"Purport to Prayers by King Kulaśekhara — December 25, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Purport to Prayers by King Kulaśekhara ======
 
 ---- dataentry spoken ----

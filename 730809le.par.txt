@@ -1,5 +1,12 @@
-~~Title: Lecture at Hotel de Ville — August 9, 1973, Paris~~
-~~bc: August 9, 1973, Paris~~
+---json
+{
+    "name":"Lecture at Hotel de Ville — August 9, 1973, Paris",
+    "h1":"August 9, 1973, Paris",
+    "title":"Lecture at Hotel de Ville — August 9, 1973, Paris",
+    "description":""
+}
+---
+
 ====== Lecture at Hotel de Ville ======
 
 ---- dataentry spoken ----

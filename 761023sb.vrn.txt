@@ -1,5 +1,12 @@
-~~Title: SB 5.5.1 — October 23, 1976, Vṛndāvana~~
-~~bc: October 23, 1976, Vṛndāvana~~
+---json
+{
+    "name":"SB 5.5.1 — October 23, 1976, Vṛndāvana",
+    "h1":"October 23, 1976, Vṛndāvana",
+    "title":"SB 5.5.1 — October 23, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.1 ======
 
 ---- dataentry spoken ----

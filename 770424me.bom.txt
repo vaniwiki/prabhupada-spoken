@@ -1,5 +1,12 @@
-~~Title: Second Meeting with Mr. Dwivedi — April 24, 1977, Bombay~~
-~~bc: April 24, 1977, Bombay~~
+---json
+{
+    "name":"Second Meeting with Mr. Dwivedi — April 24, 1977, Bombay",
+    "h1":"April 24, 1977, Bombay",
+    "title":"Second Meeting with Mr. Dwivedi — April 24, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Second Meeting with Mr. Dwivedi ======
 
 ---- dataentry spoken ----

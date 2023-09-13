@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 — May 24, 1975, Fiji~~
-~~bc: May 24, 1975, Fiji~~
+---json
+{
+    "name":"Bg 7.1 — May 24, 1975, Fiji",
+    "h1":"May 24, 1975, Fiji",
+    "title":"Bg 7.1 — May 24, 1975, Fiji",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 ======
 
 ---- dataentry spoken ----

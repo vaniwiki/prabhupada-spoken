@@ -1,5 +1,12 @@
-~~Title: Conversation with Italian Woman with Translator — February 28, 1977, Māyāpur~~
-~~bc: February 28, 1977, Māyāpur~~
+---json
+{
+    "name":"Conversation with Italian Woman with Translator — February 28, 1977, Māyāpur",
+    "h1":"February 28, 1977, Māyāpur",
+    "title":"Conversation with Italian Woman with Translator — February 28, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Conversation with Italian Woman with Translator ======
 
 ---- dataentry spoken ----

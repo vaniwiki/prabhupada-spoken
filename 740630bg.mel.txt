@@ -1,5 +1,12 @@
-~~Title: Bg 9.1-2 — June 30, 1974, Melbourne~~
-~~bc: June 30, 1974, Melbourne~~
+---json
+{
+    "name":"Bg 9.1-2 — June 30, 1974, Melbourne",
+    "h1":"June 30, 1974, Melbourne",
+    "title":"Bg 9.1-2 — June 30, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 9.1–2 ======
 
 ---- dataentry spoken ----

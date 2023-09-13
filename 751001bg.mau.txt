@@ -1,5 +1,12 @@
-~~Title: Bg 2.11 — October 1, 1975, Mauritius~~
-~~bc: October 1, 1975, Mauritius~~
+---json
+{
+    "name":"Bg 2.11 — October 1, 1975, Mauritius",
+    "h1":"October 1, 1975, Mauritius",
+    "title":"Bg 2.11 — October 1, 1975, Mauritius",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.11 ======
 
 ---- dataentry spoken ----

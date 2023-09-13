@@ -1,5 +1,12 @@
-~~Title: Room Conversation — December 15, 1970, Surat~~
-~~bc: December 15, 1970, Surat~~
+---json
+{
+    "name":"Room Conversation — December 15, 1970, Surat",
+    "h1":"December 15, 1970, Surat",
+    "title":"Room Conversation — December 15, 1970, Surat",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

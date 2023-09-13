@@ -1,5 +1,12 @@
-~~Title: Interview with Macmillan, Professor Gombrich and English Reporters — September 12, 1973, London~~
-~~bc: September 12, 1973, London~~
+---json
+{
+    "name":"Interview with Macmillan, Professor Gombrich and English Reporters — September 12, 1973, London",
+    "h1":"September 12, 1973, London",
+    "title":"Interview with Macmillan, Professor Gombrich and English Reporters — September 12, 1973, London",
+    "description":""
+}
+---
+
 ====== Interview with Macmillan, Professor Gombrich and English Reporters ======
 
 ---- dataentry spoken ----

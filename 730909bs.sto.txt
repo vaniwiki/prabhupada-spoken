@@ -1,5 +1,12 @@
-~~Title: Śrī Brahma-saṁhitā 5.33, at Uppsala University, excerpt — September 9, 1973, Stockholm~~
-~~bc: September 9, 1973, Stockholm~~
+---json
+{
+    "name":"Śrī Brahma-saṁhitā 5.33, at Uppsala University, excerpt — September 9, 1973, Stockholm",
+    "h1":"September 9, 1973, Stockholm",
+    "title":"Śrī Brahma-saṁhitā 5.33, at Uppsala University, excerpt — September 9, 1973, Stockholm",
+    "description":""
+}
+---
+
 ====== Śrī Brahma-saṁhitā 5.33, at Uppsala University, excerpt ======
 
 ---- dataentry spoken ----

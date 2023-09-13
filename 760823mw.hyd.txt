@@ -1,5 +1,12 @@
-~~Title: Morning Walk in Public Gardens — August 23, 1976, Hyderabad~~
-~~bc: August 23, 1976, Hyderabad~~
+---json
+{
+    "name":"Morning Walk in Public Gardens — August 23, 1976, Hyderabad",
+    "h1":"August 23, 1976, Hyderabad",
+    "title":"Morning Walk in Public Gardens — August 23, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Morning Walk in Public Gardens ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.8.18 — July 4, 1974, Chicago~~
-~~bc: July 4, 1974, Chicago~~
+---json
+{
+    "name":"SB 1.8.18 — July 4, 1974, Chicago",
+    "h1":"July 4, 1974, Chicago",
+    "title":"SB 1.8.18 — July 4, 1974, Chicago",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.8.18 ======
 
 ---- dataentry spoken ----

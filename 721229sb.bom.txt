@@ -1,5 +1,12 @@
-~~Title: SB Lecture [Hindi] — December 29, 1972, Bombay~~
-~~bc: December 29, 1972, Bombay~~
+---json
+{
+    "name":"SB Lecture [Hindi] — December 29, 1972, Bombay",
+    "h1":"December 29, 1972, Bombay",
+    "title":"SB Lecture [Hindi] — December 29, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam Lecture [Hindi] ======
 
 ---- dataentry spoken ----

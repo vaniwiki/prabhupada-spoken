@@ -1,5 +1,12 @@
-~~Title: SB 7.6.1 — May 8, 1968, Boston~~
-~~bc: May 8, 1968, Boston~~
+---json
+{
+    "name":"SB 7.6.1 — May 8, 1968, Boston",
+    "h1":"May 8, 1968, Boston",
+    "title":"SB 7.6.1 — May 8, 1968, Boston",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.6.1 ======
 
 ---- dataentry spoken ----

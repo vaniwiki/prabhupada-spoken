@@ -1,5 +1,12 @@
-~~Title: SB 6.1.26-27 — July 12, 1975, Philadelphia~~
-~~bc: July 12, 1975, Philadelphia~~
+---json
+{
+    "name":"SB 6.1.26-27 — July 12, 1975, Philadelphia",
+    "h1":"July 12, 1975, Philadelphia",
+    "title":"SB 6.1.26-27 — July 12, 1975, Philadelphia",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.26–27 ======
 
 ---- dataentry spoken ----

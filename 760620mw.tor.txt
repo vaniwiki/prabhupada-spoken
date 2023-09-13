@@ -1,5 +1,12 @@
-~~Title: Morning Walk — June 20, 1976, Toronto~~
-~~bc: June 20, 1976, Toronto~~
+---json
+{
+    "name":"Morning Walk — June 20, 1976, Toronto",
+    "h1":"June 20, 1976, Toronto",
+    "title":"Morning Walk — June 20, 1976, Toronto",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

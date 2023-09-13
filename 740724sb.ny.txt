@@ -1,5 +1,12 @@
-~~Title: SB 1.2.20 — July 24, 1974, New York~~
-~~bc: July 24, 1974, New York~~
+---json
+{
+    "name":"SB 1.2.20 — July 24, 1974, New York",
+    "h1":"July 24, 1974, New York",
+    "title":"SB 1.2.20 — July 24, 1974, New York",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.20 ======
 
 ---- dataentry spoken ----

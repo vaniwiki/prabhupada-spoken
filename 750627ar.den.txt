@@ -1,5 +1,12 @@
-~~Title: Arrival Address — June 27, 1975, Denver~~
-~~bc: June 27, 1975, Denver~~
+---json
+{
+    "name":"Arrival Address — June 27, 1975, Denver",
+    "h1":"June 27, 1975, Denver",
+    "title":"Arrival Address — June 27, 1975, Denver",
+    "description":""
+}
+---
+
 ====== Arrival Address ======
 
 ---- dataentry spoken ----

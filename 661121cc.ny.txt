@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.66-96 — November 21, 1966, New York~~
-~~bc: November 21, 1966, New York~~
+---json
+{
+    "name":"Cc. Madhya 20.66-96 — November 21, 1966, New York",
+    "h1":"November 21, 1966, New York",
+    "title":"Cc. Madhya 20.66-96 — November 21, 1966, New York",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.66–96 ======
 
 ---- dataentry spoken ----

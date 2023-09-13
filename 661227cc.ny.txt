@@ -1,5 +1,12 @@
-~~Title: Cc. Ādi 3.87-88 — December 27, 1966, New York~~
-~~bc: December 27, 1966, New York~~
+---json
+{
+    "name":"Cc. Ādi 3.87-88 — December 27, 1966, New York",
+    "h1":"December 27, 1966, New York",
+    "title":"Cc. Ādi 3.87-88 — December 27, 1966, New York",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 3.87–88 ======
 
 ---- dataentry spoken ----

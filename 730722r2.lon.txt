@@ -1,5 +1,12 @@
-~~Title: Conversation with George Harrison — July 22, 1973, London~~
-~~bc: July 22, 1973, London~~
+---json
+{
+    "name":"Conversation with George Harrison — July 22, 1973, London",
+    "h1":"July 22, 1973, London",
+    "title":"Conversation with George Harrison — July 22, 1973, London",
+    "description":""
+}
+---
+
 ====== Conversation with George Harrison ======
 
 ---- dataentry spoken ----

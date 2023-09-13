@@ -1,5 +1,12 @@
-~~Title: Interview — September 24, 1968, Seattle~~
-~~bc: September 24, 1968, Seattle~~
+---json
+{
+    "name":"Interview — September 24, 1968, Seattle",
+    "h1":"September 24, 1968, Seattle",
+    "title":"Interview — September 24, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Interview ======
 
 ---- dataentry spoken ----

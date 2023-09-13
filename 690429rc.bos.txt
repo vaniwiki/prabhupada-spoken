@@ -1,5 +1,12 @@
-~~Title: Conversation Before Lecture — April 29, 1969, Boston~~
-~~bc: April 29, 1969, Boston~~
+---json
+{
+    "name":"Conversation Before Lecture — April 29, 1969, Boston",
+    "h1":"April 29, 1969, Boston",
+    "title":"Conversation Before Lecture — April 29, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Conversation Before Lecture ======
 
 ---- dataentry spoken ----

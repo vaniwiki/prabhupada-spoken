@@ -1,5 +1,12 @@
-~~Title: SB 7.7.25-28 — March 13, 1967, San Francisco~~
-~~bc: March 13, 1967, San Francisco~~
+---json
+{
+    "name":"SB 7.7.25-28 — March 13, 1967, San Francisco",
+    "h1":"March 13, 1967, San Francisco",
+    "title":"SB 7.7.25-28 — March 13, 1967, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.7.25–28 ======
 
 ---- dataentry spoken ----

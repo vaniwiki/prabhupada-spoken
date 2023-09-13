@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Ādi-keśava Swami — February 19, 1977, Māyāpur~~
-~~bc: February 19, 1977, Māyāpur~~
+---json
+{
+    "name":"Room Conversation with Ādi-keśava Swami — February 19, 1977, Māyāpur",
+    "h1":"February 19, 1977, Māyāpur",
+    "title":"Room Conversation with Ādi-keśava Swami — February 19, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Room Conversation with Ādi-keśava Swami ======
 
 ---- dataentry spoken ----

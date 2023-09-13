@@ -1,5 +1,12 @@
-~~Title: Bg 9.3 — April 21, 1976, Melbourne~~
-~~bc: April 21, 1976, Melbourne~~
+---json
+{
+    "name":"Bg 9.3 — April 21, 1976, Melbourne",
+    "h1":"April 21, 1976, Melbourne",
+    "title":"Bg 9.3 — April 21, 1976, Melbourne",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 9.3 ======
 
 ---- dataentry spoken ----

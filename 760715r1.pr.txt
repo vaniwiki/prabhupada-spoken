@@ -1,5 +1,12 @@
-~~Title: Conversation at Gītā-nagarī Farm — July 15, 1976, Port Royal~~
-~~bc: July 15, 1976, Port Royal~~
+---json
+{
+    "name":"Conversation at Gītā-nagarī Farm — July 15, 1976, Port Royal",
+    "h1":"July 15, 1976, Port Royal",
+    "title":"Conversation at Gītā-nagarī Farm — July 15, 1976, Port Royal",
+    "description":""
+}
+---
+
 ====== Conversation at Gītā-nagarī Farm ======
 
 ---- dataentry spoken ----

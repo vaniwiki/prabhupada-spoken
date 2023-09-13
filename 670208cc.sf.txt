@@ -1,5 +1,12 @@
-~~Title: Cc. Ādi 7.76-81 — February 8, 1967, San Francisco~~
-~~bc: February 8, 1967, San Francisco~~
+---json
+{
+    "name":"Cc. Ādi 7.76-81 — February 8, 1967, San Francisco",
+    "h1":"February 8, 1967, San Francisco",
+    "title":"Cc. Ādi 7.76-81 — February 8, 1967, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 7.76–81 ======
 
 ---- dataentry spoken ----

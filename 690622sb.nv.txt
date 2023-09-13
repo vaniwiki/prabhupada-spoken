@@ -1,5 +1,12 @@
-~~Title: SB 1.5.18 — June 22, 1969, New Vrindavan~~
-~~bc: June 22, 1969, New Vrindavan~~
+---json
+{
+    "name":"SB 1.5.18 — June 22, 1969, New Vrindavan",
+    "h1":"June 22, 1969, New Vrindavan",
+    "title":"SB 1.5.18 — June 22, 1969, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.5.18 ======
 
 ---- dataentry spoken ----

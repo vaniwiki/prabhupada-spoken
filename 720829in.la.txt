@@ -1,5 +1,12 @@
-~~Title: Initiations, SB 1.1.1-SB 1.3.44 Recitation — August 29, 1972, Los Angeles~~
-~~bc: August 29, 1972, Los Angeles~~
+---json
+{
+    "name":"Initiations, SB 1.1.1-SB 1.3.44 Recitation — August 29, 1972, Los Angeles",
+    "h1":"August 29, 1972, Los Angeles",
+    "title":"Initiations, SB 1.1.1-SB 1.3.44 Recitation — August 29, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Initiations, SB 1.1.1–SB 1.3.44 Recitation ======
 
 ---- dataentry spoken ----

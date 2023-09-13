@@ -1,5 +1,12 @@
-~~Title: Discussion about New Vrindaban Gurukula — December 24, 1969, Boston~~
-~~bc: December 24, 1969, Boston~~
+---json
+{
+    "name":"Discussion about New Vrindaban Gurukula — December 24, 1969, Boston",
+    "h1":"December 24, 1969, Boston",
+    "title":"Discussion about New Vrindaban Gurukula — December 24, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Discussion about New Vrindaban Gurukula ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 1.24-25 — July 20, 1973, London~~
-~~bc: July 20, 1973, London~~
+---json
+{
+    "name":"Bg 1.24-25 — July 20, 1973, London",
+    "h1":"July 20, 1973, London",
+    "title":"Bg 1.24-25 — July 20, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 1.24–25 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Lecture [Hindi] — October 13, 1976, Chandigarh~~
-~~bc: October 13, 1976, Chandigarh~~
+---json
+{
+    "name":"Lecture [Hindi] — October 13, 1976, Chandigarh",
+    "h1":"October 13, 1976, Chandigarh",
+    "title":"Lecture [Hindi] — October 13, 1976, Chandigarh",
+    "description":""
+}
+---
+
 ====== Lecture [Hindi] ======
 
 ---- dataentry spoken ----

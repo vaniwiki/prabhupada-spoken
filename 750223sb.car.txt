@@ -1,5 +1,12 @@
-~~Title: SB 1.1.2 — February 23, 1975, Caracas~~
-~~bc: February 23, 1975, Caracas~~
+---json
+{
+    "name":"SB 1.1.2 — February 23, 1975, Caracas",
+    "h1":"February 23, 1975, Caracas",
+    "title":"SB 1.1.2 — February 23, 1975, Caracas",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.1.2 ======
 
 ---- dataentry spoken ----

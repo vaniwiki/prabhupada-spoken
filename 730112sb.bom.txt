@@ -1,5 +1,12 @@
-~~Title: SB 5th Canto, Pandal Lecture — January 12, 1973, Bombay~~
-~~bc: January 12, 1973, Bombay~~
+---json
+{
+    "name":"SB 5th Canto, Pandal Lecture — January 12, 1973, Bombay",
+    "h1":"January 12, 1973, Bombay",
+    "title":"SB 5th Canto, Pandal Lecture — January 12, 1973, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5th Canto, Pandal Lecture ======
 
 ---- dataentry spoken ----

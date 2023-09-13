@@ -1,5 +1,12 @@
-~~Title: Bg 7.1-3 — September 10, 1973, Stockholm~~
-~~bc: September 10, 1973, Stockholm~~
+---json
+{
+    "name":"Bg 7.1-3 — September 10, 1973, Stockholm",
+    "h1":"September 10, 1973, Stockholm",
+    "title":"Bg 7.1-3 — September 10, 1973, Stockholm",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1–3 ======
 
 ---- dataentry spoken ----

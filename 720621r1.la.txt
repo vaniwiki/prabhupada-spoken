@@ -1,5 +1,12 @@
-~~Title: Conversation — June 21, 1972, Los Angeles~~
-~~bc: June 21, 1972, Los Angeles~~
+---json
+{
+    "name":"Conversation — June 21, 1972, Los Angeles",
+    "h1":"June 21, 1972, Los Angeles",
+    "title":"Conversation — June 21, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Conversation ======
 
 ---- dataentry spoken ----

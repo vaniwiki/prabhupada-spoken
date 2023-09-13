@@ -1,5 +1,12 @@
-~~Title: SB 7.6.9-17 — March 31, 1969, San Francisco~~
-~~bc: March 31, 1969, San Francisco~~
+---json
+{
+    "name":"SB 7.6.9-17 — March 31, 1969, San Francisco",
+    "h1":"March 31, 1969, San Francisco",
+    "title":"SB 7.6.9-17 — March 31, 1969, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.6.9–17 ======
 
 ---- dataentry spoken ----

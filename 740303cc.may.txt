@@ -1,5 +1,12 @@
-~~Title: Cc. Ādi 7.3 — March 3, 1974, Māyāpur~~
-~~bc: March 3, 1974, Māyāpur~~
+---json
+{
+    "name":"Cc. Ādi 7.3 — March 3, 1974, Māyāpur",
+    "h1":"March 3, 1974, Māyāpur",
+    "title":"Cc. Ādi 7.3 — March 3, 1974, Māyāpur",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 7.3 ======
 
 ---- dataentry spoken ----

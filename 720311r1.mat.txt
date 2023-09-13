@@ -1,5 +1,12 @@
-~~Title: Room Conversation — March 11, 1972, Mathura~~
-~~bc: March 11, 1972, Mathura~~
+---json
+{
+    "name":"Room Conversation — March 11, 1972, Mathura",
+    "h1":"March 11, 1972, Mathura",
+    "title":"Room Conversation — March 11, 1972, Mathura",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

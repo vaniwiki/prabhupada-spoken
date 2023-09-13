@@ -1,5 +1,12 @@
-~~Title: SB 6.1.56-57 — August 14, 1975, Bombay~~
-~~bc: August 14, 1975, Bombay~~
+---json
+{
+    "name":"SB 6.1.56-57 — August 14, 1975, Bombay",
+    "h1":"August 14, 1975, Bombay",
+    "title":"SB 6.1.56-57 — August 14, 1975, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.56–57 ======
 
 ---- dataentry spoken ----

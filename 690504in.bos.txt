@@ -1,5 +1,12 @@
-~~Title: Initiation of Baradrāj and Chandanācārya Dāsās — May 4, 1969, Boston~~
-~~bc: May 4, 1969, Boston~~
+---json
+{
+    "name":"Initiation of Baradrāj and Chandanācārya Dāsās — May 4, 1969, Boston",
+    "h1":"May 4, 1969, Boston",
+    "title":"Initiation of Baradrāj and Chandanācārya Dāsās — May 4, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Initiation of Baradrāj and Chandanācārya Dāsās ======
 
 ---- dataentry spoken ----

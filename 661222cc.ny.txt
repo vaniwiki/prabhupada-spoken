@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 20.318-329 — December 22, 1966, New York~~
-~~bc: December 22, 1966, New York~~
+---json
+{
+    "name":"Cc. Madhya 20.318-329 — December 22, 1966, New York",
+    "h1":"December 22, 1966, New York",
+    "title":"Cc. Madhya 20.318-329 — December 22, 1966, New York",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.318–329 ======
 
 ---- dataentry spoken ----

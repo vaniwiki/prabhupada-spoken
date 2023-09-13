@@ -1,5 +1,12 @@
-~~Title: Room Conversation on 1976 Book Scores — January 16, 1977, Calcutta~~
-~~bc: January 16, 1977, Calcutta~~
+---json
+{
+    "name":"Room Conversation on 1976 Book Scores — January 16, 1977, Calcutta",
+    "h1":"January 16, 1977, Calcutta",
+    "title":"Room Conversation on 1976 Book Scores — January 16, 1977, Calcutta",
+    "description":""
+}
+---
+
 ====== Room Conversation on 1976 Book Scores ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Comment on Painting — May 9, 1968, Boston~~
-~~bc: May 9, 1968, Boston~~
+---json
+{
+    "name":"Comment on Painting — May 9, 1968, Boston",
+    "h1":"May 9, 1968, Boston",
+    "title":"Comment on Painting — May 9, 1968, Boston",
+    "description":""
+}
+---
+
 ====== Comment on Painting ======
 
 ---- dataentry spoken ----

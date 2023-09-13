@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Press Representative — March 21, 1975, Calcutta~~
-~~bc: March 21, 1975, Calcutta~~
+---json
+{
+    "name":"Room Conversation with Press Representative — March 21, 1975, Calcutta",
+    "h1":"March 21, 1975, Calcutta",
+    "title":"Room Conversation with Press Representative — March 21, 1975, Calcutta",
+    "description":""
+}
+---
+
 ====== Room Conversation with Press Representative ======
 
 ---- dataentry spoken ----

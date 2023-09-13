@@ -1,5 +1,12 @@
-~~Title: Conversation, “Rascal Editors,” and Morning Talk — June 22, 1977, Vṛndāvana~~
-~~bc: June 22, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Conversation, “Rascal Editors,” and Morning Talk — June 22, 1977, Vṛndāvana",
+    "h1":"June 22, 1977, Vṛndāvana",
+    "title":"Conversation, “Rascal Editors,” and Morning Talk — June 22, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Conversation, “Rascal Editors,” and Morning Talk ======
 
 ---- dataentry spoken ----

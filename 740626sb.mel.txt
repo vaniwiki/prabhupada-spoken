@@ -1,5 +1,12 @@
-~~Title: SB 2.1.1-5 — June 26, 1974, Melbourne~~
-~~bc: June 26, 1974, Melbourne~~
+---json
+{
+    "name":"SB 2.1.1-5 — June 26, 1974, Melbourne",
+    "h1":"June 26, 1974, Melbourne",
+    "title":"SB 2.1.1-5 — June 26, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.1.1–5 ======
 
 ---- dataentry spoken ----

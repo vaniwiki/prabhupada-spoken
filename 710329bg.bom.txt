@@ -1,5 +1,12 @@
-~~Title: Bg 7.3 — March 29, 1971, Bombay~~
-~~bc: March 29, 1971, Bombay~~
+---json
+{
+    "name":"Bg 7.3 — March 29, 1971, Bombay",
+    "h1":"March 29, 1971, Bombay",
+    "title":"Bg 7.3 — March 29, 1971, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.3 ======
 
 ---- dataentry spoken ----

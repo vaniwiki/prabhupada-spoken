@@ -1,5 +1,12 @@
-~~Title: Lord Nityānanda Appearance Day — February 2, 1977, Bhubaneswar~~
-~~bc: February 2, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Lord Nityānanda Appearance Day — February 2, 1977, Bhubaneswar",
+    "h1":"February 2, 1977, Bhubaneswar",
+    "title":"Lord Nityānanda Appearance Day — February 2, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Lord Nityānanda Prabhu’s Āvirbhāva Appearance Day ======
 
 ---- dataentry spoken ----

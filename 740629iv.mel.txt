@@ -1,5 +1,12 @@
-~~Title: Reporters’ Interview — June 29, 1974, Melbourne~~
-~~bc: June 29, 1974, Melbourne~~
+---json
+{
+    "name":"Reporters’ Interview — June 29, 1974, Melbourne",
+    "h1":"June 29, 1974, Melbourne",
+    "title":"Reporters’ Interview — June 29, 1974, Melbourne",
+    "description":""
+}
+---
+
 ====== Reporters’ Interview ======
 
 ---- dataentry spoken ----

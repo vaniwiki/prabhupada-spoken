@@ -1,5 +1,12 @@
-~~Title: Morning Room Conversation — February 16, 1977, Māyāpur~~
-~~bc: February 16, 1977, Māyāpur~~
+---json
+{
+    "name":"Morning Room Conversation — February 16, 1977, Māyāpur",
+    "h1":"February 16, 1977, Māyāpur",
+    "title":"Morning Room Conversation — February 16, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Morning Room Conversation ======
 
 ---- dataentry spoken ----

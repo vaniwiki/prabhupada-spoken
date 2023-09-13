@@ -1,5 +1,12 @@
-~~Title: Śrī Brahmā-saṁhitā 5.32 — August 14, 1972, Los Angeles~~
-~~bc: August 14, 1972, Los Angeles~~
+---json
+{
+    "name":"Śrī Brahmā-saṁhitā 5.32 — August 14, 1972, Los Angeles",
+    "h1":"August 14, 1972, Los Angeles",
+    "title":"Śrī Brahmā-saṁhitā 5.32 — August 14, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrī Brahmā-saṁhitā 5.32 ======
 
 ---- dataentry spoken ----

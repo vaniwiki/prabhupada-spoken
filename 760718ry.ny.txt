@@ -1,5 +1,12 @@
-~~Title: Ratha-yātrā Lecture — July 18, 1976, New York~~
-~~bc: July 18, 1976, New York~~
+---json
+{
+    "name":"Ratha-yātrā Lecture — July 18, 1976, New York",
+    "h1":"July 18, 1976, New York",
+    "title":"Ratha-yātrā Lecture — July 18, 1976, New York",
+    "description":""
+}
+---
+
 ====== Ratha-yātrā ======
 
 ---- dataentry spoken ----

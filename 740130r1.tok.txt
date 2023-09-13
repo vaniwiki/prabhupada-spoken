@@ -1,5 +1,12 @@
-~~Title: Room Conversation — January 30, 1974, Tokyo~~
-~~bc: January 30, 1974, Tokyo~~
+---json
+{
+    "name":"Room Conversation — January 30, 1974, Tokyo",
+    "h1":"January 30, 1974, Tokyo",
+    "title":"Room Conversation — January 30, 1974, Tokyo",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

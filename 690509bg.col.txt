@@ -1,5 +1,12 @@
-~~Title: Bg 4.1-2 — May 9, 1969, Columbus~~
-~~bc: May 9, 1969, Columbus~~
+---json
+{
+    "name":"Bg 4.1-2 — May 9, 1969, Columbus",
+    "h1":"May 9, 1969, Columbus",
+    "title":"Bg 4.1-2 — May 9, 1969, Columbus",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 4.1–2 ======
 
 ---- dataentry spoken ----

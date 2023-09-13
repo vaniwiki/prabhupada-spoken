@@ -1,5 +1,12 @@
-~~Title: Visit From Allopathic Doctor — October 10, 1977, Vṛndāvana~~
-~~bc: October 10, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Visit From Allopathic Doctor — October 10, 1977, Vṛndāvana",
+    "h1":"October 10, 1977, Vṛndāvana",
+    "title":"Visit From Allopathic Doctor — October 10, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Visit From Allopathic Doctor ======
 
 ---- dataentry spoken ----

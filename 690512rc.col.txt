@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Allen Ginsberg — May 12, 1969, Columbus~~
-~~bc: May 12, 1969, Columbus~~
+---json
+{
+    "name":"Room Conversation with Allen Ginsberg — May 12, 1969, Columbus",
+    "h1":"May 12, 1969, Columbus",
+    "title":"Room Conversation with Allen Ginsberg — May 12, 1969, Columbus",
+    "description":""
+}
+---
+
 ====== Room Conversation with Allen Ginsberg ======
 
 ---- dataentry spoken ----

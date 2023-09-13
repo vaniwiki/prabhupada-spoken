@@ -1,5 +1,12 @@
-~~Title: Room Conversation with David Wynne, Sculptor — July 9, 1973, London~~
-~~bc: July 9, 1973, London~~
+---json
+{
+    "name":"Room Conversation with David Wynne, Sculptor — July 9, 1973, London",
+    "h1":"July 9, 1973, London",
+    "title":"Room Conversation with David Wynne, Sculptor — July 9, 1973, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with David Wynne, Sculptor ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation with Religious Group — July 27, 1968, Montreal~~
-~~bc: July 27, 1968, Montreal~~
+---json
+{
+    "name":"Conversation with Religious Group — July 27, 1968, Montreal",
+    "h1":"July 27, 1968, Montreal",
+    "title":"Conversation with Religious Group — July 27, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Conversation with Religious Group ======
 
 ---- dataentry spoken ----

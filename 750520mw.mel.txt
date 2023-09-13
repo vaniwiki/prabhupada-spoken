@@ -1,5 +1,12 @@
-~~Title: Morning Walk in the Botanical Gardens — May 20, 1975, Melbourne~~
-~~bc: May 20, 1975, Melbourne~~
+---json
+{
+    "name":"Morning Walk in the Botanical Gardens — May 20, 1975, Melbourne",
+    "h1":"May 20, 1975, Melbourne",
+    "title":"Morning Walk in the Botanical Gardens — May 20, 1975, Melbourne",
+    "description":""
+}
+---
+
 ====== Morning Walk in the Botanical Gardens ======
 
 ---- dataentry spoken ----

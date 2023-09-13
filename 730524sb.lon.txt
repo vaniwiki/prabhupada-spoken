@@ -1,5 +1,12 @@
-~~Title: SB 1.10.20 — May 24, 1973, London~~
-~~bc: May 24, 1973, London~~
+---json
+{
+    "name":"SB 1.10.20 — May 24, 1973, London",
+    "h1":"May 24, 1973, London",
+    "title":"SB 1.10.20 — May 24, 1973, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.10.20 ======
 
 ---- dataentry spoken ----

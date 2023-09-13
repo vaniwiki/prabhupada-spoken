@@ -1,5 +1,12 @@
-~~Title: SB 6.2.5-8 — January 10, 1971, Calcutta~~
-~~bc: January 10, 1971, Calcutta~~
+---json
+{
+    "name":"SB 6.2.5-8 — January 10, 1971, Calcutta",
+    "h1":"January 10, 1971, Calcutta",
+    "title":"SB 6.2.5-8 — January 10, 1971, Calcutta",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.2.5–8 ======
 
 ---- dataentry spoken ----

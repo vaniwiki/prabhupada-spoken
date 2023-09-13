@@ -1,5 +1,12 @@
-~~Title: Bg 2.13 — February 21, 1973, Auckland~~
-~~bc: February 21, 1973, Auckland~~
+---json
+{
+    "name":"Bg 2.13 — February 21, 1973, Auckland",
+    "h1":"February 21, 1973, Auckland",
+    "title":"Bg 2.13 — February 21, 1973, Auckland",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.13 ======
 
 ---- dataentry spoken ----

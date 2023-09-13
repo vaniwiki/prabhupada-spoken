@@ -1,5 +1,12 @@
-~~Title: SB 1.2.8 — April 22, 1974, Hyderabad~~
-~~bc: April 22, 1974, Hyderabad~~
+---json
+{
+    "name":"SB 1.2.8 — April 22, 1974, Hyderabad",
+    "h1":"April 22, 1974, Hyderabad",
+    "title":"SB 1.2.8 — April 22, 1974, Hyderabad",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.8 ======
 
 ---- dataentry spoken ----

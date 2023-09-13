@@ -1,5 +1,12 @@
-~~Title: Comments on Bhagavad-gītā Play — July 12, 1976, New York~~
-~~bc: July 12, 1976, New York~~
+---json
+{
+    "name":"Comments on Bhagavad-gītā Play — July 12, 1976, New York",
+    "h1":"July 12, 1976, New York",
+    "title":"Comments on Bhagavad-gītā Play — July 12, 1976, New York",
+    "description":""
+}
+---
+
 ====== Comments on Bhagavad-gītā Play ======
 
 ---- dataentry spoken ----

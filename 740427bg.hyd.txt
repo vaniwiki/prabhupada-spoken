@@ -1,5 +1,12 @@
-~~Title: Bg 7.1 — April 27, 1974, Hyderabad~~
-~~bc: April 27, 1974, Hyderabad~~
+---json
+{
+    "name":"Bg 7.1 — April 27, 1974, Hyderabad",
+    "h1":"April 27, 1974, Hyderabad",
+    "title":"Bg 7.1 — April 27, 1974, Hyderabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.1 ======
 
 ---- dataentry spoken ----

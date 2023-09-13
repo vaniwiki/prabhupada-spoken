@@ -1,5 +1,12 @@
-~~Title: SB 1.9.49 — June 15, 1973, Māyāpur~~
-~~bc: June 15, 1973, Māyāpur~~
+---json
+{
+    "name":"SB 1.9.49 — June 15, 1973, Māyāpur",
+    "h1":"June 15, 1973, Māyāpur",
+    "title":"SB 1.9.49 — June 15, 1973, Māyāpur",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.9.49 ======
 
 ---- dataentry spoken ----

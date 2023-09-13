@@ -1,5 +1,12 @@
-~~Title: Bg 13.3 — February 26, 1975, Miami~~
-~~bc: February 26, 1975, Miami~~
+---json
+{
+    "name":"Bg 13.3 — February 26, 1975, Miami",
+    "h1":"February 26, 1975, Miami",
+    "title":"Bg 13.3 — February 26, 1975, Miami",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.3 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Mr. Deshimaru — June 13, 1974, Paris~~
-~~bc: June 13, 1974, Paris~~
+---json
+{
+    "name":"Room Conversation with Mr. Deshimaru — June 13, 1974, Paris",
+    "h1":"June 13, 1974, Paris",
+    "title":"Room Conversation with Mr. Deshimaru — June 13, 1974, Paris",
+    "description":""
+}
+---
+
 ====== Room Conversation with Mr. Deshimaru ======
 
 ---- dataentry spoken ----

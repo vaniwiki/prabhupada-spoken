@@ -1,5 +1,12 @@
-~~Title: Interview with Minister — April 26, 197, Tirupati~~
-~~bc: April 26, 197, Tirupati~~
+---json
+{
+    "name":"Interview with Minister — April 26, 197, Tirupati",
+    "h1":"April 26, 197, Tirupati",
+    "title":"Interview with Minister — April 26, 197, Tirupati",
+    "description":""
+}
+---
+
 ====== Interview with Minister ======
 
 ---- dataentry spoken ----

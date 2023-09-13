@@ -1,5 +1,12 @@
-~~Title: Bg 3.6-10 — December 23, 1968, Los Angeles~~
-~~bc: December 23, 1968, Los Angeles~~
+---json
+{
+    "name":"Bg 3.6-10 — December 23, 1968, Los Angeles",
+    "h1":"December 23, 1968, Los Angeles",
+    "title":"Bg 3.6-10 — December 23, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 3.6–10 ======
 
 ---- dataentry spoken ----

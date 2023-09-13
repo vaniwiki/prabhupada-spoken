@@ -1,5 +1,12 @@
-~~Title: SB 3.22.22 and Initiations — August 12, 1976, Tehran~~
-~~bc: August 12, 1976, Tehran~~
+---json
+{
+    "name":"SB 3.22.22 and Initiations — August 12, 1976, Tehran",
+    "h1":"August 12, 1976, Tehran",
+    "title":"SB 3.22.22 and Initiations — August 12, 1976, Tehran",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 3.22.22 and Initiations ======
 
 ---- dataentry spoken ----

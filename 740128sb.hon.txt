@@ -1,5 +1,12 @@
-~~Title: SB 1.16.35 — January 28, 1974, Honolulu~~
-~~bc: January 28, 1974, Honolulu~~
+---json
+{
+    "name":"SB 1.16.35 — January 28, 1974, Honolulu",
+    "h1":"January 28, 1974, Honolulu",
+    "title":"SB 1.16.35 — January 28, 1974, Honolulu",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.16.35 ======
 
 ---- dataentry spoken ----

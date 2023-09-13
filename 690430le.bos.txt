@@ -1,5 +1,12 @@
-~~Title: Northeastern University Lecture — April 30, 1969, Boston~~
-~~bc: April 30, 1969, Boston~~
+---json
+{
+    "name":"Northeastern University Lecture — April 30, 1969, Boston",
+    "h1":"April 30, 1969, Boston",
+    "title":"Northeastern University Lecture — April 30, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Northeastern University Lecture ======
 
 ---- dataentry spoken ----

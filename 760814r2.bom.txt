@@ -1,5 +1,12 @@
-~~Title: Room Conversation [Hindi] — August 14, 1976, Bombay~~
-~~bc: August 14, 1976, Bombay~~
+---json
+{
+    "name":"Room Conversation [Hindi] — August 14, 1976, Bombay",
+    "h1":"August 14, 1976, Bombay",
+    "title":"Room Conversation [Hindi] — August 14, 1976, Bombay",
+    "description":""
+}
+---
+
 ====== Room Conversation [Hindi] ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 13.3 — December 30, 1972, Bombay~~
-~~bc: December 30, 1972, Bombay~~
+---json
+{
+    "name":"Bg 13.3 — December 30, 1972, Bombay",
+    "h1":"December 30, 1972, Bombay",
+    "title":"Bg 13.3 — December 30, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.3 ======
 
 ---- dataentry spoken ----

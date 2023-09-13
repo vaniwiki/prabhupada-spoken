@@ -1,5 +1,12 @@
-~~Title: SB 1.1.3 — August 20, 1971, London~~
-~~bc: August 20, 1971, London~~
+---json
+{
+    "name":"SB 1.1.3 — August 20, 1971, London",
+    "h1":"August 20, 1971, London",
+    "title":"SB 1.1.3 — August 20, 1971, London",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.1.3 ======
 
 ---- dataentry spoken ----

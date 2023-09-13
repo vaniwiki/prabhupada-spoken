@@ -1,5 +1,12 @@
-~~Title: SB 1.2.6 — May 24, 1974, Rome~~
-~~bc: May 24, 1974, Rome~~
+---json
+{
+    "name":"SB 1.2.6 — May 24, 1974, Rome",
+    "h1":"May 24, 1974, Rome",
+    "title":"SB 1.2.6 — May 24, 1974, Rome",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Room Conversation Varṇāśrama System Must Be Introduced — February 14, 1977, Māyāpur~~
-~~bc: February 14, 1977, Māyāpur~~
+---json
+{
+    "name":"Room Conversation Varṇāśrama System Must Be Introduced — February 14, 1977, Māyāpur",
+    "h1":"February 14, 1977, Māyāpur",
+    "title":"Room Conversation Varṇāśrama System Must Be Introduced — February 14, 1977, Māyāpur",
+    "description":""
+}
+---
+
 ====== Room Conversation Varṇāśrama System Must Be Introduced ======
 
 ---- dataentry spoken ----

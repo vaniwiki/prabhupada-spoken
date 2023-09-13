@@ -1,5 +1,12 @@
-~~Title: Interview with Coronet Magazine — June 10, 1976, Los Angeles~~
-~~bc: June 10, 1976, Los Angeles~~
+---json
+{
+    "name":"Interview with Coronet Magazine — June 10, 1976, Los Angeles",
+    "h1":"June 10, 1976, Los Angeles",
+    "title":"Interview with Coronet Magazine — June 10, 1976, Los Angeles",
+    "description":""
+}
+---
+
 ====== Room Conversation and Interview with Richard from Coronet Magazine ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Lecture Engagement and Prasāda Distribution — April 26, 1969, Boston~~
-~~bc: April 26, 1969, Boston~~
+---json
+{
+    "name":"Lecture Engagement and Prasāda Distribution — April 26, 1969, Boston",
+    "h1":"April 26, 1969, Boston",
+    "title":"Lecture Engagement and Prasāda Distribution — April 26, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Lecture Engagement and Prasāda Distribution ======
 
 ---- dataentry spoken ----

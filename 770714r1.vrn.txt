@@ -1,5 +1,12 @@
-~~Title: Room Conversation: Varṇāśrama — July 14, 1977, Vṛndāvana~~
-~~bc: July 14, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation: Varṇāśrama — July 14, 1977, Vṛndāvana",
+    "h1":"July 14, 1977, Vṛndāvana",
+    "title":"Room Conversation: Varṇāśrama — July 14, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation: Varṇāśrama ======
 
 ---- dataentry spoken ----

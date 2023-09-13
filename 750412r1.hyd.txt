@@ -1,5 +1,12 @@
-~~Title: Conversation with Indian Guests — April 12, 1975, Hyderabad~~
-~~bc: April 12, 1975, Hyderabad~~
+---json
+{
+    "name":"Conversation with Indian Guests — April 12, 1975, Hyderabad",
+    "h1":"April 12, 1975, Hyderabad",
+    "title":"Conversation with Indian Guests — April 12, 1975, Hyderabad",
+    "description":""
+}
+---
+
 ====== Conversation with Indian Guests ======
 
 ---- dataentry spoken ----

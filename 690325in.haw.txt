@@ -1,5 +1,12 @@
-~~Title: Initiation — March 25, 1969, Hawaii~~
-~~bc: March 25, 1969, Hawaii~~
+---json
+{
+    "name":"Initiation — March 25, 1969, Hawaii",
+    "h1":"March 25, 1969, Hawaii",
+    "title":"Initiation — March 25, 1969, Hawaii",
+    "description":""
+}
+---
+
 ====== Initiation ======
 
 ---- dataentry spoken ----

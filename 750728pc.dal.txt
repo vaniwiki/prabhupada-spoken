@@ -1,5 +1,12 @@
-~~Title: Press Conference at Airport — July 28, 1975, Dallas~~
-~~bc: July 28, 1975, Dallas~~
+---json
+{
+    "name":"Press Conference at Airport — July 28, 1975, Dallas",
+    "h1":"July 28, 1975, Dallas",
+    "title":"Press Conference at Airport — July 28, 1975, Dallas",
+    "description":""
+}
+---
+
 ====== Press Conference at Airport ======
 
 ---- dataentry spoken ----

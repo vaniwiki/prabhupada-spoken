@@ -1,5 +1,12 @@
-~~Title: Speech to Indian Audience — July 28, 1968, Montreal~~
-~~bc: July 28, 1968, Montreal~~
+---json
+{
+    "name":"Speech to Indian Audience — July 28, 1968, Montreal",
+    "h1":"July 28, 1968, Montreal",
+    "title":"Speech to Indian Audience — July 28, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Speech to Indian Audience ======
 
 ---- dataentry spoken ----

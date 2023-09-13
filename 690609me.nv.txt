@@ -1,5 +1,12 @@
-~~Title: Meeting with Devotees — June 9, 1969, New Vrindaban~~
-~~bc: June 9, 1969, New Vrindaban~~
+---json
+{
+    "name":"Meeting with Devotees — June 9, 1969, New Vrindaban",
+    "h1":"June 9, 1969, New Vrindaban",
+    "title":"Meeting with Devotees — June 9, 1969, New Vrindaban",
+    "description":""
+}
+---
+
 ====== Meeting with Devotees ======
 
 ---- dataentry spoken ----

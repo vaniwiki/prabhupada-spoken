@@ -1,5 +1,12 @@
-~~Title: SB 1.8.43 — October 23, 1974, Māyāpur~~
-~~bc: October 23, 1974, Māyāpur~~
+---json
+{
+    "name":"SB 1.8.43 — October 23, 1974, Māyāpur",
+    "h1":"October 23, 1974, Māyāpur",
+    "title":"SB 1.8.43 — October 23, 1974, Māyāpur",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.8.43 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: SB 1.2.12 — October 23, 1972, Vṛndāvana~~
-~~bc: October 23, 1972, Vṛndāvana~~
+---json
+{
+    "name":"SB 1.2.12 — October 23, 1972, Vṛndāvana",
+    "h1":"October 23, 1972, Vṛndāvana",
+    "title":"SB 1.2.12 — October 23, 1972, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.12 ======
 
 ---- dataentry spoken ----

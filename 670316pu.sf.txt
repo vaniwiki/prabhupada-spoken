@@ -1,5 +1,12 @@
-~~Title: Purport to Bhajahu Re Mana — March 16, 1967, San Francisco~~
-~~bc: March 16, 1967, San Francisco~~
+---json
+{
+    "name":"Purport to Bhajahu Re Mana — March 16, 1967, San Francisco",
+    "h1":"March 16, 1967, San Francisco",
+    "title":"Purport to Bhajahu Re Mana — March 16, 1967, San Francisco",
+    "description":""
+}
+---
+
 ====== Purport to Bhajahu Re Mana ======
 
 ---- dataentry spoken ----

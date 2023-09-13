@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Hari Prasad Badruka — October 27, 1977, Vṛndāvana~~
-~~bc: October 27, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation with Hari Prasad Badruka — October 27, 1977, Vṛndāvana",
+    "h1":"October 27, 1977, Vṛndāvana",
+    "title":"Room Conversation with Hari Prasad Badruka — October 27, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation with Hari Prasad Badruka ======
 
 ---- dataentry spoken ----

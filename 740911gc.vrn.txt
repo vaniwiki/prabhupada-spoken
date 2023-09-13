@@ -1,5 +1,12 @@
-~~Title: Garden Conversation — September 11, 1974, Vṛndāvana~~
-~~bc: September 11, 1974, Vṛndāvana~~
+---json
+{
+    "name":"Garden Conversation — September 11, 1974, Vṛndāvana",
+    "h1":"September 11, 1974, Vṛndāvana",
+    "title":"Garden Conversation — September 11, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Garden Conversation ======
 
 ---- dataentry spoken ----

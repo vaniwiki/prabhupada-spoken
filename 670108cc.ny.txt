@@ -1,5 +1,12 @@
-~~Title: Cc. Madhya 22.6 — January 8, 1967, New York~~
-~~bc: January 8, 1967, New York~~
+---json
+{
+    "name":"Cc. Madhya 22.6 — January 8, 1967, New York",
+    "h1":"January 8, 1967, New York",
+    "title":"Cc. Madhya 22.6 — January 8, 1967, New York",
+    "description":""
+}
+---
+
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 22.6 ======
 
 ---- dataentry spoken ----

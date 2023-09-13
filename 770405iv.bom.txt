@@ -1,5 +1,12 @@
-~~Title: Interview with Mr. Koshi (Asst. Editor of The Current Weekly) — April 5, 1977, Bombay~~
-~~bc: April 5, 1977, Bombay~~
+---json
+{
+    "name":"Interview with Mr. Koshi (Asst. Editor of The Current Weekly) — April 5, 1977, Bombay",
+    "h1":"April 5, 1977, Bombay",
+    "title":"Interview with Mr. Koshi (Asst. Editor of The Current Weekly) — April 5, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Interview with Mr. Koshi (Asst. Editor of The Current Weekly) ======
 
 ---- dataentry spoken ----

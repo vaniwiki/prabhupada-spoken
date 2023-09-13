@@ -1,5 +1,12 @@
-~~Title: Morning Walk [partially recorded] — September 5, 1975, Vṛndāvana~~
-~~bc: September 5, 1975, Vṛndāvana~~
+---json
+{
+    "name":"Morning Walk [partially recorded] — September 5, 1975, Vṛndāvana",
+    "h1":"September 5, 1975, Vṛndāvana",
+    "title":"Morning Walk [partially recorded] — September 5, 1975, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Morning Walk [partially recorded] ======
 
 ---- dataentry spoken ----

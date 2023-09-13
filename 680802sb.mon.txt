@@ -1,5 +1,12 @@
-~~Title: SB 1.2.5 — August 2, 1968, Montreal~~
-~~bc: August 2, 1968, Montreal~~
+---json
+{
+    "name":"SB 1.2.5 — August 2, 1968, Montreal",
+    "h1":"August 2, 1968, Montreal",
+    "title":"SB 1.2.5 — August 2, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.5 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Morning Walk Around Farm — July 31, 1976, New Māyāpur~~
-~~bc: July 31, 1976, New Māyāpur~~
+---json
+{
+    "name":"Morning Walk Around Farm — July 31, 1976, New Māyāpur",
+    "h1":"July 31, 1976, New Māyāpur",
+    "title":"Morning Walk Around Farm — July 31, 1976, New Māyāpur",
+    "description":""
+}
+---
+
 ====== Morning Walk Around Farm ======
 
 ---- dataentry spoken ----

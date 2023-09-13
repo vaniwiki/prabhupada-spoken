@@ -1,5 +1,12 @@
-~~Title: Ride on Rādhā-Dāmodara Bus to Gītā-nagarī Farm — July 15, 1976, New York~~
-~~bc: July 15, 1976, New York~~
+---json
+{
+    "name":"Ride on Rādhā-Dāmodara Bus to Gītā-nagarī Farm — July 15, 1976, New York",
+    "h1":"July 15, 1976, New York",
+    "title":"Ride on Rādhā-Dāmodara Bus to Gītā-nagarī Farm — July 15, 1976, New York",
+    "description":""
+}
+---
+
 ====== Ride on Rādhā-Dāmodara Bus to Gītā-nagarī Farm ======
 
 ---- dataentry spoken ----

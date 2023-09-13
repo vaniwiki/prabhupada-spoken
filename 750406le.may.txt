@@ -1,5 +1,12 @@
-~~Title: Lecture After Play — April 6, 1975, Māyāpur~~
-~~bc: April 6, 1975, Māyāpur~~
+---json
+{
+    "name":"Lecture After Play — April 6, 1975, Māyāpur",
+    "h1":"April 6, 1975, Māyāpur",
+    "title":"Lecture After Play — April 6, 1975, Māyāpur",
+    "description":""
+}
+---
+
 ====== Lecture After Play ======
 
 ---- dataentry spoken ----

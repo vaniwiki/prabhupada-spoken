@@ -1,5 +1,12 @@
-~~Title: SB 1.5.31, partially recorded — August 12, 1974, Vṛndāvana~~
-~~bc: August 12, 1974, Vṛndāvana~~
+---json
+{
+    "name":"SB 1.5.31, partially recorded — August 12, 1974, Vṛndāvana",
+    "h1":"August 12, 1974, Vṛndāvana",
+    "title":"SB 1.5.31, partially recorded — August 12, 1974, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.5.31, partially recorded ======
 
 ---- dataentry spoken ----

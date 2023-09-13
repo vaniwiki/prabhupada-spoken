@@ -1,5 +1,12 @@
-~~Title: Conversation with the GBC — May 25, 1972, Los Angeles~~
-~~bc: May 25, 1972, Los Angeles~~
+---json
+{
+    "name":"Conversation with the GBC — May 25, 1972, Los Angeles",
+    "h1":"May 25, 1972, Los Angeles",
+    "title":"Conversation with the GBC — May 25, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Conversation with the GBC ======
 
 ---- dataentry spoken ----

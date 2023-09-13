@@ -1,5 +1,12 @@
-~~Title: Bg 2.20-25 — October 14, 1968, Seattle~~
-~~bc: October 14, 1968, Seattle~~
+---json
+{
+    "name":"Bg 2.20-25 — October 14, 1968, Seattle",
+    "h1":"October 14, 1968, Seattle",
+    "title":"Bg 2.20-25 — October 14, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.20–25 ======
 
 ---- dataentry spoken ----

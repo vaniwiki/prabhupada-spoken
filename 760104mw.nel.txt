@@ -1,5 +1,12 @@
-~~Title: Morning Walk — January 4, 1976, Nellore~~
-~~bc: January 4, 1976, Nellore~~
+---json
+{
+    "name":"Morning Walk — January 4, 1976, Nellore",
+    "h1":"January 4, 1976, Nellore",
+    "title":"Morning Walk — January 4, 1976, Nellore",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

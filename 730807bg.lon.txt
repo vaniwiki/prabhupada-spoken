@@ -1,5 +1,12 @@
-~~Title: Bg 2.7 — August 7, 1973, London~~
-~~bc: August 7, 1973, London~~
+---json
+{
+    "name":"Bg 2.7 — August 7, 1973, London",
+    "h1":"August 7, 1973, London",
+    "title":"Bg 2.7 — August 7, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.7 ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Lecture [Hindi] [Partially Recorded] — February 17, 1972, Visakhapatnam~~
-~~bc: February 17, 1972, Visakhapatnam~~
+---json
+{
+    "name":"Lecture [Hindi] [Partially Recorded] — February 17, 1972, Visakhapatnam",
+    "h1":"February 17, 1972, Visakhapatnam",
+    "title":"Lecture [Hindi] [Partially Recorded] — February 17, 1972, Visakhapatnam",
+    "description":""
+}
+---
+
 ====== Lecture [Hindi] [Partially Recorded] ======
 
 ---- dataentry spoken ----

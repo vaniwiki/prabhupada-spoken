@@ -1,5 +1,12 @@
-~~Title: Morning Walk — July 4, 1976, Washington, D.C.~~
-~~bc: July 4, 1976, Washington, D.C.~~
+---json
+{
+    "name":"Morning Walk — July 4, 1976, Washington, D.C.",
+    "h1":"July 4, 1976, Washington, D.C.",
+    "title":"Morning Walk — July 4, 1976, Washington, D.C.",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

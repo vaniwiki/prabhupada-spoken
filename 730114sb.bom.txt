@@ -1,5 +1,12 @@
-~~Title: SB Preface, Pandal Lecture — January 14, 1973, Bombay~~
-~~bc: January 14, 1973, Bombay~~
+---json
+{
+    "name":"SB Preface, Pandal Lecture — January 14, 1973, Bombay",
+    "h1":"January 14, 1973, Bombay",
+    "title":"SB Preface, Pandal Lecture — January 14, 1973, Bombay",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam Preface, Pandal Lecture ======
 
 ---- dataentry spoken ----

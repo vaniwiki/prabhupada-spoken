@@ -1,5 +1,12 @@
-~~Title: Wedding Lecture — November 17, 1971, New Delhi~~
-~~bc: November 17, 1971, New Delhi~~
+---json
+{
+    "name":"Wedding Lecture — November 17, 1971, New Delhi",
+    "h1":"November 17, 1971, New Delhi",
+    "title":"Wedding Lecture — November 17, 1971, New Delhi",
+    "description":""
+}
+---
+
 ====== Wedding Lecture ======
 
 ---- dataentry spoken ----

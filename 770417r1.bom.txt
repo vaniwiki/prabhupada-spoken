@@ -1,5 +1,12 @@
-~~Title: Room Conversation Meeting with Dr. Sharma (from Russia) — April 17, 1977, Bombay~~
-~~bc: April 17, 1977, Bombay~~
+---json
+{
+    "name":"Room Conversation Meeting with Dr. Sharma (from Russia) — April 17, 1977, Bombay",
+    "h1":"April 17, 1977, Bombay",
+    "title":"Room Conversation Meeting with Dr. Sharma (from Russia) — April 17, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Room Conversation Meeting with Dr. Sharma (from Russia) ======
 
 ---- dataentry spoken ----

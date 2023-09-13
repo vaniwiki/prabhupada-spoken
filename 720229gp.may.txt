@@ -1,5 +1,12 @@
-~~Title: Gaura-Pūrṇimā — February 29, 1972, Māyāpur~~
-~~bc: February 29, 1972, Māyāpur~~
+---json
+{
+    "name":"Gaura-Pūrṇimā — February 29, 1972, Māyāpur",
+    "h1":"February 29, 1972, Māyāpur",
+    "title":"Gaura-Pūrṇimā — February 29, 1972, Māyāpur",
+    "description":""
+}
+---
+
 ====== Gaura-Pūrṇimā ======
 
 ---- dataentry spoken ----

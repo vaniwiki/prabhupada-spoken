@@ -1,5 +1,12 @@
-~~Title: Arrival Address — February 9, 1975, Los Angeles~~
-~~bc: February 9, 1975, Los Angeles~~
+---json
+{
+    "name":"Arrival Address — February 9, 1975, Los Angeles",
+    "h1":"February 9, 1975, Los Angeles",
+    "title":"Arrival Address — February 9, 1975, Los Angeles",
+    "description":""
+}
+---
+
 ====== Arrival Address ======
 
 ---- dataentry spoken ----

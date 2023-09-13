@@ -1,5 +1,12 @@
-~~Title: Room Conversation with John Papworth and Schumacher — August 4, 1973, London~~
-~~bc: August 4, 1973, London~~
+---json
+{
+    "name":"Room Conversation with John Papworth and Schumacher — August 4, 1973, London",
+    "h1":"August 4, 1973, London",
+    "title":"Room Conversation with John Papworth and Schumacher — August 4, 1973, London",
+    "description":""
+}
+---
+
 ====== Room Conversation with John Papworth and Schumacher ======
 
 ---- dataentry spoken ----

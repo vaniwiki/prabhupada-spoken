@@ -1,5 +1,12 @@
-~~Title: Wedding Ceremony and Lecture — May 6, 1969, Boston~~
-~~bc: May 6, 1969, Boston~~
+---json
+{
+    "name":"Wedding Ceremony and Lecture — May 6, 1969, Boston",
+    "h1":"May 6, 1969, Boston",
+    "title":"Wedding Ceremony and Lecture — May 6, 1969, Boston",
+    "description":""
+}
+---
+
 ====== Wedding Ceremony and Lecture ======
 
 ---- dataentry spoken ----

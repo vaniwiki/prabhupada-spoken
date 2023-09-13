@@ -1,5 +1,12 @@
-~~Title: SB 6.3.27-28 — February 20, 1971, Gorakhpur~~
-~~bc: February 20, 1971, Gorakhpur~~
+---json
+{
+    "name":"SB 6.3.27-28 — February 20, 1971, Gorakhpur",
+    "h1":"February 20, 1971, Gorakhpur",
+    "title":"SB 6.3.27-28 — February 20, 1971, Gorakhpur",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.3.27–28 ======
 
 ---- dataentry spoken ----

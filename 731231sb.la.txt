@@ -1,5 +1,12 @@
-~~Title: SB 1.16.3 — December 31, 1973, Los Angeles~~
-~~bc: December 31, 1973, Los Angeles~~
+---json
+{
+    "name":"SB 1.16.3 — December 31, 1973, Los Angeles",
+    "h1":"December 31, 1973, Los Angeles",
+    "title":"SB 1.16.3 — December 31, 1973, Los Angeles",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.16.3 ======
 
 ---- dataentry spoken ----

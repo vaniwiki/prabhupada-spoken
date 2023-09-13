@@ -1,5 +1,12 @@
-~~Title: Foundation Stone Ceremony Speech — February 2, 1977, Bhubaneswar~~
-~~bc: February 2, 1977, Bhubaneswar~~
+---json
+{
+    "name":"Foundation Stone Ceremony Speech — February 2, 1977, Bhubaneswar",
+    "h1":"February 2, 1977, Bhubaneswar",
+    "title":"Foundation Stone Ceremony Speech — February 2, 1977, Bhubaneswar",
+    "description":""
+}
+---
+
 ====== Foundation Stone Ceremony Speech ======
 
 ---- dataentry spoken ----

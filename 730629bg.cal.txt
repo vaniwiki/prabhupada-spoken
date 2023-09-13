@@ -1,5 +1,12 @@
-~~Title: Bg 9.10 — June 29, 1973, Calcutta~~
-~~bc: June 29, 1973, Calcutta~~
+---json
+{
+    "name":"Bg 9.10 — June 29, 1973, Calcutta",
+    "h1":"June 29, 1973, Calcutta",
+    "title":"Bg 9.10 — June 29, 1973, Calcutta",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 9.10 ======
 
 ---- dataentry spoken ----

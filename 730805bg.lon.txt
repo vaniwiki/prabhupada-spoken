@@ -1,5 +1,12 @@
-~~Title: Bg 2.4-5 — August 5, 1973, London~~
-~~bc: August 5, 1973, London~~
+---json
+{
+    "name":"Bg 2.4-5 — August 5, 1973, London",
+    "h1":"August 5, 1973, London",
+    "title":"Bg 2.4-5 — August 5, 1973, London",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.4–5 ======
 
 ---- dataentry spoken ----

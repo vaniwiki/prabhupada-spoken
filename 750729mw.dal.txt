@@ -1,5 +1,12 @@
-~~Title: Morning Walk — July 29, 1975, Dallas~~
-~~bc: July 29, 1975, Dallas~~
+---json
+{
+    "name":"Morning Walk — July 29, 1975, Dallas",
+    "h1":"July 29, 1975, Dallas",
+    "title":"Morning Walk — July 29, 1975, Dallas",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

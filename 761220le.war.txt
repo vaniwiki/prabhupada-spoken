@@ -1,5 +1,12 @@
-~~Title: Lecture [Hindi] — December 20, 1976, Wardha~~
-~~bc: December 20, 1976, Wardha~~
+---json
+{
+    "name":"Lecture [Hindi] — December 20, 1976, Wardha",
+    "h1":"December 20, 1976, Wardha",
+    "title":"Lecture [Hindi] — December 20, 1976, Wardha",
+    "description":""
+}
+---
+
 ====== Lecture [Hindi] ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Lecture — June 26, 1968, Montreal~~
-~~bc: June 26, 1968, Montreal~~
+---json
+{
+    "name":"Lecture — June 26, 1968, Montreal",
+    "h1":"June 26, 1968, Montreal",
+    "title":"Lecture — June 26, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Lecture ======
 
 ---- dataentry spoken ----

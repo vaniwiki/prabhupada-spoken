@@ -1,5 +1,12 @@
-~~Title: Lecture at Indo-American Society — January 31, 1973, Calcutta~~
-~~bc: January 31, 1973, Calcutta~~
+---json
+{
+    "name":"Lecture at Indo-American Society — January 31, 1973, Calcutta",
+    "h1":"January 31, 1973, Calcutta",
+    "title":"Lecture at Indo-American Society — January 31, 1973, Calcutta",
+    "description":""
+}
+---
+
 ====== Lecture at Indo-American Society ======
 
 ---- dataentry spoken ----

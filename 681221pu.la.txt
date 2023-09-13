@@ -1,5 +1,12 @@
-~~Title: Purport to Nitāi-Pada-Kamala — December 21, 1968, Los Angeles~~
-~~bc: December 21, 1968, Los Angeles~~
+---json
+{
+    "name":"Purport to Nitāi-Pada-Kamala — December 21, 1968, Los Angeles",
+    "h1":"December 21, 1968, Los Angeles",
+    "title":"Purport to Nitāi-Pada-Kamala — December 21, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Purport to Nitāi-Pada-Kamala ======
 
 ---- dataentry spoken ----

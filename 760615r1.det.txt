@@ -1,5 +1,12 @@
-~~Title: Room Conversation with George Gullen, President of Wayne State University — June 15, 1976, Detroit~~
-~~bc: June 15, 1976, Detroit~~
+---json
+{
+    "name":"Room Conversation with George Gullen, President of Wayne State University — June 15, 1976, Detroit",
+    "h1":"June 15, 1976, Detroit",
+    "title":"Room Conversation with George Gullen, President of Wayne State University — June 15, 1976, Detroit",
+    "description":""
+}
+---
+
 ====== Room Conversation with George Gullen, President of Wayne State University ======
 
 ---- dataentry spoken ----

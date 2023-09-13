@@ -1,5 +1,12 @@
-~~Title: SB 1.2.17 — March 25, 1967, San Francisco~~
-~~bc: March 25, 1967, San Francisco~~
+---json
+{
+    "name":"SB 1.2.17 — March 25, 1967, San Francisco",
+    "h1":"March 25, 1967, San Francisco",
+    "title":"SB 1.2.17 — March 25, 1967, San Francisco",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.17 ======
 
 ---- dataentry spoken ----

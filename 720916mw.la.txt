@@ -1,5 +1,12 @@
-~~Title: Morning Walk — September 16, 1972, Los Angeles~~
-~~bc: September 16, 1972, Los Angeles~~
+---json
+{
+    "name":"Morning Walk — September 16, 1972, Los Angeles",
+    "h1":"September 16, 1972, Los Angeles",
+    "title":"Morning Walk — September 16, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

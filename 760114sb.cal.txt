@@ -1,5 +1,12 @@
-~~Title: SB 5.5.2 [Bengali] — January 14, 1976, Calcutta~~
-~~bc: January 14, 1976, Calcutta~~
+---json
+{
+    "name":"SB 5.5.2 [Bengali] — January 14, 1976, Calcutta",
+    "h1":"January 14, 1976, Calcutta",
+    "title":"SB 5.5.2 [Bengali] — January 14, 1976, Calcutta",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.2 [Bengali] ======
 
 ---- dataentry spoken ----

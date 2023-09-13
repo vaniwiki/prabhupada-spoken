@@ -1,5 +1,12 @@
-~~Title: SB 7.9.12 — August 18, 1968, Montreal~~
-~~bc: August 18, 1968, Montreal~~
+---json
+{
+    "name":"SB 7.9.12 — August 18, 1968, Montreal",
+    "h1":"August 18, 1968, Montreal",
+    "title":"SB 7.9.12 — August 18, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.9.12 ======
 
 ---- dataentry spoken ----

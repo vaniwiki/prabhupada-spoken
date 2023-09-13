@@ -1,5 +1,12 @@
-~~Title: Room Conversation [partially recorded] — November 2, 1977, Vṛndāvana~~
-~~bc: November 2, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation [partially recorded] — November 2, 1977, Vṛndāvana",
+    "h1":"November 2, 1977, Vṛndāvana",
+    "title":"Room Conversation [partially recorded] — November 2, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation [partially recorded] ======
 
 ---- dataentry spoken ----

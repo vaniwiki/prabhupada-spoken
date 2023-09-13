@@ -1,5 +1,12 @@
-~~Title: SB 7.9.44 — March 26, 1976, Delhi~~
-~~bc: March 26, 1976, Delhi~~
+---json
+{
+    "name":"SB 7.9.44 — March 26, 1976, Delhi",
+    "h1":"March 26, 1976, Delhi",
+    "title":"SB 7.9.44 — March 26, 1976, Delhi",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.9.44 ======
 
 ---- dataentry spoken ----

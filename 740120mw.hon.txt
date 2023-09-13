@@ -1,5 +1,12 @@
-~~Title: Morning Walk, partially recorded — January 20, 1974, Honolulu~~
-~~bc: January 20, 1974, Honolulu~~
+---json
+{
+    "name":"Morning Walk, partially recorded — January 20, 1974, Honolulu",
+    "h1":"January 20, 1974, Honolulu",
+    "title":"Morning Walk, partially recorded — January 20, 1974, Honolulu",
+    "description":""
+}
+---
+
 ====== Morning Walk, partially recorded ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Initiation Lecture — July 13, 1971, Los Angeles~~
-~~bc: July 13, 1971, Los Angeles~~
+---json
+{
+    "name":"Initiation Lecture — July 13, 1971, Los Angeles",
+    "h1":"July 13, 1971, Los Angeles",
+    "title":"Initiation Lecture — July 13, 1971, Los Angeles",
+    "description":""
+}
+---
+
 ====== Initiation Lecture ======
 
 ---- dataentry spoken ----

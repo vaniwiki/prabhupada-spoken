@@ -1,5 +1,12 @@
-~~Title: Initiation Lecture — January 28, 1974, Honolulu~~
-~~bc: January 28, 1974, Honolulu~~
+---json
+{
+    "name":"Initiation Lecture — January 28, 1974, Honolulu",
+    "h1":"January 28, 1974, Honolulu",
+    "title":"Initiation Lecture — January 28, 1974, Honolulu",
+    "description":""
+}
+---
+
 ====== Initiation Lecture ======
 
 ---- dataentry spoken ----

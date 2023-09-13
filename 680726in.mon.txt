@@ -1,5 +1,12 @@
-~~Title: Initiation of Satyabhāmā Dāsī — July 26, 1968, Montreal~~
-~~bc: July 26, 1968, Montreal~~
+---json
+{
+    "name":"Initiation of Satyabhāmā Dāsī — July 26, 1968, Montreal",
+    "h1":"July 26, 1968, Montreal",
+    "title":"Initiation of Satyabhāmā Dāsī — July 26, 1968, Montreal",
+    "description":""
+}
+---
+
 ====== Initiation of Satyabhāmā Dāsī ======
 
 ---- dataentry spoken ----

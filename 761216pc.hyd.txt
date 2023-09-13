@@ -1,5 +1,12 @@
-~~Title: Press Conference — December 16, 1976, Hyderabad~~
-~~bc: December 16, 1976, Hyderabad~~
+---json
+{
+    "name":"Press Conference — December 16, 1976, Hyderabad",
+    "h1":"December 16, 1976, Hyderabad",
+    "title":"Press Conference — December 16, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Press Conference ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Morning Walk — February 9, 1976, Māyāpur~~
-~~bc: February 9, 1976, Māyāpur~~
+---json
+{
+    "name":"Morning Walk — February 9, 1976, Māyāpur",
+    "h1":"February 9, 1976, Māyāpur",
+    "title":"Morning Walk — February 9, 1976, Māyāpur",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

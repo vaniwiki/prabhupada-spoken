@@ -1,5 +1,12 @@
-~~Title: Rādhāṣṭamī — August 29, 1971, London~~
-~~bc: August 29, 1971, London~~
+---json
+{
+    "name":"Rādhāṣṭamī — August 29, 1971, London",
+    "h1":"August 29, 1971, London",
+    "title":"Rādhāṣṭamī — August 29, 1971, London",
+    "description":""
+}
+---
+
 ====== Rādhāṣṭamī, Śrīmatī Rādhārāṇī’s Appearance Day ======
 
 ---- dataentry spoken ----

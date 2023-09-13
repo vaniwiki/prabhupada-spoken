@@ -1,5 +1,12 @@
-~~Title: Lecture, Manipurin Dancing Group, the Zaveri Sisters — December 20, 1972, Bombay~~
-~~bc: December 20, 1972, Bombay~~
+---json
+{
+    "name":"Lecture, Manipurin Dancing Group, the Zaveri Sisters — December 20, 1972, Bombay",
+    "h1":"December 20, 1972, Bombay",
+    "title":"Lecture, Manipurin Dancing Group, the Zaveri Sisters — December 20, 1972, Bombay",
+    "description":""
+}
+---
+
 ====== Lecture, Manipurin Dancing Group, the Zaveri Sisters ======
 
 ---- dataentry spoken ----

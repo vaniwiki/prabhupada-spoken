@@ -1,5 +1,12 @@
-~~Title: SB 7.7.30-31 — September 12, 1971, Mombassa~~
-~~bc: September 12, 1971, Mombassa~~
+---json
+{
+    "name":"SB 7.7.30-31 — September 12, 1971, Mombassa",
+    "h1":"September 12, 1971, Mombassa",
+    "title":"SB 7.7.30-31 — September 12, 1971, Mombassa",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.7.30–31 ======
 
 ---- dataentry spoken ----

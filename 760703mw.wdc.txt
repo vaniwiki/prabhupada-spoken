@@ -1,5 +1,12 @@
-~~Title: Morning Walk [partially recorded] — July 3, 1976, Washington, D.C.~~
-~~bc: July 3, 1976, Washington, D.C.~~
+---json
+{
+    "name":"Morning Walk [partially recorded] — July 3, 1976, Washington, D.C.",
+    "h1":"July 3, 1976, Washington, D.C.",
+    "title":"Morning Walk [partially recorded] — July 3, 1976, Washington, D.C.",
+    "description":""
+}
+---
+
 ====== Morning Walk [partially recorded] ======
 
 ---- dataentry spoken ----

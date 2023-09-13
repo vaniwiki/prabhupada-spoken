@@ -1,5 +1,12 @@
-~~Title: Arrival Speech — June 21, 1976, New Vrindavan~~
-~~bc: June 21, 1976, New Vrindavan~~
+---json
+{
+    "name":"Arrival Speech — June 21, 1976, New Vrindavan",
+    "h1":"June 21, 1976, New Vrindavan",
+    "title":"Arrival Speech — June 21, 1976, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Arrival Speech ======
 
 ---- dataentry spoken ----

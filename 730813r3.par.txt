@@ -1,5 +1,12 @@
-~~Title: Discussion about Guru Maharaj-ji — August 13, 1973, Paris~~
-~~bc: August 13, 1973, Paris~~
+---json
+{
+    "name":"Discussion about Guru Maharaj-ji — August 13, 1973, Paris",
+    "h1":"August 13, 1973, Paris",
+    "title":"Discussion about Guru Maharaj-ji — August 13, 1973, Paris",
+    "description":""
+}
+---
+
 ====== Discussion about Guru Maharaj-ji ======
 
 ---- dataentry spoken ----

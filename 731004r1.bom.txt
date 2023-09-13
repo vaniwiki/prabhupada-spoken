@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Indian Guest — October 4, 1973, Bombay~~
-~~bc: October 4, 1973, Bombay~~
+---json
+{
+    "name":"Room Conversation with Indian Guest — October 4, 1973, Bombay",
+    "h1":"October 4, 1973, Bombay",
+    "title":"Room Conversation with Indian Guest — October 4, 1973, Bombay",
+    "description":""
+}
+---
+
 ====== Room Conversation with Indian Guest ======
 
 ---- dataentry spoken ----

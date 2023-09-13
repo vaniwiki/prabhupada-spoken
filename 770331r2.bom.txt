@@ -1,5 +1,12 @@
-~~Title: Room Conversation [partially recorded] — March 31, 1977, Bombay~~
-~~bc: March 31, 1977, Bombay~~
+---json
+{
+    "name":"Room Conversation [partially recorded] — March 31, 1977, Bombay",
+    "h1":"March 31, 1977, Bombay",
+    "title":"Room Conversation [partially recorded] — March 31, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Room Conversation [partially recorded] ======
 
 ---- dataentry spoken ----

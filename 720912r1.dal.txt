@@ -1,5 +1,12 @@
-~~Title: Teaching Children, Conversation — September 12, 1972, Dallas~~
-~~bc: September 12, 1972, Dallas~~
+---json
+{
+    "name":"Teaching Children, Conversation — September 12, 1972, Dallas",
+    "h1":"September 12, 1972, Dallas",
+    "title":"Teaching Children, Conversation — September 12, 1972, Dallas",
+    "description":""
+}
+---
+
 ====== Teaching Children, Conversation ======
 
 ---- dataentry spoken ----

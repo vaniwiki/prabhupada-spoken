@@ -1,5 +1,12 @@
-~~Title: Bhaktiprajñāna Keśava Mahārāja’s Disappearance Day Lecture, — October 21, 1968, Seattle~~
-~~bc: October 21, 1968, Seattle~~
+---json
+{
+    "name":"Bhaktiprajñāna Keśava Mahārāja’s Disappearance Day Lecture, — October 21, 1968, Seattle",
+    "h1":"October 21, 1968, Seattle",
+    "title":"Bhaktiprajñāna Keśava Mahārāja’s Disappearance Day Lecture, — October 21, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Bhaktiprajñāna Keśava Mahārāja’s Disappearance Day Lecture, ======
 
 ---- dataentry spoken ----

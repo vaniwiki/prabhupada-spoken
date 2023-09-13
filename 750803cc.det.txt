@@ -1,5 +1,12 @@
-~~Title: Car Conversation — August 3, 1975, Detroit~~
-~~bc: August 3, 1975, Detroit~~
+---json
+{
+    "name":"Car Conversation — August 3, 1975, Detroit",
+    "h1":"August 3, 1975, Detroit",
+    "title":"Car Conversation — August 3, 1975, Detroit",
+    "description":""
+}
+---
+
 ====== Car Conversation ======
 
 ---- dataentry spoken ----

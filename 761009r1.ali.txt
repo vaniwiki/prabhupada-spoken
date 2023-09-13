@@ -1,5 +1,12 @@
-~~Title: Room Conversation — October 9, 1976, Aligarh~~
-~~bc: October 9, 1976, Aligarh~~
+---json
+{
+    "name":"Room Conversation — October 9, 1976, Aligarh",
+    "h1":"October 9, 1976, Aligarh",
+    "title":"Room Conversation — October 9, 1976, Aligarh",
+    "description":""
+}
+---
+
 ====== Room Conversation ======
 
 ---- dataentry spoken ----

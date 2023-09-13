@@ -1,5 +1,12 @@
-~~Title: Showing of Planetary Sketches — June 28, 1977, Vṛndāvana~~
-~~bc: June 28, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Showing of Planetary Sketches — June 28, 1977, Vṛndāvana",
+    "h1":"June 28, 1977, Vṛndāvana",
+    "title":"Showing of Planetary Sketches — June 28, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Showing of Planetary Sketches ======
 
 ---- dataentry spoken ----

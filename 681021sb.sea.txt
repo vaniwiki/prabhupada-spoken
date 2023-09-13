@@ -1,5 +1,12 @@
-~~Title: SB 7.9.8 — October 21, 1968, Seattle~~
-~~bc: October 21, 1968, Seattle~~
+---json
+{
+    "name":"SB 7.9.8 — October 21, 1968, Seattle",
+    "h1":"October 21, 1968, Seattle",
+    "title":"SB 7.9.8 — October 21, 1968, Seattle",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.9.8 ======
 
 ---- dataentry spoken ----

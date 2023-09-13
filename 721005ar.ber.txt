@@ -1,5 +1,12 @@
-~~Title: Arrival — October 5, 1972, Berkeley~~
-~~bc: October 5, 1972, Berkeley~~
+---json
+{
+    "name":"Arrival — October 5, 1972, Berkeley",
+    "h1":"October 5, 1972, Berkeley",
+    "title":"Arrival — October 5, 1972, Berkeley",
+    "description":""
+}
+---
+
 ====== Arrival ======
 
 ---- dataentry spoken ----

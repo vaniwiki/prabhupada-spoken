@@ -1,5 +1,12 @@
-~~Title: Meeting with GBC — March 31, 1975, Māyāpur~~
-~~bc: March 31, 1975, Māyāpur~~
+---json
+{
+    "name":"Meeting with GBC — March 31, 1975, Māyāpur",
+    "h1":"March 31, 1975, Māyāpur",
+    "title":"Meeting with GBC — March 31, 1975, Māyāpur",
+    "description":""
+}
+---
+
 ====== Meeting with GBC ======
 
 ---- dataentry spoken ----

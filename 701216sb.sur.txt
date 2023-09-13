@@ -1,5 +1,12 @@
-~~Title: SB 6.1.32 — December 16, 1970, Surat~~
-~~bc: December 16, 1970, Surat~~
+---json
+{
+    "name":"SB 6.1.32 — December 16, 1970, Surat",
+    "h1":"December 16, 1970, Surat",
+    "title":"SB 6.1.32 — December 16, 1970, Surat",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.32 ======
 
 ---- dataentry spoken ----

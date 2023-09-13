@@ -1,5 +1,12 @@
-~~Title: Talk in Studio — March 13, 1968, San Francisco~~
-~~bc: March 13, 1968, San Francisco~~
+---json
+{
+    "name":"Talk in Studio — March 13, 1968, San Francisco",
+    "h1":"March 13, 1968, San Francisco",
+    "title":"Talk in Studio — March 13, 1968, San Francisco",
+    "description":""
+}
+---
+
 ====== Talk in Studio ======
 
 ---- dataentry spoken ----

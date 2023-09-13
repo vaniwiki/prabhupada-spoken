@@ -1,5 +1,12 @@
-~~Title: Evening Darśana on night of arrival — August 16, 1976, Hyderabad~~
-~~bc: August 16, 1976, Hyderabad~~
+---json
+{
+    "name":"Evening Darśana on night of arrival — August 16, 1976, Hyderabad",
+    "h1":"August 16, 1976, Hyderabad",
+    "title":"Evening Darśana on night of arrival — August 16, 1976, Hyderabad",
+    "description":""
+}
+---
+
 ====== Evening Darśana on night of arrival ======
 
 ---- dataentry spoken ----

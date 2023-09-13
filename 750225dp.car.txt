@@ -1,5 +1,12 @@
-~~Title: Departure Lecture — February 25, 1975, Caracas~~
-~~bc: February 25, 1975, Caracas~~
+---json
+{
+    "name":"Departure Lecture — February 25, 1975, Caracas",
+    "h1":"February 25, 1975, Caracas",
+    "title":"Departure Lecture — February 25, 1975, Caracas",
+    "description":""
+}
+---
+
 ====== Departure Lecture ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Chanting Cc. Ādi-līlā 12th Chapter Verses 1–96 — July 12, 1974, Los Angeles~~
-~~bc: July 12, 1974, Los Angeles~~
+---json
+{
+    "name":"Chanting Cc. Ādi-līlā 12th Chapter Verses 1–96 — July 12, 1974, Los Angeles",
+    "h1":"July 12, 1974, Los Angeles",
+    "title":"Chanting Cc. Ādi-līlā 12th Chapter Verses 1–96 — July 12, 1974, Los Angeles",
+    "description":""
+}
+---
+
 ====== Chanting Cc. Ādi-līlā 12th Chapter Verses 1–96 ======
 
 ---- dataentry spoken ----

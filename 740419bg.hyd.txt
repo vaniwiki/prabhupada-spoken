@@ -1,5 +1,12 @@
-~~Title: Bg 13.3 — April 19, 1974, Hyderabad~~
-~~bc: April 19, 1974, Hyderabad~~
+---json
+{
+    "name":"Bg 13.3 — April 19, 1974, Hyderabad",
+    "h1":"April 19, 1974, Hyderabad",
+    "title":"Bg 13.3 — April 19, 1974, Hyderabad",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 13.3 ======
 
 ---- dataentry spoken ----

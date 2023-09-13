@@ -1,5 +1,12 @@
-~~Title: Bg 6.41 — July 17, 1971, Detroit~~
-~~bc: July 17, 1971, Detroit~~
+---json
+{
+    "name":"Bg 6.41 — July 17, 1971, Detroit",
+    "h1":"July 17, 1971, Detroit",
+    "title":"Bg 6.41 — July 17, 1971, Detroit",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 6.41 ======
 
 ---- dataentry spoken ----

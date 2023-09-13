@@ -1,5 +1,12 @@
-~~Title: Arrival Lecture — April 19, 1976, Melbourne~~
-~~bc: April 19, 1976, Melbourne~~
+---json
+{
+    "name":"Arrival Lecture — April 19, 1976, Melbourne",
+    "h1":"April 19, 1976, Melbourne",
+    "title":"Arrival Lecture — April 19, 1976, Melbourne",
+    "description":""
+}
+---
+
 ====== Arrival Lecture ======
 
 ---- dataentry spoken ----

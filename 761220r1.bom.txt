@@ -1,5 +1,12 @@
-~~Title: Conversation with Rādhā-vallabha dāsa — December 20, 1976, Bombay~~
-~~bc: December 20, 1976, Bombay~~
+---json
+{
+    "name":"Conversation with Rādhā-vallabha dāsa — December 20, 1976, Bombay",
+    "h1":"December 20, 1976, Bombay",
+    "title":"Conversation with Rādhā-vallabha dāsa — December 20, 1976, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation with Rādhā-vallabha dāsa ======
 
 ---- dataentry spoken ----

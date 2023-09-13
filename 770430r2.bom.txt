@@ -1,5 +1,12 @@
-~~Title: Conversation with Vedic Astronomer — April 30, 1977, Bombay~~
-~~bc: April 30, 1977, Bombay~~
+---json
+{
+    "name":"Conversation with Vedic Astronomer — April 30, 1977, Bombay",
+    "h1":"April 30, 1977, Bombay",
+    "title":"Conversation with Vedic Astronomer — April 30, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation with Vedic Astronomer ======
 
 ---- dataentry spoken ----

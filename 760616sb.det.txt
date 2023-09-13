@@ -1,5 +1,12 @@
-~~Title: SB 6.1.50 — June 16, 1976, Detroit~~
-~~bc: June 16, 1976, Detroit~~
+---json
+{
+    "name":"SB 6.1.50 — June 16, 1976, Detroit",
+    "h1":"June 16, 1976, Detroit",
+    "title":"SB 6.1.50 — June 16, 1976, Detroit",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 6.1.50 ======
 
 ---- dataentry spoken ----

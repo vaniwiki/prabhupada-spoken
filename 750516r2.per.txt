@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Alcohol and Drug Hospital People — May 16, 1975, Perth~~
-~~bc: May 16, 1975, Perth~~
+---json
+{
+    "name":"Room Conversation with Alcohol and Drug Hospital People — May 16, 1975, Perth",
+    "h1":"May 16, 1975, Perth",
+    "title":"Room Conversation with Alcohol and Drug Hospital People — May 16, 1975, Perth",
+    "description":""
+}
+---
+
 ====== Room Conversation with Alcohol and Drug Hospital People ======
 
 ---- dataentry spoken ----

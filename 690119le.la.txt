@@ -1,5 +1,12 @@
-~~Title: Sunday Feast Lecture — January 19, 1969, Los Angeles~~
-~~bc: January 19, 1969, Los Angeles~~
+---json
+{
+    "name":"Sunday Feast Lecture — January 19, 1969, Los Angeles",
+    "h1":"January 19, 1969, Los Angeles",
+    "title":"Sunday Feast Lecture — January 19, 1969, Los Angeles",
+    "description":""
+}
+---
+
 ====== Sunday Feast Lecture ======
 
 ---- dataentry spoken ----

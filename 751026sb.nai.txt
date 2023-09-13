@@ -1,5 +1,12 @@
-~~Title: SB 3.28.17 — October 26, 1975, Nairobi~~
-~~bc: October 26, 1975, Nairobi~~
+---json
+{
+    "name":"SB 3.28.17 — October 26, 1975, Nairobi",
+    "h1":"October 26, 1975, Nairobi",
+    "title":"SB 3.28.17 — October 26, 1975, Nairobi",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 3.28.17 ======
 
 ---- dataentry spoken ----

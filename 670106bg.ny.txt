@@ -1,5 +1,12 @@
-~~Title: Bg 10.8 — January 6, 1967, New York~~
-~~bc: January 6, 1967, New York~~
+---json
+{
+    "name":"Bg 10.8 — January 6, 1967, New York",
+    "h1":"January 6, 1967, New York",
+    "title":"Bg 10.8 — January 6, 1967, New York",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 10.8 ======
 
 ---- dataentry spoken ----

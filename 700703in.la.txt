@@ -1,5 +1,12 @@
-~~Title: Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara — July 3, 1970, Los Angeles~~
-~~bc: July 3, 1970, Los Angeles~~
+---json
+{
+    "name":"Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara — July 3, 1970, Los Angeles",
+    "h1":"July 3, 1970, Los Angeles",
+    "title":"Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara — July 3, 1970, Los Angeles",
+    "description":""
+}
+---
+
 ====== Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara ======
 
 ---- dataentry spoken ----

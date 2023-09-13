@@ -1,5 +1,12 @@
-~~Title: Lecture [partially recorded] — July 5, 1971, Los Angeles~~
-~~bc: July 5, 1971, Los Angeles~~
+---json
+{
+    "name":"Lecture [partially recorded] — July 5, 1971, Los Angeles",
+    "h1":"July 5, 1971, Los Angeles",
+    "title":"Lecture [partially recorded] — July 5, 1971, Los Angeles",
+    "description":""
+}
+---
+
 ====== Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

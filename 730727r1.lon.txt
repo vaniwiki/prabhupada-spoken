@@ -1,5 +1,12 @@
-~~Title: Conversation with Sir Alistair Hardy — July 27, 1973, London~~
-~~bc: July 27, 1973, London~~
+---json
+{
+    "name":"Conversation with Sir Alistair Hardy — July 27, 1973, London",
+    "h1":"July 27, 1973, London",
+    "title":"Conversation with Sir Alistair Hardy — July 27, 1973, London",
+    "description":""
+}
+---
+
 ====== Conversation with Sir Alistair Hardy ======
 
 ---- dataentry spoken ----

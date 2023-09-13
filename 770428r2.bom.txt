@@ -1,5 +1,12 @@
-~~Title: Conversation: Animals’ Expertise — April 28, 1977, Bombay~~
-~~bc: April 28, 1977, Bombay~~
+---json
+{
+    "name":"Conversation: Animals’ Expertise — April 28, 1977, Bombay",
+    "h1":"April 28, 1977, Bombay",
+    "title":"Conversation: Animals’ Expertise — April 28, 1977, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation: Animals’ Expertise ======
 
 ---- dataentry spoken ----

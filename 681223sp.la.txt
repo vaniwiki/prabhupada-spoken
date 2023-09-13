@@ -1,5 +1,12 @@
-~~Title: Recorded Speech to Members of ISKCON London — December 23, 1968, Los Angeles~~
-~~bc: December 23, 1968, Los Angeles~~
+---json
+{
+    "name":"Recorded Speech to Members of ISKCON London — December 23, 1968, Los Angeles",
+    "h1":"December 23, 1968, Los Angeles",
+    "title":"Recorded Speech to Members of ISKCON London — December 23, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Recorded Speech to Members of ISKCON London ======
 
 ---- dataentry spoken ----

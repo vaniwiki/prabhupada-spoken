@@ -1,5 +1,12 @@
-~~Title: SB 7.6.1 — April 20, 1972, Hong Kong~~
-~~bc: April 20, 1972, Hong Kong~~
+---json
+{
+    "name":"SB 7.6.1 — April 20, 1972, Hong Kong",
+    "h1":"April 20, 1972, Hong Kong",
+    "title":"SB 7.6.1 — April 20, 1972, Hong Kong",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 7.6.1 ======
 
 ---- dataentry spoken ----

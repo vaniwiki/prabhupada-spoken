@@ -1,5 +1,12 @@
-~~Title: SB 1.2.5 — July 31, 1972, Glasgow~~
-~~bc: July 31, 1972, Glasgow~~
+---json
+{
+    "name":"SB 1.2.5 — July 31, 1972, Glasgow",
+    "h1":"July 31, 1972, Glasgow",
+    "title":"SB 1.2.5 — July 31, 1972, Glasgow",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 1.2.5 ======
 
 ---- dataentry spoken ----

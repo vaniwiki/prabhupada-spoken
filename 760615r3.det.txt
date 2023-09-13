@@ -1,5 +1,12 @@
-~~Title: Conversation with Clergymen — June 15, 1976, Detroit~~
-~~bc: June 15, 1976, Detroit~~
+---json
+{
+    "name":"Conversation with Clergymen — June 15, 1976, Detroit",
+    "h1":"June 15, 1976, Detroit",
+    "title":"Conversation with Clergymen — June 15, 1976, Detroit",
+    "description":""
+}
+---
+
 ====== Conversation with Clergymen ======
 
 ---- dataentry spoken ----

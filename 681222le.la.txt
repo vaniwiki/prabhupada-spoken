@@ -1,5 +1,12 @@
-~~Title: Press Release — December 22, 1968, Los Angeles~~
-~~bc: December 22, 1968, Los Angeles~~
+---json
+{
+    "name":"Press Release — December 22, 1968, Los Angeles",
+    "h1":"December 22, 1968, Los Angeles",
+    "title":"Press Release — December 22, 1968, Los Angeles",
+    "description":""
+}
+---
+
 ====== Press Release ======
 
 ---- dataentry spoken ----

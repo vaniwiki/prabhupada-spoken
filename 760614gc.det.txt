@@ -1,5 +1,12 @@
-~~Title: Garden Conversation — June 14, 1976, Detroit~~
-~~bc: June 14, 1976, Detroit~~
+---json
+{
+    "name":"Garden Conversation — June 14, 1976, Detroit",
+    "h1":"June 14, 1976, Detroit",
+    "title":"Garden Conversation — June 14, 1976, Detroit",
+    "description":""
+}
+---
+
 ====== Garden Conversation ======
 
 ---- dataentry spoken ----

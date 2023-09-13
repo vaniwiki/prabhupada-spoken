@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Bernard Manischewitz — March 5, 1975, New York~~
-~~bc: March 5, 1975, New York~~
+---json
+{
+    "name":"Room Conversation with Bernard Manischewitz — March 5, 1975, New York",
+    "h1":"March 5, 1975, New York",
+    "title":"Room Conversation with Bernard Manischewitz — March 5, 1975, New York",
+    "description":""
+}
+---
+
 ====== Room Conversation with Bernard Manischewitz ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Bg 9.1 — April 17, 1975, Vṛndāvana~~
-~~bc: April 17, 1975, Vṛndāvana~~
+---json
+{
+    "name":"Bg 9.1 — April 17, 1975, Vṛndāvana",
+    "h1":"April 17, 1975, Vṛndāvana",
+    "title":"Bg 9.1 — April 17, 1975, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 9.1 ======
 
 ---- dataentry spoken ----

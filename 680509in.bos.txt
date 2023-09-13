@@ -1,5 +1,12 @@
-~~Title: Gāyatrī Mantra Initiation — May 9, 1968, Boston~~
-~~bc: May 9, 1968, Boston~~
+---json
+{
+    "name":"Gāyatrī Mantra Initiation — May 9, 1968, Boston",
+    "h1":"May 9, 1968, Boston",
+    "title":"Gāyatrī Mantra Initiation — May 9, 1968, Boston",
+    "description":""
+}
+---
+
 ====== Gāyatrī Mantra Initiation ======
 
 ---- dataentry spoken ----

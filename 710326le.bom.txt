@@ -1,5 +1,12 @@
-~~Title: Pandal Lecture at Cross Maidan — March 26, 1971, Bombay~~
-~~bc: March 26, 1971, Bombay~~
+---json
+{
+    "name":"Pandal Lecture at Cross Maidan — March 26, 1971, Bombay",
+    "h1":"March 26, 1971, Bombay",
+    "title":"Pandal Lecture at Cross Maidan — March 26, 1971, Bombay",
+    "description":""
+}
+---
+
 ====== Pandal Lecture at Cross Maidan ======
 
 ---- dataentry spoken ----

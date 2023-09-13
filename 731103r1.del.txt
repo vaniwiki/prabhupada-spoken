@@ -1,5 +1,12 @@
-~~Title: Room Conversation on Śrīmad-Bhāgavatam 1.10.11 — November 3, 1973, Delhi~~
-~~bc: November 3, 1973, Delhi~~
+---json
+{
+    "name":"Room Conversation on Śrīmad-Bhāgavatam 1.10.11 — November 3, 1973, Delhi",
+    "h1":"November 3, 1973, Delhi",
+    "title":"Room Conversation on Śrīmad-Bhāgavatam 1.10.11 — November 3, 1973, Delhi",
+    "description":""
+}
+---
+
 ====== Room Conversation on Śrīmad-Bhāgavatam 1.10.11 ======
 
 ---- dataentry spoken ----

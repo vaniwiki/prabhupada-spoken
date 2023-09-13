@@ -1,5 +1,12 @@
-~~Title: Room Conversation with Reporter Sandy Nixon and Anne Jackson — July 13, 1975, Philadelphia~~
-~~bc: July 13, 1975, Philadelphia~~
+---json
+{
+    "name":"Room Conversation with Reporter Sandy Nixon and Anne Jackson — July 13, 1975, Philadelphia",
+    "h1":"July 13, 1975, Philadelphia",
+    "title":"Room Conversation with Reporter Sandy Nixon and Anne Jackson — July 13, 1975, Philadelphia",
+    "description":""
+}
+---
+
 ====== Room Conversation with Reporter Sandy Nixon and Anne Jackson ======
 
 ---- dataentry spoken ----

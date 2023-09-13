@@ -1,5 +1,12 @@
-~~Title: Bg 2.17 — February 17, 1975, Mexico City~~
-~~bc: February 17, 1975, Mexico City~~
+---json
+{
+    "name":"Bg 2.17 — February 17, 1975, Mexico City",
+    "h1":"February 17, 1975, Mexico City",
+    "title":"Bg 2.17 — February 17, 1975, Mexico City",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 2.17 ======
 
 ---- dataentry spoken ----

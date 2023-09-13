@@ -1,5 +1,12 @@
-~~Title: Bg 7.3 — October 29, 1975, Nairobi~~
-~~bc: October 29, 1975, Nairobi~~
+---json
+{
+    "name":"Bg 7.3 — October 29, 1975, Nairobi",
+    "h1":"October 29, 1975, Nairobi",
+    "title":"Bg 7.3 — October 29, 1975, Nairobi",
+    "description":""
+}
+---
+
 ====== Bhagavad-gītā 7.3 ======
 
 ---- dataentry spoken ----

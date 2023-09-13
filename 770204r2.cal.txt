@@ -1,5 +1,12 @@
-~~Title: Conversation [partially recorded] — February 4, 1977, Calcutta~~
-~~bc: February 4, 1977, Calcutta~~
+---json
+{
+    "name":"Conversation [partially recorded] — February 4, 1977, Calcutta",
+    "h1":"February 4, 1977, Calcutta",
+    "title":"Conversation [partially recorded] — February 4, 1977, Calcutta",
+    "description":""
+}
+---
+
 ====== Conversation [partially recorded] ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Conversation About Educational System — June 15, 1975, Honolulu~~
-~~bc: June 15, 1975, Honolulu~~
+---json
+{
+    "name":"Conversation About Educational System — June 15, 1975, Honolulu",
+    "h1":"June 15, 1975, Honolulu",
+    "title":"Conversation About Educational System — June 15, 1975, Honolulu",
+    "description":""
+}
+---
+
 ====== Conversation About Educational System ======
 
 ---- dataentry spoken ----

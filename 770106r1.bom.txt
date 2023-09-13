@@ -1,5 +1,12 @@
-~~Title: Conversation — January 6, 1976, Bombay~~
-~~bc: January 6, 1976, Bombay~~
+---json
+{
+    "name":"Conversation — January 6, 1976, Bombay",
+    "h1":"January 6, 1976, Bombay",
+    "title":"Conversation — January 6, 1976, Bombay",
+    "description":""
+}
+---
+
 ====== Conversation ======
 
 ---- dataentry spoken ----

@@ -1,5 +1,12 @@
-~~Title: Purport to Nṛsiṁha Prayers — August 2, 1970, Los Angeles~~
-~~bc: August 2, 1970, Los Angeles~~
+---json
+{
+    "name":"Purport to Nṛsiṁha Prayers — August 2, 1970, Los Angeles",
+    "h1":"August 2, 1970, Los Angeles",
+    "title":"Purport to Nṛsiṁha Prayers — August 2, 1970, Los Angeles",
+    "description":""
+}
+---
+
 ====== Purport to Nṛsiṁha Prayers ======
 
 ---- dataentry spoken ----

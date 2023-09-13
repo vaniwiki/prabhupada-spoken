@@ -1,5 +1,12 @@
-~~Title: Morning Walk — July 3, 1975, Denver~~
-~~bc: July 3, 1975, Denver~~
+---json
+{
+    "name":"Morning Walk — July 3, 1975, Denver",
+    "h1":"July 3, 1975, Denver",
+    "title":"Morning Walk — July 3, 1975, Denver",
+    "description":""
+}
+---
+
 ====== Morning Walk ======
 
 ---- dataentry spoken ----

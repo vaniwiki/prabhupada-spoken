@@ -1,5 +1,12 @@
-~~Title: Nitāi Guṇa Mani Āmāra and Purport — September 24, 1972, Los Angeles~~
-~~bc: September 24, 1972, Los Angeles~~
+---json
+{
+    "name":"Nitāi Guṇa Mani Āmāra and Purport — September 24, 1972, Los Angeles",
+    "h1":"September 24, 1972, Los Angeles",
+    "title":"Nitāi Guṇa Mani Āmāra and Purport — September 24, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Nitāi Guṇa Mani Āmāra and Purport ======
 
 ---- dataentry spoken ----

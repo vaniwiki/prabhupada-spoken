@@ -1,5 +1,12 @@
-~~Title: Lecture on Teachings of Lord Caitanya — March 17, 1971, Bombay~~
-~~bc: March 17, 1971, Bombay~~
+---json
+{
+    "name":"Lecture on Teachings of Lord Caitanya — March 17, 1971, Bombay",
+    "h1":"March 17, 1971, Bombay",
+    "title":"Lecture on Teachings of Lord Caitanya — March 17, 1971, Bombay",
+    "description":""
+}
+---
+
 ====== Lecture on Teachings of Lord Caitanya ======
 
 ---- dataentry spoken ----

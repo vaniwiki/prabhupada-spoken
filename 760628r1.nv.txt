@@ -1,5 +1,12 @@
-~~Title: Room Conversation After Film — June 28, 1976, New Vrindavan~~
-~~bc: June 28, 1976, New Vrindavan~~
+---json
+{
+    "name":"Room Conversation After Film — June 28, 1976, New Vrindavan",
+    "h1":"June 28, 1976, New Vrindavan",
+    "title":"Room Conversation After Film — June 28, 1976, New Vrindavan",
+    "description":""
+}
+---
+
 ====== Room Conversation After Film ======
 
 ---- dataentry spoken ----

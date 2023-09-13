@@ -1,5 +1,12 @@
-~~Title: Room Conversation With Shri Narayan and Ramkrishna Bajaj — October 31, 1977, Vṛndāvana~~
-~~bc: October 31, 1977, Vṛndāvana~~
+---json
+{
+    "name":"Room Conversation With Shri Narayan and Ramkrishna Bajaj — October 31, 1977, Vṛndāvana",
+    "h1":"October 31, 1977, Vṛndāvana",
+    "title":"Room Conversation With Shri Narayan and Ramkrishna Bajaj — October 31, 1977, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Room Conversation With Shri Narayan and Ramkrishna Bajaj ======
 
 ---- dataentry spoken ----

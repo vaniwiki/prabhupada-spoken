@@ -1,5 +1,12 @@
-~~Title: Lecture [partially recorded] — April 2, 1972, Sydney~~
-~~bc: April 2, 1972, Sydney~~
+---json
+{
+    "name":"Lecture [partially recorded] — April 2, 1972, Sydney",
+    "h1":"April 2, 1972, Sydney",
+    "title":"Lecture [partially recorded] — April 2, 1972, Sydney",
+    "description":""
+}
+---
+
 ====== Lecture [partially recorded] ======
 
 ---- dataentry spoken ----

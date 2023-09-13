@@ -1,5 +1,12 @@
-~~Title: SB 2.9.1-7 — April 21, 1972, Tokyo~~
-~~bc: April 21, 1972, Tokyo~~
+---json
+{
+    "name":"SB 2.9.1-7 — April 21, 1972, Tokyo",
+    "h1":"April 21, 1972, Tokyo",
+    "title":"SB 2.9.1-7 — April 21, 1972, Tokyo",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 2.9.1–7 ======
 
 ---- dataentry spoken ----

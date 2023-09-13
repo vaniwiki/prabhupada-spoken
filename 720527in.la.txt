@@ -1,5 +1,12 @@
-~~Title: Sannyāsa Initiation Lecture — May 27, 1972, Los Angeles~~
-~~bc: May 27, 1972, Los Angeles~~
+---json
+{
+    "name":"Sannyāsa Initiation Lecture — May 27, 1972, Los Angeles",
+    "h1":"May 27, 1972, Los Angeles",
+    "title":"Sannyāsa Initiation Lecture — May 27, 1972, Los Angeles",
+    "description":""
+}
+---
+
 ====== Sannyāsa Initiation Lecture ======
 
 ---- dataentry spoken ----

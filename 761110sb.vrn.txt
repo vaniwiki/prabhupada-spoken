@@ -1,5 +1,12 @@
-~~Title: SB 5.5.23 — November 10, 1976, Vṛndāvana~~
-~~bc: November 10, 1976, Vṛndāvana~~
+---json
+{
+    "name":"SB 5.5.23 — November 10, 1976, Vṛndāvana",
+    "h1":"November 10, 1976, Vṛndāvana",
+    "title":"SB 5.5.23 — November 10, 1976, Vṛndāvana",
+    "description":""
+}
+---
+
 ====== Śrīmad-Bhāgavatam 5.5.23 ======
 
 ---- dataentry spoken ----

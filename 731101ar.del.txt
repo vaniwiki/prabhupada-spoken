@@ -1,5 +1,12 @@
-~~Title: Arrival — November 1, 1973, Delhi~~
-~~bc: November 1, 1973, Delhi~~
+---json
+{
+    "name":"Arrival — November 1, 1973, Delhi",
+    "h1":"November 1, 1973, Delhi",
+    "title":"Arrival — November 1, 1973, Delhi",
+    "description":""
+}
+---
+
 ====== Arrival ======
 
 ---- dataentry spoken ----
