@@ -24,9 +24,7 @@ Title_hidden     : Introduction to Gītopaniṣad
 Note_hidden      : [Earliest Recording of Śrīla Prabhupāda in the Bhaktivedanta Archives]
 ----
 
-<audio>
 {{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660219bg.ny.mp3|Bg Introduction — February 19-20, 1966, New York}}
-</audio>
 
 **Prabhupāda:**
 
