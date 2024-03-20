@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.7–11 ======
 
----- dataentry spoken ----
-id_hidden        : 660302bg.ny
-listtype_hidden  : Bg 2.7–11
-listdate_hidden  : 1966-03-02
-showdate_hidden  : 2023-03-02
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 2
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 1:06:15
-Title_hidden     : Bhagavad-gītā 2.7–11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660302bg.ny.mp3|Bg 2.7-11 — March 2, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 Now Arjuna is perplexed. He is perplexed in the matter, whether to fight or not to fight. That was his perplexity. After seeing his relatives in front of him, with whom he was to fight, he was perplexed. And there was some argument also with Kṛṣṇa. Kṛṣṇa, of course, did not encourage him. Now, here is a point, that Kṛṣṇa is the Supreme Personality of Godhead. What is that?
 
