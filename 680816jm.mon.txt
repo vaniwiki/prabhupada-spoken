@@ -9,24 +9,6 @@
 
 ====== Janmāṣṭamī, Lord Śrī Kṛṣṇa’s Appearance Day ======
 
----- dataentry spoken ----
-id_hidden        : 680816jm.mon
-listtype_hidden  : Janmāṣṭamī
-listdate_hidden  : 1968-08-16
-showdate_hidden  : 2023-08-16
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : August 16
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Janmāṣṭamī, Lord Śrī Kṛṣṇa’s Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680816jm.mon.mp3|Janmāṣṭamī — August 16, 1968, Montreal}}
-</audio>
-
 **Devotees:**
 //govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.//
 

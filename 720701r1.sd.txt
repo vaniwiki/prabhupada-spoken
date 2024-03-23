@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720701r1.sd
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : San Diego
-Type_spoken      : Room Conversation
-Date_spoken      : July 1
-Year_spoken      : 1972
-Place_spoken     : San Diego
-Length_hidden    : 15:05
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720701r1.sd.mp3|Room Conversation — July 1, 1972, San Diego}}
-</audio>
-
 **Prabhupāda:**
 ...so decomposes. So the outer skin has become dry. Nobody cares for it. It is lying down, the outer cover of the squash, and one dried bamboo. You have seen? You know bamboo? Part cut, it is also lying somewhere. And a piece of wear.
 

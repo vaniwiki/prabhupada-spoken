@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 710708ip.la
-listtype_hidden  : Īśo Lecture
-listdate_hidden  : 1971-07-08
-showdate_hidden  : 2023-07-08
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : July 8
-Year_spoken      : 1971
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Īśopaniṣad Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710708ip.la.mp3|Śrī Īśopaniṣad Lecture [partially recorded] — July 8, 1971, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Sings along with Govindam Prayers... Then recites Sri Isopanisad verses 1–12 with response from devotees.
 

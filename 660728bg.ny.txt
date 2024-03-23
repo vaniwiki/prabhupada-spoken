@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.11–12 ======
 
----- dataentry spoken ----
-id_hidden        : 660728bg.ny
-listtype_hidden  : Bg 4.11–12
-listdate_hidden  : 1966-07-28
-showdate_hidden  : 2023-07-28
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 28
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 4.11–12
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660728bg.ny.mp3|Bg 4.11-12 — July 28, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > ye yathā māṁ prapadyante

@@ -9,24 +9,6 @@
 
 ====== Nṛsiṁha-caturdaśī, Lord Nṛsiṁha-deva’s Appearance Day ======
 
----- dataentry spoken ----
-id_hidden        : 740505na.bom
-listtype_hidden  : Nṛsiṁha-caturdaśī
-listdate_hidden  : 1974-05-05
-showdate_hidden  : 2023-05-05
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : May 5
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 21:10
-Title_hidden     : Nṛsiṁha-caturdaśī, Lord Nṛsiṁha-deva’s Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740505na.bom.mp3|Nṛsiṁha-caturdaśī — May 5, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...girls who have played the //Prahlāda-caritra, Hiraṇyakaśipu-vadha.// Today is the appearance day of Lord Nṛsiṁha-deva. It is called Nṛsiṁha-caturdaśī. So I am so pleased that within such a short time these boys have nicely learned how to play, and especially I have to thank Mr. Hiraṇyakaśipu. [applause] [laughs] Mr. Hiraṇyakaśipu has played his part very nicely.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.1 [Partially Recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 680316sb.sf
-listtype_hidden  : SB 7.6.1
-listdate_hidden  : 1968-03-16
-showdate_hidden  : 2023-03-16
-listplace_hidden : San Francisco
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 16
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.1 [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680316sb.sf.mp3|SB 7.6.1 [Partially Recorded] — March 16, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 The soul is the production of Kṛṣṇa. Therefore ultimately, He is our dearmost friend. We are trying to love somebody. That somebody is a perverted reflection of Kṛṣṇa. Actually... Just like the child. The child is searching after the mother's breast. And it is crying. If somebody takes the child, he's not satisfied. Because he cannot express that "I want my mother." Similarly, we are hankering after loving Kṛṣṇa in a perverted way. But because we have no information of Kṛṣṇa, we have forgotten our relationship with Kṛṣṇa, therefore we are loving this body, that body. Ultimately, I am loving a cat or dog or something else. The love is there, but we have misplaced the love. As soon as we replace our love to Kṛṣṇa, then our perfection of love is manifested and our perfection of life is also achieved. Lord Caitanya preached this philosophy that //premā pum-artho mahān. Prema, prema// means love. His philosophy, Lord Caitanya's philosophy, is //ārādhyo bhagavān vrajeśa-tanayaḥ. Vrajeśa-tanayaḥ// means Kṛṣṇa. Kṛṣṇa appeared as the son of the king of Vraja, Vṛndāvana. Therefore And //tanaya// means son. So Śrī Caitanya Mahāprabhu, His propagation, His teaching, the substance of His teaching is that Kṛṣṇa is the most worshipable object. //Ārādhyo bhagavān vrajeśa-tanayas tad-dhāma vṛndāvanam.//
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.18–19 ======
 
----- dataentry spoken ----
-id_hidden        : 720613sb.la
-listtype_hidden  : SB 2.3.18–19
-listdate_hidden  : 1972-06-13
-showdate_hidden  : 2023-06-13
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 13
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 53:18
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.18–19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720613sb.la.mp3|SB 2.3.18-19 — June 13, 1972, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// Page 150, text 18. [leads chanting of verse] [Prabhupāda and devotees repeat]
 

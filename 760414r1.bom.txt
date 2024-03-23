@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760414r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-04-14
-showdate_hidden  : 2023-04-14
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 14
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 63:06
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760414r1.bom.mp3|Room Conversation — April 14, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 How can young man [indistinct] understand the aim of life? It is stated in [indistinct]. They are being educated by the [indistinct], but they do not know what is the aim of life. What kind of education?
 

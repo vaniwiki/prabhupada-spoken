@@ -9,24 +9,6 @@
 
 ====== Arrival Conversation in Car and at Temple ======
 
----- dataentry spoken ----
-id_hidden        : 760813ar.bom
-listtype_hidden  : Arrival Conversation in Car and at Temple
-listdate_hidden  : 1976-08-13
-showdate_hidden  : 2023-08-13
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : August 13
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 33:03
-Title_hidden     : Arrival Conversation in Car and at Temple
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760813ar.bom.mp3|Arrival Conversation in Car and at Temple — August 13, 1976, Bombay}}
-</audio>
-
 **Gopāla Kṛṣṇa:**
 The whole thing is being done in one week. I just got the whole text from Nirañjana on Sunday from England. We've got it composed, it is going into printing tomorrow. it will be ready by Vyāsa-Pūjā. It's a Hindi //Back to Godhead// on Janmāṣṭamī...
 

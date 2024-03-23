@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771011r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-11
-showdate_hidden  : 2023-10-11
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 11
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 51:37
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771011r1.vrn.mp3|Room Conversation — October 11, 1977, Vṛndāvana}}
-</audio>
-
 **Devotee:**
 This is one introductory... "Bhaktivedanta Institute Lecture Series on the Origin of Life and Matter, sponsored by Bhaktivedanta Institute."
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.10 ======
 
----- dataentry spoken ----
-id_hidden        : 740424sb.hyd
-listtype_hidden  : SB 1.2.10
-listdate_hidden  : 1974-04-24
-showdate_hidden  : 2023-04-24
-listplace_hidden : Hyderabad
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 24
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 31:42
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.10
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740424sb.hyd.mp3|SB 1.2.10 — April 24, 1974, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 So, "All glories to the assembled devotees" means including the children also. Kṛṣṇa conscious movement is so nice that even children---without any knowledge of //Vedānta// and big, big philosophy---simply by attending the performance of devotional service, even a child’s life can be glorious without any education. That is, we are explaining in this statement of Sūta Gosvāmī: //ahaituky apratihatā// [[books:sb:1:2:6|[SB 1.2.6]]]. //Apratihatā// means you cannot check anyone. It doesn’t matter what he is. He may be a grown-up man or a small child; he may be educated, not educated; civilized or uncivilized. Even man or animal, everyone can take part in Kṛṣṇa consciousness movement, //bhakti-yoga.// This word is very important, that //ahaituky apratihatā. Apratihatā// means "without any obstacle." Because this Kṛṣṇa consciousness is meant for the soul, not for the body. So far body is concerned, there is..., according to our past //karma// it is destined.
 

@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 10 ======
 
----- dataentry spoken ----
-id_hidden        : 700515ip.la
-listtype_hidden  : Īśo Mantra 10
-listdate_hidden  : 1970-05-15
-showdate_hidden  : 2023-05-15
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : May 15
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 23:13
-Title_hidden     : Śrī Īśopaniṣad, Mantra 10
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700515ip.la.mp3|Śrī Īśopaniṣad, Mantra 10 — May 15, 1970, Los Angeles}}
-</audio>
-
 [Prabhupāda chants first ten verses with devotees]
 
 **Prabhupāda:**

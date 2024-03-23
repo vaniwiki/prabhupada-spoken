@@ -9,24 +9,6 @@
 
 ====== Meeting at University ======
 
----- dataentry spoken ----
-id_hidden        : 721006me.ber
-listtype_hidden  : Meeting University
-listdate_hidden  : 1972-10-06
-showdate_hidden  : 2023-10-06
-listplace_hidden : Berkeley
-Type_spoken      : Room Conversation
-Date_spoken      : October 6
-Year_spoken      : 1972
-Place_spoken     : Berkeley
-Length_hidden    : 25:34
-Title_hidden     : Meeting at University
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721006me.ber.mp3|Meeting at University — October 6, 1972, Berkeley}}
-</audio>
-
 **Co-ordinator of event:**
 Languages and literatures Professor van Buitenen. On the left Professor Jhani, Professor Staal, Professor Goldman. Mrs. Staal, Mrs Jhani, Paṇḍita Derbhatta.
 

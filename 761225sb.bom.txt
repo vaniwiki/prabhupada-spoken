@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.1 ======
 
----- dataentry spoken ----
-id_hidden        : 761225sb.bom
-listtype_hidden  : SB 5.5.1
-listdate_hidden  : 1976-12-25
-showdate_hidden  : 2023-12-25
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 25
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 32:36
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761225sb.bom.mp3|SB 5.5.1 — December 25, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > nāyaṁ deho deha-bhājāṁ nṛloke

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770419r3.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 19
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 46:45
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770419r3.bom.mp3|Room Conversation — April 19, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 What you can do when a man dies? Can you save? So similarly, everyone is being handled by the laws of nature. Nobody can do anything, just puffed up, "We can do this plan." All these political leaders, they are simply wasting time. They cannot do anything. Indira promised, //daridra hatā//[?]. But now he is, she is //daridra,// poverty-stricken. //Daivī hy eṣā guṇamayī mama māyā duratyayā// [[books:bg:7:14|[Bg. 7.14]]]. These rascals, they challenging the material laws? Such a rascal? You are scientists, they are challenging. Are they not challenging?
 

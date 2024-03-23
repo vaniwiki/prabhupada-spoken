@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Svarūpa Dāmodara ======
 
----- dataentry spoken ----
-id_hidden        : 770130r1.bhu
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-30
-showdate_hidden  : 2023-01-30
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 30
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 73:11
-Title_hidden     : Room Conversation with Svarūpa Dāmodara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770130r1.bhu.mp3|Room Conversation with Svarūpa Dāmodara — January 30, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 //Putrikā. Putri,// then //kā,// go together.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.18 ======
 
----- dataentry spoken ----
-id_hidden        : 730410sb.ny
-listtype_hidden  : SB 1.8.18
-listdate_hidden  : 1973-04-10
-showdate_hidden  : 2023-04-10
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 10
-Year_spoken      : 1973
-Place_spoken     : New York
-Length_hidden    : 37:51
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730410sb.ny.mp3|SB 1.8.18 — April 10, 1973, New York}}
-</audio>
-
 **Prabhupāda:**
 Hmm. Read.
 

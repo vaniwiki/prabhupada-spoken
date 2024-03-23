@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.49–51 ======
 
----- dataentry spoken ----
-id_hidden        : 660405bg.ny
-listtype_hidden  : Bg 2.49–51
-listdate_hidden  : 1966-04-05
-showdate_hidden  : 2023-04-05
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 5
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 2.49–51
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660405bg.ny.mp3|Bg 2.49-51 — April 5, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 Now Lord Śrī Kṛṣṇa is just trying to place Arjuna in the platform of working on pure consciousness. The... We have already discussed for so many days that we are not this dull body, but we are consciousness. Now, some way or other, we are in contact with this matter. Therefore our freedom is checked. As spiritual beings, we are free, free to act, free to have anything, pure, no contamination, no disease, no birth, no death, no old age, and besides that, we have got many, many other qualifications in our spiritual life. So unfortunately, because we are in contact with this matter, we are hampered in so many ways. This we should understand, and this is the opportunity; this human life is the only opportunity. If we miss this opportunity, then it may be that in our next life we may not have again this nice, civilized human form of life according to our //karma.// But one thing is sure. You'll be glad to hear that once begun, this process of spiritual realization, one is guaranteed to have next life as human being. You'll find in the //Bhagavad-gītā// that //śucīnāṁ śrīmatāṁ gehe yoga-bhraṣṭo 'bhijāyate// [[books:bg:6:41|[Bg. 6.41]]]. You'll find in course of this discussion with Arjuna and Kṛṣṇa when Kṛṣṇa will describe about the yoga system, how to act it. This is also yoga system, //yoga-sthaḥ kuru karmāṇi.// This is //karma-yoga.// This is //karma-yoga.//
 

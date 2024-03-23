@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760117r1.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-01-17
-showdate_hidden  : 2023-01-17
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : January 17
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 20:44
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760117r1.may.mp3|Room Conversation — January 17, 1976, Māyāpur}}
-</audio>
-
 **Devotee (1):**
 "...Sanat Kumāras were going to Vaikuṇṭha to visit Lord Viṣṇu. They were stopped at the door by the doorkeepers, Jaya and Vijaya. But specifically, the Supreme Lord cannot be seen by ordinary eyes. But He can now become visible to the eyesight of the Kumāras. Another significant word is //samādhi-vākyam.// Meditators who are very fortunate see the Viṣṇu form of the Lord within their hearts by following the //yoga// process. But to see Him eye to eye is a different matter. It is only possible for pure devotees. The Kumāras therefore, before seeing the Lord..." [break]
 

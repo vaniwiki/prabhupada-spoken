@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.2.24–25 ======
 
----- dataentry spoken ----
-id_hidden        : 710213sb.gor
-listtype_hidden  : SB 6.2.24–25
-listdate_hidden  : 1971-02-13
-showdate_hidden  : 2023-02-13
-listplace_hidden : Gorakhpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 13
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.2.24–25
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710213sb.gor.mp3|SB 6.2.24-25 — February 13, 1971, Gorakhpur}}
-</audio>
-
 **Prabhupāda:**
 ...humbler than the grass and tolerant more than the tree. //Tṛṇād api sunīcena taror api sahiṣṇunā, amāninā mānadena.// We have to give all respect to everyone. Even one has no respect, he should be also offered respect. In this attitude one can make advancement by chanting this Hare Kṛṣṇa //mantra.// That is the instruction of Lord Caitanya. [aside:] I was expecting you earlier because I speak in English for them. [speaks in Hindi with Indian man] So one who cannot understand English, they can hear that. [Hindi] Every one is requesting to have a temple here. Some police officers, they are very much appreciating. [Hindi] So Śrīdhāra Swami is very nicely explaining the omnipotency of chanting the holy name. So he says, //tasmād idam upapannam iti tatrāha etāvad iti.// If one takes shelter of the transcendental holy name of the Supreme Personality of Godhead, he hasn't got to go through the //dharma śāstras// or abiding by the rules and regulation of different kinds of religious scripture. //Etāvat. Etāvad iti.// Simply by surrendering to the holy name. So this is applicable in all ages, but especially in this age because nobody can perform the ritualistic ceremonies of any religious principle. The people are so fallen that they cannot. So this //hari-nāmānukīrtanam,// it is not that it is manufactured for this age. No. This is potent in all other ages also, but especially it is potent because people in this age, they are unable to execute any religious principles very nicely. //Bhagavato guṇānāṁ karmāṇāṁ nāmnāṁ ca samyak kīrtanaṁ iti yat etāvatā puṁsām agha-nirṇayāya pāpa-kṣaya-mātrāya alam upayogo nāsti alam-śabdena atra varaṇe.// So Śrīdhāra Swami especially stresses on the point, //alam,// means "It is forbidden. There is no necessity. Simply..." That is the version of Lord Caitanya Mahāprabhu. He said, //ihā haite sarva-siddhi haibe tomāra.// He also stresses that "Simply by chanting, you will get all perfection." //Yata amara-śṛṅgāḥ, alaṁ bhūṣaṇa-paryāpi śakti-varaṇa-vaśakam ity upayoga-bhavam eva ajāmilo mahā-pāpa-kṛd api nārāyaṇeti vikṛśya na tu samyak kīrtayitaḥ.// You can hear now.
 

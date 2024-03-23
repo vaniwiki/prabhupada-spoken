@@ -9,24 +9,6 @@
 
 ====== Room Conversation with David Wynne, Sculptor ======
 
----- dataentry spoken ----
-id_hidden        : 730709r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-09
-showdate_hidden  : 2023-07-09
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 9
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 120:38
-Title_hidden     : Room Conversation with David Wynne, Sculptor
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730709r1.lon.mp3|Room Conversation with David Wynne, Sculptor — July 9, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 ...recently I heard that the people in the airport protested against Indira Gandhi, that "Give us rain." Yes. That is Vedic civilization, ideal. Why there is rain then no rain? The king should be responsible. One //brāhmaṇa// lost his son. He immediately went to the king and asked him that "The son has died before the death of the father. Why this irregularity? You are responsible." You see?
 

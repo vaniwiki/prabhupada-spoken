@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.5 ======
 
----- dataentry spoken ----
-id_hidden        : 760212sb.may
-listtype_hidden  : SB 7.9.5
-listdate_hidden  : 1976-02-12
-showdate_hidden  : 2023-02-12
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 12
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 28:11
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760212sb.may.mp3|SB 7.9.5 — February 12, 1976, Māyāpur}}
-</audio>
-
 **Śāstrījī:**
 //Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [chants verse, with devotee repeating] [break]
 

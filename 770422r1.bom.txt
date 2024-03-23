@@ -9,24 +9,6 @@
 
 ====== Conversation with Tamāla Kṛṣṇa about Yadubara ======
 
----- dataentry spoken ----
-id_hidden        : 770422r1.bom
-listtype_hidden  : Conversation with Tamāla Kṛṣṇa about Yadubara
-listdate_hidden  : 1977-04-22
-showdate_hidden  : 2023-04-22
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 22
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 08:08
-Title_hidden     : Conversation with Tamāla Kṛṣṇa about Yadubara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770422r1.bom.mp3|Conversation with Tamāla Kṛṣṇa about Yadubara — April 22, 1977, Bombay}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 Yadubara... There's one letter from Yadubara Prabhu. Actually, he was hoping to get to see you.
 

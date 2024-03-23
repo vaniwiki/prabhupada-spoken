@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760427r1.auc
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-04-27
-showdate_hidden  : 2023-04-27
-listplace_hidden : Auckland
-Type_spoken      : Room Conversation
-Date_spoken      : April 27
-Year_spoken      : 1976
-Place_spoken     : Auckland
-Length_hidden    : 17:30
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760427r1.auc.mp3|Room Conversation — April 27, 1976, Auckland}}
-</audio>
-
 **Devotee (1):**
 Yeah, he's floating around somewhere doing nonsense. Now he's eating meat. [Prabhupāda chuckles] And this one boy in Fiji wrote me a letter. His friend worked at the hotel, Guru Maharaj-ji came and stayed there, and he was a waiter. For dinner, Guru Maharaj-ji had shrimp curry and then beer. Drinking, eating meat and having illicit sex.
 

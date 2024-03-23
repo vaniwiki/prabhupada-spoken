@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.17 ======
 
----- dataentry spoken ----
-id_hidden        : 750630sb.den
-listtype_hidden  : SB 6.1.17
-listdate_hidden  : 1975-06-30
-showdate_hidden  : 2023-06-30
-listplace_hidden : Denver
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 30
-Year_spoken      : 1975
-Place_spoken     : Denver
-Length_hidden    : 27:18
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.17
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750630sb.den.mp3|SB 6.1.17 — June 30, 1975, Denver}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa.
 

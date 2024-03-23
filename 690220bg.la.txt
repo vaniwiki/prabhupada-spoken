@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.35–45 ======
 
----- dataentry spoken ----
-id_hidden        : 690220bg.la
-listtype_hidden  : Bg 6.35–45
-listdate_hidden  : 1969-02-20
-showdate_hidden  : 2023-02-20
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 20
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.35–45
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690220bg.la.mp3|Bg 6.35-45 — February 20, 1969, Los Angeles}}
-</audio>
-
 **Devotee:**
 Verse thirty-five: "The Blessed Lord said: O mighty armed son of Kuntī, it is undoubtedly very difficult to curb the restless mind, but it is possible by constant practice and by detachment."
 

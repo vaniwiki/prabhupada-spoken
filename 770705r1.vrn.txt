@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770705r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 5
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 06:56
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770705r1.vrn.mp3|Room Conversation — July 5, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 "Probably," "perhaps." Why Darwin's theory is full of this "perhaps," "probably," "millions of years"? What is this nonsense? Is that knowledge? A mortal man is suggesting "millions of years" and "perhaps," "probably." And that's science. I never liked this.
 

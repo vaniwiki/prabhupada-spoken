@@ -9,24 +9,6 @@
 
 ====== Lecture at Kṛṣṇa Caitanya Maṭha ======
 
----- dataentry spoken ----
-id_hidden        : 720220le.vis
-listtype_hidden  : Lecture at Kṛṣṇa Caitanya Maṭha
-listdate_hidden  : 1972-02-20
-showdate_hidden  : 2023-02-20
-listplace_hidden : Visakhapatnam
-Type_spoken      : Lecture
-Date_spoken      : February 20
-Year_spoken      : 1972
-Place_spoken     : Visakhapatnam
-Length_hidden    : 21:38
-Title_hidden     : Lecture [partially recorded] At Kṛṣṇa Caitanya Maṭha [BV Purī Mahārāja]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720220le.vis.mp3|Lecture at Kṛṣṇa Caitanya Maṭha — February 20, 1972, Visakhapatnam}}
-</audio>
-
 **Prabhupāda:**
 
 > kṛṣṇot-kīrtana-gāna-nartana-parau premāmṛtāmbho-nidhī

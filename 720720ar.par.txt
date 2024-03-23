@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720720ar.par
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1972-07-20
-showdate_hidden  : 2023-07-20
-listplace_hidden : Paris
-Type_spoken      : Lecture
-Date_spoken      : July 20
-Year_spoken      : 1972
-Place_spoken     : Paris
-Length_hidden    : 12:36
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720720ar.par.mp3|Arrival Lecture — July 20, 1972, Paris}}
-</audio>
-
 **Prabhupāda:**
 //...saṅkīrtana// movement. This //saṅkīrtana// movement was started by Lord Caitanya Mahāprabhu five hundred years ago for mitigating the sufferings of the people of the world. He predicted that in every village, in every town on the surface of the globe, let this //saṅkīrtana// movement be spread out and people will be happy and they'll find Lord Caitanya Mahāprabhu. That was His prediction. Actually, this is happening now.
 

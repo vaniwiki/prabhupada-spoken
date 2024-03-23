@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 10.2–3 ======
 
----- dataentry spoken ----
-id_hidden        : 670101bg.ny
-listtype_hidden  : Bg 10.2–3
-listdate_hidden  : 1967-01-01
-showdate_hidden  : 2023-01-01
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : January 1
-Year_spoken      : 1967
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 10.2–3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670101bg.ny.mp3|Bg 10.2-3 — January 1, 1967, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > na me viduḥ sura-gaṇāḥ

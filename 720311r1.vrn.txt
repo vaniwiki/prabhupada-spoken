@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Gaurachand Gosvāmī ======
 
----- dataentry spoken ----
-id_hidden        : 720311r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-03-11
-showdate_hidden  : 2023-03-11
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : March 11
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 17:31
-Title_hidden     : Room Conversation with Gaurachand Gosvāmī at the Rādhā-Dāmodara Temple [mostly Bengali]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720311r1.vrn.mp3|Room Conversation with Gaurachand Gosvāmī — March 11, 1972, Vṛndāvana}}
-</audio>
-
 [Prabhupāda converses in Bengali with guests for a couple of minutes]
 
 **Prabhupāda:**

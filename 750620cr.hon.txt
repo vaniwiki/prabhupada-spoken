@@ -9,24 +9,6 @@
 
 ====== Car Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750620cr.hon
-listtype_hidden  : Car Conversation
-listdate_hidden  : 1975-06-20
-showdate_hidden  : 2023-06-20
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : June 20
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 08:14
-Title_hidden     : Car Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750620cr.hon.mp3|Car Conversation — June 20, 1975, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 So why not serve the supreme strong?
 

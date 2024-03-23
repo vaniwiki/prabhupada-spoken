@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760917r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-09-17
-showdate_hidden  : 2023-09-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 17
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 12:44
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760917r1.vrn.mp3|Room Conversation — September 17, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...one horse within the mouth---that is God. One hill. One Pūtanā, sucking the breast, her life goes. That is God. Why shall I take some cheap God? We are not so foolish. Here is the... So many great saintly persons hearing about God. //Śṛṇvatāṁ sva-kathāḥ kṛṣṇaḥ puṇya-śravaṇa-kīrtanaḥ// [[books:sb:1:2:17|[SB 1.2.17]]]. They are fools, hearing about Kṛṣṇa? Such great, great personalities? And Śukadeva Gosvāmī is speaking. Are they fools? All of them fools? One, two may be fool. They were wholesale fools? All the great personalities, they're all fools? Asita, Devala, Vyāsa, Nārada---all big personalities---Rāmānujācārya, Madhvācārya, Caitanya Mahāprabhu---they're all fools? I may be fool. They are not fools. //Mahājano yena gataḥ sa panthāḥ// [[books:cc:madhya:17:186|[Cc. Madhya 17.186]]]. Why shall I accept a rascal God? //Varīyān eṣa te praśnaḥ// [[books:sb:2:1:1|[SB 2.1.1]]]. "Oh, you want to hear about Kṛṣṇa?" //Varīyān eṣa te praśnaḥ.// Śukadeva was praising: "Oh, glorious, you have taken... Yes." Here is God. Breathing, and innumerable universes are coming. Here is God. Sleeping and breathing is not unnatural. He is also---//nityo nityānāṁ cetanaḥ// [//Kaṭha Upaniṣad// 2.2.13]---like us. But like not us. He can breathe and... That is the difference. Breathing is common. I breathe; He breathes. That's all right. But His breathing, my breathing is not the same breathing. He eats; I eat. That's all right. But when He eats, Mother Yaśodā sees all the universes are within Him.
 

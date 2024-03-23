@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 721006r1.ber
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-10-06
-showdate_hidden  : 2023-10-06
-listplace_hidden : Berkeley
-Type_spoken      : Room Conversation
-Date_spoken      : October 6
-Year_spoken      : 1972
-Place_spoken     : Berkeley
-Length_hidden    : 42:35
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721006r1.ber.mp3|Room Conversation — October 6, 1972, Berkeley}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] then why you are so much proud of seeing? Therefore //Vedānta-sūtra// says, //śāstra-cakṣuṣā// we have to see through perfect book of knowledge. Not this eyes... So our proposition is that Kṛṣṇa the Supreme Personality of Godhead the knowledge He has given us is perfect and if we follow this perfect knowledge then everything will be perfect. That is our position.
 

@@ -9,24 +9,6 @@
 
 ====== Purport to Hari Hari Biphale ======
 
----- dataentry spoken ----
-id_hidden        : 690910pu.ham
-listtype_hidden  : Hari Hari Biphale
-listdate_hidden  : 1969-09-10
-showdate_hidden  : 2023-09-10
-listplace_hidden : Hamburg
-Type_spoken      : Song Purport
-Date_spoken      : September 10
-Year_spoken      : 1969
-Place_spoken     : Hamburg
-Length_hidden    : 00:00
-Title_hidden     : Purport to Hari Hari Biphale
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690910pu.ham.mp3|Purport to Hari Hari Biphale — September 10, 1969, Hamburg}}
-</audio>
-
 **Prabhupāda:**
 //...biphale janama goṅāinu.// This is a song sung by Narottama dāsa Ṭhākura, a very stalwart //ācārya// in the line of Caitanya Mahāprabhu's //sampradāya,// disciplic succession. He has sung many songs, important songs, and his songs are accepted as Vedic conclusion. [break] ...very authoritative songs. So he says, praying to Lord Kṛṣṇa, "My dear Lord," hari hari, "I have simply spoiled my life." //Hari hari biphale janama goṅāinu.// Why you have spoiled your life? He says, //manuṣya-janama pāiyā,// "I got this human form of life," //rādhā-kṛṣṇa nā bhajiyā,// "but I did not care to worship Rādhā-Kṛṣṇa. Therefore I have spoiled my life." And how it is? It is exactly like one takes poison knowingly. If somebody takes poison unknowingly, there is excuse, but if somebody takes poison knowingly, it is suicidal. So he says that "I have committed suicide simply by not worshiping Rādhā and Kṛṣṇa in this human form of life."
 

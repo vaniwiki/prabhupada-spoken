@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 690924rc.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1969-09-24
-showdate_hidden  : 2023-09-24
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : September 24
-Year_spoken      : 1969
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690924rc.lon.mp3|Room Conversation — September 24, 1969, London}}
-</audio>
-
 **Prabhupāda:**
 When the cause is there, they throw it, everything, and go away. Similarly, this material world, the activities of the material world is like that. Somewhere digging and somewhere piling. Somebody is independent and somebody is dependent. Somebody is very luxurious, somebody's starving. So there cannot be any adjustment. Therefore in the //Bhagavad-gītā// the Lord says, //duḥkhālayam aśāśvatam// [[books:bg:8:15|[Bg. 8.15]]]. We are digging somewhere and piling somewhere; so digging is also labor, and piling is also labor. Then, after finishing, we have to quit everything, digging and piling. So why people do not come to their senses that "What we are doing? Are we utilizing our time properly or wasting our time?" What should be the answer? If I asked these //karmīs,// "Why you are digging? Why you are piling? And why you are leaving?" Then what will be the answer? [pause] Can you say what will be the answer?
 

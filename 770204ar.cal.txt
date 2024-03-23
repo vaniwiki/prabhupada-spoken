@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 770204ar.cal
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1977-02-04
-showdate_hidden  : 2023-02-04
-listplace_hidden : Calcutta
-Type_spoken      : Lecture
-Date_spoken      : February 4
-Year_spoken      : 1977
-Place_spoken     : Calcutta
-Length_hidden    : 14:39
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770204ar.cal.mp3|Arrival Lecture — February 4, 1977, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 
 > śrī-vigrahārādhana-nitya-nānā-

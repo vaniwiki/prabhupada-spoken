@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740412mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-04-12
-showdate_hidden  : 2023-04-12
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : April 12
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 57:03
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740412mw.bom.mp3|Morning Walk — April 12, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] ...but in different ways. //Mama vartmānuvartante manuṣyāḥ pārtha... Ye yathā māṁ prapadyante tāṁs tathaiva bhajāmy aham// [[books:bg:4:11|[Bg. 4.11]]]. So proportionately they realize the Personality of Godhead, Kṛṣṇa, in a different way. But He advises that "Why don't you take the direct way?" Therefore He says at the last chapter, //sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja// [[books:bg:18:66|[Bg. 18.66]]]: "Directly become Kṛṣṇa conscious."
 

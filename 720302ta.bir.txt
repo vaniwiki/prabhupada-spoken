@@ -9,24 +9,6 @@
 
 ====== Talk with Lalitā Prasād ======
 
----- dataentry spoken ----
-id_hidden        : 720302ta.bir
-listtype_hidden  : Talk with Lalitā Prasād
-listdate_hidden  : 1972-03-02
-showdate_hidden  : 2023-03-02
-listplace_hidden : Birnagar
-Type_spoken      : Room Conversation
-Date_spoken      : March 2
-Year_spoken      : 1972
-Place_spoken     : Birnagar
-Length_hidden    : 139:44
-Title_hidden     : Talk with Lalitā Prasād Son of Śrīla Bhaktivinoda Ṭhākura Bengali / English
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720302ta.bir_bengali_english.mp3|Talk with Lalitā Prasād — March 2, 1972, Birnagar}}
-</audio>
-
 **Lalitā Prasāda:**
 [Bengali] [whispers]
 

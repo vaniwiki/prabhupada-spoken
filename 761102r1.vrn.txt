@@ -9,24 +9,6 @@
 
 ====== Room Conversation about New York Court Case ======
 
----- dataentry spoken ----
-id_hidden        : 761102r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 2
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 72:52
-Title_hidden     : Room Conversation about New York court case
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761102r1.vrn.mp3|Room Conversation about New York Court Case — November 2, 1976, Vṛndāvana}}
-</audio>
-
 **Gopāla Kṛṣṇa:**
 So a lot of these parents are saying that we should all be..., we should be investigated. Now they are saying that we are not Hindus, and they are saying that by chanting Hare Kṛṣṇa, the thinking of the brain stops.
 

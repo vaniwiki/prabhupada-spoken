@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.17 ======
 
----- dataentry spoken ----
-id_hidden        : 720612sb.la
-listtype_hidden  : SB 2.3.17
-listdate_hidden  : 1972-06-12
-showdate_hidden  : 2023-06-12
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 12
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 62:39
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.17
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720612sb.la.mp3|SB 2.3.17 — June 12, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [//prema-dhvani//] Thank you very much.
 

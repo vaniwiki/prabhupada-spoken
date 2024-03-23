@@ -9,24 +9,6 @@
 
 ====== Ratha-yātrā Lecture at The Family Dog Auditorium ======
 
----- dataentry spoken ----
-id_hidden        : 690727ry.sf
-listtype_hidden  : Ratha-yātrā
-listdate_hidden  : 1969-07-27
-showdate_hidden  : 2023-07-27
-listplace_hidden : San Francisco
-Type_spoken      : Lecture
-Date_spoken      : July 27
-Year_spoken      : 1969
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Ratha-yātrā Lecture at The Family Dog Auditorium
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690727ry.sf.mp3|Ratha-yātrā Lecture — July 27, 1969, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 My dear boys and girls, I thank you very much for joining us on this Rathayātrā ceremony. I am going to sing now an Indian song, and then I shall explain it. Even if you don't understand the language of the song, still, if you kindly hear patiently, the sound vibration will act. The song is [sings]
 

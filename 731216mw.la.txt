@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731216mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-16
-showdate_hidden  : 2023-12-16
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 16
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 50:39
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731216mw.la.mp3|Morning Walk — December 16, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...need of God or not? Whether there is need of God?
 

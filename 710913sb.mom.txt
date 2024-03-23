@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.2 ======
 
----- dataentry spoken ----
-id_hidden        : 710913sb.mom
-listtype_hidden  : SB 2.1.2
-listdate_hidden  : 1971-09-13
-showdate_hidden  : 2023-09-13
-listplace_hidden : Mombassa
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 13
-Year_spoken      : 1971
-Place_spoken     : Mombassa
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 2.1.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710913sb.mom.mp3|SB 2.1.2 — September 13, 1971, Mombassa}}
-</audio>
-
 **Prabhupāda:**
 
 > ...apaśyatām ātma-tattvaṁ

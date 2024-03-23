@@ -9,24 +9,6 @@
 
 ====== Short Discussions ======
 
----- dataentry spoken ----
-id_hidden        : 770524r3.vrn
-listtype_hidden  : Short Discussions
-listdate_hidden  : 1977-05-24
-showdate_hidden  : 2023-05-24
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : May 24
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 19:19
-Title_hidden     : Short Discussions
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770524r3.vrn.mp3|Short Discussions — May 24, 1977, Vṛndāvana}}
-</audio>
-
 **Jayapatākā:**
 Yes, Śrīla Prabhupāda, everything is all right. Except that your health is not all right. But preaching is going on. Very receptive field in Bangladesh.
 

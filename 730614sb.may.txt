@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.9.48 ======
 
----- dataentry spoken ----
-id_hidden        : 730614sb.may
-listtype_hidden  : SB 1.9.48
-listdate_hidden  : 1973-06-14
-showdate_hidden  : 2023-06-14
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 14
-Year_spoken      : 1973
-Place_spoken     : Māyāpur
-Length_hidden    : 36:07
-Title_hidden     : Śrīmad-Bhāgavatam 1.9.48
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730614sb.may.mp3|SB 1.9.48 — June 14, 1973, Māyāpur}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse] [Prabhupāda and devotees repeat]
 

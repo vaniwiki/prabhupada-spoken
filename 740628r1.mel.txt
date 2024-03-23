@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Reverend Gordon Powell ======
 
----- dataentry spoken ----
-id_hidden        : 740628r1.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-28
-showdate_hidden  : 2023-06-28
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : June 28
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 31:03
-Title_hidden     : Room Conversation with Reverend Gordon Powell, Head of Scots’ Church
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740628r1.mel.mp3|Room Conversation with Reverend Gordon Powell — June 28, 1974, Melbourne}}
-</audio>
-
 **Reverend Powell:**
 Your people have a serenity that many Western people don't have. What..., what is the secret of serenity? And is it... I gather you reject many material demands, materialism as such.
 

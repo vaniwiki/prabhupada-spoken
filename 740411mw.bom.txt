@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740411mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-04-11
-showdate_hidden  : 2023-04-11
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : April 11
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 71:32
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740411mw.bom.mp3|Morning Walk — April 11, 1974, Bombay}}
-</audio>
-
 **Italian man (1):**
 Well, it is the most satisfying thing I have been reading up to now. I have been searching through the //Tibetan Books of the Dead,// but it wasn't enough, and this is beyond that. It is really, is complete, you know?
 

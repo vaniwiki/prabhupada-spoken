@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750314r2.teh
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-03-14
-showdate_hidden  : 2023-03-14
-listplace_hidden : Tehran
-Type_spoken      : Room Conversation
-Date_spoken      : March 14
-Year_spoken      : 1975
-Place_spoken     : Tehran
-Length_hidden    : 185:47
-Title_hidden     : Room Conversation with Yoga Student and Other Guests
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750314r2.teh.mp3|Room Conversation — March 14, 1975, Tehran}}
-</audio>
-
 **Paramahaṁsa:**
 These are some of my friends here, Prabhupāda.
 

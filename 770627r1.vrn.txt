@@ -9,24 +9,6 @@
 
 ====== Morning Talk ======
 
----- dataentry spoken ----
-id_hidden        : 770627r1.vrn
-listtype_hidden  : Morning Talk
-listdate_hidden  : 1977-06-27
-showdate_hidden  : 2023-06-27
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 27
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 24:21
-Title_hidden     : Morning Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770627r1.vrn.mp3|Morning Talk — June 27, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 And they are all intelligent in sense gratification. Quite equal in intelligence, like the man. There is no scarcity of intelligence. //Āhāra-nidrā-bhaya// [//Hitopadeśa//]. How to sleep, how to eat, how to enjoy sex, how to protect from danger---they know everything completely. [break] ...he's trained up. And how to enjoy according to the body, place, that complete intelligence is there. Lord Brahmā has got that intelligence, and the small insect, he has got. And Kṛṣṇa is giving everyone facility: "All right, enjoy." //Bhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā// [[books:bg:18:61|[Bg. 18.61]]]. //Sarva-bhūtāni.// Everyone is getting opportunity. According to his //karma,// he's getting a suitable body. You want to become Brahmā? All right. And you become..., want to become a hog? All right. If you want to become worm in the stool, all right. This is going on. And devotion begins when one does not want to become anything. //Anyābhilāṣitā-śūnyam// [Brs. 1.1.11]. Then he likes. So when you desire, either you desire like a Brahmā or the worm in the stool, that is material. And when you give up this desire, then spiritual life begins. //Anyābhilāṣitā-śūnyam// [[books:cc:madhya:19:167|[Cc. Madhya 19.167]]]. //Sarvopādhi-vinirmuktam// [[books:cc:madhya:19:170|[Cc. Madhya 19.170]]]. So to become //anyābhilāṣitā-śūnyam,// that is required. Who will understand this philosophy?
 

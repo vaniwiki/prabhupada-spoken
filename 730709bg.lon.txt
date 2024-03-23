@@ -11,26 +11,6 @@
 
 ====== Bhagavad-gītā 1.2–3 ======
 
----- dataentry spoken ----
-id_hidden        : 730709bg.lon
-listtype_hidden  : Bg 1.2–3
-listdate_hidden  : 1973-07-09
-showdate_hidden  : 2023-07-09
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 9
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 24:52
-Title_hidden     : Bhagavad-gītā 1.2–3
-----
-
-===== Audio =====
-
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730709bg.lon.mp3|Bg 1.2-3 — July 9, 1973, London}}
-
-===== Transcript =====
-
 **Pradyumna:**
 [leads chanting of verse] [Prabhupāda and devotees repeat]
 

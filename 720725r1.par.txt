@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720725r1.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-07-25
-showdate_hidden  : 2023-07-25
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : July 25
-Year_spoken      : 1972
-Place_spoken     : Paris
-Length_hidden    : 06:51
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720725r1.par.mp3|Room Conversation — July 25, 1972, Paris}}
-</audio>
-
 [Poor audio]
 
 **Prabhupāda:**

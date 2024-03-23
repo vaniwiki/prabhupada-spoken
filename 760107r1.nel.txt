@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760107r1.nel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-01-07
-showdate_hidden  : 2023-01-07
-listplace_hidden : Nellore
-Type_spoken      : Room Conversation
-Date_spoken      : January 7
-Year_spoken      : 1976
-Place_spoken     : Nellore
-Length_hidden    : 05:19
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760107r1.nel.mp3|Room Conversation — January 7, 1976, Nellore}}
-</audio>
-
 **Prabhupāda:**
 ...no taste, no vitamin, and still they eat.
 

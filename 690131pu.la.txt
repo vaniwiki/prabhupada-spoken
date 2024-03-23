@@ -9,24 +9,6 @@
 
 ====== Lord Nityānanda Prabhu’s Appearance Day ======
 
----- dataentry spoken ----
-id_hidden        : 690131pu.la
-listtype_hidden  : Nitāi-Pada-Kamala 
-listdate_hidden  : 1969-01-31
-showdate_hidden  : 2023-01-31
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 31
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lord Nityānanda Prabhu’s Appearance Day, Nitāi-Pada-Kamala Purport
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690131pu.la.mp3|Lord Nityānanda Prabhu’s Appearance Day — January 31, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [sings]
 

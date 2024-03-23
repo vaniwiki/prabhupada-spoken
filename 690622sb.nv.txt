@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.18 ======
 
----- dataentry spoken ----
-id_hidden        : 690622sb.nv
-listtype_hidden  : SB 1.5.18
-listdate_hidden  : 1969-06-22
-showdate_hidden  : 2023-06-22
-listplace_hidden : New Vrindavan
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 22
-Year_spoken      : 1969
-Place_spoken     : New Vrindavan
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690622sb.nv.mp3|SB 1.5.18 — June 22, 1969, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 So Nārada Muni is advising Vyāsadeva, //tasyaiva hetoḥ prayateta kovidaḥ. Kovida// means intelligent, expert. One who knows things as they are, he's called //kovida.// So one who is intelligent, he should try to achieve that thing which is not available---//na labhyate yad bhramatām upary adhaḥ//---which is not available even by wandering up and down. This we have already explained in the last meeting, that according to our //karma,// we are being sometimes elevated to the very high position, and sometimes we are being degraded to become an insignificant creature like ant. This is going on. [baby crying in background] [aside:] This boy... She, she can go to the... Yes. This is very disturbing child.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760608mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-06-08
-showdate_hidden  : 2023-06-08
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : June 8
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 49:28
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760608mw.la.mp3|Morning Walk — June 8, 1976, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...from the ground. So the tree is the son, and the earth is the mother. So what is the wrong argument there? We have got experience that a child is coming from the womb of the mother. So why we should suggest a nonsense creation, that there was a chunk and there was creation? What is this? Talk on this point. Where is your experience that all of a sudden a chunk dropped and there was creation? We have got experience that creation is there. Mother is there, and a child is coming. This is the creation. So wherefrom this idea comes, that without father and mother, creation is possible? What is his argument? He is great scientist. Let him...
 

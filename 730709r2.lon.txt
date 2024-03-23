@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 730709r2.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-09
-showdate_hidden  : 2023-07-09
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 9
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 21:50
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730709r2.lon.mp3|Room Conversation — July 9, 1973, London}}
-</audio>
-
 [Movie camera noise]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Morning Walk in the Vṛndāvana Municipal Park [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 760402mw.vrn
-listtype_hidden  : Morning Walk in the Vṛndāvana Municipal Park [partially recorded]
-listdate_hidden  : 1976-04-02
-showdate_hidden  : 2023-04-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : April 2
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 05:53
-Title_hidden     : Morning Walk in the Vṛndāvana Municipal Park [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760402mw.vrn.mp3|Morning Walk in the Vṛndāvana Municipal Park [partially recorded] — April 2, 1976, Vṛndāvana}}
-</audio>
-
 **Puṣṭa Kṛṣṇa:**
 [Announces] Śrīla Prabhupāda is walking in the Vṛndāvana Municipal Park this morning. He drove here by car in his Mercedes. Now he's taking walk here.
 

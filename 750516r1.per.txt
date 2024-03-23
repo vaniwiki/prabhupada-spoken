@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750516r1.per
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-16
-showdate_hidden  : 2023-05-16
-listplace_hidden : Perth
-Type_spoken      : Room Conversation
-Date_spoken      : May 16
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 05:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750516r1.per.mp3|Room Conversation — May 16, 1975, Perth}}
-</audio>
-
 **Amogha:**
 There are three or four men coming at ten o'clock. One Mr. Nela from the... They're all from one place where they deal with alcoholics and drug addicts. And they work for the government. And Mr. Nela is a social worker, and for fifteen years he's worked in mental hospitals also. And there's a psychologist from Burma, and a psychiatric nurse and maybe one other, at ten o'clock. And I talked to some people who do radio conversations yesterday. And they want me to check back today. But they may come tonight or possibly tomorrow morning. Is it all right for tomorrow morning also?
 

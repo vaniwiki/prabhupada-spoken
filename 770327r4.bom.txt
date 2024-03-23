@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770327r4.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-03-27
-showdate_hidden  : 2023-03-27
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : March 27
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 01:33
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770327r4.bom.mp3|Room Conversation — March 27, 1977, Bombay}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 If these men will give a little bit of aural reception, then they can get their misgivings, misunderstandings, cleared away by speaking with you. But they will have to be ready to hear submissively, and they have to be intelligent. Before I ever came to Kṛṣṇa consciousness, I would have always understood that religion meant sectarian. That is a common idea. Someone sees a //sādhu// or religious person, they immediately take it this is unscientific and sectarian. [break]
 

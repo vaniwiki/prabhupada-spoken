@@ -9,24 +9,6 @@
 
 ====== Morning Discussion about Kumbha Melā ======
 
----- dataentry spoken ----
-id_hidden        : 770108r1.bom
-listtype_hidden  : Morning Discussion about Kumbha Melā
-listdate_hidden  : 1977-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 8
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 85:47
-Title_hidden     : Morning Discussion about Kumbha Melā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770108r1.bom.mp3|Morning Discussion about Kumbha Melā — January 8, 1977, Bombay}}
-</audio>
-
 **Gurudāsa:**
 ...the drafts Gopāla sent me, Gopāla Kṛṣṇa Prabhu sent me, were uncashable.
 

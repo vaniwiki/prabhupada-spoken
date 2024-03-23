@@ -9,24 +9,6 @@
 
 ====== Śrīla Prabhupāda Vigil ======
 
----- dataentry spoken ----
-id_hidden        : 770528vg.vrn
-listtype_hidden  : Śrīla Prabhupāda Vigil
-listdate_hidden  : 1977-05-28
-showdate_hidden  : 2023-05-28
-listplace_hidden : Vṛndāvana
-Type_spoken      : Various
-Date_spokens     : May 28, May 29
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 18:11
-Title_hidden     : Śrīla Prabhupāda Vigil
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770528vg.vrn|Śrīla Prabhupāda Vigil — May 28-29, 1977, Vṛndāvana}}
-</audio>
-
 **Ātreya Ṛṣi:**
 Both. It's also curing us, Śrīla Prabhupāda.
 

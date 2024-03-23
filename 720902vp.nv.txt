@@ -9,24 +9,6 @@
 
 ====== Śrī Vyāsa-pūjā Address ======
 
----- dataentry spoken ----
-id_hidden        : 720902vp.nv
-listtype_hidden  : Śrī Vyāsa-pūjā
-listdate_hidden  : 1972-09-02
-showdate_hidden  : 2023-09-02
-listplace_hidden : New Vrindavan
-Type_spoken      : Lecture
-Date_spoken      : September 2
-Year_spoken      : 1972
-Place_spoken     : New Vrindavan
-Length_hidden    : 27:52
-Title_hidden     : Śrī Vyāsa Pūjā Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720902vp.nv.mp3|Śrī Vyāsa-pūjā Address — September 2, 1972, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 [//prema-dhvani//] Thank you very much.
 

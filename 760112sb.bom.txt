@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.1 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 760112sb.bom
-listtype_hidden  : SB 5.5.1 [Hindi]
-listdate_hidden  : 1976-01-12
-showdate_hidden  : 2023-01-12
-listplace_hidden : Bombay
-Type_spoken      : Hindi
-Date_spoken      : January 12
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 41:23
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.1 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760112sb.bom_hindi.mp3|SB 5.5.1 [Hindi] — January 12, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > nāyaṁ deho deha-bhājāṁ nṛ-loke

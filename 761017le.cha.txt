@@ -9,24 +9,6 @@
 
 ====== Address to Rotary Club ======
 
----- dataentry spoken ----
-id_hidden        : 761017le.cha
-listtype_hidden  : Rotary Club Address
-listdate_hidden  : 1976-10-17
-showdate_hidden  : 2023-10-17
-listplace_hidden : Chandigarh
-Type_spoken      : Lecture
-Date_spoken      : October 17
-Year_spoken      : 1976
-Place_spoken     : Chandigarh
-Length_hidden    : 58:24
-Title_hidden     : Address to Rotary Club
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761017le.cha.mp3|Address to Rotary Club — October 17, 1976, Chandigarh}}
-</audio>
-
 **Prabhupāda:**
 Ladies and Gentlemen, the President, I am very much thankful to you that you are eager to hear about what Kṛṣṇa wants to speak. Kṛṣṇa is accepted as the Supreme Personality of Godhead. All //ācāryas//---Rāmānujācārya, Madhvācārya, Viṣṇu Svāmī, Nimbārka, and latest, Śrī Caitanya Mahāprabhu, and before that, other //ācāryas// like Vyāsadeva, Nārada, Asita, Devala, and before that, the original //ācārya,// Lord Brahmā, Lord Śiva---everyone accepted Kṛṣṇa the Supreme Personality of Godhead. We are searching after whether there is God or there is no God. If there is God, what is the nature? What is the form? Whether He is person or imperson? There are so many questions. And to solve all these questions, the God Himself descends and speaks about Himself, and that speaking is this //Bhagavad-gītā.// God is speaking about Himself personally, personally present. So you can know Him, you can see Him, what He is, what is His function. Just to mitigate all our doubts, God is present here. And Kṛṣṇa says in the beginning of the Seventh Chapter of the //Bhagavad-gītā// how you can understand God without any doubt and in complete. That is spoken by God Himself.
 

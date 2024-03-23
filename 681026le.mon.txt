@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681026le.mon
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-10-26
-showdate_hidden  : 2023-10-26
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : October 26
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681026le.mon.mp3|Lecture — October 26, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 In our last meeting we were discussing. Why people are forced to commit sinful activities? This point is also discussed in the //Bhagavad-gītā.// Arjuna inquired from Kṛṣṇa, "What is that thing which forces a man to commit sinful activities?" Just like the same example that one man is seeing practically that one who has committed something criminal, he is punished. And he has heard it also from authorities, from lawyers or from respectable gentlemen, that "If you commit such and such sinful activities... If you steal, then you will be imprisoned for six months. If you cheat, you'll be imprisoned for such and such period. If you commit murder, then you'll be hanged." These things are taught some way or other. Either in religious scripture or by lawbooks or by morality or ethical principle, they are taught to the human, civilized human society. And he sees also practically that "This man has committed this kind of criminality, and he is punished." And again why does he commit? That is the problem. So //kāma eṣa krodha eṣa rajo-guṇa-samudbhavaḥ. Kāma// and //krodha. Kāma// means desire, lust. //Kāma.// And when the desire or lust is not fulfilled, then there is //krodha. Krodha// means anger. There are so many cases of criminality, when the lust is not fulfilled, one commits some criminal action and he is punished and so many things happen. So //kāma eṣa krodha eṣa rajo-guṇa-samudbhavaḥ.// As we have discussed many times that we are in this material world controlled by the three modes of material nature. Three qualities: goodness, passion and ignorance. So goodness... Yes, passion and ignorance are the causes of our bondage. And goodness is also cause of bondage, but in that platform one can see things as they are. Goodness. //Prakāśa.// Just like at night we cannot see, but in daytime we see. But seeing is not all. Unless I am convinced of something, even seeing... Just the same example: one man is seeing that a criminal person is punished; still he is committing criminal act.
 

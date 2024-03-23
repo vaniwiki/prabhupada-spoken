@@ -9,24 +9,6 @@
 
 ====== Lecture to Railway Workers ======
 
----- dataentry spoken ----
-id_hidden        : 720222le.vis
-listtype_hidden  : Lecture to Railway Workers
-listdate_hidden  : 1972-02-22
-showdate_hidden  : 2023-02-22
-listplace_hidden : Visakhapatnam
-Type_spoken      : Lecture
-Date_spoken      : February 22
-Year_spoken      : 1972
-Place_spoken     : Visakhapatnam
-Length_hidden    : 18:24
-Title_hidden     : Lecture to Railway Workers
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720222le.vis.mp3|Lecture to Railway Workers — February 22, 1972, Visakhapatnam}}
-</audio>
-
 [audio speeds up]
 
 **Prabhupāda:**

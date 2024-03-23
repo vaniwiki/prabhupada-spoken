@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750508mw.per
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-05-08
-showdate_hidden  : 2023-05-08
-listplace_hidden : Perth
-Type_spoken      : Morning Walk
-Date_spoken      : May 8
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 62:37
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750508mw.per.mp3|Morning Walk — May 8, 1975, Perth}}
-</audio>
-
 **Prabhupāda:**
 A child cannot think. Motorcar is running. Child will think the motorcar is running automatically. But a sane man will understand that there is a driver. So persons who deny the existence of God are like that. They see the machine, nature. Nature is the machine. But behind the machine there is the operator. These rascal cannot understand. //Nābhijānāti, mām ebhyaḥ paramam, tribhir guṇamayair bhāvair// [[books:bg:7:13|[Bg. 7.13]]]. Machine is working, nature is working, that much they can see. And behind the machine there is operator, [indistinct]. What is your answer? What the atheist will say? Has the atheist any experience that any machine works without operator? Has he got any experience?
 

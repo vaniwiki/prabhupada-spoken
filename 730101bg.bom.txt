@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.13 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 730101bg.bom
-listtype_hidden  : Bg 7.13 [Hindi]
-listdate_hidden  : 1973-01-01
-showdate_hidden  : 2023-01-01
-listplace_hidden : Bombay
-Type_spoken      : Hindi
-Date_spoken      : January 1
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 38:15
-Title_hidden     : Bhagavad-gītā 7.13 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730101bg.bom_hindi.mp3|Bg 7.13 [Hindi] — January 1, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > ...ebhiḥ sarvam idaṁ jagat

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Sanskrit Professor ======
 
----- dataentry spoken ----
-id_hidden        : 750212r1.mex
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-02-12
-showdate_hidden  : 2023-02-12
-listplace_hidden : Mexico City
-Type_spoken      : Room Conversation
-Date_spoken      : February 12
-Year_spoken      : 1975
-Place_spoken     : Mexico City
-Length_hidden    : 51:33
-Title_hidden     : Room Conversation with Sanskrit Professor, other Guests and Devotees
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750212r1.mex.mp3|Room Conversation with Sanskrit Professor — February 12, 1975, Mexico City}}
-</audio>
-
 **Hanumān:**
 Excuse me; I have a lot of questions. I would like to ask you why we are so fortunate to have such a nice, genuine spiritual master as you, and some other have bogus spiritual master. Is it something of //karma,// or is this the pure mercy of yourself?
 

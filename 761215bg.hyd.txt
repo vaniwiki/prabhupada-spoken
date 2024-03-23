@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 16.7 ======
 
----- dataentry spoken ----
-id_hidden        : 761215bg.hyd
-listtype_hidden  : Bg 16.7
-listdate_hidden  : 1976-12-15
-showdate_hidden  : 2023-12-15
-listplace_hidden : Hyderabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 15
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 24:28
-Title_hidden     : Bhagavad-gītā 16.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761215bg.hyd.mp3|Bg 16.7 — December 15, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 
 > pravṛttiṁ ca nivṛttiṁ ca

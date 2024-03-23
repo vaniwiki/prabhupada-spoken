@@ -9,24 +9,6 @@
 
 ====== Conversation with Surendra Kumar and O.B.L. Kapoor ======
 
----- dataentry spoken ----
-id_hidden        : 770626r1.vrn
-listtype_hidden  : Conversation with Surendra Kumar and O.B.L. Kapoor
-listdate_hidden  : 1977-06-26
-showdate_hidden  : 2023-06-26
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 26
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 46:42
-Title_hidden     : Conversation with Surendra Kumar and O.B.L. Kapoor
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770626r1.vrn.mp3|Conversation with Surendra Kumar and O.B.L. Kapoor — June 26, 1977, Vṛndāvana}}
-</audio>
-
 **Surendra Kumar:**
 ...that you must make an application of forty to fifty people who Prabhupāda wants that they should be given permanent nationality.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.8 ======
 
----- dataentry spoken ----
-id_hidden        : 760624sb.nv
-listtype_hidden  : SB 7.6.8
-listdate_hidden  : 1976-06-24
-showdate_hidden  : 2023-06-24
-listplace_hidden : New Vrindavan
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 24
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 24:02
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760624sb.nv.mp3|SB 7.6.8 — June 24, 1976, New Vrindavan}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Devotees repeat] [leads chanting, synonyms, etc., devotees respond]
 

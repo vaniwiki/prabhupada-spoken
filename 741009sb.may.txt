@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.29 ======
 
----- dataentry spoken ----
-id_hidden        : 741009sb.may
-listtype_hidden  : SB 1.8.29
-listdate_hidden  : 1974-10-09
-showdate_hidden  : 2023-10-09
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 9
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 28:54
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.29
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741009sb.may.mp3|SB 1.8.29 — October 9, 1974, Māyāpur}}
-</audio>
-
 **Nitāi:** "O Lord, no one can understand Your transcendental pastimes, which appear to be human and are so misleading. You have no specific object of favor, nor do You have any object of envy. People only imagine that You are partial."
 
 **Prabhupāda:**

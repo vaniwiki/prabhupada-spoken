@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.5 ======
 
----- dataentry spoken ----
-id_hidden        : 680610bg.mon
-listtype_hidden  : Bg 4.5
-listdate_hidden  : 1968-06-10
-showdate_hidden  : 2023-06-10
-listplace_hidden : Montreal
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : June 10
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 4.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680610bg.mon.mp3|Bg 4.5 — June 10, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 
 > śrī bhagavān uvāca

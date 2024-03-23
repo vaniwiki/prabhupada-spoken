@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.21 and Initiations ======
 
----- dataentry spoken ----
-id_hidden        : 720824sb.la
-listtype_hidden  : SB 1.2.21 and Initiations
-listdate_hidden  : 1972-08-24
-showdate_hidden  : 2023-08-24
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 24
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 46:49
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.21 and Initiations
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720824sb.la.mp3|SB 1.2.21 and Initiations — August 24, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [sings //Jaya Rādhā-Mādhava//] [//prema-dhvani//] Thank you very much.
 

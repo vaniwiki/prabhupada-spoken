@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 751214r1.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-12-14
-showdate_hidden  : 2023-12-14
-listplace_hidden : New Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : December 14
-Year_spoken      : 1975
-Place_spoken     : New Delhi
-Length_hidden    : 19:12
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751214r1.del.mp3|Room Conversation — December 14, 1975, New Delhi}}
-</audio>
-
 **Bhāgavata:**
 ...explaining to them the glories of the Supreme Personality of Godhead and pure devotional service so that they may go back to home, back to Godhead, and become liberated from the realms of birth and death in this material world.
 

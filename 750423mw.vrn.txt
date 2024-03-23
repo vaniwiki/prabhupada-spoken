@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750423mw.vrn
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-04-23
-showdate_hidden  : 2023-04-23
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : April 23
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 17:44
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750423mw.vrn.mp3|Morning Walk — April 23, 1975, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...although there is full arrangement for producing food, and because we are rogues and demons, nature will restrict supply. [break] But this machine will be stopped as soon as the increase of population of rogues and demons. The machine is there already. //Mūḍhā nābhijānāti mām ebhyaḥ param avyayam// [[books:bg:7:13|[Bg. 7.13]]]. The background is Kṛṣṇa. //Mayādhyakṣeṇa// [[books:bg:9:10|[Bg. 9.10]]], under His order. He says, "Don't supply here." //Mayādhyakṣeṇa//---the supply is stopped. That they do not know. They are making scientific research. What scientific research? Bring water. There is so much water. Bring that water, distill it and throw. Are you such great scientist? And by God's arrangement the sun is there, evaporates the water from the sea, and it becomes purified without any salt, and it is extravagantly thrown on the land. And the same water again flowing down through the river in the sea, the water is reserved. Nothing is lost.
 

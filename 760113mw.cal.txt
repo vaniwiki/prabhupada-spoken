@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760113mw.cal
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-01-13
-showdate_hidden  : 2023-01-13
-listplace_hidden : Calcutta
-Type_spoken      : Morning Walk
-Date_spoken      : January 13
-Year_spoken      : 1976
-Place_spoken     : Calcutta
-Length_hidden    : 09:44
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760113mw.cal.mp3|Morning Walk — January 13, 1976, Calcutta}}
-</audio>
-
 **Devotees:**
 //Haribol. Haribol. Haribol. Haribol.// [break]
 

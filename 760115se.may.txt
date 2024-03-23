@@ -9,24 +9,6 @@
 
 ====== Speech [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 760115se.may
-listtype_hidden  : Speech
-listdate_hidden  : 1976-01-15
-showdate_hidden  : 2023-01-15
-listplace_hidden : Māyāpur
-Type_spoken      : Lecture
-Date_spoken      : January 15
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 02:35
-Title_hidden     : Speech [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760115se.may.mp3|Speech [partially recorded] — January 15, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...So the greatest pleasure in this [indistinct] is that Bhaktivinoda Ṭhākura's aspiration that the Europeans, Americans and Indians all together dance jubilantly and chanting "//Gaura Hari.//"
 

@@ -9,24 +9,6 @@
 
 ====== Darśana ======
 
----- dataentry spoken ----
-id_hidden        : 710628da.sf
-listtype_hidden  : Darśana
-listdate_hidden  : 1971-06-28
-showdate_hidden  : 2023-06-28
-listplace_hidden : San Francisco
-Type_spoken      : Room Conversation
-Date_spoken      : June 28
-Year_spoken      : 1971
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Darśana
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710628da.sf.mp3|Darśana — June 28, 1971, San Francisco}}
-</audio>
-
 [sounds of devotees entering, offering obeisances, chanting //japa//]
 
 **Prabhupāda:**

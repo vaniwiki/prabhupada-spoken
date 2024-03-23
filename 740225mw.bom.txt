@@ -9,24 +9,6 @@
 
 ====== Morning Walk, partially recorded ======
 
----- dataentry spoken ----
-id_hidden        : 740225mw.bom
-listtype_hidden  : Morning Walk, partially recorded
-listdate_hidden  : 1974-02-25
-showdate_hidden  : 2023-02-25
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : February 25
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 08:03
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740225mw.bom.mp3|Morning Walk, partially recorded — February 25, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Janārdana [Hindi].
 

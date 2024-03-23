@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681204le.la
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-12-04
-showdate_hidden  : 2023-12-04
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : December 4
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681204le.la.mp3|Lecture — December 4, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// [three times with devotees responding]
 

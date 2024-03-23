@@ -9,24 +9,6 @@
 
 ====== Room Conversation Hindi and English ======
 
----- dataentry spoken ----
-id_hidden        : 730226r2.jkt
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-02-26
-showdate_hidden  : 2023-02-26
-listplace_hidden : Jakarta
-Type_spoken      : Room Conversation
-Date_spoken      : February 26
-Year_spoken      : 1973
-Place_spoken     : Jakarta
-Length_hidden    : 70:21
-Title_hidden     : Room Conversation Hindi & English
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730226r2.jkt.mp3|Room Conversation Hindi and English — February 26, 1973, Jakarta}}
-</audio>
-
 [Hindi conversation with another guest]
 
 **Guest (1):**

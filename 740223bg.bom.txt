@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.8 ======
 
----- dataentry spoken ----
-id_hidden        : 740223bg.bom
-listtype_hidden  : Bg 7.8
-listdate_hidden  : 1974-02-23
-showdate_hidden  : 2023-02-23
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 23
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 32:25
-Title_hidden     : Bhagavad-gītā 7.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740223bg.bom.mp3|Bg 7.8 — February 23, 1974, Bombay}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse, etc.]
 

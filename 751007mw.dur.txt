@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751007mw.dur
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-10-07
-showdate_hidden  : 2023-10-07
-listplace_hidden : Durban
-Type_spoken      : Morning Walk
-Date_spoken      : October 7
-Year_spoken      : 1975
-Place_spoken     : Durban
-Length_hidden    : 51:51
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751007mw.dur.mp3|Morning Walk — October 7, 1975, Durban}}
-</audio>
-
 [in car]
 
 **Prabhupāda:**

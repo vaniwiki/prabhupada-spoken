@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.46–47 ======
 
----- dataentry spoken ----
-id_hidden        : 660328bg.ny
-listtype_hidden  : Bg 2.46–47
-listdate_hidden  : 1966-03-28
-showdate_hidden  : 2023-03-28
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 28
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 2.46–47
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660328bg.ny.mp3|Bg 2.46-47 — March 28, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 Thank you very much. [break] The //saṅkīrtana// just now we have performed, it is vibration of the transcendental sound. This will help us in clearing the dust which we have accumulated on the surface of our mind. The whole thing is misunderstanding. We, as pure soul, pure consciousness, naturally we are aloof from material contamination. But due to our long association with this material atmosphere, we have accumulated a great, thick layer of dust on the mind. So as soon as the dust is cleared off, then we can see ourself, what we are.
 

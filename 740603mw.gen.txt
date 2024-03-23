@@ -9,24 +9,6 @@
 
 ====== Morning Walk, partially recorded ======
 
----- dataentry spoken ----
-id_hidden        : 740603mw.gen
-listtype_hidden  : Morning Walk, partially recorded
-listdate_hidden  : 1974-06-03
-showdate_hidden  : 2023-06-03
-listplace_hidden : Geneva
-Type_spoken      : Morning Walk
-Date_spoken      : June 3
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 10:16
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740603mw.gen.mp3|Morning Walk, partially recorded — June 3, 1974, Geneva}}
-</audio>
-
 **Prabhupāda:**
 ...the moon planet, there is no rainfall?
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760502r1.fij
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-02
-showdate_hidden  : 2023-05-02
-listplace_hidden : Fiji
-Type_spoken      : Room Conversation
-Date_spoken      : May 2
-Year_spoken      : 1976
-Place_spoken     : Fiji
-Length_hidden    : 39:28
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760502r1.fij.mp3|Room Conversation — May 2, 1976, Fiji}}
-</audio>
-
 **Prabhupāda:**
 That is the difficulty. Everyone sees that "Some way or other, I become //guru.// Then so many persons will offer me respect. Somehow or other, create some situation. Then I become //guru.//" This is going on. Not bona fide //guru.// Bona fide //guru// is indicated by Caitanya Mahāprabhu, //āmāra ājñāya guru hañā:// "Become //guru.//" Why ambition? Actually become //guru.// But how to become //guru? Yāre dekha, tāre kaha 'kṛṣṇa-upadeśa'// [[books:cc:madhya:7:128|[Cc. Madhya 7.128]]]. That's it; otherwise //goru.// So they will not take this simple method. They will drink, they will hunt after woman and have some attractive singing or dancing and become //guru.// What is meaning of //guru,// they do not know. Somehow or other become popular and become //guru.// This is going on. So with //māyā// you can attract these foolish rascals very easily, if you can manufacture. You cannot, but if you can show some jugglery, then you become //guru.// People are after all these things, material things. They are not after Kṛṣṇa. They are after money and women. So if you give some //mantra,// then gold will be manufactured, and all women will be attracted, very first class.
 

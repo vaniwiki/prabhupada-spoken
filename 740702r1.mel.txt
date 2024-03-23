@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Scientists ======
 
----- dataentry spoken ----
-id_hidden        : 740702r1.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-07-02
-showdate_hidden  : 2023-07-02
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : July 2
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 65:54
-Title_hidden     : Room Conversation with Scientists
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740702r1.mel.mp3|Room Conversation with Scientists — July 2, 1974, Melbourne}}
-</audio>
-
 **Madhudviṣa:**
 Dr. Harrap.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770128r2.bhu
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-28
-showdate_hidden  : 2023-01-28
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 28
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 06:42
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770128r2.bhu.mp3|Room Conversation — January 28, 1977, Bhubaneswar}}
-</audio>
-
 **Gargamuni:**
 Your lecture was very nice. 
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.1–2 ======
 
----- dataentry spoken ----
-id_hidden        : 720322sb.bom
-listtype_hidden  : SB 1.1.1–2
-listdate_hidden  : 1972-03-22
-showdate_hidden  : 2023-03-22
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 22
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 52:28
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.1–2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720322sb.bom.mp3|SB 1.1.1-2 — March 22, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > ...dhāmnā svena sadā nirasta-kuhakaṁ 

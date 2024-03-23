@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.15.39 ======
 
----- dataentry spoken ----
-id_hidden        : 731217sb.la
-listtype_hidden  : SB 1.15.39
-listdate_hidden  : 1973-12-17
-showdate_hidden  : 2023-12-17
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 17
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 35:30
-Title_hidden     : Śrīmad-Bhāgavatam 1.15.39
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731217sb.la.mp3|SB 1.15.39 — December 17, 1973, Los Angeles}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse] [Prabhupāda and devotees repeat]
 

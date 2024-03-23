@@ -9,20 +9,6 @@
 
 ====== Interview with the New York Times ======
 
----- dataentry spoken ----
-id_hidden        : 720902iv.nv
-listtype_hidden  : Interview
-listdate_hidden  : 1972-09-02
-showdate_hidden  : 2023-09-02
-listplace_hidden : New Vrindavan
-Type_spoken      : Interview
-Date_spoken      : September 2
-Year_spoken      : 1972
-Place_spoken     : New Vrindavan
-Length_hidden    : 00:00
-Title_hidden     : Interview with the New York Times [Back to Godhead Article]
-----
-
 [No audio]
 
 [An interview held during the //Bhāgavata Dharma// Discourses in New Vrindavan. Śrīla Prabhupāda is interviewed by John Nordheimer of the //New York Times.//]

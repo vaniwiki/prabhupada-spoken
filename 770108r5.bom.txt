@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770108r5.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 8
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 20:51
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770108r5.bom.mp3|Room Conversation — January 8, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...Headquarters in Vṛndāvana. And try to organize this Gurukula as their world attraction. That will be your success. Simply teach them nicely English and Sanskrit. And our books are there. And regular habits: going to the Yamunā in procession, timely get up early in the morning, attending class, clean dress, clean bedding, clean room. //Śikhā-sūtra.// That Vāmanadeva gave this description. Where is that book?
 

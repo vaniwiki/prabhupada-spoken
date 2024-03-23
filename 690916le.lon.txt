@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690916le.lon
-listtype_hidden  : Lecture
-listdate_hidden  : 1969-09-16
-showdate_hidden  : 2023-09-16
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : September 16
-Year_spoken      : 1969
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690916le.lon.mp3|Lecture — September 16, 1969, London}}
-</audio>
-
 **Prabhupāda:**
 They are working so hard, just like animals, simply for sense gratification. That is the beginning of His speech. But the human form of life is meant for saving time for spiritual cultivation. We should be satisfied with the bare necessities of life, and the time should be saved to cultivate self-realization. That is the basic principle of Vedic civilization. Therefore in Vedic civilization a certain period is devoted for accepting renounced order of life, //sannyāsa.// Compulsory. This //sannyāsa// order, as we have accepted, it is compulsory regulative principle of Vedic way of life. The first twenty-five years //brahmacārī,// strict life of celibacy, student life, without any sex indulgence completely, up to twenty-five years. Then //gṛhastha.// That is not for also all. If somebody is unable to remain a //brahmacārī// all through, then the spiritual master gives him permission to marry a suitable girl and become a householder. This is called //gṛhastha// life. Then, up to fifty years, he can indulge in householder life. Householder life, according to Vedic civilization, is a sort of license for sense gratification. But not for all the time. The injunction is //pañcaśordhvaṁ vanaṁ vrajet.// Just after your fiftieth year you must give up, retire from householder. That is called //vānaprastha. Vānaprastha// means you can take your wife with you and travel all over the world in places of holy pilgrimage just to give up your attachment for family life. In this way, when one is completely detached from family affection, then he sends back his wife to the elderly children to take care of her and he takes //sannyāsa,// renounced order of life. This renounced order of life means dedicate completely for the service of the Lord. In the //Bhagavad-gītā// it is stated,
 

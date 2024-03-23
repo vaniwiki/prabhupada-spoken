@@ -9,24 +9,6 @@
 
 ====== Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta ======
 
----- dataentry spoken ----
-id_hidden        : 770811r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-08-11
-showdate_hidden  : 2023-08-11
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : August 11
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 67:34
-Title_hidden     : Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770811r1.vrn.mp3|Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta — August 11, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 All the Bengali literatures that we have already published, get it republished in Bangladesh and distribute hugely. And for that purpose we shall pay. And you spend that money.
 

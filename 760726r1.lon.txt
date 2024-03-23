@@ -9,24 +9,6 @@
 
 ====== Conversation with George Harrison ======
 
----- dataentry spoken ----
-id_hidden        : 760726r1.lon
-listtype_hidden  : Conversation with George Harrison
-listdate_hidden  : 1976-07-26
-showdate_hidden  : 2023-07-26
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 26
-Year_spoken      : 1976
-Place_spoken     : London
-Length_hidden    : 91:10
-Title_hidden     : Conversation with George Harrison
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760726r1.lon.mp3|Conversation with George Harrison — July 26, 1976, London}}
-</audio>
-
 [Prabhupāda is very hoarse; he is conducting the conversation from his bed]
 
 **George Harrison:**

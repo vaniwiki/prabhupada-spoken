@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770219r3.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-02-19
-showdate_hidden  : 2023-02-19
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 19
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 15:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770219r3.may.mp3|Room Conversation — February 19, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 Now nobody can. After, no //darśana.//
 

@@ -9,20 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760616mw.det
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-06-16
-showdate_hidden  : 2023-06-16
-listplace_hidden : Detroit
-Type_spoken      : Morning Walk
-Date_spoken      : June 16
-Year_spoken      : 1976
-Place_spoken     : Detroit
-Length_hidden    : 00:00
-Title_hidden     : Morning Walk
-----
-
 [No Audio]
 
 **Prabhupāda:**

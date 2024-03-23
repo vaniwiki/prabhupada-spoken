@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721031nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-10-31
-showdate_hidden  : 2023-10-31
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : October 31
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 42:56
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721031nd.vrn.mp3|The Nectar of Devotion — October 31, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading:] "...Kṛṣṇa we refer to the Supreme Personality of Godhead, along with His many expansions. He is expanded by His plenary part and parcels, His differentiated parts and parcels and His different energies. Kṛṣṇa, in other words, means everything and includes everything. Generally, however, we should understand Kṛṣṇa to mean Kṛṣṇa and His personal expansions.
 

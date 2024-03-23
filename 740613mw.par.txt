@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740613mw.par
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-06-13
-showdate_hidden  : 2023-06-13
-listplace_hidden : Paris
-Type_spoken      : Morning Walk
-Date_spoken      : June 13
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 41:43
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740613mw.par.mp3|Morning Walk — June 13, 1974, Paris}}
-</audio>
-
 **Prabhupāda:**
 What do you understand by the word //māyā?//
 

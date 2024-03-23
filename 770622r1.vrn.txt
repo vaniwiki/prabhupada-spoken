@@ -9,24 +9,6 @@
 
 ====== Conversation, “Rascal Editors,” and Morning Talk ======
 
----- dataentry spoken ----
-id_hidden        : 770622r1.vrn
-listtype_hidden  : Conversation, “Rascal Editors,” and Morning Talk
-listdate_hidden  : 1977-06-22
-showdate_hidden  : 2023-06-22
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 22
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 65:57
-Title_hidden     : Conversation, “Rascal Editors,” and Morning Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770622r1.vrn.mp3|Conversation, “Rascal Editors,” and Morning Talk — June 22, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Where are others?
 

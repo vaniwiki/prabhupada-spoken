@@ -9,24 +9,6 @@
 
 ====== Ratha-yātrā ======
 
----- dataentry spoken ----
-id_hidden        : 700705ry.sf
-listtype_hidden  : Ratha-yātrā
-listdate_hidden  : 1970-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : San Francisco
-Type_spoken      : Lecture
-Date_spoken      : July 5
-Year_spoken      : 1970
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Ratha-yātrā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700705ry.sf.mp3|Ratha-yātrā Lecture — July 5, 1970, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 My dear boys and girls, those who have come here, I welcome you on behalf of Lord Caitanya Mahāprabhu. Lord Caitanya Mahāprabhu appeared five hundred years ago, and He introduced this Kṛṣṇa consciousness movement. This Ratha-yātrā is one of the item of this Kṛṣṇa consciousness movement. Jagannātha, just try to understand Jagannātha. //Jagat// means the moving world. //Gacchati iti jagat,// Sanskrit word, //gacchati// means which is moving. So all these planets, this universe, even the sun, everything is moving, as we are moving... We are, of course, animate. Even inanimate things are moving. Your motorcar moving, your machine is moving, but they are moving under the control of some animate object. But animate objects moving, some of the animate objects are standstill, just like trees, but ultimately they are also moving in this sense: that one species of life is being transmigrated to another species of life. Therefore it is called //jagat. Jagat// means moving. And //Jagat-nātha, nātha// means the proprietor, master, proprietor. So Jagannātha means the proprietor or the master of all these movements, He is Jagannātha. And Balabhadra, Balarāma, //bala// means strength and //rāma// means enjoyment. So Balarāma means who gives you spiritual strength for enjoying eternal blissful life, He is Balarāma. And Subhadrā, //su// means auspicious and //bhadra// means well-being. Subhadrā, Jagannātha and Balarāma combined together are present before you to reclaim you all from your miserable condition of life. That is the purport of this Ratha-yātrā Festival. [break] If anyone sees on the cart Jagannātha, Subhadrā, and Baladeva, then he does not take birth again in this material world. //Ratheja vamanaṁ dṛṣṭa//
 

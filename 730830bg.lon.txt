@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.28 ======
 
----- dataentry spoken ----
-id_hidden        : 730830bg.lon
-listtype_hidden  : Bg 2.28
-listdate_hidden  : 1973-08-30
-showdate_hidden  : 2023-08-30
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : August 30
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 24:08
-Title_hidden     : Bhagavad-gītā 2.28
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730830bg.lon.mp3|Bg 2.28 — August 30, 1973, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

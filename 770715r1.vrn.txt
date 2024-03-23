@@ -9,24 +9,6 @@
 
 ====== Room Conversation Māyāpur attack ======
 
----- dataentry spoken ----
-id_hidden        : 770715r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-15
-showdate_hidden  : 2023-07-15
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 15
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 56:53
-Title_hidden     : Room Conversation Māyāpur attack
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770715r1.vrn.mp3|Room Conversation Māyāpur attack — July 15, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 ...are completely against us. Phew. He says Girirāja and himself are meeting leading Hindus like Sadaji Vitlal, etc. He said, "We will have to bring up the Calcutta incident in Parliament." He says this has to be brought up in Parliament. "It was just like Uganda." Just like what happened in Uganda. Whole thing is a plot of the Communists.
 

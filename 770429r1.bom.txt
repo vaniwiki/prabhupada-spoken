@@ -9,24 +9,6 @@
 
 ====== Morning Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770429r1.bom
-listtype_hidden  : Morning Conversation
-listdate_hidden  : 1977-04-29
-showdate_hidden  : 2023-04-29
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 29
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 34:32
-Title_hidden     : Morning Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770429r1.bom.mp3|Morning Conversation — April 29, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 They say that the first-class //yogī// is he who will have as much as possible sex, but he will not discharge. Kṛṣṇa was that //yogī.// He had sex with so many //gopīs,// but He would not discharge.
 

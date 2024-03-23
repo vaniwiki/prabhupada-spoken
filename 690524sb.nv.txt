@@ -9,25 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.8–9 ======
 
----- dataentry spoken ----
-id_hidden        : 690524sb.nv # 
-listtype_hidden  : SB 1.5.8–9 # 
-listdate_hidden  : 1969-05-24
-showdate_hidden  : 2023-05-24 #
-listplace_hidden : New Vrindaban # 
-Type_spoken      : Śrīmad-Bhāgavatam # 
-Date_spoken      : May 24 # 
-Year_spoken      : 1969 # 
-Place_spoken     : New Vrindavan # 
-Length_hidden    : 00:00 # 
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.8–9 # 
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690524sb.nv.mp3|SB 1.5.8-9 — May 24, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 ...you have no //tilaka.//
 

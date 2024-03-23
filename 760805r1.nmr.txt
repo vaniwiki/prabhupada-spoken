@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Professor Francois Chenique ======
 
----- dataentry spoken ----
-id_hidden        : 760805r1.nmr
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-08-05
-showdate_hidden  : 2023-08-05
-listplace_hidden : New Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : August 5
-Year_spoken      : 1976
-Place_spoken     : New Māyāpur
-Length_hidden    : 91:08
-Title_hidden     : Room Conversation with Professor Francois Chenique
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760805r1.nmr.mp3|Room Conversation with Professor Francois Chenique — August 5, 1976, New Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 How are you?
 

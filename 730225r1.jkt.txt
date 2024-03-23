@@ -9,24 +9,6 @@
 
 ====== Room Conversation, Bhagavad-gītā 9.34 ======
 
----- dataentry spoken ----
-id_hidden        : 730225r1.jkt
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-02-25
-showdate_hidden  : 2023-02-25
-listplace_hidden : Jakarta
-Type_spoken      : Room Conversation
-Date_spoken      : February 25
-Year_spoken      : 1973
-Place_spoken     : Jakarta
-Length_hidden    : 41:15
-Title_hidden     : Room Conversation, Bhagavad-gītā 9.34
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730225r1.jkt.mp3|Room Conversation, Bhagavad-gītā 9.34 — February 25, 1973, Jakarta}}
-</audio>
-
 **Devotee:**
 //...mām evaiṣyasi yuktvaivam ātmānaṁ mat-parāyanaḥ// [[books:bg:9:34|[Bg. 9.34]]].
 

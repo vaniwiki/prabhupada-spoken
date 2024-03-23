@@ -9,24 +9,6 @@
 
 ====== Lecture at Engagement ======
 
----- dataentry spoken ----
-id_hidden        : 680508le.bos
-listtype_hidden  : Lecture at Engagement
-listdate_hidden  : 1968-05-08
-showdate_hidden  : 2023-05-08
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : May 8
-Year_spoken      : 1968
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Lecture at Engagement
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680508le.bos.mp3|Lecture at Engagement — May 8, 1968, Boston}}
-</audio>
-
 **Prabhupāda:**
 You can speak? You can take this.
 

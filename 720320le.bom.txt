@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720320le.bom
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-03-20
-showdate_hidden  : 2023-03-20
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : March 20
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 35:40
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720320le.bom.mp3|Lecture — March 20, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 They think //so'ham// means "I am the Supreme." But that is not possible. How you are supreme? If you are supreme, why you have become like cats and dogs? They say, "It is my //līlā,//" but this is all nonsense. God’s //līlā,// Kṛṣṇa’s //līlā,// is in the Vṛndāvana. Why He should come to make a //līlā// like cats and dogs?
 

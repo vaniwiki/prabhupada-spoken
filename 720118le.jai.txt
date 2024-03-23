@@ -9,23 +9,5 @@
 
 ====== Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 720118le.jai
-listtype_hidden  : Lecture [Hindi]
-listdate_hidden  : 1972-01-18
-showdate_hidden  : 2023-01-18
-listplace_hidden : Jaipur
-Type_spoken      : Hindi
-Date_spoken      : January 18
-Year_spoken      : 1972
-Place_spoken     : Jaipur
-Length_hidden    : 11:15
-Title_hidden     : Lecture [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720118le.jai_hindi.mp3|Lecture [Hindi] — January 18, 1972, Jaipur}}
-</audio>
-
 **Prabhupāda:**
 

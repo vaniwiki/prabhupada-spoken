@@ -9,24 +9,6 @@
 
 ====== Arrival Address ======
 
----- dataentry spoken ----
-id_hidden        : 721009ar.hon
-listtype_hidden  : Arrival Address
-listdate_hidden  : 1972-10-09
-showdate_hidden  : 2023-10-09
-listplace_hidden : Honolulu
-Type_spoken      : Lecture
-Date_spoken      : October 9
-Year_spoken      : 1972
-Place_spoken     : Honolulu
-Length_hidden    : 24:49
-Title_hidden     : Arrival Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721009ar.hon.mp3|Arrival Address — October 9, 1972, Honolulu}}
-</audio>
-
 [//kīrtana//]
 
 **Prabhupāda:**

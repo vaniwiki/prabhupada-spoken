@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.19 ======
 
----- dataentry spoken ----
-id_hidden        : 721030sb.vrn
-listtype_hidden  : SB 1.2.19
-listdate_hidden  : 1972-10-30
-showdate_hidden  : 2023-10-30
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 30
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 39:07
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721030sb.vrn.mp3|SB 1.2.19 — October 30, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710629ar.la
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1971-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : June 29
-Year_spoken      : 1971
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710629ar.la.mp3|Arrival Lecture — June 29, 1971, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 So I am very happy to see you again after eight months, or nine months. //Ānandambudhi vardhanam.// This movement is not hackneyed. Increasing the ocean of happiness. You have no experience of the ocean increasing. If the ocean increases, then the whole planet will be again overflooded. But this is an ocean of happiness. By chanting Hare Kṛṣṇa //mantra,// Lord Caitanya says, //ānandāmbudhi-vardhanam. Ambudhi. Ambudhi// means ocean and //ānanda// means bliss. If we chant Hare Kṛṣṇa //mantra,// as soon as our heart is cleansed... That is the first benediction of chanting Hare Kṛṣṇa //mantra,// that our heart becomes cleansed. If your heart is not cleansed, how we are participating together? Somebody is Indian, somebody is American, somebody is Canadian, somebody is African. Because on the Kṛṣṇa consciousness platform the heart becomes cleansed. There are no more such consciousness that "I am this," "I am that." The only consciousness is that "I am Kṛṣṇa's." That is cleanliness of heart. As soon as we come to this platform, that "I am Kṛṣṇa's." Just like the //gopīs.// All the inhabitants of Vṛndāvana, they were thinking, "We are all Kṛṣṇa's." Central point is Kṛṣṇa. That is the beauty of Vṛndāvana. All the inhabitants of Vṛndāvana, the elderly cowherd men, the boys, the girls, the trees, the river, the birds, the beasts---everyone---they are simply thinking, "I am Kṛṣṇa's." This is Kṛṣṇa consciousness. And as soon as we think otherwise---"I am Indian," "I am American," "I am this," "I am that," that is material consciousness. Try to understand the simple fact that as soon as we identify with our designated body, which I am not... I am not this body, so why shall I identify myself with American or Indian? Accidentally I have got this body in America or India or Africa or in hell or heaven. That is accidental. Or by my //karma.// But actually, I am not this body. And if I am not this body... Generally everything we are accepting in this material world [is] on the bodily concept of life. Because I have got bodily relationship with some man or woman, I am thinking... There are thousands of men and women, but I am thinking, "This woman is mine," "This man is mine." This is a crude example. And similarly, children. //Gṛha-kṣetra. Ato gṛha-kṣetra-sutāpta-vittair janasya moho 'yam// [[books:sb:5:5:8|[SB 5.5.8]]]. This bodily concept of life increases our delusion and we become enwrapped, entangled in material world, and we get a different type of body.
 

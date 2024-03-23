@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.8 ======
 
----- dataentry spoken ----
-id_hidden        : 690321sb.haw
-listtype_hidden  : SB 7.9.8
-listdate_hidden  : 1969-03-21
-showdate_hidden  : 2023-03-21
-listplace_hidden : Hawaii
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 21
-Year_spoken      : 1969
-Place_spoken     : Hawaii
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690321sb.haw.mp3|SB 7.9.8 — March 21, 1969, Hawaii}}
-</audio>
-
 **Prabhupāda:**
 
 > brahmādayaḥ sura-gaṇā munayo 'tha siddhāḥ

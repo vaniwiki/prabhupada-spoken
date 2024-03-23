@@ -9,24 +9,6 @@
 
 ====== Discussions ======
 
----- dataentry spoken ----
-id_hidden        : 710118rc.all
-listtype_hidden  : Discussions
-listdate_hidden  : 1971-01-18
-showdate_hidden  : 2023-01-18
-listplace_hidden : Allahabad
-Type_spoken      : Room Conversation
-Date_spoken      : January 18
-Year_spoken      : 1971
-Place_spoken     : Allahabad
-Length_hidden    : 00:00
-Title_hidden     : Discussions
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710118rc.all.mp3|Discussions — January 18, 1971, Allahabad}}
-</audio>
-
 **Prabhupāda:**
 ...a bona fide spiritual master. Bona fide spiritual master means who carries out the order of higher authorities. Otherwise he is not spiritual master. Anyone who manufactures his own process of religion, that is rascaldom. //dharmāṁ tu sakṣād bhagavat-praṇitam// [[books:sb:6:3:19|[SB 6.3.19]]]. Just like lawyer, representative of the law, means who carries the order of the supreme executive. He is lawyer. Similarly, a spiritual master means who carries the order of superior authority. We are carrying the order of Caitanya Mahāprabhu or Kṛṣṇa. Kṛṣṇa taught this //Bhagavad-gītā,// and He has said that "Anyone who will preach this confidential message of //Bhagavad-gītā,// he is very dear to Me."
 

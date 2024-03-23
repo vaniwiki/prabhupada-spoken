@@ -9,24 +9,6 @@
 
 ====== Morning Walk [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 750917mw.vrn
-listtype_hidden  : Morning Walk [partially recorded]
-listdate_hidden  : 1975-09-17
-showdate_hidden  : 2023-09-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : September 17
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 00:46
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750917mw.vrn.mp3|Morning Walk [partially recorded] — September 17, 1975, Vṛndāvana}}
-</audio>
-
 **Dhanañjaya:**
 ...at midday. He said we should also fast this morning. In fact, he said we should really fast all day and break the fast at moonrise.
 

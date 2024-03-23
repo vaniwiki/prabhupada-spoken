@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.9.1 ======
 
----- dataentry spoken ----
-id_hidden        : 720423sb.tok
-listtype_hidden  : SB 2.9.1
-listdate_hidden  : 1972-04-23
-showdate_hidden  : 2023-04-23
-listplace_hidden : Tokyo
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 23
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 61:01
-Title_hidden     : Śrīmad-Bhāgavatam 2.9.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720423sb.tok.mp3|SB 2.9.1 — April 23, 1972, Tokyo}}
-</audio>
-
 **Pradyumna:**
 [chanting verse] //...na ghaṭetārtha-sambandhaḥ.// [devotees repeat]
 

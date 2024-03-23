@@ -9,24 +9,6 @@
 
 ====== Morning Walk, partially recorded ======
 
----- dataentry spoken ----
-id_hidden        : 740419mw.hyd
-listtype_hidden  : Morning Walk, partially recorded
-listdate_hidden  : 1974-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : Hyderabad
-Type_spoken      : Morning Walk
-Date_spoken      : April 19
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 02:30
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740419mw.hyd.mp3|Morning Walk, partially recorded — April 19, 1974, Hyderabad}}
-</audio>
-
 **Mahāṁsa:**
 Pious people, they see that actually they are not giving any spiritual benefit by converting them into Christianity. So they are very against this. They want some original Vedic school, //gurukula// schools.
 

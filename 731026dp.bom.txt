@@ -9,24 +9,6 @@
 
 ====== Conversation at Airport ======
 
----- dataentry spoken ----
-id_hidden        : 731026dp.bom
-listtype_hidden  : Conversation at Airport
-listdate_hidden  : 1973-10-26
-showdate_hidden  : 2023-10-26
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : October 26
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 18:16
-Title_hidden     : Airport Departure
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731026dp.bom.mp3|Conversation at Airport — October 26, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 So our Kṛṣṇa consciousness movement is to educate people to understand the value of life. The modern system of education and civilization is so degraded that people have forgotten the value of life. Generally, in this material world, everyone is forgetful of the value of life, but the human form of life is a chance to awaken the importance of life.
 

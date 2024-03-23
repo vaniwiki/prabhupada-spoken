@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.56–62 ======
 
----- dataentry spoken ----
-id_hidden        : 710103sb.sur
-listtype_hidden  : SB 6.1.56–62
-listdate_hidden  : 1971-01-03
-showdate_hidden  : 2023-01-03
-listplace_hidden : Surat
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 3
-Year_spoken      : 1971
-Place_spoken     : Surat
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.56–62
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710103sb.sur.mp3|SB 6.1.56-62 — January 3, 1971, Surat}}
-</audio>
-
 **Prabhupāda:**
 [aside:] Just sprinkle, not individual, sprinkle. Minimize time. Don't waste time. So the point is here that Ajāmila was so qualified just as a //brāhmaṇa,// perfect //brāhmaṇa,// born of a //brāhmaṇa// father and educated, qualified, and acquired the qualities. All the qualities are mentioned, that //śruta-sampannaḥ. Śruta-sampannaḥ// means well studied in //Vedas.// That is a //brāhmaṇa's// qualification. //Veda-pāṭhād bhaved vipraḥ. Vipra, brāhmaṇa,// without any knowledge of the //Vedas,// [laughs] that is not a //brāhmaṇa.// So he was actually //brāhmaṇa, śruta-sampannaḥ.// And after... Simply reading of //Vedas// as a scholar is useless. Just like foreign Western scholar... [aside:] Now stop. One must practically apply the knowledge, not like armchair politician or armchair Vedantist, smoking cigarette and reading Vedānta. This kind of study of //Vedas// is useless. Now, we have seen so many //sannyāsīs,// so-called //sannyāsīs,// talking on Vedānta and smoking at the same time. You see? So Ajāmila was not like that. He was a scholar in the Vedic literature. //Ayaṁ hi śruta-sampannaḥ śīla-vṛtta-guṇālayaḥ.// And he was very well behaved and reservoir of all good qualities. //Guṇālayaḥ. Dhṛta-vrataḥ,// and avowed to follow the regulative principles.
 

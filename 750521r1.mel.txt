@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Director of Research of the Dept. of Social Welfare ======
 
----- dataentry spoken ----
-id_hidden        : 750521r1.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-21
-showdate_hidden  : 2023-05-21
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : May 21
-Year_spoken      : 1975
-Place_spoken     : Melbourne
-Length_hidden    : 75:09
-Title_hidden     : Room Conversation with Director of Research of the Department of Social Welfare
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750521r1.mel.mp3|Room Conversation with Director of Research of the Dept. of Social Welfare — May 21, 1975, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 The defect of the Western country is practically there is no social structure. The father, mother, they divorce, and the children become careless. Most cases this is defect.
 

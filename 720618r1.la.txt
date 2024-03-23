@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720618r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-06-18
-showdate_hidden  : 2023-06-18
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 18
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 07:06
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720618r1.la.mp3|Room Conversation — June 18, 1972, Los Angeles}}
-</audio>
-
 **Śyāmasundara:**
 Mr. Sarda has some relatives in London, and he was... The relatives were trying to force the girls to go to Nairobi, and they still, they did not want to go. So they ran away to Bombay.
 

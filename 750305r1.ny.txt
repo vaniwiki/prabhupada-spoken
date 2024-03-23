@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Bernard Manischewitz ======
 
----- dataentry spoken ----
-id_hidden        : 750305r1.ny
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-03-05
-showdate_hidden  : 2023-03-05
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : March 5
-Year_spoken      : 1975
-Place_spoken     : New York
-Length_hidden    : No Audio
-Title_hidden     : Room Conversation with Bernard Manischewitz
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750305r1.ny.mp3|Room Conversation with Bernard Manischewitz — March 5, 1975, New York}}
-</audio>
-
 **Pratyatoṣa:**
 Śrīla Prabhupāda, this is my father-in-law, Mr. Manischewitz. I think you met in Chicago.
 

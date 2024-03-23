@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720913r1.dal
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-09-13
-showdate_hidden  : 2023-09-13
-listplace_hidden : Dallas
-Type_spoken      : Room Conversation
-Date_spoken      : September 13
-Year_spoken      : 1972
-Place_spoken     : Dallas
-Length_hidden    : 05:21
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720913r1.dal.mp3|Room Conversation — September 13, 1972, Dallas}}
-</audio>
-
 **Prabhupāda:**
 God and we living entities all of us are persons, individual persons [indistinct]. So all of us living entities person-to-person, God is the supreme person and the living entities are, just like in a family the head of the family is the father. He is the head all others, the wife, the children, the servants, they are all subordinate.
 

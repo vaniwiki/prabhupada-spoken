@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770121r1.bhu
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-21
-showdate_hidden  : 2023-01-21
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 21
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 23:26
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770121r1.bhu.mp3|Room Conversation — January 21, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 They claim if there are temples, people are accustomed going to temple, chanting Hare..., there is no harm. But the city like the Western countries, simply sense gratification, that should be stopped.
 

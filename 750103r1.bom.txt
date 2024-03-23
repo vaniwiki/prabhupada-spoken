@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750103r1-bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-01-03
-showdate_hidden  : 2023-01-03
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 3
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 56:50
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750103r1-bom.mp3|Room Conversation — January 3, 1975, Bombay}}
-</audio>
-
 **Devotee:**
 ...volume two. That was from Jayatīrtha. This is actually the most complete report. Everything else is additional to this. It is very, uh, all the details. "My Dear Śrīla Prabhupāda, Please accept my worthless obeisances at your divine lotus feet. I pray that by your divine mercy I will obtain unquestioning faith in your instructions. It appears from all evidence of the revealed scriptures that it is in this way only my spiritual life will develop and mature. I have been in Hawaii now for one week, and I beg to issue the following report." This is dated December 22nd.
 

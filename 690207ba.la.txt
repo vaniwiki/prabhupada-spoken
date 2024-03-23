@@ -9,24 +9,6 @@
 
 ====== Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690207ba.la
-listtype_hidden  : Appearance Day
-listdate_hidden  : 1969-02-07
-showdate_hidden  : 2023-02-07
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : February 7
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690207ba.la.mp3|Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture — February 7, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...means a broader heart. They are not satisfied simply by his personal comfort. In political history also, you will find so many great leaders. They sacrificed their own comforts. In your country there was George Washington. He sacrificed so many. There were other leaders. In every country, in political field. Similarly, social field also. Even the political leaders, the Marx, they also, he was also compassionate by seeing the terrible condition of the Russian peasants, so he started that communist movement. That is the way. Great men, they work for the general mass of people. They are not... That is their greatness.
 

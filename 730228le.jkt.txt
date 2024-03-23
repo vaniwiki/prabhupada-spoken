@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730228le.jkt
-listtype_hidden  : Lecture
-listdate_hidden  : 1973-02-28
-showdate_hidden  : 2023-02-28
-listplace_hidden : Jakarta
-Type_spoken      : Lecture
-Date_spoken      : February 28
-Year_spoken      : 1973
-Place_spoken     : Jakarta
-Length_hidden    : 49:18
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730228le.jkt.mp3|Lecture — February 28, 1973, Jakarta}}
-</audio>
-
 **Prabhupāda:**
 
 > ...na tvaṁ neme janādipāḥ

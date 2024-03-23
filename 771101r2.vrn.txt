@@ -9,24 +9,6 @@
 
 ====== Prabhupāda Vigil ======
 
----- dataentry spoken ----
-id_hidden        : 771101r2.vrn
-listtype_hidden  : Prabhupāda Vigil
-listdate_hidden  : 1977-11-01
-showdate_hidden  : 2023-11-01
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 1
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 40:47
-Title_hidden     : Prabhupāda Vigil
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771101r2.vrn.mp3|Prabhupāda Vigil — November 1, 1977, Vṛndāvana}}
-</audio>
-
 **Brahmānanda:**
 [discussing the Gītā Pratiṣṭhāna conference being held there]...they offered him respects. This Bajaj, he was speaking something to him, offering him some respect. He was sitting in the front. This morning they just had their organizational meeting, and they've asked one of our representatives to come and speak about our activities. So Akṣayānanda Swami will speak, and he will speak in Hindi. One of the things they mentioned... 'Cause I was saying this morning that we're having difficulty also getting the younger people to join, so they thought that one reason was that our men are not able to speak the Indian languages. These people are also very attached to Indian language. They're pro–Indian language. So if he speaks in Hindi, that will be interesting to see [indistinct].
 

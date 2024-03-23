@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Siddha-svarūpa Follower ======
 
----- dataentry spoken ----
-id_hidden        : 760503r1.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-03
-showdate_hidden  : 2023-05-03
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : May 3
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 42:09
-Title_hidden     : Room Conversation with Siddha-svarūpa Follower
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760503r1.hon.mp3|Room Conversation with Siddha-svarūpa Follower — May 3, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 ...by taking birth of any, whether the tree is taking birth or the ant is taking birth and the fish is taking birth. Everywhere, living entities, they are taking birth. That's all. And they are dying also. And between birth and death there is disease and old age. So during birth one cannot understand, because there is unconscious stage. Even the fetus is killed, it cannot under..., because fully unconscious stage. And there is life undoubtedly; otherwise how the fetus all of a sudden gets life? But these //mūḍhas// cannot see it. Here in this matter there is no life; therefore many thousands of years, if you kill, it will never show any symptom of life. But if there is life, at a time it will come to consciousness. Just like fainted man is lying like a dead man, but he is not dead; there is life. It is fainted, unconscious state. So because there is life, he may lie down in that unconscious state for two, three hours; again he'll come. It is common sense. And if a log, wood log, is lying flat, will it come to life, anything? But because these //mūḍhas,// they are taking that "Fetus has no life. Kill it, finish it and eat it..." It is going on. You know that?
 

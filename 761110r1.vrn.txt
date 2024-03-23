@@ -9,24 +9,6 @@
 
 ====== Room Conversation [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 761110r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 10
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 02:27
-Title_hidden     : Room Conversation [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761110r1.vrn.mp3|Room Conversation [partially recorded] — November 10, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...still in the jungle. And they show the picture, Darwin's theory...
 

@@ -9,24 +9,6 @@
 
 ====== Mānasa Deha Geha and Purport ======
 
----- dataentry spoken ----
-id_hidden        : 720922mu.la
-listtype_hidden  : Mānasa Deha Geha and Purport
-listdate_hidden  : 1972-09-22
-showdate_hidden  : 2023-09-22
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : September 22
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 31:48
-Title_hidden     : Mānasa Deha Geha and Purport
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720922mu.la.mp3|Mānasa Deha Geha and Purport — September 22, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [Playing the harmonium, singing the musical notes //ṣa, ṛ, gā, ma, pa, dha, ni,// low and high, high and low etc. Instructing Svarūpa Dāmodara dāsa] [Hindi]
 

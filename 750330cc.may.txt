@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 1.6 ======
 
----- dataentry spoken ----
-id_hidden        : 750330cc.may
-listtype_hidden  : Cc. Ādi 1.6
-listdate_hidden  : 1975-03-30
-showdate_hidden  : 2023-03-30
-listplace_hidden : Māyāpur
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : March 30
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 26:59
-Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 1.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750330cc.may.mp3|Cc. Ādi 1.6 — March 30, 1975, Māyāpur}}
-</audio>
-
 **Nitāi:** "Desiring to understand the glory of Rādhārāṇī's love, the wonderful qualities in Him that She alone relishes through Her love, and the happiness She feels when She realizes the sweetness of His love, the Supreme Lord Hari, richly endowed with Her emotions, appeared from the womb of Śrīmatī Śacīdevī, as the moon appears from the ocean."
 
 **Prabhupāda:**

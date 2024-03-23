@@ -9,24 +9,6 @@
 
 ====== Lecture on Mahā-mantra ======
 
----- dataentry spoken ----
-id_hidden        : 660908le.ny
-listtype_hidden  : Mahā-mantra Lecture
-listdate_hidden  : 1966-09-08
-showdate_hidden  : 2023-09-08
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : September 8
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Lecture on Mahā-mantra
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660908le.ny.mp3|Lecture on Mahā-mantra — September 8, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 The door is open? You can keep the door open. Yes. //Īśvara...// Just try to cite, recite this. [devotees repeat each word]
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.30 ======
 
----- dataentry spoken ----
-id_hidden        : 750714sb.phi
-listtype_hidden  : SB 6.1.30
-listdate_hidden  : 1975-07-14
-showdate_hidden  : 2023-07-14
-listplace_hidden : Philadelphia
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 14
-Year_spoken      : 1975
-Place_spoken     : Philadelphia
-Length_hidden    : 26:10
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.30
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750714sb.phi.mp3|SB 6.1.30 — July 14, 1975, Philadelphia}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] Sixth Canto, First Chapter, verse number 30. [leads chanting of verse, etc.]
 

@@ -9,24 +9,6 @@
 
 ====== Second Meeting with Mr. Dwivedi ======
 
----- dataentry spoken ----
-id_hidden        : 770424me.bom
-listtype_hidden  : Meeting Mr. Dwivedi
-listdate_hidden  : 1977-04-24
-showdate_hidden  : 2023-04-24
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 24
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 126:55
-Title_hidden     : Second Meeting with Mr. Dwivedi
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770424me.bom.mp3|Second Meeting with Mr. Dwivedi — April 24, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [Hindi] Kartikeya... He's your son? No.
 

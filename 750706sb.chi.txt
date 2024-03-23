@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.22 ======
 
----- dataentry spoken ----
-id_hidden        : 750706sb.chi
-listtype_hidden  : SB 6.1.22
-listdate_hidden  : 1975-07-06
-showdate_hidden  : 2023-07-06
-listplace_hidden : Chicago
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 6
-Year_spoken      : 1975
-Place_spoken     : Chicago
-Length_hidden    : 39:37
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.22
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750706sb.chi.mp3|SB 6.1.22 — July 6, 1975, Chicago}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

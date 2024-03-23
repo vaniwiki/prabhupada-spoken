@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.34–36 ======
 
----- dataentry spoken ----
-id_hidden        : 760602sb.la
-listtype_hidden  : SB 6.1.34–36
-listdate_hidden  : 1976-06-02
-showdate_hidden  : 2023-06-02
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 2
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 32:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.34–36
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760602sb.la.mp3|SB 6.1.34-36 — June 2, 1976, Los Angeles}}
-</audio>
-
 [Devotees sing //Śrī guru-vandanā//] [break]
 
 **Pradyumna**: [06:15] "... of Yamarāja said: Your eyes are just like the petals of lotus flowers. Dressed in yellow silken garments, decorated with garlands of lotuses, and wearing very attractive helmets on your heads and earrings on your ears, you all appear fresh and youthful. Your four long arms are decorated with bows and quivers of arrows and with swords, clubs, conchshells, discs and lotus flowers. Your effulgence has dissipated the darkness of this place with extraordinary illumination. Now, sirs, why are you obstructing us?"

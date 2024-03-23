@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761227r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-27
-showdate_hidden  : 2023-12-27
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 27
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 31:59
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761227r1.bom.mp3|Room Conversation — December 27, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Hmm. Where is Jagadīśa? [break] ...on the real goal of life.
 

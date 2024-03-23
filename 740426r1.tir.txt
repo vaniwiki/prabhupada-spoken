@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740426r1.tir
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-04-26
-showdate_hidden  : 2023-04-26
-listplace_hidden : Tirupati
-Type_spoken      : Room Conversation
-Date_spoken      : April 26
-Year_spoken      : 1974
-Place_spoken     : Tirupati
-Length_hidden    : 08:06
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740426r1.tir.mp3|Room Conversation — April 26, 1974, Tirupati}}
-</audio>
-
 **Satsvarūpa:**
 Secretary, he said, "You write in your books that your movement by Lord Caitanya is the..., as if it's the most exclusive thing." He said, "But actually, in India the Rāmānuja is a more prominent Vaiṣṇava sect." So, as I understand our claim, it's based on the fact that we worship Kṛṣṇa in a higher form, in Kṛṣṇaloka, and they worship Kṛṣṇa which leads to Vaikuṇṭha.
 

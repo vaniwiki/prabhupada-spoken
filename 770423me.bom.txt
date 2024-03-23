@@ -9,24 +9,6 @@
 
 ====== Meeting with Mr. Dwivedi ======
 
----- dataentry spoken ----
-id_hidden        : 770423me.bom
-listtype_hidden  : Meeting Mr. Dwivedi
-listdate_hidden  : 1977-04-23
-showdate_hidden  : 2023-04-23
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 23
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 40:11
-Title_hidden     : Meeting with Mr. Dwivedi
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770423me.bom.mp3|Meeting with Mr. Dwivedi — April 23, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 And you want cloth. That is primary necessities. So if you become independent about these things, your eighty percent economic problem is solved. So this is a wrong type of civilization only. That Gandhi's program was very nice. We want to revive.
 

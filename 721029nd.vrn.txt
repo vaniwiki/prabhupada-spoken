@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721029nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-10-29
-showdate_hidden  : 2023-10-29
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : October 29
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 35:30
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721029nd.vrn.mp3|The Nectar of Devotion — October 29, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading] "...may be divided into two classes: one class may be for achieving a certain goal, and the other may be for avoiding some unfavorable circumstance. In Sanskrit these activities are called //pravṛtti// and //nirvṛtti,// positive and negative action.
 

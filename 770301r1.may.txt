@@ -9,24 +9,6 @@
 
 ====== Room Conversation “GBC Resolutions” ======
 
----- dataentry spoken ----
-id_hidden        : 770301r1.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-03-01
-showdate_hidden  : 2023-03-01
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : March 1
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 40:04
-Title_hidden     : Room Conversation “GBC Resolutions”
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770301r1.may.mp3|Room Conversation “GBC Resolutions” — March 1, 1977, Māyāpur}}
-</audio>
-
 **Satsvarūpa:**
 The first thing we did this morning was this resolution: Pañcadraviḍa Swami and Harikeśa Swami, who were serving during the year as acting GBCs, were accepted as full GBC members. And Bali-mardana, it was decided, should continue for the next year to act in the status of an acting GBC. Then Svarūpa Dāmodara was appointed as a GBC member on your request. Then we had an election of GBC officers. Kīrtanānanda Mahārāja was elected the chairman, Jayatīrtha was elected vice chairman, and Sats...
 

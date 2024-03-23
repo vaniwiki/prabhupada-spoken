@@ -9,24 +9,6 @@
 
 ====== Purport to Nṛsiṁha Prayers ======
 
----- dataentry spoken ----
-id_hidden        : 700802np.la
-listtype_hidden  : Nṛsiṁha Prayers
-listdate_hidden  : 1970-08-02
-showdate_hidden  : 2023-08-02
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : August 2
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Nṛsiṁha Prayers
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700802np.la.mp3|Purport to Nṛsiṁha Prayers — August 2, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa.
 

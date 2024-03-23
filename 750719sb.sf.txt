@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.37 ======
 
----- dataentry spoken ----
-id_hidden        : 750719sb.sf
-listtype_hidden  : SB 6.1.37
-listdate_hidden  : 1975-07-19
-showdate_hidden  : 2023-07-19
-listplace_hidden : San Francisco
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 19
-Year_spoken      : 1975
-Place_spoken     : San Francisco
-Length_hidden    : 30:14
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.37
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750719sb.sf.mp3|SB 6.1.37 — July 19, 1975, San Francisco}}
-</audio>
-
 **Nitāi:** "Śukadeva Gosvāmī continued to speak: After the messengers of Yamarāja thus addressed the Viṣṇudūtas, those perfected beings who are personal associates of Vāsudeva smiled and, with voices resounding as the sound of the cloud, gravely spoke the following words."
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Sir Alistair Hardy ======
 
----- dataentry spoken ----
-id_hidden        : 730721r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-21
-showdate_hidden  : 2023-07-21
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 21
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 34:22
-Title_hidden     : Room Conversation with Sir Alistair Hardy
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730721r1.lon.mp3|Room Conversation with Sir Alistair Hardy — July 21, 1973, London}}
-</audio>
-
 **Pradyumna:**
 "...by the conditioned soul. Thus God is all-good, and God is all-merciful. //Antaḥ praviṣṭaḥ śāstā janānām.// The living entity forgets as soon as he quits his present body, but he begins his work again, initiated by the Supreme Lord. Although he forgets, the Lord gives him the intelligence to renew his work where he ended his last life. So not only does the living entity enjoy or suffer in this world according to the dictation from the Supreme Lord situated locally in the heart, but he receives the opportunity to understand //Vedas// from Him. If one is serious to understand the Vedic knowledge, then Kṛṣṇa gives the required intelligence.
 

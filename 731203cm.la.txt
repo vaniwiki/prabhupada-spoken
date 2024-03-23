@@ -9,24 +9,6 @@
 
 ====== Comment ======
 
----- dataentry spoken ----
-id_hidden        : 731203cm.la
-listtype_hidden  : Comment
-listdate_hidden  : 1973-12-03
-showdate_hidden  : 2023-12-03
-listplace_hidden : Los Angeles
-Type_spoken      : Various
-Date_spoken      : December 3
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 00:25
-Title_hidden     : Comment
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731203cm.la.mp3|Comment — December 3, 1973, Los Angeles}}
-</audio>
-
 **Devotees:**
 //Jaya// Prabhupāda.
 

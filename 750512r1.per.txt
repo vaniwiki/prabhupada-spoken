@@ -9,24 +9,6 @@
 
 ====== Room Coversation with Psychiatrist and Indian Boy ======
 
----- dataentry spoken ----
-id_hidden        : 750512r1.per
-listtype_hidden  : Room Coversation with Psychiatrist and Indian Boy
-listdate_hidden  : 1975-05-12
-showdate_hidden  : 2023-05-12
-listplace_hidden : Perth
-Type_spoken      : Room Conversation
-Date_spoken      : May 12
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 33:01
-Title_hidden     : Room Coversation with Psychiatrist and Indian Boy
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750512r1.per.mp3|Room Coversation with Psychiatrist and Indian Boy — May 12, 1975, Perth}}
-</audio>
-
 **Amogha:**
 [to guest] I understood that you approach psychiatry, psychology, from the point of Eastern philosophy?
 

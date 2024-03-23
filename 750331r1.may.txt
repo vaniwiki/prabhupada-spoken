@@ -9,24 +9,6 @@
 
 ====== Conversation with Devotees ======
 
----- dataentry spoken ----
-id_hidden        : 750331r1.may
-listtype_hidden  : Conversation with Devotees
-listdate_hidden  : 1975-03-31
-showdate_hidden  : 2023-03-31
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : March 31
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 15:23
-Title_hidden     : Conversation with Devotees
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750331r1.may.mp3|Conversation with Devotees — March 31, 1975, Māyāpur}}
-</audio>
-
 **Acyutānanda:**
 ...stuff His ears up when anyone would refer to Him as God. He wants to be known as a devotee. But we worship Him as God, in the same line as Rādhā-Kṛṣṇa.
 

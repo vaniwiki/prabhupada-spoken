@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720916mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-09-16
-showdate_hidden  : 2023-09-16
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : September 16
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 38:07
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720916mw.la.mp3|Morning Walk — September 16, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...side, very painful. Little, little. A small tree [indistinct; waves crashing on beach in background] Geonkhali, Geonkhali. That place is known as Geonkhali.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 770208ba.may
-listtype_hidden  : Appearance Day
-listdate_hidden  : 1977-02-08
-showdate_hidden  : 2023-02-08
-listplace_hidden : Māyāpur
-Type_spoken      : Lecture
-Date_spoken      : February 8
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 34:03
-Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770208ba.may.mp3|Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day Lecture — February 8, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...one hundred and third?
 

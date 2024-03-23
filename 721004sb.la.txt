@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.3.29 ======
 
----- dataentry spoken ----
-id_hidden        : 721004sb.la
-listtype_hidden  : SB 1.3.29
-listdate_hidden  : 1972-10-04
-showdate_hidden  : 2023-10-04
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 4
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 43:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.3.29
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721004sb.la.mp3|SB 1.3.29 — October 4, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [leads singing of //Jaya Rādhā-Mādhava//] [//prema-dhvani//] Thank you very much.
 

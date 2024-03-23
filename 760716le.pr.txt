@@ -9,24 +9,6 @@
 
 ====== Evening Lecture at Gītā-Nagarī Farm ======
 
----- dataentry spoken ----
-id_hidden        : 760716le.pr
-listtype_hidden  : Evening Lecture at Gītā-Nagarī Farm
-listdate_hidden  : 1976-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : Port Royal
-Type_spoken      : Lecture
-Date_spoken      : July 16
-Year_spoken      : 1976
-Place_spoken     : Port Royal
-Length_hidden    : 32:24
-Title_hidden     : Evening Lecture at Gītā-Nagarī Farm
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760716le.pr.mp3|Evening Lecture at Gītā-Nagarī Farm — July 16, 1976, Port Royal}}
-</audio>
-
 **Prabhupāda:**
 [sings //Jaya Rādhā-Mādhava//] Thank you very much. [devotees offer obeisances]
 

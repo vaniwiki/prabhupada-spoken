@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.19 ======
 
----- dataentry spoken ----
-id_hidden        : 761107sb.vrn
-listtype_hidden  : SB 5.5.19
-listdate_hidden  : 1976-11-07
-showdate_hidden  : 2023-11-07
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 7
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 31:13
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761107sb.vrn.mp3|SB 5.5.19 — November 7, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [break]
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.26 ======
 
----- dataentry spoken ----
-id_hidden        : 721130bg.hyd
-listtype_hidden  : Bg 2.26
-listdate_hidden  : 1972-11-30
-showdate_hidden  : 2023-11-30
-listplace_hidden : Hyderabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 30
-Year_spoken      : 1972
-Place_spoken     : Hyderabad
-Length_hidden    : 58:30
-Title_hidden     : Bhagavad-gītā 2.26
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721130bg.hyd.mp3|Bg 2.26 — November 30, 1972, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 
 > atha cainaṁ nitya-jātaṁ

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.5.30 ======
 
----- dataentry spoken ----
-id_hidden        : 710909sb.lon
-listtype_hidden  : SB 7.5.30
-listdate_hidden  : 1971-09-09
-showdate_hidden  : 2023-09-09
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 9
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.5.30
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710909sb.lon.mp3|SB 7.5.30 — September 9, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 
 > matir na kṛṣṇe parataḥ svato vā

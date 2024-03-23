@@ -8,24 +8,6 @@
 ---
 
 ====== Prabhupāda Listening to Recording of His Own ======
----- dataentry spoken ----
-id_hidden        : 690425rc.bos
-listtype_hidden  : Prabhupāda Listening
-listdate_hidden  : 1969-04-25
-showdate_hidden  : 2023-04-25
-listplace_hidden : Boston
-Type_spoken      : Room Conversation
-Date_spoken      : April 25
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Prabhupāda Listening to Recording of His Own Room Conversation with Students
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690425rc.bos.mp3|Prabhupāda Listening to Recording of His Own — April 25, 1969, Boston}}
-</audio>
-
 
 [Following is a transcription of the recording being played back as Prabhupāda listens.]
 

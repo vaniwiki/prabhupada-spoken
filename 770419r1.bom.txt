@@ -9,24 +9,6 @@
 
 ====== Morning Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770419r1.bom
-listtype_hidden  : Morning Conversation
-listdate_hidden  : 1977-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 19
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 20:03
-Title_hidden     : Morning Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770419r1.bom.mp3|Morning Conversation — April 19, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 This is all right. And hand he cannot take? Problem? It is a problem?
 

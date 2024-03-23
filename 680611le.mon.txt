@@ -9,24 +9,6 @@
 
 ====== Lecture at a School ======
 
----- dataentry spoken ----
-id_hidden        : 680611le.mon
-listtype_hidden  : Lecture at a School
-listdate_hidden  : 1968-06-11
-showdate_hidden  : 2023-06-11
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : June 11
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Lecture at a School
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680611le.mon.mp3|Lecture at a School — June 11, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 Is it working?
 

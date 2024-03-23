@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.23 ======
 
----- dataentry spoken ----
-id_hidden        : 730227sb.jkt
-listtype_hidden  : SB 1.1.23
-listdate_hidden  : 1973-02-27
-showdate_hidden  : 2023-02-27
-listplace_hidden : Jakarta
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 27
-Year_spoken      : 1973
-Place_spoken     : Jakarta
-Length_hidden    : 68:47
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730227sb.jkt.mp3|SB 1.1.23 — February 27, 1973, Jakarta}}
-</audio>
-
 [//Kīrtana//]
 
 [poor audio]

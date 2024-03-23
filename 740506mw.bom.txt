@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740506mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-05-06
-showdate_hidden  : 2023-05-06
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : May 6
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 24:21
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740506mw.bom.mp3|Morning Walk — May 6, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...[break] ...speak in all language, even in the animal, birds' language. //Babhudaka.//
 

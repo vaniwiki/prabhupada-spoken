@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Irish Poet Desmond O’Grady ======
 
----- dataentry spoken ----
-id_hidden        : 740523r1.rom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-05-23
-showdate_hidden  : 2023-05-23
-listplace_hidden : Rome
-Type_spoken      : Room Conversation
-Date_spoken      : May 23
-Year_spoken      : 1974
-Place_spoken     : Rome
-Length_hidden    : 79:56
-Title_hidden     : Room Conversation with Irish Poet Desmond O’Grady
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740523r1.rom.mp3|Room Conversation with Irish Poet Desmond O’Grady — May 23, 1974, Rome}}
-</audio>
-
 **Yogeśvara:**
 [reading from //Bhagavad-gītā// 13.22 purport] "It is explained in the Second Chapter that the living entity is transmigrating from one body to another just as one changes dress. This change of dress is due to his attachment to material existence. As long as he is captivated by this false manifestation, he has to continue transmigrating from one body to another. Due to his desire to lord over material nature, he is put into such undesirable circumstances. Under the influence of material desire, the entity is born sometimes as a demigod, sometimes as a man, sometimes as a beast, as a bird, as a worm, as an aquatic, as a saintly man, as a bug. This is going on. And in all cases the living entity thinks himself to be the master of his circumstances, yet he is under the influence of material nature."
 

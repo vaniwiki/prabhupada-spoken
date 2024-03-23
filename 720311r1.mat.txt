@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720311r1.mat
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-03-11
-showdate_hidden  : 2023-03-11
-listplace_hidden : Mathura
-Type_spoken      : Room Conversation
-Date_spoken      : March 11
-Year_spoken      : 1972
-Place_spoken     : Mathura
-Length_hidden    : 12:45
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720311r1.mat.mp3|Room Conversation — March 11, 1972, Mathura}}
-</audio>
-
 [in car]
 
 **Gurudāsa:**

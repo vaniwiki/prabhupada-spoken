@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.2 ======
 
----- dataentry spoken ----
-id_hidden        : 740611sb.par
-listtype_hidden  : SB 2.1.2
-listdate_hidden  : 1974-06-11
-showdate_hidden  : 2023-06-11
-listplace_hidden : Paris
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 11
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 27:16
-Title_hidden     : Śrīmad-Bhāgavatam 2.1.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740611sb.par.mp3|SB 2.1.2 — June 11, 1974, Paris}}
-</audio>
-
 **Nitāi:** "Those persons who are materially engrossed, being blind to the knowledge of the Ultimate Truth, have many things as subject matter for hearing in the human society, O Emperor."
 
 **Prabhupāda:**

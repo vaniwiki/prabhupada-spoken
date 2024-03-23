@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Indian Man ======
 
----- dataentry spoken ----
-id_hidden        : 761222r2.poo
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-22
-showdate_hidden  : 2023-12-22
-listplace_hidden : Poona
-Type_spoken      : Room Conversation
-Date_spoken      : December 22
-Year_spoken      : 1976
-Place_spoken     : Poona
-Length_hidden    : 79:06
-Title_hidden     : Room Conversation with Indian Man
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761222r2.poo.mp3|Room Conversation with Indian Man — December 22, 1976, Poona}}
-</audio>
-
 **Indian man:**
 ...self-realization. Various methods, as many people are there, so many techniques are there. Each individual has to find out his own way.
 

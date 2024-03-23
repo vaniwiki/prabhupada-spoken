@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Scientists, Svarūpa Dāmodara and Dr. Sharma ======
 
----- dataentry spoken ----
-id_hidden        : 770331r3.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-03-31
-showdate_hidden  : 2023-03-31
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : March 31
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 64:36
-Title_hidden     : Room Conversation with Scientists, Svarūpa Dāmodara and Dr. Sharma
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770331r3.bom.mp3|Room Conversation with Scientists, Svarūpa Dāmodara and Dr. Sharma — March 31, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Here Jagannātha Svāmī is the same. So it is desired that the Svāmī should be in a very nicer place, that there is no deridation of the Svāmī, the exaltation of the Svāmī. So therefore the rascal does not know what is analogy. Analogy does not mean dissimilar.
 

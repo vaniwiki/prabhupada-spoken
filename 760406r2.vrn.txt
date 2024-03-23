@@ -9,24 +9,6 @@
 
 ====== Room Conversation [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 760406r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-04-06
-showdate_hidden  : 2023-04-06
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : April 6
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 01:26
-Title_hidden     : Room Conversation [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760406r2.vrn.mp3|Room Conversation [partially recorded] — April 6, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...approach Kṛṣṇa. Not that [indistinct] ...Hmm ...not for material benefit but for getting facilities to approach //gopīs// they worship Kātyāyanī for getting Kṛṣṇa as a husband. So we should follow. [indistinct].
 

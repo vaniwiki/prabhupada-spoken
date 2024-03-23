@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.3.20 ======
 
----- dataentry spoken ----
-id_hidden        : 720925sb.la
-listtype_hidden  : SB 1.3.20
-listdate_hidden  : 1972-09-25
-showdate_hidden  : 2023-09-25
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 25
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 42:22
-Title_hidden     : Śrīmad-Bhāgavatam 1.3.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720925sb.la.mp3|SB 1.3.20 — September 25, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [//Govindam// prayers playing; sings along] Hmm. [leads singing of //Jaya Rādhā-Mādhava//] [//prema-dhvani//] Thank you very much.
 

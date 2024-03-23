@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 11.23.57, Initiations and Sannyāsa of Sudāmā ======
 
----- dataentry spoken ----
-id_hidden        : 720430in.tok
-listtype_hidden  : SB 11.23.57, Initiations and Sannyāsa of Sudāmā
-listdate_hidden  : 1972-04-30
-showdate_hidden  : 2023-04-30
-listplace_hidden : Tokyo
-Type_spoken      : Initiation
-Date_spoken      : April 30
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 43:34
-Title_hidden     : Śrīmad-Bhāgavatam 11.23.57, Initiations and Sannyāsa of Sudāmā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720430in.tok.mp3|SB 11.23.57, Initiations and Sannyāsa of Sudāmā — April 30, 1972, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 ...the regulative principle?
 

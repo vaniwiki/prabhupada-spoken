@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740214r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-02-14
-showdate_hidden  : 2023-02-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : February 14
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 27:10
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740214r1.vrn.mp3|Room Conversation — February 14, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...even those who are farmers [indistinct]. In India also. As soon as they get some education, they don't want to be a farmer.
 

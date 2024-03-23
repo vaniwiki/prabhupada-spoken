@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720604r3.mex
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-06-04
-showdate_hidden  : 2023-06-04
-listplace_hidden : Mexico City
-Type_spoken      : Room Conversation
-Date_spoken      : June 4
-Year_spoken      : 1972
-Place_spoken     : Mexico City
-Length_hidden    : 16:47
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720604r3.mex.mp3|Room Conversation — June 4, 1972, Mexico City}}
-</audio>
-
 **Prabhupāda:**
 ...quantity He stocked. //pūrṇasya,//
 

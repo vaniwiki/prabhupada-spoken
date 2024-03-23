@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.22.21 ======
 
----- dataentry spoken ----
-id_hidden        : 760810sb.teh
-listtype_hidden  : SB 3.22.21
-listdate_hidden  : 1976-08-10
-showdate_hidden  : 2023-08-10
-listplace_hidden : Tehran
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 10
-Year_spoken      : 1976
-Place_spoken     : Tehran
-Length_hidden    : 15:33
-Title_hidden     : Śrīmad-Bhāgavatam 3.22.21
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760810sb.teh.mp3|SB 3.22.21 — August 10, 1976, Tehran}}
-</audio>
-
 **Prabhupāda:**
 Spectacles. Spectacles.
 

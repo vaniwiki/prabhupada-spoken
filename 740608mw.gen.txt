@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740608mw.gen
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-06-08
-showdate_hidden  : 2023-06-08
-listplace_hidden : Geneva
-Type_spoken      : Morning Walk
-Date_spoken      : June 8
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 44:38
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740608mw.gen.mp3|Morning Walk — June 8, 1974, Geneva}}
-</audio>
-
 **Prabhupāda:**
 ...Ignorances. They have opined, they have given the opinion that children born between the ages of twenty years and thirty-six years, they are healthy. But we have got experience that children born even at..., in India, twelve, thirteen years, they were healthy.
 

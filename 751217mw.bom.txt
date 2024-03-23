@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751217mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-12-17
-showdate_hidden  : 2023-12-17
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : December 17
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 54:32
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751217mw.bom.mp3|Morning Walk — December 17, 1975, Bombay}}
-</audio>
-
 **Dr. Patel:**
 [Hindi---Dr. Patel and another man] The country is already murdered. What are you talking of murder now?
 

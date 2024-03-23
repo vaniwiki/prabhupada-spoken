@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.41 ======
 
----- dataentry spoken ----
-id_hidden        : 741021sb.may
-listtype_hidden  : SB 1.8.41
-listdate_hidden  : 1974-10-21
-showdate_hidden  : 2023-10-21
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 21
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 42:01
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.41
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741021sb.may.mp3|SB 1.8.41 — October 21, 1974, Māyāpur}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [devotees repeat]
 

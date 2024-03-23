@@ -9,24 +9,6 @@
 
 ====== Brandeis University Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690429le.bos
-listtype_hidden  : Brandeis University Lecture
-listdate_hidden  : 1969-04-29
-showdate_hidden  : 2023-04-29
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : April 29
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Brandeis University Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690429le.bos.mp3|Brandeis University Lecture — April 29, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 
 > oṁ ajñāna-timirāndhasya

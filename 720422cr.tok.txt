@@ -9,24 +9,6 @@
 
 ====== Conversation in car ======
 
----- dataentry spoken ----
-id_hidden        : 720422cr.tok
-listtype_hidden  : Car Conversation
-listdate_hidden  : 1972-04-22
-showdate_hidden  : 2023-04-22
-listplace_hidden : Tokyo
-Type_spoken      : Room Conversation
-Date_spoken      : April 22
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 09:48
-Title_hidden     : Conversation in Car
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720422cr.tok.mp3|Conversation in car — April 22, 1972, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 Almost they have become Europeanized.
 

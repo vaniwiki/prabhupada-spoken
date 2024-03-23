@@ -9,24 +9,6 @@
 
 ====== Interview ======
 
----- dataentry spoken ----
-id_hidden        : 680924iv.sea
-listtype_hidden  : Interview
-listdate_hidden  : 1968-09-24
-showdate_hidden  : 2023-09-24
-listplace_hidden : Seattle
-Type_spoken      : Interview
-Date_spoken      : September 24
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680924iv.sea.mp3|Interview — September 24, 1968, Seattle}}
-</audio>
-
 [a tape is being played of the interview]
 
 **Prabhupāda:**

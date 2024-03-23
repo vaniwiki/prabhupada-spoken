@@ -9,24 +9,6 @@
 
 ====== Press Interview at Muthilal Rao’s House ======
 
----- dataentry spoken ----
-id_hidden        : 760817iv.hyd
-listtype_hidden  : Press Interview at Muthilal Rao’s House
-listdate_hidden  : 1976-08-17
-showdate_hidden  : 2023-08-17
-listplace_hidden : Hyderabad
-Type_spoken      : Interview
-Date_spoken      : August 17
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 46:17
-Title_hidden     : Press Interview at Muthilal Rao’s House
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760817iv.hyd.mp3|Press Interview at Muthilal Rao’s House — August 17, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 In the //Bhagavad-gītā// Kṛṣṇa says... The first beginning of the teachings of //Bhagavad-gītā...// [aside:] You have to go. No children; otherwise it will be disturbed. When Arjuna accepted Kṛṣṇa as the spiritual master, //śiṣyas te 'haṁ śādhi māṁ prapannam// [[books:bg:2:7|[Bg. 2.7]]]. First of all, he was talking like friends. When he saw, "The friendly talking will not help us," so Arjuna accepted Kṛṣṇa as his spiritual master. Then as spiritual master He said, //aśocyān anvaśocas tvaṁ prajñā-vādāṁś ca bhāṣase// [[books:bg:2:11|[Bg. 2.11]]]: "My dear Arjuna, you are lamenting on the subject matter which is not the subject matter of lamentation, and you are talking like a very learned man." //Gatāsūn agatāsūṁś ca nānuśocanti paṇḍitāḥ.// This body, either alive or dead, it is not a serious subject matter of study, neither a learned man laments over it. This is the subject matter of //Bhagavad-gītā,// or spiritual knowledge. Those who are not human being... According to Vedic //śāstra,// anyone who has no self-realization, he's animal. //Yasyātma-buddhiḥ kuṇape tri-dhātuke// [SB 10.84.13]. If one is identifying with this body, "I am this body, which is made of three elements, //kapha, pitta, vāyu...//" //Yasyātma-buddhiḥ kuṇape tri-dhātuke. Tri-dhātuke,// this combination of three elements. //Sa eva go-kharaḥ:// he's animal.
 

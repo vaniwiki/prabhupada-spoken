@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.20 ======
 
----- dataentry spoken ----
-id_hidden        : 721125bg.hyd
-listtype_hidden  : Bg 2.20
-listdate_hidden  : 1972-11-25
-showdate_hidden  : 2023-11-25
-listplace_hidden : Hyderabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 25
-Year_spoken      : 1972
-Place_spoken     : Hyderabad
-Length_hidden    : 52:11
-Title_hidden     : Bhagavad-gītā 2.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721125bg.hyd.mp3|Bg 2.20 — November 25, 1972, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 
 > ...cin

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.21 ======
 
----- dataentry spoken ----
-id_hidden        : 741001sb.may
-listtype_hidden  : SB 1.8.21
-listdate_hidden  : 1974-10-01
-showdate_hidden  : 2023-10-01
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 1
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 40:39
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.21
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741001sb.may.mp3|SB 1.8.21 — October 1, 1974, Māyāpur}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse, etc.]
 

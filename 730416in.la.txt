@@ -9,24 +9,6 @@
 
 ====== Initiations ======
 
----- dataentry spoken ----
-id_hidden        : 730416in.la
-listtype_hidden  : Initiations
-listdate_hidden  : 1973-04-16
-showdate_hidden  : 2023-04-16
-listplace_hidden : Los Angeles
-Type_spoken      : Initiation
-Date_spoken      : April 16
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 15:34
-Title_hidden     : Initiations
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730416in.la.mp3|Initiations — April 16, 1973, Los Angeles}}
-</audio>
-
 [devotees chanting //japa// throughout]
 
 **Prabhupāda:**

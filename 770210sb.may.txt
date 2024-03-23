@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.1 ======
 
----- dataentry spoken ----
-id_hidden        : 770210sb.may
-listtype_hidden  : SB 7.9.1
-listdate_hidden  : 1977-02-10
-showdate_hidden  : 2023-02-10
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 10
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 16:48
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770210sb.may.mp3|SB 7.9.1 — February 10, 1977, Māyāpur}}
-</audio>
-
 **Pradyumna:**
 
 > śrī-nārada uvāca...

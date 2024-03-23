@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.67 ======
 
----- dataentry spoken ----
-id_hidden        : 750903sb.vrn
-listtype_hidden  : SB 6.1.67
-listdate_hidden  : 1975-09-03
-showdate_hidden  : 2023-09-03
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 3
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 22:26
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.67
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750903sb.vrn.mp3|SB 6.1.67 — September 3, 1975, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Go on.
 

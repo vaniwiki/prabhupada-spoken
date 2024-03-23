@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Roger Maria ======
 
----- dataentry spoken ----
-id_hidden        : 740612r1.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-12
-showdate_hidden  : 2023-06-12
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : June 12
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 97:58
-Title_hidden     : Room Conversation with Roger Maria, leading writer of Communist literature
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740612r1.par.mp3|Room Conversation with Roger Maria — June 12, 1974, Paris}}
-</audio>
-
 **Jyotirmayī:**
 ...in France amongst the Communist students, the Communist Indian students. And I said that he is also a literary critic. That means that he is writing a lot of articles in the newspaper and explaining many things on the literary circles in France. He also knows very much about Gandhi philosophy. He has been writing a lot about Gandhi's philosophy. So when he knew that you were with Gandhi, he became very interested.
 

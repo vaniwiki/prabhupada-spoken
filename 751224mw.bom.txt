@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751224mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-12-24
-showdate_hidden  : 2023-12-24
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : December 24
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 35:01
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751224mw.bom.mp3|Morning Walk — December 24, 1975, Bombay}}
-</audio>
-
 **Dr. Patel:**
 But we are sitting here [Hindi].
 

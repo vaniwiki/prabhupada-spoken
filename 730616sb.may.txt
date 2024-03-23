@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.10.1 ======
 
----- dataentry spoken ----
-id_hidden        : 730616sb.may
-listtype_hidden  : SB 1.10.1
-listdate_hidden  : 1973-06-16
-showdate_hidden  : 2023-06-16
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 16
-Year_spoken      : 1973
-Place_spoken     : Māyāpur
-Length_hidden    : 31:40
-Title_hidden     : Śrīmad-Bhāgavatam 1.10.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730616sb.may.mp3|SB 1.10.1 — June 16, 1973, Māyāpur}}
-</audio>
-
 **Pradyumna:**
 
 > śaunaka uvāca

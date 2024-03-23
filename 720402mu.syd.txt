@@ -9,24 +9,6 @@
 
 ====== Hari Hari Biphale ======
 
----- dataentry spoken ----
-id_hidden        : 720402mu.syd
-listtype_hidden  : Hari Hari Biphale
-listdate_hidden  : 1972-04-02
-showdate_hidden  : 2023-04-02
-listplace_hidden : Sydney 
-Type_spoken      : Song Purport
-Date_spoken      : April 2
-Year_spoken      : 1972
-Place_spoken     : Sydney 
-Length_hidden    : 13:09
-Title_hidden     : Hari Hari Biphale
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720402mu.syd.mp3|Hari Hari Biphale — April 2, 1972, Sydney }}
-</audio>
-
 **Prabhupāda:**
 
 > hari hari! bifale janama goṅāinu

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751218mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-12-18
-showdate_hidden  : 2023-12-18
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : December 18
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 56:59
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751218mw.bom.mp3|Morning Walk — December 18, 1975, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ....very enthusiastic.
 

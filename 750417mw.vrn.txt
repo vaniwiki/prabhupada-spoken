@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750417mw.vrn
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-04-17
-showdate_hidden  : 2023-04-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : April 17
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 01:44
-Title_hidden     : Morning Walk [Partially Recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750417mw.vrn.mp3|Morning Walk — April 17, 1975, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...there is no possiblity. Tell them, this United Nation Organization, that "You are all bogus. You cannot do it. Come to this platform, and you'll be able." They have proved themselves bogus for the last twenty-five years, I think. They started in 1947? Huh?
 

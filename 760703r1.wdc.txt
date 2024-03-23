@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760703r1.wdc
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-03
-showdate_hidden  : 2023-07-03
-listplace_hidden : Washington, D.C.
-Type_spoken      : Room Conversation
-Date_spoken      : July 3
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 09:04
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760703r1.wdc.mp3|Room Conversation — July 3, 1976, Washington, D.C.}}
-</audio>
-
 **Bṛṣākapi:**
 ...we have ordered. They will be arriving in two months. Also we have Prabhupāda-Bhaktisiddhānta deities. They will be coming also. We will be the first in America to have Prabhupāda, Bhaktisiddhānta and Sītā-Rāma.
 

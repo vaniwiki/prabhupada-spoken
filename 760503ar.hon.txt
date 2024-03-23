@@ -9,24 +9,6 @@
 
 ====== Arrival ======
 
----- dataentry spoken ----
-id_hidden        : 760503ar.hon
-listtype_hidden  : Arrival
-listdate_hidden  : 1976-05-03
-showdate_hidden  : 2023-05-03
-listplace_hidden : Honolulu
-Type_spoken      : Lecture
-Date_spoken      : May 3
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 03:52
-Title_hidden     : Arrival
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760503ar.hon.mp3|Arrival — May 3, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 
 > ...niścayād

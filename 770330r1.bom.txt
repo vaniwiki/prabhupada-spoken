@@ -9,24 +9,6 @@
 
 ====== Room Conversation First Day in Juhu Quarters ======
 
----- dataentry spoken ----
-id_hidden        : 770330r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-03-30
-showdate_hidden  : 2023-03-30
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : March 30
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 23:53
-Title_hidden     : Room Conversation First Day in Juhu Quarters
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770330r1.bom.mp3|Room Conversation First Day in Juhu Quarters — March 30, 1977, Bombay}}
-</audio>
-
 **Gargamuni:**
 One section room was dictation, one section cooking, one section editing. So this is more on a grand style.
 

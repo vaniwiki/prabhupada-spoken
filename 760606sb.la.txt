@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.40 ======
 
----- dataentry spoken ----
-id_hidden        : 760606sb.la
-listtype_hidden  : SB 6.1.40
-listdate_hidden  : 1976-06-06
-showdate_hidden  : 2023-06-06
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 6
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 25:51
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.40
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760606sb.la.mp3|SB 6.1.40 — June 6, 1976, Los Angeles}}
-</audio>
-
 **Pradyumna: **"The Yamadūtas replied: That which is prescribed in the //Vedas// constitutes //dharma,// the religious principles, and the opposite of that is irreligion. The //Vedas// are directly the Supreme Personality of Godhead, Nārāyaṇa, and are self-born. This we have heard from Yamarāja."
 
 **Prabhupāda:**

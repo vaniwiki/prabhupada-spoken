@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.9.16 ======
 
----- dataentry spoken ----
-id_hidden        : 720505sb.tok
-listtype_hidden  : SB 2.9.16
-listdate_hidden  : 1972-05-05
-showdate_hidden  : 2023-05-05
-listplace_hidden : Tokyo
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 5
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 35:45
-Title_hidden     : Śrīmad-Bhāgavatam 2.9.16
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720505sb.tok.mp3|SB 2.9.16 — May 5, 1972, Tokyo}}
-</audio>
-
 **Devotees:**
 [taking turns in leading chanting; Prabhupāda correcting pronunciation] [Prabhupāda and devotees repeat]
 

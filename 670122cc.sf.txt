@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 25.31–38 ======
 
----- dataentry spoken ----
-id_hidden        : 670122cc.sf
-listtype_hidden  : Cc. Madhya 25.31–38
-listdate_hidden  : 1967-01-22
-showdate_hidden  : 2023-01-22
-listplace_hidden : San Francisco
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : January 22
-Year_spoken      : 1967
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 25.31–38
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670122cc.sf.mp3|Cc. Madhya 25.31-38 — January 22, 1967, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 ...Lord Caitanya Mahāprabhu the disciple of Prakāśānanda Sarasvatī is quoting one verse from //Śrīmad-Bhāgavatam// in which it is said that simply for understanding, if you waste your time, but if you do not practically apply yourself, then it is simply a waste of time. There is a very nice story. In our college days in logic class of Professor Purnachandra Sen, he cited a very nice example, that a student approached his teacher and the contract was that he wanted to become a law student, lawyer, and the contracts were that when the student will appear in the court after being duly qualified as lawyer, then he will pay the remuneration of the student. This was the contract between the... So that the teacher may very quickly make him qualified. So teacher agreed, "Yes. I shall make you qualified within one year. So you have to pay me five million dollars," like that, something. So when he was qualified, passed his law examination, he said, "Now you come. You practice in the court." So he said, "No. I am not going to practice." "Then pay me." "How can I pay? If I practice, then I'll pay, but I am not going to practice."
 

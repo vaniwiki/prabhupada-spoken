@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Stow Lake ======
 
----- dataentry spoken ----
-id_hidden        : 680323me.sf
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1968-03-23
-showdate_hidden  : 2023-03-23
-listplace_hidden : San Francisco
-Type_spoken      : Morning Walk
-Date_spoken      : March 23
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Morning Walk at Stow Lake
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680323me.sf.mp3|Morning Walk at Stow Lake — March 23, 1968, San Francisco}}
-</audio>
-
 **Devotee [1] [girl]:**
 March 23rd, Stow Lake, walk with Swamiji.
 

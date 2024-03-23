@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Prof. Regamay ======
 
----- dataentry spoken ----
-id_hidden        : 740604r1.gen
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-04
-showdate_hidden  : 2023-06-04
-listplace_hidden : Geneva
-Type_spoken      : Room Conversation
-Date_spoken      : June 4
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 53:53
-Title_hidden     : Room Conversation with Prof. Regamay, Professor of Sanskrit at the University of Lausanne
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740604r1.gen.mp3|Room Conversation with Prof. Regamay — June 4, 1974, Geneva}}
-</audio>
-
 **Prabhupāda:**
 ...our books.
 

@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690417le.ny
-listtype_hidden  : Lecture
-listdate_hidden  : 1969-04-17
-showdate_hidden  : 2023-04-17
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : April 17
-Year_spoken      : 1969
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690417le.ny.mp3|Lecture — April 17, 1969, New York}}
-</audio>
-
 [Prabhupāda singing along with "Govindam" record]
 
 **Prabhupāda:**

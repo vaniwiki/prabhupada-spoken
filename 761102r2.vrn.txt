@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761102r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 2
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 03:25
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761102r2.vrn.mp3|Room Conversation — November 2, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 And they continually going on giving information---rocks and sand. Why do you take so much trouble of going to Mars and this? If your go.... It is already concluded that we shall give this, because they are already under the impression that all other planets are vacant. The same thing, after spending millions of dollars, they're giving the same verdict. So why do this business? Simply cheating. They're cheating their boss, that "We are making research." The result of research is the same. They're silent now, this Mars excursion?
 

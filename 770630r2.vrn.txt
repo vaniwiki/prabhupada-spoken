@@ -9,24 +9,6 @@
 
 ====== Conversation with Bhakti-caitanya Swami (New GBC) ======
 
----- dataentry spoken ----
-id_hidden        : 770630r2.vrn
-listtype_hidden  : Conversation with Bhakti-caitanya Swami (New GBC)
-listdate_hidden  : 1977-06-30
-showdate_hidden  : 2023-06-30
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 30
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 39:36
-Title_hidden     : Conversation with Bhakti-caitanya Swami (New GBC)
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770630r2.vrn.mp3|Conversation with Bhakti-caitanya Swami (New GBC) — June 30, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Because we are Hindu attached, so there is temporary contamination[?]. //Tāṁs titikṣasva bhārata// [[books:bg:2:14|[Bg. 2.14]]]: "Tolerate." Don't be puffed up, "Oh, after giving so many..." Oh.
 

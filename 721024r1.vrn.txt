@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 721024r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-10-24
-showdate_hidden  : 2023-10-24
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 24
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 08:20
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721024r1.vrn.mp3|Room Conversation — October 24, 1972, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Now in Vṛndāvana here is one temple... There is likely that they cannot [indistinct for several minutes]. Suppose everything is in our hand[?]. How to manage? Therefore accepting the main temple, you have to [indistinct] how to manage. This is between ourself. Suppose if Bharatpur Mahārāja after some time [indistinct]. In this temple also, I am making the important decisions. [break] ...is not in favor of any of the parties. So if they also come in our hands, it has to be [indistinct].
 

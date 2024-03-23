@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.6.8 ======
 
----- dataentry spoken ----
-id_hidden        : 761130sb.vrn
-listtype_hidden  : SB 5.6.8
-listdate_hidden  : 1976-11-30
-showdate_hidden  : 2023-11-30
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 30
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 27:45
-Title_hidden     : Śrīmad-Bhāgavatam 5.6.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761130sb.vrn.mp3|SB 5.6.8 — November 30, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [leads chanting, etc.]
 

@@ -9,24 +9,6 @@
 
 ====== Room and Car Conversation with Life Member, Mr. Malhotra ======
 
----- dataentry spoken ----
-id_hidden        : 761222r1.poo
-listtype_hidden  : Room and Car Conversation with Life Member, Mr. Malhotra
-listdate_hidden  : 1976-12-22
-showdate_hidden  : 2023-12-22
-listplace_hidden : Poona
-Type_spoken      : Room Conversation
-Date_spoken      : December 22
-Year_spoken      : 1976
-Place_spoken     : Poona
-Length_hidden    : 128:30
-Title_hidden     : Room and Car Conversation with Life Member, Mr. Malhotra
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761222r1.poo.mp3|Room and Car Conversation with Life Member, Mr. Malhotra — December 22, 1976, Poona}}
-</audio>
-
 **Prabhupāda:**
 Because you cannot do like this. Kṛṣṇa says that //mattaḥ parataraṁ nānyat kiñcid asti dhanañjaya// [[books:bg:7:7|[Bg. 7.7]]]: "Nobody is superior than Me." That is Kṛṣṇa. Are you able to become superior of everyone?
 

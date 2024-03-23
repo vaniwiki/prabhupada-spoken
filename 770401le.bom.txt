@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 770401le.bom
-listtype_hidden  : Lecture
-listdate_hidden  : 1977-04-01
-showdate_hidden  : 2023-04-01
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : April 1
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 09:21
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770401le.bom.mp3|Lecture — April 1, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...and shall remain up to eight. So our //darśana// and talks, if there is any, generally, every day it will be done. And on Sunday you can fix up some time. I will speak in the evening. And then Kṛṣṇa's desire, as He likes. For the time being, this arrangement.
 

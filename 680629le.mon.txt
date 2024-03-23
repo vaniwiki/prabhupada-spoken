@@ -9,24 +9,6 @@
 
 ====== Lecture [Partially Recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 680629le.mon
-listtype_hidden  : Lecture [Partially Recorded]
-listdate_hidden  : 1968-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : June 29
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680629le.mon.mp3|Lecture [Partially Recorded] — June 29, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 //...ātmā// and Paramātmā the same, but quantitatively //ātmā// and Paramātmā different. So the Supersoul is present everywhere. Supersoul is present within you, Supersoul is present within me, Supersoul is present in all ladies and gentlemen, boys and girls present here. But //ātmā// is individual //ātmā.// He is present in his body. For example, that you can feel what is happening in your body, the pleasure and pains of your body you can feel, but you cannot feel the pleasure and pains of other's body; therefore you are individual. Others are also individual. And the Paramātmā, He is everywhere. //Aṇḍāntara-stha-paramāṇu-cayāntara-stham// [Bs. 5.35]. This //ātmā// and Paramātmā, //kṣetra, kṣetrajña// is very nicely explained in the Thirteenth Chapter of //Bhagavad-gītā.// You'll profit by reading that. The Lord says that this body is //kṣetra. Kṣetra// means the field of activities. Everyone is acting according to the body he has got by the grace of material nature. So the body is the field of activity, and you or me, //ātmā,// we are the proprietor of the body. We are called //kṣetrajña.// And Kṛṣṇa says, //kṣetra-jñaṁ cāpi māṁ viddhi sarve kṣetreṣu bhārata.// Now I am present in my body, you are present in your body, but the Paramātmā, or Supersoul, is present in everyone's body. Another example can be given. Just like this house, there are many apartments. So I am occupying this apartment, another tenant is occupying another apartment. But the landlord is occupier or the proprietor of all the apartments. That is the difference between //ātmā// and Paramātmā. I am proprietor of the things which has been offered to me by material nature, but God, or Paramātmā is the proprietor of everything. That is the difference. //Prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ// [[books:bg:3:27|[Bg. 3.27]]]. //Prakṛti,// the material nature, is offering me as I want. She is supplying ingredients. If I want to be human being, then she supplies a similar body, and if I want to become a dog, she supplies similar body.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.7 ======
 
----- dataentry spoken ----
-id_hidden        : 750615sb.hon
-listtype_hidden  : SB 6.1.7
-listdate_hidden  : 1975-06-15
-showdate_hidden  : 2023-06-15
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 15
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 42:58
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750615sb.hon.mp3|SB 6.1.7 — June 15, 1975, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [chants with devotees responding] [chants verse word for word with devotees responding]
 

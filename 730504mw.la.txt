@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730504mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-05-04
-showdate_hidden  : 2023-05-04
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : May 4
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 43:33
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730504mw.la.mp3|Morning Walk — May 4, 1973, Los Angeles}}
-</audio>
-
 **Svarūpa Dāmodara:**
 [introducing recording] April [wrong month] 4, 1973, Los Angeles. [break] Brahmānanda Mahārāja.
 

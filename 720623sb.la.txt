@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.25 ======
 
----- dataentry spoken ----
-id_hidden        : 720623sb.la
-listtype_hidden  : SB 2.3.25
-listdate_hidden  : 1972-06-23
-showdate_hidden  : 2023-06-23
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 23
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 28:09
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.25
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720623sb.la.mp3|SB 2.3.25 — June 23, 1972, Los Angeles}}
-</audio>
-
 **Pradyumna:** Translation: "O Sūta Gosvāmī, your words are pleasing to our minds. Please therefore explain this to us as it was spoken by the great devotee Śukadeva Gosvāmī, who is very expert in transcendental knowledge, and who spoke to Mahārāja Parīkṣit upon being asked." [[books:sb:2:3:25|[SB 2.3.25]]]
 
 **Prabhupāda:**

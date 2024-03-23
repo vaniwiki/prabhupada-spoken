@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760203mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-02-03
-showdate_hidden  : 2023-02-03
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : February 3
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 44:13
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760203mw.may.mp3|Morning Walk — February 3, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...in Europe and America, but they haven't got house like this. Have you got?
 

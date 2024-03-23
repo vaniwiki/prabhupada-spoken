@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
----- dataentry spoken ----
-id_hidden        : 740524sb.rom
-listtype_hidden  : SB 1.2.6
-listdate_hidden  : 1974-05-24
-showdate_hidden  : 2023-05-24
-listplace_hidden : Rome
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 24
-Year_spoken      : 1974
-Place_spoken     : Rome
-Length_hidden    : 49:53
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740524sb.rom.mp3|SB 1.2.6 — May 24, 1974, Rome}}
-</audio>
-
 [//kīrtana//] [poor recording]
 
 [00:45] [break]

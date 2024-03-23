@@ -9,24 +9,6 @@
 
 ====== Sannyāsa Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730126in.cal
-listtype_hidden  : Sannyāsa Initiation Lecture
-listdate_hidden  : 1973-01-26
-showdate_hidden  : 2023-01-26
-listplace_hidden : Calcutta
-Type_spoken      : Initiation
-Date_spoken      : January 26
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 27:14
-Title_hidden     : Sannyāsa Initiation Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730126in.cal.mp3|Sannyāsa Initiation Lecture — January 26, 1973, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 ... and //sat// means //om tat sat,// the Absolute Truth. //Sannyāsa.//
 

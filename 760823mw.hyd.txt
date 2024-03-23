@@ -9,24 +9,6 @@
 
 ====== Morning Walk in Public Gardens ======
 
----- dataentry spoken ----
-id_hidden        : 760823mw.hyd
-listtype_hidden  : Morning Walk in Public Gardens
-listdate_hidden  : 1976-08-23
-showdate_hidden  : 2023-08-23
-listplace_hidden : Hyderabad
-Type_spoken      : Morning Walk
-Date_spoken      : August 23
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 43:34
-Title_hidden     : Morning Walk in Public Gardens
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760823mw.hyd.mp3|Morning Walk in Public Gardens — August 23, 1976, Hyderabad}}
-</audio>
-
 **Mahāṁsa:**
 It's just a club for children, for playing. That's all. [break]
 

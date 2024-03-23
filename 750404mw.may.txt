@@ -9,24 +9,6 @@
 
 ====== Morning Walk [World War III] ======
 
----- dataentry spoken ----
-id_hidden        : 750404mw.may
-listtype_hidden  : Morning Walk [World War III]
-listdate_hidden  : 1975-04-04
-showdate_hidden  : 2023-04-04
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : April 4
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 31:57
-Title_hidden     : Morning Walk [World War III]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750404mw.may.mp3|Morning Walk [World War III] — April 4, 1975, Māyāpur}}
-</audio>
-
 **Rūpānuga:**
 [indistinct] Intoxication.
 

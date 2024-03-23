@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.21 ======
 
----- dataentry spoken ----
-id_hidden        : 730413sb.ny
-listtype_hidden  : SB 1.8.21
-listdate_hidden  : 1973-04-13
-showdate_hidden  : 2023-04-13
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 13
-Year_spoken      : 1973
-Place_spoken     : New York
-Length_hidden    : 32:41
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.21
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730413sb.ny.mp3|SB 1.8.21 — April 13, 1973, New York}}
-</audio>
-
 **Pradyumna: **Translation: "Let me therefore offer my respectful obeisances unto the Lord, who has become the son of Vasudeva, the pleasure of Devakī, the boy of Nanda and the other cowherd men of Vṛndāvana, and the enlivener of the cows and senses." [[books:sb:1:8:21|[SB 1.8.21]]]
 
 **Prabhupāda:**

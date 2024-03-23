@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.4 ======
 
----- dataentry spoken ----
-id_hidden        : 721219bg.bom
-listtype_hidden  : Bg 7.4
-listdate_hidden  : 1972-12-19
-showdate_hidden  : 2023-12-19
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 19
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 42:24
-Title_hidden     : Bhagavad-gītā 7.4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721219bg.bom.mp3|Bg 7.4 — December 19, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > ...vāyuḥkhaṁ mano buddhir eva ca

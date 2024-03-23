@@ -9,24 +9,6 @@
 
 ====== Morning Walk [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 750817mw.bom
-listtype_hidden  : Morning Walk [partially recorded]
-listdate_hidden  : 1975-08-17
-showdate_hidden  : 2023-08-17
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : August 17
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 05:28
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750817mw.bom.mp3|Morning Walk [partially recorded] — August 17, 1975, Bombay}}
-</audio>
-
 **Prabhupāda:**
 This side is going to be constructed.
 

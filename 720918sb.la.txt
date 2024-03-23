@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.3.13 ======
 
----- dataentry spoken ----
-id_hidden        : 720918sb.la
-listtype_hidden  : SB 1.3.13
-listdate_hidden  : 1972-09-18
-showdate_hidden  : 2023-09-18
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 18
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 41:46
-Title_hidden     : Śrīmad-Bhāgavatam 1.3.13
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720918sb.la.mp3|SB 1.3.13 — September 18, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. [sings of //Jaya Rādhā-Mādhava//] [//prema-dhvani//] Thank you very much.
 

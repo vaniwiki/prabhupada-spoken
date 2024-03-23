@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 770121le.bhu
-listtype_hidden  : Lecture
-listdate_hidden  : 1977-01-21
-showdate_hidden  : 2023-01-21
-listplace_hidden : Bhubaneswar
-Type_spoken      : Lecture
-Date_spoken      : January 21
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 07:39
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770121le.bhu.mp3|Lecture — January 21, 1977, Bhubaneswar}}
-</audio>
-
 [Gaura-Govinda translates into Oriya throughout]
 
 **Prabhupāda:**

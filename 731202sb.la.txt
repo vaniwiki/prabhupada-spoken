@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.15.22–23 ======
 
----- dataentry spoken ----
-id_hidden        : 731202sb.la
-listtype_hidden  : SB 1.15.22–23
-listdate_hidden  : 1973-12-02
-showdate_hidden  : 2023-12-02
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 2
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 40:20
-Title_hidden     : Śrīmad-Bhāgavatam 1.15.22–23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731202sb.la.mp3|SB 1.15.22-23 — December 2, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [leads singing of //Jaya Rādhā-Mādhava//] [//prema-dvani// prayers] Thank you very much.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.2 ======
 
----- dataentry spoken ----
-id_hidden        : 740526sb.rom
-listtype_hidden  : SB 1.2.2
-listdate_hidden  : 1974-05-26
-showdate_hidden  : 2023-05-26
-listplace_hidden : Rome
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 26
-Year_spoken      : 1974
-Place_spoken     : Rome
-Length_hidden    : 40:16
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740526sb.rom.mp3|SB 1.2.2 — May 26, 1974, Rome}}
-</audio>
-
 **Prabhupāda:**
 Where is Dhanañjaya? Dhanañjaya?
 

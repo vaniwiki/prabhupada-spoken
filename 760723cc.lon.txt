@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.113 ======
 
----- dataentry spoken ----
-id_hidden        : 760723cc.lon
-listtype_hidden  : Cc. Madhya 20.113
-listdate_hidden  : 1976-07-23
-showdate_hidden  : 2023-07-23
-listplace_hidden : London
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : July 23
-Year_spoken      : 1976
-Place_spoken     : London
-Length_hidden    : 28:42
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.113
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760723cc.lon.mp3|Cc. Madhya 20.113 — July 23, 1976, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [chants verse, etc.]
 

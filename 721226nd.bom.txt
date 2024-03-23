@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721226nd.bom
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-12-26
-showdate_hidden  : 2023-12-26
-listplace_hidden : Bombay
-Type_spoken      : Nectar of Devotion
-Date_spoken      : December 26
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 40:24
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721226nd.bom.mp3|The Nectar of Devotion — December 26, 1972, Bombay}}
-</audio>
-
 **Pradyumna:**
 [reading:] "...who was later to become Śrīla Sanātana Gosvāmī, took advantage of his brother's personal money, which had been deposited with a village banker, and escaped from the prison of Hussain Shah. In this way, both brothers joined Lord Caitanya Mahāprabhu.
 

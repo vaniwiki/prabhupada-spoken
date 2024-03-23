@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Vrindavan De ======
 
----- dataentry spoken ----
-id_hidden        : 770706r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-06
-showdate_hidden  : 2023-07-06
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 5
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 133:40
-Title_hidden     : Room Conversation with Vrindavan De
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770706r1.vrn.mp3|Room Conversation with Vrindavan De — July 5, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...but still, I have given you chance. So you want simply... Just like a widow. We... But we want that you may not be disturbed. Go ahead. Do business and have big building. Everyone's constructing big, big building, Marwaris. Why you cannot do? You have been given all chance. //Yogināṁ puruṣam upaiti lakṣmīm.// Unless one is dedicated, a //yogī,// very endeavoring... So we have showed a //yogī// endeavoring. Seventy years old, I was here in Vṛndāvana, and I came. For ten years I worked. Now see. All over the world I have got hundreds of buildings like this. I am the same man. At least one hundred temples we have, only by working ten years. So there must be capacity, there must be endeavor, there must be good fortune. Then everything will be... It is not that you simply desire and it will drop from the sky. That is not possible. Hmm? Arjuna fought the Battle of Kurukṣetra. Kṛṣṇa never advised him, "No, I am your friend. I shall do everything. You sit down and sleep." "You have to fight!" And Kṛṣṇa is merciful. He gives him... The two things required: //utsāhān dhairyāt niścayāt tat-tat-karma-pravart...// [//Upadeśāmṛta// 3]. If you have no capacity, you cannot expect to become very rich or learned, or very... That is not possible. It is not your capacity. Just like within this land there is gold, but you have to dig it. That is mine. And if you smell, "Ah, there is gold here," will you get gold? You are fortunate. You have got a place. Here is gold. But you have to dig it. You have to work. "No, I shall smell, and gold will come." That is not... So don't be worried. You'll be allowed to stay here. But I cannot transfer the property to your mother's name. Then your brother will spoil. And otherwise you are... I am not going to lease them.
 

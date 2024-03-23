@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760619mw.tor
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-06-19
-showdate_hidden  : 2023-06-19
-listplace_hidden : Toronto
-Type_spoken      : Morning Walk
-Date_spoken      : June 19
-Year_spoken      : 1976
-Place_spoken     : Toronto
-Length_hidden    : 20:06
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760619mw.tor.mp3|Morning Walk — June 19, 1976, Toronto}}
-</audio>
-
 **Prabhupāda:**
 ...to live like them, to dance like them, to dress like them, to smoke like them, to stand like them. [laughter]
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760519r1.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-19
-showdate_hidden  : 2023-05-19
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : May 19
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 13:27
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760519r1.hon.mp3|Room Conversation — May 19, 1976, Honolulu}}
-</audio>
-
 [audio very indistinct throughout]
 
 **Prabhupāda:**

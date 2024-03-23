@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 690412rc.ny
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1969-04-12
-showdate_hidden  : 2023-04-12
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : April 12
-Year_spoken      : 1969
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690412rc.ny.mp3|Room Conversation — April 12, 1969, New York}}
-</audio>
-
 **Brahmānanda:**
 It's the capital.
 

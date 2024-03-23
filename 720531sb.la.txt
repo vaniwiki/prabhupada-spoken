@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.14–15 ======
 
----- dataentry spoken ----
-id_hidden        : 720531sb.la
-listtype_hidden  : SB 2.3.14–15
-listdate_hidden  : 1972-05-31
-showdate_hidden  : 2023-05-31
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 31
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 40:32
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.14–15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720531sb.la.mp3|SB 2.3.14-15 — May 31, 1972, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// Page 142, text number 14. [leads chanting of verse] We already chanted yesterday, so I will just chant all the lines. [Prabhupāda and devotees repeat]
 

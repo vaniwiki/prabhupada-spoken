@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.11 ======
 
----- dataentry spoken ----
-id_hidden        : 750211bg.mex
-listtype_hidden  : Bg 2.11
-listdate_hidden  : 1975-02-11
-showdate_hidden  : 2023-02-11
-listplace_hidden : Mexico City
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 11
-Year_spoken      : 1975
-Place_spoken     : Mexico City
-Length_hidden    : 42:30
-Title_hidden     : Bhagavad-gītā 2.11 [with Spanish translator]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750211bg.mex.mp3|Bg 2.11 — February 11, 1975, Mexico City}}
-</audio>
-
 **Nitāi:**
 [leads chanting of verse, etc.]
 

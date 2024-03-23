@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750315mw.teh
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-03-15
-showdate_hidden  : 2023-03-15
-listplace_hidden : Tehran
-Type_spoken      : Morning Walk
-Date_spoken      : March 15
-Year_spoken      : 1975
-Place_spoken     : Tehran
-Length_hidden    : 05:51
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750315mw.teh.mp3|Morning Walk — March 15, 1975, Tehran}}
-</audio>
-
 **Prabhupāda:**
 Fools, they assemble together, and people are unhappy. Democracy. Eh? Communist?
 

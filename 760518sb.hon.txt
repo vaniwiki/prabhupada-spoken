@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.18 ======
 
----- dataentry spoken ----
-id_hidden        : 760518sb.hon
-listtype_hidden  : SB 6.1.18
-listdate_hidden  : 1976-05-18
-showdate_hidden  : 2023-05-18
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 18
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 16:31
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760518sb.hon.mp3|SB 6.1.18 — May 18, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 //Śrīmad-Bhāgavatam,// Sixth Canto, Chapter Three, verse number eighteen. [leads devotees in chanting]
 

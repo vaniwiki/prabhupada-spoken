@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.2 ======
 
----- dataentry spoken ----
-id_hidden        : 710816sb.lon
-listtype_hidden  : SB 1.1.2
-listdate_hidden  : 1971-08-16
-showdate_hidden  : 2023-08-16
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 16
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710816sb.lon.mp3|SB 1.1.2 — August 16, 1971, London}}
-</audio>
-
 **Devotee:**
 //...śivadam...//
 

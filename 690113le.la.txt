@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 690113le.la
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1969-01-13
-showdate_hidden  : 2023-01-13
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : January 13
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690113le.la.mp3|Lecture [partially recorded] — January 13, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 We are all in ignorance, in the darkness of ignorance. //Ajñāna-timirāndhasya.// So the disciple is praying that "I am... I was in the darkness of ignorance," but //jñānāñjana-śalākayā,// "but you have opened my eyes by the torture of knowledge..." Not... What is called? "Torch," "torch of knowledge." //Ajñāna-timirāndhasya jñānāñjana-śalākayā, cakṣur-unmīlitaṁ yena:// "One who has opened my eyes in that way," //tasmai śrī gurave namaḥ,// "I offer my respectful obeisances unto my spiritual master."
 

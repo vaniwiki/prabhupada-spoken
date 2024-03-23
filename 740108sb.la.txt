@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.16.11 ======
 
----- dataentry spoken ----
-id_hidden        : 740108sb.la
-listtype_hidden  : SB 1.16.11
-listdate_hidden  : 1974-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 8
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 45:47
-Title_hidden     : Śrīmad-Bhāgavatam 1.16.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740108sb.la.mp3|SB 1.16.11 — January 8, 1974, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 So what is the arrangement? [break] //Maṇḍapa,// it is being trampled by children and others, with the dust of their feet, and God will come there.
 

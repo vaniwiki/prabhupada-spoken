@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.2.7 ======
 
----- dataentry spoken ----
-id_hidden        : 750910sb.vrn
-listtype_hidden  : SB 6.2.7
-listdate_hidden  : 1975-09-10
-showdate_hidden  : 2023-09-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 10
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 26:22
-Title_hidden     : Śrīmad-Bhāgavatam 6.2.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750910sb.vrn.mp3|SB 6.2.7 — September 10, 1975, Vṛndāvana}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya.// [devotees repeat] Sixth Canto, Second Chapter, verse number seven. [leads chanting of verse, etc.]
 

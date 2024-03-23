@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750716mw.sf
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : San Francisco
-Type_spoken      : Morning Walk
-Date_spoken      : July 16
-Year_spoken      : 1975
-Place_spoken     : San Francisco
-Length_hidden    : 31:34
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750716mw.sf.mp3|Morning Walk — July 16, 1975, San Francisco}}
-</audio>
-
 **Nalinī-kaṇṭa:**
 No, American boys and girls.
 

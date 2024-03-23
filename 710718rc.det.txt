@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 710718rc.det
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-07-18
-showdate_hidden  : 2023-07-18
-listplace_hidden : Detroit
-Type_spoken      : Room Conversation
-Date_spoken      : July 18
-Year_spoken      : 1971
-Place_spoken     : Detroit
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710718rc.det.mp3|Room Conversation — July 18, 1971, Detroit}}
-</audio>
-
 **Mohsin Hassan:**
 ...quite, came four weeks ago, and I received the response from you. I think I had a [indistinct] with me, and you indicated that you would like to meet me and give me some hint, a suggestion for my thesis writing. So here I am first to introduce myself to you and hope to learn some more about the objective of the movement. Maybe I could put in the thesis.
 

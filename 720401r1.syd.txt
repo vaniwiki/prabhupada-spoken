@@ -9,24 +9,6 @@
 
 ====== Conversation with Author ======
 
----- dataentry spoken ----
-id_hidden        : 720401r1.syd
-listtype_hidden  : Conversation Author
-listdate_hidden  : 1972-04-01
-showdate_hidden  : 2023-04-01
-listplace_hidden : Sydney
-Type_spoken      : Room Conversation
-Date_spoken      : April 1
-Year_spoken      : 1972
-Place_spoken     : Sydney
-Length_hidden    : 33:09
-Title_hidden     : Conversation with Author
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720401r1.syd.mp3|Conversation with Author — April 1, 1972, Sydney}}
-</audio>
-
 **Prabhupāda:**
 And if still people are unhappy with this movement, then what can be done? [pause]
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk, Partial Recording ======
 
----- dataentry spoken ----
-id_hidden        : 740601mw.gen
-listtype_hidden  : Morning Walk, Partial Recording
-listdate_hidden  : 1974-06-01
-showdate_hidden  : 2023-06-01
-listplace_hidden : Geneva
-Type_spoken      : Morning Walk
-Date_spoken      : June 1
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 01:31
-Title_hidden     : Morning Walk [partial recording]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740601mw.gen.mp3|Morning Walk, Partial Recording — June 1, 1974, Geneva}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] [break].
 

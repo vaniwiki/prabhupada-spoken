@@ -9,24 +9,6 @@
 
 ====== Śrī Brahma-saṁhitā, Verse 33 ======
 
----- dataentry spoken ----
-id_hidden        : 710719bs.ny
-listtype_hidden  : Bs. 33
-listdate_hidden  : 1971-07-19
-showdate_hidden  : 2023-07-19
-listplace_hidden : New York
-Type_spoken      : Śrī Brahma-saṁhitā
-Date_spoken      : July 19
-Year_spoken      : 1971
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrī Brahma-saṁhitā, Verse 33
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710719bs.ny.mp3|Śrī Brahma-saṁhitā, Verse 33 — July 19, 1971, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > advaitam acyutam anādim ananta-rūpam

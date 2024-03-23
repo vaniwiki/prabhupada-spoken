@@ -9,24 +9,6 @@
 
 ====== Talk in Studio ======
 
----- dataentry spoken ----
-id_hidden        : 680313ta.sf
-listtype_hidden  : Talk in Studio
-listdate_hidden  : 1968-03-13
-showdate_hidden  : 2023-03-13
-listplace_hidden : San Francisco
-Type_spoken      : Room Conversation
-Date_spoken      : March 13
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Talk in Studio
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680313ta.sf.mp3|Talk in Studio — March 13, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 What is this maker, the trademark?
 

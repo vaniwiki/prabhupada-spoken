@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760503mw.fij
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-05-03
-showdate_hidden  : 2023-05-03
-listplace_hidden : Fiji
-Type_spoken      : Morning Walk
-Date_spoken      : May 3
-Year_spoken      : 1976
-Place_spoken     : Fiji
-Length_hidden    : 45:46
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760503mw.fij.mp3|Morning Walk — May 3, 1976, Fiji}}
-</audio>
-
 **Prabhupāda:**
 Never mind he's very nicely dressed. But because he is not surrendered soul to Kṛṣṇa, he is a miscreant. That's all. Beware of him.
 

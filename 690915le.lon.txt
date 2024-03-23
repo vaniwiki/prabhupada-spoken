@@ -9,24 +9,6 @@
 
 ====== Conway Hall Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690915le.lon
-listtype_hidden  : Conway Hall Lecture
-listdate_hidden  : 1969-09-15
-showdate_hidden  : 2023-09-15
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : September 15
-Year_spoken      : 1969
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Conway Hall Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690915le.lon.mp3|Conway Hall Lecture — September 15, 1969, London}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] Ladies and gentlemen, I thank you very much for your coming to this meeting, //saṅkīrtana// movement. This //saṅkīrtana// movement is very authorized, according to Vedic literature. Most of you are well acquainted with the studies of //Bhagavad-gītā.// And in the //Bhagavad-gītā// also you'll find,
 

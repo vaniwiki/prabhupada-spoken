@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 750211ar.mex
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1975-02-11
-showdate_hidden  : 2023-02-11
-listplace_hidden : Mexico City
-Type_spoken      : Lecture
-Date_spoken      : February 11
-Year_spoken      : 1975
-Place_spoken     : Mexico City
-Length_hidden    : 21:03
-Title_hidden     : Arrival Lecture [with Spanish translator]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750211ar.mex.mp3|Arrival Lecture — February 11, 1975, Mexico City}}
-</audio>
-
 [translated into Spanish throughout]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Morning Walk in Botanical Gardens ======
 
----- dataentry spoken ----
-id_hidden        : 750522mw.mel
-listtype_hidden  : Morning Walk in Botanical Gardens
-listdate_hidden  : 1975-05-22
-showdate_hidden  : 2023-05-22
-listplace_hidden : Melbourne
-Type_spoken      : Morning Walk
-Date_spoken      : May 22
-Year_spoken      : 1975
-Place_spoken     : Melbourne
-Length_hidden    : 21:53
-Title_hidden     : Morning Walk in Botanical Gardens
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750522mw.mel.mp3|Morning Walk in Botanical Gardens — May 22, 1975, Melbourne}}
-</audio>
-
 **Śrutakīrti:**
 [introducing recording] The following is Śrīla Prabhupāda's morning walk, which takes place in Melbourne, Australia, Botanical Gardens on May 22, 1975. [break]
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760205mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-02-05
-showdate_hidden  : 2023-02-05
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : February 5
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 24:39
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760205mw.may.mp3|Morning Walk — February 5, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...kinds of rascals.
 

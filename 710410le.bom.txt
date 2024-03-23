@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710410le.bom
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1971-04-10
-showdate_hidden  : 2023-04-10
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : April 10
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710410le.bom.mp3|Pandal Lecture — April 10, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] Ladies and gentlemen, [applause] we thank you very much for your kindly coming here and participating in this noble movement of Kṛṣṇa consciousness, or //saṅkīrtana// movement. You'll be very glad to know that today I have received one letter from my disciple, Śrīman Kṛṣṇadāsa //adhikārī,// the in-charge-of, commander, //maṭha-//command, or temple command, of West Berlin. He was negotiating with Russian Cultural Society, and one very important professor, he has invited us to lecture in Russia. [applause] So very soon I shall be going to Russia with some of my disciples. [applause]
 

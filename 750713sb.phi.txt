@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.28–29 ======
 
----- dataentry spoken ----
-id_hidden        : 750713sb.phi
-listtype_hidden  : SB 6.1.28–29
-listdate_hidden  : 1975-07-13
-showdate_hidden  : 2023-07-13
-listplace_hidden : Philadelphia
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 13
-Year_spoken      : 1975
-Place_spoken     : Philadelphia
-Length_hidden    : 29:32
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.28–29
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750713sb.phi.mp3|SB 6.1.28-29 — July 13, 1975, Philadelphia}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] //Śrīmad-Bhāgavatam,// Sixth Canto, First Chapter, verses 28 and 29. [leads chanting of verse, etc.]
 

@@ -9,24 +9,6 @@
 
 ====== Conversation with Dr. Shaligram Shukla [Part 2] ======
 
----- dataentry spoken ----
-id_hidden        : 760705r2.wdc
-listtype_hidden  : Conversation with Dr. Shaligram Shukla [Part 2]
-listdate_hidden  : 1976-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : Washington, D.C.
-Type_spoken      : Room Conversation
-Date_spoken      : July 5
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 40:52
-Title_hidden     : Conversation with Dr. Shaligram Shukla [Part 2]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760705r2.wdc.mp3|Conversation with Dr. Shaligram Shukla [Part 2] — July 5, 1976, Washington, D.C.}}
-</audio>
-
 **Dr. Shaligram Shukla:**
 There are certain hymns in //Vedas// which are so personal and [indistinct]. And I don't find anything in //Vedas// impersonal. As a matter of fact...
 

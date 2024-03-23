@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Prof. Servas ======
 
----- dataentry spoken ----
-id_hidden        : 750726r1.lb
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-07-26
-showdate_hidden  : 2023-07-26
-listplace_hidden : Laguna Beach
-Type_spoken      : Room Conversation
-Date_spoken      : July 26
-Year_spoken      : 1975
-Place_spoken     : Laguna Beach
-Length_hidden    : 98:08
-Title_hidden     : Room Conversation with Prof. Servas
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750726r1.lb.mp3|Room Conversation with Prof. Servas — July 26, 1975, Laguna Beach}}
-</audio>
-
 **Prabhupāda:**
 But everyone wants sunshine. Why in one place denied, and one place there is sunshine? You are not free. Even though you want sunshine, there is no sunshine. So how you feel free? You bring sunshine. But that is not happening. There is superior arrangement. So to accept that superior arrangement, that is real business, not to declare freedom falsely. That is not possible. If I say, "I am free from the law-abiding process, law given by government. I am free from the law of the government," that is not possible. If you become outlaw, then you will be arrested and put into jail. So what is the use of declaring that "I am free from the government laws"? There is no freedom. Whatever little freedom is given to us, if you utilize it properly, that is very nice. If we unnecessarily declare that "I am free from any obligation," that is madman's proposal. That is the mistake of the modern man, that especially in the Western countries, unnecessarily they are declaring freedom in so many ways. Unnecessarily. He is not free, but he is declaring. That is described in //Caitanya-caritāmṛta,// I think, or in some other. No? //Prema-vivarta.// Yes, there is a book, //Prema-vivarta://
 

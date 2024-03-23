@@ -9,24 +9,6 @@
 
 ====== Purport to Bhajahū Re Mana ======
 
----- dataentry spoken ----
-id_hidden        : 720527pu.la
-listtype_hidden  : Bhajahū Re Mana
-listdate_hidden  : 1972-05-27
-showdate_hidden  : 2023-05-27
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : May 27
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 15:38
-Title_hidden     : Purport to Bhajahū Re Mana
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720527pu.la.mp3|Purport to Bhajahū Re Mana — May 27, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 So this song was sung by Govinda dāsa. //Govinda-dāsa-abhilāsa re.// What is his desire? //Abhilāsa// means desire. //Bhajahū re mana śrī-nanda-nandana:// "My dear mind..." Because mind is our friend and enemy. If you train the mind, then mind is your best friend. And if you cannot train your mind, then will be your bitterest enemy. //Sa vai manaḥ kṛṣṇa-padāravindayoḥ// [[books:sb:9:4:18-20|[SB 9.4.18]]]. Therefore mind has always to be engaged on the lotus feet of Kṛṣṇa, then mind automatically will be controlled and will become friend.
 

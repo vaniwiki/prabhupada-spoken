@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690827in.ham
-listtype_hidden  : Initiation Lecture
-listdate_hidden  : 1969-08-27
-showdate_hidden  : 2023-08-27
-listplace_hidden : Hamburg
-Type_spoken      : Initiation
-Date_spoken      : August 27
-Year_spoken      : 1969
-Place_spoken     : Hamburg
-Length_hidden    : 00:00
-Title_hidden     : Initiation Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690827in.ham.mp3|Initiation Lecture — August 27, 1969, Hamburg}}
-</audio>
-
 **Prabhupāda:**
 
 > ...avidyā-karma-saṁjñānyā

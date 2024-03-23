@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.38 ======
 
----- dataentry spoken ----
-id_hidden        : 730430sb.la
-listtype_hidden  : SB 1.8.38
-listdate_hidden  : 1973-04-30
-showdate_hidden  : 2023-04-30
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 30
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 32:27
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.38
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730430sb.la.mp3|SB 1.8.38 — April 30, 1973, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse] [devotees repeat]
 

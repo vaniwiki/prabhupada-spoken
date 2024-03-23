@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.9.1–5 ======
 
----- dataentry spoken ----
-id_hidden        : 720430sb.tok
-listtype_hidden  : SB 2.9.1–5
-listdate_hidden  : 1972-04-30
-showdate_hidden  : 2023-04-30
-listplace_hidden : Tokyo
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 30
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 16:38
-Title_hidden     : Śrīmad-Bhāgavatam 2.9.1–5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720430sb.tok.mp3|SB 2.9.1-5 — April 30, 1972, Tokyo}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse] [devotees repeat]
 

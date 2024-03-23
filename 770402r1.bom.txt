@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770402r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-04-02
-showdate_hidden  : 2023-04-02
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 2
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 71:49
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770402r1.bom.mp3|Room Conversation — April 2, 1977, Bombay}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 So your answer to his question, "Do you consider the message of Jesus Christ to be universal?" You say yes.
 

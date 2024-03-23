@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681113le.la
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-11-13
-showdate_hidden  : 2023-11-13
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : November 13
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681113le.la.mp3|Lecture — November 13, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...introduced by the disciplic succession of Lord Caitanya, and this Narottama dāsa Ṭhākura who has sung this //hari hari biphale janama goṅāinu,// he's a famous //ācārya.// His compositions are accepted as Vedic truth. So this purport of this song is very nice. He's lamenting, appealing to Hari, the Lord. //Hari hari biphale janama goṅāinu:// "My dear Lord, I have uselessly spoiled my life." //Biphale// means uselessly, and //janama// means birth, and //goṅāinu// means "I have passed." He's representing a common man, as every one of us is simply spoiling our life. They do not know that they are spoiling their life. They are thinking that "I've got very nice apartment, very nice car, very nice wife, very nice income, very nice social position." So many things. These are the material attractions. //Gṛha-kṣetra-sutāpta-vittair.// [child crying] [aside:] Stop it. Oh, that's all... The attraction, material attraction, is stated in the //Śrīmad-Bhāgavatam// in many ways. In one place it is very nicely summarized what is this material attraction. The basic principle of material attraction is sex. [child crying] //Pumsaḥ striya mithuni-bhavam etam// [[books:sb:5:5:8|[SB 5.5.8]]]. A man is hankering after another woman, and the woman is hankering after another man. This is the basic principle of material life. //Puṁsaḥ striyā mithunī-bhāvam etam. Mithunī-bhāvam// means sex. //Tayor mitho hrdaya-granthim.// And when they actually come into sexual life, each one of them becomes too much attracted. //Hṛdaya-granthim. Granthi// means very hard knot: "I cannot leave you." He says, "I cannot leave you. You are my life and soul," and she says, "You are my life and soul." For a few days. [laughs] And then again divorce. You see? But the beginning is there. Basic principle of material attraction is this sex life. This is general. Those who have organized the sex life in social convention in so many ways... The marriage is also another convention to give a very finishing nice touch than the animal. That's all. Just like sometimes it is said marriage is legalized prostitution. So for social convention the marriage is a license, but it is also based on the sex life. But for keep up social life, one has to accept some regulative principle. Therefore sex life like animals and sex life in marriage, there is difference. It is better. That is accepted in civilized world.
 

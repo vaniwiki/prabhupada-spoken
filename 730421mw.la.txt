@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730421mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-04-21
-showdate_hidden  : 2023-04-21
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : April 21
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 50:39
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730421mw.la.mp3|Morning Walk — April 21, 1973, Los Angeles}}
-</audio>
-
 **Svarūpa Dāmodara:**
 [introducing recording] 1973, Los Angeles. Prabhupada's morning walk. April 21, 1973, Los Angeles. Prabhupada's morning walk.
 

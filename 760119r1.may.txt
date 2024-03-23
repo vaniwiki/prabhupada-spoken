@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760119r1.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-01-19
-showdate_hidden  : 2023-01-19
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : January 19
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 51:43
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760119r1.may.mp3|Room Conversation — January 19, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 The stricture of nature's law, that is science. Is it not? Scientific effort. They will never be able to do so, but still, they are... To stop death, birth, death, old age, is very major problem, but even in small things you cannot do anything. Everywhere you are dependent. And still, they are very much proud that they are advancing in scientific knowledge so that they can overcome the stringent laws of nature and so on, so on. //Durāśaya.// It is called //durāśaya,// hope which will never be fulfilled. Is it not? //Durāśaya. Śāstra, Bhāgavata,// says, //durāśaya.// This is their foolishness. They are expecting something which will never be fulfilled. Therefore //śāstra// says //durāśaya.// Now what they are doing about the moon planet?
 

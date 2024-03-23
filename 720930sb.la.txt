@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.3.25 ======
 
----- dataentry spoken ----
-id_hidden        : 720930sb.la
-listtype_hidden  : SB 1.3.25
-listdate_hidden  : 1972-09-30
-showdate_hidden  : 2023-09-30
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 30
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 37:25
-Title_hidden     : Śrīmad-Bhāgavatam 1.3.25
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720930sb.la.mp3|SB 1.3.25 — September 30, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Govindam ādi-puruṣaṁ.// [leads singing of //Jaya Rādhā-Mādhava//] [//prema-dhvani//] Thank you very much.
 

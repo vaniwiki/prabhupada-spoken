@@ -9,24 +9,6 @@
 
 ====== Śrī Vyāsa-pūjā Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 760819vp.hyd
-listtype_hidden  : Śrī Vyāsa-pūjā
-listdate_hidden  : 1976-08-19
-showdate_hidden  : 2023-08-19
-listplace_hidden : Hyderabad
-Type_spoken      : Lecture
-Date_spoken      : August 19
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 20:17
-Title_hidden     : Śrī Vyāsa-pūjā Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760819vp.hyd.mp3|Śrī Vyāsa-pūjā Lecture — August 19, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 Śrīpada Sampat Bhaṭṭācārya, Ladies and Gentlemen: I must thank you for your kindly coming here during this Vyāsa-pūjā ceremony. Vyāsa-pūjā... This //āsana// where they have seated me, it is called //vyāsāsana.// The //guru// is the representative of Vyāsadeva. Every one of you have heard the name of Vyāsadeva, Veda-vyāsa. So anyone who represents the great ācārya, Vyāsadeva, he is allowed to sit on the //vyāsāsana.// So Vyāsa-pūjā... //Guru// is representative of Vyāsadeva, therefore his birthday anniversary is accepted as Vyāsa-pūjā.
 

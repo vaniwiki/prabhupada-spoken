@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.21 ======
 
----- dataentry spoken ----
-id_hidden        : 741121sb.bom
-listtype_hidden  : SB 3.25.21
-listdate_hidden  : 1974-11-21
-showdate_hidden  : 2023-11-21
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 21
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 37:35
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.21
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741121sb.bom.mp3|SB 3.25.21 — November 21, 1974, Bombay}}
-</audio>
-
 **Nitāi:** "[The symptoms] ...of a sādhu are that he is tolerant, merciful and friendly to all living entities. He has no enemies, he is peaceful, he abides by the scriptures, and all his characteristics are sublime."
 
 **Prabhupāda:**

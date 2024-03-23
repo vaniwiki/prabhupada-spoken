@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Sister Mary ======
 
----- dataentry spoken ----
-id_hidden        : 720813r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-08-13
-showdate_hidden  : 2023-08-13
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : August 13
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 75:35
-Title_hidden     : Room Conversation with Sister Mary
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720813r1.lon.mp3|Room Conversation with Sister Mary — August 13, 1972, London}}
-</audio>
-
 **Revatīnandana:**
 So their residence place is not very far away, and she was curious. She came over a few days ago to find out more about Kṛṣṇa consciousness.
 

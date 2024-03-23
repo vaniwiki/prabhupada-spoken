@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 750519sb.mel
-listtype_hidden  : SB Lecture
-listdate_hidden  : 1975-05-19
-showdate_hidden  : 2023-05-19
-listplace_hidden : Melbourne
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 19
-Year_spoken      : 1975
-Place_spoken     : Melbourne
-Length_hidden    : 49:15
-Title_hidden     : Śrīmad-Bhāgavatam Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750519sb.mel.mp3|SB Lecture — May 19, 1975, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat]
 

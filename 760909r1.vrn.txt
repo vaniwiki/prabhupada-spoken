@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760909r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-09-09
-showdate_hidden  : 2023-09-09
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 9
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 11:39
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760909r1.vrn.mp3|Room Conversation — September 9, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...because as soon as the ship stopped, Commonwealth Pier, Boston, the Immigration Department came and took their papers. So I entered America in Boston. There was no checking in New York. The ship stopped in Boston. The official entrance was done there. Then when I came to New York, it is just like one day's travel.
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.7 ======
 
----- dataentry spoken ----
-id_hidden        : 680613bg.mon
-listtype_hidden  : Bg 4.7
-listdate_hidden  : 1968-06-13
-showdate_hidden  : 2023-06-13
-listplace_hidden : Montreal
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : June 13
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 4.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680613bg.mon.mp3|Bg 4.7 — June 13, 1968, Montreal}}
-</audio>
-
 [Kīrtana followed by //Prema-dhvani// prayers]
 
 **Prabhupāda:**

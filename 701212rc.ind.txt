@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 701212rc.ind
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1970-12-12
-showdate_hidden  : 2023-12-12
-listplace_hidden : Indore
-Type_spoken      : Room Conversation
-Date_spoken      : December 12
-Year_spoken      : 1970
-Place_spoken     : Indore
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701212rc.ind.mp3|Room Conversation — December 12, 1970, Indore}}
-</audio>
-
 **Prabhupāda:**
 For young man, the more he sleeps, he is dead. He's a dead body. A child, if he overeats, if he overeats, then it is not bad for him. So anyone overeats, it is bad, specially for old man. And if child gets diarrhea, it is good for him. When a old man gets diarrhea, it is death for him. Child gets diarrhea means whatever poisons he has acquired he gets out. His health becomes renovated. And old man, if he gets diarrhea, he loses his vitality. //Chele hange bastre guru hage mostre.//[?] These are the para... What is called? Common sayings? Parables? Oh, it is the time. They are not yet ready?
 

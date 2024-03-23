@@ -9,25 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.14 ======
 
----- dataentry spoken ----
-id_hidden        : 690618sb.nv # 
-listtype_hidden  : SB 1.5.14 # 
-listdate_hidden  : 1969-06-18
-showdate_hidden  : 2023-06-18 #
-listplace_hidden : New Vrindaban # 
-Type_spoken      : Śrīmad-Bhāgavatam # 
-Date_spoken      : June 18 # 
-Year_spoken      : 1969 # 
-Place_spoken     : New Vrindavan # 
-Length_hidden    : 00:00 # 
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.14 # 
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690618sb.nv.mp3|SB 1.5.14 — June 18, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 
 > tato 'nyathā kiñcana yad vivakṣataḥ

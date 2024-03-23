@@ -9,24 +9,6 @@
 
 ====== Preparation for Gītā Pratiṣṭhāna (Conference) ======
 
----- dataentry spoken ----
-id_hidden        : 761209r1.hyd
-listtype_hidden  : Preparation for Gītā Pratiṣṭhāna (Conference)
-listdate_hidden  : 1976-12-09
-showdate_hidden  : 2023-12-09
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : December 9
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 24:15
-Title_hidden     : Preparation for Gītā Pratiṣṭhāna [Conference]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761209r1.hyd.mp3|Preparation for Gītā Pratiṣṭhāna (Conference) — December 9, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 ...jail, it is not due to overpopulation. It is due to overcriminality. Similarly, whenever there is scarcity of supply or scarcity of food, it is not due to overpopulation. It is due to overcriminality or over-sinful activities. Due to over-sinful activities, not overpopulation. It is a bogus theory. That is stated, //tān ahaṁ dviṣataḥ krūrān// [[books:bg:16:19|[Bg. 16.19]]]. Those who are devils, who are demons...
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760415mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-04-15
-showdate_hidden  : 2023-04-15
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : April 15
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 58:33
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760415mw.bom.mp3|Morning Walk — April 15, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...detached to that, Jain. So he was advertising about that Jain Muni.
 

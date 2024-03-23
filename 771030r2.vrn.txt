@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771030r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-30
-showdate_hidden  : 2023-10-30
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 30
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 93:25
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771030r2.vrn.mp3|Room Conversation — October 30, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 ...about book sales and sells twelve to fifteen thousand rupees a month. It's very nice to see these foreign people coming to Vṛndāvana, having read your books, coming here. It's like a perfect fulfillment of your books. They're so much impressed with the subject matter that they want to see this Vṛndāvana. Especially they have read //Kṛṣṇa// book. To them Vṛndāvana is like a magical world.
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 3.17–20 ======
 
----- dataentry spoken ----
-id_hidden        : 660527bg.ny
-listtype_hidden  : Bg 3.17–20
-listdate_hidden  : 1966-05-27
-showdate_hidden  : 2023-05-27
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : May 27
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 3.17–20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660527bg.ny.mp3|Bg 3.17-20 — May 27, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 All glories to the assembled devotees. All glories to the assembled devotees. Thank you very much.
 

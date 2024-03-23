@@ -9,24 +9,6 @@
 
 ====== Interview with Journalists ======
 
----- dataentry spoken ----
-id_hidden        : 720811iv.lon
-listtype_hidden  : Interview
-listdate_hidden  : 1972-08-11
-showdate_hidden  : 2023-08-11
-listplace_hidden : London
-Type_spoken      : Interview
-Date_spoken      : August 11
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 37:33
-Title_hidden     : Interview with Journalists "God is the proprietor, God is the enjoyer and God is the maintainer"
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720811iv.lon.mp3|Interview with Journalists — August 11, 1972, London}}
-</audio>
-
 **Prabhupāda:**
 So far I am personally experienced, in our childhood there were not so many problems. Now India is faced with so many problems on account of imitating Western civilization.
 

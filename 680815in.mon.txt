@@ -9,24 +9,6 @@
 
 ====== Initiation of Rukmiṇī Dāsī ======
 
----- dataentry spoken ----
-id_hidden        : 680815in.mon
-listtype_hidden  : Initiation of Rukmiṇī Dāsī
-listdate_hidden  : 1968-08-15
-showdate_hidden  : 2023-08-15
-listplace_hidden : Montreal
-Type_spoken      : Initiation
-Date_spoken      : August 15
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Initiation of Rukmiṇī Dāsī
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680815in.mon.mp3|Initiation of Rukmiṇī Dāsī — August 15, 1968, Montreal}}
-</audio>
-
 **Note:**
 When Yamunā starts //kīrtana// with "Hare Kṛṣṇa," Prabhupāda stops her, saying, "//Vandanam. Vandanam.// Prayer. Prayer." Then Prabhupāda leads them in //Vande 'ham.// At end of prayer, Prabhupāda says, "Chant," and Yamunā starts leading Hare Kṛṣṇa //kīrtana.// Prabhupāda chants prayers to the Six Gosvāmīs by himself.]
 

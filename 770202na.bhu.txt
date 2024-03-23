@@ -9,24 +9,6 @@
 
 ====== Lord Nityānanda Prabhu’s Āvirbhāva Appearance Day ======
 
----- dataentry spoken ----
-id_hidden        : 770202na.bhu
-listtype_hidden  : Appearance Day
-listdate_hidden  : 1977-02-02
-showdate_hidden  : 2023-02-02
-listplace_hidden : Bhubaneswar
-Type_spoken      : Lecture
-Date_spoken      : February 2
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 28:03
-Title_hidden     : Lord Nityānanda Prabhu’s Āvirbhāva Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770202na.bhu.mp3|Lord Nityānanda Appearance Day — February 2, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 So today, the appearance day of Nityānanda Prabhu. Nityānanda Prabhu is Baladeva, Baladeva-tattva.
 

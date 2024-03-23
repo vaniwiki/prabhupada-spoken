@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.13.15 ======
 
----- dataentry spoken ----
-id_hidden        : 740604sb.gen
-listtype_hidden  : SB 1.13.15
-listdate_hidden  : 1974-06-04
-showdate_hidden  : 2023-06-04
-listplace_hidden : Geneva
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 4
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 26:16
-Title_hidden     : Śrīmad-Bhāgavatam 1.13.15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740604sb.gen.mp3|SB 1.13.15 — June 4, 1974, Geneva}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

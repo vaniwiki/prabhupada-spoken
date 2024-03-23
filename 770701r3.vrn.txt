@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770701r3.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 1
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 25:09
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770701r3.vrn.mp3|Room Conversation — July 1, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Yaśodāmāyi was always thinking of Him, "Here is my son. How to give protection? How to give Him food? How to..." She did not that He is God, but she knew... //Gopī// knows... He did not know what is Kṛṣṇa. They know "There is God." That's all. That God is in front of them, that they did not know. They thought, "Our beloved child, beloved friend, dearmost friend..." That's all, absorbed in Kṛṣṇa. That is the..., their purpose.
 

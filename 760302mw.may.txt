@@ -9,24 +9,6 @@
 
 ====== Morning Walk [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 760302mw.may
-listtype_hidden  : Morning Walk [partially recorded]
-listdate_hidden  : 1976-03-02
-showdate_hidden  : 2023-03-02
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : March 2
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 06:58
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760302mw.may.mp3|Morning Walk [partially recorded] — March 2, 1976, Māyāpur}}
-</audio>
-
 **Hṛdayānanda:**
 There is a... There is a problem to some extent, but I don't think it should be exaggerated...
 

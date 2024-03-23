@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.1, Engagement ======
 
----- dataentry spoken ----
-id_hidden        : 720803sb.lon
-listtype_hidden  : SB 5.5.1, Engagement
-listdate_hidden  : 1972-08-03
-showdate_hidden  : 2023-08-03
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 3
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 53:39
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.1 Engagement
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720803sb.lon.mp3|SB 5.5.1, Engagement — August 3, 1972, London}}
-</audio>
-
 **Prabhupāda:**
 
 > nāyaṁ deho deha-bhājāṁ nṛloke

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Canadian Ambassador to Iran ======
 
----- dataentry spoken ----
-id_hidden        : 750313r1.teh
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-03-13
-showdate_hidden  : 2023-03-13
-listplace_hidden : Tehran
-Type_spoken      : Room Conversation
-Date_spoken      : March 13
-Year_spoken      : 1975
-Place_spoken     : Tehran
-Length_hidden    : 51:50
-Title_hidden     : Room Conversation with James George, Canadian Ambassador to Iran
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750313r1.teh.mp3|Room Conversation with Canadian Ambassador to Iran — March 13, 1975, Tehran}}
-</audio>
-
 **Prabhupāda:**
 How long you have come here in Iran?
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Justin Murphy [Geographer] ======
 
----- dataentry spoken ----
-id_hidden        : 750513r1.per
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-13
-showdate_hidden  : 2023-05-13
-listplace_hidden : Perth
-Type_spoken      : Room Conversation
-Date_spoken      : May 13
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 69:42
-Title_hidden     : Room Conversation with Justin Murphy [Geographer]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750513r1.per.mp3|Room Conversation with Justin Murphy [Geographer] — May 13, 1975, Perth}}
-</audio>
-
 **Amogha:**
 ...these kinds of ideas, and that we have ideas that can be very useful for them. So actually there is a...
 

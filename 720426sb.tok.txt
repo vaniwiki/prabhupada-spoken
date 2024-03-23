@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.9.7 ======
 
----- dataentry spoken ----
-id_hidden        : 720426sb.tok
-listtype_hidden  : SB 2.9.7
-listdate_hidden  : 1972-04-26
-showdate_hidden  : 2023-04-26
-listplace_hidden : Tokyo
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 26
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 18:05
-Title_hidden     : Śrīmad-Bhāgavatam 2.9.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720426sb.tok.mp3|SB 2.9.7 — April 26, 1972, Tokyo}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse]
 

@@ -9,24 +9,6 @@
 
 ====== Conversation on Roof ======
 
----- dataentry spoken ----
-id_hidden        : 770214ro.may
-listtype_hidden  : Conversation Roof
-listdate_hidden  : 1977-02-14
-showdate_hidden  : 2023-02-14
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 14
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 60:06
-Title_hidden     : Conversation on Roof
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770214ro.may.mp3|Conversation on Roof — February 14, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...son begotten by Lord Śiva in the womb of Pārvatī, he'll be able to conquer over the demons. Kārttikeya. You have heard the name of Kārttikeya? So the wife of Lord Śiva, Dākṣāyaṇī, committed suicide in the Dakṣa //yajña.// She heard blaspheming her husband, so immediately she gave up her body: "My father, you have given this body; therefore you are claiming so much from me. I give up this body." So he gave up his body, and the next birth she was born as the daughter of Himalayan king, Pārvatī. And after her death as the daughter of Dakṣa Mahārāja, Lord Śiva was engaged in meditation, very deep meditation. Now the problem was how to wake up Lord Śiva from meditation and engage him again with Pārvatī. Nobody dared. So the Pārvatī was engaged to worship the genital of Lord Śiva. He was in meditation, and he could not be awakened. Kālīdāsa Kavi is giving remark that "Here is //dhīra.// Here is //dhīra.// A young girl touching the genital of Lord Śiva, and he is not agitated." //Adhīra. Dhīra// means there is cause of agitation, but one is not agitated. That is called //dhīra.// And //adhīra,// everyone. There is cause of agitation in so many ways. Our, this movement, //kṛṣṇotkīrtana-gāna-nartana-parau,// if we remain engaged in //kṛṣṇotkīrtana-gāna-nartana-parau,// then //dhīrādhīra-jana-priyau.// Both the //dhīra// and //adhīra// will enjoy this //kṛṣṇa-kīrtana.// This our movement is for the //dhīra.// And //adhīra// also, if he joins this movement, even //adhīra// also becomes //dhīra.// This is the test. //Dhīrādhīra-jana-priyau priya-karau.//
 

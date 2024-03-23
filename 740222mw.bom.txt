@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740222mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-02-22
-showdate_hidden  : 2023-02-22
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : February 22
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 26:53
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740222mw.bom.mp3|Morning Walk — February 22, 1974, Bombay}}
-</audio>
-
 **Nitāi:**
 [testing tape]
 

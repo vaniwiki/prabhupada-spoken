@@ -9,24 +9,6 @@
 
 ====== Morning Talk ======
 
----- dataentry spoken ----
-id_hidden        : 770418r2.bom
-listtype_hidden  : Morning Talk
-listdate_hidden  : 1977-04-18
-showdate_hidden  : 2023-04-18
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 18
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 34:40
-Title_hidden     : Morning Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770418r2.bom.mp3|Morning Talk — April 18, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 But if he's not Kṛṣṇa conscious, he may rise up to that position by endeavor. Then he will fall down. And I have given this example, Nixon and Indira. This is factual. To come to take the post of prime minister, to become the president, is not easy job. //Āruhya kṛcchreṇa// [[books:sb:10:2:32|[SB 10.2.32]]], great hardship. Similarly, the Māyāvādīs, they also undergo severe austerities to become one with the Supreme, impersonalists. Any... I have given the... //Karmī, jñānī, yogī,// politicians, and everyone---everyone has got some aim. Many rich men, they commit suicide. So this is possi... This is the ultimate result of nondevotee. He may rise up by endeavor to a certain position as he imagined, "This is the best position." Just like we are also trying to occupy the best position---to become associate of Kṛṣṇa, to live with devotees. We have got also some aim, and the nondevotees, they have also got aim. But the devotees will never fall down, while the nondevotee will fall down. And if devotee circumstantially, by chance, falls down---not like them---he'll be again picked up by Kṛṣṇa. This is the science, Kṛṣṇa consciousness. A devotee's position is certain. Now, take for example my position. For ordinary //karmī// to purchase so many properties all over the world and so many other things, money and everything, if //karmī// had to do it, how much hardship he had to go. And actually they are doing. Is it possible for one's life to acquire so many?
 

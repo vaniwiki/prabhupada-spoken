@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751116mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-11-16
-showdate_hidden  : 2023-11-16
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : November 16
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 38:38
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751116mw.bom.mp3|Morning Walk — November 16, 1975, Bombay}}
-</audio>
-
 **Girirāja:**
 He said, "We don't know where the ingredients came from, but we're sure that there's..."
 

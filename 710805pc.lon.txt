@@ -9,24 +9,6 @@
 
 ====== Temple Press Conference ======
 
----- dataentry spoken ----
-id_hidden        : 710805pc.lon
-listtype_hidden  : Press Conference
-listdate_hidden  : 1971-08-05
-showdate_hidden  : 2023-08-05
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : August 5
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Temple Press Conference
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710805pc.lon.mp3|Temple Press Conference — August 5, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 It's Kṛṣṇa's mission to awaken man's original consciousness. At the present moment we have got designated consciousness. I am thinking "I am Indian," you are thinking Englishman, another is thinking American. But actually we are neither American nor Indian nor any that sort of designation. We are part and parcel of God. That is our real identification. If we come to that consciousness, then all the problems of the world will be solved. Now, due to our designated consciousness, we are thinking, "You are different from me, I am different from you," but if we come to Kṛṣṇa consciousness, then we shall know that we are one, the same spirit soul, maybe in different dress. That is the explanation given in //Bhagavad-gītā.// Just like we are all human beings, gentlemen, ladies. Maybe in different dress, but our aims and objects are the one and the same. So this Kṛṣṇa consciousness movement is purificatory process. //Sarvopādhi-vinirmuktam// [[books:cc:madhya:19:170|[Cc. Madhya 19.170]]]. To make people free from all designations. //Tat-paratvena nirmalam.// And in Kṛṣṇa consciousness they become purified. And when they're purified their activities by purified senses make them perfect. That is the ideal perfection of human life. And our process is also very simple. There is no need of becoming a great philosopher, scientist, or thoughtful man. Simply by chanting the holy name of the Lord we can immediately contact with the Lord, because the Lord as the person and His name and His quality are all absolute. So this is a great science. Unfortunately, there is no department of education for this science in any one of the so many universities. So we invite, therefore, all kinds of serious men for the welfare of the human society to understand this great movement and if possible take part in it and cooperate with us. That will solve all the problems of the world. That is the verdict of //Bhagavad-gītā.// Very authoritative book of knowledge. Most of you may know the name //Bhagavad-gītā.// So our movement is based on this //Bhagavad-gītā,// the authorized book of knowledge, and approved by big //ācāryas// in India, Rāmānujācārya, Madhvācārya, Lord Caitanya. So you are all responsible representatives of papers. Try to understand this movement and ventilate it as far as possible for the good of the whole human society. That's all.
 

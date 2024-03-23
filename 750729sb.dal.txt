@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.47 ======
 
----- dataentry spoken ----
-id_hidden        : 750729sb.dal
-listtype_hidden  : SB 6.1.47
-listdate_hidden  : 1975-07-29
-showdate_hidden  : 2023-07-29
-listplace_hidden : Dallas
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 29
-Year_spoken      : 1975
-Place_spoken     : Dallas
-Length_hidden    : 23:18
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.47
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750729sb.dal.mp3|SB 6.1.47 — July 29, 1975, Dallas}}
-</audio>
-
 **Nitāi:** "Just as this present springtime indicates the nature of the past springtimes and the future springtimes, similarly, this life of happiness, distress or a mixture of both gives evidence of religious and irreligious activities of past and future lives." [break]
 
 **Prabhupāda:**

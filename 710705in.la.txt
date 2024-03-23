@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 710705in.la
-listtype_hidden  : Initiation Lecture [partially recorded]
-listdate_hidden  : 1971-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : Los Angeles
-Type_spoken      : Initiation
-Date_spoken      : July 5
-Year_spoken      : 1971
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Initiation Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710705in.la.mp3|Initiation Lecture [partially recorded] — July 5, 1971, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 So your spiritual name is Rāma-rañjana. Rāma-rañjana. Rāma... One who pleases Lord Rāma, Rāmarañjana. So by your activities you have to please Lord Rāmacandra. Yes. What was the business of Rāmacandra? To kill Rāvaṇas. [laughter] To kill all the atheists. That was the Rāmacandra's business, to kill Rāvaṇa. Rāvaṇa was a very powerful atheist, and he was working with the ten heads. Just like materialistic //karmīs,// they work very hard, and they have got good brain also for wording hard. So Rāvaṇa had ten heads. But the plan was to cheat Rāma. With all intelligence, with all brain, his only plan was how to cheat Rāma. That was his... He became a //sannyāsī// and he went to take some alms from Sītā. The purpose was to cheat, to enter. Because according to Vedic civilization, a //sannyāsī// has open door. He can even go inside. But that... He was the only //sannyāsī// at that time who tried to cheat. But this kind of //sannyāsī// or this kind of intelligent persons are killed by Rāma. They may make plan very nice to cheat Rāmacandra, but ultimately they become vanquished with all their planning commission.
 

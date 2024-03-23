@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720317le.bom
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1972-03-17
-showdate_hidden  : 2023-03-17
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : March 17
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 30:32
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720317le.bom.mp3|Pandal Lecture — March 17, 1972, Bombay}}
-</audio>
-
 **Devotee:**
 ...absolutely quiet.
 

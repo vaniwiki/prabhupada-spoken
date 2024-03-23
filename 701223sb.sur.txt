@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.41–42 ======
 
----- dataentry spoken ----
-id_hidden        : 701223sb.sur
-listtype_hidden  : SB 6.1.41–42
-listdate_hidden  : 1970-12-23
-showdate_hidden  : 2023-12-23
-listplace_hidden : Surat
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 23
-Year_spoken      : 1970
-Place_spoken     : Surat
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.41–42
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701223sb.sur.mp3|SB 6.1.41-42 — December 23, 1970, Surat}}
-</audio>
-
 **Prabhupāda:**
 ...means Vedic injunction, and Vedic injunction means directly the Supreme Personality of Godhead. This is the sum and substance. //Dharma// means approved by the //Vedas.// You cannot manufacture //dharma,// "This //dharma,// that //dharma.//" No. It must be approved by the Vedic injunction. And next? How this material world is created by the Supreme Personality of Godhead. Every religion accepts this: God created this material world.
 

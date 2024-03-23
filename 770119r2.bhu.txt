@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770119r2.bhu
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-19
-showdate_hidden  : 2023-01-19
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 19
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 36:47
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770119r2.bhu.mp3|Room Conversation — January 19, 1977, Bhubaneswar}}
-</audio>
-
 **Rāmeśvara:**
 ...but they have never used it against us. But now they have started. One devotee, a girl from Berkeley temple who was a very big book distributor---sometimes she could collect five, six hundred dollars in one day---she was just kidnapped, by order of the court. They have a psychologist who listens to the parents' description, and on the basis of that secondhand report, the psychologist...
 

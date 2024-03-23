@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 721101r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-11-01
-showdate_hidden  : 2023-11-01
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 1
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 57:24
-Title_hidden     : Room Conversation Philosophical Discussions
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721101r1.vrn.mp3|Room Conversation — November 1, 1972, Vṛndāvana}}
-</audio>
-
 **Acyutānanda:**
 Gauracandra Gosvāmī is telling Prabhupāda that ah, that it started raining just so that the //kīrtana// would happen in front of Dāmodara and then it stopped raining so that we could go back into the //samādhi// grounds. Actually he was just trying to get us out of the front courtyard. Prabhupāda said, "wherever there is... Whenever there is //kīrtana// it is in front of Lord Dāmodara."
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.7.45–46 ======
 
----- dataentry spoken ----
-id_hidden        : 761005sb.vrn
-listtype_hidden  : SB 1.7.45–46
-listdate_hidden  : 1976-10-05
-showdate_hidden  : 2023-10-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 5
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 34:09
-Title_hidden     : Śrīmad-Bhāgavatam 1.7.45–46
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761005sb.vrn.mp3|SB 1.7.45-46 — October 5, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [Leads chanting]
 

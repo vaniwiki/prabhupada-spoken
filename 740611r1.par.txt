@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Monsieur Mesman ======
 
----- dataentry spoken ----
-id_hidden        : 740611r1.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-11
-showdate_hidden  : 2023-06-11
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : June 11
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 75:58
-Title_hidden     : Room Conversation with Monsieur Mesman, Chief of Law House of Paris
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740611r1.par.mp3|Room Conversation with Monsieur Mesman — June 11, 1974, Paris}}
-</audio>
-
 **Yogeśvara:**
 Monsieur Mesman is the chief of the Law House of Paris.
 

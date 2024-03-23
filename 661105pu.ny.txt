@@ -9,24 +9,6 @@
 
 ====== Purport to Brahma-saṁhitā Verses 32 and 38 ======
 
----- dataentry spoken ----
-id_hidden        : 661105pu.ny
-listtype_hidden  : Bs. 32 and 38
-listdate_hidden  : 1966-11-05
-showdate_hidden  : 2023-11-05
-listplace_hidden : New York
-Type_spoken      : Song Purport
-Date_spoken      : November 5
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Purport to Brahma-saṁhitā Verses 32 and 38
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661105pu.ny.mp3|Purport to Brahma-saṁhitā Verses 32 and 38 — November 5, 1966, New York}}
-</audio>
-
 [Prabhupāda sings]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Lord Caitanya Play Told to Tamāla Kṛṣṇa ======
 
----- dataentry spoken ----
-id_hidden        : 690804lc.la
-listtype_hidden  : Lord Caitanya Play
-listdate_hidden  : 1969-08-04
-showdate_hidden  : 2023-08-04
-listplace_hidden : Los Angeles
-Type_spoken      : Various
-Date_spoken      : August 4
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lord Caitanya Play Told to Tamāla Kṛṣṇa
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690804lc.la.mp3|Lord Caitanya Play Told to Tamāla Kṛṣṇa — August 4, 1969, Los Angeles}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 The first thing about this... Can you tell me something about Lord Caitanya's birth, when He was born, what happened, what was it like, all about it.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770617r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-06-17
-showdate_hidden  : 2023-06-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 17
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 41:13
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770617r1.vrn.mp3|Room Conversation — June 17, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 So is that because they can... They're in the heavenly enjoyment, but they see that that is not the ultimate. And unless they are born in Bhāratavarṣa and get the opportunity for perfection in //bhakti,// they cannot achieve that ultimate, Kṛṣṇa consciousness. It seems that this is a very fortunate position, to be in this Bhāratavarṣa.
 

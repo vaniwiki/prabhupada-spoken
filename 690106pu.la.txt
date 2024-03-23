@@ -9,24 +9,6 @@
 
 ====== Purport to Gaurāṇgera Duṭi Pada ======
 
----- dataentry spoken ----
-id_hidden        : 690106pu.la
-listtype_hidden  : Gaurāṇgera Duṭi Pada
-listdate_hidden  : 1969-01-06
-showdate_hidden  : 2023-01-06
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 6
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Gaurāṇgera Duṭi Pada
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690106pu.la.mp3|Purport to Gaurāṇgera Duṭi Pada — January 6, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Gaurāṅgera duṭi pada, yāra dhana sampada, sei jāne bhakati-rasa-sāra.// This is another song composed by Narottama das Ṭhākura, and he says that "One who has accepted the lotus feet of Lord Caitanya, in other words, one who has the only asset of possession, the two feet of Lord Caitanya, such person is supposed to know what is the essence of devotional service." //Sei jāne bhakati-rasa-sāra.// What is the purport of devotional service, or what is the humor of devotional service, can be understood by a person who has accepted Lord Caitanya's lotus feet as everything. The idea is that actually Lord Caitanya, He is Kṛṣṇa Himself, and He is teaching devotional sevvice to the living entities personally. Directly. Therefore the modes of devotional service, as taught by Lord Caitanya, is the most perfect. There cannot be any doubt. The expert, or the master, is teaching the servant how to work. If a... If somebody is master of some engineering work and he is personally teaching some assistant, that teaching, instruction, is most perfect. Similarly, Lord Kṛṣṇa Himself, in the role of a devotee, is teaching devotional service. Therefore the path chalked out by Lord Kṛṣṇa is the most feasible way for perfection to devotional service. //Sei jāne bhakati rasa sāra. Sāra// means essence.
 

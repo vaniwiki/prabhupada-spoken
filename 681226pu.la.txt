@@ -10,24 +10,6 @@
 
 ====== Purport & Explanation to Hari Hari Biphale ======
 
----- dataentry spoken ----
-id_hidden        : 681226pu.la
-listtype_hidden  : Hari Hari Biphale
-listdate_hidden  : 1968-12-26
-showdate_hidden  : 2023-12-26
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : December 26
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport & Explanation to Hari Hari Biphale
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681226pu.la.mp3|Purport & Explanation to Hari Hari Biphale — December 26, 1968, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 //Hari hari biphale, janama...//
 

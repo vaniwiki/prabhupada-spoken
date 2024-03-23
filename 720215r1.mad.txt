@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720215r1.mad
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-02-15
-showdate_hidden  : 2023-02-15
-listplace_hidden : Madras
-Type_spoken      : Room Conversation
-Date_spoken      : February 15
-Year_spoken      : 1972
-Place_spoken     : Madras
-Length_hidden    : 19:28
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720215r1.mad.mp3|Room Conversation — February 15, 1972, Madras}}
-</audio>
-
 **Prabhupāda:**
 [reading:] "... [indistinct] from Him, his mind becomes totally associated with Him. His Grace A. C. Bhaktivedanta Swami Prabhupāda in his discourse at the [indistinct] Sunday, said there was no rigid rules and regulations for chanting the Hare Kṛṣṇa //mantra,// nor does it require formal education. While uttering the name of Śrī Kṛṣṇa one should focus the mind on the image and form of the Lord, His auspicious activities, His delightful sport, and His role as //Gītā-ācārya.//
 

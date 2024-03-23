@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.3 ======
 
----- dataentry spoken ----
-id_hidden        : 730909sb.sto
-listtype_hidden  : SB 5.5.3
-listdate_hidden  : 1973-09-09
-showdate_hidden  : 2023-09-09
-listplace_hidden : Stockholm
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 9
-Year_spoken      : 1973
-Place_spoken     : Stockholm
-Length_hidden    : 43:14
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730909sb.sto.mp3|SB 5.5.3 — September 9, 1973, Stockholm}}
-</audio>
-
 **Prabhupāda:**
 So,
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.15.33 ======
 
----- dataentry spoken ----
-id_hidden        : 731211sb.la
-listtype_hidden  : SB 1.15.33
-listdate_hidden  : 1973-12-11
-showdate_hidden  : 2023-12-11
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 11
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 29:24
-Title_hidden     : Śrīmad-Bhāgavatam 1.15.33
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731211sb.la.mp3|SB 1.15.33 — December 11, 1973, Los Angeles}}
-</audio>
-
 **Pradyumna:** Translation: "Kuntī, after overhearing Arjuna's telling of the end of the Yadu dynasty and disappearance of Lord Kṛṣṇa, engaged in the devotional service of the transcendental Personality of Godhead with full attention and thus gained release from the course of material existence." [[books:sb:1:15:33|[SB 1.15.33]]]
 
 **Prabhupāda:**

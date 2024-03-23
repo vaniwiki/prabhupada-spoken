@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750617r1.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-06-17
-showdate_hidden  : 2023-06-17
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : June 17
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 18:52
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750617r1.hon.mp3|Room Conversation — June 17, 1975, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 Dispatching is not possible.
 

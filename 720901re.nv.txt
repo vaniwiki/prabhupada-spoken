@@ -9,24 +9,6 @@
 
 ====== Janmāṣṭamī, Kṛṣṇa Book Reading ======
 
----- dataentry spoken ----
-id_hidden        : 720901re.nv
-listtype_hidden  : Kṛṣṇa Book Reading
-listdate_hidden  : 1972-09-01
-showdate_hidden  : 2023-09-01
-listplace_hidden : New Vrindavan
-Type_spoken      : Various
-Date_spoken      : September 1
-Year_spoken      : 1972
-Place_spoken     : New Vrindavan
-Length_hidden    : 119:51
-Title_hidden     : Janmāṣṭamī Kṛṣṇa Book Reading
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720901re.nv.mp3|Janmāṣṭamī, Kṛṣṇa Book Reading — September 1, 1972, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. //Jaya.//
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.11 ======
 
----- dataentry spoken ----
-id_hidden        : 700801sb.la
-listtype_hidden  : SB 2.1.11
-listdate_hidden  : 1970-08-01
-showdate_hidden  : 2023-08-01
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 1
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīla Prabhupāda Teaching Nṛsiṁha Prayers, [Govindam record plays]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700801sb.la.mp3|SB 2.1.11 — August 1, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. Yes?
 

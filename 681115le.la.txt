@@ -9,24 +9,6 @@
 
 ====== Class in Los Angeles ======
 
----- dataentry spoken ----
-id_hidden        : 681115le.la
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-11-15
-showdate_hidden  : 2023-11-15
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : November 15
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681115le.la.mp3|Class in Los Angeles — November 15, 1968, Los Angeles}}
-</audio>
-
 **Dayānanda:**
 Prabhupāda? That was the realtor on the phone. He said he'll have the lease ready Monday.
 

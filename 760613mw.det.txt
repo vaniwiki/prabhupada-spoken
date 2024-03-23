@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760613mw.det
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-06-13
-showdate_hidden  : 2023-06-13
-listplace_hidden : Detroit
-Type_spoken      : Morning Walk
-Date_spoken      : June 13
-Year_spoken      : 1976
-Place_spoken     : Detroit
-Length_hidden    : 28:02
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760613mw.det.mp3|Morning Walk — June 13, 1976, Detroit}}
-</audio>
-
 [in car]
 
 **Devotee (1):**

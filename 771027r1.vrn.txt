@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Hari Prasad Badruka ======
 
----- dataentry spoken ----
-id_hidden        : 771027r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-27
-showdate_hidden  : 2023-10-27
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 27
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 93:41
-Title_hidden     : Room Conversation with Hari Prasad Badruka
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771027r1.vrn.mp3|Room Conversation with Hari Prasad Badruka — October 27, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Hmm.
 

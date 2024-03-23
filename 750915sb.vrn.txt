@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.2.13 ======
 
----- dataentry spoken ----
-id_hidden        : 750915sb.vrn
-listtype_hidden  : SB 6.2.13
-listdate_hidden  : 1975-09-15
-showdate_hidden  : 2023-09-15
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 15
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 20:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.2.13
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750915sb.vrn.mp3|SB 6.2.13 — September 15, 1975, Vṛndāvana}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] //Śrīmad-Bhāgavatam,// Sixth Canto, Second Chapter, verse number thirteen. [leads chanting of verse, etc.]
 

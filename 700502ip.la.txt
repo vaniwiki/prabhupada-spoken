@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 1 ======
 
----- dataentry spoken ----
-id_hidden        : 700502ip.la
-listtype_hidden  : Īśo Mantra 1
-listdate_hidden  : 1970-05-02
-showdate_hidden  : 2023-05-02
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : May 2
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Īśopaniṣad, Mantra 1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700502ip.la.mp3|Śrī Īśopaniṣad, Mantra 1 — May 2, 1970, Los Angeles}}
-</audio>
-
 [Prabhupāda and devotees chant Invocation and Mantras 1–14]
 
 > oṁ pūrṇam adaḥ pūrṇam idaṁ

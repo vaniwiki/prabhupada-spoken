@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.8–9 ======
 
----- dataentry spoken ----
-id_hidden        : 720306sb.cal
-listtype_hidden  : SB 7.9.8–9
-listdate_hidden  : 1972-03-06
-showdate_hidden  : 2023-03-06
-listplace_hidden : Calcutta
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 6
-Year_spoken      : 1972
-Place_spoken     : Calcutta
-Length_hidden    : 45:49
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.8–9
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720306sb.cal.mp3|SB 7.9.8-9 — March 6, 1972, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 Prahlāda Mahārāja is considering himself to be unfit for worshiping the Lord. He says, //kiṁ toṣṭum arhati sa me harir ugra-jāteḥ// [[books:sb:7:9:8|[SB 7.9.8]]]. //Ugra-jāteḥ,// as I was speaking yesterday, that chili, chili caste, those who are very much in fallen condition by quality. His quality..., it is not that one is fallen in quality, he cannot be raised. It is not like that. The practical example is that our European-American students, actually they were fallen in quality. They were in the modes of ignorance and passion, the fallen quality. But they have been raised.
 

@@ -9,24 +9,6 @@
 
 ====== Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 751224le.san
-listtype_hidden  : Lecture [Hindi]
-listdate_hidden  : 1975-12-24
-showdate_hidden  : 2023-12-24
-listplace_hidden : Sanand
-Type_spoken      : Hindi
-Date_spoken      : December 24
-Year_spoken      : 1975
-Place_spoken     : Sanand
-Length_hidden    : 38:59
-Title_hidden     : Lecture [Hindi with English translation]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751224le.san_hindi.mp3|Lecture [Hindi] — December 24, 1975, Sanand}}
-</audio>
-
 [final proofreading pending]
 
 Raja Sahib, Gentlemen, there is one difficulty for me, I cannot speak Gujarati at all and Hindi also I cannot speak very correctly. Anyways, all of you excuse me. This Kṛṣṇa consciousness movement that we have created, International Society for Kṛṣṇa Consciousness, the aim of this is that all over the world the people are mistaken, what are they mistaken about? They think that by generating lots of money and indulging in sense gratification, I will be very happy in that. This is going on all over the world. Get money somehow and enjoy. In the western world this is called hedonism. Eat drink be merry and enjoy. [Interruption] You sit down!

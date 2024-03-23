@@ -9,24 +9,6 @@
 
 ====== Lecture at University ======
 
----- dataentry spoken ----
-id_hidden        : 730129le.cal
-listtype_hidden  : Lecture at University
-listdate_hidden  : 1973-01-29
-showdate_hidden  : 2023-01-29
-listplace_hidden : Calcutta
-Type_spoken      : Lecture
-Date_spoken      : January 29
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 26:01
-Title_hidden     : University Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730129le.cal.mp3|Lecture at University — January 29, 1973, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 Śrī Gosvāmīpāda, Mr. Motilal, Ladies and Gentlemen, I thank you very much for your kindly inviting me in this meeting to serve you to some extent according to my capacity.
 

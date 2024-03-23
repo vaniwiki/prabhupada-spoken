@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750805mw.det
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-08-05
-showdate_hidden  : 2023-08-05
-listplace_hidden : Detroit
-Type_spoken      : Morning Walk
-Date_spoken      : August 5
-Year_spoken      : 1975
-Place_spoken     : Detroit
-Length_hidden    : 06:36
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750805mw.det.mp3|Morning Walk — August 5, 1975, Detroit}}
-</audio>
-
 **Prabhupāda:**
 ...tree you collected the //dantana.// Huh?
 

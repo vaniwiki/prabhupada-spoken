@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 711120le.del
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1971-11-20
-showdate_hidden  : 2023-11-20
-listplace_hidden : Delhi
-Type_spoken      : Lecture
-Date_spoken      : November 20
-Year_spoken      : 1971
-Place_spoken     : Delhi
-Length_hidden    : 00:00
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711120le.del.mp3|Pandal Lecture — November 20, 1971, Delhi}}
-</audio>
-
 **Prabhupāda:**
 
 > cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa-

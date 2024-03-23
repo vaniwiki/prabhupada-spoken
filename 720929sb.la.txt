@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.3.24 ======
 
----- dataentry spoken ----
-id_hidden        : 720929sb.la
-listtype_hidden  : SB 1.3.24
-listdate_hidden  : 1972-09-29
-showdate_hidden  : 2023-09-29
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 29
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 52:06
-Title_hidden     : Śrīmad-Bhāgavatam 1.3.24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720929sb.la.mp3|SB 1.3.24 — September 29, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [//Govindam// prayers playing; sings along] [leads singing of //Jaya Rādhā-Mādhava//] [//prema-dhvani//] Thank you very much.
 

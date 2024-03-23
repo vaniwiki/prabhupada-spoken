@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 16.7 ======
 
----- dataentry spoken ----
-id_hidden        : 761214bg.hyd
-listtype_hidden  : Bg 16.7
-listdate_hidden  : 1976-12-14
-showdate_hidden  : 2023-12-14
-listplace_hidden : Hyderabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 14
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 15:58
-Title_hidden     : Bhagavad-gītā 16.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761214bg.hyd.mp3|Bg 16.7 — December 14, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 So we were discussing yesterday about the demons, or nondevotees. Demons means nondevotee. That I have explained. //Devatā// means demigods, and demons. So demons, they do not know which way they have to live their life. That they do not know.
 

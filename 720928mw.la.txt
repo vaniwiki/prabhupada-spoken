@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720928mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-09-28
-showdate_hidden  : 2023-09-28
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : September 28
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 72:48
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720928mw.la.mp3|Morning Walk — September 28, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] earth.
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.17 ======
 
----- dataentry spoken ----
-id_hidden        : 731011bg.bom
-listtype_hidden  : Bg 13.17
-listdate_hidden  : 1973-10-11
-showdate_hidden  : 2023-10-11
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 11
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 24:36
-Title_hidden     : Bhagavad-gītā 13.17
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731011bg.bom.mp3|Bg 13.17 — October 11, 1973, Bombay}}
-</audio>
-
 **Pradyumna:** "Although the Supersoul appears to be divided, He is never divided. He is situated as one. Although He is the maintainer of every living entity, it is to be understood that He devours and develops all." [[books:bg:13:17|[Bg. 13.17]]]
 
 **Prabhupāda:**

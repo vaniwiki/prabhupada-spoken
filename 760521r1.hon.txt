@@ -9,24 +9,6 @@
 
 ====== Room Conversation About Deity-Making and Tulasi Tea ======
 
----- dataentry spoken ----
-id_hidden        : 760521r1.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-21
-showdate_hidden  : 2023-05-21
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : May 21
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 20:14
-Title_hidden     : Room Conversation About Deity Making and Tulasi Tea
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760521r1.hon.mp3|Room Conversation About Deity-Making and Tulasi Tea — May 21, 1976, Honolulu}}
-</audio>
-
 **Hari-śauri:**
 Twelve inches. That’s very small, Śrīla Prabhupāda. That’s only...
 

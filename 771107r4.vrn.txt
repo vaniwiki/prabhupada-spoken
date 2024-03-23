@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771107r4.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-07
-showdate_hidden  : 2023-11-07
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 7
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 12:32
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771107r4.vrn.mp3|Room Conversation — November 7, 1977, Vṛndāvana}}
-</audio>
-
 **Pañca-draviḍa:**
 ...everything was together. But when you add up our sales, whole zones put together, then they're as big as New York and the other areas now. They are doing nicely. They've also brought you some gifts---one sweater and some warm socks and a scarf for the winter here in Vṛndāvana.
 

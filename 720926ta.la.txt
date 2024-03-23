@@ -9,23 +9,5 @@
 
 ====== Talk ======
 
----- dataentry spoken ----
-id_hidden        : 720926ta.la
-listtype_hidden  : Talk
-listdate_hidden  : 1972-09-26
-showdate_hidden  : 2023-09-26
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : September 26
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 00:58
-Title_hidden     : Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720926ta.la.mp3|Talk — September 26, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 The love of God... Love is... [break] is manifested in so many ways but because it is misplaced not properly just like foodstuffs somebody has stolen it that you take this foodstuff within your body but if I do not know that I am placing here there here there [indistinct] that is the proper [break] place. Similarly my propensity of my loving others is there---others means, beyond my somebody else. That somebody else I do not know who is, therefore I am [indistinct]. [end]

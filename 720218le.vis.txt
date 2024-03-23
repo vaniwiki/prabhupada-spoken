@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720218le.vis
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-02-18
-showdate_hidden  : 2023-02-18
-listplace_hidden : Visakhapatnam
-Type_spoken      : Lecture
-Date_spoken      : February 18
-Year_spoken      : 1972
-Place_spoken     : Visakhapatnam
-Length_hidden    : 30:36
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720218le.vis.mp3|Lecture — February 18, 1972, Visakhapatnam}}
-</audio>
-
 **Prabhupāda:**
 ...and participating in this Kṛṣṇa consciousness movement. This Kṛṣṇa consciousness movement is not a new movement. It is the oldest. From historical point of view, at least five thousand years old, when Kṛṣṇa introduced this consciousness, that is, in the Battlefield of Kurukṣetra, which took place at least five thousand years ago. And if we believe //śāstras,// then it is not only four or five thousand years, but it is older than forty millions of years. Not forty; four hundred millions of years.
 

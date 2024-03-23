@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 690510rc.col
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1969-05-10
-showdate_hidden  : 2023-05-10
-listplace_hidden : Columbus
-Type_spoken      : Room Conversation
-Date_spoken      : May 10
-Year_spoken      : 1969
-Place_spoken     : Columbus
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690510rc.col.mp3|Room Conversation — May 10, 1969, Columbus}}
-</audio>
-
 **Prabhupāda:**
 Param Brahman. Param means the chief, param.
 

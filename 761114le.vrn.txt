@@ -9,24 +9,6 @@
 
 ====== Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 761114le.vrn
-listtype_hidden  : Lecture [Hindi]
-listdate_hidden  : 1976-11-14
-showdate_hidden  : 2023-11-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Hindi
-Date_spoken      : November 14
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 31:23
-Title_hidden     : Lecture [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761114le.vrn_hindi.mp3|Lecture [Hindi] — November 14, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 
 > om ajñāna-timirāndhasya jñānāñjana-śalākayā

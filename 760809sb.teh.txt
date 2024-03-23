@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.22.20 ======
 
----- dataentry spoken ----
-id_hidden        : 760809sb.teh
-listtype_hidden  : SB 3.22.20
-listdate_hidden  : 1976-08-09
-showdate_hidden  : 2023-08-09
-listplace_hidden : Tehran
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 9
-Year_spoken      : 1976
-Place_spoken     : Tehran
-Length_hidden    : 12:56
-Title_hidden     : Śrīmad-Bhāgavatam 3.22.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760809sb.teh.mp3|SB 3.22.20 — August 9, 1976, Tehran}}
-</audio>
-
 **Parivrājakācārya:**
 [chanting verse]
 

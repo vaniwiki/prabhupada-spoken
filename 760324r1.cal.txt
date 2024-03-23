@@ -9,24 +9,6 @@
 
 ====== Talk at Rādhā-Govinda Mandir ======
 
----- dataentry spoken ----
-id_hidden        : 760324r1.cal
-listtype_hidden  : Talk at Rādhā-Govinda Mandir
-listdate_hidden  : 1976-03-24
-showdate_hidden  : 2023-03-24
-listplace_hidden : Calcutta
-Type_spoken      : Room Conversation
-Date_spoken      : March 24
-Year_spoken      : 1976
-Place_spoken     : Calcutta
-Length_hidden    : 16:35
-Title_hidden     : Talk at Rādhā-Govinda Mandir
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760324r1.cal.mp3|Talk at Rādhā-Govinda Mandir — March 24, 1976, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 [Bengali] This Rādhā-Govinda Deity is very old Deity of the Mullik family. I think not less than two hundred years ago this Deity was established by the mother of Kashinath Mullik. I think you might have heard, another Kashi..., original Kashinath Mullik. I think his father's name was Gaura Mohan Mullik. Am I right?
 

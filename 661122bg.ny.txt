@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 9.2 ======
 
----- dataentry spoken ----
-id_hidden        : 661122bg.ny
-listtype_hidden  : Bg 9.2
-listdate_hidden  : 1966-11-22
-showdate_hidden  : 2023-11-22
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 22
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 9.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661122bg.ny.mp3|Bg 9.2 — November 22, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > rāja-vidyā rāja-guhyaṁ

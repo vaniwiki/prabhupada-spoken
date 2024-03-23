@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.5 ======
 
----- dataentry spoken ----
-id_hidden        : 720403sb.syd
-listtype_hidden  : SB 1.2.5
-listdate_hidden  : 1972-04-03
-showdate_hidden  : 2023-04-03
-listplace_hidden : Sydney 
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 3
-Year_spoken      : 1972
-Place_spoken     : Sydney 
-Length_hidden    : 47:20
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720403sb.syd.mp3|SB 1.2.5 — April 3, 1972, Sydney }}
-</audio>
-
 [//kīrtana//]
 
 [02:57]

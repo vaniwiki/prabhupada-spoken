@@ -9,24 +9,6 @@
 
 ====== Room Conversation about Bullock Cart SKP ======
 
----- dataentry spoken ----
-id_hidden        : 760912r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-09-12
-showdate_hidden  : 2023-09-12
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 12
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 28:10
-Title_hidden     : Room Conversation about Bullock Cart SKP
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760912r1.vrn.mp3|Room Conversation about Bullock Cart SKP — September 12, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 I have seen, Gandhi wanted to organize a village program, and the village... [break] ...in the field, that this program for constructing toilet in the village, they have spent so much. You know that? The first business was toilet. To restrict them to pass stool here and there, they must have. Now in constructing that toilet paraphernalia, [indistinct], they... Therefore it failed, village organization. Not for that purpose. There were many purpose. Because they had no engagement, so why they should remain in the village? There are so many attraction in the city, and they get money. The factory-//wallas,// they're inviting, "Come here. You shall get twenty rupees per day." Why shall he remain in the village? So if you can organize in the villages, they are interested in chanting Hare Kṛṣṇa //mantra// and getting nice //prasādam,// then... One must have some attachment. In the city there are so many artificial attachments. So on what ground they'll remain in the village? Mind..., always remember this. Unless you have got some attachment, there is no possibility. Gandhi's program was very nice, village organize so that they may not come to the city and help the capitalists. Remain satisfied in the village. But where is that satisfaction? That is the failure.
 

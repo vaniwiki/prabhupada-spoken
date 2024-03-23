@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.1–2 ======
 
----- dataentry spoken ----
-id_hidden        : 721229bg.bom
-listtype_hidden  : Bg 13.1–2
-listdate_hidden  : 1972-12-29
-showdate_hidden  : 2023-12-29
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 29
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 49:40
-Title_hidden     : Bhagavad-gītā 13.1–2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721229bg.bom.mp3|Bg 13.1-2 — December 29, 1972, Bombay}}
-</audio>
-
 **Pradyumna: **Translation: "Arjuna said: O my dear Kṛṣṇa, I wish to know about //prakṛti,// nature; //puruṣa,// or the enjoyer; and the field and the knower of the field; and of knowledge and the end of knowledge. The Blessed Lord then said: This body, O son of Kuntī, is called the field, and one who knows this body..., who knows this body is called the knower of the field." [[books:bg:13:1-2|[Bg. 13.1-2]]]
 
 **Prabhupāda:**

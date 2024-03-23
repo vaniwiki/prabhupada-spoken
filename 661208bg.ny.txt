@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 9.22–23 ======
 
----- dataentry spoken ----
-id_hidden        : 661208bg.ny
-listtype_hidden  : Bg 9.22–23
-listdate_hidden  : 1966-12-08
-showdate_hidden  : 2023-12-08
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 8
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 9.22–23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661208bg.ny.mp3|Bg 9.22-23 — December 8, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > ananyāś cintayanto māṁ

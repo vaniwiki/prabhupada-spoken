@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.17 ======
 
----- dataentry spoken ----
-id_hidden        : 740406bg.bom
-listtype_hidden  : Bg 4.17
-listdate_hidden  : 1974-04-06
-showdate_hidden  : 2023-04-06
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 6
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 41:47
-Title_hidden     : Bhagavad-gītā 4.17
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740406bg.bom.mp3|Bg 4.17 — April 6, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [Chants //jaya rādhā-mādhava//] [break]
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Sannyāsīs ======
 
----- dataentry spoken ----
-id_hidden        : 770122r2.bhu
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-22
-showdate_hidden  : 2023-01-22
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 22
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 12:35
-Title_hidden     : Room Conversation with Sannyāsīs
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770122r2.bhu.mp3|Room Conversation with Sannyāsīs — January 22, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 So I am anxious to receive report from Satsvarūpa Mahārāja.
 

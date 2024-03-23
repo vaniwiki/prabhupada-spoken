@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 4.14.14 ======
 
----- dataentry spoken ----
-id_hidden        : 711116sb.del
-listtype_hidden  : SB 4.14.14
-listdate_hidden  : 1971-11-16
-showdate_hidden  : 2023-11-16
-listplace_hidden : New Delhi
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 16
-Year_spoken      : 1971
-Place_spoken     : New Delhi
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 4.14.14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711116sb.del.mp3|SB 4.14.14 — November 16, 1971, New Delhi}}
-</audio>
-
 **Prabhupāda:**
 
 > śrī munaya ūcuḥ

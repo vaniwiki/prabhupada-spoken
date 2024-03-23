@@ -9,24 +9,6 @@
 
 ====== Room Conversation About Māyāpur Construction ======
 
----- dataentry spoken ----
-id_hidden        : 760819r1.hyd
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-08-19
-showdate_hidden  : 2023-08-19
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : August 19
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 124:19
-Title_hidden     : Room Conversation About Māyāpur Construction
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760819r1.hyd.mp3|Room Conversation About Māyāpur Construction — August 19, 1976, Hyderabad}}
-</audio>
-
 **Gargamuni:**
 ...to keep it going we took a minimum amount of ten thousand a month. We were getting ten thousand a month. But to finish the building we require more, more per month, because ten thousand is just the most minimum amount just to keep it going.
 

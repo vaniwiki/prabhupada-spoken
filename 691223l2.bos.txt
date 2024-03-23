@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 691223l2.bos
-listtype_hidden  : Lecture
-listdate_hidden  : 1969-12-23
-showdate_hidden  : 2023-12-23
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : December 23
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/691223l2.bos.mp3|Lecture — December 23, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 ...ways that God is giving facility to become one of His associates. [indistinct]. So, nobody is seeking after God. When you will seek after God, God is situated within your heart, He will give you all facility. And so long you want to become God, you will be cheated, because you are trying to cheat yourself. How you can become God? First thing is that, you are trying to become God, then how you became a dog? God cannot become a dog. God is always God. The Māyāvādī philosopher says that "I am God, but I am, by //māyā,// I am thinking I am not God. So by meditation I shall become God." But that means he is under the punishment of //māyā.// So, God has become under the influence of //māyā.// How is it that? God is great, and if he is under the influence of //māyā,// then //māyā// becomes great. How God becomes great?
 

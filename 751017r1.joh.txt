@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 751017r1.joh
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-10-17
-showdate_hidden  : 2023-10-17
-listplace_hidden : Johannesburg
-Type_spoken      : Room Conversation
-Date_spoken      : October 17
-Year_spoken      : 1975
-Place_spoken     : Johannesburg
-Length_hidden    : 11:42
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751017r1.joh.mp3|Room Conversation — October 17, 1975, Johannesburg}}
-</audio>
-
 **Prabhupāda:**
 You have done good because you are waiting for somebody's decision. So the decision-maker can change. Otherwise so many people are working so hard day and night, he is not getting even sufficient food. And another man, without working, he is getting so much money. How it is possible? Hmm? So God is not an instrument of your whims. He is fully independent. That is God. //Agatan gatan patiyase.//[?] By His different energy He can..., does something which is impossible to be done. Take for example myself. I went to United States, unknown country, without any friend, without any hope, simply on theory [chuckles] that "I shall go and preach there," and with this expectation also, that "As soon as I shall ask them to give up all these habits, they will ask me to go away." [laughs] So in the face of so many odds and uncertainty, I went there, simply depending on my spiritual master and Kṛṣṇa, with this hope only, that "If there is desire, everything can be done. But otherwise there is no hope. I am going there, hopeless, just to make an experiment. My other Godbrothers, they failed. All right, Guru Mahārāja asked me. In the beginning I did not do. Let me do it in this old age." So it became surprisingly success. Business started with forty rupees, and now we have got four //crores.// Where is that business in the material world, that a man started business with forty rupees and he has got four //crores// within ten years? Not only money but also fame, respect. What do these kings and president or minister get, respect?
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760907r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-09-07
-showdate_hidden  : 2023-09-07
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 7
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 19:58
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760907r1.vrn.mp3|Room Conversation — September 7, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...forest, naked, renounced, eating fruits, but debauch number one. //Markaṭa-vairāgya.// There are so many //vairāgīs. Markaṭa.// Bhaktivinoda Ṭhākura has said, //ei 'ta kali-celā:// here is a disciple of Kali. //Nāke tilaka galāi mālā:// but has got a //tilaka// on the forehead and neckbeads on the neck, but is //kali-celā//---number one disciple of Kali. You know this song? This is going on. //Kali-celā.// These persons who are committing sinful life---don't say anyone [laughs] or publish---there will be trouble. But that's a fact. Those who are living in Vṛndāvana and acting like monkey, they'll get next life a monkey, to remain in Vṛndāvana, and then next life they will be liberated. In one life all their sinful activities will be punished. Because as soon as animal life is obtained, there is no more further record of the sinful life. The animals cannot make sinful activities more than what is destined by him. But their sinful activity is not taken into account. For this man who is offered this monkey's body, he suffers the inconvenience of monkey life. So his sinful activities are counteracted, and because he came to Vṛndāvana and lived in Vṛndāvana by the mercy of Rādhārāṇī, next life he will be... That is the glory of Vṛndāvana-dhāma. Otherwise, what is the explanation of these dogs and hogs and monkeys in Vṛndāvana? If it is //dhāma-aparādha,// committing offense in //dhāma... Dhāma-aparādha.// As //dhāma-bhajana,// if one undergoes devotional service out of Vṛndāvana and one executes devotional service in Vṛndāvana, that is hundred times better. Similarly, //dhāma-aparādha// also. This //aparādha,// when offense is committed outside Vṛndāvana, that is not so grievous as committing offense in Vṛndāvana. //Dhāma-aparādha.//
 

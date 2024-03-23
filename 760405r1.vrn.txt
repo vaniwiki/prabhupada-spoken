@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760405r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-04-05
-showdate_hidden  : 2023-04-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : April 5
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 36:45
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760405r1.vrn.mp3|Room Conversation — April 5, 1976, Vṛndāvana}}
-</audio>
-
 **Śyāmasundara:**
 ...the money is spent and everything is going nicely. Disorganized.
 

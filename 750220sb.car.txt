@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.1 ======
 
----- dataentry spoken ----
-id_hidden        : 750220sb.car
-listtype_hidden  : SB 1.1.1
-listdate_hidden  : 1975-02-20
-showdate_hidden  : 2023-02-20
-listplace_hidden : Caracas
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 20
-Year_spoken      : 1975
-Place_spoken     : Caracas
-Length_hidden    : 48:26
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.1 [with Spanish translator]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750220sb.car.mp3|SB 1.1.1 — February 20, 1975, Caracas}}
-</audio>
-
 [translated throughout by Hṛdayānanda]
 
 **Nitāi:**

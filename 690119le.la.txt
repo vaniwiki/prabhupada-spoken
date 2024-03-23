@@ -9,24 +9,6 @@
 
 ====== Sunday Feast Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690119le.la
-listtype_hidden  : Sunday Feast Lecture
-listdate_hidden  : 1969-01-19
-showdate_hidden  : 2023-01-19
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : January 19
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Sunday Feast Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690119le.la.mp3|Sunday Feast Lecture — January 19, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 The real meaning of Sanskrit means "reform." It is not whimsical, just like in English language, "beauty but, peauty put." It is not like that. Every word, every syllable has got a symbolic meaning. //Bhaga. Bhaga// means opulence, and //vān// means one who possesses. There are many words like that, //guṇavān. Guṇavān. Guṇa// means quality, and //vān// means one who possesses. Similarly, the Sanskrit word, equivalent word of the English word "God" is //Bhagavān. Bhaga...// God... Generally described, God is great. That is perfect. Actually God is great. Nobody can be equal to God, and nobody can be greater than God. Greatness... If I am great and if there is another competitor great, then I am not God, neither he is God. When we say, speak of God, there is no competitor. The Sanskrit word used, //asamordhva... Asama. Sama// means equal; //a// means not. Nobody is equal. //Asama, urdhva.// There are three positions. Just like we are sitting here. Somebody is equal to me, somebody is greater than me and somebody is lower than me. You will find, everyone. Anywhere you go, you'll find, somebody is greater than you, somebody is equal to you and somebody is lower than you, anywhere you go. But in case of God, there can be only lower; nobody greater or equal. That is God, simple definition of God. Nowadays there is a disease, to declare oneself as God, "I am God." And there is regular propaganda that everyone is God. Now, how everyone can be God? The definition of God is like this: "Nobody shall be equal; nobody shall be greater." Then He is God. If somebody says, "I am God," say, if somebody thinks that "I am God," he should think also, "Whether I have no more any greater than me or equal to me?" Oh, if you find so many equal and greater, lower also... But first thing is whether there is nobody greater than you or nobody equal to you. Then you are God. Don't be crazy and think that "I am God." God is not like that. Here is the definition, //bhagavān, asamordhva.// In Sanskrit word, it is very nicely described.
 

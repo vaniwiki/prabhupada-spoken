@@ -9,24 +9,6 @@
 
 ====== Conversation: “How to Secure Brahmacārīs” ======
 
----- dataentry spoken ----
-id_hidden        : 770624r1.vrn
-listtype_hidden  : Conversation: “How to Secure Brahmacārīs”
-listdate_hidden  : 1977-06-24
-showdate_hidden  : 2023-06-24
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 24
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 58:01
-Title_hidden     : Conversation: “How to Secure Brahmacārīs”
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770624r1.vrn.mp3|Conversation: “How to Secure Brahmacārīs” — June 24, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 So people were inclined to send their children to //gurukula.// Now they are inclined to send their children to cinema, this, that... A difficult task to institute. Loafer class, they should be trained up as //śūdras//---in carpentry, in weaving. It doesn't..., do not require academic education. Simply make a skill. They'll learn.
 

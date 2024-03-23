@@ -9,24 +9,6 @@
 
 ====== Speech at Olympia Theater ======
 
----- dataentry spoken ----
-id_hidden        : 710626sp.par
-listtype_hidden  : Speech at Olympia Theater
-listdate_hidden  : 1971-06-26
-showdate_hidden  : 2023-06-26
-listplace_hidden : Paris
-Type_spoken      : Lecture
-Date_spoken      : June 26
-Year_spoken      : 1971
-Place_spoken     : Paris
-Length_hidden    : 00:00
-Title_hidden     : Speech at Olympia Theater
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710626sp.par.mp3|Speech at Olympia Theater — June 26, 1971, Paris}}
-</audio>
-
 **Prabhupāda:**
 I thank you very much for your kindly participating in this Kṛṣṇa consciousness movement. This movement is very important. It is a movement to save the human society from a suicidal policy. The suicidal policy is... Just this evening I expressed my desires to the press conference that the human society is being misled by leaders who are blind themselves. Take for example just like there a few blind men, and one, another blind man, is proposing to help them, crossing over the street. So this blind following is there in this sense, that we do not know what is the aim and objective of human society. The aim and objective of human life is self-realization and reestablishing our lost relation with the Supreme Personality of Godhead. That is the missing point. So this Kṛṣṇa consciousness movement is trying to enlighten the human society on this important point.
 

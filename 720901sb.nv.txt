@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.1 ======
 
----- dataentry spoken ----
-id_hidden        : 720901sb.nv
-listtype_hidden  : SB 1.2.1
-listdate_hidden  : 1972-09-01
-showdate_hidden  : 2023-09-01
-listplace_hidden : New Vrindavan
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 1
-Year_spoken      : 1972
-Place_spoken     : New Vrindavan
-Length_hidden    : 49:41
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720901sb.nv.mp3|SB 1.2.1 — September 1, 1972, New Vrindavan}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse] [Prabhupāda and devotees repeat]
 

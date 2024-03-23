@@ -9,24 +9,6 @@
 
 ====== “Life Comes From Life” Slideshow Discussions ======
 
----- dataentry spoken ----
-id_hidden        : 760703ss.wdc
-listtype_hidden  : Slideshow Discussions
-listdate_hidden  : 1976-07-03
-showdate_hidden  : 2023-07-03
-listplace_hidden : Washington, D.C.
-Type_spoken      : Room Conversation
-Date_spoken      : July 3
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 130:54
-Title_hidden     : “Life Comes From Life” Slideshow Discussions
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760703ss.wdc.mp3|“Life Comes From Life” Slideshow Discussions — July 3, 1976, Washington, D.C.}}
-</audio>
-
 **Prabhupāda:**
 Some talking? There is no talking?
 

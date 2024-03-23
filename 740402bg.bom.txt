@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.13 ======
 
----- dataentry spoken ----
-id_hidden        : 740402bg.bom
-listtype_hidden  : Bg 4.13
-listdate_hidden  : 1974-04-02
-showdate_hidden  : 2023-04-02
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 2
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 40:15
-Title_hidden     : Bhagavad-gītā 4.13
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740402bg.bom.mp3|Bg 4.13 — April 2, 1974, Bombay}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

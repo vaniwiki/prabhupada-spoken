@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760731r1.nmr
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-31
-showdate_hidden  : 2023-07-31
-listplace_hidden : New Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : July 31
-Year_spoken      : 1976
-Place_spoken     : New Māyāpur
-Length_hidden    : 84:12
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760731r1.nmr.mp3|Room Conversation — July 31, 1976, New Māyāpur}}
-</audio>
-
 **Bhūgarbha:**
 Many scholars are appreciating more and more. And on the University of Edmonton, in Alberta, Canada, Dr. Radhakrishnan, he was a linguist, professor of linguistics. He's a very pious man, and he is writing a book with some other professor in the Religion department on the comparative study of //bhakti// in the Indian tradition and the Hebrew tradition. And he's using your books as his only source for the Indian tradition. So he ordered not only one set of all the books, but two sets of all your books. Three sets actually. He ordered one set of //Bhāgavatams// for his own personal library, then he ordered two sets for the University library---one for the reference section and one for the general section. So he ordered three sets. And when his book comes out, in the back they have a bibliography section, references, and he will give reference to all your books. He was wondering... He's writing this book about //bhakti,// and he said, "What is a good definition of //bhakti// for the Indian tradition?" So I showed him //Nectar of Devotion, anyābhilāṣitā-śūnyaṁ jñāna-karmādy-anāvṛtam// [Brs. 1.1.11]. He said that is very good, and he wrote it down and put it in his book.
 

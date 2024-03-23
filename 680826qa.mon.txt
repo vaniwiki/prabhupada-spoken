@@ -9,24 +9,6 @@
 
 ====== Questions and Answers ======
 
----- dataentry spoken ----
-id_hidden        : 680826qa.mon
-listtype_hidden  : Questions and Answers
-listdate_hidden  : 1968-08-26
-showdate_hidden  : 2023-08-26
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : August 26
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Questions and Answers
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680826qa.mon.mp3|Questions and Answers — August 26, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 So your question, Rukmiṇī's question, Lord Caitanya's opulence... There are six kinds of opulences: richness, then fame, strength, influence, beauty, education and renunciation. So He exhibited all these six. He was very beautiful; therefore His name is Gaurasundara. Very beautiful-tall and stout and strong. There was no comparison of His beauty at that time, He was so beautiful, fair complexion. This time He did not appear in black complexion because people after fair complexion. So... And son of a very respectable //brāhmaṇa// family, and very highly educated. His scholarly manifestation you'll find in the explanation of one verse:
 

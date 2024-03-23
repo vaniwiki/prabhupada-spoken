@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.6–8 ======
 
----- dataentry spoken ----
-id_hidden        : 710721sb.ny
-listtype_hidden  : SB 6.1.6–8
-listdate_hidden  : 1971-07-21
-showdate_hidden  : 2023-07-21
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 21
-Year_spoken      : 1971
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.6–8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710721sb.ny.mp3|SB 6.1.6-8 — July 21, 1971, New York}}
-</audio>
-
 **Prabhupāda:**
 (chants //maṅgalācaraṇa//) So today I shall speak to you about glorification of the holy name of God. This was discussed between Mahārāja Parīkṣit and Śukadeva Gosvāmī in connection with one //brāhmaṇa// who was very much fallen and addicted to all kinds of sinful activities, but he was saved simply by chanting the holy name. So this is from the Sixth Canto of //Śrīmad-Bhāgavatam.// [[books:sb:6:1:6|[SB 6.1.6]]]
 

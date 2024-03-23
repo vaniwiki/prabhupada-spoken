@@ -9,24 +9,6 @@
 
 ====== Purport to Parama Koruṇa ======
 
----- dataentry spoken ----
-id_hidden        : 750228pu.atl
-listtype_hidden  : Parama Koruṇa
-listdate_hidden  : 1975-02-28
-showdate_hidden  : 2023-02-28
-listplace_hidden : Atlanta
-Type_spoken      : Song Purport
-Date_spoken      : February 28
-Year_spoken      : 1975
-Place_spoken     : Atlanta
-Length_hidden    : 37:18
-Title_hidden     : Purport to Parama Koruṇa
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750228pu.atl.mp3|Purport to Parama Koruṇa — February 28, 1975, Atlanta}}
-</audio>
-
 **Prabhupāda:**
 //...pahū dui jana. Pahū// means //prabhu.// The shortcut is //pahū. Prabhu,// lord, or master. So these //prabhu,// two, two //prabhus,// Caitanya Mahāprabhu and Nityānanda Prabhu. Caitanya Mahāprabhu is addressed as Mahāprabhu, Mahā-puruṣa. And others, they are addressed as //prabhu.// So these two //prabhus,// Nityānanda Prabhu and Caitanya Mahāprabhu, are very merciful, //parama koruṇa. Parama koruṇa// means extremely merciful. Extremely merciful because Kṛṣṇa is also merciful, but because He is the Supreme Personality of Godhead in His original feature... Caitanya Mahāprabhu is also Kṛṣṇa, but He is acting as devotee. He is not acting as Kṛṣṇa. He is acting as devotee of Kṛṣṇa.
 

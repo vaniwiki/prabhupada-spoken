@@ -9,24 +9,6 @@
 
 ====== Room Conversation on Śrīmad-Bhāgavatam 1.10.11 ======
 
----- dataentry spoken ----
-id_hidden        : 731103r1.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-11-03
-showdate_hidden  : 2023-11-03
-listplace_hidden : Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : November 3
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 38:24
-Title_hidden     : Room Conversation on Śrīmad-Bhāgavatam 1.10.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731103r1.del.mp3|Room Conversation on Śrīmad-Bhāgavatam 1.10.11 — November 3, 1973, Delhi}}
-</audio>
-
 **Pradyumna:**
 
 > sat-saṅgān mukta-duḥsaṅgo

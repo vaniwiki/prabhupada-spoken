@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710716le.det
-listtype_hidden  : Lecture
-listdate_hidden  : 1971-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : Detroit
-Type_spoken      : Lecture
-Date_spoken      : July 16
-Year_spoken      : 1971
-Place_spoken     : Detroit
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710716le.det.mp3|Lecture — July 16, 1971, Detroit}}
-</audio>
-
 **Prabhupāda:**
 So the window doors are open or not?
 

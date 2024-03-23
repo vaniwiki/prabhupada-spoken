@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.1 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 731026bg.bom
-listtype_hidden  : Bg 7.1 [Hindi]
-listdate_hidden  : 1973-10-26
-showdate_hidden  : 2023-10-26
-listplace_hidden : Bombay
-Type_spoken      : Hindi
-Date_spoken      : October 26
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 36:18
-Title_hidden     : Bhagavad-gītā 7.1 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731026bg.bom_hindi.mp3|Bg 7.1 [Hindi] — October 26, 1973, Bombay}}
-</audio>
-
 **Pradyumna: **"Now hear, O son of Pṛthā, how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt." [[books:bg:7:1|[Bg. 7.1]]]
 
 **Prabhupāda:**

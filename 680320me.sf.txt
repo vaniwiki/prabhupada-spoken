@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 680320me.sf
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1968-03-20
-showdate_hidden  : 2023-03-20
-listplace_hidden : San Francisco
-Type_spoken      : Morning Walk
-Date_spoken      : March 20
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Morning Walk [partial recording]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680320me.sf.mp3|Morning Walk — March 20, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 The symptoms of Kali-yuga have already begun, five thousand years past. And it will increase. [break] ...proud of advancing, but these things are important items of human civilization. They are decreasing. [break]
 

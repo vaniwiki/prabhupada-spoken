@@ -9,24 +9,6 @@
 
 ====== Arrival Address ======
 
----- dataentry spoken ----
-id_hidden        : 730405ar.ny
-listtype_hidden  : Arrival Address
-listdate_hidden  : 1973-04-05
-showdate_hidden  : 2023-04-05
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : April 5
-Year_spoken      : 1973
-Place_spoken     : New York
-Length_hidden    : 10:18
-Title_hidden     : Arrival Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730405ar.ny.mp3|Arrival Address — April 5, 1973, New York}}
-</audio>
-
 **Prabhupāda:**
 [//prema-dhvani//] [break]
 

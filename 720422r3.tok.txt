@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Dai Nippon Representative ======
 
----- dataentry spoken ----
-id_hidden        : 720422r3.tok
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-04-22
-showdate_hidden  : 2023-04-22
-listplace_hidden : Tokyo
-Type_spoken      : Room Conversation
-Date_spoken      : April 22
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 35:47
-Title_hidden     : Conversation with Dai Nippon Representative
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720422r3.tok.mp3|Room Conversation with Dai Nippon Representative — April 22, 1972, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 ...so many assistants. Similarly, God can expand Himself for different... So Lord Buddha appeared to stop animal killing. //Keśava dhṛta-buddha-śarīra jaya jagadīśa hare// [//Śrī Daśāvatāra-stotra// 9]. This is Sanskrit. Lord Kṛṣṇa, Keśava, He was very much compassionate on the poor animals. "And now You have appeared as Lord Buddha," //buddha-śarīra,// "taking the body of Lord Buddha." //Sadaya-hṛdaya darśita-paśu-ghātam.// He was so much compassionate by seeing unnecessarily animal sacrifice. When there was too much animal sacrifice in India, Lord Buddha appeared.
 

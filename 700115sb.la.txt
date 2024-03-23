@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.19 ======
 
----- dataentry spoken ----
-id_hidden        : 700115sb.la
-listtype_hidden  : SB 6.1.19
-listdate_hidden  : 1970-01-15
-showdate_hidden  : 2023-01-15
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 15
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700115sb.la.mp3|SB 6.1.19 — January 15, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 
 > sakṛn manaḥ kṛṣṇa-padāravindayor

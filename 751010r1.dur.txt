@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Professor Olivier ======
 
----- dataentry spoken ----
-id_hidden        : 751010r1.dur
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-10-10
-showdate_hidden  : 2023-10-10
-listplace_hidden : Durban
-Type_spoken      : Room Conversation
-Date_spoken      : October 10
-Year_spoken      : 1975
-Place_spoken     : Durban
-Length_hidden    : 101:19
-Title_hidden     : Room Conversation with Professor Olivier, Rector, University of Durban, Westville
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751010r1.dur.mp3|Room Conversation with Professor Olivier — October 10, 1975, Durban}}
-</audio>
-
 **Prof. Olivier:**
 Well, we didn't get the... We didn't get time to discuss some of the...
 

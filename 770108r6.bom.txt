@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770108r6.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 8
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 06:29
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770108r6.bom.mp3|Room Conversation — January 8, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Let them chant and take //prasādam.// They'll... Everyone will get. Then gradually, as a snake charming, by chanting, chanting, chanting, then they will be subdued. And that is guaranteed process. There is no doubt. Anyone, even a man is like a snake. In material world everyone is a snake---envious. Snake is very envious. You are passing by the side, "Oh! You are passing by my side?" This is snake. No offense. Because he is passing---he has got the poison---he'll utilize it. This is snake. Without offense. If somebody hurts him or tramples him---no. "Oh, you are so daring? You are passing? You do not know I am snake?" //Sarpaḥ kruraḥ khalaḥ kruraḥ sarpāt krurataraḥ khalaḥ// [//Nīti Śāstra//]. There are similarly men also. Unnecessarily they are envious, offensive. Unnecessary. They cannot tolerate others' opulence. Just like our Godbrothers. They are envious. What I have done to them? I am doing my business, trying to serve my Guru Mahārāja. But they are envious because I am so opulent. I have got so much fame, so many influence, so much influence all over the world. Everyone is praising me about... This is ignorance. And this is regrettable, because they are posing themselves as Vaiṣṇava. Ordinary man can do that, but they are dressing like Vaiṣṇava, and they are so envious. That Tīrtha Mahārāja, unnecessarily he was envious, whole life fighting, fighting, fighting in the court and died. Simply planning. [pause] So who has gone for the beads?
 

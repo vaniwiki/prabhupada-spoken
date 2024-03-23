@@ -9,24 +9,6 @@
 
 ====== Departure Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 750312dp.lon
-listtype_hidden  : Departure Lecture
-listdate_hidden  : 1975-03-12
-showdate_hidden  : 2023-03-12
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : March 12
-Year_spoken      : 1975
-Place_spoken     : London
-Length_hidden    : 39:42
-Title_hidden     : Departure Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750312dp.lon.mp3|Departure Lecture — March 12, 1975, London}}
-</audio>
-
 **Prabhupāda:**
 ...where he is?
 

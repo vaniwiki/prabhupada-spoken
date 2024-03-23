@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Mr. Deshimaru ======
 
----- dataentry spoken ----
-id_hidden        : 740613r1.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-13
-showdate_hidden  : 2023-06-13
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : June 13
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 104:29
-Title_hidden     : Room Conversation with Mr. Deshimaru
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740613r1.par.mp3|Room Conversation with Mr. Deshimaru — June 13, 1974, Paris}}
-</audio>
-
 **M. Deshimaru:**
 [French]
 

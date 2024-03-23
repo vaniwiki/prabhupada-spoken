@@ -9,24 +9,6 @@
 
 ====== Talk with Svarūpa Dāmodara ======
 
----- dataentry spoken ----
-id_hidden        : 770418r1.bom
-listtype_hidden  : Talk with Svarūpa Dāmodara
-listdate_hidden  : 1977-04-18
-showdate_hidden  : 2023-04-18
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 18
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 38:21
-Title_hidden     : Talk with Svarūpa Dāmodara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770418r1.bom.mp3|Talk with Svarūpa Dāmodara — April 18, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. Hmm. Thank you. [Bengali]
 

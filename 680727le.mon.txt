@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 680727le.mon
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1968-07-27
-showdate_hidden  : 2023-07-27
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : July 27
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680727le.mon.mp3|Lecture [partially recorded] — July 27, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 
 > ...caitanya prabhu-nityānanda

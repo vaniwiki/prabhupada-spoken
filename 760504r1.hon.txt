@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760504r1.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-04
-showdate_hidden  : 2023-05-04
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : May 4
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 47:06
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760504r1.hon.mp3|Room Conversation — May 4, 1976, Honolulu}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 ...just on the Sunday easily. Charge them... You know, like in Los Angeles, we used to charge a dollar a...
 

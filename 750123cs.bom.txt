@@ -9,24 +9,6 @@
 
 ====== Cornerstone Laying, Bhagavad-gītā 16.7–9 ======
 
----- dataentry spoken ----
-id_hidden        : 750123cs.bom
-listtype_hidden  : Cornerstone, Bg 16.7–9
-listdate_hidden  : 1975-01-23
-showdate_hidden  : 2023-01-23
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : January 23
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 26:06
-Title_hidden     : Cornerstone Laying, Bhagavad-gītā 16.7–9
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750123cs.bom.mp3|Cornerstone Laying, Bhagavad-gītā 16.7-9 — January 23, 1975, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers]
 

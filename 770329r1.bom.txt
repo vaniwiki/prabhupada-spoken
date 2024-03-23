@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Kuwaiti Guests ======
 
----- dataentry spoken ----
-id_hidden        : 770329r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-03-29
-showdate_hidden  : 2023-03-29
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : March 29
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 12:25
-Title_hidden     : Room Conversation with Kuwaiti Guests
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770329r1.bom.mp3|Room Conversation with Kuwaiti Guests — March 29, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ... our whole original consciousness. So any system of religion which revives this consciousness is first-class religion. It doesn't matter whether it is Christian religion or Hindu religion or Muhammadan religion. The system which revives original consciousness---that "I am eternally related with God as part and parcel. My aim of life is go back to home, back to Godhead and to act accordingly"---this is God consciousness.
 

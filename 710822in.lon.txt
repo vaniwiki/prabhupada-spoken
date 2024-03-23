@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710822in.lon
-listtype_hidden  : Initiation Lecture
-listdate_hidden  : 1971-08-22
-showdate_hidden  : 2023-08-22
-listplace_hidden : London
-Type_spoken      : Initiation
-Date_spoken      : August 22
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Initiation Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710822in.lon.mp3|Initiation Lecture — August 22, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 [chants responsively with devotees:]
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.1 ======
 
----- dataentry spoken ----
-id_hidden        : 760505sb.hon
-listtype_hidden  : SB 6.1.1
-listdate_hidden  : 1976-05-05
-showdate_hidden  : 2023-05-05
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 5
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 12:17
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760505sb.hon.mp3|SB 6.1.1 — May 5, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 //Śrīmad-Bhāgavatam,// Sixth Canto, the first chaper, text number one. [leads chanting; devotees repeat]
 

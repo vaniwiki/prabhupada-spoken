@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.12 ======
 
----- dataentry spoken ----
-id_hidden        : 761212bg.hyd
-listtype_hidden  : Bg 2.12
-listdate_hidden  : 1976-12-12
-showdate_hidden  : 2023-12-12
-listplace_hidden : Hyderabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 12
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 20:24
-Title_hidden     : Bhagavad-gītā 2.12
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761212bg.hyd.mp3|Bg 2.12 — December 12, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 
 > na tv evāhaṁ jātu nāsaṁ

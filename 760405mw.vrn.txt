@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760405mw.vrn
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-04-05
-showdate_hidden  : 2023-04-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : April 5
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 20:27
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760405mw.vrn.mp3|Morning Walk — April 5, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 //Vaiṣṇava ācāra.// [break] ...how nice. This kind of building cannot be constructed. It will require //crores// of money. Yes. [break]
 

@@ -9,24 +9,6 @@
 
 ====== Conversation about Old Days in Calcutta ======
 
----- dataentry spoken ----
-id_hidden        : 770701r5.vrn
-listtype_hidden  : Conversation about Old Days in Calcutta
-listdate_hidden  : 1977-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 1
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 26:37
-Title_hidden     : Conversation about Old Days in Calcutta
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770701r5.vrn.mp3|Conversation about Old Days in Calcutta — July 1, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Then we began to... I used to call his wife //didi,// as my sister, eldest sister. That man was old. At that time he was at least seventy years old. And his wife died, so he had no children, so he married again. Old husband, young wife, but the relationship was so nice, great devotee, and wife devoted.
 

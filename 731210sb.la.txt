@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.15.32 ======
 
----- dataentry spoken ----
-id_hidden        : 731210sb.la
-listtype_hidden  : SB 1.15.32
-listdate_hidden  : 1973-12-10
-showdate_hidden  : 2023-12-10
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 10
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 20:05
-Title_hidden     : Śrīmad-Bhāgavatam 1.15.32
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731210sb.la.mp3|SB 1.15.32 — December 10, 1973, Los Angeles}}
-</audio>
-
 **Pradyumna:** Translation: "Upon hearing of Lord Kṛṣṇa's returning to His abode, and upon understanding the end of the Yadu dynasty's earthly manifestation, Mahārāja Yudhiṣṭhira decided to go back home, back to Godhead." [[books:sb:1:15:32|[SB 1.15.32]]]
 
 **Prabhupāda:**

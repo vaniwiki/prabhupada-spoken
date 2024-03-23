@@ -9,24 +9,6 @@
 
 ====== Lecture at St. Pascal’s Franciscan Seminary ======
 
----- dataentry spoken ----
-id_hidden        : 740628le.mel
-listtype_hidden  : Lecture at St. Pascal’s Franciscan Seminary
-listdate_hidden  : 1974-06-28
-showdate_hidden  : 2023-06-28
-listplace_hidden : Melbourne
-Type_spoken      : Lecture
-Date_spoken      : June 28
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 65:46
-Title_hidden     : Lecture at St. Pascal’s Franciscan Seminary
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740628le.mel.mp3|Lecture at St. Pascal’s Franciscan Seminary — June 28, 1974, Melbourne}}
-</audio>
-
 **Father Greene:**
 ...there is more to life than what we see and touch and hear, that there is a need for salvation, redemption, in one form or another. And that both these ideas, that we do not live on bread alone and that we need salvation, lead us to agree that there is something beyond this life which we can call at least in general, to use a technical word, the Transcendence. I think within this context we can talk and discuss and agree at least to some extent. I would now like to ask one of the Australian members of the Hare Kṛṣṇa movement to introduce their leader to us in a more personal manner.
 

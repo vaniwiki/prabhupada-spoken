@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761226r3.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-26
-showdate_hidden  : 2023-12-26
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 26
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 20:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761226r3.bom.mp3|Room Conversation — December 26, 1976, Bombay}}
-</audio>
-
 **Jagadīśa:**
 "...is not actually religious but is an exploitative brainwashing technique. In the past and even today the leaders of the Hare Kṛṣṇa faith, as we understand, have been abducted, assaulted and subjected to mental and physical abuse. We also understand that there are widespread pressures being applied to convince the media and the government that religious freedom should not include the choice to live by the tenets of the Hare Kṛṣṇa Hindu scriptures. We strongly feel all these developments to be objectionable to all freedom-loving people of this great country. We will appreciate if you please look into this matter and take the needed steps to halt such religious suppression. Signed, V. J. Pandhi, Corporation Secretary and Member of the Board of Directors."
 

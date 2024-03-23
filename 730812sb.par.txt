@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.1–2 ======
 
----- dataentry spoken ----
-id_hidden        : 730812sb.par
-listtype_hidden  : SB 5.5.1–2
-listdate_hidden  : 1973-08-12
-showdate_hidden  : 2023-08-12
-listplace_hidden : Paris
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 12
-Year_spoken      : 1973
-Place_spoken     : Paris
-Length_hidden    : 42:54
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.1–2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730812sb.par.mp3|SB 5.5.1-2 — August 12, 1973, Paris}}
-</audio>
-
 [This lecture was simultaneously translated into French by Jyotirmayī-devī dāsī]
 
 **Prabhupāda:**

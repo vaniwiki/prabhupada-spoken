@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.1 ======
 
----- dataentry spoken ----
-id_hidden        : 720912sb.dal
-listtype_hidden  : SB 2.1.1
-listdate_hidden  : 1972-09-12
-showdate_hidden  : 2023-09-12
-listplace_hidden : Dallas
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 12
-Year_spoken      : 1972
-Place_spoken     : Dallas
-Length_hidden    : 32:30
-Title_hidden     : Śrīmad-Bhāgavatam 2.1.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720912sb.dal.mp3|SB 2.1.1 — September 12, 1972, Dallas}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

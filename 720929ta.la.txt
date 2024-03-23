@@ -9,24 +9,6 @@
 
 ====== Talk ======
 
----- dataentry spoken ----
-id_hidden        : 720929ta.la
-listtype_hidden  : Talk
-listdate_hidden  : 1972-09-29
-showdate_hidden  : 2023-09-29
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : September 29
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 01:13
-Title_hidden     : Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720929ta.la.mp3|Talk — September 29, 1972, Los Angeles}}
-</audio>
-
 **Indian Guest:**
 What is the language?
 

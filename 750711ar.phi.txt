@@ -9,24 +9,6 @@
 
 ====== Arrival ======
 
----- dataentry spoken ----
-id_hidden        : 750711ar.phi
-listtype_hidden  : Arrival
-listdate_hidden  : 1975-07-11
-showdate_hidden  : 2023-07-11
-listplace_hidden : Philadelphia
-Type_spoken      : Lecture
-Date_spoken      : July 11
-Year_spoken      : 1975
-Place_spoken     : Philadelphia
-Length_hidden    : 21:41
-Title_hidden     : Arrival
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750711ar.phi.mp3|Arrival — July 11, 1975, Philadelphia}}
-</audio>
-
 [at airport]
 
 **Woman reporter [Anne Jackson]:**

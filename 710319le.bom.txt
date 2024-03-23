@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 10.22.35 ======
 
----- dataentry spoken ----
-id_hidden        : 710319le.bom
-listtype_hidden  : SB 10.22.35
-listdate_hidden  : 1971-03-19
-showdate_hidden  : 2023-03-19
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : March 19
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 10.22.35
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710319le.bom.mp3|SB 10.22.35 — March 19, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 There is a verse in the //Śrīmad-Bhāgavatam,//
 

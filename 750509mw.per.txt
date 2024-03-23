@@ -9,24 +9,6 @@
 
 ====== Morning Walk on Beach ======
 
----- dataentry spoken ----
-id_hidden        : 750509mw.per
-listtype_hidden  : Morning Walk on Beach
-listdate_hidden  : 1975-05-09
-showdate_hidden  : 2023-05-09
-listplace_hidden : Perth
-Type_spoken      : Morning Walk
-Date_spoken      : May 9
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 45:39
-Title_hidden     : Morning Walk on Beach
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750509mw.per.mp3|Morning Walk on Beach — May 9, 1975, Perth}}
-</audio>
-
 [Poor audio for first 1:30 Minutes]
 
 **Prabhupada:**

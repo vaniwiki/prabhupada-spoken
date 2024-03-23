@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720624r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-06-24
-showdate_hidden  : 2023-06-24
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 24
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 54:05
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720624r1.la.mp3|Room Conversation — June 24, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...to serve the Supreme Lord. America has got special advantage for serving the Supreme, and by the grace of the Lord you have got everything. Man’s first necessity is arrange for eating, sleeping. Of course, there is nothing is to be arranged, everything is arranged already. But still, due to our ignorance, we are anxious for what we shall eat, where shall I sleep, how my sense gratification will be done, how my country will be defended.
 

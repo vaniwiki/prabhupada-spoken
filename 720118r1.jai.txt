@@ -9,24 +9,6 @@
 
 ====== Room Conversation on SB 4.13.48–14.11 ======
 
----- dataentry spoken ----
-id_hidden        : 720118r1.jai
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-01-18
-showdate_hidden  : 2023-01-18
-listplace_hidden : Jaipur
-Type_spoken      : Room Conversation
-Date_spoken      : January 18
-Year_spoken      : 1973
-Place_spoken     : Jaipur
-Length_hidden    : 34:23
-Title_hidden     : Room Conversation on Śrīmad-Bhāgavatam 4.13.48–14.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720118r1.jai.mp3|Room Conversation on SB 4.13.48-14.11 — January 18, 1973, Jaipur}}
-</audio>
-
 [poor audio]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Evening Address to Paṇḍas and Scholars ======
 
----- dataentry spoken ----
-id_hidden        : 770126ad.pur
-listtype_hidden  : Evening Address to Paṇḍas and Scholars
-listdate_hidden  : 1977-01-26
-showdate_hidden  : 2023-01-26
-listplace_hidden : Jagannātha Purī
-Type_spoken      : Lecture
-Date_spoken      : January 26
-Year_spoken      : 1977
-Place_spoken     : Jagannātha Purī
-Length_hidden    : 16:03
-Title_hidden     : Evening Address to Paṇḍas and Scholars
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770126ad.pur.mp3|Evening Address to Paṇḍas and Scholars — January 26, 1977, Jagannātha Purī}}
-</audio>
-
 **Indian man (1):**
 ...Prabhupāda, who has been kind enough to grace this occasion wherein we have assembled this evening to pay our respectful homage to Jagannātha dāsa Gosvāmī, who was a contemporary of Lord Caitanya.
 

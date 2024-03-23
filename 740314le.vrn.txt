@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 740314le.vrn
-listtype_hidden  : Lecture
-listdate_hidden  : 1974-03-14
-showdate_hidden  : 2023-03-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Lecture
-Date_spoken      : March 14
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 31:01
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740314le.vrn.mp3|Lecture — March 14, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 So we are all very fortunate that different nations, from different parts of the world, are now combined together in Kṛṣṇa consciousness. Some of you, you have come from Europe: England, France, Germany, Holland, Rome. Similarly, you have come from America: New York, Chicago, Los Angeles, San Francisco; Canada: Toronto, Ottawa, Vancouver; Africa: Nairobi, South Africa. So it is very good example that you have come from different parts of the world to join in the //saṅkīrtana// movement. That is Śrī Caitanya Mahāprabhu's mission. Śrī Caitanya Mahāprabhu predicted,
 

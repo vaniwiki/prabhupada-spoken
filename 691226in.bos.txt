@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 691226in.bos
-listtype_hidden  : Initiation Lecture
-listdate_hidden  : 1969-12-26
-showdate_hidden  : 2023-12-26
-listplace_hidden : Boston
-Type_spoken      : Initiation
-Date_spoken      : December 26
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Initiation Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/691226in.bos.mp3|Initiation Lecture — December 26, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 So this chanting Hare Kṛṣṇa //mantra// is purifying your existence. //Yasmād śuddhyed sattvam. Sattvam// means existence. You are existing, I am existing, God is existing eternally. The temporary existence that we see at the present moment, this is not our existence. This is our diseased condition, crazy condition. //Piśācī pāile yena mati-cchana haya. Piśācī// means ghost or witches. When one is haunted by ghost he becomes upset of his own consciousness and talks all kinds of nonsense. Similarly, when our existence is covered by the material ghost we talk so many nonsense: "I am this body, and anything in relationship with this body is mine. I am dying. I belong to this family. I belong to this community, nation, this, that, planet." These are all just like a man haunted by ghost speaks nonsense, these are all nonsense. And the Kṛṣṇa consciousness movement is to cure this disease. //Śuddhyed sattvam,// existence. That is called //svarūpa,// real identification. //Mukti. Mukti// means... This word is very popular, //mukti,// liberation. What is that liberation? Liberation means to come to this platform of Kṛṣṇa consciousness. That is liberation. //Svarūpeṇa vyavasthitiḥ// [[books:sb:2:10:6|[SB 2.10.6]]]. //Mukti// is defined in the //Śrīmad-Bhāgavatam: muktir hitvānyathā rūpam. Muktir hitvā anyathā rūpam. Anyathā rūpam. Rūpam// means form. We are in a form which is not liberated form. Material form. This form which we have got just now, this form, when it will be finished, you'll never get this form. Another form. Another. Just like bubbles. Bubbles in the ocean, they come out. You cannot have the exact same bubbles, same measurement. No. That is going on. Similarly, this //rūpam// is //anyathā.// This is not our //rūpam,// our form. Therefore sometimes in Vedic literature it is stated, "formless." Formless does not mean has no form. Not this form. That is formless. But people with less intelligence, they think formless means there's no form. Formless means not this form. This is //anyathā rūpam.// This is different from our real form. So //mukti// means to give up this unreal form and accept your real form. Just like freedom from disease. Get free from the diseased condition and come to real healthy life.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 721002mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-10-02
-showdate_hidden  : 2023-10-02
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : October 2
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 32:15
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721002mw.la.mp3|Morning Walk — October 2, 1972, Los Angeles}}
-</audio>
-
 [walking]
 
 **Svarūpa Dāmodara:**

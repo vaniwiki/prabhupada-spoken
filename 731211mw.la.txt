@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731211mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-11
-showdate_hidden  : 2023-12-11
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 11
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 50:48
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731211mw.la.mp3|Morning Walk — December 11, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [in car] ...innocent child, woman, they're innocent. They should be given full protection. There is no such thing. They're being exploited, keeping them unmarried, and the hotels and the clubs and the, what is called? Top..., top...
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 10.8 ======
 
----- dataentry spoken ----
-id_hidden        : 670106bg.ny
-listtype_hidden  : Bg 10.8
-listdate_hidden  : 1967-01-06
-showdate_hidden  : 2023-01-06
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : January 6
-Year_spoken      : 1967
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 10.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670106bg.ny.mp3|Bg 10.8 — January 6, 1967, New York}}
-</audio>
-
 **Prabhupāda:**
 //...iti matvā bhajante māṁ budhā bhāva-samanvitāḥ:// [[books:bg:10:8|[Bg. 10.8]]] "I am the origin of everything." Everything means universe also. Whatever you can imagine, that comes within the category of everything. So if Kṛṣṇa is the source of everything, then if you love Kṛṣṇa, then you love universe. Actually that is so. If you love your father, then you love your brother. If you love your country, then you love your countrymen. Suppose we are in foreign country, and here is one gentleman from India. I am from India. So naturally we ask, "Oh, you come from India? Which part of India you come?" Why attraction for that person? Because I love India. And because he happens to be Indian, therefore I love him. So the love begins from the origin. If you love your body, then you love your finger. If you are careless of your body, your health, you don't care for your finger. Therefore //Bhagavad-gītā// says that
 

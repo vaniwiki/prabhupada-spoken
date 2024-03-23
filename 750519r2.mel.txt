@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Jesuit ======
 
----- dataentry spoken ----
-id_hidden        : 750519r2.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-19
-showdate_hidden  : 2023-05-19
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : May 19
-Year_spoken      : 1975
-Place_spoken     : Melbourne
-Length_hidden    : 76:55
-Title_hidden     : Room Conversation with Jesuit
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750519r2.mel.mp3|Room Conversation with Jesuit — May 19, 1975, Melbourne}}
-</audio>
-
 **Jesuit:**
 How are you? Pleased to meet you. Good of you to see me.
 

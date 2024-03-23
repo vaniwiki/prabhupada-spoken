@@ -9,24 +9,6 @@
 
 ====== Speech at Śrī Caitanya Maṭha ======
 
----- dataentry spoken ----
-id_hidden        : 720219ad.vis
-listtype_hidden  : Speech at Śrī Caitanya Maṭha
-listdate_hidden  : 1972-02-19
-showdate_hidden  : 2023-02-19
-listplace_hidden : Visakhapatnam
-Type_spoken      : Lecture
-Date_spoken      : February 19
-Year_spoken      : 1972
-Place_spoken     : Visakhapatnam
-Length_hidden    : 16:00
-Title_hidden     : Speech at Śrī Caitanya Maṭha
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720219ad.vis.mp3|Speech at Śrī Caitanya Maṭha — February 19, 1972, Visakhapatnam}}
-</audio>
-
 **Prabhupāda:**
 ...His Holiness Śrīpāda Puri Mahārāja. we are very much thankful to the authorities of this temple for giving us shelter and associating with this holy function.
 

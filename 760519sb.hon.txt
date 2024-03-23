@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.19 ======
 
----- dataentry spoken ----
-id_hidden        : 760519sb.hon
-listtype_hidden  : SB 6.1.19
-listdate_hidden  : 1976-05-19
-showdate_hidden  : 2023-05-19
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 19
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 25:48
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760519sb.hon.mp3|SB 6.1.19 — May 19, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 //Śrīmad-Bhāgavatam,// Sixth Canto, Chapter One, verse number nineteen. Is that verse number right?
 

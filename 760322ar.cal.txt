@@ -9,24 +9,6 @@
 
 ====== Arrival Talk ======
 
----- dataentry spoken ----
-id_hidden        : 760322ar.cal
-listtype_hidden  : Arrival Talk
-listdate_hidden  : 1976-03-22
-showdate_hidden  : 2023-03-22
-listplace_hidden : Calcutta
-Type_spoken      : Lecture
-Date_spoken      : March 22
-Year_spoken      : 1976
-Place_spoken     : Calcutta
-Length_hidden    : 06:17
-Title_hidden     : Arrival Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760322ar.cal.mp3|Arrival Talk — March 22, 1976, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 So I must first of all thank you for decorating Rādhā-Mādhava so nicely. So we are coming from Māyāpur, from the birthplace of Śrī Caitanya Mahāprabhu. And Śrī Caitanya Mahāprabhu is combination of Rādhā-Mādhava. //Śrī-kṛṣṇa-caitanya, rādhā-kṛṣṇa nahe anya// [//Śrī Guru-paramparā// 6]. So Śrī Caitanya Mahāprabhu wanted that in every town, every village of this globe, this cult of Kṛṣṇa consciousness should be preached. And it was given to the Indians: //bhārata bhūmite manuṣya-janma haila yāra// [[books:cc:adi:9:41|[Cc. Ādi 9.41]]]. It was the duty of the Indians. But in one sense, Bhāratavarṣa means this planet. Formerly there was one flag, Bhāratavarṣa, and the capital was Hastināpura. Gradually the control of the Pāṇḍavas declined. Up to Mahārāja Parīkṣit, the whole world was Bhāratavarṣa. Now it has become a teeny land, peninsula. So in that sense, anyone who is..., who has taken birth on this planet, it is the duty of him to spread Kṛṣṇa consciousness. So by the grace of Kṛṣṇa, you European boys and girls, you have taken very seriously, and Kṛṣṇa will be very much pleased upon you.
 

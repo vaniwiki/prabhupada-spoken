@@ -9,24 +9,6 @@
 
 ====== Press Conference ======
 
----- dataentry spoken ----
-id_hidden        : 740418pc.hyd
-listtype_hidden  : Press Conference
-listdate_hidden  : 1974-04-18
-showdate_hidden  : 2023-04-18
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : April 18
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 37:02
-Title_hidden     : Press Conference
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740418pc.hyd.mp3|Press Conference — April 18, 1974, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 ...I shall speak?
 

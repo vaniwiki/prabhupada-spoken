@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.391–405 ======
 
----- dataentry spoken ----
-id_hidden        : 670102cc.ny
-listtype_hidden  : Cc. Madhya 20.391–405
-listdate_hidden  : 1967-01-02
-showdate_hidden  : 2023-01-02
-listplace_hidden : New York
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : January 2
-Year_spoken      : 1967
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.391–405
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670102cc.ny.mp3|Cc. Madhya 20.391-405 — January 2, 1967, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > aiche kṛṣṇera līlā-maṇḍala caudda-manvantare

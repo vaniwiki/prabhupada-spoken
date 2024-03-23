@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.31, partially recorded ======
 
----- dataentry spoken ----
-id_hidden        : 740812sb.vrn
-listtype_hidden  : SB 1.5.31, partially recorded
-listdate_hidden  : 1974-08-12
-showdate_hidden  : 2023-08-12
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 12
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 06:30
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.31 [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740812sb.vrn.mp3|SB 1.5.31, partially recorded — August 12, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...affair of this Vṛndāvana-dhāma. They simply, they're searching after. They never said. //He rādhe vraja-devike ca lalite he nanda-sūno kutaḥ// [//Ṣaḍ-gosvāmy-aṣṭaka// 8]: "Oh, where is Rādhārāṇī? Where You are? Where are Your friends, Lalitā and Viśākhā? Where is Nanda, son of Mahārāja Nanda, Kṛṣṇa?" //Śrī-govardhana-kalpa-pādapa-tale kālindī-vane kutaḥ:// "Where are You? Are You near the Govardhana Hill or in the forest on the bank of the Yamunā?" //Ghoṣantāv iti khedair mahā-vihvalau.// They are crying, "Where is Kṛṣṇa? Where is Kṛṣṇa? Where is Rādhārāṇī? Where is...?" They're crying: //ghoṣantāv iti sarvato vraja-pure khedair mahā-vihvalau.// Mad. Mad after. //Vande rūpa-sanātanau raghu-yugau śrī-jīva-gopālakau.// This is the process of //kṛṣṇa-bhajana.// Not that "I've seen just last night Kṛṣṇa dancing with the //gopīs.//" It is not so easy.
 

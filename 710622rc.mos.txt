@@ -9,24 +9,6 @@
 
 ====== Conversation with Prof. Kotovsky ======
 
----- dataentry spoken ----
-id_hidden        : 710622rc.mos
-listtype_hidden  : Conversation with Prof. Kotovsky
-listdate_hidden  : 1971-06-22
-showdate_hidden  : 2023-06-22
-listplace_hidden : Moscow
-Type_spoken      : Room Conversation
-Date_spoken      : June 22
-Year_spoken      : 1971
-Place_spoken     : Moscow
-Length_hidden    : 00:00
-Title_hidden     : Conversation with Prof. Kotovsky
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710622rc.mos.mp3|Conversation with Prof. Kotovsky — June 22, 1971, Moscow}}
-</audio>
-
 **Prabhupāda:**
 Modern sociology is targeting the state or the people as the owner of a certain state, but our Vedic conception is //īśāvāsyam idaṁ sarvaṁ:// [Īśo //mantra 1//] "Everything is owned by //Īśa,// the Supreme Controller." //Tena tyaktena bhuñjīthā:// "What is given by Him, allotted to you, you enjoy that." //Mā gṛdhaḥ kasya svid dhanam:// "But we not encroach upon others' property." This is //Īśopaniṣad, Vedas.// And the same idea is explained in different //Purāṇas.// So the //Vedas// can give you... The other day I was reading in the, that paper, Moscow News, there was a congress, Communist congress, and the president declared that "We are ready to get others' experience to improve." So I think the Vedic concept of socialism or communism will much improve the idea of communism. Just like we are thinking in terms of human beings, the commu..., socialistic state, that "Nobody should starve. Everyone must have his food." And in the Vedic conception of //gṛhastha,// householder, it is recommended there that a householder shall see that even a lizard living in the room or even a snake living in that house should not starve. They should be also given food. And what to speak of others? The //gṛhastha,// before taking his lunch, he is recommended to stand on the road and declare that "If anybody is still hungry, please come. Food is ready." Then, if there is no response, then the proprietor of the household life, he takes his lunch. In this way there are so many good concept about this socialistic idea of communism. So I thought that these ideas might have been distributed to some of your thoughtful men. Therefore I was anxious to speak with you.
 

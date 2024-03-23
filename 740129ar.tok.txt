@@ -9,24 +9,6 @@
 
 ====== Arrival ======
 
----- dataentry spoken ----
-id_hidden        : 740129ar.tok
-listtype_hidden  : Arrival
-listdate_hidden  : 1974-01-29
-showdate_hidden  : 2023-01-29
-listplace_hidden : Tokyo
-Type_spoken      : Lecture
-Date_spoken      : January 29
-Year_spoken      : 1974
-Place_spoken     : Tokyo
-Length_hidden    : 50:47
-Title_hidden     : Arrival
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740129ar.tok.mp3|Arrival — January 29, 1974, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 The government export then import. [Hindi conversation with Indian man]
 

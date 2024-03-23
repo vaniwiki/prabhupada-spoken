@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.7.40–44 ======
 
----- dataentry spoken ----
-id_hidden        : 670320sb.sf
-listtype_hidden  : SB 7.7.40–44
-listdate_hidden  : 1967-03-20
-showdate_hidden  : 2023-03-20
-listplace_hidden : San Francisco
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 20
-Year_spoken      : 1967
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.7.40–44
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670320sb.sf.mp3|SB 7.7.40-44 — March 20, 1967, San Francisco}}
-</audio>
-
 [incomplete lecture]
 
 **Prabhupāda:**

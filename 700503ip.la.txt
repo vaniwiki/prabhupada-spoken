@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 1 ======
 
----- dataentry spoken ----
-id_hidden        : 700503ip.la
-listtype_hidden  : Īśo Mantra 1
-listdate_hidden  : 1970-05-03
-showdate_hidden  : 2023-05-03
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : May 3
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Īśopaniṣad, Mantra 1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700503ip.la.mp3|Śrī Īśopaniṣad, Mantra 1 — May 3, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi. Ādi-puruṣam,// the original Personality of Godhead. So, when we speak of Govinda, Govinda is not alone. Just like when we speak of king, it is to be understood that king is not alone. He has got many other followers, secretaries, ministers, soldiers---whole state. Similarly, when we speak of Govindam, behind Govinda, with Govinda, all living entities, all creation, everything... Govindam. So you can st... [break]
 

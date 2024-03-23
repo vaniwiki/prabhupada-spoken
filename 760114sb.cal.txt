@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.2 [Bengali] ======
 
----- dataentry spoken ----
-id_hidden        : 760114sb.cal
-listtype_hidden  : SB 5.5.2 [Bengali]
-listdate_hidden  : 1976-01-14
-showdate_hidden  : 2023-01-14
-listplace_hidden : Calcutta
-Type_spoken      : Bengali
-Date_spoken      : January 14
-Year_spoken      : 1976
-Place_spoken     : Calcutta
-Length_hidden    : 40:07
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.2 [Bengali]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760114sb.cal_bengali.mp3|SB 5.5.2 [Bengali] — January 14, 1976, Calcutta}}
-</audio>
-
 > mahat-sevāṁ dvāram āhur vimuktes
 > tamo-dvāraṁ yoṣitāṁ saṅgi-saṅgam
 > mahāntas te sama-cittāḥ praśāntā

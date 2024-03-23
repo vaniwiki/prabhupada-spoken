@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 9–10 ======
 
----- dataentry spoken ----
-id_hidden        : 700514ip.la
-listtype_hidden  : Īśo Mantra 9–10
-listdate_hidden  : 1970-05-14
-showdate_hidden  : 2023-05-14
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : May 14
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 27:02
-Title_hidden     : Śrī Īśopaniṣad, Mantra 9–10
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700514ip.la.mp3|Śrī Īśopaniṣad, Mantra 9-10 — May 14, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [chuckles] Hare Kṛṣṇa. Chant. //Oṁ pūrṇam adaḥ.// [chants with devotees] Loudly. [chants Mantras 1–10] "The wise have explained to us that one result is derived from the culture of knowledge, and it is said that a different result is obtained from the culture of nescience."
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Devotees ======
 
----- dataentry spoken ----
-id_hidden        : 750801r1.no
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-08-01
-showdate_hidden  : 2023-08-01
-listplace_hidden : New Orleans
-Type_spoken      : Room Conversation
-Date_spoken      : August 1
-Year_spoken      : 1975
-Place_spoken     : New Orleans
-Length_hidden    : 39:01
-Title_hidden     : Room Conversation with Devotees
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750801r1.no.mp3|Room Conversation with Devotees — August 1, 1975, New Orleans}}
-</audio>
-
 **Prabhupāda:**
 That is time for punishment. They should build up their character, //śamaḥ, damaḥ,// fully controlled. When they like, they become //gṛhasthas.// Otherwise they are controlled. That is //brāhmaṇa.// For //brāhmaṇa// it is not compulsory to marry. //Kṣatriyas// may marry more than one wife. They can take. So all girls must be married. That is... They must... They must have one husband, even the husband has got fifty wives. Then the problem of girls' marriage will be solved. And as soon as one girl is pregnant, she should be separated.
 

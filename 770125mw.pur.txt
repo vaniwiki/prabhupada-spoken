@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 770125mw.pur
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1977-01-25
-showdate_hidden  : 2023-01-25
-listplace_hidden : Jagannātha Purī
-Type_spoken      : Morning Walk
-Date_spoken      : January 25
-Year_spoken      : 1977
-Place_spoken     : Jagannātha Purī
-Length_hidden    : 07:32
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770125mw.pur.mp3|Morning Walk — January 25, 1977, Jagannātha Purī}}
-</audio>
-
 **Prabhupāda:**
 //Sarpaḥ krūraḥ khalaḥ krūraḥ// [Cāṇakya Paṇḍita]. The two envious... [break] But this //sarpaḥ,// snake, can be charmed by herbs and //mantra,// but the man, envious, cannot be. Therefore he's more dangerous than the snake. //Khalaḥ kena nivāryate.//
 

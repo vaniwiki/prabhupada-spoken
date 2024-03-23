@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.8 ======
 
----- dataentry spoken ----
-id_hidden        : 721226sb.bom
-listtype_hidden  : SB 1.2.8
-listdate_hidden  : 1972-12-26
-showdate_hidden  : 2023-12-26
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 26
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 61:41
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721226sb.bom.mp3|SB 1.2.8 — December 26, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > ...puṁsāṁ

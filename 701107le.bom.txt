@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 701107le.bom
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1970-11-07
-showdate_hidden  : 2023-11-07
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : November 7
-Year_spoken      : 1970
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701107le.bom.mp3|Lecture [partially recorded] — November 7, 1970, Bombay}}
-</audio>
-
 **Prabhupāda:**
 //...śikṣāṣṭaka. Śikṣa// means instruction, and //aṣṭaka// means eight. He has given us eight verses to understand this Kṛṣṇa consciousness movement, and I shall try to explain. Please hear attentively.
 

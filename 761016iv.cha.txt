@@ -9,24 +9,6 @@
 
 ====== Press Interview ======
 
----- dataentry spoken ----
-id_hidden        : 761016iv.cha
-listtype_hidden  : Press Interview
-listdate_hidden  : 1976-10-16
-showdate_hidden  : 2023-10-16
-listplace_hidden : Chandigarh
-Type_spoken      : Interview
-Date_spoken      : October 16
-Year_spoken      : 1976
-Place_spoken     : Chandigarh
-Length_hidden    : 60:56
-Title_hidden     : Press Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761016iv.cha.mp3|Press Interview — October 16, 1976, Chandigarh}}
-</audio>
-
 [reporters from the English-language //Times of India,// the Press Trust of India, UNI, the Punjabi //Akali Patarika// and //Ajit,// and the Hindi and Urdu //Hind Samachar//]
 
 **Interviewer:**

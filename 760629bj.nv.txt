@@ -9,24 +9,6 @@
 
 ====== Bhavan’s Journal, Answers to a Questionnaire 1 ======
 
----- dataentry spoken ----
-id_hidden        : 760629bj.nv
-listtype_hidden  : Bhavan’s Journal 1
-listdate_hidden  : 1976-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : New Vrindavan
-Type_spoken      : Various
-Date_spoken      : June 29
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 113:18
-Title_hidden     : Answers to a Questionnaire from Bhavan’s Journal, Questions 1 thru 7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760629bj.nv.mp3|Bhavan’s Journal, Answers to a Questionnaire 1 — June 29, 1976, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 Beginning. From the beginning. You can add something.
 

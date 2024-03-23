@@ -9,24 +9,6 @@
 
 ====== “Life Comes From Life” Slideshow Discussions ======
 
----- dataentry spoken ----
-id_hidden        : 760704ss.wdc
-listtype_hidden  : Slideshow Discussions
-listdate_hidden  : 1976-07-04
-showdate_hidden  : 2023-07-04
-listplace_hidden : Washington, D.C.
-Type_spoken      : Room Conversation
-Date_spoken      : July 4
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 45:36
-Title_hidden     : “Life Comes From Life” Slideshow Discussions
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760704ss.wdc.mp3|“Life Comes From Life” Slideshow Discussions — July 4, 1976, Washington, D.C.}}
-</audio>
-
 **Rūpānuga:**
 Svarūpa Dāmodara Prabhu, You want to ask some questions?
 

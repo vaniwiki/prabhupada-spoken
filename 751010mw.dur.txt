@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751010mw.dur
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-10-10
-showdate_hidden  : 2023-10-10
-listplace_hidden : Durban
-Type_spoken      : Morning Walk
-Date_spoken      : October 10
-Year_spoken      : 1975
-Place_spoken     : Durban
-Length_hidden    : 02:49
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751010mw.dur.mp3|Morning Walk — October 10, 1975, Durban}}
-</audio>
-
 **Prabhupāda:**
 You are scientist? Ask them, "Don't come here." What is the use of scientist? Hmm? If they cannot stop... Stop it. Not only stop it; if the sea likes, it can overflow the whole thing.
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 16.17–19, Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760628bg.nv
-listtype_hidden  : Bg 16.17–19, Garden Conversation
-listdate_hidden  : 1976-06-28
-showdate_hidden  : 2023-06-28
-listplace_hidden : New Vrindavan
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : June 28
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 73:22
-Title_hidden     : Bhagavad-gītā 16.17–19, Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760628bg.nv.mp3|Bg 16.17-19, Garden Conversation — June 28, 1976, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 So read something.
 

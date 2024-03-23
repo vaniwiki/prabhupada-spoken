@@ -9,24 +9,6 @@
 
 ====== Initiation of Śrī-Caitanya dāsa and Wedding of Pradyumna and Arundhatī ======
 
----- dataentry spoken ----
-id_hidden        : 690514we.col
-listtype_hidden  : Initiation & Wedding
-listdate_hidden  : 1969-05-14
-showdate_hidden  : 2023-05-14
-listplace_hidden : Columbus
-Type_spoken      : Lecture
-Date_spoken      : May 14
-Year_spoken      : 1969
-Place_spoken     : Columbus
-Length_hidden    : 00:00
-Title_hidden     : Initiation of Śrī-Caitanya dāsa and Wedding of Pradyumna and Arundhatī
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690514we.col.mp3|Initiation & Wedding — May 14, 1969, Columbus}}
-</audio>
-
 **Prabhupāda:**
 It is stated, //cātur-varṇyaṁ mayā sṛṣṭaṁ guṇa-karma-vibhāgaśaḥ// [[books:bg:4:13|[Bg. 4.13]]]. The Lord says that "The four divisions of social order---namely the //brāhmaṇas,// the //kṣatriyas,// the //vaiśyas, śūdras//---these divisions were created by Me," and //guṇa-karma-vibhāgaśaḥ,// "not by birthright but by identification of qualities and actual work." In the similar way, in the //Śrīmad-Bhāgavatam// also, it is stated that //yasya hi yad varṇābhivyañjakam, lakṣaṇaṁ syāt. Yasya hi yad lakṣaṇaṁ syād varṇābhivyañjakam, tat tenaiva vinirdiśet// [[books:sb:7:11:35|[SB 7.11.35]]]. The whole Vedic system is to pick up qualitative persons. There is no such thing as birthright qualification. And Śrīdhara Swami, the greatest commentator on //Śrīmad-Bhāgavatam,// he has commented on this verse, //yasya hi yad lakṣaṇaṁ syād varṇābhivyañjakam tat tenaiva vinirdiśet, yad anyatrāpi dṛśyeta tat tenaiva vinirdiśet:// [[books:sb:7:11:35|[SB 7.11.35]]] "If such qualities are found in another platform, then he should be designated in that position." Just like if a boy born of a //brāhmaṇa// family, he has got the qualities of a //śūdra,// he should be indicated as //śūdra.// And if a boy born of a //śūdra// family but he has got the //brāhmaṇa's// qualities, then he should be accepted as //brāhmaṇa.//
 

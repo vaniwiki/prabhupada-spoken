@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.17 ======
 
----- dataentry spoken ----
-id_hidden        : 760517sb.hon
-listtype_hidden  : SB 6.1.17
-listdate_hidden  : 1976-05-17
-showdate_hidden  : 2023-05-17
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 17
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 25:18
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.17
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760517sb.hon.mp3|SB 6.1.17 — May 17, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhagavate vāsudevaya. Oṁ namo bhagavate vāsudevaya.// [devotees repeat] //Śrīmad-Bhāgavatam,// Sixth Canto, Chapter One, verse number seventeen. [leads devotees in chanting]
 

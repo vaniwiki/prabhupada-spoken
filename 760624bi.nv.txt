@@ -9,24 +9,6 @@
 
 ====== Prabhupāda Inspects New BTG ======
 
----- dataentry spoken ----
-id_hidden        : 760624bi.nv
-listtype_hidden  : Inspects New BTG
-listdate_hidden  : 1976-06-24
-showdate_hidden  : 2023-06-24
-listplace_hidden : New Vrindavan
-Type_spoken      : Various
-Date_spoken      : June 24
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 18:35
-Title_hidden     : Prabhupāda Inspects New BTG
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760624bi.nv.mp3|Prabhupāda Inspects New BTG — June 24, 1976, New Vrindavan}}
-</audio>
-
 **Puṣṭa Kṛṣṇa:**
 [reading Prabhupāda's comments from The Science of Self-Realization] "...God's property from being occupied by God's sons. America and other nations in the United Nations should agree that wherever there is enough land it may be utilized by the human society for producing food. The government can say, 'All right, you are overpopulated. Your people can come here. We will give them land, and they can produce food.' We would see a wonderful result. But will they do that? No. And what is their philosophy? Roguism. 'I will take the land by force, and then I won't allow others to come here.'
 

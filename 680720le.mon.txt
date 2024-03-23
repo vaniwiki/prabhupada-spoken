@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 680720le.mon
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1968-07-20
-showdate_hidden  : 2023-07-20
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : July 20
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680720le.mon.mp3|Lecture [partially recorded] — July 20, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 It is simply troublesome, //kleśa. Kleśa// means troublesome. Because they cannot concentrate. //Avyaktā hi gatir duḥkhaṁ dehavadbhir avāpyate.// Those who have accepted this body, for them, to think of something impersonal is simply artificial, is simply artificial. Therefore the impersonalists or the void philosophers, their process of so-called yoga is simply troublesome, and maybe some profit there, but the ultimate profit, they cannot have. It is not possible. Therefore in the //Bhagavad-gītā// it is clearly said that //yoginām api sarveṣāṁ:// [[books:bg:6:47|[Bg. 6.47]]] "Of all the yogis, the one who is thinking of Kṛṣṇa or Viṣṇu..." Because that is the ultimate goal. One has to come to the point. That point, of course, one has to come ultimately, as it is stated in the //Bhagavad-gītā, bahūnāṁ janmanām ante// [[books:bg:7:19|[Bg. 7.19]]], after many, many births. It is simply obstinacy. One who does not take to the meditation of God, or they want to meditate in something other, void or impersonal---that is not possible; that is simply troublesome---so simply they are wasting time because ultimately they have come to this point of personal conception of the Supreme Lord. //Bahūnāṁ janmanām,// after many, many births, if they are fortunate enough to meet some real devotee, then he becomes enlightened. And //vāsudevaḥ sarvam iti// [[books:bg:7:19|[Bg. 7.19]]]. He then accepts Vasudeva, Kṛṣṇa, as everything. //Sa mahātmā su-durlabhaḥ:// "Such kind of great soul is very rare."
 

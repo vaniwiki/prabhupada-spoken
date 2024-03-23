@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 9.13 ======
 
----- dataentry spoken ----
-id_hidden        : 661128bg.ny
-listtype_hidden  : Bg 9.13
-listdate_hidden  : 1966-11-28
-showdate_hidden  : 2023-11-28
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 28
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 9.13
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661128bg.ny.mp3|Bg 9.13 — November 28, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > mahātmānas tu māṁ pārtha

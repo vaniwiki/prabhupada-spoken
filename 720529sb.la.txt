@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.11–12 ======
 
----- dataentry spoken ----
-id_hidden        : 720529sb.la
-listtype_hidden  : SB 2.3.11–12
-listdate_hidden  : 1972-05-29
-showdate_hidden  : 2023-05-29
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 29
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 55:15
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.11–12
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720529sb.la.mp3|SB 2.3.11-12 — May 29, 1972, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse] [Prabhupāda and devotees repeat]
 

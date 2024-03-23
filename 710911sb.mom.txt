@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.7.28, 32–35 ======
 
----- dataentry spoken ----
-id_hidden        : 710911sb.mom
-listtype_hidden  : SB 7.7.28, 32–35
-listdate_hidden  : 1971-09-11
-showdate_hidden  : 2023-09-11
-listplace_hidden : Mombassa
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 11
-Year_spoken      : 1971
-Place_spoken     : Mombassa
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.7.28, 32–35
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710911sb.mom.mp3|SB 7.7.28, 32-35 — September 11, 1971, Mombassa}}
-</audio>
-
 **Prabhupāda:**
 ...how to make progress in //bhakti-yoga,// or //bīja-nirharaṇam.// I have explained several times, //bīja-nirharaṇam// [[books:sb:7:7:28|[SB 7.7.28]]]. There is //bīja,// the propensity for lording it over the material nature, resources, that is the //bīja// of materialistic life. How to become a very great personality within this material world. The //bhakti-yoga// is just the opposite. Here everyone is trying to become greater than the other. But //bhakti-yoga// is so nice, as Caitanya Mahāprabhu teaches us, //gopī-bhartuḥ pada-kamalayor dāsa-dāsānudāsaḥ// [[books:cc:madhya:13:80|[Cc. Madhya 13.80]]]. //Dāsa-dāsānudāsaḥ,// servant of the servant of the servant of the servant. The more you become servant of the servant, the more you advance. And here in this material, the more you become greater than your friend, then you are [indistinct]. That means more you become implicated. More... Just like the same example, the more you increase your temperature, you are facing death. Certain temperature is required, 98 degrees. But if you simply increase your temperature, "Oh, it is very nice," then at 107 degrees you finish. So this material improvement means meeting death. Let us come to the point. The nationalism is competition, which nation is greater. Now they have manufactured atomic bomb. That means finishing point they have come to.
 

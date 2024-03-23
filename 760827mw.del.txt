@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Lodi Gardens ======
 
----- dataentry spoken ----
-id_hidden        : 760827mw.del
-listtype_hidden  : Morning Walk at Lodi Gardens
-listdate_hidden  : 1976-08-27
-showdate_hidden  : 2023-08-27
-listplace_hidden : Delhi
-Type_spoken      : Morning Walk
-Date_spoken      : August 27
-Year_spoken      : 1976
-Place_spoken     : Delhi
-Length_hidden    : 07:34
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760827mw.del.mp3|Morning Walk at Lodi Gardens — August 27, 1976, Delhi}}
-</audio>
-
 **Mahāṁsa:**
 Everything he was saying is what he has learned from the Ramakrishna Society.
 

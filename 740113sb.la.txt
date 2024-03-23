@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.16.18 ======
 
----- dataentry spoken ----
-id_hidden        : 740113sb.la
-listtype_hidden  : SB 1.16.18
-listdate_hidden  : 1974-01-13
-showdate_hidden  : 2023-01-13
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 13
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 47:07
-Title_hidden     : Śrīmad-Bhāgavatam 1.16.18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740113sb.la.mp3|SB 1.16.18 — January 13, 1974, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.//
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770217r1.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-02-17
-showdate_hidden  : 2023-02-17
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 17
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 93:14
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770217r1.may.mp3|Room Conversation — February 17, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...brainwash or brain-giving, that "This movement is not brainwash; we are brain-giving. Where is your brain? First of all you must have brain; then it is a question of washing. But you have no brain; you do not know what is this life. So we are giving, brain-giving movement, not brainwashing movement." On this point. "Where is your brain? You do not... You cannot explain what is the difference between a dead man and a living man. You have got so many big, big scientists, philosophers. You do not know. So where is your brain? First of all put your brain; then it is a question of washing or... So it is not brainwashing; it is brain-giving movement. Unfortunately you have no brain; therefore you are misunderstanding." On this point the //Bhagavad-gītā// will explain. What do you think? "Brainwash or brain-giving?" This should be the heading.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Talk ======
 
----- dataentry spoken ----
-id_hidden        : 770425r1.bom
-listtype_hidden  : Morning Talk
-listdate_hidden  : 1977-04-25
-showdate_hidden  : 2023-04-25
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 25
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 46:04
-Title_hidden     : Morning Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770425r1.bom.mp3|Morning Talk — April 25, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...said that "This is our mission. Now whether you'll cooperate?" We cannot make any compromise. [break]
 

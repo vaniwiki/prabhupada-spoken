@@ -9,24 +9,6 @@
 
 ====== Garden Conversation with Dr. Allen Gerson ======
 
----- dataentry spoken ----
-id_hidden        : 750622gc.la
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1975-06-22
-showdate_hidden  : 2023-06-22
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 22
-Year_spoken      : 1975
-Place_spoken     : Los Angeles
-Length_hidden    : 85:45
-Title_hidden     : Garden Conversation with Dr. Allen Gerson
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750622gc.la.mp3|Garden Conversation with Dr. Allen Gerson — June 22, 1975, Los Angeles}}
-</audio>
-
 **Harikeśa:**
 [introducing recording] This is a recording conversation, Sunday, 5 o'clock, June 22nd.
 

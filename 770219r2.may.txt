@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Ādi-keśava Swami ======
 
----- dataentry spoken ----
-id_hidden        : 770219r2.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-02-19
-showdate_hidden  : 2023-02-19
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 19
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 50:34
-Title_hidden     : Room Conversation with Ādi-keśava Swami
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770219r2.may.mp3|Room Conversation with Ādi-keśava Swami — February 19, 1977, Māyāpur}}
-</audio>
-
 **Ādi-keśava:**
 ...about the handling of this case in New York. We've been talking a lot about the general issues, but there's some specific points. Some are very practical, have come up. For instance...
 

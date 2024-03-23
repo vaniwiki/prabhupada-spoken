@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 750222in.car
-listtype_hidden  : Initiation
-listdate_hidden  : 1975-02-22
-showdate_hidden  : 2023-02-22
-listplace_hidden : Caracas
-Type_spoken      : Initiation
-Date_spoken      : February 22
-Year_spoken      : 1975
-Place_spoken     : Caracas
-Length_hidden    : 24:15
-Title_hidden     : Initiation Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750222in.car.mp3|Initiation Lecture — February 22, 1975, Caracas}}
-</audio>
-
 [translated throughout by Hṛdayānanda]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 3.31–43 ======
 
----- dataentry spoken ----
-id_hidden        : 690101bg.la
-listtype_hidden  : Bg 3.31–43
-listdate_hidden  : 1969-01-01
-showdate_hidden  : 2023-01-01
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : January 1
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 3.31–43
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690101bg.la.mp3|Bg 3.31-43 — January 1, 1969, Los Angeles}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 We're reading from //Bhagavad-gītā As It Is,// in the chapter entitled //Karma-Yoga,// page 104, verse thirty-one. "One who executes his duty according to My injunction and who follows this teaching faithfully becomes free from the bondage of fruitive actions [[books:bg:3:31|[Bg. 3.31]]]. Purport: This injunction of the Supreme Personality of Godhead Kṛṣṇa is the essence of all Vedic wisdom."
 

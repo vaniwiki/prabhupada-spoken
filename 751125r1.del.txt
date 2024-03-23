@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 751125r1.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-11-25
-showdate_hidden  : 2023-11-25
-listplace_hidden : Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : November 25
-Year_spoken      : 1975
-Place_spoken     : Delhi
-Length_hidden    : 05:25
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751125r1.del.mp3|Room Conversation — November 25, 1975, Delhi}}
-</audio>
-
 **Prabhupāda:**
 ...this society. Only the important men, they can live as a //gṛhastha.// Not that "Now I am in love with this girl and get me married, and //yajña,// and then sleep." These things should be stopped. That, that what is his name, the rascal's name, that, whom you have driven away?
 

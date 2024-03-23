@@ -9,24 +9,6 @@
 
 ====== Purport to Bhajahū Re Mana ======
 
----- dataentry spoken ----
-id_hidden        : 690107pu.la
-listtype_hidden  : Bhajahū Re Mana
-listdate_hidden  : 1969-01-07
-showdate_hidden  : 2023-01-07
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 7
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Bhajahū Re Mana
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690107pu.la.mp3|Purport to Bhajahū Re Mana — January 7, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Bhajahū re mana, śrī-nanda-nandana-abhaya-caraṇāravinda re.// This is a song composed by Govinda dāsa, a great poet and Vaiṣṇava. He says, addressing his own mind Because mind is the center of all elevation. In the //Bhagavad-gītā// it is said that if you have your mind controlled, then your mind is the best friend. But if your mind is uncontrolled, then he is your greatest enemy. So we are seeking after friend or enemy. So both of them are sitting with me. If we can utilize the friendship of the mind, then we are elevated to the highest perfectional stage. But if we create mind as my enemy, then my path to hell is clear. Therefore Govinda dāsa Ṭhākura, he is addressing his mind. The yogis try to control the mind by different gymnastic process. That is also approved. But it takes a long time, and sometimes there are failures. In most cases they are failures. Even a big yogi like Viśvāmitra, he also failed, what to speak of these teeny and nonsensical yogis.
 

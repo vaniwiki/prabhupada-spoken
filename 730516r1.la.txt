@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Krishna Tiwari ======
 
----- dataentry spoken ----
-id_hidden        : 730516r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-05-16
-showdate_hidden  : 2023-05-16
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : May 16
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 61:46
-Title_hidden     : Room Conversation with Krishna Tiwari
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730516r1.la.mp3|Room Conversation with Krishna Tiwari — May 16, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Proper. Kanpur proper.
 

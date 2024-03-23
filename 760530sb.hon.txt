@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.31 ======
 
----- dataentry spoken ----
-id_hidden        : 760530sb.hon
-listtype_hidden  : SB 6.1.31
-listdate_hidden  : 1976-05-30
-showdate_hidden  : 2023-05-30
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 30
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 28:16
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.31
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760530sb.hon.mp3|SB 6.1.31 — May 30, 1976, Honolulu}}
-</audio>
-
 **Pradyumna:**
 [leads devotees in chanting]
 

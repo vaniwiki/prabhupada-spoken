@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.2 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 751228bg.san
-listtype_hidden  : Bg 7.2 [Hindi]
-listdate_hidden  : 1975-12-28
-showdate_hidden  : 2023-12-28
-listplace_hidden : Sanand
-Type_spoken      : Hindi
-Date_spoken      : December 28
-Year_spoken      : 1975
-Place_spoken     : Sanand
-Length_hidden    : 48:37
-Title_hidden     : Bhagavad-gītā 7.2 [Hindi with English translation]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751228bg.san_hindi.mp3|Bg 7.2 [Hindi] — December 28, 1975, Sanand}}
-</audio>
-
 [final proofreading pending]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.10.4 ======
 
----- dataentry spoken ----
-id_hidden        : 731125sb.lon
-listtype_hidden  : SB 1.10.4
-listdate_hidden  : 1973-11-25
-showdate_hidden  : 2023-11-25
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 25
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 37:05
-Title_hidden     : Śrīmad-Bhāgavatam 1.10.4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731125sb.lon.mp3|SB 1.10.4 — November 25, 1973, London}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

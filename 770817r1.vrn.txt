@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Madhudviṣa and others ======
 
----- dataentry spoken ----
-id_hidden        : 770817r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-08-17
-showdate_hidden  : 2023-08-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : August 17
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 25:18
-Title_hidden     : Room Conversation With Madhudviṣa and others
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770817r1.vrn.mp3|Room Conversation with Madhudviṣa and others — August 17, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 It doesn't matter. Live like //gṛhastha,// but don't leave. So where you are staying now?
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 18.41 ======
 
----- dataentry spoken ----
-id_hidden        : 730907bg.sto
-listtype_hidden  : Bg 18.41
-listdate_hidden  : 1973-09-07
-showdate_hidden  : 2023-09-07
-listplace_hidden : Stockholm
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : September 7
-Year_spoken      : 1973
-Place_spoken     : Stockholm
-Length_hidden    : 62:19
-Title_hidden     : Bhagavad-gītā 18.41 To Uppsala Student Assembly
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730907bg.sto.mp3|Bg 18.41 — September 7, 1973, Stockholm}}
-</audio>
-
 **Prabhupāda:**
 
 > brāhmaṇa-kṣatriya-viśāṁ

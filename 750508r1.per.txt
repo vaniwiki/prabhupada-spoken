@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Kim Cornish ======
 
----- dataentry spoken ----
-id_hidden        : 750508r1.per
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-08
-showdate_hidden  : 2023-05-08
-listplace_hidden : Perth
-Type_spoken      : Room Conversation
-Date_spoken      : May 8
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 46:15
-Title_hidden     : Room Conversation with Kim Cornish
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750508r1.per.mp3|Room Conversation with Kim Cornish — May 8, 1975, Perth}}
-</audio>
-
 **Prabhupāda:**
 ...psychology, metaphysics.
 

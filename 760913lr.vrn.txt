@@ -9,24 +9,6 @@
 
 ====== Letter to Sai Baba ======
 
----- dataentry spoken ----
-id_hidden        : 760913lr.vrn
-listtype_hidden  : Letter to Sai Baba
-listdate_hidden  : 1976-09-13
-showdate_hidden  : 2023-09-13
-listplace_hidden : Vṛndāvana
-Type_spoken      : Various
-Date_spoken      : September 13
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 50:08
-Title_hidden     : Letter to Sai Baba
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760913lr.vrn.mp3|Letter to Sai Baba — September 13, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 This says, "God is an Indian." Puttaparthi. "God is an Indian. His contemporary //avatāra...//"
 

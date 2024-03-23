@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770327r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-03-27
-showdate_hidden  : 2023-03-27
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : March 27
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 31:29
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770327r1.bom.mp3|Room Conversation — March 27, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] So if you combine together and go to any scientist, you challenge and prove scientifically. And still he sees it mistake. You do not know what is life's position, but we shall. Life is different. //Yayedaṁ dhāryate jagat// [[books:bg:7:5|[Bg. 7.5]]]. Without life, this matter has no value. This room is well decorated, well furnished. Why? //Yayedaṁ dhāryate jagat.// Because the life is there. If there was no life, then who cares for Bombay? Heaps of stone, that's all. Who cares for it? So you do not know that particular item and try to convince them according to the modern scientific... Then we shall be triumphant. Everything. Everything. Challenge these rascals, that "You have got power, and you will get more power by serving Kṛṣṇa." Your presentation was very nice.
 

@@ -9,24 +9,6 @@
 
 ====== Śrī Vyāsa-pūjā Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730822vp.lon
-listtype_hidden  : Śrī Vyāsa-pūjā
-listdate_hidden  : 1973-08-22
-showdate_hidden  : 2023-08-22
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : August 22
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 36:33
-Title_hidden     : Śrī Vyāsa-pūjā Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730822vp.lon.mp3|Śrī Vyāsa-pūjā Lecture — August 22, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 So my dear sons and daughters, I am so much obliged to you that you have become so enthusiastic for offering Vyāsa-pūjā. Now try to understand. Several times we have explained why this function is called Vyāsa-pūjā. I have already explained in the morning: this offering worshiping, one may think that "This man is teaching his disciples man-worshiping, anthropomorphism." But it is not man-worshiping. One should not misunderstand. Vyāsadeva is the original spiritual master.
 

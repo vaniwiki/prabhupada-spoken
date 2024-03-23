@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.18 ======
 
----- dataentry spoken ----
-id_hidden        : 750701sb.den
-listtype_hidden  : SB 6.1.18
-listdate_hidden  : 1975-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : Denver
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 1
-Year_spoken      : 1975
-Place_spoken     : Denver
-Length_hidden    : 22:18
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750701sb.den.mp3|SB 6.1.18 — July 1, 1975, Denver}}
-</audio>
-
 **Prabhupāda:**
 [leads //prema-dhvani//] Thank you very much.
 

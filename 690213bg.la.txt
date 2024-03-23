@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.1 ======
 
----- dataentry spoken ----
-id_hidden        : 690213bg.la
-listtype_hidden  : Bg 6.1
-listdate_hidden  : 1969-02-13
-showdate_hidden  : 2023-02-13
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 13
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690213bg.la.mp3|Bg 6.1 — February 13, 1969, Los Angeles}}
-</audio>
-
 **Devotee:**
 Verse number one. "The Blessed Lord said, 'One who is unattached to the fruits of his work and works as he is obligated, is in the renounced order of life and he is the true mystic. Not he who lights no fire and performs no work [[books:bg:6:1|[Bg. 6.1]]].' Purport. In this chapter the Lord explains that the process of the eightfold yoga system is a means to control the mind and the senses. However, this is very difficult for people in general to perform, especially in this age of Kali. Although the eightfold yoga system is recommended in this chapter, the Lord emphasizes that the process of //karma-yoga// or acting in Kṛṣṇa consciousness is better. Everyone acts in this world to maintain his family and their paraphernalia, but no one is working without some self-interest, some personal gratification, be it concentrated or extended. The criterion of perfection is to act in Kṛṣṇa consciousness and not with a view to enjoy the fruits of work. To act in Kṛṣṇa consciousness is the duty of every living entity because we are constitutionally parts and parcels of the Supreme. The parts of the body work for the satisfaction of the whole body. The limbs of the body do not act for self-satisfaction but for the satisfaction of the complete whole. Similarly the living entity, acting for the satisfaction of the supreme whole and not for personal satisfaction is the perfect //sannyāsī,// the perfect yogi.
 

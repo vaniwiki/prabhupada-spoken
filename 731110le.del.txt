@@ -9,24 +9,6 @@
 
 ====== Pandal Speech ======
 
----- dataentry spoken ----
-id_hidden        : 731110le.del
-listtype_hidden  : Pandal Speech
-listdate_hidden  : 1973-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : Delhi
-Type_spoken      : Lecture
-Date_spoken      : November 10
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 35:14
-Title_hidden     : Pandal Speech
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731110le.del.mp3|Pandal Speech — November 10, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 Mr. High Commissioner and Ladies and Gentlemen, I thank you very much for your coming here, taking so much trouble to participate in this Kṛṣṇa consciousness movement. And I shall simply try to draw your attention about the importance of this movement. Importance of this movement is this, that we do not know what is the aim of life. The modern civilization, all over the world, especially in the Western world, nobody knows what is the actual problem and what is the aim of life.
 

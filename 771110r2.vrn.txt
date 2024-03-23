@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771110r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 10
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 35:55
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771110r2.vrn.mp3|Room Conversation — November 10, 1977, Vṛndāvana}}
-</audio>
-
 **Bhavānanda:**
 We should begin the //parikramā// in Vṛndāvana.
 

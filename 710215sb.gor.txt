@@ -9,24 +9,6 @@
 
 ====== His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, SB 6.3.24 ======
 
----- dataentry spoken ----
-id_hidden        : 710215sb.gor
-listtype_hidden  : Disappearance, SB 6.3.24
-listdate_hidden  : 1971-02-15
-showdate_hidden  : 2023-02-15
-listplace_hidden : Gorakhpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 15
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, SB 6.3.24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710215sb.gor.mp3|His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, SB 6.3.24 — February 15, 1971, Gorakhpur}}
-</audio>
-
 **Mālatī:**
 This lecture was recorded on February 15, 1971, in the morning, and it was in Gorakhpur, in U.P., India. It was on the occasion of Śrīla Bhaktisiddhānta Sarasvatī's Appearance Day. That day, we fasted in the morning up till noon time. Then we offered a regular noon meal, and in the evening time there was the feast of four preparations: //puris, halavā,// vegetable, and chutney.
 

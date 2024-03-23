@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770521r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-05-21
-showdate_hidden  : 2023-05-21
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : May 21
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 09:09
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770521r1.vrn.mp3|Room Conversation — May 21, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...in that paper he wrote, "In case I die, these three men will be trustees, and the majority will be effective." So that scrap of paper, Tīrtha Mahārāja kept it. And later on, Guru Mahārāja wanted to make a constitution, but he avoided. But actually, after his demise that scrap of paper was presented in the high court, and property was given. That is the...
 

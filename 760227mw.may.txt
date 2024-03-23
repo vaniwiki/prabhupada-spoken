@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760227mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-02-27
-showdate_hidden  : 2023-02-27
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : February 27
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 28:36
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760227mw.may.mp3|Morning Walk — February 27, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...what they'll encourage? To become thief?
 

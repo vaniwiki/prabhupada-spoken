@@ -9,24 +9,6 @@
 
 ====== Room Conversation on SB 1.5.11 ======
 
----- dataentry spoken ----
-id_hidden        : 720119r1.jai
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-01-19
-showdate_hidden  : 2023-01-19
-listplace_hidden : Jaipur
-Type_spoken      : Room Conversation
-Date_spoken      : January 19
-Year_spoken      : 1972
-Place_spoken     : Jaipur
-Length_hidden    : 22:38
-Title_hidden     : Room Conversation on SB 1.5.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720119r1.jai.mp3|Room Conversation on SB 1.5.11 — January 19, 1972, Jaipur}}
-</audio>
-
 **Prabhupāda:**
 ...these people or this revolution is meant for killing the sinful resultant action of the people. This revolution. //Janatā agha. Agha// means resultant action of sinful life. So //janatā agha viplavaḥ. Viplavaḥ// means revolution. This very word is used.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760513r2.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-13
-showdate_hidden  : 2023-05-13
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : May 13
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 59:16
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760513r2.hon.mp3|Room Conversation — May 13, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 ...cannot say sometimes it is dark. [coughs] Is that truth, that sun is sometimes dark, sometimes light? This is their intelligence. But we have to be guided by these rascals. That is the dangerous position in the modern world. All the leaders are rascals: religious, politicians, social. Any field of activities, just try to advise us. Now this Indira Gandhi is convicted: "You must leave your post. It is taken away." Just see, [s]he is the guidance of the whole nation, and [s]he is a culprit. Where is that, the secure? The mother is killing child, you see. And the prime minister is a thief; the president is a rogue. This is the... In your country, big country, and a big rogue. And India, it is big country also, culture, there is a thief. The mother is the best shelter for the child. She is mother, then where is protection[?]? [child crying in background] This is going on. The mother is no more shelter; the king is no more protector. Then? Where is shelter? This is the... And long, long ago, at least three thousand years ago, Cāṇakya Paṇḍita warned, //viśvāso naiva kartavyaḥ strīṣu rāja-kuleṣu ca:// "Government men and women should not be trusted." This is the... And this, they elected the woman politician. Why she does become victim? [devotee laughs]
 

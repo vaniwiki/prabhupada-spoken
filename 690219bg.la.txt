@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.30–34 ======
 
----- dataentry spoken ----
-id_hidden        : 690219bg.la
-listtype_hidden  : Bg 6.30–34
-listdate_hidden  : 1969-02-19
-showdate_hidden  : 2023-02-19
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 19
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.30–34
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690219bg.la.mp3|Bg 6.30-34 — February 19, 1969, Los Angeles}}
-</audio>
-
 **Viṣṇujana:**
 Verse thirty: "For one who sees Me everywhere and sees everything in Me, I am never lost, nor is he ever lost to Me [[books:bg:6:34|[Bg. 6.34]]]."
 

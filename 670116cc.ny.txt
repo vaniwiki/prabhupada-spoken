@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 22.31–33 ======
 
----- dataentry spoken ----
-id_hidden        : 670116cc.ny
-listtype_hidden  : Cc. Madhya 22.31–33
-listdate_hidden  : 1967-01-16
-showdate_hidden  : 2023-01-16
-listplace_hidden : New York
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : January 16
-Year_spoken      : 1967
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 22.31–33
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670116cc.ny.mp3|Cc. Madhya 22.31-33 — January 16, 1967, New York}}
-</audio>
-
 **Prabhupāda:**
 Kṛṣṇa is the original sun; therefore wherever Kṛṣṇa is present there cannot be any ignorance or illusion. Darkness is compared with ignorance, illusion, sleeping, laziness, intoxication, madness; these are all darkness. One who is in the quality of darkness, these things will be visible in his person: too much sleepy, lazy, ignorant. Just opposite, the opposite number of knowledge. So these are called darkness. So if actually one is in Kṛṣṇa consciousness, these qualities will be not visible in his person. This is a test of progressing in Kṛṣṇa consciousness.
 

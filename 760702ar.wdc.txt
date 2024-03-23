@@ -9,24 +9,6 @@
 
 ====== Car Journey and Arrival ======
 
----- dataentry spoken ----
-id_hidden        : 760702ar.wdc
-listtype_hidden  : Car Journey and Arrival
-listdate_hidden  : 1976-07-02
-showdate_hidden  : 2023-07-02
-listplace_hidden : Washington, D.C.
-Type_spoken      : Lecture
-Date_spoken      : July 2
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 46:14
-Title_hidden     : Car Journey and Arrival
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760702ar.wdc.mp3|Car Journey and Arrival — July 2, 1976, Washington, D.C.}}
-</audio>
-
 [in car from airport]
 
 **Prabhupāda:**

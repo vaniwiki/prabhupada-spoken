@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Tripurāri ======
 
----- dataentry spoken ----
-id_hidden        : 750302r1.atl
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-03-02
-showdate_hidden  : 2023-03-02
-listplace_hidden : Atlanta
-Type_spoken      : Room Conversation
-Date_spoken      : March 2
-Year_spoken      : 1975
-Place_spoken     : Atlanta
-Length_hidden    : 63:22
-Title_hidden     : Room Conversation with Tripurāri and Saṅkīrtana Devotees
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750302r1.atl.mp3|Room Conversation with Tripurāri — March 2, 1975, Atlanta}}
-</audio>
-
 **Prabhupāda:**
 You are well now for distributing books? [break]
 

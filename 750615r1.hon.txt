@@ -9,24 +9,6 @@
 
 ====== Conversation About Educational System ======
 
----- dataentry spoken ----
-id_hidden        : 750615r1-hon
-listtype_hidden  : Conversation About Educational System
-listdate_hidden  : 1975-06-15
-showdate_hidden  : 2023-06-15
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : June 15
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 11:51
-Title_hidden     : Room Conversation About Educational System
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750615r1-hon.mp3|Conversation About Educational System — June 15, 1975, Honolulu}}
-</audio>
-
 **Siddha-svarūpa:**
 I’d like to try to do what I can to, to, uh...
 

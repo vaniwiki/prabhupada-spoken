@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.2 ======
 
----- dataentry spoken ----
-id_hidden        : 680110sb.la
-listtype_hidden  : SB 1.5.2
-listdate_hidden  : 1968-01-10
-showdate_hidden  : 2023-01-10
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 10
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680110sb.la.mp3|SB 1.5.2 — January 10, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 
 > pārāśarya mahā-bhāga

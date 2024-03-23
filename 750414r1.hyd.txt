@@ -9,24 +9,6 @@
 
 ====== Conversation with Devotees ======
 
----- dataentry spoken ----
-id_hidden        : 750414r1.hyd
-listtype_hidden  : Conversation with Devotees
-listdate_hidden  : 1975-04-14
-showdate_hidden  : 2023-04-14
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : April 14
-Year_spoken      : 1975
-Place_spoken     : Hyderabad
-Length_hidden    : 60:31
-Title_hidden     : Conversation with Devotees
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750414r1.hyd.mp3|Conversation with Devotees — April 14, 1975, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 "...to take the credit. And what is your credit? It is already there for millions of years. Why you are anxious to produce this? Without your help it is being produced. So why you spending our hard-earned money and cheating us? You are cheater. You should be punished. These things are already going on. For you there is no scarcity of life. Then why you are spending our tax to show your talent? What is your talent? You are simply cheating us---'We shall do it. We shall do it.' You do or do not, the things are already there. Why you are taking our money to make research? You are cheating us. You should be punished. You will be punished. Even the state does not punish, you'll be punished by the Supreme Lord because you are cheating. So you can cheat us, but you cannot cheat God. Regular punishment will be there. Millions of years it is going on, and I want to tell[?] take credit... what is that. The same example---millions of dogs are barking, and this man has learned how to bark; he is selling tickets. You see? You are driving away barking dog, and because this rascal has learned how to bark, we have to pay for it." What do you think?
 

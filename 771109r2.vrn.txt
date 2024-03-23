@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771109r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-09
-showdate_hidden  : 2023-11-09
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 9
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 18:25
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771109r2.vrn.mp3|Room Conversation — November 9, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 "...your letter with enclosures as on reverse. Kindly accept yourself and convey my humble obeisances to my ailing father, and Lord Kṛṣṇa will protect and we have nothing to worry about. 2] Without touching details right now, as desired by you, I beg to submit that a meaningful 'further discussion...' " Remember, I had mentioned to him that we could have a further discussion if we had any questions, "...that a meaningful 'further discussion' could be ensued between us on the subject of settlement upon receipt of a confirmatory letter from the bank concerned either to you or to me directly as to the scheme purported to have been devised by ISKCON. No discussion, perhaps you will agree, without bank's letter, will serve any purpose towards a settlement. If it is a fait accompli, I feel sure the bank's letter describing the arrangements in so many words might bear salutary effect on our further discussions as propounded by your good self."
 

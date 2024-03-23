@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740429mw.hyd
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-04-29
-showdate_hidden  : 2023-04-29
-listplace_hidden : Hyderabad
-Type_spoken      : Morning Walk
-Date_spoken      : April 29
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 20:10
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740429mw.hyd.mp3|Morning Walk — April 29, 1974, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 Actually, if we become successful then all these things will be finished.
 

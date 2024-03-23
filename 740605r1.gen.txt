@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740605r1.gen
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-05
-showdate_hidden  : 2023-06-05
-listplace_hidden : Geneva
-Type_spoken      : Room Conversation
-Date_spoken      : June 5
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 122:26
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740605r1.gen.mp3|Room Conversation — June 5, 1974, Geneva}}
-</audio>
-
 [//With M. Douant, the president of the Protestant Centre of Geneva; Mlle. Peritier, a member of the Protestant Centre of Geneva; M. Morrel, the Dean of the Faculty of Theology of the University of Geneva; M. Roche-dieu, former honorary professor of history of religion of the University of Geneva; and a theology student.//]
 
 **Yogeśvara:**

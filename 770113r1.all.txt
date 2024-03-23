@@ -9,24 +9,6 @@
 
 ====== Conversation and Instruction On New Movie ======
 
----- dataentry spoken ----
-id_hidden        : 770113r1.all
-listtype_hidden  : Conversation and Instruction On New Movie
-listdate_hidden  : 1977-01-13
-showdate_hidden  : 2023-01-13
-listplace_hidden : Allahabad
-Type_spoken      : Room Conversation
-Date_spoken      : January 13
-Year_spoken      : 1977
-Place_spoken     : Allahabad
-Length_hidden    : 59:39
-Title_hidden     : Conversation and Instruction On New Movie
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770113r1.all.mp3|Conversation and Instruction On New Movie — January 13, 1977, Allahabad}}
-</audio>
-
 **Prabhupāda:**
 These are weapons. That was the only endeavor, how legally he could occupy the bricks and stones of Gauḍīya Math. That's all. He had no other ambition. How to push on Caitanya Mahāprabhu's mission, how to push on Guru Mahārāja's... He had no such. It was simply show. But real purpose was how to occupy, how to take the whole property. Business.
 

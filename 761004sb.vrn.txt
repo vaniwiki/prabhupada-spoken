@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.7.44 ======
 
----- dataentry spoken ----
-id_hidden        : 761004sb.vrn
-listtype_hidden  : SB 1.7.44
-listdate_hidden  : 1976-10-04
-showdate_hidden  : 2023-10-04
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 4
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 24:24
-Title_hidden     : Śrīmad-Bhāgavatam 1.7.44
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761004sb.vrn.mp3|SB 1.7.44 — October 4, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [chants verse]
 

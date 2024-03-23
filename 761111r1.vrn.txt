@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761111r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-11-11
-showdate_hidden  : 2023-11-11
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 11
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 07:14
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761111r1.vrn.mp3|Room Conversation — November 11, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 So I saw that one, that Mr. Maidan, he has got so many boxes all down his room. So I asked, "What are these?" "No, these are different cinema house collection. The ticket, half of the ticket, is put into this box before entering. So I count this slip. Then I can understand what is the income. That's all. Let them do whatever they..." So I am simply asking, "How many books they are selling?" [laughter] If the sale is going on, "All right, that's all right. Let them do whatever they like." The books are printed and distributed? That is all right. Then other things, you do whatever you like. Never ask. Where is Arundhatī?
 

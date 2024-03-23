@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.3–4 ======
 
----- dataentry spoken ----
-id_hidden        : 770329sb.bom
-listtype_hidden  : SB 5.5.3–4
-listdate_hidden  : 1977-03-29
-showdate_hidden  : 2023-03-29
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 29
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 34:56
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.3–4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770329sb.bom.mp3|SB 5.5.3-4 — March 29, 1977, Bombay}}
-</audio>
-
 **Girirāja:**
 We wish to thank the honourable Chief Minister S. B. Chavan for his beautiful talk and understanding of the Kṛṣṇa consciousness movement. Actually, we are very pleased to inform you that today we have received another letter from Russia. Acknowledging receipt of six of Śrīla Prabhupāda's books. And thanking us very much for sending these books.
 

@@ -9,24 +9,6 @@
 
 ====== Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681209db.la
-listtype_hidden  : Disappearance Day
-listdate_hidden  : 1968-12-09
-showdate_hidden  : 2023-12-09
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : December 9
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Disappearance Day, Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681209db.la.mp3|Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture — December 9, 1968, Los Angeles}}
-</audio>
-
 [Prabhupāda leads //kīrtana//]
 
 **Prabhupāda:**

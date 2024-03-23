@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760103mw.nel
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-01-03
-showdate_hidden  : 2023-01-03
-listplace_hidden : Nellore
-Type_spoken      : Morning Walk
-Date_spoken      : January 3
-Year_spoken      : 1976
-Place_spoken     : Nellore
-Length_hidden    : 22:06
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760103mw.nel.mp3|Morning Walk — January 3, 1976, Nellore}}
-</audio>
-
 **Prabhupāda:**
 They boil it with... Oh, you have come. Good morning. Thank you. With rice. I forgot your name.
 

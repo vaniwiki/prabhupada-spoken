@@ -9,24 +9,6 @@
 
 ====== Initiations and Sannyāsa ======
 
----- dataentry spoken ----
-id_hidden        : 710726i3.ny
-listtype_hidden  : Initiations
-listdate_hidden  : 1971-07-26
-showdate_hidden  : 2023-07-26
-listplace_hidden : New York
-Type_spoken      : Initiation
-Date_spoken      : July 26
-Year_spoken      : 1971
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Initiations and Sannyāsa
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710726i3.ny.mp3|Initiations and Sannyāsa — July 26, 1971, New York}}
-</audio>
-
 **Aravinda:**
 Nārāyaṇa dāsa.
 

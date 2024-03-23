@@ -9,23 +9,5 @@
 
 ====== Conversation [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 731026r1.bom
-listtype_hidden  : Conversation [Hindi]
-listdate_hidden  : 1973-10-26
-showdate_hidden  : 2023-10-26
-listplace_hidden : Bombay
-Type_spoken      : Hindi
-Date_spoken      : October 26
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 07:33
-Title_hidden     : Conversation [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731026r1.bom_hindi.mp3|Conversation [Hindi] — October 26, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 

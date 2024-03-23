@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 730228r2.jkt
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-02-28
-showdate_hidden  : 2023-02-28
-listplace_hidden : Jakarta
-Type_spoken      : Room Conversation
-Date_spoken      : February 28
-Year_spoken      : 1973
-Place_spoken     : Jakarta
-Length_hidden    : 25:46
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730228r2.jkt.mp3|Room Conversation — February 28, 1973, Jakarta}}
-</audio>
-
 [poor audio]
 
 **Japanese Guest:**

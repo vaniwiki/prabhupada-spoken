@@ -9,24 +9,6 @@
 
 ====== Initiation of Baradrāj and Chandanācārya Dāsās ======
 
----- dataentry spoken ----
-id_hidden        : 690504in.bos
-listtype_hidden  : Initiation of Baradrāj and Chandanācārya Dāsās
-listdate_hidden  : 1969-05-04
-showdate_hidden  : 2023-05-04
-listplace_hidden : Boston
-Type_spoken      : Initiation
-Date_spoken      : May 4
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Initiation of Baradrāj and Chandanācārya Dāsās
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690504in.bos.mp3|Initiation of Baradrāj and Chandanācārya Dāsās — May 4, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 //...rādhā śrīla govinda-devau preṣṭhālībhiḥ sevyamānau smarāmi.// [devotees chant responsively] //Śrīmān rāsa-rasārambhī vaṁśī-vaṭa-taṭa-sthitaḥ karṣan veṇu-svanair gopīr gopīnāthaḥ śriye 'stu naḥ.// Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. All right. Chant Hare Kṛṣṇa. Give me your beads. [//japa//] Begin from here. Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. Then take next. In this way you'll come this side. You don't cross this. Again begin here, and come to this. Such sixteen rounds must be done every day. Your spiritual name is Chandanācārya dāsa. Chandanācārya. C-h-a-n-d-a-n-c-h-a-r-y-a dāsa. Chandanācārya, a great preacher of this Kṛṣṇa consciousness movement. So you are servant of that. You have to preach very nicely. Bow down.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760627mw.nv
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-06-27
-showdate_hidden  : 2023-06-27
-listplace_hidden : New Vrindavan
-Type_spoken      : Morning Walk
-Date_spoken      : June 27
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 11:22
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760627mw.nv.mp3|Morning Walk — June 27, 1976, New Vrindavan}}
-</audio>
-
 **Puṣṭa Kṛṣṇa:**
 Are the //prajāpatis// responsible for propagating human species or all species of life?
 

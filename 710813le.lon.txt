@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 710813le.lon
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1971-08-13
-showdate_hidden  : 2023-08-13
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : August 13
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710813le.lon.mp3|Lecture [partially recorded] — August 13, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 What is that original cause, chunk? Can you say?
 

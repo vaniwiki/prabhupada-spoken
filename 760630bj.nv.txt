@@ -9,24 +9,6 @@
 
 ====== Bhavan’s Journal, Answers to a Questionnaire 2 ======
 
----- dataentry spoken ----
-id_hidden        : 760630bj.nv
-listtype_hidden  : Bhavan’s Journal 2
-listdate_hidden  : 1976-06-30
-showdate_hidden  : 2023-06-30
-listplace_hidden : New Vrindavan
-Type_spoken      : Various
-Date_spoken      : June 30
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 55:40
-Title_hidden     : Answers to a Questionnaire from Bhavan’s Journal, Questions 8 true 9
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760630bj.nv.mp3|Bhavan’s Journal, Answers to a Questionnaire 2 — June 30, 1976, New Vrindavan}}
-</audio>
-
 **Puṣṭa Kṛṣṇa:**
 ...for answers to these questions.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Sanskrit Professor ======
 
----- dataentry spoken ----
-id_hidden        : 730813r1.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-08-13
-showdate_hidden  : 2023-08-13
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : August 13
-Year_spoken      : 1973
-Place_spoken     : Paris
-Length_hidden    : 53:06
-Title_hidden     : Room Conversation With Sanskrit Professor
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730813r1.par.mp3|Room Conversation with Sanskrit Professor — August 13, 1973, Paris}}
-</audio>
-
 **Yogeśvara:**
 ...At the University of..., at the Sorbonne University here in Paris.
 

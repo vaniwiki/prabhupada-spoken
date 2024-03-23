@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.6 ======
 
----- dataentry spoken ----
-id_hidden        : 740326bg.bom
-listtype_hidden  : Bg 4.6
-listdate_hidden  : 1974-03-26
-showdate_hidden  : 2023-03-26
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 26
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 43:47
-Title_hidden     : Bhagavad-gītā 4.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740326bg.bom.mp3|Bg 4.6 — March 26, 1974, Bombay}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse]
 

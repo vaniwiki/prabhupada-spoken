@@ -9,24 +9,6 @@
 
 ====== Initiation of Hṛṣīkeśa Dāsā, Marriage of Satsvarūpa and Jadurāṇī ======
 
----- dataentry spoken ----
-id_hidden        : 680905in.ny
-listtype_hidden  : Initiation of Hṛṣīkeśa Dāsā, Marriage of Satsvarūpa and Jadurāṇī
-listdate_hidden  : 1968-09-05
-showdate_hidden  : 2023-09-05
-listplace_hidden : New York
-Type_spoken      : Initiation
-Date_spoken      : September 5
-Year_spoken      : 1968
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Initiation of Hṛṣīkeśa Dāsā Marriage of Satsvarūpa and Jadurāṇī
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680905in.ny.mp3|Initiation of Hṛṣīkeśa Dāsā, Marriage of Satsvarūpa and Jadurāṇī — September 5, 1968, New York}}
-</audio>
-
 **Prabhupāda:**
 And where is that boy, Hṛṣīkeśa?
 

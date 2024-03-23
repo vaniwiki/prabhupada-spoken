@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.10.3–4 ======
 
----- dataentry spoken ----
-id_hidden        : 750313sb.teh
-listtype_hidden  : SB 1.10.3–4
-listdate_hidden  : 1975-03-13
-showdate_hidden  : 2023-03-13
-listplace_hidden : Tehran
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 13
-Year_spoken      : 1975
-Place_spoken     : Tehran
-Length_hidden    : 22:11
-Title_hidden     : Śrīmad-Bhāgavatam 1.10.3–4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750313sb.teh.mp3|SB 1.10.3-4 — March 13, 1975, Tehran}}
-</audio>
-
 **Prabhupāda:**
 
 > kāmaṁ vavarṣa parjanyaḥ

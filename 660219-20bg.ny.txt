@@ -3,28 +3,11 @@
     "name":"Introduction to Gītopaniṣad",
     "h1":"Feb 19, Feb 20, 1966, New York",
     "title":"Introduction to Gītopaniṣad — February 19, February 20, 1966, New York",
-    "description":""
+    "description":"[Earliest Recording of Śrīla Prabhupāda in the Bhaktivedanta Archives]"
 }
 ---
 
 ====== Introduction to Gītopaniṣad ======
-
----- dataentry spoken ----
-id_hidden        : 660219-20bg.ny
-listtype_hidden  : Bg Introduction
-listdate_hidden  : 1966-02-19
-showdate_hidden  : 2023-02-19
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spokens     : February 19, February 20
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 3:12:18
-Title_hidden     : Introduction to Gītopaniṣad
-Note_hidden      : [Earliest Recording of Śrīla Prabhupāda in the Bhaktivedanta Archives]
-----
-
-/*{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660219bg.ny.mp3|Bg Introduction — February 19-20, 1966, New York}}*/
 
 **Prabhupāda:**
 
@@ -32,46 +15,54 @@ Note_hidden      : [Earliest Recording of Śrīla Prabhupāda in the Bhaktivedan
 > jñānāñjana-śalākayā
 > cakṣur unmīlitaṁ yena
 > tasmai śrī-gurave namaḥ
+
 [I offer my respectful obeisances unto my spiritual master, who with the torchlight of knowledge has opened my eyes, which were blinded by the darkness of ignorance.]
 
 > śrī-caitanya-mano-'bhīṣṭaṁ
 > sthāpitaṁ yena bhū-tale
 > svayaṁ rūpaḥ kadā mahyaṁ
 > dadāti sva-padāntikam
+
 [When will Śrīla Rūpa Gosvāmī Prabhupāda, who has established within this material world the mission to fulfill the desire of Lord Caitanya, give me shelter under his lotus feet?]
 
 > vande 'haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrī-gurūn vaiṣṇavāṁś ca
 > śrī-rūpaṁ sāgrajātaṁ saha-gaṇa-raghunāthānvitaṁ taṁ sa-jīvam
 > sādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ kṛṣṇa-caitanya-devaṁ
 > śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-lalitā-śrī-viśākhānvitāṁś ca
+
 [I offer my respectful obeisances unto the lotus feet of my spiritual master and of all the other preceptors on the path of devotional service. I offer my respectful obeisances unto all the Vaiṣṇavas and unto the Six Gosvāmīs, including Śrīla Rūpa Gosvāmī, Śrīla Sanātana Gosvāmī, Raghunātha dāsa Gosvāmī, Jīva Gosvāmī and their associates. I offer my respectful obeisances unto Śrī Advaita Ācārya Prabhu, Śrī Nityānanda Prabhu, Śrī Caitanya Mahāprabhu, and all His devotees, headed by Śrīvāsa Ṭhākura. I then offer my respectful obeisances unto the lotus feet of Lord Kṛṣṇa, Śrīmatī Rādhārāṇī and all the gopīs, headed by Lalitā and Viśākhā.]
 
 > he kṛṣṇa karuṇā-sindho
 > dīna-bandho jagat-pate
 > gopeśa gopikā-kānta
 > rādhā-kānta namo 'stu te
+
 [O my dear Kṛṣṇa, ocean of mercy, You are the friend of the distressed and the source of creation. You are the master of the cowherd men and the lover of the //gopīs,// especially Rādhārāṇī. I offer my respectful obeisances unto You.]
 
 > tapta-kāñcana-gaurāṅgi
 > rādhe vṛndāvaneśvari
 > vṛṣabhānu-sute devi
 > praṇamāmi hari-priye
+
 [I offer my respects to Rādhārāṇī, whose bodily complexion is like molten gold and who is the Queen of Vṛndāvana. You are the daughter of King Vṛṣabhānu, and You are very dear to Lord Kṛṣṇa.]
 
 > vāñchā-kalpatarubhyaś ca
 > kṛpā-sindhubhya eva ca
 > patitānāṁ pāvanebhyo
 > vaiṣṇavebhyo namo namaḥ
+
 [I offer my respectful obeisances unto all the Vaiṣṇava devotees of the Lord. They can fulfill the desires of everyone, just like desire trees, and they are full of compassion for the fallen souls.]
 
 > śrī-kṛṣṇa-caitanya
 > prabhu-nityānanda
 > śrī-advaita gadādhara
 > śrīvāsādi-gaura-bhakta-vṛnda
+
 [I offer my obeisances to Śrī Kṛṣṇa Caitanya, Prabhu Nityānanda, Śrī Advaita, Gadādhara, Śrīvāsa and all others in the line of devotion.]
 
 > hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
 > hare rāma hare rāma rāma rāma hare hare
+
 [My dear Lord, and the spiritual energy of the Lord, kindly engage me in Your service. I am now embarrassed with this material service. Please engage me in Your service.]
 
 **Introduction to //Gītopaniṣad// by A.C. Bhaktivedanta Swami, the author of //Śrīmad-Bhāgavatam,// Easy Journey to Other Planets, editor of Back to Godhead, etc.**

@@ -9,24 +9,6 @@
 
 ====== Interview with Mr. Koshi (Asst. Editor of The Current Weekly) ======
 
----- dataentry spoken ----
-id_hidden        : 770405iv.bom
-listtype_hidden  : Interview
-listdate_hidden  : 1977-04-05
-showdate_hidden  : 2023-04-05
-listplace_hidden : Bombay
-Type_spoken      : Interview
-Date_spoken      : April 5
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 69:59
-Title_hidden     : Interview with Mr. Koshi [Asst. Editor of The Current Weekly]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770405iv.bom.mp3|Interview with Mr. Koshi (Asst. Editor of The Current Weekly) — April 5, 1977, Bombay}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 Śrīla Prabhupāda, this is Mr. B. T. Koshi. He is the assistant editor of //The Current,// which is a weekly news magazine.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Allen Ginsberg ======
 
----- dataentry spoken ----
-id_hidden        : 690512rc.col
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1969-05-12
-showdate_hidden  : 2023-05-12
-listplace_hidden : Columbus
-Type_spoken      : Room Conversation
-Date_spoken      : May 12
-Year_spoken      : 1969
-Place_spoken     : Columbus
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation with Allen Ginsberg
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690512rc.col.mp3|Room Conversation with Allen Ginsberg — May 12, 1969, Columbus}}
-</audio>
-
 **Allen Ginsberg:**
 It becomes more and more widespread and is more and more acceptable to people...
 

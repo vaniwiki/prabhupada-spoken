@@ -9,24 +9,6 @@
 
 ====== Room Conversation and Interview ======
 
----- dataentry spoken ----
-id_hidden        : 720703r1.ny
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-07-03
-showdate_hidden  : 2023-07-03
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : July 3
-Year_spoken      : 1972
-Place_spoken     : New York
-Length_hidden    : 76:28
-Title_hidden     : Room Conversation and Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720703r1.ny.mp3|Room Conversation and Interview — July 3, 1972, New York}}
-</audio>
-
 **Guest (1):**
 Yes, I guess it would be hard to define in terms of a search. Man's..., man's search for something divine. I'd..., I'd define it in terms of, of a search for the divine. I've been studying Russian Elders in the Orthodox Church.
 

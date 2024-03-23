@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710811le.lon
-listtype_hidden  : Lecture
-listdate_hidden  : 1971-08-11
-showdate_hidden  : 2023-08-11
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : August 11
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710811le.lon.mp3|Lecture — August 11, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 I have to speak something? So we are worshiping Rādhā-Mādhava, the lover or enjoyer of Rādhārāṇī. [break] //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.//
 

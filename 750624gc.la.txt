@@ -9,24 +9,6 @@
 
 ====== Garden Conversation with Professors ======
 
----- dataentry spoken ----
-id_hidden        : 750624gc.la
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1975-06-24
-showdate_hidden  : 2023-06-24
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 24
-Year_spoken      : 1975
-Place_spoken     : Los Angeles
-Length_hidden    : 83:14
-Title_hidden     : Garden Conversation with Chairman of the Religion Department of U.S.C., Dr. Stillson Judah and others
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750624gc.la.mp3|Garden Conversation with Professors — June 24, 1975, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...which is fact? The dreams and phases of different life while passing through, they are facts or I am fact? What is your answer? We are teaching that you take care of the fact, not of the dreams. That is our Kṛṣṇa consciousness movement. That is the beginning of //Bhagavad-gītā: dehino 'smin yathā dehe kaumāraṁ yauvanaṁ jarā, tathā dehāntara-prāptiḥ// [[books:bg:2:13|[Bg. 2.13]]]. We are changing circumstances. The circumstances are not fact, but the whole world is taking care of the circumstances, not of the sheer fact. This is the defect of modern civilization. We are very much serious about the passing-on circumstances, but we are not serious about the person who is going through the circumstances. This is the whole defect of modern civilization. And that is the beginning of real life. If we take care of the circumstances, that is being done by the cats and dogs and hogs---everyone. Where to find eatables, where to find sex, where to find shelter for sleeping, and how to defense---these circumstances are understood by the animals. There is no need of education. Just like this morning I pointed out, the bird is catching a small fish, "//fut!//" He knows where to find out his eatable. And that you cannot do. You also eat fish, but you jump over and take a fish, you cannot do that. But he can do that. He is more expert than you. [guests chuckle] Yes. In the troubled water, he is flying. He can see a small fish and immediately pick it up. Can you do that? So he is more advanced in civilization. [laughter] He knows his techniques. He is greater scientist than you. You cannot do this. A vulture goes seven miles up, and he can see where is a dead body.
 

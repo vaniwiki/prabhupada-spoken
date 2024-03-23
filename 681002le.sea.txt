@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681002le.sea
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-10-02
-showdate_hidden  : 2023-10-02
-listplace_hidden : Seattle
-Type_spoken      : Lecture
-Date_spoken      : October 2
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681002le.sea.mp3|Lecture — October 2, 1968, Seattle}}
-</audio>
-
 **Prabhupāda:**
 You have got fan? Fan, fan. [sings] //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// [devotees respond] So our program is to worship the original Supreme Personality of Godhead, Govinda. This is Kṛṣṇa consciousness movement, find out who is the original person. Naturally, everyone is anxious to find out the original person of a family, original person of a society, original person of a nation, original person of humanity... You go on, searching. But if you can find out the original person from whom everything has come out, that is Brahman. //Janmādy asya yataḥ// [[books:sb:1:1:1|[SB 1.1.1]]]. The //Vedānta-sūtra// says Brahman, the Absolute Truth, is that from whom everything has emanated. Very simple description. What is God, what is the Absolute Truth, very simple definition---the original person.
 

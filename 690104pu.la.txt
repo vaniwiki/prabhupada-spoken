@@ -9,24 +9,6 @@
 
 ====== Purport to Parama Koruṇa ======
 
----- dataentry spoken ----
-id_hidden        : 690104pu.la
-listtype_hidden  : Parama Koruṇa
-listdate_hidden  : 1969-01-04
-showdate_hidden  : 2023-01-04
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 4
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Parama Koruṇa
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690104pu.la.mp3|Purport to Parama Koruṇa — January 4, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Parama koruṇa, pahū dui jana, nitāi gauracandra.// This is a song by Locana dāsa Ṭhākura, a great devotee and //ācārya// of the Gauḍīya-//sampradāya.// He is declaring that //pahū dui jana. Pahū// means lords. //Dui jana// means two. Who are the two lords? Nitai Gauracandra. One is Lord Nitāi, Nityānanda; another is Lord Śrī Caitanya Mahāprabhu. So he says that "These two Lords are very merciful." //Parama koruṇa, pahū dui jana. Parama koruṇa// means very merciful. Nitai Gauracandra. //Saba avatāra, sāra śiromaṇi. Avatāra// means incarnation, and //saba// means all. "They are the essence of all incarnations." //Saba avatāra, sāra śiromaṇi, kevala ānanda-kanda:// "And the specific significance of these incarnations is that to prosecute their ways of self-realization is simply joyful," //ānanda-kanda.// They introduced chanting and dancing. No other incarnation There are many incarnation, just like Lord Rāma. Even Kṛṣṇa, He taught //Bhagavad-gītā.// That requires knowledge, understanding. But here Lord Caitanya, Nityānanda, introduced some process which is simply joyful: simply chant and dance. //Kevala ānanda-kanda. Saba avatāra, sāra śiromaṇi, kevala ānanda-kanda.//
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.22 ======
 
----- dataentry spoken ----
-id_hidden        : 701213sb.ind
-listtype_hidden  : SB 6.1.22
-listdate_hidden  : 1970-12-13
-showdate_hidden  : 2023-12-13
-listplace_hidden : Indore
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 13
-Year_spoken      : 1970
-Place_spoken     : Indore
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.22
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701213sb.ind.mp3|SB 6.1.22 — December 13, 1970, Indore}}
-</audio>
-
 **Prabhupāda:**
 But we have to do in such a way that I may not be in inconvenience. Take something. All right. Bring something; take one piece. That's all. Finished. You were drinking before?
 

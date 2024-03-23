@@ -9,24 +9,6 @@
 
 ====== Śrī Brahma-saṁhitā, Verse 29 ======
 
----- dataentry spoken ----
-id_hidden        : 681105bs.la
-listtype_hidden  : Bs. 29
-listdate_hidden  : 1968-11-05
-showdate_hidden  : 2023-11-05
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Brahma-saṁhitā
-Date_spoken      : November 5
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Brahma-saṁhitā, Verse 29
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681105bs.la.mp3|Śrī Brahma-saṁhitā, Verse 29 — November 5, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 
 > cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa-

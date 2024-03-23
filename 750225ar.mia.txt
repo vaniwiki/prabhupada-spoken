@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 750225ar.mia
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1975-02-25
-showdate_hidden  : 2023-02-25
-listplace_hidden : Miami
-Type_spoken      : Lecture
-Date_spoken      : February 25
-Year_spoken      : 1975
-Place_spoken     : Miami
-Length_hidden    : 09:48
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750225ar.mia.mp3|Arrival Lecture — February 25, 1975, Miami}}
-</audio>
-
 **Devotee:**
 //Jaya// Śrīla Prabhupāda.
 

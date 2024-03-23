@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Allen Ginsberg ======
 
----- dataentry spoken ----
-id_hidden        : 690514rc.col
-listtype_hidden  : Allen Ginsberg
-listdate_hidden  : 1969-05-14
-showdate_hidden  : 2023-05-14
-listplace_hidden : Columbus
-Type_spoken      : Room Conversation
-Date_spoken      : May 14
-Year_spoken      : 1969
-Place_spoken     : Columbus
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation with Allen Ginsberg
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690514rc.col.mp3|Room Conversation with Allen Ginsberg — May 14, 1969, Columbus}}
-</audio>
-
 **Prabhupāda:**
 ...six or seven years old, my father was worshiping, so I wanted to imitate. I asked him that "Give me Deity." So he gave me.
 

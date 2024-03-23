@@ -9,24 +9,6 @@
 
 ====== Morning Walk on Waikiki Beach ======
 
----- dataentry spoken ----
-id_hidden        : 750529mw.hon
-listtype_hidden  : Morning Walk on Waikiki Beach
-listdate_hidden  : 1975-05-29
-showdate_hidden  : 2023-05-29
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : May 29
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 39:19
-Title_hidden     : Morning Walk on Waikiki Beach
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750529mw.hon.mp3|Morning Walk on Waikiki Beach — May 29, 1975, Honolulu}}
-</audio>
-
 **Śrutakīrti:**
 [introducing recording] The following morning walk conversation takes place at Waikiki Beach, Hawaii, on May 29th, 1975. [break]
 

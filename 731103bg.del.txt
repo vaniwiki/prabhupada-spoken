@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 3.9 ======
 
----- dataentry spoken ----
-id_hidden        : 731103bg.del
-listtype_hidden  : Bg 3.9
-listdate_hidden  : 1973-11-03
-showdate_hidden  : 2023-11-03
-listplace_hidden : Delhi
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 3
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 20:49
-Title_hidden     : Bhagavad-gītā 3.9
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731103bg.del.mp3|Bg 3.9 — November 3, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 ...which produces some result which binds us in //karma.// This verse is explained in another place. The verse is, //yajñārthe karmaṇo 'nyatra loko 'yaṁ karma-bandhanaḥ// [[books:bg:3:9|[Bg. 3.9]]]. //Yajñārthe.// Yajña means God. Yajña-pati, one name. God has got various names. One name is Yajña-pati. So you have to act for //yajña.// That is nice.
 

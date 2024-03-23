@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710713in.la
-listtype_hidden  : Initiation Lecture
-listdate_hidden  : 1971-07-13
-showdate_hidden  : 2023-07-13
-listplace_hidden : Los Angeles
-Type_spoken      : Initiation
-Date_spoken      : July 13
-Year_spoken      : 1971
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Initiation Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710713in.la.mp3|Initiation Lecture — July 13, 1971, Los Angeles}}
-</audio>
-
 **Dayānanda:**
 "... so blaspheming the Lord's devotee. The only way one can be forgiven of this highest offense is by a pure devotee of the Lord. So considering the Lord and the demigods on the same level or..."
 

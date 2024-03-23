@@ -9,25 +9,6 @@
 
 ====== Initiation of Lokanātha dāsa ======
 
----- dataentry spoken ----
-id_hidden        : 690521in.nv
-listtype_hidden  : Initiation of Lokanātha dāsa
-listdate_hidden  : 1969-05-21
-showdate_hidden  : 2023-05-21
-listplace_hidden : New Vrindaban
-Type_spoken      : Initiation
-Date_spoken      : May 21
-Year_spoken      : 1969
-Place_spoken     : New Vrindavan
-Length_hidden    : 00:00
-Title_hidden     : Initiation of Lokanātha dāsa
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690521in.nv.mp3|Initiation of Lokanātha dāsa — May 21, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 //Mānuṣyam arthadam anityam apīha dhīraḥ, tūrṇaṁ yateta anumṛtyu pateta yāvat niḥśreyasāya viṣayaḥ khalu sarvataḥ syāt.// The Vedic literature informs that //labdhvā sudurlabham idam// [SB 11.9.29]. //Idam// means "this." "This" means this body, this opportunity, human form of life, developed consciousness, full facility. The animals, they have no facility. They are living in the jungles. But we can utilize these jungles, these forests, for so many comfortable situation. So we have got developed consciousness, intelligence. We can utilize. So it is called //arthadam. Artha.// There are two meanings of //artha. Artha-śāstra. Artha-śāstra// means economics, how to increase wealth. That is called //artha.// So //arthadam.// This human form of life can bestow upon you //artha. Artha// means something substantial. Generally we understand substantial means money. If somebody gets money, that is substantial for material comforts, of course, but real substantial thing is Kṛṣṇa consciousness. That is real substance, //arthadam.//
 

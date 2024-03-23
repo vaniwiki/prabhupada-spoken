@@ -9,24 +9,6 @@
 
 ====== Speech to Mahārāja and Mahārāṇī ======
 
----- dataentry spoken ----
-id_hidden        : 701211sp.ind
-listtype_hidden  : Speech to Mahārāja and Mahārāṇī
-listdate_hidden  : 1970-12-11
-showdate_hidden  : 2023-12-11
-listplace_hidden : Indore
-Type_spoken      : Lecture
-Date_spoken      : December 11
-Year_spoken      : 1970
-Place_spoken     : Indore
-Length_hidden    : 00:00
-Title_hidden     : Speech to Mahārāja and Mahārāṇī and Conversations Before and After
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701211sp.ind.mp3|Speech to Mahārāja and Mahārāṇī — December 11, 1970, Indore}}
-</audio>
-
 **Haṁsadūta:**
 The following speech was recorded by His Divine Grace A.C. Bhaktivedanta Gosvāmī Mahārāja at the Lal Bhag Palace before Their Highnesses Mahārāja Tukoji Rao Halokar, Mahārāṇī Sarmistha Bhai Halokar, on December 11, 1970 at five p.m. in Indore, Madhya Pradesh, India.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with French Nun ======
 
----- dataentry spoken ----
-id_hidden        : 730813r4.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-08-13
-showdate_hidden  : 2023-08-13
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : August 13
-Year_spoken      : 1973
-Place_spoken     : Paris
-Length_hidden    : 05:07
-Title_hidden     : Room Conversation With French Nun
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730813r4.par.mp3|Room Conversation with French Nun — August 13, 1973, Paris}}
-</audio>
-
 **Yogeśvara:**
 She's asking... This is a French nun, and she wishes to know whether for us Christ is the son of God or is He God Himself, or what is the identity of Lord Jesus Christ?
 

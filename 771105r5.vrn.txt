@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771105r5.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-05
-showdate_hidden  : 2023-11-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 5
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 04:36
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771105r5.vrn.mp3|Room Conversation — November 5, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 ...notarized copies of everything. This registrar was not the real registrar. He's only a clerk. The registrar is on leave. So because this man is not so experienced, it takes a little extra time to do everything with him. So Girirāja and I have had a little bit of experience, so we had to teach him some things. Now everybody understands clearly. Everything is now completed. Your signatures were quite good, Śrīla Prabhupāda. Your signatures were not bad.
 

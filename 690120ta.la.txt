@@ -9,23 +9,5 @@
 
 ====== Talk Before Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690120ta.la
-listtype_hidden  : Talk Before Lecture
-listdate_hidden  : 1969-01-20
-showdate_hidden  : 2023-01-20
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : January 20
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Talk Before Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690120ta.la.mp3|Talk Before Lecture — January 20, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...ornament Kṛṣṇa, the more you become rich. The reflection, Kṛṣṇa being richly dressed, richly fed, it will be reflected on you. Kṛṣṇa is not in necessity, but we should dress Kṛṣṇa with the first quality ornaments. In India the Deities, They are given very, very valuable jewelry. The Mohammedans were attracted for these jewelries, and they came to India to plunder the temples to get the jewelries. Still, temples have millions of dollars of jewelries. Any such temple. In Jagannātha temple there is a valuable jewel. Just here, it is kept here, in a pocket. So Deity should be very nicely dressed. That is the temple worship. At the same time should be careful also. Chant. [end]

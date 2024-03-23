@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 1 ======
 
----- dataentry spoken ----
-id_hidden        : 700429ip.la
-listtype_hidden  : Īśo Mantra 1
-listdate_hidden  : 1970-04-29
-showdate_hidden  : 2023-04-29
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : April 29
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Īśopaniṣad, Mantra 1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700429ip.la.mp3|Śrī Īśopaniṣad, Mantra 1 — April 29, 1970, Los Angeles}}
-</audio>
-
 **Gargamuni:**
 [chants Mantra One, transliteration, etc.]
 

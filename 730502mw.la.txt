@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730502mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-05-02
-showdate_hidden  : 2023-05-02
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : May 2
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 40:09
-Title_hidden     : Morning Walk "The Origin of Life"
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730502mw.la.mp3|Morning Walk — May 2, 1973, Los Angeles}}
-</audio>
-
 **Svarūpa Dāmodara:**
 Recently I went to a lecture called "The Origin of Life." It was given by a well-known biochemist whose name is Professor Stanley Miller. He was talking about the origin of life.
 

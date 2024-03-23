@@ -9,24 +9,6 @@
 
 ====== Lecture at Pandal ======
 
----- dataentry spoken ----
-id_hidden        : 731116sb.del
-listtype_hidden  : Lecture at Pandal
-listdate_hidden  : 1973-11-16
-showdate_hidden  : 2023-11-16
-listplace_hidden : Delhi
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 16
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 48:27
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731116sb.del.mp3|Lecture at Pandal — November 16, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 ...I spoke in Hindi. Now today I speak in English. If required I shall again speak in Hindi tomorrow. In this way, alternatively.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760326mw.del
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-03-26
-showdate_hidden  : 2023-03-26
-listplace_hidden : Delhi
-Type_spoken      : Morning Walk
-Date_spoken      : March 26
-Year_spoken      : 1976
-Place_spoken     : Delhi
-Length_hidden    : 34:14
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760326mw.del.mp3|Morning Walk — March 26, 1976, Delhi}}
-</audio>
-
 [in car]
 
 **Prabhupāda:**

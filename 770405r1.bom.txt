@@ -9,24 +9,6 @@
 
 ====== Morning Talk ======
 
----- dataentry spoken ----
-id_hidden        : 770405r1.bom
-listtype_hidden  : Morning Talk
-listdate_hidden  : 1977-04-05
-showdate_hidden  : 2023-04-05
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 5
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 21:16
-Title_hidden     : Morning Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770405r1.bom.mp3|Morning Talk — April 5, 1977, Bombay}}
-</audio>
-
 **Indian doctor:**
 I would like to have the history of the present complaint which is going on. It will be apparent that so much of the same thing is going on.
 

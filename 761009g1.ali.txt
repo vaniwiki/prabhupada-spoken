@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761009g1.ali
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1976-10-09
-showdate_hidden  : 2023-10-09
-listplace_hidden : Aligarh
-Type_spoken      : Room Conversation
-Date_spoken      : October 9
-Year_spoken      : 1976
-Place_spoken     : Aligarh
-Length_hidden    : 16:56
-Title_hidden     : Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761009g1.ali.mp3|Garden Conversation — October 9, 1976, Aligarh}}
-</audio>
-
 **Prabhupāda:**
 Every father loves his son. Therefore this is contradictory. He is blind, but he has called... [microphone rattling]
 

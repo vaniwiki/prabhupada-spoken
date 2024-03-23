@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.26.31 ======
 
----- dataentry spoken ----
-id_hidden        : 750108sb.bom
-listtype_hidden  : SB 3.26.31
-listdate_hidden  : 1975-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 8
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 31:24
-Title_hidden     : Śrīmad-Bhāgavatam 3.26.31
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750108sb.bom.mp3|SB 3.26.31 — January 8, 1975, Bombay}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse, etc.]
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Father Tanner and Mrs. Wells ======
 
----- dataentry spoken ----
-id_hidden        : 730711r3.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-11
-showdate_hidden  : 2023-07-11
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 11
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 47:41
-Title_hidden     : Room Conversation with Father Tanner and Mrs. Wells
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730711r3.lon.mp3|Room Conversation with Father Tanner and Mrs. Wells — July 11, 1973, London}}
-</audio>
-
 **Father Tanner:**
 ...any compulsive behavior?
 

@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 730127nd.cal
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1973-01-27
-showdate_hidden  : 2023-01-27
-listplace_hidden : Calcutta
-Type_spoken      : Nectar of Devotion
-Date_spoken      : January 27
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 29:28
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730127nd.cal.mp3|The Nectar of Devotion — January 27, 1973, Calcutta}}
-</audio>
-
 [indistinct]
 
 **Prabhupāda:**

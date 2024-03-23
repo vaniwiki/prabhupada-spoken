@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770221r1.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-02-21
-showdate_hidden  : 2023-02-21
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 21
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 08:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770221r1.may.mp3|Room Conversation — February 21, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...and //asura// means //tad-viparyaya,// just the opposite. So anyone... [break] ...Kṛṣṇa, he's a demon. //Viṣṇu-bhakto bhaved daivaḥ. Daiva// means //devatā.// So there are two classes---//daiva asura eva ca:// one //devatā// and one //asura.// One who is devotee, he is //devatā.// One who is not devotee, he's //asura.// That's all---in different names. So our this movement is making the //asuras// to become //devatā.// This is our movement. This is, therefore, the most prominent welfare activities within the human society. We are trying to make demon to become //devatā.// And actually they are becoming. The demons are becoming //devatā.// Is it not?
 

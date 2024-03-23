@@ -9,24 +9,6 @@
 
 ====== Spelling of Ārati Song ======
 
----- dataentry spoken ----
-id_hidden        : 681231pu.la
-listtype_hidden  : Ārati Song
-listdate_hidden  : 1968-12-31
-showdate_hidden  : 2023-12-31
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : December 31
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Spelling of Ārati Song
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681231pu.la.mp3|Spelling of Ārati Song — December 31, 1968, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 //Jāhnave.// Next one.
 

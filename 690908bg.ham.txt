@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.14 ======
 
----- dataentry spoken ----
-id_hidden        : 690908bg.ham
-listtype_hidden  : Bg 7.14
-listdate_hidden  : 1969-09-08
-showdate_hidden  : 2023-09-08
-listplace_hidden : Hamburg
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : September 8
-Year_spoken      : 1969
-Place_spoken     : Hamburg
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 7.14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690908bg.ham.mp3|Bg 7.14 — September 8, 1969, Hamburg}}
-</audio>
-
 **Prabhupāda:**
 ...Vedic civilization, unless one is inquisitive for the solution of the problems, he is not on the human being standard. Because there are so many problems. The animals cannot inquire, but a man can inquire. So unless one comes to this point, to inquire how these problems can be solved, he's not developed to human consciousness. He's still in the animal consciousness. Actually, the problem is that... What is this human civilization, advanced civilization? They are trying to solve problems. One problem is presented, and they try to solve it. Just like at the present moment they have manufactured atomic bomb, and all the nations are anxious to keep peace, and they have started that United Nations organization to solve the problem. Although they are unable, but they are trying. So advancement of civilization means by nature some problem is offered, and they are trying to solve it. Anything you take, it is an attempt for trying to solve the problem. Just like in your country there is subway. What is that subway? Because on the surface there is a lot of traffic, to solve this problem they want to go underground. And in this way somebody thinks, "Oh, Western countries have advanced than the Eastern countries. They have made some solution." But after that, there is another problem. So problem after problem.
 

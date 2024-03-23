@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720921mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-09-21
-showdate_hidden  : 2023-09-21
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : September 21
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 14:06
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720921mw.la.mp3|Morning Walk — September 21, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Don't think[?] it like that. Don't put that. We cannot accept that.
 

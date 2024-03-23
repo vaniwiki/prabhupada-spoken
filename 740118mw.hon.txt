@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740118mw.hon
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-01-18
-showdate_hidden  : 2023-01-18
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : January 18
-Year_spoken      : 1974
-Place_spoken     : Honolulu
-Length_hidden    : 31:10
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740118mw.hon.mp3|Morning Walk — January 18, 1974, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 ..."good morning," what is the meaning?
 

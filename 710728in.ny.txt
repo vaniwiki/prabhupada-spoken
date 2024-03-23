@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710728in.ny
-listtype_hidden  : Initiation Lecture
-listdate_hidden  : 1971-07-28
-showdate_hidden  : 2023-07-28
-listplace_hidden : New York
-Type_spoken      : Initiation
-Date_spoken      : July 28
-Year_spoken      : 1971
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Initiation Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710728in.ny.mp3|Initiation Lecture — July 28, 1971, New York}}
-</audio>
-
 **Prabhupāda:**
 //...athāpi manaso muni-puṅgavānām. Panthās tu koṭi-śata-vatsara-sampragamyo// [Bs. 5.34]. The sky is so vast. This is material sky. We cannot even travel all over the sky. The modern scientist says that you go to the end of the sky cover, it will take forty thousands of years by the light year. This sky is only insignificant portion of the whole sky. You have no information of the whole sky. Nobody has information, the unlimited. The balance sky is spiritual sky. So if you have got any plane which is running on the speed of mind and air... You know the speed of mind, it can run millions of miles in a second. So, if you have got any airplane which runs on the speed of mind, //panthās tu koṭi-śata-vatsara-sampragamyo vāyor athāpi manaso,// either on the plane of air speed or even the mind speed, and you go on with that mind speed, //koṭi-śata-vatsara,// not only forty thousand years, but millions and hundreds of millions of years, and not forty thousand years, //koṭi-śata... Koṭi// means ten million. //Koṭi,// hundred millions //koṭi// means. One //lakh// equal to..., ten //lakh// is equal to one million. Ten millions, //koṭi,// and multiply by hundreds. For that period, if you go on with the speed of mind, still you'll find, //avacintya-tattva,// inconceivable. //Panthās tu koṭi-śata-vatsara-sampragamyo vāyor athāpi manaso muni-puṅgavānām.// And that plane made of not ordinary man. //Muni-puṅga,// highest learned, I mean to say, scientist, philosopher. Still //avacintya tattva.//
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.9.2–3 ======
 
----- dataentry spoken ----
-id_hidden        : 720501sb.tok
-listtype_hidden  : SB 2.9.2–3
-listdate_hidden  : 1972-05-01
-showdate_hidden  : 2023-05-01
-listplace_hidden : Tokyo
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 1
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 34:49
-Title_hidden     : Śrīmad-Bhāgavatam 2.9.2–3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720501sb.tok.mp3|SB 2.9.2-3 — May 1, 1972, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 ...his association, or its association with the different types of..., modes of material nature, //sattva-guṇa, rajo-guṇa, tamo-guṇa.// So you mix it, then that it becomes eighty-one. Three multiplied by three, nine, and again, nine multiplied by nine, it becomes eighty-one. So there are 8,400,000 forms on account of this mixture. That's all. So the mixture is possible, and according to the mixture, they have got different consciousness. According to the body, they have got different consciousness.
 

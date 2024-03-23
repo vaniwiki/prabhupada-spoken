@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.9.1–4 ======
 
----- dataentry spoken ----
-id_hidden        : 720424sb.tok
-listtype_hidden  : SB 2.9.1–4
-listdate_hidden  : 1972-04-24
-showdate_hidden  : 2023-04-24
-listplace_hidden : Tokyo
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 24
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 50:29
-Title_hidden     : Śrīmad-Bhāgavatam 2.9.1–4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720424sb.tok.mp3|SB 2.9.1-4 — April 24, 1972, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 //...gata-sammohas tyaktvodāste tadobhayam.// So chant this verse, beginning from... Practice.
 

@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 751014le.joh
-listtype_hidden  : Lecture
-listdate_hidden  : 1975-10-14
-showdate_hidden  : 2023-10-14
-listplace_hidden : Johannesburg
-Type_spoken      : Lecture
-Date_spoken      : October 14
-Year_spoken      : 1975
-Place_spoken     : Johannesburg
-Length_hidden    : 11:08
-Title_hidden     : Lecture in Johannesburg
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751014le.joh.mp3|Lecture — October 14, 1975, Johannesburg}}
-</audio>
-
 **Prabhupāda:**
 ...so on account of exploitation by the superior energy, the living entity, the material energy becomes important. So the Vedic civilization is for fulfilling the mission of the spiritual energy. And the modern civilization is to become entangled in the activities of this material energy. Entangled..., I have used this word "entangled" because we are becoming entangled in this material energy by changing this body.
 

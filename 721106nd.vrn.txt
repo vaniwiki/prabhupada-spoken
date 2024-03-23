@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721106nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-11-06
-showdate_hidden  : 2023-11-06
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : November 6
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 43:18
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721106nd.vrn.mp3|The Nectar of Devotion — November 6, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading:] "...in full Kṛṣṇa consciousness, how is it possible that he has not become purified? It is not possible. [break]
 

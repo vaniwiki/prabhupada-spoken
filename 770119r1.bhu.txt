@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770119r1.bhu
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-19
-showdate_hidden  : 2023-01-19
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 19
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 46:16
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770119r1.bhu.mp3|Room Conversation — January 19, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 ...available plots.
 

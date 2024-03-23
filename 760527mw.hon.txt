@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760527mw.hon
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-05-27
-showdate_hidden  : 2023-05-27
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : May 27
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 34:25
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760527mw.hon.mp3|Morning Walk — May 27, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 //Sarva-yoniṣu.// All kinds of forms of life, 8,400,000 different forms of life. So "The material nature is the mother and I am the seed-giving father." Why they do not accept this philosophy? And everything is going on. Just like in the family the mother is there and the father is there. Similarly, Kṛṣṇa is the father, and material nature is the mother, and we are all sons. If we accept this simple philosophy, everything will be all right. Why they do not accept this philosophy, so many rascal philosophers? This simple philosophy. And this is a fact. What is this body? This body is this earth. "Dust thou art, dust thou be-est." So the mother is this material nature. I've got this body. And the father, He is Kṛṣṇa, or God. What is wrong in accepting this philosophy? If this simple philosophy is accepted, the whole world will be happy. But they'll not accept it. These rascals will come and speculate rascal philosophy. [laughing] With this simple philosophy... The United Nations is there. Why do they not accept this simple philosophy? If God is the supreme father and in every religion they accept that, at least the Christian religion accept that supreme father, God, and the material nature is the mother, and we are all sons. Not only human beings, but every living being, even the dogs. This is philosophy, real philosophy. Is that all right?
 

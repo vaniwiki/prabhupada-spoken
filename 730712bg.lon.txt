@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 1.8–10 ======
 
----- dataentry spoken ----
-id_hidden        : 730712bg.lon
-listtype_hidden  : Bg 1.8–10
-listdate_hidden  : 1973-07-12
-showdate_hidden  : 2023-07-12
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 12
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 26:44
-Title_hidden     : Bhagavad-gītā 1.8–10
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730712bg.lon.mp3|Bg 1.8-10 — July 12, 1973, London}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse] [Prabhupāda and devotees repeat]
 

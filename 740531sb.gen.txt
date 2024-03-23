@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.7.6 ======
 
----- dataentry spoken ----
-id_hidden        : 740531sb.gen
-listtype_hidden  : SB 1.7.6
-listdate_hidden  : 1974-05-31
-showdate_hidden  : 2023-05-31
-listplace_hidden : Geneva
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 31
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 31:18
-Title_hidden     : Śrīmad-Bhāgavatam 1.7.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740531sb.gen.mp3|SB 1.7.6 — May 31, 1974, Geneva}}
-</audio>
-
 **Prabhupāda:**
 [Chants //jaya rādhā-mādhava//] [//prema-dhvani//]
 

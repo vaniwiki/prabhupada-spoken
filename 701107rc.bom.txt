@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 701107rc.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1970-11-07
-showdate_hidden  : 2023-11-07
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : November 7
-Year_spoken      : 1970
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701107rc.bom.mp3|Room Conversation — November 7, 1970, Bombay}}
-</audio>
-
 **Prabhupāda:**
 These are also done within these five years.
 

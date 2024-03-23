@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Psychiatrist ======
 
----- dataentry spoken ----
-id_hidden        : 721003r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-10-03
-showdate_hidden  : 2023-10-03
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : October 3
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 50:52
-Title_hidden     : Room Conversation with Psychiatrist
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721003r1.la.mp3|Room Conversation with Psychiatrist — October 3, 1972, Los Angeles}}
-</audio>
-
 [noisy recording]
 
 **Prabhupāda:**

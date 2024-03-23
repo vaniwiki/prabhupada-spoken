@@ -9,24 +9,6 @@
 
 ====== Departure ======
 
----- dataentry spoken ----
-id_hidden        : 750620dp.hon
-listtype_hidden  : Departure
-listdate_hidden  : 1975-06-20
-showdate_hidden  : 2023-06-20
-listplace_hidden : Honolulu
-Type_spoken      : Lecture
-Date_spoken      : June 20
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 11:13
-Title_hidden     : Departure
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750620dp.hon.mp3|Departure — June 20, 1975, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 ...these few days we passed together were very pleasing, and our only aim is how to preach Kṛṣṇa consciousness. The Vaiṣṇava's business is //para-duḥkha-duḥkhī. Para// means others, and //duhkha// means unhappy. So Vaiṣṇava personally has no unhappiness, because Vaiṣṇava is under the protection of Kṛṣṇa. So there is no question of unhappiness for a Vaiṣṇava. But Vaiṣṇava is unhappy by seeing others suffering. //Para-duḥkha-duḥkhī.// That is the definition of Vaiṣṇava.
 

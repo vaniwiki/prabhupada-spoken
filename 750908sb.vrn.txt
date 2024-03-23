@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.2.4 ======
 
----- dataentry spoken ----
-id_hidden        : 750908sb.vrn
-listtype_hidden  : SB 6.2.4
-listdate_hidden  : 1975-09-08
-showdate_hidden  : 2023-09-08
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 8
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 31:35
-Title_hidden     : Śrīmad-Bhāgavatam 6.2.4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750908sb.vrn.mp3|SB 6.2.4 — September 8, 1975, Vṛndāvana}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] //Śrīmad-Bhāgavatam,// Sixth Canto, Second Chapter, verse number four. [leads chanting of verse, etc.]
 

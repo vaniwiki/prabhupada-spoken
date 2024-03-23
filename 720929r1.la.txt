@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720929r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-09-29
-showdate_hidden  : 2023-09-29
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : September 29
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 09:10
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720929r1.la.mp3|Room Conversation — September 29, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [Bengali]
 

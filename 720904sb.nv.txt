@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
----- dataentry spoken ----
-id_hidden        : 720904sb.nv
-listtype_hidden  : SB 1.2.6
-listdate_hidden  : 1972-09-04
-showdate_hidden  : 2023-09-04
-listplace_hidden : New Vrindavan
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 4
-Year_spoken      : 1972
-Place_spoken     : New Vrindavan
-Length_hidden    : 57:20
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720904sb.nv.mp3|SB 1.2.6 — September 4, 1972, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 Yes, next verse.
 

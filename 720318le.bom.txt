@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720318le.bom
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1972-03-18
-showdate_hidden  : 2023-03-18
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : March 18
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 43:06
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720318le.bom.mp3|Pandal Lecture — March 18, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 I thank you very much for your coming here and participating in this great movement, Kṛṣṇa consciousness. The Kṛṣṇa consciousness movement is already there in the //Bhagavad-gītā// and //Śrīmad-Bhāgavatam.// So in the morning we shall speak on the //Bhagavad-gītā// in Hindi, and in the evening we shall speak on the //Śrīmad-Bhāgavatam// in English. Of course, in India there was no necessity of speaking in English, but at least once if I do not speak in English, all my disciples who have come from Europe and America, they will be bereft of hearing me. Therefore we have made this program: morning I shall speak in Hindi, and in the evening I shall speak in English.
 

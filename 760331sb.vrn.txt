@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.5.23–24 ======
 
----- dataentry spoken ----
-id_hidden        : 760331sb.vrn
-listtype_hidden  : SB 7.5.23–24
-listdate_hidden  : 1976-03-31
-showdate_hidden  : 2023-03-31
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 31
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 17:33
-Title_hidden     : Śrīmad-Bhāgavatam 7.5.23–24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760331sb.vrn.mp3|SB 7.5.23-24 — March 31, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 So our Kṛṣṇa-Balarāma temple is known as //angrezi// temple. It is full with //angrezi.//
 

@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 5 ======
 
----- dataentry spoken ----
-id_hidden        : 700507ip.la
-listtype_hidden  : Īśo Mantra 5
-listdate_hidden  : 1970-05-07
-showdate_hidden  : 2023-05-07
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : May 7
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Īśopaniṣad, Mantra 5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700507ip.la.mp3|Śrī Īśopaniṣad, Mantra 5 — May 7, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// Where is Hayagrīva prabhu? Oh, that's all right. So you have to construct a temple there like this.
 

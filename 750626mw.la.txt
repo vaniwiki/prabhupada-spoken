@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750626mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-06-26
-showdate_hidden  : 2023-06-26
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : June 26
-Year_spoken      : 1975
-Place_spoken     : Los Angeles
-Length_hidden    : 12:42
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750626mw.la.mp3|Morning Walk — June 26, 1975, Los Angeles}}
-</audio>
-
 [in car]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.20 ======
 
----- dataentry spoken ----
-id_hidden        : 740724sb.ny
-listtype_hidden  : SB 1.2.20
-listdate_hidden  : 1974-07-24
-showdate_hidden  : 2023-07-24
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 24
-Year_spoken      : 1974
-Place_spoken     : New York
-Length_hidden    : 30:43
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740724sb.ny.mp3|SB 1.2.20 — July 24, 1974, New York}}
-</audio>
-
 **Nitāi:**
 [leads chanting of verse] [devotees repeat]
 

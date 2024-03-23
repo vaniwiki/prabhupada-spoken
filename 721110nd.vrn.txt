@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721110nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : November 10
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 32:01
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721110nd.vrn.mp3|The Nectar of Devotion — November 10, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading:] "Foolishly, people who are enamored of the glimmer of modern materialistic advancement are thinking that the Kṛṣṇa consciousness movement is for less intelligent men. 'I am better off being busy with my material comforts---maintaining a nice apartment, family and sex life.'
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.1–2 ======
 
----- dataentry spoken ----
-id_hidden        : 750225bg.mia
-listtype_hidden  : Bg 13.1–2
-listdate_hidden  : 1975-02-25
-showdate_hidden  : 2023-02-25
-listplace_hidden : Miami
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 25
-Year_spoken      : 1975
-Place_spoken     : Miami
-Length_hidden    : 39:08
-Title_hidden     : Bhagavad-gītā 13.1–2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750225bg.mia.mp3|Bg 13.1-2 — February 25, 1975, Miami}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verses, etc.]
 

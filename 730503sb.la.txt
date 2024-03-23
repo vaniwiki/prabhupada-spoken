@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.41 ======
 
----- dataentry spoken ----
-id_hidden        : 730503sb.la
-listtype_hidden  : SB 1.8.41
-listdate_hidden  : 1973-05-03
-showdate_hidden  : 2023-05-03
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 3
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 39:40
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.41
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730503sb.la.mp3|SB 1.8.41 — May 3, 1973, Los Angeles}}
-</audio>
-
 **Pradyumna: **Translation: "O Lord of the universe, soul of the universe, O Personality of the form of the universe, please, therefore, sever my tie of affection for my kinsmen, the Pāṇḍavas and the Vṛṣṇis." [[books:sb:1:8:41|[SB 1.8.41]]]
 
 **Prabhupāda:**

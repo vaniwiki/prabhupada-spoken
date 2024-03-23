@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750517mw.per
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-05-17
-showdate_hidden  : 2023-05-17
-listplace_hidden : Perth
-Type_spoken      : Morning Walk
-Date_spoken      : May 17
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 65:34
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750517mw.per.mp3|Morning Walk — May 17, 1975, Perth}}
-</audio>
-
 **Amogha:**
 Well, he's a very..., actually he's a big man, and therefore he's very busy. In their terms he's a big man. He had a lot of seminars yesterday taking him up late at night working. I'll send him something to read.
 

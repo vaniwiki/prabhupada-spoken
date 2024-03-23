@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 701215rc.sur
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1970-12-15
-showdate_hidden  : 2023-12-15
-listplace_hidden : Surat
-Type_spoken      : Room Conversation
-Date_spoken      : December 15
-Year_spoken      : 1970
-Place_spoken     : Surat
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701215rc.sur.mp3|Room Conversation — December 15, 1970, Surat}}
-</audio>
-
 **Prabhupāda:**
 You understand what is the meaning of //Bhāgavata,// this word, //Bhāgavata?// You understand? These are the common questions. If you do not understand this common question then how you can instruct others?
 

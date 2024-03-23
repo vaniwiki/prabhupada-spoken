@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.23 ======
 
----- dataentry spoken ----
-id_hidden        : 760301sb.may
-listtype_hidden  : SB 7.9.23
-listdate_hidden  : 1976-03-01
-showdate_hidden  : 2023-03-01
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 1
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 29:18
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760301sb.may.mp3|SB 7.9.23 — March 1, 1976, Māyāpur}}
-</audio>
-
 **Dayānanda:**
 //Śrīmad-Bhāgavatam,// Seventh Canto, Ninth Chapter, twenty-third verse. [chants verse and synonyms, Prabhupāda and devotees respond]
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.10, Public Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 740525bg.rom
-listtype_hidden  : Bg 4.10, Public Lecture
-listdate_hidden  : 1974-05-25
-showdate_hidden  : 2023-05-25
-listplace_hidden : Rome
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : May 25
-Year_spoken      : 1974
-Place_spoken     : Rome
-Length_hidden    : 57:30
-Title_hidden     : Bhagavad-gītā 4.10, Public Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740525bg.rom.mp3|Bg 4.10, Public Lecture — May 25, 1974, Rome}}
-</audio>
-
 **Nitāi:**
 ... //vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

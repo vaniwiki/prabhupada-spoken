@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.7.34–35 ======
 
----- dataentry spoken ----
-id_hidden        : 760928sb.vrn
-listtype_hidden  : SB 1.7.34–35
-listdate_hidden  : 1976-09-28
-showdate_hidden  : 2023-09-28
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 28
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 33:50
-Title_hidden     : Śrīmad-Bhāgavatam 1.7.34–35
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760928sb.vrn.mp3|SB 1.7.34-35 — September 28, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [chants verse]
 

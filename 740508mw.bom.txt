@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740508mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-05-08
-showdate_hidden  : 2023-05-08
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : May 8
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 14:45
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740508mw.bom.mp3|Morning Walk — May 8, 1974, Bombay}}
-</audio>
-
 **Dr. Patel:**
 No, no, but even fallen,Vaiṣṇavas, Sāṅkhya...
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 750314mw.teh
-listtype_hidden  : Morning Walk [partially recorded]
-listdate_hidden  : 1975-03-14
-showdate_hidden  : 2023-03-14
-listplace_hidden : Tehran
-Type_spoken      : Morning Walk
-Date_spoken      : March 14
-Year_spoken      : 1975
-Place_spoken     : Tehran
-Length_hidden    : 01:06
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750314mw.teh.mp3|Morning Walk [partially recorded] — March 14, 1975, Tehran}}
-</audio>
-
 **Prabhupāda:**
 ...they assemble together and people are unhappy. [break] They have renounced democracy, eh? Communist?
 

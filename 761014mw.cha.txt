@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 761014mw.cha
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-10-14
-showdate_hidden  : 2023-10-14
-listplace_hidden : Chandigarh
-Type_spoken      : Morning Walk
-Date_spoken      : October 14
-Year_spoken      : 1976
-Place_spoken     : Chandigarh
-Length_hidden    : 32:15
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761014mw.cha.mp3|Morning Walk — October 14, 1976, Chandigarh}}
-</audio>
-
 **Prabhupāda:**
 That is special advantage of this age. People are very much fallen from spiritual standard, and to fall down from the spiritual standard means to spoil the humanity. There is no education on this point. That is Vedic culture. Most of them, they do not believe that there is soul, spirit soul, and human life is meant for understanding it and make progress on that platform. Most of them, they do not know. There is no education, I think. Everyone reads //Bhagavad-gītā,// mostly, but they do not understand the first lesson, //dehino 'smin yathā dehe kaumāraṁ yauvanaṁ jarā, tathā dehāntara-prāptiḥ// [[books:bg:2:13|[Bg. 2.13]]]. Nobody understands. What is your understanding about this transmigration of the soul?
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 701217rc.sur
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1970-12-17
-showdate_hidden  : 2023-12-17
-listplace_hidden : Surat
-Type_spoken      : Room Conversation
-Date_spoken      : December 17
-Year_spoken      : 1970
-Place_spoken     : Surat
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701217rc.sur.mp3|Room Conversation — December 17, 1970, Surat}}
-</audio>
-
 **Prabhupāda:**
 That is the same...
 

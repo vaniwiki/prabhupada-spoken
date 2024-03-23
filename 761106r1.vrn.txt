@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Dr. Theodore Kneupper ======
 
----- dataentry spoken ----
-id_hidden        : 761106r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-11-06
-showdate_hidden  : 2023-11-06
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 6
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 109:44
-Title_hidden     : Room Conversation with Dr. Theodore Kneupper
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761106r1.vrn.mp3|Room Conversation with Dr. Theodore Kneupper — November 6, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 The present time, it is called Kali-yuga. [aside] Take little //prasādam.// Kali-yuga means this age... Kali-yuga means the age of quarrel and disagreement.
 

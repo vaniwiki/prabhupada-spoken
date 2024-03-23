@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 750320ar.cal
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1975-03-20
-showdate_hidden  : 2023-03-20
-listplace_hidden : Calcutta
-Type_spoken      : Lecture
-Date_spoken      : March 20
-Year_spoken      : 1975
-Place_spoken     : Calcutta
-Length_hidden    : 22:05
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750320ar.cal.mp3|Arrival Lecture — March 20, 1975, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 So this time within two months, from 26th February?
 

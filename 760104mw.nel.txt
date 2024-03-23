@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760104mw.nel
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-01-04
-showdate_hidden  : 2023-01-04
-listplace_hidden : Nellore
-Type_spoken      : Morning Walk
-Date_spoken      : January 4
-Year_spoken      : 1976
-Place_spoken     : Nellore
-Length_hidden    : 19:00
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760104mw.nel.mp3|Morning Walk — January 4, 1976, Nellore}}
-</audio>
-
 **Keśavalāl Trivedi:**
 ...mission, and they only think that...
 

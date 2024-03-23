@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770618r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-06-18
-showdate_hidden  : 2023-06-18
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 18
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 24:32
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770618r1.vrn.mp3|Room Conversation — June 18, 1977, Vṛndāvana}}
-</audio>
-
 **Yaśodānandana:**
 ...pattern of the //Bhāgavatam// and follow the description. In the Chapter Sixteen, where it is expressed that "Bhū-maṇḍala extends as far as the sun spreads its light and heat and as far as the moon and all the stars can be seen," that was the first verse. Then it describes that "The roving wheels of Mahārāja Priyavrata's chariot created seven ditches in which the seven oceans came into existence. Because of these seven oceans, which are described here..."
 

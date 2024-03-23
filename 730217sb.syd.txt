@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.6 ======
 
----- dataentry spoken ----
-id_hidden        : 730217sb.syd
-listtype_hidden  : SB 6.1.6
-listdate_hidden  : 1973-02-17
-showdate_hidden  : 2023-02-17
-listplace_hidden : Sydney
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 17
-Year_spoken      : 1973
-Place_spoken     : Sydney
-Length_hidden    : 58:53
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730217sb.syd.mp3|SB 6.1.6 — February 17, 1973, Sydney}}
-</audio>
-
 **Prabhupāda:**
 This is a verse from //Śrīmad-Bhāgavatam,// Sixth Canto, First Chapter, verse number 6. [[books:sb:6:1:6|[SB 6.1.6]]] In the course of conversation... Not conversation. Mahārāja Parīkṣit was hearing //Śrīmad-Bhāgavatam// from Śukadeva Gosvāmī. This //Śrīmad-Bhāgavatam// is the summit of all knowledge. //Vidyā bhāgavatāvadhiḥ.// Amongst the Vedic scholars, the topmost knowledge means to understand //Śrīmad-Bhāgavatam.// Everything is there.
 

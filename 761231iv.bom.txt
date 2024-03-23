@@ -9,24 +9,6 @@
 
 ====== Press Interview ======
 
----- dataentry spoken ----
-id_hidden        : 761231iv.bom
-listtype_hidden  : Press Interview
-listdate_hidden  : 1976-12-31
-showdate_hidden  : 2023-12-31
-listplace_hidden : Bombay
-Type_spoken      : Interview
-Date_spoken      : December 31
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 34:30
-Title_hidden     : Press Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761231iv.bom.mp3|Press Interview — December 31, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Caitanya Mahāprabhu is the mercy incarnation for all people. How we can question upon this idea?
 

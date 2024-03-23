@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.36 ======
 
----- dataentry spoken ----
-id_hidden        : 741016sb.may
-listtype_hidden  : SB 1.8.36
-listdate_hidden  : 1974-10-16
-showdate_hidden  : 2023-10-16
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 16
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 33:33
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.36
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741016sb.may.mp3|SB 1.8.36 — October 16, 1974, Māyāpur}}
-</audio>
-
 **Nitāi:** "O Kṛṣṇa, those who continuously hear, chant and repeat Your transcendental activities, or take pleasure in others doing so, certainly see Your lotus feet, which alone can stop the repetition of birth and death."
 
 **Prabhupāda:**

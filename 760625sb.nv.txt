@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.9 ======
 
----- dataentry spoken ----
-id_hidden        : 760625sb.nv
-listtype_hidden  : SB 7.6.9
-listdate_hidden  : 1976-06-25
-showdate_hidden  : 2023-06-25
-listplace_hidden : New Vrindavan
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 25
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 32:43
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.9
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760625sb.nv.mp3|SB 7.6.9 — June 25, 1976, New Vrindavan}}
-</audio>
-
 **Pradyumna:**
 [leads chanting] [Prabhupāda and devotees repeat]
 

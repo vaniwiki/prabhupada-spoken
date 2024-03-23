@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Woman Sanskrit Professor ======
 
----- dataentry spoken ----
-id_hidden        : 750213r1.mex
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-02-13
-showdate_hidden  : 2023-02-13
-listplace_hidden : Mexico City
-Type_spoken      : Room Conversation
-Date_spoken      : February 13
-Year_spoken      : 1975
-Place_spoken     : Mexico City
-Length_hidden    : 78:29
-Title_hidden     : Room Conversation with Woman Sanskrit Professor
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750213r1.mex.mp3|Room Conversation with Woman Sanskrit Professor — February 13, 1975, Mexico City}}
-</audio>
-
 **Professor:**
 ...of the knowledge. Of a...
 

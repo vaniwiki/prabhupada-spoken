@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 760506le.hon
-listtype_hidden  : Lecture
-listdate_hidden  : 1976-05-06
-showdate_hidden  : 2023-05-06
-listplace_hidden : Honolulu
-Type_spoken      : Lecture
-Date_spoken      : May 6
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 61:30
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760506le.hon.mp3|Lecture — May 6, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 So boys and girls who are kindly present here to cooperate with this movement, Hare Kṛṣṇa movement, I thank you very much for your coming here and participating with us. This Hare Kṛṣṇa movement was started about five hundred years ago by Lord Caitanya Mahāprabhu. He appeared in India, Bengal. There is a district called Nadia, or Navadvīpa. In the latter part of the fifteenth century He appeared, and when He was only twenty-four years old, a young man---He had very nice, beautiful wife, very affectionate mother at home---but He took //sannyāsa. Sannyāsa// means, perhaps you know, renounced order of life.
 

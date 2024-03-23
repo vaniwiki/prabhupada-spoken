@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.1–2 ======
 
----- dataentry spoken ----
-id_hidden        : 690509bg.col
-listtype_hidden  : Bg 4.1–2
-listdate_hidden  : 1969-05-09
-showdate_hidden  : 2023-05-09
-listplace_hidden : Columbus
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : May 9
-Year_spoken      : 1969
-Place_spoken     : Columbus
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 4.1–2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690509bg.col.mp3|Bg 4.1-2 — May 9, 1969, Columbus}}
-</audio>
-
 **Pradyumna:**
 //Bhagavad-gītā,// chapter number four, "Transcendental Knowledge."
 

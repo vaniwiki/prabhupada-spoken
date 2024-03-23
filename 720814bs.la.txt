@@ -9,24 +9,6 @@
 
 ====== Śrī Brahmā-saṁhitā 5.32 ======
 
----- dataentry spoken ----
-id_hidden        : 720814bs.la
-listtype_hidden  : Bs. 5.32
-listdate_hidden  : 1972-08-14
-showdate_hidden  : 2023-08-14
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Brahma-saṁhitā
-Date_spoken      : August 14
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 14:11
-Title_hidden     : Śrī Brahmā-saṁhitā 5.32
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720814bs.la.mp3|Śrī Brahmā-saṁhitā 5.32 — August 14, 1972, Los Angeles}}
-</audio>
-
 [obeisances] [indistinct]
 
 **Prabhupāda:**

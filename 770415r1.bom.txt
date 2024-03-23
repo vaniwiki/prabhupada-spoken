@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Ratan Singh Rajda M.P. “Nationalism and Cheating” ======
 
----- dataentry spoken ----
-id_hidden        : 770415r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-04-15
-showdate_hidden  : 2023-04-15
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 15
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 140:13
-Title_hidden     : Room Conversation with Ratan Singh Rajda M.P. “Nationalism and Cheating”
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770415r1.bom.mp3|Room Conversation with Ratan Singh Rajda M.P. “Nationalism and Cheating” — April 15, 1977, Bombay}}
-</audio>
-
 **Girirāja:**
 ...either in Kurukṣetra or else in Vṛndāvana.
 

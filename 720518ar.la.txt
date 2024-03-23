@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720518ar.la
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1972-05-18
-showdate_hidden  : 2023-05-18
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : May 18
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 18:41
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720518ar.la.mp3|Arrival Lecture — May 18, 1972, Los Angeles}}
-</audio>
-
 [//kirtana//]
 
 [01:57]

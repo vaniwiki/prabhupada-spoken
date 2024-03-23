@@ -9,24 +9,6 @@
 
 ====== Lecture: “Nobody Wants to Die” ======
 
----- dataentry spoken ----
-id_hidden        : 680507le.bos
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-05-07
-showdate_hidden  : 2023-05-07
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : May 7
-Year_spoken      : 1968
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Lecture: “Nobody Wants to Die”
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680507le.bos.mp3|Lecture: “Nobody Wants to Die” — May 7, 1968, Boston}}
-</audio>
-
 **Prabhupāda:**
 So actually everyone is trying to live. Nobody wants to die. Why this psychological desire is there? I want to live. That, that means that he is eternal. Therefore he wants to live. That is confirmed in the //Bhagavad-gītā. Na jāyate na mriyate vā kadācit.// That soul existing within this body, or "I," I am eternal. So we... I am struggling now with this body. This body's temporary. I am changing different bodies. Just like in my this present life also I have changed so many bodies. So there is no difficulty to understand this philosophy that "I am changing bodies every moment. But I am the same, eternal. Similarly, after changing this body, I shall have another body." That is very nicely explained in the //Bhagavad-gītā://
 

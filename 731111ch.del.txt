@@ -9,24 +9,6 @@
 
 ====== Chanting Śrīmad-Bhagavatam 5.5.6–16 ======
 
----- dataentry spoken ----
-id_hidden        : 731111ch.del
-listtype_hidden  : SB 5.5.6–16
-listdate_hidden  : 1973-11-11
-showdate_hidden  : 2023-11-11
-listplace_hidden : Delhi
-Type_spoken      : Various
-Date_spoken      : November 11
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 06:03
-Title_hidden     : Chanting Śrīmad-Bhāgavatam 5.5.6–16
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731111ch.del.mp3|Chanting Śrīmad-Bhagavatam 5.5.6-16 — November 11, 1973, Delhi}}
-</audio>
-
 ===== Lord Ṛṣabhadeva’s Teachings to His Sons =====
 
 /* TEXT 6 */

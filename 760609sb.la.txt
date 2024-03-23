@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.43 ======
 
----- dataentry spoken ----
-id_hidden        : 760609sb.la
-listtype_hidden  : SB 6.1.43
-listdate_hidden  : 1976-06-09
-showdate_hidden  : 2023-06-09
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 9
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 23:14
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.43
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760609sb.la.mp3|SB 6.1.43 — June 9, 1976, Los Angeles}}
-</audio>
-
 **Pradyumna:** Translation: "The candidates for punishment are those who are confirmed by these many witnesses to have deviated from their prescribed regulative duties. Everyone engaged in fruitive activities is suitable to be subjected to punishment according to his sinful acts."
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.15 ======
 
----- dataentry spoken ----
-id_hidden        : 760108sb.nel
-listtype_hidden  : SB 6.1.15
-listdate_hidden  : 1976-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Nellore
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 8
-Year_spoken      : 1976
-Place_spoken     : Nellore
-Length_hidden    : 29:33
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760108sb.nel.mp3|SB 6.1.15 — January 8, 1976, Nellore}}
-</audio>
-
 **Prabhupāda:**
 
 > kecit kevalayā bhaktyā

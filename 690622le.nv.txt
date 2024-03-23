@@ -9,25 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690622le.nv # 
-listtype_hidden  : Lecture # 
-listdate_hidden  : 1969-06-22
-showdate_hidden  : 2023-06-22 #
-listplace_hidden : New Vrindaban # 
-Type_spoken      : Lecture # 
-Date_spoken      : June 22 # 
-Year_spoken      : 1969 # 
-Place_spoken     : New Vrindavan # 
-Length_hidden    : 00:00 # 
-Title_hidden     : Lecture # 
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690622le.nv.mp3|Lecture — June 22, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 Caitanya Mahāprabhu has said that this //Kṛṣṇa-saṅkīrtana//---Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare---//paraṁ vijayate:// "All glories." //Paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam. Ānandāmbudhi-vardhanam.// Because the //śrī-kṛṣṇa-saṅkīrtana// will increase the ocean of transcendental bliss. Now, here in this meeting we are present. I am an old man of seventy-four years old, and here is a child, one year old. So beginning from this child, //abala-vṛddha-vanita// [?], the Sanskrit word. Beginning from the child, woman, up to the old man, everyone can take part in this //saṅkīrtana// movement. Actually we can see practically that everyone can take part in it. This is such a nice yoga system. There is no need of any material qualification. But we don't neglect material qualification. We can dovetail material qualification to render service to Kṛṣṇa, and that will make our all material possessions, assets, successful. [child making noises, like //japa//] He is trying to...
 

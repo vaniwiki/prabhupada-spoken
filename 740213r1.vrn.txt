@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740213r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-02-13
-showdate_hidden  : 2023-02-13
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : February 13
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 35:36
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740213r1.vrn.mp3|Room Conversation — February 13, 1974, Vṛndāvana}}
-</audio>
-
 [no audio]
 
 **Gurudāsa:**

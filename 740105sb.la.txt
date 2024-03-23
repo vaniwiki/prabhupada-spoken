@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.16.8 ======
 
----- dataentry spoken ----
-id_hidden        : 740105sb.la
-listtype_hidden  : SB 1.16.8
-listdate_hidden  : 1974-01-05
-showdate_hidden  : 2023-01-05
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 5
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 38:54
-Title_hidden     : Śrīmad-Bhāgavatam 1.16.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740105sb.la.mp3|SB 1.16.8 — January 5, 1974, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse] [Prabhupāda and devotees repeat]
 

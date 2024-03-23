@@ -9,24 +9,6 @@
 
 ====== Thank you very much. Hare Kṛṣṇa. [end]Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 690411rc.ny
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1969-04-11
-showdate_hidden  : 2023-04-11
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : April 11
-Year_spoken      : 1969
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690411rc.ny.mp3|Room Conversation — April 11, 1969, New York}}
-</audio>
-
 **Prabhupāda:**
 Oh, Mr. Murti, I'm very glad to see you. Come here in front. How do you like this movement? Huh?
 

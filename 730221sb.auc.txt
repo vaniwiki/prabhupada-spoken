@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.13–15 ======
 
----- dataentry spoken ----
-id_hidden        : 730221sb.auc
-listtype_hidden  : SB 6.1.13–15
-listdate_hidden  : 1973-02-21
-showdate_hidden  : 2023-02-21
-listplace_hidden : Auckland
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 21
-Year_spoken      : 1973
-Place_spoken     : Auckland
-Length_hidden    : 53:58
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.13–15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730221sb.auc.mp3|SB 6.1.13-15 — February 21, 1973, Auckland}}
-</audio>
-
 **Prabhupāda:**
 
 > yam... yamena niyamena vā

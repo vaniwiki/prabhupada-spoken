@@ -9,24 +9,6 @@
 
 ====== Room Conversation with GBC members ======
 
----- dataentry spoken ----
-id_hidden        : 770304r1.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-03-04
-showdate_hidden  : 2023-03-04
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spokens     : Mar 2, Mar 3
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 49:39
-Title_hidden     : Room Conversation with GBC members
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770304r1.may|Room Conversation with GBC members — March 2-3, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 Hmm.
 

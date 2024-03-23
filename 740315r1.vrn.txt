@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Sannyāsīs ======
 
----- dataentry spoken ----
-id_hidden        : 740315r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-03-15
-showdate_hidden  : 2023-03-15
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : March 15
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 36:23
-Title_hidden     : Room Conversation with Sannyāsīs
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740315r1.vrn.mp3|Room Conversation with Sannyāsīs — March 15, 1974, Vṛndāvana}}
-</audio>
-
 **Śyāmasundara:**
 ...seeing how the money is spent, everything is going nice. It is organized, and everything...
 

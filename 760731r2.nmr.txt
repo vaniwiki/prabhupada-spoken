@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760731r2.nmr
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-31
-showdate_hidden  : 2023-07-31
-listplace_hidden : New Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : July 31
-Year_spoken      : 1976
-Place_spoken     : New Māyāpur
-Length_hidden    : 20:12
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760731r2.nmr.mp3|Room Conversation — July 31, 1976, New Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 Organize it and keep hundreds of books. They will live peacefully. But don't entangle in sinful activities. Then it will be all right. Such a nice place, the city residents cannot imagine. What a nonsense life---clubs, slaughterhouse, gambling places, drinking house. This is like hell. Try to save people from this hellish condition of life, without any knowledge, like animals. And nature therefore creates a wholesale slaughterhouse in war, to cut throat all---finished. Many millions and millions are finished. From 1914 to 1950, how many years?
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.16.10 ======
 
----- dataentry spoken ----
-id_hidden        : 740107sb.la
-listtype_hidden  : SB 1.16.10
-listdate_hidden  : 1974-01-07
-showdate_hidden  : 2023-01-07
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 7
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 33:19
-Title_hidden     : Śrīmad-Bhāgavatam 1.16.10
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740107sb.la.mp3|SB 1.16.10 — January 7, 1974, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 690411le.ny
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1969-04-11
-showdate_hidden  : 2023-04-11
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : April 11
-Year_spoken      : 1969
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690411le.ny.mp3|Lecture [partially recorded] — April 11, 1969, New York}}
-</audio>
-
 **Prabhupāda:**
 ...society. //Lokānāṁ hita-kāriṇau.// So //loka-hitam. Varīyān eṣa te praśnaḥ// [[books:sb:2:1:1|[SB 2.1.1]]]. //Varīyān// means glorify; //eṣa,// this; //praśnaḥ,// question; //kṛtaḥ,// what you have done; //loka-hitam,// the best welfare activities. This kind of question and answer. And not only that. One may say that "In your society, you are talking something of Kṛṣṇa. That is your hobby. You may take pleasure." Because everyone has got some, his hobby. But it is not like hobby. Not only //loka-hitam,// it is said //ātmavit-sammataḥ.// It is approved by the transcendentalists. Just like in the //Bhagavad-gītā// Arjuna says that "You are accepted as the Supreme Personality of Godhead, Kṛṣṇa. Not that because I am Your friend, out of my whims or affection I am talking of You as the Supreme Personality. You are accepted by such great sages like Nārada, Vyāsa, Asita." Great stalwarts, Vedic scholars.
 

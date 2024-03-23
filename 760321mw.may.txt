@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760321mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-03-21
-showdate_hidden  : 2023-03-21
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : March 21
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 38:31
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760321mw.may.mp3|Morning Walk — March 21, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...met recently our Lalita Prasad? You did not?
 

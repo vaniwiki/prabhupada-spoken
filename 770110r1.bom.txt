@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770110r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-10
-showdate_hidden  : 2023-01-10
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 10
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 29:52
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770110r1.bom.mp3|Room Conversation — January 10, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...at a time. Simply the sense must be there. //Jñānavan. Bahūnāṁ janmanām ante jñānavān māṁ prapadyante// [[books:bg:7:19|[Bg. 7.19]]]. To surrender to Kṛṣṇa is not easy, but if one is //jñānavān,// he can do it. So make your country //jñānavān,// not these rascals, unnecessarily wasting time by opposing us. They are rascals. So you have to turn these rascals into sense. Then it will take. Give them //prasādam;// let them chant Hare Kṛṣṇa. Time will come, ours. Do it. I'll die, but you shall remain. You are all young men. [break]
 

@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760627gc.nv
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1976-06-27
-showdate_hidden  : 2023-06-27
-listplace_hidden : New Vrindavan
-Type_spoken      : Room Conversation
-Date_spoken      : June 27
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 129:32
-Title_hidden     : Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760627gc.nv.mp3|Garden Conversation — June 27, 1976, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 So, any question from the newcomers?
 

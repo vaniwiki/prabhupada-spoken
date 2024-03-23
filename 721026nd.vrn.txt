@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721026nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-10-26
-showdate_hidden  : 2023-10-26
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : October 26
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 33:54
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721026nd.vrn.mp3|The Nectar of Devotion — October 26, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 "//The Nectar of Devotion// is specifically presented for persons who are now engaged in the Kṛṣṇa consciousness movement. I beg to offer my sincere thanks to all my friends and disciples who are helping me..."
 

@@ -9,24 +9,6 @@
 
 ====== Discussion with Guests ======
 
----- dataentry spoken ----
-id_hidden        : 691223dc.bos
-listtype_hidden  : Discussion Guests
-listdate_hidden  : 1969-12-23
-showdate_hidden  : 2023-12-23
-listplace_hidden : Boston
-Type_spoken      : Room Conversation
-Date_spoken      : December 23
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Discussion with Guests
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/691223dc.bos.mp3|Discussion with Guests — December 23, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 That you have to test. Now I have given you this one formula. By following any guru or any principle, if you actually develop your love of God, then it is nice. Otherwise it is useless waste of time. That is the test. But they, so far I know, these yogis, they are themselves God. They say that everyone is God. And who is dog? So I think it is not very congenial. How everyone can be God? Then what is the meaning of God?
 

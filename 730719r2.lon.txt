@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 730719r2.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-19
-showdate_hidden  : 2023-07-19
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 19
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 05:24
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730719r2.lon.mp3|Room Conversation — July 19, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 ...is taking place. The rascal Darwin says that it is coming from monkey. Why the monkey does not produce a human being? All rascals. //Harāv abhaktasya kuto mahad-guṇāḥ// [[books:sb:5:18:12|[SB 5.18.12]]]. Simply rascals.
 

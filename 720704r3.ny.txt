@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720704r3.ny
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-07-04
-showdate_hidden  : 2023-07-04
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : July 4
-Year_spoken      : 1972
-Place_spoken     : New York
-Length_hidden    : 08:59
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720704r3.ny.mp3|Room Conversation — July 4, 1972, New York}}
-</audio>
-
 **Devotee (1):**
 A brush.
 

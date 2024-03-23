@@ -9,24 +9,6 @@
 
 ====== Meeting with GBC ======
 
----- dataentry spoken ----
-id_hidden        : 750330r2.may
-listtype_hidden  : Meeting with GBC
-listdate_hidden  : 1975-03-30
-showdate_hidden  : 2023-03-30
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : March 31
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 05:03
-Title_hidden     : Meeting with GBC
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750330r2.may.mp3|Meeting with GBC — March 31, 1975, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...otherwise, we recommend everyone become //sannyāsa.// What is the use of not becoming? [laughter] We are giving up this world. We are preparing ourself for entering into the family of Kṛṣṇa. So why should we be very much anxious to maintain this family? So actually... Caitanya Mahāprabhu therefore says, "I'm not a //sannyāsī.// I'm not a //sannyāsī.// I'm not a //gṛhastha.// I'm not a //brahmacārī.//" These four..., eight //varṇāśrama-dharma// is unnecessary for spiritually. Therefore Caitanya Mahāprabhu, when He was speaking with Rāmānanda Rāya---you'll find in the //Teachings of Lord...//---as soon as he suggested //varṇāśrama-dharma,// Rāmaṇanda Rāya, immediately Caitanya...: "It is not very important. If you know better than this, you go on." He did not give any, much stress on this //varṇāśrama-dharma.// But for regulated life, that is required. And... Ultimately, it is not required. So it is not recommended for ordinary person. But this is also unnecessary. Caitanya Mahāprabhu's teaching is so sublime that such things, which is the beginning of human life, that is also unnecessary. //Ihā bāhya āge kaha āra. Bāhya āge,// this is superfluous. "You speak something higher than [indistinct]." So that is not very easy thing. First of all, we have to live very regulated life. //Sannyāsa// life is that regulated life. And then we can enter into the real life. That is idea. So anything more?
 

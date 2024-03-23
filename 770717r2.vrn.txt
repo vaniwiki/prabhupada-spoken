@@ -9,24 +9,6 @@
 
 ====== Room Conversation about Gṛhasthas ======
 
----- dataentry spoken ----
-id_hidden        : 770717r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-17
-showdate_hidden  : 2023-07-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 17
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 51:59
-Title_hidden     : Room Conversation about Gṛhasthas
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770717r2.vrn.mp3|Room Conversation about Gṛhasthas — July 17, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...and slowly moved, not that like...
 

@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690115le.la
-listtype_hidden  : Lecture
-listdate_hidden  : 1969-01-15
-showdate_hidden  : 2023-01-15
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : January 15
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690115le.la.mp3|Lecture — January 15, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 So this yoga system, //bhakti-yoga,// means to concentrate only to Kṛṣṇa. Kṛṣṇa, when we speak of Kṛṣṇa, Kṛṣṇa and His expansion also... In the //Brahma-saṁhitā// Kṛṣṇa's expansions are described:
 

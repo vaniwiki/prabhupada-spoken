@@ -9,24 +9,6 @@
 
 ====== Press Conference ======
 
----- dataentry spoken ----
-id_hidden        : 751002pc.mau
-listtype_hidden  : Press Conference
-listdate_hidden  : 1975-10-02
-showdate_hidden  : 2023-10-02
-listplace_hidden : Mauritius
-Type_spoken      : Room Conversation
-Date_spoken      : October 2
-Year_spoken      : 1975
-Place_spoken     : Mauritius
-Length_hidden    : 38:22
-Title_hidden     : Press Conference
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751002pc.mau.mp3|Press Conference — October 2, 1975, Mauritius}}
-</audio>
-
 **Prabhupāda:**
 So this Kṛṣṇa consciousness movement means we are trying to eradicate this conception of life, bodily conception of life. The animals... An animal, he is also thinking, "I am dog," "I am cat," "I am cow," "I am ass," on account of this bodily concept of life. And if we human being, we also remain in that bodily concept of life, then we are no better than the animals. So if we remain animals, there cannot be any peace. You bring a dozens of dogs, and if you keep them, they cannot be improved. They will remain as animal. They have no capacity. And if you ask them to live peacefully, it is not possible, because they are animals. Similarly, if we human being, although we are not animals, but we are not being educated as human being, and therefore we remain as animal, so how there can be any peace? The animal eats; we eat. The animal sleeps; we sleep. The animal have sex life; we have got sex life. The animal defends; we also defend. So if we remain engaged only on the principles of four demands of body, then we remain animal. Our extra education requires that "I am not this body; I am spirit soul." And there is necessity of the soul. If we don't come to this platform, then we remain animal. So this Kṛṣṇa consciousness movement means we are trying to bring human being to the platform of spiritual consciousness, or real human being.
 

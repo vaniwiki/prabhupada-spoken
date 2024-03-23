@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.1 ======
 
----- dataentry spoken ----
-id_hidden        : 681202bg.la
-listtype_hidden  : Bg 7.1
-listdate_hidden  : 1968-12-02
-showdate_hidden  : 2023-12-02
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 2
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 7.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681202bg.la.mp3|Bg 7.1 — December 2, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [sings] //Cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa-lakṣāvṛteṣu... govindam ādi-puruṣaṁ tam ahaṁ bhajāmi// [Bs. 5.29]. [devotees respond] So we are worshiping the Supreme Personality of Godhead, Govinda. That is our business. What is the effect of worshiping Govinda? Just like people are trying to go to the moon planet, very tiny effort. Even they go to the moon planet, they'll be not very much benefited, because the scientists say the moon planet is below 200 degrees zero point. So we cannot tolerate the cold climate of this planet, how we shall be benefited even we go to the moon planet? And moon planet is the nearest planet. There are millions of other planets also, and the scientists say that to reach the highest, topmost planet, it will take forty thousands of years. And who is going to live for forty thousand years to go and come back?
 

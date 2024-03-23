@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.32 ======
 
----- dataentry spoken ----
-id_hidden        : 721111sb.vrn
-listtype_hidden  : SB 1.2.32
-listdate_hidden  : 1972-11-11
-showdate_hidden  : 2023-11-11
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 11
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 35:51
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.32
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721111sb.vrn.mp3|SB 1.2.32 — November 11, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

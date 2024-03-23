@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.4.3–4 and Initiations ======
 
----- dataentry spoken ----
-id_hidden        : 720628sb.la
-listtype_hidden  : SB 2.4.3–4 and Initiations
-listdate_hidden  : 1972-06-28
-showdate_hidden  : 2023-06-28
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 28
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 31:30
-Title_hidden     : Śrīmad-Bhāgavatam 2.4.3–4 & Initiations
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720628sb.la.mp3|SB 2.4.3-4 and Initiations — June 28, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [//prema-dvani//] Thank you very much.
 

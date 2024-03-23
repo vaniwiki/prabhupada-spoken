@@ -9,23 +9,5 @@
 
 ====== Śrīmad-Bhāgavatam Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 721229sb.bom
-listtype_hidden  : SB Lecture [Hindi]
-listdate_hidden  : 1972-12-29
-showdate_hidden  : 2023-12-29
-listplace_hidden : Bombay
-Type_spoken      : Hindi
-Date_spoken      : December 29
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 38:09
-Title_hidden     : Śrīmad-Bhāgavatam Lecture [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721229sb.bom_hindi.mp3|SB Lecture [Hindi] — December 29, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 

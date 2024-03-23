@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.2 ======
 
----- dataentry spoken ----
-id_hidden        : 740208bg.vrn
-listtype_hidden  : Bg 4.2
-listdate_hidden  : 1974-02-08
-showdate_hidden  : 2023-02-08
-listplace_hidden : Vṛndāvana
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 8
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 19:36
-Title_hidden     : Bhagavad-gītā 4.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740208bg.vrn.mp3|Bg 4.2 — February 8, 1974, Vṛndāvana}}
-</audio>
-
 [poor recording]
 
 **Prabhupāda:**

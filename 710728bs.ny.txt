@@ -9,24 +9,6 @@
 
 ====== Śrī Brahma-saṁhitā, Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710728bs.ny
-listtype_hidden  : Bs. Lecture
-listdate_hidden  : 1971-07-28
-showdate_hidden  : 2023-07-28
-listplace_hidden : New York
-Type_spoken      : Śrī Brahma-saṁhitā
-Date_spoken      : July 28
-Year_spoken      : 1971
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrī Brahma-saṁhitā, Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710728bs.ny.mp3|Śrī Brahma-saṁhitā, Lecture — July 28, 1971, New York}}
-</audio>
-
 **Prabhupāda:**
 //Govindam ādi-puruṣam tam ahaṁ bhajāmi.// We are worshiping the original person, //ādi-puruṣam.// Original person... As we are all persons, our origin is also a person. We should always understand this. //Ādi-puruṣam.// The same example. Unless my forefather was a person, how his son, his son, his son---I am the last---we are persons? So the original father, the supreme father, or God, or Kṛṣṇa, must be a person, not imperson. We should always remember. //Govindam ādi-puruṣam tam ahaṁ bhajāmi.//
 

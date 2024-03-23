@@ -9,24 +9,6 @@
 
 ====== Morning Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770529r1.vrn
-listtype_hidden  : Morning Conversation
-listdate_hidden  : 1977-05-29
-showdate_hidden  : 2023-05-29
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : May 29
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 44:18
-Title_hidden     : Morning Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770529r1.vrn.mp3|Morning Conversation — May 29, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 From all parts of the world. That is history. Generally he goes to Ja... [pause] [//kīrtana// in background] [break] [Bengali] [long Bengali conversation with Jayapatākā and Indian men with a few English words interspersed] [break] What is the rate?
 

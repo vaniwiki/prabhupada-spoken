@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 3.27 at Town Hall ======
 
----- dataentry spoken ----
-id_hidden        : 740627bg.mel
-listtype_hidden  : Bg 3.27 at Town Hall
-listdate_hidden  : 1974-06-27
-showdate_hidden  : 2023-06-27
-listplace_hidden : Melbourne
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : June 27
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 69:58
-Title_hidden     : Bhagavad-gītā 3.27 at Town Hall
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740627bg.mel.mp3|Bg 3.27 at Town Hall — June 27, 1974, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat]
 

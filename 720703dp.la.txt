@@ -9,24 +9,6 @@
 
 ====== Departure Address ======
 
----- dataentry spoken ----
-id_hidden        : 720703dp.la
-listtype_hidden  : Departure Address
-listdate_hidden  : 1972-07-03
-showdate_hidden  : 2023-07-03
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : July 3
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 00:45
-Title_hidden     : Departure Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720703dp.la.mp3|Departure Address — July 3, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 So I am going out of station for few days. I shall come back again very soon.
 

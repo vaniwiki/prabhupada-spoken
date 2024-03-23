@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 680310in.sf
-listtype_hidden  : Initiation Lecture
-listdate_hidden  : 1968-03-10
-showdate_hidden  : 2023-03-10
-listplace_hidden : San Francisco
-Type_spoken      : Initiation
-Date_spoken      : March 10
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Initiation Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680310in.sf.mp3|Initiation Lecture — March 10, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 The meaning of this //mantra// is //apavitraḥ pavitro vā. Apavitraḥ// means unclean and //pavitra// means clean. So anyone who may be unclean or clean, it doesn't matter. //Apavitraḥ pavitro vā sarvāvasthāṁ gato 'pi vā. Sarva// means all. //Avastha// means condition. "In whatever condition one may be, either unclean or clean," //yaḥ,// "anyone who," //smaret,// "remembers," //puṇḍarīkākṣam... Puṇḍarīkākṣam// means Kṛṣṇa. Kṛṣṇa's another name is //puṇḍarīkākṣam. Yaḥ smaret puṇḍarīkākṣam, sa:// "That person," //bahya,// "externally," //abhyantaram,// "internally," //śuciḥ,// "becomes at once purified." //Śrī-viṣṇu śrī-viṣṇu śrī-viṣṇu. Puṇḍarīkākṣam,// Kṛṣṇa or //Viṣṇu.// So this is the remembrance. //Śrī-viṣṇu, namaḥ śrī-viṣṇu śrī-viṣṇu.//
 

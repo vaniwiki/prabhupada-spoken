@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770124r2.bhu
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-24
-showdate_hidden  : 2023-01-24
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 24
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 18:34
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770124r2.bhu.mp3|Room Conversation — January 24, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 That is the difference in... [break]
 

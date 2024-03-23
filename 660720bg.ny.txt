@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.6–8 ======
 
----- dataentry spoken ----
-id_hidden        : 660720bg.ny
-listtype_hidden  : Bg 4.6–8
-listdate_hidden  : 1966-07-20
-showdate_hidden  : 2023-07-20
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 20
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 4.6–8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660720bg.ny.mp3|Bg 4.6-8 — July 20, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > ajo 'pi sann avyayātmā

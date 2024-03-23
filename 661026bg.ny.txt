@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 8.5 ======
 
----- dataentry spoken ----
-id_hidden        : 661026bg.ny
-listtype_hidden  : Bg 8.5
-listdate_hidden  : 1966-10-26
-showdate_hidden  : 2023-10-26
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 26
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 8.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661026bg.ny.mp3|Bg 8.5 — October 26, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 There is a story. In a cowshed there was fire. So after that incidence, the cow, as soon as the cow sees something red, oh, they began to disturb, "Oh, there is fire." Similarly, here, tasting the bitterness of so-called rascaldom, they think that Rādhā-Kṛṣṇa is also similar rascaldom. So we shall begin? So when they have sent the file? Did you ask?
 

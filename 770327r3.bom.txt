@@ -4,24 +4,6 @@
 
 ====== Room Conversation with Ratan Singh Rajda (Member of Parliament) ======
 
----- dataentry spoken ----
-id_hidden        : 770327r3.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-03-27
-showdate_hidden  : 2023-03-27
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : March 27
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 31:47
-Title_hidden     : Room Conversation with Ratan Singh Rajda [Member of Parliament]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770327r3.bom.mp3|Room Conversation with Ratan Singh Rajda (Member of Parliament) — March 27, 1977, Bombay}}
-</audio>
-
 **Girirāja:**
 I told him that you had agreed to wait to meet him. He said, "This is wonderful. I have been pining for his //darśana.//"
 

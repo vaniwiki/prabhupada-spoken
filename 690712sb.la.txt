@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.17 ======
 
----- dataentry spoken ----
-id_hidden        : 690712sb.la
-listtype_hidden  : SB 2.3.17
-listdate_hidden  : 1969-07-12
-showdate_hidden  : 2023-07-12
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 12
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.17
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690712sb.la.mp3|SB 2.3.17 — July 12, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...spoken by Śaunaka Ṛṣi, a great sage of the name Śaunaka. There was great meeting in Naimiṣāraṇya, a place, a very sacred place in India. If you sometimes go to India, you'll try to find out this place. It is in northern India and there is a big city, very well known city, Lucknow. And it is about forty or fifty miles from Lucknow. But the place is so nice, so attractive, that any man who goes there will find immediately spiritually impelled[?], it is so nice place, Naimiṣāraṇya. So it is very old place. Formerly, when sages used to hold their meeting, they generally held their meeting in that place, Naimiṣāraṇya.
 

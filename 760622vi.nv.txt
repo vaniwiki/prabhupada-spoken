@@ -9,24 +9,6 @@
 
 ====== Prabhupāda Visits Palace and Garden ======
 
----- dataentry spoken ----
-id_hidden        : 760622vi.nv
-listtype_hidden  : Palace and Garden
-listdate_hidden  : 1976-06-22
-showdate_hidden  : 2023-06-22
-listplace_hidden : New Vrindavan
-Type_spoken      : Lecture
-Date_spoken      : June 22
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 59:58
-Title_hidden     : Prabhupāda Visits Palace and Garden
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760622vi.nv.mp3|Prabhupāda Visits Palace and Garden — June 22, 1976, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 Thank you.
 

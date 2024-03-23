@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761114r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-11-14
-showdate_hidden  : 2023-11-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 14
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 80:59
-Title_hidden     : Room Conversation with Alex Kulik
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761114r2.vrn.mp3|Room Conversation — November 14, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 [long Hindi conversation, preaching to Indian guests] It does not depend on becoming a //sannyāsī, gṛhastha// or //śūdra.// [Hindi conversation] If you take instruction of //Bhagavad-gītā,// and if you apply in your life, then you're perfect. Never mind whether you are //gṛhastha// or //sannyāsa.// [Hindi conversation] [break]
 

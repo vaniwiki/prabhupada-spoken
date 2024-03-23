@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.15 ======
 
----- dataentry spoken ----
-id_hidden        : 760629sb.nv
-listtype_hidden  : SB 7.6.15
-listdate_hidden  : 1976-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : New Vrindavan
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 29
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 12:43
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760629sb.nv.mp3|SB 7.6.15 — June 29, 1976, New Vrindavan}}
-</audio>
-
 **Pradyumna:** Translation: "If a person too attached to the duties of family maintenance is unable to control his senses, the core of his heart is immersed in how to accumulate money. Although he knows that one who takes the wealth of others will be punished by the law of the government, and by the laws of Yamarāja after death, he continues cheating others to acquire money."
 
 **Prabhupāda:**

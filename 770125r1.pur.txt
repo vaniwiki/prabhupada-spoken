@@ -9,24 +9,6 @@
 
 ====== Evening Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770125r1.pur
-listtype_hidden  : Evening Conversation
-listdate_hidden  : 1977-01-25
-showdate_hidden  : 2023-01-25
-listplace_hidden : Jagannātha Purī
-Type_spoken      : Room Conversation
-Date_spoken      : January 25
-Year_spoken      : 1977
-Place_spoken     : Jagannātha Purī
-Length_hidden    : 06:26
-Title_hidden     : Evening Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770125r1.pur.mp3|Evening Conversation — January 25, 1977, Jagannātha Purī}}
-</audio>
-
 **Prabhupāda:**
 It was heart attack.
 

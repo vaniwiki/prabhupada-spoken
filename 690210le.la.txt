@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 690210le.la
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1969-02-10
-showdate_hidden  : 2023-02-10
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : February 10
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690210le.la.mp3|Lecture [partially recorded] — February 10, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 After each and every verse we chant, //govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// Similarly, we repeat Kṛṣṇa---Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. Why we repeat? The more we repeat means we learn to love. That is required. Anything which you do not love, you cannot repeat. It will be disgusting. Anything, any word you take, if you simply repeat, you'll feel disgusted. Sometimes those who are not in Kṛṣṇa conscious life, they also feel this repetition as disgusting, hackneyed, because they have not developed love. Rūpa Gosvāmī says that "What shall I chant with one tongue and what shall I hear with two ears? If millions of tongue I would have possessed, then I could chant little." And they're tasting... Because they have got love for Kṛṣṇa, they are tasting the nectarean of chanting. They cannot give up. In the material world also, there are many slogans. We repeat because we love.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770116r1.cal
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-16
-showdate_hidden  : 2023-01-16
-listplace_hidden : Calcutta
-Type_spoken      : Room Conversation
-Date_spoken      : January 16
-Year_spoken      : 1977
-Place_spoken     : Calcutta
-Length_hidden    : 04:35
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770116r1.cal.mp3|Room Conversation — January 16, 1977, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 But one cannot give up the family life, and it was an opportunity to give up family life. So it is blessing in disguise.
 

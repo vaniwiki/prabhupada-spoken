@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760315mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-03-15
-showdate_hidden  : 2023-03-15
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : March 15
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 29:01
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760315mw.may.mp3|Morning Walk — March 15, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 "...and they are drunkards, they are //guṇḍās,// and they are creating trouble always." "Oh," He is, "then why not preach amongst them?" You see? This is Caitanya Mahāprabhu's preaching. Hard nut. To accept a hard nut and make it soft. [break] ...who was injured, but His decision to deliver these persons was executed. So why should we neglect China and Russia? China has good relationship now with America.
 

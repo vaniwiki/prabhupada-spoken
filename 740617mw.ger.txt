@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740617mw.ger
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-06-17
-showdate_hidden  : 2023-06-17
-listplace_hidden : Germany
-Type_spoken      : Morning Walk
-Date_spoken      : June 17
-Year_spoken      : 1974
-Place_spoken     : Germany
-Length_hidden    : 18:12
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740617mw.ger.mp3|Morning Walk — June 17, 1974, Germany}}
-</audio>
-
 **Prabhupāda:**
 What is there? He is digging? [break] Just see the fun.
 

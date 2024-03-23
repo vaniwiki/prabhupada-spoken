@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720712le.lon
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-07-12
-showdate_hidden  : 2023-07-12
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : July 12
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 47:18
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720712le.lon.mp3|Lecture — July 12, 1972, London}}
-</audio>
-
 **Prabhupāda:**
 I thank you very much for your participating in this //saṅkīrtana// movement. This movement was started by Lord Caitanya five hundred years ago in India, West Bengal. [noise of someone speaking in background]
 

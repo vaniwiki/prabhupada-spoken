@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.26 ======
 
----- dataentry spoken ----
-id_hidden        : 681206bg.la
-listtype_hidden  : Bg 2.26
-listdate_hidden  : 1968-12-06
-showdate_hidden  : 2023-12-06
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 6
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 2.26
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681206bg.la.mp3|Bg 2.26 — December 6, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...these living symptoms develop. The anthropology, Darwin's theory. They do not believe in soul, transmigration of the soul. They have their own theories. But they are also not definite. Those who have read Darwin's theory of anthropology, in most places, that Mr. Darwin says, "Perhaps it was like this, perhaps it was like this." And according to his theory, there was no existence of human being ten thousand years ago. But we followers of Vedic [child making noises]... You have to stop. ...version, we don't believe to all this nonsense; neither there is any basic principle. Now take for example the atheistic theory, call it by any name, that combination of matter makes a living symptom possible.
 

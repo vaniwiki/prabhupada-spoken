@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 8.21–22 ======
 
----- dataentry spoken ----
-id_hidden        : 661119bg.ny
-listtype_hidden  : Bg 8.21–22
-listdate_hidden  : 1966-11-19
-showdate_hidden  : 2023-11-19
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 19
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 8.21–22
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661119bg.ny.mp3|Bg 8.21-22 — November 19, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > avyakto 'kṣara ity uktas

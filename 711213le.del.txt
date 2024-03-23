@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 711213le.del
-listtype_hidden  : Lecture
-listdate_hidden  : 1971-12-13
-showdate_hidden  : 2023-12-13
-listplace_hidden : Delhi
-Type_spoken      : Lecture
-Date_spoken      : December 13
-Year_spoken      : 1971
-Place_spoken     : Delhi
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711213le.del.mp3|Lecture — December 13, 1971, Delhi}}
-</audio>
-
 [beginning of tape for many minutes is inaudible]
 
 **Devotee:**

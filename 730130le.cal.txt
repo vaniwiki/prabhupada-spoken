@@ -9,24 +9,6 @@
 
 ====== Lecture at Bhārata Chamber of Commerce ======
 
----- dataentry spoken ----
-id_hidden        : 730130le.cal
-listtype_hidden  : Lecture at Bhārata Chamber of Commerce
-listdate_hidden  : 1973-01-30
-showdate_hidden  : 2023-01-30
-listplace_hidden : Calcutta
-Type_spoken      : Lecture
-Date_spoken      : January 30
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 52:40
-Title_hidden     : Lecture at Bhārata Chamber of Commerce "Culture and Business"
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730130le.cal.mp3|Lecture at Bhārata Chamber of Commerce — January 30, 1973, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 
 > oṁ ajñāna timirāndhasya

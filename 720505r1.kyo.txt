@@ -9,24 +9,6 @@
 
 ====== Room Conversation, “Definition of Chance” ======
 
----- dataentry spoken ----
-id_hidden        : 720505r1.kyo
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-05-05
-showdate_hidden  : 2023-05-05
-listplace_hidden : Kyoto
-Type_spoken      : Room Conversation
-Date_spoken      : May 5
-Year_spoken      : 1972
-Place_spoken     : Kyoto
-Length_hidden    : 46:07
-Title_hidden     : Room Conversation “Definition of Chance”
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720505r1.kyo.mp3|Room Conversation, “Definition of Chance” — May 5, 1972, Kyoto}}
-</audio>
-
 **Pradyumna:**
 [reading from dictionary] "Chance." It's a noun and adjective. "1. The way things fall out. Fortune, undesigned occurrence, opportunity, possibility, probability. Especially in plural, as 'the chances are against him.' Absence of design or discoverable cause. Course of events regarded as a power, fate. 'By chance': as it falls or fell out; without design. 'On the chance': in view of the possibility. 'Take one's chance': let things go as they may; consent to take what comes."
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760221mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-02-21
-showdate_hidden  : 2023-02-21
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : February 21
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 07:17
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760221mw.may.mp3|Morning Walk — February 21, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...mind, don't express. Don't disclose. And besides that, we should not think anyone as our enemy. They are misled. Let us do our own duty. [//japa//] Who has broken this? [break] ...disease. Just like a man is diseased, and a surgeon is operating. He's calling by ill names, "You rascal, you //śālā,// you //barja//[?], you are killing me." So that does not mean he'll stop his business. [laughs] And when he's relieved: "Oh, you are my friend. You have done so good. You are not my //śālā.//" Just see.
 

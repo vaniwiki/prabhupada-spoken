@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720927mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-09-27
-showdate_hidden  : 2023-09-27
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : September 27
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 28:13
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720927mw.la.mp3|Morning Walk — September 27, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Door-to-door storekeeper just to subsist because he had no other means he could not get any good employment but he was nice scientist Dr. of Science or Mr. Mitra. But what could be done? Anyway somehow. So he was manufacturing some household soap not very good quality but still on cycle he was going from shop to shop.
 

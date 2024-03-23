@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721101nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-11-01
-showdate_hidden  : 2023-11-01
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : November 1
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 38:44
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721101nd.vrn.mp3|The Nectar of Devotion — November 1, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading:] "...as given by Rūpa Gosvāmī in //Bhakti-rasāmṛta-sindhu,// can be summarized thus: his service is favorable and is always in relation to Kṛṣṇa. In order to keep the purity of such Kṛṣṇa conscious activities, one must be freed from all material desires and philosophical speculation. Any desire except for the service of the Lord is called material desire.
 

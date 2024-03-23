@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761228r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-28
-showdate_hidden  : 2023-12-28
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 28
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 16:55
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761228r1.bom.mp3|Room Conversation — December 28, 1976, Bombay}}
-</audio>
-
 **Girirāja:**
 He made another point that in Krishna Shankar Shastri's compiling of the commentaries, commentators, that Śrīdhara Svāmī is given the first position.
 

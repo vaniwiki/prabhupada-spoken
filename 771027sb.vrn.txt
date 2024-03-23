@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhagavatam Dictation SB 10.13.62 ======
 
----- dataentry spoken ----
-id_hidden        : 771027sb.vrn
-listtype_hidden  : Śrīmad-Bhagavatam Dictation SB 10.13.62
-listdate_hidden  : 1977-10-27
-showdate_hidden  : 2023-10-27
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 27
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 23:47
-Title_hidden     : Śrīmad-Bhāgavatam Dictation SB 10.13.62
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771027sb.vrn.mp3|Śrīmad-Bhagavatam Dictation SB 10.13.62 — October 27, 1977, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 Brahmā... [break]
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Graham Hill ======
 
----- dataentry spoken ----
-id_hidden        : 730726r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-26
-showdate_hidden  : 2023-07-26
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 26
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 22:21
-Title_hidden     : Room Conversation with Graham Hill [Former World Champion Race Car Driver]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730726r1.lon.mp3|Room Conversation with Graham Hill — July 26, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 But death is compelling me to die. There is no science, no philosophy, no hero to conquer over this death. This is our philosophy: how to conquer over the race between life and death.
 

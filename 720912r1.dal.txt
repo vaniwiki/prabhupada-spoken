@@ -9,24 +9,6 @@
 
 ====== Teaching Children, Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720912r1.dal
-listtype_hidden  : Teaching Children, Conversation
-listdate_hidden  : 1972-09-12
-showdate_hidden  : 2023-09-12
-listplace_hidden : Dallas
-Type_spoken      : Room Conversation
-Date_spoken      : September 12
-Year_spoken      : 1972
-Place_spoken     : Dallas
-Length_hidden    : 16:11
-Title_hidden     : Teaching Children, Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720912r1.dal.mp3|Teaching Children, Conversation — September 12, 1972, Dallas}}
-</audio>
-
 **Child:**
 ‘A’ that’s a long ‘a’.
 

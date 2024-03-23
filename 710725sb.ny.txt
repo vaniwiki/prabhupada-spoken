@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.11 ======
 
----- dataentry spoken ----
-id_hidden        : 710725sb.ny
-listtype_hidden  : SB 6.1.11
-listdate_hidden  : 1971-07-25
-showdate_hidden  : 2023-07-25
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 25
-Year_spoken      : 1971
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710725sb.ny.mp3|SB 6.1.11 — July 25, 1971, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > karmaṇā karma-nirhāro

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.4 ======
 
----- dataentry spoken ----
-id_hidden        : 720714sb.lon
-listtype_hidden  : SB 1.1.4
-listdate_hidden  : 1972-07-14
-showdate_hidden  : 2023-07-14
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 14
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 45:20
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720714sb.lon.mp3|SB 1.1.4 — July 14, 1972, London}}
-</audio>
-
 **Prabhupāda:**
 Hmm. Go on.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720717r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-07-17
-showdate_hidden  : 2023-07-17
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 17
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 18:36
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720717r1.lon.mp3|Room Conversation — July 17, 1972, London}}
-</audio>
-
 **Prabhupāda:**
 ...ruler was a Hindu, the population were the Muhammadans. In Hyderabad the ruler was a Muhammadan and the population was Hindu. Now these Pakistanis, they say, "Now that is Muhammadan ruler. We shall occupy that." And Kashmir, Hindu ruler, the Hindustanis they said, "We shall occupy that." Just see how they created fighting. [laughs] Just see. So the Kashmir ruler, the Dr. Karan Singh’s father, he, according to the British direction... British direction was that he can join any party: it is actually, but we don't interfere.
 

@@ -9,24 +9,6 @@
 
 ====== Govardhana Pūjā Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 661104gp.ny
-listtype_hidden  : Govardhana Pūjā
-listdate_hidden  : 1966-11-04
-showdate_hidden  : 2023-11-04
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : November 4
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Govardhana Pūjā Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661104gp.ny.mp3|Govardhana Pūjā Lecture — November 4, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 Today Govardhanadhārī, Giridhārī, Lord Kṛṣṇa, today lifted the mountain. According to Vedic literature there are different demigods. Sometimes you will find in Greek mythology the gods of the water, gods of the thunderbolt. These are not imagination. Actually they are facts. But due to our insufficient knowledge we do not know how the material nature is being controlled. So when Kṛṣṇa was on this planet and He was playing the part of a cowherd boy, and it was known to all over the universe that "God has come, taken incarnation, and He is on the earth planet, and He is at Vṛndāvana playing the part of a cowherd boy..." So as if somebody, if there is incarnation of God, somebody believes and somebody does not believe, when Kṛṣṇa was actually present on this earth, it is not that everybody understood that Kṛṣṇa was the Supreme Personality of Godhead, not even up to date. Only few persons, the five brothers of the Pāṇḍavas and the damsels of Vṛndāvana, only in the fingers' count, say, out of the whole population, say, hundred or two hundred men knew Him that He was the Supreme Personality of Godhead. Otherwise everyone thought that "He is an ordinary man just like one of us, but most powerful. That's all." Similarly, the demigods in other planets, they also thought, "Oh, he's a foolish person. They are thinking of a cowherd boy as God," sophisticated, like that. And especially Indra, the heavenly kingdom..., king of heaven. He was... He's very powerful, so he thought, "What god he has come? My God, He cannot come." This was some speculation. Even Brahmā also speculated. But Kṛṣṇa wanted to show Indra that "Yes, actually I have come." So that incidence is today, Govardhana-pūjā.
 

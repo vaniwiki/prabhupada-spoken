@@ -9,24 +9,6 @@
 
 ====== Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest ======
 
----- dataentry spoken ----
-id_hidden        : 730803gc.lon
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1973-08-03
-showdate_hidden  : 2023-08-03
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : August 3
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 54:59
-Title_hidden     : Garden Conversation With Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730803gc.lon.mp3|Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest — August 3, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 The aeroplane botheration [sound of aeroplane flying over] was not in Switzerland. They do not come there for fear of rising...
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.1 ======
 
----- dataentry spoken ----
-id_hidden        : 720420sb.hk
-listtype_hidden  : SB 7.6.1
-listdate_hidden  : 1972-04-20
-showdate_hidden  : 2023-04-20
-listplace_hidden : Hong Kong
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 20
-Year_spoken      : 1972
-Place_spoken     : Hong Kong
-Length_hidden    : 27:10
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720420sb.hk.mp3|SB 7.6.1 — April 20, 1972, Hong Kong}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] You all understand English?
 

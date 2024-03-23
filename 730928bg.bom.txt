@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.5 ======
 
----- dataentry spoken ----
-id_hidden        : 730928bg.bom
-listtype_hidden  : Bg 13.5
-listdate_hidden  : 1973-09-28
-showdate_hidden  : 2023-09-28
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : September 28
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 33:31
-Title_hidden     : Bhagavad-gītā 13.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730928bg.bom.mp3|Bg 13.5 — September 28, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > ...bahudhā gītaṁ

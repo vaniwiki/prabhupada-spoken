@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Bishop Kelly ======
 
----- dataentry spoken ----
-id_hidden        : 740629r2.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : June 29
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 28:04
-Title_hidden     : Room Conversation with Bishop Kelly
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740629r2.mel.mp3|Room Conversation with Bishop Kelly — June 29, 1974, Melbourne}}
-</audio>
-
 **Bishop Kelly:**
 Are you feeling the cold in Melbourne, Your Grace?
 

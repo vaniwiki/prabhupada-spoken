@@ -9,24 +9,6 @@
 
 ====== Māyāpur Temple Inauguration with Śrīdhara Mahārāja, plus Mahāṁsa Sanyass Initiation ======
 
----- dataentry spoken ----
-id_hidden        : 730317to.may
-listtype_hidden  : Temple Inauguration
-listdate_hidden  : 1973-03-17
-showdate_hidden  : 2023-03-17
-listplace_hidden : Māyāpur
-Type_spoken      : Lecture
-Date_spoken      : March 17
-Year_spoken      : 1973
-Place_spoken     : Māyāpur
-Length_hidden    : 73:28
-Title_hidden     : Māyāpur Temple Inauguration with Śrīdhara Mahārāja, plus Mahāṁsa Sannyāsa Initiation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730317to.may.mp3|Māyāpur Temple Inauguration — March 17, 1973, Māyāpur}}
-</audio>
-
 [Srila Prabhupada first asked Śrīdhara Mahārāja to give a talk during the inauguration of the ISKCON Candrodaya Mandira in Māyāpur 1973, on Gaura-pūrṇimā].
 
 **Śrīdhara Mahārāja:**

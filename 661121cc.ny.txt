@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.66–96 ======
 
----- dataentry spoken ----
-id_hidden        : 661121cc.ny
-listtype_hidden  : Cc. Madhya 20.66–96
-listdate_hidden  : 1966-11-21
-showdate_hidden  : 2023-11-21
-listplace_hidden : New York
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : November 21
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.66–96
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661121cc.ny.mp3|Cc. Madhya 20.66-96 — November 21, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > prabhu kahe---'tomāra dui-bhāi prayāge mililā

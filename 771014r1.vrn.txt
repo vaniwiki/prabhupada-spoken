@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771014r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-14
-showdate_hidden  : 2023-10-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 14
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 82:46
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771014r1.vrn.mp3|Room Conversation — October 14, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 How are you feeling this morning, Śrīla Prabhupāda? You haven't passed any urine for quite awhile. What is the reason for that?
 

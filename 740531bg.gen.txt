@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.10, Festival at Maison de Faubourg ======
 
----- dataentry spoken ----
-id_hidden        : 740531bg.gen
-listtype_hidden  : Bg 4.10, Festival at Maison de Faubourg
-listdate_hidden  : 1974-05-31
-showdate_hidden  : 2023-05-31
-listplace_hidden : Geneva
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : May 31
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 49:51
-Title_hidden     : Bhagavad-gītā 4.10 Festival at Maison de Faubourg
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740531bg.gen.mp3|Bg 4.10, Festival at Maison de Faubourg — May 31, 1974, Geneva}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

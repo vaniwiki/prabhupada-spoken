@@ -9,24 +9,6 @@
 
 ====== Discussions with Devotees and Conversation with Dr. Ghosh ======
 
----- dataentry spoken ----
-id_hidden        : 770601dc.vrn
-listtype_hidden  : Discussions
-listdate_hidden  : 1977-06-01
-showdate_hidden  : 2023-06-01
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 1
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 45:35
-Title_hidden     : Discussions with Devotees and Conversation with Dr. Ghosh
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770601dc.vrn.mp3|Discussions with Devotees and Conversation with Dr. Ghosh — June 1, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 So our temple is also.
 

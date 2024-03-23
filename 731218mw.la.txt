@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731218mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-18
-showdate_hidden  : 2023-12-18
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 18
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 44:49
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731218mw.la.mp3|Morning Walk — December 18, 1973, Los Angeles}}
-</audio>
-
 **Prajāpati:**
 ...big gold letters over the whole front of the building where they were having inauguration of vice-president, "In God We Trust." Big letters.
 

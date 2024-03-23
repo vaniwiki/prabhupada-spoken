@@ -9,24 +9,6 @@
 
 ====== Lecture, partially recorded ======
 
----- dataentry spoken ----
-id_hidden        : 740212le.vrn
-listtype_hidden  : Lecture, partially recorded
-listdate_hidden  : 1974-02-12
-showdate_hidden  : 2023-02-12
-listplace_hidden : Vṛndāvana
-Type_spoken      : Lecture
-Date_spoken      : February 12
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 11:21
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740212le.vrn.mp3|Lecture, partially recorded — February 12, 1974, Vṛndāvana}}
-</audio>
-
 **Devotee:**
 ...celebrated astronomer. [break]
 

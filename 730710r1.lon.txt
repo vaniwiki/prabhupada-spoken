@@ -9,24 +9,6 @@
 
 ====== Conversation with Mr Wadell, Boy School Teacher ======
 
----- dataentry spoken ----
-id_hidden        : 730710r1.lon
-listtype_hidden  : Conversation with Mr Wadell, Boy School Teacher
-listdate_hidden  : 1973-07-10
-showdate_hidden  : 2023-07-10
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 10
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 54:26
-Title_hidden     : Conversation with Mr. Wadell [Boy School Teacher]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730710r1.lon.mp3|Conversation with Mr Wadell, Boy School Teacher — July 10, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 There is a word in Greek dictionary, //Kristo.//
 

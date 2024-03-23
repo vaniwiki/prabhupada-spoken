@@ -9,24 +9,6 @@
 
 ====== Conversation with Religious Group ======
 
----- dataentry spoken ----
-id_hidden        : 680727rc.mon
-listtype_hidden  : Religious Group
-listdate_hidden  : 1968-07-27
-showdate_hidden  : 2023-07-27
-listplace_hidden : Montreal
-Type_spoken      : Room Conversation
-Date_spoken      : July 27
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Conversation with Religious Group
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680727rc.mon.mp3|Conversation with Religious Group — July 27, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 I am imperfect. That's all right. But I know what is perfection.
 

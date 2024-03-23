@@ -9,24 +9,6 @@
 
 ====== Presentation Excerpt ======
 
----- dataentry spoken ----
-id_hidden        : 730723ap.lon
-listtype_hidden  : Presentation Excerpt
-listdate_hidden  : 1973-07-23
-showdate_hidden  : 2023-07-23
-listplace_hidden : London
-Type_spoken      : Various
-Date_spoken      : July 23
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 01:12
-Title_hidden     : Presentation Excerpt
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730723ap.lon.mp3|Presentation Excerpt — July 23, 1973, London}}
-</audio>
-
 **Guild member:**
 ...here are made of a very inferior metal, in fact in lead. But we couldn't think anything better than having this badge made for you in solid gold, twenty-four carat. And hereby we present it on behalf of the members of the Guild to you, our most beloved leader.
 

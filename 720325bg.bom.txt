@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.6 ======
 
----- dataentry spoken ----
-id_hidden        : 720325bg.bom
-listtype_hidden  : Bg 7.6
-listdate_hidden  : 1972-03-25
-showdate_hidden  : 2023-03-25
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 25
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 36:14
-Title_hidden     : Bhagavad-gītā 7.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720325bg.bom.mp3|Bg 7.6 — March 25, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > ...bhūtāni

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771102r7.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 2
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 06:48
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771102r7.vrn.mp3|Room Conversation — November 2, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 [looking at //Preaching is the Essence?//] Each verse is like a separate lecture, Śrīla Prabhupāda.
 

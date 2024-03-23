@@ -9,24 +9,6 @@
 
 ====== Talk After Lecture [Brahma-saṁhitā, verse 29] ======
 
----- dataentry spoken ----
-id_hidden        : 681108t2.la
-listtype_hidden  : Brahma-saṁhitā, verse 29
-listdate_hidden  : 1968-11-08
-showdate_hidden  : 2023-11-08
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : November 8
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Talk After Lecture [Brahma-saṁhitā, verse 29]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681108t2.la.mp3|Talk After Lecture [Brahma-saṁhitā, verse 29] — November 8, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Who has seen that house? Dayānanda? You saw?
 

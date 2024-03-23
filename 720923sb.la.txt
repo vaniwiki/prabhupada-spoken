@@ -9,20 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.3.18 ======
 
----- dataentry spoken ----
-id_hidden        : 720923sb.la
-listtype_hidden  : SB 1.3.18
-listdate_hidden  : 1972-09-23
-showdate_hidden  : 2023-09-23
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 23
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.3.18
-----
-
 [no audio]
 
 **Prabhupāda:**

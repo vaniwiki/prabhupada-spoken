@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740312mw.vrn
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-03-12
-showdate_hidden  : 2023-03-12
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : March 12
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 30:42
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740312mw.vrn.mp3|Morning Walk — March 12, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Their business will be to exploit the poor citizens. And they will be embarrassed and harassed so much: by one side, no sufficient rain, and therefore scarcity of food; and the other side, taxation by the government. In this way, the people will be so much harassed that they'll give up their home and go to the forest. Very piti... Unless they take to Kṛṣṇa consciousness, they'll not be saved. The //varṇāśrama// college has to be established immediately. Everywhere, wherever we have got our center, a //varṇāśrama// college should be established to train four divisions: one class, //brāhmaṇa;// one class, //kṣatriya;// one class, //vaiśya;// and one class, //śūdra.// But everyone will be elevated to the spiritual platform by the spiritual activities which we have prescribed. There is no inconvenience, even for the //śūdras.//
 

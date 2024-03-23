@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 680626le.mon
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-06-26
-showdate_hidden  : 2023-06-26
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : June 26
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680626le.mon.mp3|Lecture — June 26, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 ...how Kṛṣṇa's money is being stolen by this coward. //Stena eva sa ucyate// [[books:bg:3:12|[Bg. 3.12]]]. Anyone who is using Kṛṣṇa's money without acknowledging, he is a thief. That is stated in the //Bhagavad-gītā. Stena eva sa ucyate:// he's a thief. So in this material world, one who has no Kṛṣṇa consciousness, one who is not using things in Kṛṣṇa consciousness... Everyone is using Kṛṣṇa's... Nobody has got any property. //Īśāvāsyam idaṁ sarvam// [Īśo //mantra 1//]. Everything belongs to Kṛṣṇa. That is the version in //Īśopaniṣad.// Now, in this American land, now divided into Canada, North America, South America, but originally, to whom this land belongs? It belongs to Kṛṣṇa. You have come here and have divided Kṛṣṇa's property and you have named "This is Canada, this is North America, this is South America," and you are claiming proprietorship. But if you are asked, "Are you really proprietor?" No. You have come here, encroached upon others' property. So originally, you are thief. Actually this is the position, that anyone who is unlawfully claiming something, "It is mine," that is illusion. //Janasya moho 'yam ahaṁ mameti// [[books:sb:5:5:8|[SB 5.5.8]]]. This //ahaṁ mameti,// "It is mine, and it is I. This body, I. And in bodily relation, everything mine," these two things are illusion. //Ahaṁ mameti. Aham// means "I." What "I"? This body. And what "mine"? This, "My wife is mine, my children, my home, my country." Why? Because the bodily relationship is there.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.28.19 ======
 
----- dataentry spoken ----
-id_hidden        : 751029sb.nai
-listtype_hidden  : SB 3.28.19
-listdate_hidden  : 1975-10-29
-showdate_hidden  : 2023-10-29
-listplace_hidden : Nairobi
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 29
-Year_spoken      : 1975
-Place_spoken     : Nairobi
-Length_hidden    : 26:00
-Title_hidden     : Śrīmad-Bhāgavatam 3.28.19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751029sb.nai.mp3|SB 3.28.19 — October 29, 1975, Nairobi}}
-</audio>
-
 **Harikeśa:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] //Śrīmad-Bhāgavatam,// Third Canto, Twenty-eighth Chapter, text number nineteen. [leads chanting of verse, etc.]
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.3 ======
 
----- dataentry spoken ----
-id_hidden        : 740419bg.hyd
-listtype_hidden  : Bg 13.3
-listdate_hidden  : 1974-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : Hyderabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 19
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 50:29
-Title_hidden     : Bhagavad-gītā 13.3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740419bg.hyd.mp3|Bg 13.3 — April 19, 1974, Hyderabad}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse]
 

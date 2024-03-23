@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.19–25 ======
 
----- dataentry spoken ----
-id_hidden        : 690109bg.la
-listtype_hidden  : Bg 4.19–25
-listdate_hidden  : 1969-01-09
-showdate_hidden  : 2023-01-09
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : January 9
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 4.19–25
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690109bg.la.mp3|Bg 4.19-25 — January 9, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Page? Hm? Who will read? You'll read? Yes. Which page?
 

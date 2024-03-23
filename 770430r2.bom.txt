@@ -9,24 +9,6 @@
 
 ====== Conversation with Vedic Astronomer ======
 
----- dataentry spoken ----
-id_hidden        : 770430r2.bom
-listtype_hidden  : Conversation with Vedic Astronomer
-listdate_hidden  : 1977-04-30
-showdate_hidden  : 2023-04-30
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 30
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 32:44
-Title_hidden     : Conversation with Vedic Astronomer Agnihotram Rāmānuja Tattvācārya
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770430r2.bom.mp3|Conversation with Vedic Astronomer — April 30, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Hmm. Hare Kṛṣṇa. //Jaya.// I am little weak.
 

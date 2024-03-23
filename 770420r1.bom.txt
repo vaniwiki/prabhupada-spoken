@@ -9,24 +9,6 @@
 
 ====== Conversation with Patita-pāvana ======
 
----- dataentry spoken ----
-id_hidden        : 770420r1.bom
-listtype_hidden  : Conversation with Patita-pāvana
-listdate_hidden  : 1977-04-20
-showdate_hidden  : 2023-04-20
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 20
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 18:58
-Title_hidden     : Conversation with Patita-pāvana
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770420r1.bom.mp3|Conversation with Patita-pāvana — April 20, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Now, how that branches are spread, how there are different places and seas and oceans in every same place.
 

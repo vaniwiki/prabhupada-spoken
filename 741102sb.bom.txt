@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.2 ======
 
----- dataentry spoken ----
-id_hidden        : 741102sb.bom
-listtype_hidden  : SB 3.25.2
-listdate_hidden  : 1974-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 2
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 27:49
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741102sb.bom.mp3|SB 3.25.2 — November 2, 1974, Bombay}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse, etc.]
 

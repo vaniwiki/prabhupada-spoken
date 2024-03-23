@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721227nd.bom
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-12-27
-showdate_hidden  : 2023-12-27
-listplace_hidden : Bombay
-Type_spoken      : Nectar of Devotion
-Date_spoken      : December 27
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 29:18
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721227nd.bom.mp3|The Nectar of Devotion — December 27, 1972, Bombay}}
-</audio>
-
 **Pradyumna:**
 [reading:] "...immediately terminates along with his body as soon as his life is over. Death is therefore taken as the representative of God for the atheistic class of men. The devotee realizes the presence of God by devotional service, whereas the atheist realizes the presence of God in the shape of death. At death everything is finished, and one has to begin a new chapter of life in a new situation, perhaps higher or lower than the last one. In any..."
 

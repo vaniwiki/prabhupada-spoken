@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 8 ======
 
----- dataentry spoken ----
-id_hidden        : 700512ip.la
-listtype_hidden  : Īśo Mantra 8
-listdate_hidden  : 1970-05-12
-showdate_hidden  : 2023-05-12
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : May 12
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 15:21
-Title_hidden     : Śrī Īśopaniṣad, Mantra 8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700512ip.la.mp3|Śrī Īśopaniṣad, Mantra 8 — May 12, 1970, Los Angeles}}
-</audio>
-
 **Prabhupada:**
 Hare Kṛṣṇa Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare, Hare Rama Hare Rama... OM [Chanting of verses] This verse is little difficult, [chuckle] so chant and it will come, yes, //abhyāsa-yogena, abhyāsa-yogena,// Arjuna said that it is impossible for me, so Kṛṣṇa said, //abhyāsa-yogena. Abhyāsa-yogena// means practising repeated, //abhyāsa-yogena// so everything is possible by //abhyāsa-yoga.// Yoga, you have heard the name of yoga, practicing is also yoga. //abhyāsa-yoga-yuktena cetasā nānya-gāminā// [[books:bg:8:8|[Bg. 8.8]]], one who practice. One who practices continually and does not allow the mind to go anywhere he becomes successful. //Abhyāsa-yoga-yuktena cetasā nānya-gāminā...// [continues chanting verse, etc].
 

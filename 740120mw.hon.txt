@@ -9,24 +9,6 @@
 
 ====== Morning Walk, partially recorded ======
 
----- dataentry spoken ----
-id_hidden        : 740120mw.hon
-listtype_hidden  : Morning Walk, partially recorded
-listdate_hidden  : 1974-01-20
-showdate_hidden  : 2023-01-20
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : January 20
-Year_spoken      : 1974
-Place_spoken     : Honolulu
-Length_hidden    : 02:35
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740120mw.hon.mp3|Morning Walk, partially recorded — January 20, 1974, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 The pilots do not like to go?
 

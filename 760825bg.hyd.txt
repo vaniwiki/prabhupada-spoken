@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 1.1 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 760825bg.hyd
-listtype_hidden  : Bg 1.1 [Hindi]
-listdate_hidden  : 1976-08-25
-showdate_hidden  : 2023-08-25
-listplace_hidden : Hyderabad
-Type_spoken      : Hindi
-Date_spoken      : August 25
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 06:36
-Title_hidden     : Bhagavad-gītā 1.1 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760825bg.hyd_hindi.mp3|Bg 1.1 [Hindi] — August 25, 1976, Hyderabad}}
-</audio>
-
 **Harikeśa:**
 Shall I read the translation? [indistinct]
 

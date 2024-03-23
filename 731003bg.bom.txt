@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.8–12 ======
 
----- dataentry spoken ----
-id_hidden        : 731003bg.bom
-listtype_hidden  : Bg 13.8–12
-listdate_hidden  : 1973-10-03
-showdate_hidden  : 2023-10-03
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 3
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 25:34
-Title_hidden     : Bhagavad-gītā 13.8–12
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731003bg.bom.mp3|Bg 13.8-12 — October 3, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 So Kṛṣṇa, the supreme authority, Supreme Personality of Godhead, He is speaking the process of acquiring knowledge, //jñānam.// So, the first beginning of knowledge is humility. Śrī Caitanya Mahāprabhu has taught,
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā Excerpts: 2.44–45, 2.58 ======
 
----- dataentry spoken ----
-id_hidden        : 660325bg.ny
-listtype_hidden  : Bg Excerpts: 2.44–45, 2.58
-listdate_hidden  : 1966-03-25
-showdate_hidden  : 2023-03-25
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 25
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā Lecture Excerpts: 2.44–45, 2.58
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660325bg.ny.mp3|Bg Excerpts: 2.44-45, 2.58 — March 25, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 ...decided that I am not this body. We have already discussed. I am not this body, and I am pure consciousness. Some way or other, I am encaged with this bodily dress, but I am not this body. I am pure consciousness. Now, if we actually want happiness or independence, then we have to remain in our pure consciousness position. Suppose if I do not belong to certain association or certain company, then I have to keep aloof from that company. So Lord Kṛṣṇa says that //bhogaiśvarya-prasaktānām// [[books:bg:2:44|[Bg. 2.44]]]. Those who are too much attached with bodily pleasure, bodily enjoyment, and //tayāpahṛta-cetasām. Apahṛta-cetasām// means those who are illusioned. Because bodily pleasure is not my pleasure. My pleasure is different because I am not this body. Just like a man in a feverish condition or in feverish delirium, speaking something. That is not his normal speaking. That is due to the delirious condition. So to bring him to the normal condition, the physician treats him to get out of that delirious condition. So similarly, our position is: because we have got..., some way or other, we have been entangled with this material body; therefore our conception of happiness is just like a man in the delirious condition.
 

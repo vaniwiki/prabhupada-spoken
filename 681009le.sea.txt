@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681009le.sea
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-10-09
-showdate_hidden  : 2023-10-09
-listplace_hidden : Seattle
-Type_spoken      : Lecture
-Date_spoken      : October 9
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681009le.sea.mp3|Lecture — October 9, 1968, Seattle}}
-</audio>
-
 **Prabhupāda:**
 Why don't you sit on the chair if you feel inconvenient? I'm asking you. You can sit down on the chair. That's all right? Hare Kṛṣṇa. [chants] //Govindam ādi-puruṣam tam ahaṁ bhajāmi.// [devotees respond]
 

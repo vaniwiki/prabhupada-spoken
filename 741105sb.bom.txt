@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.5–6 ======
 
----- dataentry spoken ----
-id_hidden        : 741105sb.bom
-listtype_hidden  : SB 3.25.5–6
-listdate_hidden  : 1974-11-05
-showdate_hidden  : 2023-11-05
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 5
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 45:06
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.5–6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741105sb.bom.mp3|SB 3.25.5-6 — November 5, 1974, Bombay}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse, etc.]
 

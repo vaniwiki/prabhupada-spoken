@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.1 ======
 
----- dataentry spoken ----
-id_hidden        : 750125bg.hk
-listtype_hidden  : Bg 7.1
-listdate_hidden  : 1975-01-25
-showdate_hidden  : 2023-01-25
-listplace_hidden : Hong Kong
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : January 25
-Year_spoken      : 1975
-Place_spoken     : Hong Kong
-Length_hidden    : 43:41
-Title_hidden     : Bhagavad-gītā 7.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750125bg.hk.mp3|Bg 7.1 — January 25, 1975, Hong Kong}}
-</audio>
-
 **Nitāi:** "Now hear, O son of Pṛthā [Arjuna], how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt."
 
 **Prabhupāda:**

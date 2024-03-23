@@ -9,24 +9,6 @@
 
 ====== Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 761210db.hyd
-listtype_hidden  : Disappearance Day
-listdate_hidden  : 1976-12-10
-showdate_hidden  : 2023-12-10
-listplace_hidden : Hyderabad
-Type_spoken      : Lecture
-Date_spoken      : December 10
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 38:28
-Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761210db.hyd.mp3|Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 10, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] "...simple expression of reverence and love. The disciple, Abhaya Charan Dāsa, was to become His Divine Grace A. C. Bhaktivedanta Swami Prabhupāda, founder-//ācārya// of International Society, Krishna Consciousness."
 

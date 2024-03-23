@@ -9,24 +9,6 @@
 
 ====== Room Conversation about Gurukula ======
 
----- dataentry spoken ----
-id_hidden        : 761105r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-11-05
-showdate_hidden  : 2023-11-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 5
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 44:21
-Title_hidden     : Room Conversation about Gurukula
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761105r1.vrn.mp3|Room Conversation about Gurukula — November 5, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 The modern education means... Just see what is the disastrous condition. For 531 posts, three //lakhs// people have applied. How the unemployment... This application means they are all educated. Uneducated, they do not apply for any post. That means educated unemployed. This is India's so-called education. [aside:] Without light it is... You can open the doors. [break]
 

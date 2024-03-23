@@ -9,24 +9,6 @@
 
 ====== Morning Walk, partially recorded ======
 
----- dataentry spoken ----
-id_hidden        : 740107mw.la
-listtype_hidden  : Morning Walk, partially recorded
-listdate_hidden  : 1974-01-07
-showdate_hidden  : 2023-01-07
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : January 7
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 10:17
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740107mw.la.mp3|Morning Walk, partially recorded — January 7, 1974, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...although it appears that he's very stern. But he's friend.
 

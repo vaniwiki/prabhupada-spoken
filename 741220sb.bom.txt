@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.26.8 ======
 
----- dataentry spoken ----
-id_hidden        : 741220sb.bom
-listtype_hidden  : SB 3.26.8
-listdate_hidden  : 1974-12-20
-showdate_hidden  : 2023-12-20
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 20
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 35:45
-Title_hidden     : Śrīmad-Bhāgavatam 3.26.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741220sb.bom.mp3|SB 3.26.8 — December 20, 1974, Bombay}}
-</audio>
-
 **Nitāi:**
 [leads chanting of verse, etc.] [devotees repeat]
 

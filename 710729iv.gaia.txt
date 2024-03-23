@@ -9,24 +9,6 @@
 
 ====== Television Interview ======
 
----- dataentry spoken ----
-id_hidden        : 710729iv.gai
-listtype_hidden  : Television Interview
-listdate_hidden  : 1971-07-29
-showdate_hidden  : 2023-07-29
-listplace_hidden : Gainesville
-Type_spoken      : Interview
-Date_spoken      : July 29
-Year_spoken      : 1971
-Place_spoken     : Gainesville
-Length_hidden    : 00:00
-Title_hidden     : Television Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710729iv.gai.mp3|Television Interview — July 29, 1971, Gainesville}}
-</audio>
-
 **Interviewer:**
 As confirmed by all the Vedic scriptures and by the great sages in the disciplic succession, He has a body made of eternity, bliss, and all knowledge. God has infinite forms and expansions. But of all His forms, His original form, His transcendental form, is as a cowherd boy. A form which He reveals only to His most confidential devotees. So go the teachings of Kṛṣṇa as laid down in the Vedic literature. And of the sages in the disciplic succession, which I mentioned, one is our guest for this conversation today. He is His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda, founder of the International Society for Krishna Consciousness, foremost teacher in the West of the Kṛṣṇa philosophy, which, moreover, he teaches not only by word, but by example. He came to this country in 1965 on orders of his spiritual master. As a Kṛṣṇa disciple, he is the present human exponent of a line of succession going back five hundred years to the appearance in India of Lord Caitanya, and beyond that, to a time five thousand years ago when Lord Kṛṣṇa Himself was on this planet and His words were recorded. Welcome, sir. What is Kṛṣṇa consciousness?
 

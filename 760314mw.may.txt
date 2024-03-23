@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760314mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-03-14
-showdate_hidden  : 2023-03-14
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : March 14
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 38:58
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760314mw.may.mp3|Morning Walk — March 14, 1976, Māyāpur}}
-</audio>
-
 **Hari-śauri:**
 ...He has all wealth, all strength, everything that you could possibly ever want. And He's offering to everyone, "So just surrender to Me, and I will take complete charge of you." But people are so foolish that they don't do it. They don't take any notice.
 

@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.395 ======
 
----- dataentry spoken ----
-id_hidden        : 760817cc.hyd
-listtype_hidden  : Cc. Madhya 20.395
-listdate_hidden  : 1976-08-17
-showdate_hidden  : 2023-08-17
-listplace_hidden : Hyderabad
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : August 17
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 23:17
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.395
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760817cc.hyd.mp3|Cc. Madhya 20.395 — August 17, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhāgavate vāsudevāya. Oṁ namo bhāgavate vāsudevāya. Oṁ namo bhāgavate vāsudevāya.// [devotees repeat] [indistinct comments to Pradyumna] This is from //Caitanya-caritāmṛta, Madhya-līlā,// Chapter Twenty.
 

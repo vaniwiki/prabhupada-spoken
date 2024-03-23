@@ -9,24 +9,6 @@
 
 ====== Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 751102le.bom
-listtype_hidden  : Lecture [Hindi]
-listdate_hidden  : 1975-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Bombay
-Type_spoken      : Hindi
-Date_spoken      : November 2
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 39:44
-Title_hidden     : Lecture [Hindi with English translation]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751102le.bom_hindi.mp3|Lecture [Hindi] — November 2, 1975, Bombay}}
-</audio>
-
 [final proofreading pending]
 
 **Prabhupāda:**

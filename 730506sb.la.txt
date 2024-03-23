@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.44 ======
 
----- dataentry spoken ----
-id_hidden        : 730506sb.la
-listtype_hidden  : SB 1.8.44
-listdate_hidden  : 1973-05-06
-showdate_hidden  : 2023-05-06
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 6
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 36:30
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.44
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730506sb.la.mp3|SB 1.8.44 — May 6, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Go on.
 

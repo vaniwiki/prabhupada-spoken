@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.9.3 ======
 
----- dataentry spoken ----
-id_hidden        : 730517sb.la
-listtype_hidden  : SB 1.9.3
-listdate_hidden  : 1973-05-17
-showdate_hidden  : 2023-05-17
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 17
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 23:03
-Title_hidden     : Śrīmad-Bhāgavatam 1.9.3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730517sb.la.mp3|SB 1.9.3 — May 17, 1973, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse] [Prabhupāda and devotees repeat]
 

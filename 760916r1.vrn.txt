@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760916r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-09-16
-showdate_hidden  : 2023-09-16
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 16
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 12:23
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760916r1.vrn.mp3|Room Conversation — September 16, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 All the Vaiṣṇavas, they are expert. Just like Rūpa, Sanātana, expert management. [indistinct] expert, even in worldly affairs. Not that "I am so much big devotee that I cannot manage worldly affairs." Expert. Must be expert. //Dakṣa.//
 

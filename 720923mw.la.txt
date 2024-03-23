@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720923mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-09-23
-showdate_hidden  : 2023-09-23
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : September 23
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 33:22
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720923mw.la.mp3|Morning Walk — September 23, 1972, Los Angeles}}
-</audio>
-
 **Karāndhara:**
 Like night is only night in relationship with today. Big is only big in relationship to small.
 

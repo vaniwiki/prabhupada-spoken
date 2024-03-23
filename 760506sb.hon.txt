@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.2 ======
 
----- dataentry spoken ----
-id_hidden        : 760506sb.hon
-listtype_hidden  : SB 6.1.2
-listdate_hidden  : 1976-05-06
-showdate_hidden  : 2023-05-06
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 6
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 14:54
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760506sb.hon.mp3|SB 6.1.2 — May 6, 1976, Honolulu}}
-</audio>
-
 **Devotees:**
 //oṁ namo bhagavate vāsudevāya.//
 

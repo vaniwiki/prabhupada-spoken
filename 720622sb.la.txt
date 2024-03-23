@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.24 ======
 
----- dataentry spoken ----
-id_hidden        : 720622sb.la
-listtype_hidden  : SB 2.3.24
-listdate_hidden  : 1972-06-22
-showdate_hidden  : 2023-06-22
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 22
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 48:21
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720622sb.la.mp3|SB 2.3.24 — June 22, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [to a devotee] I have seen your article; you can see me after meeting. Hare Kṛṣṇa.
 

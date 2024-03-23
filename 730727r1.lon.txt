@@ -9,24 +9,6 @@
 
 ====== Conversation with Sir Alistair Hardy ======
 
----- dataentry spoken ----
-id_hidden        : 730727r1.lon
-listtype_hidden  : Conversation with Sir Alistair Hardy
-listdate_hidden  : 1973-07-27
-showdate_hidden  : 2023-07-27
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 27
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 45:58
-Title_hidden     : Conversation with Sir Alistair Hardy [Second Conversation]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730727r1.lon.mp3|Conversation with Sir Alistair Hardy — July 27, 1973, London}}
-</audio>
-
 **Sir Alistair Hardy:**
 [reading from notes] "...answer in Christian terms, but no doubt the same idea could be put into the language of other faiths. It is to bring about the kingdom of God on earth: 'Thy kingdom come, thy will be done.' "
 

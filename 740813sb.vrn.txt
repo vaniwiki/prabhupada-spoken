@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.32 ======
 
----- dataentry spoken ----
-id_hidden        : 740813sb.vrn
-listtype_hidden  : SB 1.5.32
-listdate_hidden  : 1974-08-13
-showdate_hidden  : 2023-08-13
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 13
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 42:17
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.32
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740813sb.vrn.mp3|SB 1.5.32 — August 13, 1974, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [devotees repeat]
 

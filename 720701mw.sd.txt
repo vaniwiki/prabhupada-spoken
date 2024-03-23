@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720701mw.sd
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : San Diego
-Type_spoken      : Morning Walk
-Date_spoken      : July 1
-Year_spoken      : 1972
-Place_spoken     : San Diego
-Length_hidden    : 23:15
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720701mw.sd.mp3|Morning Walk — July 1, 1972, San Diego}}
-</audio>
-
 [in car]
 
 **Ātreya Ṛṣi:**

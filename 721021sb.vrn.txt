@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.10 ======
 
----- dataentry spoken ----
-id_hidden        : 721021sb.vrn
-listtype_hidden  : SB 1.2.10
-listdate_hidden  : 1972-10-21
-showdate_hidden  : 2023-10-21
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 21
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 33:43
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.10
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721021sb.vrn.mp3|SB 1.2.10 — October 21, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse] [Prabhupāda and devotees repeat]
 

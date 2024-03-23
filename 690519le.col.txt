@@ -9,24 +9,6 @@
 
 ====== Lecture at Engagement ======
 
----- dataentry spoken ----
-id_hidden        : 690519le.col
-listtype_hidden  : Lecture at Engagement
-listdate_hidden  : 1969-05-19
-showdate_hidden  : 2023-05-19
-listplace_hidden : Columbus
-Type_spoken      : Lecture
-Date_spoken      : May 19
-Year_spoken      : 1969
-Place_spoken     : Columbus
-Length_hidden    : 00:00
-Title_hidden     : Lecture at Engagement
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690519le.col.mp3|Lecture at Engagement — May 19, 1969, Columbus}}
-</audio>
-
 **Prabhupāda:**
 
 > oṁ ajñāna-timirāndhusya

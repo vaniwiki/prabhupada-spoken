@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.41 ======
 
----- dataentry spoken ----
-id_hidden        : 710717bg.det
-listtype_hidden  : Bg 6.41
-listdate_hidden  : 1971-07-17
-showdate_hidden  : 2023-07-17
-listplace_hidden : Detroit
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 17
-Year_spoken      : 1971
-Place_spoken     : Detroit
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.41
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710717bg.det.mp3|Bg 6.41 — July 17, 1971, Detroit}}
-</audio>
-
 [//kīrtana,// followed by small child playing //karatālas//]
 
 **Prabhupāda:**

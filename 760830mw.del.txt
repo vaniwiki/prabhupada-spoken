@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Buddha Jayanti Park ======
 
----- dataentry spoken ----
-id_hidden        : 760830mw.del
-listtype_hidden  : Morning Walk at Buddha Jayanti Park
-listdate_hidden  : 1976-08-30
-showdate_hidden  : 2023-08-30
-listplace_hidden : Delhi
-Type_spoken      : Morning Walk
-Date_spoken      : August 30
-Year_spoken      : 1976
-Place_spoken     : Delhi
-Length_hidden    : 05:45
-Title_hidden     : Morning Walk at Buddha Jayanti Park
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760830mw.del.mp3|Morning Walk at Buddha Jayanti Park — August 30, 1976, Delhi}}
-</audio>
-
 [in car]
 
 **Prabhupāda:**

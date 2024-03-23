@@ -9,24 +9,6 @@
 
 ====== Morning Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770623r1.vrn
-listtype_hidden  : Morning Conversation
-listdate_hidden  : 1977-06-23
-showdate_hidden  : 2023-06-23
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 23
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 48:51
-Title_hidden     : Morning Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770623r1.vrn.mp3|Morning Conversation — June 23, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...and prostitutes. So...
 

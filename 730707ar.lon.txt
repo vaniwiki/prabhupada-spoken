@@ -9,24 +9,6 @@
 
 ====== Arrival Address at Bhaktivedanta Manor ======
 
----- dataentry spoken ----
-id_hidden        : 730707ar.lon
-listtype_hidden  : Arrival Address
-listdate_hidden  : 1973-07-07
-showdate_hidden  : 2023-07-07
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : July 7
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 11:29
-Title_hidden     : Arrival Address at Bhaktivedanta Manor
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730707ar.lon.mp3|Arrival Address at Bhaktivedanta Manor — July 7, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 ...given the facility of assembling in this nice house, this good boy George Harrison. We must give him all glories. We must be thankful to him that he has given us the facility, and Kṛṣṇa will bless him more and more. So far Gopījana-vallabha, Rādhā-Mādhava, our simple worshipable Supreme Personality of Godhead, Rādhā-Mādhava, He is always enjoying in company with Śrīmatī Rādhārāṇī, Rādhā-Mādhava. He does not go outside Vṛndāvana. Kṛṣṇa, original Kṛṣṇa, He does not go even a step out of Vṛndāvana leaving aside the //gopīs. Vṛndāvanaṁ parityajya na padam evaṁ kutra gacchati.// He does not go anywhere.
 

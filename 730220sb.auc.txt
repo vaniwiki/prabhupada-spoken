@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.9 ======
 
----- dataentry spoken ----
-id_hidden        : 730220sb.auc
-listtype_hidden  : SB 1.1.9
-listdate_hidden  : 1973-02-20
-showdate_hidden  : 2023-02-20
-listplace_hidden : Auckland
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 20
-Year_spoken      : 1973
-Place_spoken     : Auckland
-Length_hidden    : 45:38
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.9
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730220sb.auc.mp3|SB 1.1.9 — February 20, 1973, Auckland}}
-</audio>
-
 **Pradyumna:**
 //...vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse, etc.] [Prabhupāda and devotees repeat] [indistinct]
 

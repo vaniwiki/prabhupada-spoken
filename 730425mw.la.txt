@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730425mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-04-25
-showdate_hidden  : 2023-04-25
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : April 25
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 50:41
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730425mw.la.mp3|Morning Walk — April 25, 1973, Los Angeles}}
-</audio>
-
 **Svarūpa Dāmodara:**
 So they'll say, that, some scientists, that that science deals with the matter, or the physical matter, and so they try to...
 

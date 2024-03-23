@@ -9,24 +9,6 @@
 
 ====== Doctor Visit and Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771020r1.vrnb
-listtype_hidden  : Doctor Visit and Conversation
-listdate_hidden  : 1977-10-20
-showdate_hidden  : 2023-10-20
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 20
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 46:38
-Title_hidden     : Doctor Visit and Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771020r1.vrn.mp3|Doctor Visit and Conversation — October 20, 1977, Vṛndāvana}}
-</audio>
-
 **Dr. Gopal:**
 Vomiting?
 

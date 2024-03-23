@@ -9,24 +9,6 @@
 
 ====== Morning Talk ======
 
----- dataentry spoken ----
-id_hidden        : 770619r2.vrn
-listtype_hidden  : Morning Talk
-listdate_hidden  : 1977-06-19
-showdate_hidden  : 2023-06-19
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 19
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 20:59
-Title_hidden     : Morning Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770619r2.vrn.mp3|Morning Talk — June 19, 1977, Vṛndāvana}}
-</audio>
-
 **Śatadhanya:**
 Actually, when we see it from that point of view, the scientists have given nothing beneficial.
 

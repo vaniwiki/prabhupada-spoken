@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.27 ======
 
----- dataentry spoken ----
-id_hidden        : 721107sb.vrn
-listtype_hidden  : SB 1.2.27
-listdate_hidden  : 1972-11-07
-showdate_hidden  : 2023-11-07
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 7
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 37:46
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.27
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721107sb.vrn.mp3|SB 1.2.27 — November 7, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

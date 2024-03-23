@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.7.46 ======
 
----- dataentry spoken ----
-id_hidden        : 670322sb.sf
-listtype_hidden  : SB 7.7.46
-listdate_hidden  : 1967-03-22
-showdate_hidden  : 2023-03-22
-listplace_hidden : San Francisco
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 22
-Year_spoken      : 1967
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.7.46
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670322sb.sf.mp3|SB 7.7.46 — March 22, 1967, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 
 > nirūpyatām iha svārthaḥ

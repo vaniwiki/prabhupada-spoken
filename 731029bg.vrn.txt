@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.1 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 731029bg.vrn
-listtype_hidden  : Bg 7.1 [Hindi]
-listdate_hidden  : 1973-10-29
-showdate_hidden  : 2023-10-29
-listplace_hidden : Vṛndāvana
-Type_spoken      : Hindi
-Date_spoken      : October 29
-Year_spoken      : 1973
-Place_spoken     : Vṛndāvana
-Length_hidden    : 26:23
-Title_hidden     : Bhagavad-gītā 7.1 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731029bg.vrn_hindi.mp3|Bg 7.1 [Hindi] — October 29, 1973, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.]
 

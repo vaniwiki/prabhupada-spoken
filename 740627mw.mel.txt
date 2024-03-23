@@ -9,24 +9,6 @@
 
 ====== Morning Walk, partially recorded ======
 
----- dataentry spoken ----
-id_hidden        : 740627mw.mel
-listtype_hidden  : Morning Walk, partially recorded
-listdate_hidden  : 1974-06-27
-showdate_hidden  : 2023-06-27
-listplace_hidden : Melbourne
-Type_spoken      : Morning Walk
-Date_spoken      : June 27
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 03:02
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740627mw.mel.mp3|Morning Walk, partially recorded — June 27, 1974, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 ...has got the body of a tree and one has got the body of human being, demigod. So the reason is //kāraṇam---kāraṇam// means reason---//guṇa-saṅgo 'sya// [[books:bg:13:22|[Bg. 13.22]]], as he is infecting the modes of material nature. Infection. If we infect some choleric diarrhea, we'll suffer. Nature's law is. Therefore human being should be cautious not to infect. Just like educated man or civilized man, he is cautious not to infect some kind of contaminated disease. Similarly, human form of body with higher consciousness is there just to remain always cautious not to infect material, I mean, modes of nature. And that is devotional service.
 

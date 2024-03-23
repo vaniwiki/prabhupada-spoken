@@ -9,24 +9,6 @@
 
 ====== Interview with Envious Reporter ======
 
----- dataentry spoken ----
-id_hidden        : 740704iv.chi
-listtype_hidden  : Interview
-listdate_hidden  : 1974-07-04
-showdate_hidden  : 2023-07-04
-listplace_hidden : Chicago
-Type_spoken      : Interview
-Date_spoken      : July 4
-Year_spoken      : 1974
-Place_spoken     : Chicago
-Length_hidden    : 06:46
-Title_hidden     : Interview with Envious Reporter
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740704iv.chi.mp3|Interview with Envious Reporter — July 4, 1974, Chicago}}
-</audio>
-
 **Prabhupāda:**
 Yes.
 

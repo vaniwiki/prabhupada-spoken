@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.7 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 750322sb.cal
-listtype_hidden  : SB 1.2.7 [Hindi]
-listdate_hidden  : 1975-03-22
-showdate_hidden  : 2023-03-22
-listplace_hidden : Calcutta
-Type_spoken      : Hindi
-Date_spoken      : March 22
-Year_spoken      : 1975
-Place_spoken     : Calcutta
-Length_hidden    : 54:31
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.7 [Hindi with English translation by Bhumipati]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750322sb.cal_hindi.mp3|SB 1.2.7 [Hindi] — March 22, 1975, Calcutta}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

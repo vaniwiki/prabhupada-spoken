@@ -9,24 +9,6 @@
 
 ====== Bhajana with Harmonium, Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 731110r1.del
-listtype_hidden  : Bhajana with Harmonium, Room Conversation
-listdate_hidden  : 1973-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : November 10
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 43:18
-Title_hidden     : Harmonium Bhajana, Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731110r1.del.mp3|Bhajana with Harmonium, Room Conversation — November 10, 1973, Delhi}}
-</audio>
-
 [//Bhajana// with harmonium]
 
 **Prabhupāda:**

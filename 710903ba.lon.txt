@@ -9,24 +9,6 @@
 
 ====== Bhaktivinoda Ṭhākura Appearance Day, Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710903ba.lon
-listtype_hidden  : Appearance Day
-listdate_hidden  : 1971-09-03
-showdate_hidden  : 2023-09-03
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : September 3
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Śrīla Sac-cid-ānanda Bhaktivinoda Ṭhākura’s Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710903ba.lon.mp3|Bhaktivinoda Ṭhākura Appearance Day, Lecture — September 3, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 Bring water, water. Water? So today is a very auspicious day, Ṭhākura Bhaktivinoda's birthday. Here is the picture of Ṭhākura Sac-cid-ānanda Bhaktivinoda. He was one of the //ācāryas// of this disciplic succession from Kṛṣṇa. We have got a succession table from Kṛṣṇa, genealogical table. There are two kinds of genealogical tables, one by the semina-father, his son, his son, like that. That is material genealogical table. And there is one spiritual genealogical table, disciplic succession. Just like Kṛṣṇa. Kṛṣṇa, the original father, Supreme Personality of Godhead, He spoke the Vedic knowledge to Brahma, Lord Brahma. He spoke to Nārada. Nārada spoke to Vyāsa. Vyāsa spoke to Madhvācārya. So in this disciplic succession, Lord Caitanya, from Lord Caitanya, the Six Gosvāmīs, and similarly, coming down, down, Bhaktivinoda Ṭhākura, then Gaurakiśora dāsa Bābājī Mahārāja, then my spiritual master, then we are, next generation, my disciples.
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.32–40 ======
 
----- dataentry spoken ----
-id_hidden        : 660914bg.ny
-listtype_hidden  : Bg 6.32–40
-listdate_hidden  : 1966-09-14
-showdate_hidden  : 2023-09-14
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : September 14
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.32–40
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660914bg.ny.mp3|Bg 6.32-40 — September 14, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 //Ātmaupamyena sarvatra samaṁ paśyati yo 'rjuna.// Please come forward. //Sukhaṁ vā yadi vā duḥkhaṁ sa yogī paramo mataḥ// [[books:bg:6:32|[Bg. 6.32]]]. Now, we have been discussing for the last few days about the perfect form of yoga. Lord Kṛṣṇa, the Supreme Personality of Godhead, He is teaching Arjuna directly the perfect form of yoga. If you actually want to perform the yoga system, then here is authoritative statement by the Supreme Personality of Godhead. So we have discussed in details. Now, after hearing the system, Arjuna is replying. Just mind that, that the whole thing was being described in the battlefield, in the battlefield. This whole //Bhagavad-gītā// was taught to Arjuna in the battlefield. And when Arjuna was just going to release his arms on the opposite party, on the enemy's party, he thought... He got a sentiment: "So why this fighting with my own kinsmen?" That was his illusion, and to eradicate that illusion of Arjuna's, this //Bhagavad-gītā// was explained by Lord Kṛṣṇa.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 690430rc.bos
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1969-04-30
-showdate_hidden  : 2023-04-30
-listplace_hidden : Boston
-Type_spoken      : Room Conversation
-Date_spoken      : April 30
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690430rc.bos.mp3|Room Conversation — April 30, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 These four things, namely birth, death, old age, and disease will accompany you. Therefore in the //Bhagavad-gītā// it is said that //mad-dhāma gatvā punar janma na vidyate.// "If you reach My abode in the spiritual sky, then you'll have no more birth." So this male-female question is everywhere. The only difference is that in spiritual world there is no need of sex life, or there is no impelling sex life, although there is attraction between man and woman. That is... Just like Rādhā and Kṛṣṇa. There is attraction, of Rādhā for Kṛṣṇa and Kṛṣṇa for Rādhā, but there is no sex life. So male-female, conception of male-female, as we have got here, there is concomitant factor of sex life, but that should not be exported to the spiritual world, that idea. There is also male-female, but there is no sex life attraction. That's all right. Yes?
 

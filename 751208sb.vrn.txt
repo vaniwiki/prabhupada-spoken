@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.6 ======
 
----- dataentry spoken ----
-id_hidden        : 751208sb.vrn
-listtype_hidden  : SB 7.6.6
-listdate_hidden  : 1975-12-08
-showdate_hidden  : 2023-12-08
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 8
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 24:40
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751208sb.vrn.mp3|SB 7.6.6 — December 8, 1975, Vṛndāvana}}
-</audio>
-
 **Harikeśa:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] //Śrīmad-Bhāgavatam,// Seventh Canto, Six Chapter, sixth verse.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Catholic Cardinal ======
 
----- dataentry spoken ----
-id_hidden        : 740524r1.rom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-05-24
-showdate_hidden  : 2023-05-24
-listplace_hidden : Rome
-Type_spoken      : Room Conversation
-Date_spoken      : May 24
-Year_spoken      : 1974
-Place_spoken     : Rome
-Length_hidden    : 58:11
-Title_hidden     : Room Conversation with Catholic Cardinal and Secretary to the Pope [His Eminence Cardinal Pignedoli and Monsignor Verrozano]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740524r1.rom.mp3|Room Conversation with Catholic Cardinal — May 24, 1974, Rome}}
-</audio>
-
 **Prabhupāda:**
 Hmm?
 

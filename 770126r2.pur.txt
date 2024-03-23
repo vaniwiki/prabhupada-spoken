@@ -9,24 +9,6 @@
 
 ====== Prayer Chants by Purī Brāhmaṇas ======
 
----- dataentry spoken ----
-id_hidden        : 770126r2.pur
-listtype_hidden  : Prayer Chants by Purī Brāhmaṇas
-listdate_hidden  : 1977-01-26
-showdate_hidden  : 2023-01-26
-listplace_hidden : Jagannātha Purī
-Type_spoken      : Room Conversation
-Date_spoken      : January 26
-Year_spoken      : 1977
-Place_spoken     : Jagannātha Purī
-Length_hidden    : 05:50
-Title_hidden     : Prayer Chants by Purī brāhmaṇas
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770126r2.pur.mp3|Prayer Chants by Purī Brāhmaṇas — January 26, 1977, Jagannātha Purī}}
-</audio>
-
 [Purī temple //brāhmaṇas// chant prayers to Lord Jagannātha, loud //pūjā// going on in background throughout]
 
 **Prabhupāda:**

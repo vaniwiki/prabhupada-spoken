@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 730111nd.bom
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1973-01-11
-showdate_hidden  : 2023-01-11
-listplace_hidden : Bombay
-Type_spoken      : Nectar of Devotion
-Date_spoken      : January 11
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 42:18
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730111nd.bom.mp3|The Nectar of Devotion — January 11, 1973, Bombay}}
-</audio>
-
 **Pradyumna:**
 [reading] "...service, following in the footsteps of previous //ācāryas,// can be summarized in the following statement by Śrīla Rūpa Gosvāmī: 'First-class devotional service is known by one's tendency to be fully engaged in Kṛṣṇa consciousness, serving the Lord favorably.' "
 

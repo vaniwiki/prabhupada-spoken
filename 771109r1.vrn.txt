@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771109r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-09
-showdate_hidden  : 2023-11-09
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 9
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 27:52
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771109r1.vrn.mp3|Room Conversation — November 9, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 Śrīla Prabhupāda? So a letter came. One boy, he wrote me a letter. When I was going to go to China a while ago, before you told me not to, this boy was working with me. And his name is Jita-rati. So he went to China, and he's written a report. Should I read it to you?
 

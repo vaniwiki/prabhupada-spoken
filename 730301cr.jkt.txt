@@ -9,24 +9,6 @@
 
 ====== Car Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 730301cr.jkt
-listtype_hidden  : Car Conversation
-listdate_hidden  : 1973-03-01
-showdate_hidden  : 2023-03-01
-listplace_hidden : Jakarta
-Type_spoken      : Room Conversation
-Date_spoken      : March 1
-Year_spoken      : 1973
-Place_spoken     : Jakarta
-Length_hidden    : 17:22
-Title_hidden     : Car Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730301cr.jkt.mp3|Car Conversation — March 1, 1973, Jakarta}}
-</audio>
-
 [in car]
 
 **Prabhupāda:**

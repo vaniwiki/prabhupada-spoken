@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.16 ======
 
----- dataentry spoken ----
-id_hidden        : 740405bg.bom
-listtype_hidden  : Bg 4.16
-listdate_hidden  : 1974-04-05
-showdate_hidden  : 2023-04-05
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 5
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 33:43
-Title_hidden     : Bhagavad-gītā 4.16
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740405bg.bom.mp3|Bg 4.16 — April 5, 1974, Bombay}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat, etc]
 

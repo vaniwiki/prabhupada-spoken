@@ -9,24 +9,6 @@
 
 ====== Morning Talk in Car [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 760625mw.nv
-listtype_hidden  : Morning Talk
-listdate_hidden  : 1976-06-25
-showdate_hidden  : 2023-06-25
-listplace_hidden : New Vrindavan
-Type_spoken      : Morning Walk
-Date_spoken      : June 25
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 07:01
-Title_hidden     : Morning Talk in Car [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760625mw.nv.mp3|Morning Talk in Car [partially recorded] — June 25, 1976, New Vrindavan}}
-</audio>
-
 [in car]
 
 **Prabhupāda:**

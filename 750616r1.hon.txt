@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Govinda Dāsī ======
 
----- dataentry spoken ----
-id_hidden        : 750616r1.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-06-16
-showdate_hidden  : 2023-06-16
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : June 16
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 07:43
-Title_hidden     : Room Conversation with Govinda dāsī
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750616r1.hon.mp3|Room Conversation with Govinda Dāsī — June 16, 1975, Honolulu}}
-</audio>
-
 **Govinda dāsī:**
 [describing illustrations] ...because the co-wife complains. And so Dhruva is very upset and goes to his mother, and his mother is real upset, and she's crying. And so she takes him on her lap, and she tells him about Lord Viṣṇu, that He's the only solace. And so Dhruva leaves home. He leaves the palace immediately and goes to the forest to search out the Lord. And there he meets Nārada, who sees what's going on all this time. And Nārada tells him that he should take brahminical instructions, but Dhruva isn't able to, because he is determined as a //kṣatriya// boy. And so Nārada sits down and gives him instruction about Lord Viṣṇu and tells him to go to the forest, Madhuvana forest, and sit there in Vṛndāvana. And so Dhruva takes his instruction and goes there and sits in meditation in the forest. This will be Vṛndāvana in the background, and he sits there in meditation. In the meantime, King Uttānapāda is upset because he has offended his son, and so he is lamenting, and Nārada comes to him and tells him that "Your son's glories are already spread everywhere." So then Dhruva is perfecting his meditation in the later stages and standing on one toe and pressing down on earth planet, and all of the universe is becoming upset. I just studied your //Bhāgavata// and did from each //śloka.//
 

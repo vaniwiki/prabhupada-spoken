@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760512r1.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-12
-showdate_hidden  : 2023-05-12
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : May 12
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 04:52
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760512r1.hon.mp3|Room Conversation — May 12, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 Where did he get this idea, not to trust me? [indistinct]
 

@@ -9,24 +9,6 @@
 
 ====== Conversation with Rādhā-vallabha dāsa ======
 
----- dataentry spoken ----
-id_hidden        : 761220r1.bom
-listtype_hidden  : Conversation with Rādhā-vallabha dāsa
-listdate_hidden  : 1976-12-20
-showdate_hidden  : 2023-12-20
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 20
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 28:58
-Title_hidden     : Conversation with Rādhā-vallabha
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761220r1.bom.mp3|Conversation with Rādhā-vallabha dāsa — December 20, 1976, Bombay}}
-</audio>
-
 **Rādhā-vallabha:**
 I have questions from the artists.
 

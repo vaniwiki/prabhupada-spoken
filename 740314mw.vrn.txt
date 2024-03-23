@@ -9,24 +9,6 @@
 
 ====== Morning Walk, “Varṇāśrama College” ======
 
----- dataentry spoken ----
-id_hidden        : 740314mw.vrn
-listtype_hidden  : Morning Walk, “Varṇāśrama College”
-listdate_hidden  : 1974-03-14
-showdate_hidden  : 2023-03-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : March 14
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 49:52
-Title_hidden     : Morning Walk “Varṇāśrama College”
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740314mw.vrn.mp3|Morning Walk, “Varṇāśrama College” — March 14, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...technological college. Similarly, this is another college, //varṇāśrama// college.
 

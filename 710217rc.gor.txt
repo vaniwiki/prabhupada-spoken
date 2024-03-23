@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 710217rc.gor
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-02-17
-showdate_hidden  : 2023-02-17
-listplace_hidden : Gorakhpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 17
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710217rc.gor.mp3|Room Conversation — February 17, 1971, Gorakhpur}}
-</audio>
-
 **Devotee:**
 ...then why is any one activity of Kṛṣṇa consciousness better than another one? Why is any one way of serving Kṛṣṇa better than another? For example, with chanting of the sixteen rounds. Suppose that you've gone 23 hours of the day serving Kṛṣṇa in one way or another, and the last hour there is opportunity to finish your rounds and also opportunity to make a life member. So instead of chanting your sixteen rounds...
 

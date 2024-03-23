@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Raymond Lopez, Wally Strobes, Bob Bourne ======
 
----- dataentry spoken ----
-id_hidden        : 750522r2.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-22
-showdate_hidden  : 2023-05-22
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : May 22
-Year_spoken      : 1975
-Place_spoken     : Melbourne
-Length_hidden    : 79:26
-Title_hidden     : Room Conversation with Raymond Lopez, Wally Strobes, Bob Bourne
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750522r2.mel.mp3|Room Conversation with Raymond Lopez, Wally Strobes, Bob Bourne — May 22, 1975, Melbourne}}
-</audio>
-
 **Madhudviṣa:**
 ...one of our very dear friends, Raymond Lopez. He is a barrister and a visitor who has helped us out tremendously with some of the legal dealings that we've had here in Melbourne. And also this is Mr. Wally Strobes, he has also helped us out and given us good guidance. And this is Bob Bourne, he is a photographer who has... He has taken that nice picture of the Deities that I have brought to Māyāpur festival.
 

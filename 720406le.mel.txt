@@ -9,24 +9,6 @@
 
 ====== Lecture at Tarrawarra Abbey ======
 
----- dataentry spoken ----
-id_hidden        : 720406le.mel
-listtype_hidden  : Lecture at Tarrawarra Abbey
-listdate_hidden  : 1972-04-06
-showdate_hidden  : 2023-04-06
-listplace_hidden : Melbourne
-Type_spoken      : Lecture
-Date_spoken      : April 6
-Year_spoken      : 1972
-Place_spoken     : Melbourne
-Length_hidden    : 77:33
-Title_hidden     : Lecture at Tarrawarra Abbey [Christian Monastery]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720406le.mel.mp3|Lecture at Tarrawarra Abbey — April 6, 1972, Melbourne}}
-</audio>
-
 [introducing; sounds of devotees setting up in background]
 
 **Hanumān:**

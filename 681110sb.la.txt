@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.13 ======
 
----- dataentry spoken ----
-id_hidden        : 681110sb.la
-listtype_hidden  : SB 3.25.13
-listdate_hidden  : 1968-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 10
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.13
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681110sb.la.mp3|SB 3.25.13 — November 10, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...this Sāṅkhya philosophy is very much well-known, especially in the Western world. The propounder of Sāṅkhya philosophy, Kapiladeva, son of Devahūti, is the incarnation of Kṛṣṇa. He says that //yoga ādhyātmikaḥ puṁsāṁ mato niḥśreyasāya me// [[books:sb:3:25:13|[SB 3.25.13]]]. //Niḥśreyasāya:// ultimate benediction.
 

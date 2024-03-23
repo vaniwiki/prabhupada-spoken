@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760701r1.nv
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : New Vrindavan
-Type_spoken      : Room Conversation
-Date_spoken      : July 1
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 07:09
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760701r1.nv.mp3|Room Conversation — July 1, 1976, New Vrindavan}}
-</audio>
-
 **Puṣṭa Kṛṣṇa:**
 His last questions are like this. He's asking about proselytizing in the Western countries, preaching. Is there any hope for preaching? He says Hindu //dharma,// like this. I think everything is arising because of the Hare Kṛṣṇa movement and your Divine Grace's preaching work. Otherwise, they were all sleeping.
 

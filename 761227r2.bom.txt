@@ -9,24 +9,6 @@
 
 ====== Room Conversation about F.A.T.E. ======
 
----- dataentry spoken ----
-id_hidden        : 761227r2.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-27
-showdate_hidden  : 2023-12-27
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 27
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 05:09
-Title_hidden     : Room Conversation about F.A.T.E. [First American Theistic Exhibition]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761227r2.bom.mp3|Room Conversation about F.A.T.E. — December 27, 1976, Bombay}}
-</audio>
-
 **Rādhā-vallabha:**
 This is for the theistic exhibition. This is the copy for the sound track, and when the //karmīs// first walk in, this is the sound track that will play.
 

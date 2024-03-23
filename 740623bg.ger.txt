@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.14 ======
 
----- dataentry spoken ----
-id_hidden        : 740623bg.ger
-listtype_hidden  : Bg 2.14
-listdate_hidden  : 1974-06-23
-showdate_hidden  : 2023-06-23
-listplace_hidden : Germany
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : June 23
-Year_spoken      : 1974
-Place_spoken     : Germany
-Length_hidden    : 47:17
-Title_hidden     : Bhagavad-gītā 2.14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740623bg.ger.mp3|Bg 2.14 — June 23, 1974, Germany}}
-</audio>
-
 **Prabhupāda:**
 //...anityās tāṁs titikṣasva bhārata// [[books:bg:2:14|[Bg. 2.14]]]. In the previous verse, it has been described that //dehino 'smin yathā dehe kaumāraṁ yauvanaṁ jarā// [[books:bg:2:13|[Bg. 2.13]]]: "We are transmigrating from one body to another. Exactly like we are passing from a child body to a boy's body, a boy's body to youth's body, similarly, we are passing through this body also and accepting another body." Now, the question of distress and happiness. Distress and happiness---according to the body. A very rich man is situated little comfortably. The common distress and unhappiness, er, happiness, that is common. What is that common? //Janma-mṛtyu-jarā-vyādhi-duḥkha-doṣānudarśanam// [[books:bg:13:8-12|[Bg. 13.9]]]. To take birth either as a dog or as a king, the distress is the same. There is no difference. Because the dog has to keep itself within the womb of the mother in an airtight condition for so many months, and the man, either he is king or anything, he has also undergo that tribulation. There is no excuse. Because you are taking birth in a king's family, it does not mean that to remain compact within the mother's womb the distress is less, and because he is taking birth in a dog's mother's womb, therefore his is great. No. That is the same. Similarly, at the time of death, the distress... At the time of death there is great distress. It is so strong that one has to leave this body. Just like when the distress becomes very strong, one commits suicide. He cannot tolerate: "Finish this body."
 

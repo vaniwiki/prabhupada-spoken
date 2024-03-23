@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760620mw.tor
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-06-20
-showdate_hidden  : 2023-06-20
-listplace_hidden : Toronto
-Type_spoken      : Morning Walk
-Date_spoken      : June 20
-Year_spoken      : 1976
-Place_spoken     : Toronto
-Length_hidden    : 37:44
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760620mw.tor.mp3|Morning Walk — June 20, 1976, Toronto}}
-</audio>
-
 **Satsvarūpa:**
 Of course, evolutionary theory is that in the beginning, all the different species weren't there. Only simple forms, and then they..., more complex ones came about.
 

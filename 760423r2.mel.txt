@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Mormons ======
 
----- dataentry spoken ----
-id_hidden        : 760423r2.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-04-23
-showdate_hidden  : 2023-04-23
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : April 23
-Year_spoken      : 1976
-Place_spoken     : Melbourne
-Length_hidden    : 62:53
-Title_hidden     : Room Conversation with Mormons
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760423r2.mel.mp3|Room Conversation with Mormons — April 23, 1976, Melbourne}}
-</audio>
-
 **Guest (2):**
 ...interesting. I see Elder Forester and myself, we feel that we're called to God through a living prophet ourselves. And our feeling is in our own hearts we feel that we have a living feeling in what we call a testimony of Christ. And we feel that he is our savior and that he did atone for the sins of the world. And we were wondering what your feelings were about this.
 

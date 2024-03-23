@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 7 ======
 
----- dataentry spoken ----
-id_hidden        : 700509ip.la
-listtype_hidden  : Īśo Mantra 7
-listdate_hidden  : 1970-05-09
-showdate_hidden  : 2023-05-09
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : May 9
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Īśopaniṣad, Mantra 7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700509ip.la.mp3|Śrī Īśopaniṣad, Mantra 7 — May 9, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Where is Rūpānuga Prabhu, yes? Ekendra Prabhu also there? Hare Kṛṣṇa... Hare Kṛṣṇa... Kneel down, OM [devotees chant verses];
 

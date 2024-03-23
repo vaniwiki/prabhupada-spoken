@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 730105nd.bom
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1973-01-05
-showdate_hidden  : 2023-01-05
-listplace_hidden : Bombay
-Type_spoken      : Nectar of Devotion
-Date_spoken      : January 5
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 36:09
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730105nd.bom.mp3|The Nectar of Devotion — January 5, 1973, Bombay}}
-</audio>
-
 **Pradyumna:**
 [reading] "...propensity expands just as a vibration of light or air expands, but we do not know where it ends. //The Nectar of Devotion// teaches us the science of loving every one of the living entities perfectly by the easy method of loving Kṛṣṇa. We have failed to create peace and harmony in human society even by such great attempts as the United Nations because we do not know the right method."
 

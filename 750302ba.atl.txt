@@ -9,24 +9,6 @@
 
 ====== Śrīla Bhaktisiddhānta Appearance Day Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 750302ba.atl
-listtype_hidden  : Appearance Day
-listdate_hidden  : 1975-03-02
-showdate_hidden  : 2023-03-02
-listplace_hidden : Atlanta
-Type_spoken      : Lecture
-Date_spoken      : March 2
-Year_spoken      : 1975
-Place_spoken     : Atlanta
-Length_hidden    : 27:48
-Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750302ba.atl.mp3|Śrīla Bhaktisiddhānta Appearance Day Lecture — March 2, 1975, Atlanta}}
-</audio>
-
 **Prabhupāda:**
 ...auspicious day, hundred and one years ago, Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura, he appeared on this day. So Bhaktisiddhānta Sarasvatī Ṭhākura is //gaura-śakti. Gaura-śakti// means empowered, empowered by Śrī Caitanya Mahāprabhu. Śrī Caitanya Mahāprabhu, He wanted His mission to be broadcast... [sound of banging] [aside:] What is that sound? ...all over the world. He desired:
 

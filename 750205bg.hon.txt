@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 16.9 ======
 
----- dataentry spoken ----
-id_hidden        : 750205bg.hon
-listtype_hidden  : Bg 16.9
-listdate_hidden  : 1975-02-05
-showdate_hidden  : 2023-02-05
-listplace_hidden : Honolulu
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 5
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 50:40
-Title_hidden     : Bhagavad-gītā 16.9
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750205bg.hon.mp3|Bg 16.9 — February 5, 1975, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 Yes. Go on.
 

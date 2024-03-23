@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770301r2.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-03-01
-showdate_hidden  : 2023-03-01
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : March 1
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 13:47
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770301r2.may.mp3|Room Conversation — March 1, 1977, Māyāpur}}
-</audio>
-
 **Hṛdayānanda:**
 Last night you were preaching that?
 

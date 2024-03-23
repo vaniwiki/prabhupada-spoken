@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.5 ======
 
----- dataentry spoken ----
-id_hidden        : 740213bg.vrn
-listtype_hidden  : Bg 4.5
-listdate_hidden  : 1974-02-13
-showdate_hidden  : 2023-02-13
-listplace_hidden : Vṛndāvana
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 13
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 19:17
-Title_hidden     : Bhagavad-gītā 4.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740213bg.vrn.mp3|Bg 4.5 — February 13, 1974, Vṛndāvana}}
-</audio>
-
 [poor recording]
 
 **Pradyumna:**

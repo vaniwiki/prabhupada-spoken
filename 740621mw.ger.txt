@@ -9,24 +9,6 @@
 
 ====== Morning Walk with Professor Durckheim ======
 
----- dataentry spoken ----
-id_hidden        : 740621mw.ger
-listtype_hidden  : Morning Walk with Professor Durckheim
-listdate_hidden  : 1974-06-21
-showdate_hidden  : 2023-06-21
-listplace_hidden : Germany
-Type_spoken      : Morning Walk
-Date_spoken      : June 21
-Year_spoken      : 1974
-Place_spoken     : Germany
-Length_hidden    : 31:32
-Title_hidden     : Morning Walk with Professor Durckheim
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740621mw.ger.mp3|Morning Walk with Professor Durckheim — June 21, 1974, Germany}}
-</audio>
-
 **Prabhupāda:**
 ...similar caught, that "Here Rādhārāṇī was sleeping."
 

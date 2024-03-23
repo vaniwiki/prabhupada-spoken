@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.39–40 ======
 
----- dataentry spoken ----
-id_hidden        : 701221sb.sur
-listtype_hidden  : SB 6.1.39–40
-listdate_hidden  : 1970-12-21
-showdate_hidden  : 2023-12-21
-listplace_hidden : Surat
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 21
-Year_spoken      : 1970
-Place_spoken     : Surat
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.39–40
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701221sb.sur.mp3|SB 6.1.39-40 — December 21, 1970, Surat}}
-</audio>
-
 **Prabhupāda:**
 That is the material disease. Therefore Caitanya Mahāprabhu says, //ceto-darpaṇa-mārjanam// [[books:cc:antya:20:12|[Cc. Antya 20.12]]]. This roguism has to be purged. Then talk of spiritualism. At heart, dirty things are so much hugely accumulated by millions of years' contamination of this material world. It is very difficult to get out of this roguism. And to become a Vaiṣṇava, he has to become a //brāhmaṇa.// And //brāhmaṇa// means... One of the qualification, //brāhmaṇa,// is, //ṣaḍ-laksa [?], ārjava,// simplicity. The rogues cannot be simple. Always intriguing, making plan, plotting---these are roguisms. But a Vaiṣṇava requires very simple life. //Satya-śama-dama-titikṣa-ārjava// [[books:bg:18:42|[Bg. 18.42]]]. [someone sneezing] //Ārjavam// means simplicity. [aside:] He is very forward, without any covering. Now he is sneezing.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.17 ======
 
----- dataentry spoken ----
-id_hidden        : 741117sb.bom
-listtype_hidden  : SB 3.25.17
-listdate_hidden  : 1974-11-17
-showdate_hidden  : 2023-11-17
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 17
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 33:27
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.17
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741117sb.bom.mp3|SB 3.25.17 — November 17, 1974, Bombay}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

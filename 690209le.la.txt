@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 690209le.la
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1969-02-09
-showdate_hidden  : 2023-02-09
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : February 9
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690209le.la.mp3|Lecture [partially recorded] — February 9, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...it is taken orphans are very much forlorn. But in the presence of parents also, many children are suffering. And [in] the presence of good medicine, good physician, many people are dying. It is not guaranteed. Suppose one is diseased, suffering. If you engage good, qualified physician, good medicine, and therefore there is no guarantee of cure. No. There is no guarantee. The medical practitioners say, "We cannot guarantee. We are trying our best. That's all." Similarly, when a person is drowning in the water, if you send a good boat to save him, that is also not guaranteed. In this way, if we study that we are completely dependent on something else... Our process of making ourself independent... We may manufacture so many things for our independence, but //śāstra// says, unless there is protection from the Supreme Personality of Godhead, these methods and processes will not save us. //Tāvat tanu-bhṛtāṁ tvad-upekṣitānām.// If Kṛṣṇa does not like, does [sic:] not wish that "These children will suffer in spite of good parents," so that suffering nobody can check. "This man must drown in spite of very nice good boat and ship"---nobody can check. "This man must die in spite of good physician and medicine"---he must die. Therefore our first relief, guaranteed relief, is this shelter of Kṛṣṇa. If you take shelter of Kṛṣṇa, even there is some deficiencies in the matter of protecting us, Kṛṣṇa will save. Therefore we should depend on Kṛṣṇa. That is called //śaraṇāgati,// surrender, to believe that "Kṛṣṇa will give us protection." Without Kṛṣṇa's protection, no other protection is valid. There is no guarantee. So in every way we shall surrender to Kṛṣṇa. Kṛṣṇa also guarantees, //ahaṁ tvāṁ sarva-pāpebhyo mokṣayiṣyāmi// [[books:bg:18:66|[Bg. 18.66]]]. Our sufferings are due to our sinful activities. So Kṛṣṇa gives guarantee that //ahaṁ tvāṁ sarva-pāpebhyo mokṣayiṣyāmi:// "I shall save you from all kinds of sinful reaction."
 

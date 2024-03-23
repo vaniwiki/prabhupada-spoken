@@ -9,24 +9,6 @@
 
 ====== Purport to the Maṅgalācaraṇa Prayers ======
 
----- dataentry spoken ----
-id_hidden        : 690108pu.la
-listtype_hidden  : Maṅgalācaraṇa Prayers
-listdate_hidden  : 1969-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 8
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to the Maṅgalācaraṇa Prayers
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690108pu.la.mp3|Purport to the Maṅgalācaraṇa Prayers — January 8, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Vande 'ham// means "I am offering my respectful obeisances." //Vande.// V-a-n-d-e. //Vande// means "offering my respectful obeisances." //Aham. Aham// means "I." //Vande 'ham śrī-gurūn,// all the //gurus,// or spiritual masters. The offering of respect direct to the spiritual master means offering respect to all the previous //ācāryas. Gurūn// means plural number. All the //ācāryas,// they are not different from one another. Because they are coming in the disciplic succession from the original spiritual master and they have no different views, therefore, although they are many, they are one. //Vande 'ham śrī-gurūn śrī-yuta-pada-kamalam. Śrī-yuta// means "with all glories, with all opulence." //Pada-kamalam,// "lotus feet." Offering of respect to the superior begins from the feet, and blessing begins from the head. That is the system. The disciple offers his respect by touching the lotus feet of the spiritual master, and the spiritual master blesses the disciple by touching his head. Therefore it is said, "I offer my respectful obeisances unto the lotus feet of all the //ācāryas.//" //Śrī-yuga-pada-kamalaṁ śrī-gurūn vaiṣṇavāṁś ca. Gurūn// means spiritual master, and //vaiṣṇavāṁś ca// means all their followers, devotees of Lord.
 

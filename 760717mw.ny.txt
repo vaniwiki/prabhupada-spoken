@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760717mw.ny
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-07-17
-showdate_hidden  : 2023-07-17
-listplace_hidden : New York
-Type_spoken      : Morning Walk
-Date_spoken      : July 17
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 18:42
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760717mw.ny.mp3|Morning Walk — July 17, 1976, New York}}
-</audio>
-
 [in car]
 
 **Tamāla Kṛṣṇa:**

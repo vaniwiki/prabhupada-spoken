@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720422r1.tok
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-04-22
-showdate_hidden  : 2023-04-22
-listplace_hidden : Tokyo
-Type_spoken      : Room Conversation
-Date_spoken      : April 22
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 26:05
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720422r1.tok.mp3|Room Conversation — April 22, 1972, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 //harer nāma harer nāma harer nāma eva kevalam// [[books:cc:adi:17:21|[Cc. Ādi 17.21]]]
 

@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721107nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-11-07
-showdate_hidden  : 2023-11-07
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : November 7
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 29:20
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721107nd.vrn.mp3|The Nectar of Devotion — November 7, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading:] "By performing Vedic ritualistic activities, by giving money in charity and by undergoing austerity, one can temporarily become free from the reactions of sinful activities, but at the next moment he must again become engaged in sinful activities. For example, a person suffering from venereal disease on account of excessive indulgence in sex life has to undergo some severe pain in medical treatment, and he is then cured for the time being.
 

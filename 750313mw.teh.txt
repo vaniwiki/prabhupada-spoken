@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750313mw.teh
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-03-13
-showdate_hidden  : 2023-03-13
-listplace_hidden : Tehran
-Type_spoken      : Morning Walk
-Date_spoken      : March 13
-Year_spoken      : 1975
-Place_spoken     : Tehran
-Length_hidden    : 01:35
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750313mw.teh.mp3|Morning Walk — March 13, 1975, Tehran}}
-</audio>
-
 **Prabhupāda:**
 //...imaṁ rājarṣayo vidhuḥ// [[books:bg:4:2|[Bg. 4.2]]]. //Rājarṣayaḥ,// it means the saintly kings. These... //Bhagavad-gītā// it is said, in the Fourth Chapter, it is meant for the saintly kings, because if the king is saintly, and if he understands the philosophy of life, then he can turn the whole picture, you see. Hare Kṛṣṇa. Where is the palace? That is the palace?
 

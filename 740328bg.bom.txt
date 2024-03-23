@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.8 ======
 
----- dataentry spoken ----
-id_hidden        : 740328bg.bom
-listtype_hidden  : Bg 4.8
-listdate_hidden  : 1974-03-28
-showdate_hidden  : 2023-03-28
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 28
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 41:06
-Title_hidden     : Bhagavad-gītā 4.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740328bg.bom.mp3|Bg 4.8 — March 28, 1974, Bombay}}
-</audio>
-
 **Nitai:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse]
 

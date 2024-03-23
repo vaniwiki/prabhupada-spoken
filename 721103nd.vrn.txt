@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721103nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-11-03
-showdate_hidden  : 2023-11-03
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : November 3
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 35:40
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721103nd.vrn.mp3|The Nectar of Devotion — November 3, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading] "4) Pure devotional service is rarely achieved. 5) Those in pure devotional service..."
 

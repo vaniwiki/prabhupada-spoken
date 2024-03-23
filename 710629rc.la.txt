@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 710629rc.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 29
-Year_spoken      : 1971
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710629rc.la.mp3|Room Conversation — June 29, 1971, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Some time must be taken, but unlimited time, unlimited expenditure, that's not good. Ten percent. You produce books. Take ten percent. You may have more than 1,500. You may have more than that. They were to send me one card. There are no letters from them?
 

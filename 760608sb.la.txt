@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.42 ======
 
----- dataentry spoken ----
-id_hidden        : 760608sb.la
-listtype_hidden  : SB 6.1.42
-listdate_hidden  : 1976-06-08
-showdate_hidden  : 2023-06-08
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 8
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 34:33
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.42
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760608sb.la.mp3|SB 6.1.42 — June 8, 1976, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [leads singing of //Jaya rādhā-mādhava; prema-dhvani//] [break]
 

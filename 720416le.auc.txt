@@ -9,24 +9,6 @@
 
 ====== Lecture at Art Gallery ======
 
----- dataentry spoken ----
-id_hidden        : 720416le.auc
-listtype_hidden  : Lecture at Art Gallery
-listdate_hidden  : 1972-04-16
-showdate_hidden  : 2023-04-16
-listplace_hidden : Auckland
-Type_spoken      : Lecture
-Date_spoken      : April 16
-Year_spoken      : 1972
-Place_spoken     : Auckland
-Length_hidden    : 52:16
-Title_hidden     : Lecture at Art Gallery
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720416le.auc.mp3|Lecture at Art Gallery — April 16, 1972, Auckland}}
-</audio>
-
 **Prabhupāda:**
 Ladies and Gentlemen, I thank you very much for your coming here and giving us a chance to speak about the Absolute Artist. Kṛṣṇa's name is Naṭavara. Naṭavara. Naṭavara means the greatest dramatic dancer. And another His name is //naṭo nāṭyadharo yathā// [[books:sb:1:8:19|[SB 1.8.19]]]. He is dancing in such a nice way that He [is] attracting everyone.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750401mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-04-01
-showdate_hidden  : 2023-04-01
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : April 1
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 23:12
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750401mw.may.mp3|Morning Walk — April 1, 1975, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 The people are thropping. Thropping? Thropping? What is called?
 

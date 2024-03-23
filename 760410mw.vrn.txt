@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760410mw.vrn
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-04-10
-showdate_hidden  : 2023-04-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : April 10
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 15:26
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760410mw.vrn.mp3|Morning Walk — April 10, 1976, Vṛndāvana}}
-</audio>
-
 **Akṣayānanda:**
 One boy I recommended for second initiation, but during the fire ceremony he was away on traveling //saṅkīrtana// for Vṛndāvana. Will he be able to take initiation from you and have the ceremony later, before you go?
 

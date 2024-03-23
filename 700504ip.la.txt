@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 1 ======
 
----- dataentry spoken ----
-id_hidden        : 700504ip.la
-listtype_hidden  : Īśo Mantra 1
-listdate_hidden  : 1970-05-04
-showdate_hidden  : 2023-05-04
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : May 4
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Īśopaniṣad, Mantra 1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700504ip.la.mp3|Śrī Īśopaniṣad, Mantra 1 — May 4, 1970, Los Angeles}}
-</audio>
-
 **Gargamuni:**
 "In the //Bhagavad-gītā// the Lord directly states that He accepts the vegetable foodstuffs from the hands of a pure devotee. Therefore a human being should not only become a strict vegetarian, but he should also become a devotee of the Lord and offer to the Lord all his food and only then partake of the //prasādam,// or mercy of God. Such a devotee can properly discharge the duty of human life. Those who do not do so are eating only sins and thus will be subjected to the different types of distress which are the result of the various sins."
 

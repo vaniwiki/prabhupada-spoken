@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761120r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-11-20
-showdate_hidden  : 2023-11-20
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 20
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 18:28
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761120r1.vrn.mp3|Room Conversation — November 20, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 //...kutah punah agamam.// Who is coming back again, the body is destroyed, that's all.
 

@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720224le.cal
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-02-24
-showdate_hidden  : 2023-02-24
-listplace_hidden : Calcutta
-Type_spoken      : Lecture
-Date_spoken      : February 24
-Year_spoken      : 1972
-Place_spoken     : Calcutta
-Length_hidden    : 28:10
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720224le.cal.mp3|Lecture — February 24, 1972, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 ...identified with this material body. This is material life. Actually, I am spirit soul. I am not matter. Everyone can understand it, because the theory that living condition is developed under certain material condition. Just like we see sometimes that one germ is coming out the stool.
 

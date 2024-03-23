@@ -9,24 +9,6 @@
 
 ====== Conversation on Train to Allahabad ======
 
----- dataentry spoken ----
-id_hidden        : 770111tt.ida
-listtype_hidden  : Train to Allahabad
-listdate_hidden  : 1977-01-11
-showdate_hidden  : 2023-01-11
-listplace_hidden : India
-Type_spoken      : Room Conversation
-Date_spoken      : January 11
-Year_spoken      : 1977
-Place_spoken     : India
-Length_hidden    : 211:35
-Title_hidden     : Conversation on Train to Allahabad
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770111tt.ida.mp3|Conversation on Train to Allahabad — January 11, 1977, India}}
-</audio>
-
 **Rāmeśvara:**
 We are going out to sell our books, and even if the person does not want to buy, we are insisting that they buy.
 

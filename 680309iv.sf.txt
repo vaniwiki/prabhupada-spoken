@@ -9,24 +9,6 @@
 
 ====== Interview ======
 
----- dataentry spoken ----
-id_hidden        : 680309iv.sf
-listtype_hidden  : Interview
-listdate_hidden  : 1968-03-09
-showdate_hidden  : 2023-03-09
-listplace_hidden : San Francisco
-Type_spoken      : Interview
-Date_spoken      : March 9
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680309iv.sf.mp3|Interview — March 9, 1968, San Francisco}}
-</audio>
-
 **Interviewer:**
 Your Grace, what is the basis of your teachings?
 

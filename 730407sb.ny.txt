@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.14.43 ======
 
----- dataentry spoken ----
-id_hidden        : 730407sb.ny
-listtype_hidden  : SB 1.14.43
-listdate_hidden  : 1973-04-07
-showdate_hidden  : 2023-04-07
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 7
-Year_spoken      : 1973
-Place_spoken     : New York
-Length_hidden    : 23:28
-Title_hidden     : Śrīmad-Bhāgavatam 1.14.43
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730407sb.ny.mp3|SB 1.14.43 — April 7, 1973, New York}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse, etc.]
 

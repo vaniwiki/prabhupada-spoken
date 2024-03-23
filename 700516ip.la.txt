@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 11 ======
 
----- dataentry spoken ----
-id_hidden        : 700516ip.la
-listtype_hidden  : Īśo Mantra 11
-listdate_hidden  : 1970-05-16
-showdate_hidden  : 2023-05-16
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : May 16
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 20:37
-Title_hidden     : Śrī Īśopaniṣad, Mantra 11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700516ip.la.mp3|Śrī Īśopaniṣad, Mantra 11 — May 16, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 "Only one who can learn the process of nescience and that of transcendental knowledge side by side can transcend the influence of repeated birth and death and enjoy the full blessings of immortality."[[books:iso:11|[Īśo 11]]]
 

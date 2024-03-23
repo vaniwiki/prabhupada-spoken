@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 720327le.bom
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1972-03-27
-showdate_hidden  : 2023-03-27
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : March 27
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 17:26
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720327le.bom.mp3|Lecture [partially recorded] — March 27, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...ignorance, this is ignorance. Therefore //jñāna// and //vairāgya// is stressed here. So Caitanya Mahāprabhu, Śrī Kṛṣṇa.... Śrī Kṛṣṇa, our original father, //ahaṁ bīja-pradaḥ pita// [[books:bg:14:4|[Bg. 14.4]]], He is not very happy to see that we are struggling very hard within this material world for sense gratification. Only our objective is sense gratification. Therefore He comes out of compassion: //yadā yadā hi dharmasya glānir bhavati// [[books:bg:4:7|[Bg. 4.7]]].
 

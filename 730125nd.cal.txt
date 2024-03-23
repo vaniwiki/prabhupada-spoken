@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 730125nd.cal
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1973-01-25
-showdate_hidden  : 2023-01-25
-listplace_hidden : Calcutta
-Type_spoken      : Nectar of Devotion
-Date_spoken      : January 25
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 41:11
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730125nd.cal.mp3|The Nectar of Devotion — January 25, 1973, Calcutta}}
-</audio>
-
 **Mādhavānanda:**
 [reading] "...by certain convictions derived by his own arguments and decisions. Then another person, who may be a greater logician, will nullify these conclusions and establish another thesis. In this way the path of argument will never be safe or conclusive. The //Śrīmad-Bhāgavatam// recommends, therefore, that one follow in the footsteps of the authorities."
 

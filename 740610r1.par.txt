@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Christian Priest, Mr. Chenique ======
 
----- dataentry spoken ----
-id_hidden        : 740610r1.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-10
-showdate_hidden  : 2023-06-10
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : June 10
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 100:09
-Title_hidden     : Room Conversation with Christian Priest, Mr. Chenique
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740610r1.par.mp3|Room Conversation with Christian Priest, Mr. Chenique — June 10, 1974, Paris}}
-</audio>
-
 **Jyotirmayī:**
 Mr. Chenique has made very good progress, because before he was always teaching impersonalist //Bhagavad-gītā,// and now you see he is wearing a //dhotī,// he's coming to chant Hare Kṛṣṇa, he's coming for //Śrīmad-Bhāgavatam// classes, and he teaches personalist //Bhagavad-gītā.// But he still thinks a little bit that maybe above there is something impersonalism. But there is good progress. [laughter]
 

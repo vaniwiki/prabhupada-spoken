@@ -9,24 +9,6 @@
 
 ====== Conversation on Roof ======
 
----- dataentry spoken ----
-id_hidden        : 751226rf.san
-listtype_hidden  : Roof Conversation
-listdate_hidden  : 1975-12-26
-showdate_hidden  : 2023-12-26
-listplace_hidden : Sanand
-Type_spoken      : Room Conversation
-Date_spoken      : December 26
-Year_spoken      : 1975
-Place_spoken     : Sanand
-Length_hidden    : 57:41
-Title_hidden     : Conversation on Roof
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751226rf.san.mp3|Conversation on Roof — December 26, 1975, Sanand}}
-</audio>
-
 **Harikeśa:**
 Hare Kṛṣṇa.
 

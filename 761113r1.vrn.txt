@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761113r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-11-13
-showdate_hidden  : 2023-11-13
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 13
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 25:53
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761113r1.vrn.mp3|Room Conversation — November 13, 1976, Vṛndāvana}}
-</audio>
-
 [Prabhupāda fingering //japa// beads throughout]
 
 **Prabhupāda:**

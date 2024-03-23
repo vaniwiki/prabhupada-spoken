@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Waikiki Beach ======
 
----- dataentry spoken ----
-id_hidden        : 750604mw.hon
-listtype_hidden  : Morning Walk at Waikiki Beach
-listdate_hidden  : 1975-06-04
-showdate_hidden  : 2023-06-04
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : June 4
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 37:05
-Title_hidden     : Morning Walk at Waikiki Beach
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750604mw.hon.mp3|Morning Walk at Waikiki Beach — June 4, 1975, Honolulu}}
-</audio>
-
 **Śrutakīrti:**
 [introducing recording] The following conversation takes place on Śrīla Prabhupāda's morning walk on June 4th, 1975, at Waikiki Beach, Hawaii.
 

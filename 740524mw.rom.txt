@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740524mw.rom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-05-24
-showdate_hidden  : 2023-05-24
-listplace_hidden : Rome
-Type_spoken      : Morning Walk
-Date_spoken      : May 24
-Year_spoken      : 1974
-Place_spoken     : Rome
-Length_hidden    : 17:21
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740524mw.rom.mp3|Morning Walk — May 24, 1974, Rome}}
-</audio>
-
 **Dhanañjaya:**
 In fact, the word "London" is coming from the Latin word //londonium.// Londonium was a small fishing port that the Romans founded on the Thames.
 

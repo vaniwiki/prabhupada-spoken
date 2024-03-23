@@ -9,24 +9,6 @@
 
 ====== Lecture Engagement ======
 
----- dataentry spoken ----
-id_hidden        : 680615le.mon
-listtype_hidden  : Lecture Engagement
-listdate_hidden  : 1968-06-15
-showdate_hidden  : 2023-06-15
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : June 15
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Lecture Engagement
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680615le.mon.mp3|Lecture Engagement — June 15, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] Ladies and gentlemen, this Kṛṣṇa conscious movement is reviving our original consciousness. At the present moment, due to our long association with matter, the consciousness has become contaminated, just like when the rain water falls down from the cloud, the water is uncontaminated, distilled water, pure, but as soon as the water falls down on this earth, it becomes mixed up with so many dirty things. When the water falls it is not salty, but when it is touched with the matter or earth, it becomes salty, or tasty, or something like that. Similarly, originally, as spirit soul, our consciousness is uncontaminated, but due to our association with the matter at the present moment, our consciousness is contaminated. Therefore we have got so many varieties of consciousness. Disagreements between one person to another is due to this contaminated consciousness. I think some way; you think otherwise. Therefore we do not agree. But originally, your consciousness and my consciousness were one. And what is that one? That conscious, pure consciousness, is "God is great, and I am His eternal servant." That is pure consciousness. As soon as we want to imitate or artificially want to become one with God, immediately the contamination begins. There is a Bengali verse in which it is stated that,
 

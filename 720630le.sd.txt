@@ -9,24 +9,6 @@
 
 ====== Lecture at Indians Home ======
 
----- dataentry spoken ----
-id_hidden        : 720630le.sd
-listtype_hidden  : Lecture at Indians Home
-listdate_hidden  : 1972-06-30
-showdate_hidden  : 2023-06-30
-listplace_hidden : San Diego
-Type_spoken      : Lecture
-Date_spoken      : June 30
-Year_spoken      : 1972
-Place_spoken     : San Diego
-Length_hidden    : 54:37
-Title_hidden     : Lecture at Indians Home
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720630le.sd.mp3|Lecture at Indians Home — June 30, 1972, San Diego}}
-</audio>
-
 [//kīrtana//]
 
 **Prabhupāda:**

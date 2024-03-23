@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 730108nd.bom
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1973-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Bombay
-Type_spoken      : Nectar of Devotion
-Date_spoken      : January 8
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 45:16
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730108nd.bom.mp3|The Nectar of Devotion — January 8, 1973, Bombay}}
-</audio>
-
 **Pradyumna:**
 [reading] "...and of Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda, by whose inspiration I have been engaged in the matter of compiling this summary study of //Bhakti-rasāmṛta-sindhu.// This is the sublime science of devotional service as propounded by Śrī Caitanya Mahāprabhu, who appeared five hundred years ago in West Bengal, India, to propagate the movement of Kṛṣṇa consciousness.
 

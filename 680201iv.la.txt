@@ -9,24 +9,6 @@
 
 ====== Interview ======
 
----- dataentry spoken ----
-id_hidden        : 680201iv.la
-listtype_hidden  : Interview
-listdate_hidden  : 1968-02-01
-showdate_hidden  : 2023-02-01
-listplace_hidden : Los Angeles
-Type_spoken      : Interview
-Date_spoken      : February 1
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680201iv.la.mp3|Interview — February 1, 1968, Los Angeles}}
-</audio>
-
 **Interviewer:**
 I think the first question is kind of basic, is why is everything always taped at all the...
 

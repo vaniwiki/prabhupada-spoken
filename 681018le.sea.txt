@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681018le.sea
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-10-18
-showdate_hidden  : 2023-10-18
-listplace_hidden : Seattle
-Type_spoken      : Lecture
-Date_spoken      : October 18
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681018le.sea.mp3|Lecture — October 18, 1968, Seattle}}
-</audio>
-
 **Prabhupāda:**
 [sings "//Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.//"] So we are worshiping Govindam, the Supreme Personality of Godhead, the original person. So this sound, //govindam ādi-puruṣaṁ tam ahaṁ bhajāmi,// is reaching Him. He is hearing. You cannot say that He is not hearing. Can you say? No. Especially in this scientific age, when television, radio messages are broadcast thousands and thousands of miles away, and you can hear, now why can you...? Why Kṛṣṇa cannot hear your prayer, sincere prayer? How can you say it? Nobody can deny it. So, //premāñjana-cchurita-bhakti-vilocanena santaḥ sadaiva hṛdayeṣu vilokayanti// [Bs. 5.38]. Just like thousands and thousands of miles away you can transfer the television picture or your radio sound, similarly, if you can prepare yourself, then you can see always Govinda. It is not difficult. This is stated in //Brahma-saṁhitā, premāñjana-cchurita-bhakti-vilocanena.// Simply you have to prepare your eyes, your mind in that way. Here is a television box within your heart. This is the perfection of yoga. It is not you have to purchase one machine, or television set. It is there, and God is also there. You can see, you can hear, you can talk, provided you have got the machine. You repair it, that's all. The repairing process is Kṛṣṇa consciousness. Otherwise, everything is supplied, complete, complete set of machine you have got within you. And just like for repairing, an expert mechanic required, similarly, you require the help of someone expert. Then you'll see that your machine is working. It is not difficult to understand. Nobody can say that it is not possible. In the //śāstra// we hear also. //Sādhu śāstra, guru vākya, tinete kariya aikya.// Spiritual realization can be perfected by three parallel process. //Sādhu. Sādhu// means saintly persons, who are realized souls, //sādhu.// And //śāstra. Śāstra// means scriptures, authoritative scriptures, Vedic scriptures, //śāstra. Sādhu, śāstra,// and guru, a spiritual master. Three parallel line. And if you place your car or vehicle on these three parallel line, your car will go direct to Kṛṣṇa. //Tinete kariyā aikya.// Just like in the railway line you see two parallel lines. If they are in order, the railway carriages are carried very smoothly to the destination. Here also, there are three parallel lines---//sādhu, śāstra,// guru: saintly person, association of saintly person, acceptance of bona fide spiritual master, and faith in the scriptures. That's all. Then your carriage will be going nicely, without any disturbance. //Sādhu śāstra guru vākya, tinete kariya aikya.//
 

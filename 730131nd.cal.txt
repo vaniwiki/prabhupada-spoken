@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 730131nd.cal
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1973-01-31
-showdate_hidden  : 2023-01-31
-listplace_hidden : Calcutta
-Type_spoken      : Nectar of Devotion
-Date_spoken      : January 31
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 36:01
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730131nd.cal.mp3|The Nectar of Devotion — January 31, 1973, Calcutta}}
-</audio>
-
 **Mādhavānanda:**
 [reading] "...Four. Devotional Service Surpasses All Liberation. How much a devotee is seriously attached to the devotional service of the Supreme Personality of Godhead can be understood from the statement of Mahārāja Pṛthu [//Ādi-rāja//], which is described in //Śrīmad-Bhāgavatam,// Fourth Canto, Twentieth Chapter, twenty-first verse [[books:sb:4:20:21|[SB 4.20.21]]] . He prays to the Supreme Personality of Godhead thusly: 'My dear Lord, if after taking liberation I have no chance of hearing the glories of Your Lordship, glories chanted by pure devotees from the core of their hearts in praise of Your lotus feet, and if I have no chance for this honey of transcendental bliss, then I shall never ask for liberation of this so-called spiritual emancipation. I shall simply always pray unto Your Lordship that You may give me millions of tongues and millions of ears so that I can constantly chant and hear of Your transcendental glories.' "
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 9.2 ======
 
----- dataentry spoken ----
-id_hidden        : 720307bg.cal
-listtype_hidden  : Bg 9.2
-listdate_hidden  : 1972-03-07
-showdate_hidden  : 2023-03-07
-listplace_hidden : Calcutta
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 7
-Year_spoken      : 1972
-Place_spoken     : Calcutta
-Length_hidden    : 46:39
-Title_hidden     : Bhagavad-gītā 9.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720307bg.cal.mp3|Bg 9.2 — March 7, 1972, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 ...read today some verses from the Ninth Chapter, //Bhagavad-gītā.//
 

@@ -9,24 +9,6 @@
 
 ====== Śrī Brahma-saṁhitā, Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681109bs.la
-listtype_hidden  : Bs. Lecture
-listdate_hidden  : 1968-11-09
-showdate_hidden  : 2023-11-09
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Brahma-saṁhitā
-Date_spoken      : November 9
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Brahma-saṁhitā, Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681109bs.la.mp3|Śrī Brahma-saṁhitā, Lecture — November 9, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi. Govindam,// Lord Kṛṣṇa, //ādi-puruṣa,// the original person. In the //Vedānta-sūtra// it is said that Brahman... //athāto brahma jijñāsā.// What is Brahman? In this human form of life this is the business, to understand what is Brahman. Therefore Parīkṣit Mahārāja says that //apaśyatām ātma-tattvaṁ gṛheṣu gṛha-medhinām.//
 

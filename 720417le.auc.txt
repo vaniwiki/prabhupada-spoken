@@ -9,24 +9,6 @@
 
 ====== Lecture at Auckland University ======
 
----- dataentry spoken ----
-id_hidden        : 720417le.auc
-listtype_hidden  : Lecture at Auckland University
-listdate_hidden  : 1972-04-17
-showdate_hidden  : 2023-04-17
-listplace_hidden : Auckland
-Type_spoken      : Lecture
-Date_spoken      : April 17
-Year_spoken      : 1972
-Place_spoken     : Auckland
-Length_hidden    : 19:16
-Title_hidden     : Lecture at Auckland University
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720417le.auc.mp3|Lecture at Auckland University — April 17, 1972, Auckland}}
-</audio>
-
 **Prabhupāda:**
 ...known as //saṅkīrtana,// Hare Kṛṣṇa Movement. The chanting Hare Kṛṣṇa, you have already heard. Superficially it may appear the repetition of the same word, but every //mantra// with effect is chanted like that. It requires little practice.
 

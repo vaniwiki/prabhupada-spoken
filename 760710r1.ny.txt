@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760710r1.ny
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-10
-showdate_hidden  : 2023-07-10
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : July 10
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 79:39
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760710r1.ny.mp3|Room Conversation — July 10, 1976, New York}}
-</audio>
-
 **Prabhupāda:**
 So one thing is that when they are so much careful, that means the book is reacting. Otherwise why they are so careful that they may not come? What do you think?
 

@@ -9,24 +9,6 @@
 
 ====== Initiation and Brahma-saṁhitā Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710726i2.ny
-listtype_hidden  : Initiation
-listdate_hidden  : 1971-07-26
-showdate_hidden  : 2023-07-26
-listplace_hidden : New York
-Type_spoken      : Initiation
-Date_spoken      : July 26
-Year_spoken      : 1971
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Initiation and Brahma-saṁhitā Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710726i2.ny.mp3|Initiation and Brahma-saṁhitā Lecture — July 26, 1971, New York}}
-</audio>
-
 **Prabhupāda:**
 Govinda means who gives pleasure to the cows, who gives pleasure to the senses. He's Govinda. //Go// means..., another meaning is earth. So He gives pleasure. Kṛṣṇa is all pleasure potency. And //ādi-puruṣa. Ādi-puruṣam,// original person. (sound) What is that? (pause) //Ādi-puruṣa,// original person. //Janmādy asya yataḥ// [[books:sb:1:1:1|[SB 1.1.1]]]. (aside:) Why don't you sit down? Sit down. //Ādi,// original; //puruṣa,// person. The origin... Unless the origin of everything is a person, how so many persons are coming? Every one of us, all living entities, either man or animal or demigod, even trees, plants, they're all persons. Everyone, individual person. So if every living entity is a person, how the original of, origin of everything can be imperson? The origin must be person. Therefore //ādi-puruṣam.// The origin, original, or origin of everything, //janmādy asya yataḥ,// Absolute Truth, is that from whom or from which everything is emanating. So everything is a person, individual. So origin must be person. //Ādi-puruṣam.// Therefore Brahmā..., this //Brahma-saṁhitā// is made by Brahmā. He's the original creature within this universe. He's recommending that "My origin is also a person." //Ādi-puruṣaṁ tam ahaṁ bhajāmi:// "I worship that original person." Therefore the origin of everything, the Absolute, the summum bonum, cannot be impersonal. What is the reason? Where is the experience that from imperson a person comes? There is no such instance within our experience. From person, a person comes. My father is a person, so I am a person. His father is a person; therefore my father is a person. Go on searching, you'll find the original person. Try to understand this philosophy. The whole world is impersonal. They do not know anything, of course, but they have got an impersonal philosophy. How the impersonal philosophy can stand? Every individual entity is a person; therefore origin must be a person, //ādi-puruṣam.// And it is recommended by the authority, Brahmā.
 

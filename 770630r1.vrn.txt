@@ -9,24 +9,6 @@
 
 ====== Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770630r1.vrn
-listtype_hidden  : Conversation
-listdate_hidden  : 1977-06-30
-showdate_hidden  : 2023-06-30
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 30
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 07:04
-Title_hidden     : Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770630r1.vrn.mp3|Conversation — June 30, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Guru Mahārāja, he saw this. Now I remember those days, when he was instructing, "Do like this. Do like this." At that time, I could not understand: "Oh, why he's talking to me?" He wanted. [aside:] "//Jaya// Svāmī! //Jaya// Svāmī. [indistinct]" The spirit is there. But many, many men, and may not...[indistinct] So just attempt. Ask him. Bring some books when you leave. Then construct a... No, He is giving. Kṛṣṇa is giving money. Within few days you have collected fifty thousand. Where is the scarcity of money?
 

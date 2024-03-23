@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720926mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-09-26
-showdate_hidden  : 2023-09-26
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : September 26
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 27:49
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720926mw.la.mp3|Morning Walk — September 26, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Where is my overcoat? I thought you were bringing it. [indistinct]
 

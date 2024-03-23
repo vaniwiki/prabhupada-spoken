@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.1 ======
 
----- dataentry spoken ----
-id_hidden        : 730127bg.cal
-listtype_hidden  : Bg 7.1
-listdate_hidden  : 1973-01-27
-showdate_hidden  : 2023-01-27
-listplace_hidden : Calcutta
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : January 27
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 43:20
-Title_hidden     : Bhagavad-gītā 7.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730127bg.cal.mp3|Bg 7.1 — January 27, 1973, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 We are reciting from //Bhagavad-gītā,// Seventh Chapter [[books:bg:7:1|[Bg. 7.1]]]. The //yoga// system is called attachment for Kṛṣṇa, or //kṛṣṇa-yoga. Yoga// means connecting, link, and if we always keep ourself connecting link with Kṛṣṇa, then we become the topmost //yogī.// There are many kinds of //yogīs.// Generally the //yogīs,// they think of the Supreme Personality of Godhead always within the heart. //Dhyānāvasthita-tad-gatena manasā paśyanti 'yaṁ yoginaḥ// [SB 12.13.1]. This is the //yogī's// business. //Yogī's// business does not mean simply have some gymnastic or bodily exercise and keep the body fit for sense enjoyment. That is not the purpose of //yoga. Yoga// means connecting.
 

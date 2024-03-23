@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720510le.hon
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-05-10
-showdate_hidden  : 2023-05-10
-listplace_hidden : Honolulu
-Type_spoken      : Lecture
-Date_spoken      : May 10
-Year_spoken      : 1972
-Place_spoken     : Honolulu
-Length_hidden    : 37:58
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720510le.hon.mp3|Lecture — May 10, 1972, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 [//prema-dhvani//] Thank you very much.
 

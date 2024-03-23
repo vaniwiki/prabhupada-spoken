@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 730921r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-09-21
-showdate_hidden  : 2023-09-21
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : September 21
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 04:48
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730921r1.bom.mp3|Room Conversation — September 21, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Now he is there also in Los Angeles, our Umāpati.
 

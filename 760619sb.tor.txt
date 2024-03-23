@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.3 ======
 
----- dataentry spoken ----
-id_hidden        : 760619sb.tor
-listtype_hidden  : SB 7.6.3
-listdate_hidden  : 1976-06-19
-showdate_hidden  : 2023-06-19
-listplace_hidden : Toronto
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 19
-Year_spoken      : 1976
-Place_spoken     : Toronto
-Length_hidden    : 34:10
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760619sb.tor.mp3|SB 7.6.3 — June 19, 1976, Toronto}}
-</audio>
-
 **Pradyumna:** Translation: "Prahlāda Mahārāja continued: My dear friends born of demoniac families, the happiness perceived with reference to the sense objects by contact with the body can be obtained in any form of life, according to one's past fruitive activities. Such happiness is automatically obtained without endeavor, just as we obtain distress."
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750412r2.hyd
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-04-12
-showdate_hidden  : 2023-04-12
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : April 12
-Year_spoken      : 1975
-Place_spoken     : Hyderabad
-Length_hidden    : 10:50
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750412r2.hyd.mp3|Room Conversation — April 12, 1975, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 ...any language, you should submit, and you should feel that, that "I am worthless. My Guru Mahārāja has given this chance to serve Kṛṣṇa, to offer Kṛṣṇa... My Lord, I am worthless. I have no capacity to serve You. But on the order of my Guru Mahārāja, I am trying to serve You. Please do not take any offense. Accept whatever I can do. That's all. That is my request." That //mantra// is sufficient. Kṛṣṇa says in the //Bhagavad-gītā, yo me bhaktyā prayacchati// [[books:bg:9:26|[Bg. 9.26]]]. Kṛṣṇa never said that "One who offers Me with Sanskrit //mantra.//" //Yo me bhaktyā prayacchati.// Real thing is //bhakti,// feeling: "How to serve Kṛṣṇa? How to please Him?" That is wanted. Not to see that you are a very good scholar in speaking in Sanskrit or English or... That is not... Always feel that "I am worthless, but I have been, by the grace of my Guru Mahārāja, I have been given the chance. So kindly accept whatever little service I can give. I am offensive. So kindly excuse me." In this way be humble, meek, and offer your feeling, and Kṛṣṇa will be satisfied. Not that you have to show how you can speak in Sanskrit language.
 

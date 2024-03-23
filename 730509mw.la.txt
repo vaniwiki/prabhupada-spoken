@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730509mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-05-09
-showdate_hidden  : 2023-05-09
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : May 9
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 43:42
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730509mw.la.mp3|Morning Walk — May 9, 1973, Los Angeles}}
-</audio>
-
 **Kṛṣṇa-kāntī:**
 Testing, one, two three.Śrīla Prabhupāda's morning walk, May 9th, 1973, at Venice beach, in Los Angeles. [break]
 

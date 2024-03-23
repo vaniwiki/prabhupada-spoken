@@ -9,24 +9,6 @@
 
 ====== Room Conversation about Māyāpur Attack Talk with Vrindavan De ======
 
----- dataentry spoken ----
-id_hidden        : 770708r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-08
-showdate_hidden  : 2023-07-08
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 8
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 64:25
-Title_hidden     : Room Conversation about Māyāpur Attack Talk with Vrindavan De
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770708r2.vrn.mp3|Room Conversation about Māyāpur Attack Talk with Vrindavan De — July 8, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Broken. Neglected.
 

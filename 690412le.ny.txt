@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 690412le.ny
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1969-04-12
-showdate_hidden  : 2023-04-12
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : April 12
-Year_spoken      : 1969
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690412le.ny.mp3|Lecture [partially recorded] — April 12, 1969, New York}}
-</audio>
-
 **Prabhupāda:**
 ...how to love God. It is not our proposition that you are Christian, you become Hindu, or you are Muhammadan, you become Christian, increase our numerical strength. We don't want. We don't want any numerical strength. We want one sincere person who has learned to love God, Kṛṣṇa. That's all. I have come to your country with this mission, and if I find one or two boys or girls sincerely have learned how to love God, Kṛṣṇa, then my mission is successful. I'm not after any number of... Because if I can turn one soul to this Kṛṣṇa consciousness, he'll do tremendous work, because he'll be fire. You see? He can do tremendous work. //Ekaś candras tamo hanti na ca taraḥ sahasrasaḥ.// One moon is complete to drive away the darkness of night, not millions of stars required. What these millions of stars can do? One moon is sufficient. So our propaganda is to create one moon. You see? But fortunately, by Kṛṣṇa's grace, many moonlike boys and girls have come to me. You see? Many moons. [chuckles] I was thinking of having only one moon, but Kṛṣṇa... I am hopeful that there are many moons, and in future they'll be doing very nice. This is //para-upakāra.// To spread this Kṛṣṇa consciousness movement is the best service to the humanity. Please try to understand this. It is not a bluffing thing. To love God, //premā pumartho mahān...// Caitanya Mahāprabhu said that the highest achievement in the human form of life is to attain perfectional stage to love God. That is the highest. Not //dharmārtha-kāma-mokṣa// ([[books:sb:4:8:41|SB 4.8.41]], [[books:cc:adi:1:90|Cc. Ādi 1.90]]).
 

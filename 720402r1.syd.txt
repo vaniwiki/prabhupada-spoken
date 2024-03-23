@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720402r1.syd
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-04-02
-showdate_hidden  : 2023-04-02
-listplace_hidden : Sydney
-Type_spoken      : Room Conversation
-Date_spoken      : April 2
-Year_spoken      : 1972
-Place_spoken     : Sydney
-Length_hidden    : 87:40
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720402r1.syd.mp3|Room Conversation — April 2, 1972, Sydney}}
-</audio>
-
 **Prabhupāda:**
 That's a fact. Today the superior training and intelligence. No so-called gentleman will hear. [indistinct] attention continually. Nobody will hear. They come and hear, they go on. But they were hearing very seriously. Was it not?
 

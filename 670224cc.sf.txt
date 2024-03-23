@@ -9,24 +9,6 @@
 
 ====== Cc. Ādi-līlā 7.118–121 [Partial Recording] ======
 
----- dataentry spoken ----
-id_hidden        : 670224cc.sf
-listtype_hidden  : Cc. Ādi 7.118–121
-listdate_hidden  : 1967-02-24
-showdate_hidden  : 2023-02-24
-listplace_hidden : San Francisco
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : February 24
-Year_spoken      : 1967
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 7.118–121 [Partial Recording]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670224cc.sf.mp3|Cc. Ādi 7.118-121 — February 24, 1967, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 Lord Caitanya, from different quotations of //Vedas,// He establishes that the Supreme Absolute Truth is person. He's not imperson. And so far Śaṅkarācārya is concerned, he was ordered to preach Māyāvāda philosophy by the Supreme Personality of Godhead for the time being. It is not that this is the only process for realizing the Absolute Truth.
 

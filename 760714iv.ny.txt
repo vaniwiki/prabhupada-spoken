@@ -9,24 +9,6 @@
 
 ====== Interview with Newsweek ======
 
----- dataentry spoken ----
-id_hidden        : 760714iv.ny
-listtype_hidden  : Interview
-listdate_hidden  : 1976-07-14
-showdate_hidden  : 2023-07-14
-listplace_hidden : New York
-Type_spoken      : Interview
-Date_spoken      : July 14
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 54:50
-Title_hidden     : Interview with Newsweek
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760714iv.ny.mp3|Interview with Newsweek — July 14, 1976, New York}}
-</audio>
-
 **Rāmeśvara:**
 ...from our public relations firm. She's assisting us in arranging for these interviews. We were just meeting with Wanda and telling her a little bit about how you began the Kṛṣṇa consciousness movement here in America.
 

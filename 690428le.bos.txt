@@ -9,24 +9,6 @@
 
 ====== Lecture at Harvard University Divinity School ======
 
----- dataentry spoken ----
-id_hidden        : 690428le.bos
-listtype_hidden  : Lecture at Harvard University Divinity School
-listdate_hidden  : 1969-04-28
-showdate_hidden  : 2023-04-28
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : April 28
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Lecture at Harvard University Divinity School, Cambridge [near Boston]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690428le.bos.mp3|Lecture at Harvard University Divinity School — April 28, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 I shall speak or you shall speak? I shall speak?
 

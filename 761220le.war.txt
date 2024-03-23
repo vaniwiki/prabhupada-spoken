@@ -9,24 +9,6 @@
 
 ====== Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 761220le.war
-listtype_hidden  : Lecture [Hindi]
-listdate_hidden  : 1976-12-20
-showdate_hidden  : 2023-12-20
-listplace_hidden : Wardha
-Type_spoken      : Hindi
-Date_spoken      : December 20
-Year_spoken      : 1976
-Place_spoken     : Wardha
-Length_hidden    : 15:37
-Title_hidden     : Lecture [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761220le.war_hindi.mp3|Lecture [Hindi] — December 20, 1976, Wardha}}
-</audio>
-
 **Prabhupāda:**
 [Hindi]
 

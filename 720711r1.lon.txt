@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Sumati Morarjee ======
 
----- dataentry spoken ----
-id_hidden        : 720711r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-07-11
-showdate_hidden  : 2023-07-11
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 11
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 46:53
-Title_hidden     : Room Conversation with Sumati Morarjee
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720711r1.lon.mp3|Room Conversation with Sumati Morarjee — July 11, 1972, London}}
-</audio>
-
 **Prabhupāda:**
 [Hindi conversation with Sumati Morarjee]
 

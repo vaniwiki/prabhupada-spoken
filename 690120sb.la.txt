@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.1 ======
 
----- dataentry spoken ----
-id_hidden        : 690120sb.la
-listtype_hidden  : SB 5.5.1
-listdate_hidden  : 1969-01-20
-showdate_hidden  : 2023-01-20
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 20
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690120sb.la.mp3|SB 5.5.1 — January 20, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [aside:] Where is that table light? Table light? [chants //maṅgalācaraṇa// prayers] In the last meeting we are discussing about the life of a fallen //brāhmaṇa,// Ajāmila. He was addicted to prostitute. Therefore his high standard of life became degraded. This morning also we were reading in the //Īśopaniṣad// that God is //apāpa-viddham. "A//" means not, and //pāpa// means sin, and //viddham,// infected. The God is never infected by sin, sinful activities. Common sense. Just like a king orders somebody to be killed, "This man should be killed." This killing is sinful for the ordinary citizen, but killing by the order of the supreme executive head, the president or the king, that is not criminal. If you say that "Killing by me is criminal. Why it is not criminal for you, you, the president or the king?" I am giving a crude example. Similarly, if you go higher and higher, when you come to God...
 

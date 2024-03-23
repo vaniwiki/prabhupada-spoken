@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.3 ======
 
----- dataentry spoken ----
-id_hidden        : 761025sb.vrn
-listtype_hidden  : SB 5.5.3
-listdate_hidden  : 1976-10-25
-showdate_hidden  : 2023-10-25
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 25
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 30:22
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761025sb.vrn.mp3|SB 5.5.3 — October 25, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:** Translation: "Those who are interested in reviving Kṛṣṇa consciousness and increasing their love of Godhead do not like to do anything that is not related to Kṛṣṇa. They are not interested in mingling with people who are busy maintaining their bodies, eating, sleeping, mating and defending. They are not attached to their homes, although they may be householders. Nor are they attached to wives, children, friends or wealth. At the same time, they are not indifferent to the execution of their duties. Such people are interested in collecting only enough money to keep the body and soul together." [break]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770413r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-04-13
-showdate_hidden  : 2023-04-13
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 13
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 46:42
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770413r1.bom.mp3|Room Conversation — April 13, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Now you have to do so many things. [laughs] Again, another burden. You have to do all these things. So how your preaching?
 

@@ -9,24 +9,6 @@
 
 ====== Tenth Anniversary Address ======
 
----- dataentry spoken ----
-id_hidden        : 760706ad.wdc
-listtype_hidden  : Tenth Anniversary Address
-listdate_hidden  : 1976-07-06
-showdate_hidden  : 2023-07-06
-listplace_hidden : Washington, D.C.
-Type_spoken      : Lecture
-Date_spoken      : July 6
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 56:28
-Title_hidden     : Tenth Anniversary Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760706ad.wdc.mp3|Tenth Anniversary Address — July 6, 1976, Washington, D.C.}}
-</audio>
-
 **Rūpānuga:**
 In July 1966, Śrīla Prabhupāda in New York City formed the International Society for Kṛṣṇa Consciousness Incorporated. Śrīla Prabhupāda mentioned this morning he was asked to call it the "International Society for God Consciousness," but he did not take that advice. He stuck to the principles of his Guru Mahārāja and called our Society an International Society for Kṛṣṇa Consciousness. At that time His Divine Grace outlined the purposes for the Society. We want to read them tonight to show that actually they have all come true. And on this tenth anniversary, all the purposes of our Society actually are being fulfilled or already have been.
 

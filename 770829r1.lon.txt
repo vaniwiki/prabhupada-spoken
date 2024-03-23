@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770829r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-08-29
-showdate_hidden  : 2023-08-29
-listplace_hidden : London, Bhaktivedanta Manor
-Type_spoken      : Room Conversation
-Date_spoken      : August 29
-Year_spoken      : 1977
-Place_spoken     : London
-Length_hidden    : 18:54
-Title_hidden     : Room Conversation, Bhaktivedanta Manor
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770829r1.lon.mp3|Room Conversation — August 29, 1977, London}}
-</audio>
-
 **Indian devotee:**
 [offers obeisances]
 

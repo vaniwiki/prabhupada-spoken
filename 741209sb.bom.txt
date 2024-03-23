@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.41 ======
 
----- dataentry spoken ----
-id_hidden        : 741209sb.bom
-listtype_hidden  : SB 3.25.41
-listdate_hidden  : 1974-12-09
-showdate_hidden  : 2023-12-09
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 9
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 47:14
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.41
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741209sb.bom.mp3|SB 3.25.41 — December 9, 1974, Bombay}}
-</audio>
-
 [poor recording]
 
 **Devotee:**

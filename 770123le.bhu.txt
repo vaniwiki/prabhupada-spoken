@@ -9,24 +9,6 @@
 
 ====== Evening Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 770123le.bhu
-listtype_hidden  : Evening Lecture
-listdate_hidden  : 1977-01-23
-showdate_hidden  : 2023-01-23
-listplace_hidden : Bhubaneswar
-Type_spoken      : Lecture
-Date_spoken      : January 23
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 35:41
-Title_hidden     : Evening Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770123le.bhu.mp3|Evening Lecture — January 23, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 So we shall continue that Rāmānanda? No. So who will read and explain?
 

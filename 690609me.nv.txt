@@ -9,25 +9,6 @@
 
 ====== Meeting with Devotees ======
 
----- dataentry spoken ----
-id_hidden        : 690609me.nv
-listtype_hidden  : Meeting Devotees
-listdate_hidden  : 1969-06-09
-showdate_hidden  : 2023-06-09
-listplace_hidden : New Vrindaban
-Type_spoken      : Room Conversation
-Date_spoken      : June 9
-Year_spoken      : 1969
-Place_spoken     : New Vrindavan
-Length_hidden    : 00:00
-Title_hidden     : Meeting with Devotees
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690609me.nv.mp3|Meeting with Devotees — June 9, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 In the //Caitanya-caritāmṛta// it is said, //ekale īśvara kṛṣṇa ara saba bhṛtya// [[books:cc:adi:5:142|[Cc. Ādi 5.142]]]. [baby making noises] [aside:] He will disturb. //Īśvara. Īśvara// means master or the controller. Actually only Kṛṣṇa is master. Even Lord Śiva, Lord Brahmā, or incarnation of Viṣṇu, all of them are, in one sense, even Rādhārāṇī, all are servants. //Ekale īśvara kṛṣṇa ara saba bhṛtya.// So in that sense, in this New Vrindaban the master is Kṛṣṇa, and we are all servants. But there are division of duties of the servants, and they should discharge. Just like in our propagation of Kṛṣṇa consciousness movement there are certain duties entrusted to certain devotee, and if he faithfully carries out that duty, that is his perfection. The spiritual master is the representative of Kṛṣṇa, and the duty allotted by him to a certain person, that should be his execution of spiritual duties. So this New Vrindaban, master is Kṛṣṇa. Now we should specifically divide duties amongst ourselves and discharge such duties faithfully. Then, by the grace of Kṛṣṇa, as you are growing up to now, the system and the prescription is very nicely being conducted. And this will help us more and more progress. So in this meeting I think we should allot different kinds of duties to different persons and execute. So you say something. [break] ...temple. I don't think it can take more than two hours.
 

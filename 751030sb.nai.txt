@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.28.20 ======
 
----- dataentry spoken ----
-id_hidden        : 751030sb.nai
-listtype_hidden  : SB 3.28.20
-listdate_hidden  : 1975-10-30
-showdate_hidden  : 2023-10-30
-listplace_hidden : Nairobi
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 30
-Year_spoken      : 1975
-Place_spoken     : Nairobi
-Length_hidden    : 32:15
-Title_hidden     : Śrīmad-Bhāgavatam 3.28.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751030sb.nai.mp3|SB 3.28.20 — October 30, 1975, Nairobi}}
-</audio>
-
 **Harikeśa:**
 //Śrīmad-Bhāgavatam,// Canto Three, Chapter Twenty-eight, text number twenty. [leads chanting of verse, etc.]
 

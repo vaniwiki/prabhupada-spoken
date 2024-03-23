@@ -9,24 +9,6 @@
 
 ====== Conversations ======
 
----- dataentry spoken ----
-id_hidden        : 770517r1.vrn
-listtype_hidden  : Conversations
-listdate_hidden  : 1977-05-17
-showdate_hidden  : 2023-05-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : May 17
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 28:33
-Title_hidden     : Conversations
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770517r1.vrn.mp3|Conversations — May 17, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Now you can discuss. [Hindi] [end]
 

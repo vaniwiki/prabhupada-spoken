@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.4.2 ======
 
----- dataentry spoken ----
-id_hidden        : 720625sb.la
-listtype_hidden  : SB 2.4.2
-listdate_hidden  : 1972-06-25
-showdate_hidden  : 2023-06-25
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 25
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 45:49
-Title_hidden     : Śrīmad-Bhāgavatam 2.4.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720625sb.la.mp3|SB 2.4.2 — June 25, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [leads //prema-dhvani//] Thank you very much.
 

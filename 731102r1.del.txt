@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 731102r1.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : November 2
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 13:35
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731102r1.del.mp3|Room Conversation — November 2, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 ...for others it is said. For Kṛṣṇa, it is mercy. The //gopīs// came with lust. They became purified with Kṛṣṇa's association. //Gopīs,// actually, superficially, externally, they are..., means, //nitya-siddha,// ever-liberated expansion of Kṛṣṇa's energy, internal energy. But apparently, they left their father, husband and came to Kṛṣṇa. So that is, from Vedic principle, it is wrong.
 

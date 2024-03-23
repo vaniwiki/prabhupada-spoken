@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721102nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : November 2
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 33:34
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721102nd.vrn.mp3|The Nectar of Devotion — November 2, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading:] "So when our senses are engaged for the actual proprietor of the senses, that is called devotional service. In our conditional state, our senses are engaged in serving these bodily demands. When the same senses are engaged in executing the order of Kṛṣṇa, it is called //bhakti.//"
 

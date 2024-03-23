@@ -9,24 +9,6 @@
 
 ====== Ratha-yātrā Address ======
 
----- dataentry spoken ----
-id_hidden        : 720716ad.lon
-listtype_hidden  : Ratha-yātrā Address
-listdate_hidden  : 1972-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : July 16
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 05:08
-Title_hidden     : Address at Beginning of Ratha-yātrā Parade
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720716ad.lon.mp3|Ratha-yātrā Address — July 16, 1972, London}}
-</audio>
-
 **Revatīnandana:**
 The spiritual master who founded this Hare Kṛṣṇa movement will address in just a few words. Then we'll begin the procession to Trafalgar Square. Hare Kṛṣṇa.
 

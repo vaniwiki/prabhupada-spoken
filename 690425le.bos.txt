@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690425le.bos
-listtype_hidden  : Lecture
-listdate_hidden  : 1969-04-25
-showdate_hidden  : 2023-04-25
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : April 25
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690425le.bos.mp3|Lecture — April 25, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 When I was in Buffalo, my last lecture was at Buffalo University college. So I began a series of lecture for the young boys and girls. This series of lecture is not manufactured by me. Our process is not manufacturing. The Vedic process is not personal opinion. Our process is simply to carry the transcendental message to the people. Our system is so nice that we haven't got to manufacture daily a new thesis. The difficulty of modern age is... Not modern age. It is also old system, because in the //Śrīmad-Bhāgavatam// we find one verse which says, //tarko 'pratiṣṭhaḥ:// "Simple arguments and logic will not carry you to the Absolute Truth." //Tarkaḥ. Tarkaḥ// means arguments. You may be very good logician, you can argue very nice, but another logician may come and defeat you. That is going on. New philosopher, new logician, new thinker means he defeats his previous other scripture in some details. Of course, on nkers, logicians, and philosophers, and becomes prominent. That is the materialistic way of gaining name, fame and popularity. But our process is different. //Tarko 'pratiṣṭhaḥ.// We accept that simply by arguments and logic, it is not possible to approach the Absolute Truth. Absolute Truth is not subjected to our deficient logic or argument.
 

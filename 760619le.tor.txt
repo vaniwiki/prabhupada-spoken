@@ -9,24 +9,6 @@
 
 ====== Śubhavilāsa Home Engagement ======
 
----- dataentry spoken ----
-id_hidden        : 760619le.tor
-listtype_hidden  : Lecture
-listdate_hidden  : 1976-06-19
-showdate_hidden  : 2023-06-19
-listplace_hidden : Toronto
-Type_spoken      : Lecture
-Date_spoken      : June 19
-Year_spoken      : 1976
-Place_spoken     : Toronto
-Length_hidden    : 34:05
-Title_hidden     : Śubhavilāsa Home Engagement
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760619le.tor.mp3|Śubhavilāsa Home Engagement — June 19, 1976, Toronto}}
-</audio>
-
 **Prabhupāda:**
 Who will talk? You can speak.
 

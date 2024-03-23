@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.5 ======
 
----- dataentry spoken ----
-id_hidden        : 710903sb.lon
-listtype_hidden  : SB 5.5.5
-listdate_hidden  : 1971-09-03
-showdate_hidden  : 2023-09-03
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 3
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710903sb.lon.mp3|SB 5.5.5 — September 3, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 //Parābhavas tāvad abodha-jātaḥ.//
 

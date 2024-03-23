@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730228mw.jkt
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-02-28
-showdate_hidden  : 2023-02-28
-listplace_hidden : Jakarta
-Type_spoken      : Morning Walk
-Date_spoken      : February 28
-Year_spoken      : 1973
-Place_spoken     : Jakarta
-Length_hidden    : 15:34
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730228mw.jkt.mp3|Morning Walk — February 28, 1973, Jakarta}}
-</audio>
-
 [poor audio]
 
 **Amogha:**

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.7 ======
 
----- dataentry spoken ----
-id_hidden        : 721018sb.vrn
-listtype_hidden  : SB 1.2.7
-listdate_hidden  : 1972-10-18
-showdate_hidden  : 2023-10-18
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 18
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 42:56
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721018sb.vrn.mp3|SB 1.2.7 — October 18, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:** Translation: "By rendering devotional service unto the Personality of Godhead, Śrī Kṛṣṇa, one immediately acquires causeless knowledge and detachment from the world." [[books:sb:1:2:7|[SB 1.2.7]]]
 
 **Prabhupāda:**

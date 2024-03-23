@@ -9,24 +9,6 @@
 
 ====== Wedding of Śyāma dāsī and Hayagrīva ======
 
----- dataentry spoken ----
-id_hidden        : 681225we.la
-listtype_hidden  : Wedding
-listdate_hidden  : 1968-12-25
-showdate_hidden  : 2023-12-25
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : December 25
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Wedding of Śyāma dāsī and Hayagrīva
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681225we.la.mp3|Wedding Lecture — December 25, 1968, Los Angeles}}
-</audio>
-
 [fire sacrifice]
 
 **Prabhupāda:**

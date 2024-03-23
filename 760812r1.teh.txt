@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760812r1.teh
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-08-12
-showdate_hidden  : 2023-08-12
-listplace_hidden : Tehran
-Type_spoken      : Room Conversation
-Date_spoken      : August 12
-Year_spoken      : 1976
-Place_spoken     : Tehran
-Length_hidden    : 28:55
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760812r1.teh.mp3|Room Conversation — August 12, 1976, Tehran}}
-</audio>
-
 **Prabhupāda:**
 I can give you formula. That toothpaste formula, that is my invention. It's working very nicely.
 

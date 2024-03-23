@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710626le.par
-listtype_hidden  : Lecture
-listdate_hidden  : 1971-06-26
-showdate_hidden  : 2023-06-26
-listplace_hidden : Paris
-Type_spoken      : Lecture
-Date_spoken      : June 26
-Year_spoken      : 1971
-Place_spoken     : Paris
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710626le.par.mp3|Lecture — June 26, 1971, Paris}}
-</audio>
-
 **Prabhupāda:**
 
 > ...sthāpitaṁ yena bhū-tale

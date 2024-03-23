@@ -9,24 +9,6 @@
 
 ====== Arrival Talk ======
 
----- dataentry spoken ----
-id_hidden        : 740927ar.may
-listtype_hidden  : Arrival Talk
-listdate_hidden  : 1974-09-27
-showdate_hidden  : 2023-09-27
-listplace_hidden : Māyāpur
-Type_spoken      : Lecture
-Date_spoken      : September 27
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 06:48
-Title_hidden     : Arrival Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740927ar.may.mp3|Arrival Talk — September 27, 1974, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 So Śrīman Jayapatāka Mahārāja, Bhavānanda Mahārāja and devotees, I thank you very much for keeping this temple, Māyāpur-candrodaya Mandira, so nicely cleansed, and it appears everything is going nicely. So it was the desire of Śrīla Bhaktivinoda Ṭhākura that Europeans and Americans would come here and chant Hare Kṛṣṇa //mantra.// That prophecy is now being fulfilled, and that is my satisfaction. I tried my little bit to fulfill the desire of Bhaktivinoda Ṭhākura. At my old age of seventy years, I just... It was a gambling also. I simply thought that "This was the desire..." Of course, my Guru Mahārāja, Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda, he also asked me to do this. Anyway, at least there is a place now when..., where these Europeans and Americans may come and live peacefully, chant Hare Kṛṣṇa //mahā-mantra// and advance in spiritual understanding.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.28.21 ======
 
----- dataentry spoken ----
-id_hidden        : 751101sb.nai
-listtype_hidden  : SB 3.28.21
-listdate_hidden  : 1975-11-01
-showdate_hidden  : 2023-11-01
-listplace_hidden : Nairobi
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 1
-Year_spoken      : 1975
-Place_spoken     : Nairobi
-Length_hidden    : 27:15
-Title_hidden     : Śrīmad-Bhāgavatam 3.28.21
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751101sb.nai.mp3|SB 3.28.21 — November 1, 1975, Nairobi}}
-</audio>
-
 **Harikeśa:** Translation: "The devotee should first concentrate his mind on the Lord's lotus feet, which are adorned with the marks of a thunderbolt, a goad, a banner and a lotus. The splendor of their beautiful ruby nails resembles the orbit of the moon and dispels the thick gloom of one's heart."
 
 **Prabhupāda:**

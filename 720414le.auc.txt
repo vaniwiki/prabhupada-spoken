@@ -9,24 +9,6 @@
 
 ====== Town Hall Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720414le.auc
-listtype_hidden  : Town Hall Lecture
-listdate_hidden  : 1972-04-14
-showdate_hidden  : 2023-04-14
-listplace_hidden : Auckland
-Type_spoken      : Lecture
-Date_spoken      : April 14
-Year_spoken      : 1972
-Place_spoken     : Auckland
-Length_hidden    : 68:50
-Title_hidden     : Town Hall Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720414le.auc.mp3|Town Hall Lecture — April 14, 1972, Auckland}}
-</audio>
-
 **Prabhupāda:**
 So Śrīman Hanumān-prasāda Gosvāmī, he has spoken something about Kṛṣṇa's representative. So naturally, question may be raised that how I became Kṛṣṇa's representative. Kṛṣṇa appeared five thousand years ago. I am recently born, say, seventy-six years ago. How I became Kṛṣṇa's representative, this question may be raised.
 

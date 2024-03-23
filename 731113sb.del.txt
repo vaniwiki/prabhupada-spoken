@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.7 ======
 
----- dataentry spoken ----
-id_hidden        : 731113sb.del
-listtype_hidden  : SB 1.2.7
-listdate_hidden  : 1973-11-13
-showdate_hidden  : 2023-11-13
-listplace_hidden : Delhi
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 13
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 49:39
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731113sb.del.mp3|SB 1.2.7 — November 13, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 
 > [vāsudeve] bhagavati

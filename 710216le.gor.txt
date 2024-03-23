@@ -9,24 +9,6 @@
 
 ====== Lecture at Kṛṣṇa Niketan ======
 
----- dataentry spoken ----
-id_hidden        : 710216le.gor
-listtype_hidden  : Lecture at Kṛṣṇa Niketan
-listdate_hidden  : 1971-02-16
-showdate_hidden  : 2023-02-16
-listplace_hidden : Gorakhpur
-Type_spoken      : Lecture
-Date_spoken      : February 16
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Lecture at Kṛṣṇa Niketan
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710216le.gor.mp3|Lecture at Kṛṣṇa Niketan — February 16, 1971, Gorakhpur}}
-</audio>
-
 **Haṁsadūta:**
 Morning lecture, recorded the morning of February 16, 1971, at Śrī Kṛṣṇa Niketan, Gorakhpur, Uttar Pradesh.
 

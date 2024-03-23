@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.31 ======
 
----- dataentry spoken ----
-id_hidden        : 730423sb.la
-listtype_hidden  : SB 1.8.31
-listdate_hidden  : 1973-04-23
-showdate_hidden  : 2023-04-23
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 23
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 40:27
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.31
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730423sb.la.mp3|SB 1.8.31 — April 23, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [leads singing of //Jaya rādhā-mādhava//]
 

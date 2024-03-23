@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720417r1.auc
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-04-17
-showdate_hidden  : 2023-04-17
-listplace_hidden : Auckland
-Type_spoken      : Room Conversation
-Date_spoken      : April 17
-Year_spoken      : 1972
-Place_spoken     : Auckland
-Length_hidden    : 27:38
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720417r1.auc.mp3|Room Conversation — April 17, 1972, Auckland}}
-</audio>
-
 **Śyāmasundara:**
 [introducing recording] Lecture in Prabhupāda's room. Confidential talks with his devotees on the evening of April 17th, 1972, in Auckland, New Zealand.
 

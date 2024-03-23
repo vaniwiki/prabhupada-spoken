@@ -9,24 +9,6 @@
 
 ====== Purport to Nitāi-Pada-Kamala ======
 
----- dataentry spoken ----
-id_hidden        : 681221pu.la
-listtype_hidden  : Nitāi-Pada-Kamala
-listdate_hidden  : 1968-12-21
-showdate_hidden  : 2023-12-21
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : December 21
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Nitāi-Pada-Kamala
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681221pu.la.mp3|Purport to Nitāi-Pada-Kamala — December 21, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Nitāi-pada-kamala, koṭi-candra-suśītala, je chāyāy jagata jurāy.// This is a very nice song sung by Narottama dāsa Ṭhākura. He is advising that //nitāi-pada,// the lotus feet of Lord Nityānanda //Kamala// means lotus feet, er, lotus, and //pada// means feet. So //Nitāi-pada-kamala// means the lotus feet of Lord Nityānanda. //Koṭi-candra-suśītala.// It is just a shelter where you will get the soothing moonlight not only of one, but of millions of moons. Just we have to imagine what is the aggregate total value of the soothing shine of millions of moons. //Koṭi-candra-suśītala, je chāyāy jagata jurāy. Jagat,// this material world, which is progressing towards hell, and there is always a blazing fire, everyone is struggling hard, nobody finds peace. Therefore, if the world wants to have real peace, then it should take shelter under the lotus feet of Lord Nityānanda, which is supposed to be cooling like the shining moon, millions in number. //Nitāi-pada-kamala, koṭi-candra-suśītala, je chāyāy jagata jurāy. Jurāy// means relief. If you actually want relief from the struggle of existence and if you actually want to extinguish the fire of material pangs, then Narottama dāsa Ṭhākura advises, "Please take shelter of Lord Nityānanda." What will be the result of accepting the shelter of the lotus feet of Lord Nityānanda? He says that //heno nitāi bine bhāi:// "Unless you take shelter under the shade of lotus feet of Nityānanda," //rādhā-kṛṣṇa pāite nāi,// "it will be very difficult to approach Rādhā-Kṛṣṇa." Rādhā-Kṛṣṇa This Kṛṣṇa consciousness movement is for approaching Rādhā-Kṛṣṇa, to be associated with the Supreme Lord in His sublime pleasure dance. That is the aim of Kṛṣṇa consciousness. So Narottama dāsa Ṭhākura's advice is "If you actually want to enter into the dancing party of Rādhā-Kṛṣṇa, then you must take shelter of the lotus feet of Nityānanda."
 

@@ -9,24 +9,6 @@
 
 ====== Lecture [Day after Lord Rāma’s Appearance Day] ======
 
----- dataentry spoken ----
-id_hidden        : 700416le.la
-listtype_hidden  : Lecture [Day after Lord Rāma's Appearance Day]
-listdate_hidden  : 1970-04-16
-showdate_hidden  : 2023-04-16
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : April 16
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture [Day after Lord Rāma’s Appearance Day]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700416le.la.mp3|Lecture [Day after Lord Rāma’s Appearance Day] — April 16, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...the incarnation of Godhead in the form of fish, beginning. Then Kūrma //avatāra.// Kūrma //avatāra// means the incarnation of God in the form of tortoise. Then Varāha //avatāra,// the incarnation of Godhead in the form of boar. Then Nṛsiṁha //avatāra,// incarnation of Godhead, half lion and half man. Then incarnation of Vāmanadeva, dwarf //brāhmaṇa.// Next incarnation is Paraśurāma, and the next incarnation, Lord Rāmacandra. You have heard the story of //Rāmāyaṇa.// That is the activities of Lord Rāmacandra. Last, yesterday, we observed the birth ceremony of Lord Rāmacandra. And then incarnation of Balarāma. And the next incarnation is Lord Buddha. And we are awaiting another incarnation at the last stage of this Kali-yuga. This age is called Kali-yuga.
 

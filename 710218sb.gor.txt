@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.3.25–26 ======
 
----- dataentry spoken ----
-id_hidden        : 710218sb.gor
-listtype_hidden  : SB 6.3.25–26
-listdate_hidden  : 1971-02-18
-showdate_hidden  : 2023-02-18
-listplace_hidden : Gorakhpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 18
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.3.25–26
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710218sb.gor.mp3|SB 6.3.25-26 — February 18, 1971, Gorakhpur}}
-</audio>
-
 **Prabhupāda:**
 
 > prāyeṇa veda tad idaṁ na mahājano 'yaṁ

@@ -9,21 +9,3 @@
 
 ====== Lecture [Bengali] ======
 
----- dataentry spoken ----
-id_hidden        : 741003le.may
-listtype_hidden  : Lecture [Bengali]
-listdate_hidden  : 1974-10-03
-showdate_hidden  : 2023-10-03
-listplace_hidden : Māyāpur
-Type_spoken      : Bengali
-Date_spoken      : October 3
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 05:45
-Title_hidden     : Lecture [Bengali]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741003le.may_bengali.mp3|Lecture [Bengali] — October 3, 1974, Māyāpur}}
-</audio>
-

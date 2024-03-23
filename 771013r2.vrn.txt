@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771013r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-13
-showdate_hidden  : 2023-10-13
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 13
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 63:37
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771013r2.vrn.mp3|Room Conversation — October 13, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 [Bengali with Pisimā and Bhakti-caru] [//kīrtana//] [break]
 

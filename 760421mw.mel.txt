@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760421mw.mel
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-04-21
-showdate_hidden  : 2023-04-21
-listplace_hidden : Melbourne
-Type_spoken      : Morning Walk
-Date_spoken      : April 21
-Year_spoken      : 1976
-Place_spoken     : Melbourne
-Length_hidden    : 30:06
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760421mw.mel.mp3|Morning Walk — April 21, 1976, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 They'll never accept it. But if they simply accept chanting, it will work. [tape of Prabhupāda chanting //Govindam// prayers in background] [break] ...say on these big, big buildings, but chant Hare Kṛṣṇa.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.5.31 ======
 
----- dataentry spoken ----
-id_hidden        : 751004sb.mau
-listtype_hidden  : SB 7.5.31
-listdate_hidden  : 1975-10-04
-showdate_hidden  : 2023-10-04
-listplace_hidden : Mauritius
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 4
-Year_spoken      : 1975
-Place_spoken     : Mauritius
-Length_hidden    : 42:20
-Title_hidden     : Śrīmad-Bhāgavatam 7.5.31
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751004sb.mau.mp3|SB 7.5.31 — October 4, 1975, Mauritius}}
-</audio>
-
 **Harikeśa:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] //Śrīmad-Bhāgavatam,// Seventh Canto, Fifth Canto, thirty-first verse. [leads chanting of verse, etc.]
 

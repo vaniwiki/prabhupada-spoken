@@ -9,22 +9,4 @@
 
 ====== Lecture [Bengali] ======
 
----- dataentry spoken ----
-id_hidden        : 720226le.may
-listtype_hidden  : Lecture [Bengali]
-listdate_hidden  : 1972-02-26
-showdate_hidden  : 2023-02-26
-listplace_hidden : Māyāpur
-Type_spoken      : Bengali
-Date_spoken      : February 26
-Year_spoken      : 1972
-Place_spoken     : Māyāpur
-Length_hidden    : 31:21
-Title_hidden     : Lecture [Bengali]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720226le.may_bengali.mp3|Lecture [Bengali] — February 26, 1972, Māyāpur}}
-</audio>
-
 **Prabhupāda:**

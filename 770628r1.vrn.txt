@@ -9,24 +9,6 @@
 
 ====== Talk About Varṇāśrama, S.B. 2.1.1–5 ======
 
----- dataentry spoken ----
-id_hidden        : 770628r1.vrn
-listtype_hidden  : Talk About Varṇāśrama, S.B. 2.1.1–5
-listdate_hidden  : 1977-06-28
-showdate_hidden  : 2023-06-28
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 28
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 33:40
-Title_hidden     : Talk About Varṇāśrama, S.B. 2.1.1–5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770628r1.vrn.mp3|Talk About Varṇāśrama, S.B. 2.1.1-5 — June 28, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 [Bengali] [break] ...whether I have a family.
 

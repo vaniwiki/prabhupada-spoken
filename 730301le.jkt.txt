@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730301le.jkt
-listtype_hidden  : Lecture
-listdate_hidden  : 1973-03-01
-showdate_hidden  : 2023-03-01
-listplace_hidden : Jakarta
-Type_spoken      : Lecture
-Date_spoken      : March 1
-Year_spoken      : 1973
-Place_spoken     : Jakarta
-Length_hidden    : 11:49
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730301le.jkt.mp3|Lecture — March 1, 1973, Jakarta}}
-</audio>
-
 **Prabhupāda:**
 ...he was personal friend of Kṛṣṇa. Just try to understand how much qualified he was. Not only that; he belonged to the royal family, he was a great warrior, great hero, so many qualities. But he said that "I cannot practice this //yoga// system. It is not possible. I cannot control my mind and practice this //haṭha-yoga// system." Now just try to understand. He is such a personality, great personality, and five thousand years ago, when things were so nice. So at that time a person like Arjuna felt that he's unable to practice this //yoga// system. And nowadays a paltry people with teeny knowledge, they are trying to practice //yoga// system as if they're..., he has become more than Arjuna.
 

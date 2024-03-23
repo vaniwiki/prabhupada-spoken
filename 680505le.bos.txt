@@ -9,24 +9,6 @@
 
 ====== Lecture to Technology Students [M.I.T.] ======
 
----- dataentry spoken ----
-id_hidden        : 680505le.bos
-listtype_hidden  : Lecture M.I.T.
-listdate_hidden  : 1968-05-05
-showdate_hidden  : 2023-05-05
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : May 5
-Year_spoken      : 1968
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Lecture to Technology Students [M.I.T.]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680505le.bos.mp3|Lecture to Technology Students [M.I.T.] — May 5, 1968, Boston}}
-</audio>
-
 **Prabhupāda:**
 
 > oṁ ajñāna-timirāndhasya

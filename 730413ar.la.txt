@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730413ar.la
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1973-04-13
-showdate_hidden  : 2023-04-13
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : April 13
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 15:25
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730413ar.la.mp3|Arrival Lecture — April 13, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [leads singing of //Jaya rādhā-mādhava//] [//prema-dvani// prayers] Thank you very much.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.9–10 ======
 
----- dataentry spoken ----
-id_hidden        : 731114sb.del
-listtype_hidden  : SB 1.2.9–10
-listdate_hidden  : 1973-11-14
-showdate_hidden  : 2023-11-14
-listplace_hidden : Delhi
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 14
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 47:07
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.9–10
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731114sb.del.mp3|SB 1.2.9-10 — November 14, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 
 > dharmasya hy āpavargyasya

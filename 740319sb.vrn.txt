@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.4 ======
 
----- dataentry spoken ----
-id_hidden        : 740319sb.vrn
-listtype_hidden  : SB 2.1.4
-listdate_hidden  : 1974-03-19
-showdate_hidden  : 2023-03-19
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 19
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 15:30
-Title_hidden     : Śrīmad-Bhāgavatam 2.1.4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740319sb.vrn.mp3|SB 2.1.4 — March 19, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 [sings, with devotees joining in, //Ṣaḍ Gosvāmy Aṣṭaka//] [break]
 

@@ -9,24 +9,6 @@
 
 ====== Address to Indian Association ======
 
----- dataentry spoken ----
-id_hidden        : 690511ad.col
-listtype_hidden  : Indian Association Address
-listdate_hidden  : 1969-05-11
-showdate_hidden  : 2023-05-11
-listplace_hidden : Columbus
-Type_spoken      : Lecture
-Date_spoken      : May 11
-Year_spoken      : 1969
-Place_spoken     : Columbus
-Length_hidden    : 00:00
-Title_hidden     : Address to Indian Association
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690511ad.col.mp3|Address to Indian Association — May 11, 1969, Columbus}}
-</audio>
-
 **Prabhupāda:**
 
 > ceto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇaṁ

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760802r2.nmr
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-08-02
-showdate_hidden  : 2023-08-02
-listplace_hidden : New Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : August 2
-Year_spoken      : 1976
-Place_spoken     : New Māyāpur
-Length_hidden    : 37:55
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760802r2.nmr.mp3|Room Conversation — August 2, 1976, New Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 //Jaya.// [devotees offers obeisances] So Aniruddha, you are going to stay here? You are going to stay? That's nice. He's a big devotee. He says, "I am big devotee." Hmm.
 

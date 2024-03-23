@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.21 ======
 
----- dataentry spoken ----
-id_hidden        : 750705sb.chi
-listtype_hidden  : SB 6.1.21
-listdate_hidden  : 1975-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : Chicago
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 5
-Year_spoken      : 1975
-Place_spoken     : Chicago
-Length_hidden    : 22:45
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.21
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750705sb.chi.mp3|SB 6.1.21 — July 5, 1975, Chicago}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] //Śrīmad-Bhāgavatam,// Sixth Canto, First Chapter, verse number 21. [leads chanting of verse, etc.]
 

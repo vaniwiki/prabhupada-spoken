@@ -9,24 +9,6 @@
 
 ====== Purport to Bhajahū Re Mana ======
 
----- dataentry spoken ----
-id_hidden        : 660330pu.ny
-listtype_hidden  : Bhajahū Re Mana
-listdate_hidden  : 1966-03-30
-showdate_hidden  : 2023-03-30
-listplace_hidden : New York
-Type_spoken      : Song Purport
-Date_spoken      : March 30
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Purport to Bhajahū Re Mana
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660330pu.ny.mp3|Purport to Bhajahū Re Mana — March 30, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 This is a song which a devotee is praying and asking his mind, //bhajahū re mana. Mana// means mind. Because, at the present moment, our mind is the driver, and this body is just like a car... In the //Bhagavad-gītā// also it is stated, //bhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā// [[books:bg:18:61|[Bg. 18.61]]]. This body is a car made of this material nature. The living entity, what is said, "I," I am now seated on this car prepared by the nature, material nature. And the driver is the mind. And the driver is not in my control. The driver is taking me anywhere he likes. You see? I am... Personally, I am not able to drive. I have engaged one driver, which is called the mind, and this body is the car, and the mind is carrying me like driver anywhere it likes. So therefore the proprietor, I, I am, I am requesting the driver... When I am helpless, so I am requesting, "My dear mind," //bhajahū re mana,// "my dear mind..." //Mana// means mind. "You kindly worship Lord Kṛṣṇa." //Śrī-nanda-nandana. Śrī-nanda-nandana// means Lord Kṛṣṇa. Lord Kṛṣṇa appeared as the son of Vasudeva, and He was accepted by Nanda Mahārāja as his, what is called? Son who is accepted from others? So he, he was His foster father. So he's reques... "I am requesting that you worship Lord Kṛṣṇa who is //abhaya-caraṇa.//" //Abhaya-caraṇa// means He's the fearless shelter. If we take shelter of Kṛṣṇa, then we become free from all anxieties. Just like a helpless child, when he's taken care of by his parents, he becomes careless, carefree, not careless, carefree. "Similarly, I am requesting, my dear mind, you do not drive in this way, dangerously. Please worship Lord Kṛṣṇa who is fearless shelter." //Bhajahū re mana śrī-nanda-nandana-abhaya-caraṇāravinda re:// "His lotus feet is fearless shelter." One who takes shelter... As the Lord says in //Bhagavad-gītā, sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja// [[books:bg:18:66|[Bg. 18.66]]]. Now, either you say Kṛṣṇa or you say Superconsciousness... Superconsciousness is impersonal conception of Kṛṣṇa, and Kṛṣṇa is personal conception of Superconsciousness. Because Kṛṣṇa means He's not only superconscious, but He's supreme bliss and supreme knowledge---supreme knowledge means superconsciousness---and eternal, supreme consciousness, supreme bliss. That is the definition of Kṛṣṇa. Now, then the devotee says that //durlabha mānava-janama sat-saṅge taroho e bhava-sindhu re.// Now, this body, this human body, is //durlabha. Durlabha// means very valuable. It is obtained with, after a great struggle of existence. We have to come through so many species of life: aquatics, birds, then trees, then reptiles, then beasts... There are so many, so many. There are eighty-four //lakhs,// means 8,400,000 species of life, and we had to pass through by gradual evolution. This theory is accepted by Darwin also, evolutionary theory. So this human body is very valuable. So he requests, "My dear mind,..." Mind, of course, in the lower animal life the mind is there also. Also mind is not developed, but they have got mind. It is a... In the very lower animal living condition, the mind is not at all developed, but at least, in animal life there is mind. Now, the devotee requesting that "This life, this human form of life, is very valuable. Don't waste it. Don't waste it, but you just to make your life successful in the association of saints and sages."
 

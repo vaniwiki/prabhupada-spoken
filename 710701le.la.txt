@@ -9,24 +9,6 @@
 
 ====== Ratha-yātrā ======
 
----- dataentry spoken ----
-id_hidden        : 710701le.la
-listtype_hidden  : Ratha-yātrā
-listdate_hidden  : 1971-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : July 1
-Year_spoken      : 1971
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Ratha-yātrā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710701le.la.mp3|Ratha-yātrā — July 1, 1971, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Veṇum// means flute. //Kvāṇantam,// playing on flute. So this Kṛṣṇa's flute is not our imagination. It is in the Vedic literature. The Supreme Personality of Godhead is, He likes to play on flute. Just like here in this material world also, there are many boys who like to play on flute. Wherefrom this flute-playing idea came? That answer is given in the //Vedānta-sūtra, janmādy asya yataḥ// [[books:sb:1:1:1|[SB 1.1.1]]]. All ideas, everything is coming from Him, from Kṛṣṇa. Unless there is in Kṛṣṇa, there cannot be anything in this material world. //Janmādy asya yataḥ.// Just like //janma,// your, somebody's birth from father or mother. So the symptoms of the father and mother, the facial expressions, even a spot in the face, everything becomes manifested in the child. So you can study what is God by studying yourself. That is //Māyāvāda// philosophy. They take it in a different way that "I am God, reflection." God, they say, God reflection. No. We are reflection. God is not our reflection; we are God's reflection.
 

@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710331le.bom
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1971-03-31
-showdate_hidden  : 2023-03-31
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : March 31
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710331le.bom.mp3|Pandal Lecture — March 31, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] Ladies and gentlemen, I thank you very much for your participating in this meeting, Kṛṣṇa consciousness movement. This Kṛṣṇa consciousness movement is very much authorized. It is nothing like concocted mental speculation. It is authorized on the basis of Vedic knowledge, specifically, directly from the Supreme Personality of Godhead, Lord Kṛṣṇa, five thousand years ago when there was no history of other religion. In the modern age, any religion you can take into consideration, they are not older than 2,600 years. But so far this //Bhagavad-gītā// is concerned, it was spoken in the Battlefield of Kurukṣetra five thousand years ago.
 

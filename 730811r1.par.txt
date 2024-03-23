@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 730811r1.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-08-11
-showdate_hidden  : 2023-08-11
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : August 11
-Year_spoken      : 1973
-Place_spoken     : Paris
-Length_hidden    : 56:17
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730811r1.par.mp3|Room Conversation — August 11, 1973, Paris}}
-</audio>
-
 **Prabhupāda:**
 His name was Gopal Ban. Gopal Ban. And there was a king, Kṛṣṇacandra. So the kings would relax by joking words by the jokers. That was system formerly. So Gopal Ban was constructing a house. So the king advised another friend that "If you go to his new house and evacuate"---because the house is not yet opened, not yet established---"then I'll give you one thousand rupees."
 

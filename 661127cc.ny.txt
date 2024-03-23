@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.125 ======
 
----- dataentry spoken ----
-id_hidden        : 661127cc.ny
-listtype_hidden  : Cc. Madhya 20.125
-listdate_hidden  : 1966-11-27
-showdate_hidden  : 2023-11-27
-listplace_hidden : New York
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : November 27
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.125
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661127cc.ny.mp3|Cc. Madhya 20.125 — November 27, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > abhidheya-nāma 'bhakti', 'prema'-prayojana

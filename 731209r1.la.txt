@@ -9,24 +9,6 @@
 
 ====== Room Conversation with British Professor ======
 
----- dataentry spoken ----
-id_hidden        : 731209r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-12-09
-showdate_hidden  : 2023-12-09
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : December 9
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 32:22
-Title_hidden     : Room Conversation with British Professor
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731209r1.la.mp3|Room Conversation with British Professor — December 9, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...is that at the ultimate issue, God is person.
 

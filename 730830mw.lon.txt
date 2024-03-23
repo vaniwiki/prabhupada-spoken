@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730830mw.lon
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-08-30
-showdate_hidden  : 2023-08-30
-listplace_hidden : London
-Type_spoken      : Morning Walk
-Date_spoken      : August 30
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 42:38
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730830mw.lon.mp3|Morning Walk — August 30, 1973, London}}
-</audio>
-
 **David Lawrence:**
 ...in fact we're now able to think in terms of the date for the production of the booklet, erm, and also for the teachers' pack. If you remember, that's a very important thing, this teachers' pack. The record. And George has expressed very great enthusiasm about the booklet.
 

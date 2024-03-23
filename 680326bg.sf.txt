@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.1 ======
 
----- dataentry spoken ----
-id_hidden        : 680326bg.sf
-listtype_hidden  : Bg 7.1
-listdate_hidden  : 1968-03-26
-showdate_hidden  : 2023-03-26
-listplace_hidden : San Francisco
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 26
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 7.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680326bg.sf.mp3|Bg 7.1 — March 26, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 
 > mayy āsakta-manāḥ pārtha

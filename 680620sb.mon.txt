@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.4.25 ======
 
----- dataentry spoken ----
-id_hidden        : 680620sb.mon
-listtype_hidden  : SB 1.4.25
-listdate_hidden  : 1968-06-20
-showdate_hidden  : 2023-06-20
-listplace_hidden : Montreal
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 20
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.4.25
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680620sb.mon.mp3|SB 1.4.25 — June 20, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 
 > oṁ ajñāna-timirāndhasya

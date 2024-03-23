@@ -9,24 +9,6 @@
 
 ====== Departure Address ======
 
----- dataentry spoken ----
-id_hidden        : 740725dp.ny
-listtype_hidden  : Departure Address
-listdate_hidden  : 1974-07-25
-showdate_hidden  : 2023-07-25
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : July 25
-Year_spoken      : 1974
-Place_spoken     : New York
-Length_hidden    : 14:22
-Title_hidden     : Departure Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740725dp.ny.mp3|Departure Address — July 25, 1974, New York}}
-</audio>
-
 **Prabhupāda:**
 //Karma karoti sa sannyāsī// [[books:bg:6:1|[Bg. 6.1]]]. The mission of //sannyāsī// is given in the //Bhagavad-gītā. Karmī. Karmī// means he works, and he wants to enjoy the fruit. That is //karmī.// But Bhagavān, Kṛṣṇa, said, //anāśritaḥ karma-phalaṁ// [[books:bg:6:1|[Bg. 6.1]]]: one who does not take the result of //karma...// Suppose you are a businessman. So you are working very hard, earning $50,000. If you don’t take that, then you are //sannyāsī. Anāśritaḥ karma-phalaṁ, kāryaṁ:// it is my duty. So if he does not take the result of //karma,// who will take? Kṛṣṇa said, //kuruṣva tat mad-arpaṇa:// "Give Me." [laughter] //Kuruṣva tat mad-arpaṇam. Yat karoṣi, yaj juhoṣi, yad aśnāsi, yat tapasyasi kuruṣva// [[books:bg:9:27|[Bg. 9.27]]]. This is life. You read Eighteenth Chapter, very nice verse. To give up the //karma phalaṁ,// the result of your work, to Kṛṣṇa---that is real //sannyāsa;// that is real renunciation. [aside to devotee:] So you try to impress on that way. You have got [indistinct] at Los Angeles, and uncover [indistinct] you can see? Send directly to Bali-mardana.
 

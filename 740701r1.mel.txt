@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Bhūrijana and Other Devotees ======
 
----- dataentry spoken ----
-id_hidden        : 740701r1.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : July 1
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 37:17
-Title_hidden     : Room Conversation with Bhūrijana and Other Devotees
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740701r1.mel.mp3|Room Conversation with Bhūrijana and Other Devotees — July 1, 1974, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 That is sense. [laughs] Otherwise nonsense, that's all. It is up to us to take up the sense or nonsense. The direction is there. What Arjuna said?
 

@@ -9,24 +9,6 @@
 
 ====== Morning Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770430r1.bom
-listtype_hidden  : Morning Conversation
-listdate_hidden  : 1977-04-30
-showdate_hidden  : 2023-04-30
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 30
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 34:10
-Title_hidden     : Morning Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770430r1.bom.mp3|Morning Conversation — April 30, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Women should be taken care of---as daughter, as wife, as mother. //Bās.// No freedom. Then prostitution. Then spoiled the whole thing. Unwanted children, contraceptive, abortion. Very dangerous. In our society there are girls. They should live separately. They should be given full engagement, taken care of. No mixing. Then it will be spoiled. Both of them will be... We see big, big workers, //sannyāsīs.// Madhudvisa fell victim. The example is given: fire and butter. [laughs] You cannot say the butter will not melt even in fire. Woman is like fire, and man is like butter.
 

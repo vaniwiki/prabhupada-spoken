@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.45 ======
 
----- dataentry spoken ----
-id_hidden        : 750726sb.lb
-listtype_hidden  : SB 6.1.45
-listdate_hidden  : 1975-07-26
-showdate_hidden  : 2023-07-26
-listplace_hidden : Laguna Beach
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 26
-Year_spoken      : 1975
-Place_spoken     : Laguna Beach
-Length_hidden    : 32:39
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.45
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750726sb.lb.mp3|SB 6.1.45 — July 26, 1975, Laguna Beach}}
-</audio>
-
 **Nitāi:** Translation: "In this life, any person, to the proportionate degree of the varieties of work, either religious or irreligious, as they are performed in the next life also, the same person to the same degree, the same variety, the resultant action of his karma must enjoy or suffer."
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.16.25–30 ======
 
----- dataentry spoken ----
-id_hidden        : 740121sb.hon
-listtype_hidden  : SB 1.16.25–30
-listdate_hidden  : 1974-01-21
-showdate_hidden  : 2023-01-21
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 21
-Year_spoken      : 1974
-Place_spoken     : Honolulu
-Length_hidden    : 47:27
-Title_hidden     : Śrīmad-Bhāgavatam 1.16.25–30
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740121sb.hon.mp3|SB 1.16.25-30 — January 21, 1974, Honolulu}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse]
 

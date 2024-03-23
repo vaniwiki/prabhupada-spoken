@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Peter ======
 
----- dataentry spoken ----
-id_hidden        : 730901r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-09-01
-showdate_hidden  : 2023-09-01
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : September 1
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 20:22
-Title_hidden     : Room Conversation with Peter
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730901r1.lon.mp3|Room Conversation with Peter — September 1, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 ...that there is no brain behind this creation. How foolish they are.
 

@@ -9,24 +9,6 @@
 
 ====== Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 740213le.vrn
-listtype_hidden  : Lecture [Hindi]
-listdate_hidden  : 1974-02-13
-showdate_hidden  : 2023-02-13
-listplace_hidden : Vṛndāvana
-Type_spoken      : Hindi
-Date_spoken      : February 13
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 13:18
-Title_hidden     : Lecture [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740213le.vrn_hindi.mp3|Lecture [Hindi] — February 13, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Vaisnava Gentlemen and Mothers, You all by your mercy have respected me for that I am very grateful to you. I do not have any qualification, but by God’s grace, By Guru’s and Vaiṣṇava's grace, in the age of seventy years, I went to New York, United States of America, By God’s inspiration my Guru Mahārāja who was the acharya of the Gaudiya Vaiṣṇava Sampradāya //Śrīmad// Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda, his intense desire was that in western countries, Śrī Caitanya Mahāprabhu's words, be preached very nicely. In this topic his efforts were very serious and my God brothers were also trying, but they could not achieve any special success, that is why at the age of seventy years, here in Vṛndāvana, at your lotus feet, I was staying at Radha Damodar temple and by God’s inspiration, I thought of going to America, and before going there, by God’s grace, I started writing commentary on //Śrīmad-Bhāgvatam// in English, In this Radha Damodar temple I used to sit and write and then I used to go to Delhi and get it printed, Thus three cantos of //Bhāgvatam// were complete in 1965, at that time with great difficulty I went to America.
 

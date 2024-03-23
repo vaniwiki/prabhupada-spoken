@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.2.5–8 ======
 
----- dataentry spoken ----
-id_hidden        : 710110sb.cal
-listtype_hidden  : SB 6.2.5–8
-listdate_hidden  : 1971-01-10
-showdate_hidden  : 2023-01-10
-listplace_hidden : Calcutta
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 10
-Year_spoken      : 1971
-Place_spoken     : Calcutta
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.2.5–8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710110sb.cal.mp3|SB 6.2.5-8 — January 10, 1971, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 
 > yasyāṅke śira ādhāya

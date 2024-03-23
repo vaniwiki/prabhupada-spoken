@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 680402le.sf
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-04-02
-showdate_hidden  : 2023-04-02
-listplace_hidden : San Francisco
-Type_spoken      : Lecture
-Date_spoken      : April 2
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680402le.sf.mp3|Lecture — April 2, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 ...consciousness movement was started five hundred years before by Lord Caitanya. This is not a new movement. Practically, it is as old as the creation of this world, but as things change in course of time, so it required rejuvenation. So this movement was rejuvenated about five hundred years ago. Before that, Lord Kṛṣṇa... You might have heard His name. Most of you have read //Bhagavad-gītā,// the famous philosophical doctrine of Indian Vedānta philosophy. Lord Kṛṣṇa instructed //Bhagavad-gītā// in the Battlefield of Kurukṣetra five thousand years ago. This Kṛṣṇa consciousness movement means the last instruction of the //Bhagavad-gītā.// In the //Bhagavad-gītā// we find everything complete so far God consciousness is required. The first and foremost qualification to understand the science of God or to become Kṛṣṇa conscious is to understand yourself. The first thing is what you are or what I am. In the Battlefield of Kurukṣetra this perplexed question was there before Arjuna. Arjuna was to fight with his brothers and relatives on the other side to decide who shall be the emperor of the region. So in the Battlefield of Kurukṣetra, when he actually came in front of his relatives, he decided that "It is no good fighting with my relatives and taking the kingdom. Better I shall beg. I don't want this kingdom." That is a very nice proposal, nonviolence, not to fight. But on this point the //Bhagavad-gītā,// or the science of God, developed from the lips of the Supreme Personality of Godhead, Kṛṣṇa.
 

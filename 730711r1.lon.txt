@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Guest ======
 
----- dataentry spoken ----
-id_hidden        : 730711r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-11
-showdate_hidden  : 2023-07-11
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 11
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 06:54
-Title_hidden     : Room Conversation with Guest
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730711r1.lon.mp3|Room Conversation with Guest — July 11, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 So I do not know why these people protest against me. Kṛṣṇa says, Śukadeva Gosvāmī says, Caitanya Mahāprabhu says. I do not know what Śaṅkarācārya says, but...
 

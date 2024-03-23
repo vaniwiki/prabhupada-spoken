@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 1.32–35 ======
 
----- dataentry spoken ----
-id_hidden        : 730725bg.lon
-listtype_hidden  : Bg 1.32–35
-listdate_hidden  : 1973-07-25
-showdate_hidden  : 2023-07-25
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 25
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 45:11
-Title_hidden     : Bhagavad-gītā 1.32–35
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730725bg.lon.mp3|Bg 1.32-35 — July 25, 1973, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse]
 

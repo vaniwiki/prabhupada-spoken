@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.20 ======
 
----- dataentry spoken ----
-id_hidden        : 740930sb.may
-listtype_hidden  : SB 1.8.20
-listdate_hidden  : 1974-09-30
-showdate_hidden  : 2023-09-30
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 30
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 33:56
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740930sb.may.mp3|SB 1.8.20 — September 30, 1974, Māyāpur}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse, etc.]
 

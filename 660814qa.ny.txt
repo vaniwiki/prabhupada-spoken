@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.34, Questions & Answers ======
 
----- dataentry spoken ----
-id_hidden        : 660814qa.ny
-listtype_hidden  : Bg 4.34, Q & A
-listdate_hidden  : 1966-08-14
-showdate_hidden  : 2023-08-14
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : August 14
-Year_spoken      : 1968
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 4.34, Questions & Answers
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660814qa.ny.mp3|Bg 4.34, Q & A — August 14, 1968, New York}}
-</audio>
-
 **Prabhupāda:**
 Brahman and Supersoul, we have been discussing this morning... Perhaps just we began the verse and you have forgot. Just like myself, I am soul, the spiritual soul. My place is within this heart. Now, in the medical science, they have found it that the heart is the center of all vitality of this body. Modern materialistic science they have found that whatever we are eating, it is going to the stomach and it is being transformed into various types of secretions, and the important secretion is coming to the heart and it is becoming red by coming to the heart. Then again from the heart there are many veins; it is being distributed to different parts of the body. So... But they could not found that where is the point wherefrom this vitality is coming. Wherefrom this vitality is coming? They could not find it. They have localized that here is the source of all energy.
 

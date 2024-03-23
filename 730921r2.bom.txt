@@ -9,24 +9,6 @@
 
 ====== Room Conversation with American Banker ======
 
----- dataentry spoken ----
-id_hidden        : 730921r2.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-09-21
-showdate_hidden  : 2023-09-21
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : September 21
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 88:02
-Title_hidden     : Room Conversation with American Banker
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730921r2.bom.mp3|Room Conversation with American Banker — September 21, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 All these things are, they are simply //māyā. Māyā-sukhāya bharam udvahato vimūḍhān// [[books:sb:7:9:43|[SB 7.9.43]]]. These rascal, they are working so hard, making gorgeous arrangement. For what? For illusory sense gratification. That sense gratification is also false. Real sense gratification is in Kṛṣṇa and //kṛṣṇa-dhāma. Hlādinī, sandhinī, saṁvit,// perverted in this material life. //Āhlāda-tapa-kārī miśrayate tair na guṇa-varjite//[?]. Here //āhlāda,// pleasure, and //tapa-kārī,// pain, and mixture of //āhlāda.// This is the position. //Tair na guṇa-varjite//[?].
 

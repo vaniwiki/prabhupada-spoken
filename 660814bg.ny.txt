@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.34 ======
 
----- dataentry spoken ----
-id_hidden        : 660814bg.ny
-listtype_hidden  : Bg 4.34
-listdate_hidden  : 1966-08-14
-showdate_hidden  : 2023-08-14
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : August 14
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 4.34
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660814bg.ny.mp3|Bg 4.34 — August 14, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > tad viddhi praṇipātena

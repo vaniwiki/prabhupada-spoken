@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770522r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-05-22
-showdate_hidden  : 2023-05-22
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : May 22
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 19:18
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770522r1.vrn.mp3|Room Conversation — May 22, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 The system of management will go on as it is now. There is no need of changing. The money which is in my personal name in different banks, that is being spent for the Society, and it will be Society's property. In this connection a few deposits, which is allowing some pension to the members of my former family, may not be touched. That's all, two points. Hmm? What do you think? So...?
 

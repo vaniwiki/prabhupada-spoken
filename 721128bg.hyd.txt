@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.24 ======
 
----- dataentry spoken ----
-id_hidden        : 721128bg.hyd
-listtype_hidden  : Bg 2.24
-listdate_hidden  : 1972-11-28
-showdate_hidden  : 2023-11-28
-listplace_hidden : Hyderabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 28
-Year_spoken      : 1972
-Place_spoken     : Hyderabad
-Length_hidden    : 47:43
-Title_hidden     : Bhagavad-gītā 2.24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721128bg.hyd.mp3|Bg 2.24 — November 28, 1972, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 
 > acchedyo 'yam adāhyo 'yam

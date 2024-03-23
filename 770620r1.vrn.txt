@@ -9,24 +9,6 @@
 
 ====== Talk with Svarūpa Dāmodara ======
 
----- dataentry spoken ----
-id_hidden        : 770620r1.vrn
-listtype_hidden  : Talk with Svarūpa Dāmodara
-listdate_hidden  : 1977-06-20
-showdate_hidden  : 2023-06-20
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 20
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 14:25
-Title_hidden     : Talk with Svarūpa Dāmodara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770620r1.vrn.mp3|Talk with Svarūpa Dāmodara — June 20, 1977, Vṛndāvana}}
-</audio>
-
 **Svarūpa Dāmodara:**
 ...Calcutta yesterday all day. I was stranded for several hours.
 

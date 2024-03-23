@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.14 ======
 
----- dataentry spoken ----
-id_hidden        : 720817sb.la
-listtype_hidden  : SB 1.2.14
-listdate_hidden  : 1972-08-17
-showdate_hidden  : 2023-08-17
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 17
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 55:18
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720817sb.la.mp3|SB 1.2.14 — August 17, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [sings //Jaya Rādhā-Mādhava//] [//prema-dhvani//] Thank you very much.
 

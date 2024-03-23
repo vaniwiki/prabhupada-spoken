@@ -9,24 +9,6 @@
 
 ====== Ratha-yātrā ======
 
----- dataentry spoken ----
-id_hidden        : 710627r2.sf
-listtype_hidden  : Ratha-yātrā
-listdate_hidden  : 1971-06-27
-showdate_hidden  : 2023-06-27
-listplace_hidden : San Francisco
-Type_spoken      : Room Conversation
-Date_spoken      : June 27
-Year_spoken      : 1971
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Ratha-yātrā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710627r2.sf.mp3|Ratha-yātrā — June 27, 1971, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 //Jagannātha svāmī nayana-pathagāmī bhavatu me.// [crowd repeats] Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare/ Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. [crowd repeats] Thank you very much. Ladies and Gentlemen, I thank you very much for your kindly participating in this great Ratha-yatra festival. I have already explained what is this Ratha-yatra festival. It is in commemoration of a grand visit by Lord Kṛṣṇa along with His elder brother, Balarāma, and His younger sister, Subhadrā, in a solar eclipse ceremony at Kurukṣetra. This occasion is the subject matter of this Ratha-yatra festival. Apart from these historical references in the matter of Ratha-yatra festival, there is another spiritual meaning, that the Lord is situated in everyone's heart, and this body is just like //ratha,// or car. He is sitting in everyone's heart. It is stated in the //Bhagavad-gītā, sarvasya cāhaṁ hṛdi sanniviṣṭaḥ:// "I am sitting in everyone's heart." //Mattaḥ smṛtir jñānam apohanaṁ ca:// [[books:bg:15:15|[Bg. 15.15]]] "I am giving everyone the intelligence as well as I am taking away the intelligence from everyone." This double work is being done by the Supersoul. In one side He is helping how to realize self, how to realize God, and other side He is helping also to forget God. How is it that the Supreme Personality of Godhead, as //paramātmā,// is doing this double work? The sense is that if we want to forget God, God will help us in such a way that we'll forget God life after life. But if we want to reestablish our relationship with God, from within He will help us in every way.
 

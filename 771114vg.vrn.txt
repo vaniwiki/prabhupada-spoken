@@ -9,22 +9,4 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771114vg.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-14
-showdate_hidden  : 2023-11-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 14
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 16:04
-Title_hidden     : Prabhupāda Vigil
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771114vg.vrn.mp3|Room Conversation — November 14, 1977, Vṛndāvana}}
-</audio>
-
 [Pradyumna chanting //mantras// with devotees chanting loud //kīrtana//] [end]

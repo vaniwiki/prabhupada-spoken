@@ -9,24 +9,6 @@
 
 ====== Purport to Prayers by King Kulaśekhara ======
 
----- dataentry spoken ----
-id_hidden        : 681225pu.la
-listtype_hidden  : Prayers by King Kulaśekhara
-listdate_hidden  : 1968-12-25
-showdate_hidden  : 2023-12-25
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : December 25
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Prayers by King Kulaśekhara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681225pu.la.mp3|Purport to Prayers by King Kulaśekhara — December 25, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...verse was sung by King Kulaśekhara, a great king, and, at the same time, a great devotee of the Lord. His songs are recorded in the book known as //Mukunda-mālā-stotra.// That is very famous book. It is sung by many devotees. So it does not matter whether a man is king, or a poor mendicant. Everyone has the facility to become the greatest devotee of the Lord. So he's praying "My dear Kṛṣṇa, Your feet is lotus." Generally we say "Lotus feet". But where the lotus flower is there, the white swans, they come to the lotus flower and try to play with the stem. They sport, going down the water, and be entangled with the stem of that lotus flower. That is their sporting. So King Kulaśekhara is praying that "Let the swan of my mind be immediately entered into the network of the stem of Your lotus feet." So that means he wants to engage his mind on the lotus feet of the Lord immediately. There is no question of delaying. He says that "Now I am in sound mind. If I think that I shall think of Your lotus feet at the time of death, there is no certainty. Because, at the time of death, the whole body becomes dislocated. The whole function becomes dismantled."
 

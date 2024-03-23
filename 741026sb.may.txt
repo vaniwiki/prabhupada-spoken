@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.46 ======
 
----- dataentry spoken ----
-id_hidden        : 741026sb.may
-listtype_hidden  : SB 1.8.46
-listdate_hidden  : 1974-10-26
-showdate_hidden  : 2023-10-26
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 26
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 21:52
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.46
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741026sb.may.mp3|SB 1.8.46 — October 26, 1974, Māyāpur}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

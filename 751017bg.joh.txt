@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.1–11 ======
 
----- dataentry spoken ----
-id_hidden        : 751017bg.joh
-listtype_hidden  : Bg 2.1–11
-listdate_hidden  : 1975-10-17
-showdate_hidden  : 2023-10-17
-listplace_hidden : Johannesburg
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 17
-Year_spoken      : 1975
-Place_spoken     : Johannesburg
-Length_hidden    : 47:28
-Title_hidden     : Bhagavad-gītā 2.1–11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751017bg.joh.mp3|Bg 2.1-11 — October 17, 1975, Johannesburg}}
-</audio>
-
 **Prabhupāda:**
 I shall speak some verses from //Bhagavad-gītā,// Second Chapter, in which the Supreme Personality of Godhead, Kṛṣṇa, instructed. The beginning of instruction is the Second Chapter of //Bhagavad-gītā.// So Arjuna, representing ourself, conditioned soul, covered with the material body and thinking in bodily conception of life... He was to fight with his brothers, nephews, grandfather, Bhīṣmadeva, also teacher the military science, Droṇācārya. In this way the business was not very palatable. Although he was forced to fight, but the opposite party who were very near, thick and thin people, and he had to kill them, so it was not very satisfactory to him. Therefore he flatly denied to fight: "Kṛṣṇa, I am not going to fight." He left his weapon, and then Kṛṣṇa was surprised that "My friend, Arjuna, he is denying to fight in My presence."
 

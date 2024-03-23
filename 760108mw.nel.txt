@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760108mw.nel
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Nellore
-Type_spoken      : Morning Walk
-Date_spoken      : January 8
-Year_spoken      : 1976
-Place_spoken     : Nellore
-Length_hidden    : 32:18
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760108mw.nel.mp3|Morning Walk — January 8, 1976, Nellore}}
-</audio>
-
 **Mahāṁsa:**
 They say there are many old temples which need renovation, so they will spend the money for the renovation of old temples but not construct new temples.
 

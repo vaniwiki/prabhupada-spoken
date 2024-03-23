@@ -9,24 +9,6 @@
 
 ====== Room Conversation on Farm Management ======
 
----- dataentry spoken ----
-id_hidden        : 761210r1.hyd
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-10
-showdate_hidden  : 2023-12-10
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : December 10
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 44:04
-Title_hidden     : Room Conversation on Farm Management
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761210r1.hyd.mp3|Room Conversation on Farm Management — December 10, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 Make very nice, palatable //prasādam.// We shall spend for that. Why miserly? There is no need of miserly. You are going to earn money by agricultural produce, so how the money will be utilized? It will be utilized for Kṛṣṇa's purpose. By //prasādam,// by chanting, by drama, somehow or other bring them. That is our mission. Congregational chanting. Always festival, and we shall spend for that. Immediately arrange. If there is scarcity of money, I shall pay, but from... Bring them, somehow or other. Tomorrow I want to see at least 500 men. Make arrangement like that. I came here to see that, not to sit down in a room peacefully. So there also we shall inform the meeting that we want to propagate this Kṛṣṇa consciousness movement town to town, village to village, by attracting them with musical demonstration of //saṅkīrtana,// dramatic play, movie, //prasādam.// Somehow or other they should come to the temple, to the //paṇḍāl,// and congregationally chant Hare Kṛṣṇa //mahā-mantra,// hear //Bhagavad-gītā, Bhāgavatam.// For this purpose, whatever expenditure is required, that you should collect and spend. This is the scheme of Hare Kṛṣṇa movement. You must come here, question, understand, and vigorous propaganda should be inaugurated town to town, village to village. Those who are educated, to them distribution of literature. The school, college, library, institution, university, by scholarly presentation. That is wanted. What is that?
 

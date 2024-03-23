@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 8.22–27 ======
 
----- dataentry spoken ----
-id_hidden        : 661120bg.ny
-listtype_hidden  : Bg 8.22–27
-listdate_hidden  : 1966-11-20
-showdate_hidden  : 2023-11-20
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 20
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 8.22–27
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661120bg.ny.mp3|Bg 8.22-27 — November 20, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > puruṣaḥ sa paraḥ pārtha

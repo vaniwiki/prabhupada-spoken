@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.7 ======
 
----- dataentry spoken ----
-id_hidden        : 761029sb.vrn
-listtype_hidden  : SB 5.5.7
-listdate_hidden  : 1976-10-29
-showdate_hidden  : 2023-10-29
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 29
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 33:04
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761029sb.vrn.mp3|SB 5.5.7 — October 29, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:** Translation: "Even though one may be very learned and wise, he is mad if he does not understand that the endeavor for sense gratification is a useless waste of time. Being forgetful of his own interest, he tries to be happy in the material world, centering his interests around his home, which is based on sexual intercourse and which brings him all kinds of material miseries. In this way one is no better than a foolish animal."
 
 **Prabhupāda:**

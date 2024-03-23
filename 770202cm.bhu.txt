@@ -9,24 +9,6 @@
 
 ====== Foundation Stone Ceremony Speech ======
 
----- dataentry spoken ----
-id_hidden        : 770202cm.bhu
-listtype_hidden  : Foundation Stone
-listdate_hidden  : 1977-02-02
-showdate_hidden  : 2023-02-02
-listplace_hidden : Bhubaneswar
-Type_spoken      : Lecture
-Date_spoken      : February 2
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 10:16
-Title_hidden     : Foundation Stone Ceremony Speech
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770202cm.bhu.mp3|Foundation Stone Ceremony Speech — February 2, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 My foreign disciples, they could not understand either Hindu or Oriya. So for this movement, I am very much obliged to these American boys. The history of this movement is that my Guru Mahārāja, His Divine Grace Bhaktisiddhānta Sarasvatī Ṭhākura, and before him, Bhaktivinoda Ṭhākura, they had an intense desire to preach Caitanya Mahāprabhu's message throughout the whole world. That was the intense desire of Caitanya Mahāprabhu.
 

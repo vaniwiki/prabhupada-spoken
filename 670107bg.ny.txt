@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 10.8 ======
 
----- dataentry spoken ----
-id_hidden        : 670107bg.ny
-listtype_hidden  : Bg 10.8
-listdate_hidden  : 1967-01-07
-showdate_hidden  : 2023-01-07
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : January 7
-Year_spoken      : 1967
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 10.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670107bg.ny.mp3|Bg 10.8 — January 7, 1967, New York}}
-</audio>
-
 **Prabhupāda:**
 So we have caught up the original person, //ādi-puruṣa.// We have found out the root of everything. In the //Bhagavad-gītā// it is said,
 

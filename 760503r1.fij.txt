@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760503r1.fij
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-03
-showdate_hidden  : 2023-05-03
-listplace_hidden : Fiji
-Type_spoken      : Room Conversation
-Date_spoken      : May 3
-Year_spoken      : 1976
-Place_spoken     : Fiji
-Length_hidden    : 14:15
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760503r1.fij.mp3|Room Conversation — May 3, 1976, Fiji}}
-</audio>
-
 **Prabhupāda:**
 ...they used to discover, whole method is finished.
 

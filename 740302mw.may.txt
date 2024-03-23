@@ -9,24 +9,6 @@
 
 ====== Morning Walk, [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 740302mw.may
-listtype_hidden  : Morning Walk, [partially recorded]
-listdate_hidden  : 1974-03-02
-showdate_hidden  : 2023-03-02
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : March 2
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 06:25
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740302mw.may.mp3|Morning Walk, [partially recorded] — March 2, 1974, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...recognized as "American temple." What is this Maṭha? Śrī Caitanya...
 

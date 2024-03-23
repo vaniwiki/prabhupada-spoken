@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Reporter ======
 
----- dataentry spoken ----
-id_hidden        : 760604iv.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-04
-showdate_hidden  : 2023-06-04
-listplace_hidden : Los Angeles
-Type_spoken      : Interview
-Date_spoken      : June 4
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 25:48
-Title_hidden     : Room Conversation with Reporter
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760604iv.la.mp3|Room Conversation with Reporter — June 4, 1976, Los Angeles}}
-</audio>
-
 **Reporter:**
 I wonder if you can tell me a little bit about your routine. I understand that you only sleep about two or three hours a day. And do you usually sleep during the middle of the daytime as well?
 

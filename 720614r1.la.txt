@@ -9,24 +9,6 @@
 
 ====== Room Conversation with John Fahey ======
 
----- dataentry spoken ----
-id_hidden        : 720614r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-06-14
-showdate_hidden  : 2023-06-14
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 14
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 43:18
-Title_hidden     : Room Conversation with John Fahey [famous musician]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720614r1.la.mp3|Room Conversation with John Fahey — June 14, 1972, Los Angeles}}
-</audio>
-
 **John Fahey:**
 I think I made twelve in total. Twelve that I know of. Two that aren't out.
 

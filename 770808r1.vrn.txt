@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770808r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-08-08
-showdate_hidden  : 2023-08-08
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : August 8
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 46:43
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770808r1.vrn.mp3|Room Conversation — August 8, 1977, Vṛndāvana}}
-</audio>
-
 **Gopāla Kṛṣṇa:**
 ...the same man that Ātreya Ṛṣi went and met.
 

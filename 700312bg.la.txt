@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.1 ======
 
----- dataentry spoken ----
-id_hidden        : 700312bg.la
-listtype_hidden  : Bg 7.1
-listdate_hidden  : 1970-03-12
-showdate_hidden  : 2023-03-12
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 12
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 7.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700312bg.la.mp3|Bg 7.1 — March 12, 1970, Los Angeles}}
-</audio>
-
 **Devotee:**
 "Now hear, O son of Pṛthā [Arjuna], how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt." Purport.
 

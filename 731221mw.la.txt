@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731221mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-21
-showdate_hidden  : 2023-12-21
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 21
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 34:12
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731221mw.la.mp3|Morning Walk — December 21, 1973, Los Angeles}}
-</audio>
-
 **Prajāpati:**
 His name is Harvey Cox, and he's at Harvard University, and his books are read by millions of people. As soon as one of his books come out, everybody looks. So he..., in this new book, his basic thesis is that God is especially interested to the causes of the poor people, and the poor people are much closer to God than anyone else.
 

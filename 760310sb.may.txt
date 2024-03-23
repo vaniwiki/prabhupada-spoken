@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.32 ======
 
----- dataentry spoken ----
-id_hidden        : 760310sb.may
-listtype_hidden  : SB 7.9.32
-listdate_hidden  : 1976-03-10
-showdate_hidden  : 2023-03-10
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 10
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 24:48
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.32
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760310sb.may.mp3|SB 7.9.32 — March 10, 1976, Māyāpur}}
-</audio>
-
 **Puṣṭa Kṛṣṇa:** Translation: "O my Lord, the Supreme Personality of Godhead, after annihilation, the creative energy is kept in Yourself, but the energy being put within Yourself, it appears that You are sleeping with half-closed eyes. Actually, there is no sleeping like an ordinary human being. You are always in the transcendental stage, beyond the creation of the material world, and You always feel in transcendental bliss. In this way, You, Kāraṇodakaśāyī Viṣṇu, remain in Your transcendental status, but although it appears that Kāraṇodakaśāyī Viṣṇu is sleeping, it is not that; sleeping distinct from sleeping in ignorance."
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 1.40 ======
 
----- dataentry spoken ----
-id_hidden        : 730728bg.lon
-listtype_hidden  : Bg 1.40
-listdate_hidden  : 1973-07-28
-showdate_hidden  : 2023-07-28
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 28
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 47:50
-Title_hidden     : Bhagavad-gītā 1.40
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730728bg.lon.mp3|Bg 1.40 — July 28, 1973, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse] [Prabhupāda and devotees repeat]
 

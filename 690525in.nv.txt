@@ -9,25 +9,6 @@
 
 ====== Brāhmaṇa Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690525in.nv # 
-listtype_hidden  : Brāhmaṇa Initiation Lecture # 
-listdate_hidden  : 1969-05-25
-showdate_hidden  : 2023-05-25 #
-listplace_hidden : New Vrindaban # 
-Type_spoken      : Initiation # 
-Date_spoken      : May 25 # 
-Year_spoken      : 1969 # 
-Place_spoken     : New Vrindavan # 
-Length_hidden    : 00:00 # 
-Title_hidden     : Brāhmaṇa Initiation Lecture # 
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690525in.nv.mp3|Brāhmaṇa Initiation Lecture — May 25, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 Practically in every initiation ceremony, //apavitraḥ pavitro vā, namaḥ. Namaḥ// means surrendering. //Namāmi:// "I surrender unto You. //He// Kṛṣṇa, I am surrendering to You." And //apavitraḥ pavitro vā. Apavitraḥ// means contaminated, and //pavitra// means liberated. So in either stage, either in the material, contaminated stage or in transcendental, liberated stage, //apavitraḥ pavitro vā sarvāvasthām,// in any situation... //Yaḥ smaret puṇḍarīkākṣam. Sarvāvasthāṁ gato 'pi vā.// In any circumstances, if somebody remembers, //smaret,// remembers //puṇḍarīkākṣam... Puṇḍarīka akṣam. Akṣam// means eyes. One who is lotus-eyed, Kṛṣṇa or Viṣṇu, //Puṇḍarīkākṣam,// anyone who remembers always or at anytime, Kṛṣṇa, //yaḥ smaret puṇḍarīkākṣam, sa,// that person... //Bahya. Bahya// means externally, and //abhyantaram// means internally. //Bahyābhyantaraṁ śuciḥ. Śuci// means //brāhmaṇa,// or //śuci// means completely cleansed. The //brāhmaṇa// means completely clean. The brahminical qualification is first of all cleanliness. //Satya śaucaṁ śamo dama titikṣa ārjavam, jñānaṁ vijñānam āstikyaṁ brahma-karma svabhāva-jam// [[books:bg:18:42|[Bg. 18.42]]]. To become //brāhmaṇa// means //satyam saucam.// First thing is truthful, and next, //śaucam,// very cleansed, internally and externally. Externally we can cleanse ourself by soap and water. That is necessary. Daily we should take bath with soap and water and oil. //Bahyābhyantaram.// And //abhyantaraṁ śuciḥ// means evacuating and cleansing. In yoga system there is a system they practice. They can get out all the intestines and cleanse it clearly. //Dhauti.// What do they know about this yoga system? They can take out the whole intestine and cleanse it nicely and again set it. So these are actually practicing yoga system. But who is going to do that? Simply a gymnastic process. So //śaucam,// cleanliness, is very necessary for advancing in spiritual life.
 

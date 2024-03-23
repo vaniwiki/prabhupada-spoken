@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.3.16–17 ======
 
----- dataentry spoken ----
-id_hidden        : 710210sb.gor
-listtype_hidden  : SB 6.3.16–17
-listdate_hidden  : 1971-02-10
-showdate_hidden  : 2023-02-10
-listplace_hidden : Gorakhpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 10
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.3.16–17
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710210sb.gor.mp3|SB 6.3.16-17 — February 10, 1971, Gorakhpur}}
-</audio>
-
 **Prabhupāda:**
 
 > yaṁ vai na gobhir manasāsubhir vā

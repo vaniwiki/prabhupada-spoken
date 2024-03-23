@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Tirupati Paṇḍita and Government Minister ======
 
----- dataentry spoken ----
-id_hidden        : 760824r3.hyd
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-08-24
-showdate_hidden  : 2023-08-24
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : August 24
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 16:12
-Title_hidden     : Room Conversation with Tirupati Paṇḍita and Government Minister
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760824r3.hyd.mp3|Room Conversation with Tirupati Paṇḍita and Government Minister — August 24, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 Nowadays people are taking to the imagination of industry. But we don't find in //Bhagavad-gītā,// there is any suggestion for industry. Kṛṣṇa said... [aside:] It started?
 

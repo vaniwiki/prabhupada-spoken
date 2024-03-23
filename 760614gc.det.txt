@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760614gc.det
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1976-06-14
-showdate_hidden  : 2023-06-14
-listplace_hidden : Detroit
-Type_spoken      : Room Conversation
-Date_spoken      : June 14
-Year_spoken      : 1976
-Place_spoken     : Detroit
-Length_hidden    : 132:52
-Title_hidden     : Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760614gc.det.mp3|Garden Conversation — June 14, 1976, Detroit}}
-</audio>
-
 **Mādhavānanda:**
 ...year. And it rises also very early.
 

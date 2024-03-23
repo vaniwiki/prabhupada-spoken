@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.6 ======
 
----- dataentry spoken ----
-id_hidden        : 760105sb.nel
-listtype_hidden  : SB 6.1.6
-listdate_hidden  : 1976-01-05
-showdate_hidden  : 2023-01-05
-listplace_hidden : Nellore
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 5
-Year_spoken      : 1976
-Place_spoken     : Nellore
-Length_hidden    : 25:26
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760105sb.nel.mp3|SB 6.1.6 — January 5, 1976, Nellore}}
-</audio>
-
 **Prabhupāda:**
 
 > adhuneha mahā-bhāga

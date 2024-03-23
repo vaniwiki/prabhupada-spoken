@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.2 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 761226sb.bom
-listtype_hidden  : SB 5.5.2 [Hindi]
-listdate_hidden  : 1976-12-26
-showdate_hidden  : 2023-12-26
-listplace_hidden : Bombay
-Type_spoken      : Hindi
-Date_spoken      : December 25
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 46:57
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.2 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761226sb.bom_hindi.mp3|SB 5.5.2 [Hindi] — December 25, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 So, day before yesterday I spoke in Hindi, yesterday in English. Today I shall speak in Hindi again? What do you think?
 

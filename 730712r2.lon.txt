@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Two Buddhist Monks ======
 
----- dataentry spoken ----
-id_hidden        : 730712r2.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-12
-showdate_hidden  : 2023-07-12
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 12
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 91:50
-Title_hidden     : Room Conversation with Two Buddhist Monks
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730712r2.lon.mp3|Room Conversation with Two Buddhist Monks — July 12, 1973, London}}
-</audio>
-
 **Buddhist Monk (1):**
 ...Living religion...
 

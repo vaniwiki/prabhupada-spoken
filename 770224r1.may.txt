@@ -9,24 +9,6 @@
 
 ====== Arrival of Devotees ======
 
----- dataentry spoken ----
-id_hidden        : 770224r1.may
-listtype_hidden  : Arrival of Devotees
-listdate_hidden  : 1977-02-24
-showdate_hidden  : 2023-02-24
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 24
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 24:06
-Title_hidden     : Arrival of Devotees
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770224r1.may.mp3|Arrival of Devotees — February 24, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 That man is unable... [break] What is that?
 

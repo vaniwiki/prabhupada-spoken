@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 710117rc.all
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-01-17
-showdate_hidden  : 2023-01-17
-listplace_hidden : Allahabad
-Type_spoken      : Room Conversation
-Date_spoken      : January 17
-Year_spoken      : 1971
-Place_spoken     : Allahabad
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710117rc.all.mp3|Room Conversation — January 17, 1971, Allahabad}}
-</audio>
-
 **Prabhupāda:**
 Vivekananda has influence here in higher class, among the educated class. They talk about Vivekananda and this and that, nonsense. In your country, fortunately, that opposition was not there. There was no influence of Vivekananda class men. Here amongst the educated class there is influence of all these rascals, Vivekananda, Aurobindo, and... That is one defect. But in the mass there is no influence. In the class, educated class. Because educated class means wine, women, meat, and Vivekananda allows this. That is the point. Vivekananda has no distinction of eating. "Eat any... All Brahman, all Nārāyaṇa. You are Nārāyaṇa. Goat is Nārāyaṇa. So Nārāyaṇa is going in the belly of Nārāyaṇa. What is the wrong? One Nārāyaṇa is going, being absorbed by another Nārāyaṇa." But he is not agreeable to be eaten by a tiger, another tiger Nārāyaṇa.
 

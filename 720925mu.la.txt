@@ -9,24 +9,6 @@
 
 ====== Jaya Rādhe Jaya Kṛṣṇa ======
 
----- dataentry spoken ----
-id_hidden        : 720925mu.la
-listtype_hidden  : Jaya Rādhe Jaya Kṛṣṇa
-listdate_hidden  : 1972-09-25
-showdate_hidden  : 2023-09-25
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : September 25
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 36:31
-Title_hidden     : Jaya Rādhe Jaya Kṛṣṇa
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720925mu.la.mp3|Jaya Rādhe Jaya Kṛṣṇa — September 25, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 I can sit here... Book?
 

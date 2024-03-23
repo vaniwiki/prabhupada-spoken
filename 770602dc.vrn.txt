@@ -9,24 +9,6 @@
 
 ====== Discussions Will & Affidavit ======
 
----- dataentry spoken ----
-id_hidden        : 770602dc.vrn
-listtype_hidden  : Will & Affidavit
-listdate_hidden  : 1977-06-02
-showdate_hidden  : 2023-06-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 2
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 32:37
-Title_hidden     : Discussions Will & Affidavit
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770602dc.vrn.mp3|Discussions Will & Affidavit — June 2, 1977, Vṛndāvana}}
-</audio>
-
 **Svarūpa Dāmodara:**
 ...this summer and he can come. We can provide free lodging and...
 

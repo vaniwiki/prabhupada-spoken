@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760518r2.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-18
-showdate_hidden  : 2023-05-18
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : May 18
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 10:01
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760518r2.bom.mp3|Room Conversation — May 18, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 Why not translate from the very beginning, in your own way?
 

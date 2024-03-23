@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740529mw.rom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-05-29
-showdate_hidden  : 2023-05-29
-listplace_hidden : Rome
-Type_spoken      : Morning Walk
-Date_spoken      : May 29
-Year_spoken      : 1974
-Place_spoken     : Rome
-Length_hidden    : 63:59
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740529mw.rom.mp3|Morning Walk — May 29, 1974, Rome}}
-</audio>
-
 **Prabhupāda:**
 ...advancement is different from others. There are three stages: bodily, mental, intellectual, and above that, spiritual. So we are propagating spiritual advance. Therefore those who are on the bodily platform, mental platform or intellectual platform, they cannot understand our process. //Na te viduḥ svārtha-gatiṁ hi viṣṇuṁ durāśayā ye bahir-artha-māninaḥ// [[books:sb:7:5:31|[SB 7.5.31]]]. //Bahiḥ// means external. Those who are captivated by the external feature, they cannot understand what we mean by Kṛṣṇa consciousness. The external feature, those who are on the bodily platform, they think this material advancement---big, big house, big, big road... This is also required, but this is not all. But they do not know that beyond this, there is other things which is really essential for the human form of... They are captivated by this, external, //bahiḥ.// Just like I am, //ahaṁ brahmāsmi,// I am Brahman, spirit soul. And this body is //bahiḥ,// the mind is //bahiḥ,// the intelligence is //bahiḥ.// That they cannot understand. This water is supplying, what is this?
 

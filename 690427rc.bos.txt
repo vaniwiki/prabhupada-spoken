@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 690427rc.bos
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1969-04-27
-showdate_hidden  : 2023-04-27
-listplace_hidden : Boston
-Type_spoken      : Room Conversation
-Date_spoken      : April 27
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690427rc.bos.mp3|Room Conversation — April 27, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 So we take account of past, present, future of this creation. When I say, "Some years ago I was there," that means within this creation. It does not go some years in your past creation. Do you follow what I say? Are you following what I am saying?
 

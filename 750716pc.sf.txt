@@ -9,24 +9,6 @@
 
 ====== Press Conference ======
 
----- dataentry spoken ----
-id_hidden        : 750716pc.sf
-listtype_hidden  : Press Conference
-listdate_hidden  : 1975-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : San Francisco
-Type_spoken      : Room Conversation
-Date_spoken      : July 16
-Year_spoken      : 1975
-Place_spoken     : San Francisco
-Length_hidden    : 30:18
-Title_hidden     : Press Conference
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750716pc.sf.mp3|Press Conference — July 16, 1975, San Francisco}}
-</audio>
-
 **Jayatīrtha:**
 The first question, which you can address yourself to on a general basis, is "What is Kṛṣṇa consciousness movement?"
 

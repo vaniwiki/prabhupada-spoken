@@ -9,24 +9,6 @@
 
 ====== Reporters’ Interview ======
 
----- dataentry spoken ----
-id_hidden        : 740629iv.mel
-listtype_hidden  : Reporters’ Interview
-listdate_hidden  : 1974-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : Melbourne
-Type_spoken      : Interview
-Date_spoken      : June 29
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 47:18
-Title_hidden     : Reporters’ Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740629iv.mel.mp3|Reporters’ Interview — June 29, 1974, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 ...comfortable, it will never be. Do you understand this? Fish is taken from the water and you put on the land, so you may give the fish very velvet cushion and anything, all nice thing, but will the fish will be comfortable?
 

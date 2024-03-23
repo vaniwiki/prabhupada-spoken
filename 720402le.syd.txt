@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 720402le.syd
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1972-04-02
-showdate_hidden  : 2023-04-02
-listplace_hidden : Sydney
-Type_spoken      : Lecture
-Date_spoken      : April 2
-Year_spoken      : 1972
-Place_spoken     : Sydney
-Length_hidden    : 01:47
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720402le.syd.mp3|Lecture [partially recorded] — April 2, 1972, Sydney}}
-</audio>
-
 **Prabhupāda:**
 So if one becomes a Vaiṣṇava under the principles of Caitanya Mahāprabhu, he can be lifted at once from any abominable condition, //śvapacaṁ variṣṭham// [[books:sb:7:9:10|[SB 7.9.10]]]. Just like //śvapacam,// the dog-eater, he becomes //variṣṭham,// better than a //brāhmaṇa.// Because why? Because he is a devotee.
 

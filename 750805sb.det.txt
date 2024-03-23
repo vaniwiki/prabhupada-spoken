@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.52 ======
 
----- dataentry spoken ----
-id_hidden        : 750805sb.det
-listtype_hidden  : SB 6.1.52
-listdate_hidden  : 1975-08-05
-showdate_hidden  : 2023-08-05
-listplace_hidden : Detroit
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 5
-Year_spoken      : 1975
-Place_spoken     : Detroit
-Length_hidden    : 34:14
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.52
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750805sb.det.mp3|SB 6.1.52 — August 5, 1975, Detroit}}
-</audio>
-
 **Nitāi:** "The foolish embodied living entity, inadept at controlling his senses and mind, although he does not desire to, he is forced to act by the different influences of the modes of material nature. He is just like the silkworm, who by the thread created from his own saliva creates a cocoon and becomes encaged in it without any possibility of getting out. The living entity has similarly engaged himself in a network of his own different fruitive activities and cannot find a way to get out of it. In that condition, he is always bewildered and repeatedly dies."
 
 [break]

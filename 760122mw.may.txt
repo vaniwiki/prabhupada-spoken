@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760122mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-01-22
-showdate_hidden  : 2023-01-22
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : January 22
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 41:44
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760122mw.may.mp3|Morning Walk — January 22, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 //Viṣaya...// [Bengali] This sense gratification, that is available everywhere. Hare Kṛṣṇa.
 

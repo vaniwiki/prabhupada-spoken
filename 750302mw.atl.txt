@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750302mw.atl
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-03-02
-showdate_hidden  : 2023-03-02
-listplace_hidden : Atlanta
-Type_spoken      : Morning Walk
-Date_spoken      : March 2
-Year_spoken      : 1975
-Place_spoken     : Atlanta
-Length_hidden    : 11:03
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750302mw.atl.mp3|Morning Walk — March 2, 1975, Atlanta}}
-</audio>
-
 **Prabhupāda:**
 Matter is also there, but matter means it is sometimes manifest, sometimes not. But life is always existing.
 

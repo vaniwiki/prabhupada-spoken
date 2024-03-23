@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 18.45 ======
 
----- dataentry spoken ----
-id_hidden        : 751011bg.dur
-listtype_hidden  : Bg 18.45
-listdate_hidden  : 1975-10-11
-showdate_hidden  : 2023-10-11
-listplace_hidden : Durban
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 11
-Year_spoken      : 1975
-Place_spoken     : Durban
-Length_hidden    : 46:01
-Title_hidden     : Bhagavad-gītā 18.45
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751011bg.dur.mp3|Bg 18.45 — October 11, 1975, Durban}}
-</audio>
-
 **Prabhupāda:**
 ...from //Bhagavad-gītā,// Eighteenth Chapter, verse number 42 to 45.
 

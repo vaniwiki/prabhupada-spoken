@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 680718le.mon
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1968-07-18
-showdate_hidden  : 2023-07-18
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : July 18
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680718le.mon.mp3|Lecture [partially recorded] — July 18, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 Cloud cannot cover the sun. There may be a cloud overcast in the sky for hundred miles, but even hundred miles, is it possible to cover the sun, hundred miles cloud? The sun is itself so many hundreds of thousand times more than this earth. So //māyā// cannot cover the Supreme Brahman. //Māyā// can cover the small particles Brahman. So we may become covered by //māyā// or cloud, but the Supreme Brahman is never covered by //māyā.// That is the difference of opinion between Māyāvāda philosophy and Vaiṣṇava philosophy. The Māyāvāda philosophy says that the Supreme is covered. The Supreme cannot be covered. Then how He becomes supreme? The covering becomes supreme. Oh, there are so many arguments and so many... But we follow that the cloud covers the small particles of sunshine. But sun remains as it is. And we practically see also when we go by jet plane, we are over the cloud. There is no cloud outside. Sun is clear. In the lower status there is some cloud. If you go thousands of miles up, we don't see any cloud. Everything sunshine. Is there any question?
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750926mw.ahm
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-09-26
-showdate_hidden  : 2023-09-26
-listplace_hidden : Ahmedabad
-Type_spoken      : Morning Walk
-Date_spoken      : September 26
-Year_spoken      : 1975
-Place_spoken     : Ahmedabad
-Length_hidden    : 42:34
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750926mw.ahm.mp3|Morning Walk — September 26, 1975, Ahmedabad}}
-</audio>
-
 **Prabhupāda:**
 ...position is if you can get a bungalow like this, and two cars, good wife, then life is successful. Is it not?
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 9.11 ======
 
----- dataentry spoken ----
-id_hidden        : 730630bg.cal
-listtype_hidden  : Bg 9.11
-listdate_hidden  : 1973-06-30
-showdate_hidden  : 2023-06-30
-listplace_hidden : Calcutta
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : June 30
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 38:23
-Title_hidden     : Bhagavad-gītā 9.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730630bg.cal.mp3|Bg 9.11 — June 30, 1973, Calcutta}}
-</audio>
-
 **Pradyumna:**
 //...yakṣeṇa prakṛtiḥ...// [[books:bg:9:10|[Bg. 9.10]]]
 

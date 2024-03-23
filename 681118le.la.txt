@@ -10,24 +10,6 @@
 
 ====== Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka ======
 
----- dataentry spoken ----
-id_hidden        : 681118le.la
-listtype_hidden  : Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka
-listdate_hidden  : 1968-11-18
-showdate_hidden  : 2023-11-18
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : November 18
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681118le.la.mp3|Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka — November 18, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 
 > kṛṣṇotkīrtana-gāna-nartana-parau premāmṛtāmbho-nidhi

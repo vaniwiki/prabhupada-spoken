@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740619mw.ger
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-06-19
-showdate_hidden  : 2023-06-19
-listplace_hidden : Germany
-Type_spoken      : Morning Walk
-Date_spoken      : June 19
-Year_spoken      : 1974
-Place_spoken     : Germany
-Length_hidden    : 39:06
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740619mw.ger.mp3|Morning Walk — June 19, 1974, Germany}}
-</audio>
-
 **Prabhupāda:**
 ...five items: no illicit sex, no gambling, no intoxication, no meat-eating, and chant sixteen rounds. Is it very difficult task?
 

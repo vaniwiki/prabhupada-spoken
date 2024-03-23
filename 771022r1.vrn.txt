@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771022r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-22
-showdate_hidden  : 2023-10-22
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 22
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 85:15
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771022r1.vrn.mp3|Room Conversation — October 22, 1977, Vṛndāvana}}
-</audio>
-
 **Bhavānanda:**
 Dosage on this medicine, do you know?
 

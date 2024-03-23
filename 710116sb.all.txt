@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.2.11 ======
 
----- dataentry spoken ----
-id_hidden        : 710116sb.all
-listtype_hidden  : SB 6.2.11
-listdate_hidden  : 1971-01-16
-showdate_hidden  : 2023-01-16
-listplace_hidden : Allahabad
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 16
-Year_spoken      : 1971
-Place_spoken     : Allahabad
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.2.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710116sb.all.mp3|SB 6.2.11 — January 16, 1971, Allahabad}}
-</audio>
-
 **Prabhupāda:**
 [Hindi] [sings //maṅgalacaraṇa// prayers] [aside:] That's all right.
 

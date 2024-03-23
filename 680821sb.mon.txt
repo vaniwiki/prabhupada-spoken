@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.13 ======
 
----- dataentry spoken ----
-id_hidden        : 680821sb.mon
-listtype_hidden  : SB 7.9.13
-listdate_hidden  : 1968-08-21
-showdate_hidden  : 2023-08-21
-listplace_hidden : Montreal
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 21
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.13
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680821sb.mon.mp3|SB 7.9.13 — August 21, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 
 > sarve hy amī vidhi-karās tava sattva-dhāmno

@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720626gc.la
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1972-06-26
-showdate_hidden  : 2023-06-26
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 26
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 39:46
-Title_hidden     : Garden Conversation with Professor Kulshrestha
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720626gc.la.mp3|Garden Conversation — June 26, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //...achedyam.// These are the... //Achedya,// can be cut into pieces. [indistinct] cannot be burned. Now the physist, chemist, they have got experience, everything burns, everything is melted; therefore it is metaphysical. What is metaphysical? What is the meaning of "meta"?
 

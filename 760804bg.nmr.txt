@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.24 ======
 
----- dataentry spoken ----
-id_hidden        : 760804bg.nmr
-listtype_hidden  : Bg 4.24
-listdate_hidden  : 1976-08-04
-showdate_hidden  : 2023-08-04
-listplace_hidden : New Māyāpur
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : August 4
-Year_spoken      : 1976
-Place_spoken     : New Māyāpur
-Length_hidden    : 20:07
-Title_hidden     : Bhagavad-gītā 4.24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760804bg.nmr.mp3|Bg 4.24 — August 4, 1976, New Māyāpur}}
-</audio>
-
 [class is held outside, in garden]
 
 **Pradyumna:**

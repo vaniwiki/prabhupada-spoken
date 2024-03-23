@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 7.76–81 ======
 
----- dataentry spoken ----
-id_hidden        : 670208cc.sf
-listtype_hidden  : Cc. Ādi 7.76–81
-listdate_hidden  : 1967-02-08
-showdate_hidden  : 2023-02-08
-listplace_hidden : San Francisco
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : February 8
-Year_spoken      : 1967
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 7.76–81
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670208cc.sf.mp3|Cc. Ādi 7.76-81 — February 8, 1967, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 
 > ...harer nāma eva kevalam

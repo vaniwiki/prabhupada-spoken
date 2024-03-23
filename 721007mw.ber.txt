@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 721007mw.ber
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-10-07
-showdate_hidden  : 2023-10-07
-listplace_hidden : Berkeley
-Type_spoken      : Morning Walk
-Date_spoken      : October 7
-Year_spoken      : 1972
-Place_spoken     : Berkeley
-Length_hidden    : 42:39
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721007mw.ber.mp3|Morning Walk — October 7, 1972, Berkeley}}
-</audio>
-
 [Car door closing]
 
 **Jayatīrtha:**

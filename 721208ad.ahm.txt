@@ -9,24 +9,6 @@
 
 ====== Rotary Club Address ======
 
----- dataentry spoken ----
-id_hidden        : 721208ad.ahm
-listtype_hidden  : Rotary Club Address
-listdate_hidden  : 1972-12-08
-showdate_hidden  : 2023-12-08
-listplace_hidden : Ahmedabad
-Type_spoken      : Lecture
-Date_spoken      : December 8
-Year_spoken      : 1972
-Place_spoken     : Ahmedabad
-Length_hidden    : 38:04
-Title_hidden     : Rotary Club Address "The Present Need of Human Society"
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721208ad.ahm.mp3|Rotary Club Address — December 8, 1972, Ahmedabad}}
-</audio>
-
 **Prabhupāda:**
 Mr. President, Rotarians, Ladies and Gentlemen, I thank you very much for your kindly inviting me to speak before you on the subject matter "The Present Need of the Human Society."
 

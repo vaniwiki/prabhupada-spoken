@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.12 ======
 
----- dataentry spoken ----
-id_hidden        : 720815sb.la
-listtype_hidden  : SB 1.2.12
-listdate_hidden  : 1972-08-15
-showdate_hidden  : 2023-08-15
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 15
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 24:52
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.12
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720815sb.la.mp3|SB 1.2.12 — August 15, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [//prema-dhvani//] Thank you very much.
 

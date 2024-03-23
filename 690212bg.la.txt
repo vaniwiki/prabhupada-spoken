@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 5.26–29 ======
 
----- dataentry spoken ----
-id_hidden        : 690212bg.la
-listtype_hidden  : Bg 5.26–29
-listdate_hidden  : 1969-02-12
-showdate_hidden  : 2023-02-12
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 12
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 5.26–29
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690212bg.la.mp3|Bg 5.26-29 — February 12, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 "Those who are free from anger and all material desires, who are self-realized, self-disciplined and constantly endeavoring for perfection, are assured of liberation in the Supreme in the very near future [[books:bg:5:26|[Bg. 5.26]]]." So first thing is that suppose somebody speaks of me very harshly. Naturally we become angry. Just like somebody calls me, "You are dog," or "you are hog." But if I am self-realized, if I know perfectly well that I am not this body so you call me hog, dog, or king, emperor, majesty, what is that? I am not this body. So either you call me, "Your majesty," or you call me a dog or a pig, what I have got to do? I am neither his majesty nor a dog nor a cat---nothing of the sort. I am servant of Kṛṣṇa.
 

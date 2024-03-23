@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatām 6.2.9–10 ======
 
----- dataentry spoken ----
-id_hidden        : 710115sb.all
-listtype_hidden  : Śrīmad-Bhāgavatām 6.2.9–10
-listdate_hidden  : 1971-01-15
-showdate_hidden  : 2023-01-15
-listplace_hidden : Allahabad
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 15
-Year_spoken      : 1971
-Place_spoken     : Allahabad
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatām 6.2.9–10
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710115sb.all.mp3|Śrīmad-Bhāgavatām 6.2.9-10 — January 15, 1971, Allahabad}}
-</audio>
-
 **Haṁsadūta:**
 Sixteen heads arrived at the Kumbha-melā, January 5, 1971. Śrīla Prabhupāda arrived on the morning of January 13, 1971, and the following lectures were recorded beginning January 15, 1971, at the Kumbha-melā, crossing of Kali and Yamunā roads, just across from the Hanumān Mandira, a temple which is said to be at least one million years old. Prabhupāda said it was standing since the time of Lord Rāmacandra. [break]
 

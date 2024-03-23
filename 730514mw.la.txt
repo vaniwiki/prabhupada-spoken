@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730514mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-05-14
-showdate_hidden  : 2023-05-14
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : May 14
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 43:47
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730514mw.la.mp3|Morning Walk — May 14, 1973, Los Angeles}}
-</audio>
-
 **Kṛṣṇa-kāntī:**
 [introducing recording] Śrīla Prabhupāda's morning walk, recorded May 14th, 1973, at Cheviot Hills Park, in Los Angeles.
 

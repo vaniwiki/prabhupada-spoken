@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761207r1.hyd
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-07
-showdate_hidden  : 2023-12-07
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : December 7
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 29:03
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761207r1.hyd.mp3|Room Conversation — December 7, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 There is no arrangement for producing vegetable?
 

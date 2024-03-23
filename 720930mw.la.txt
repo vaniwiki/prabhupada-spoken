@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720930mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-09-30
-showdate_hidden  : 2023-09-30
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : September 30
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 14:48
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720930mw.la.mp3|Morning Walk — September 30, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...making scientific advancement why?
 

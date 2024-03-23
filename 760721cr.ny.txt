@@ -9,24 +9,6 @@
 
 ====== Car Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760721cr.ny
-listtype_hidden  : Car Conversation
-listdate_hidden  : 1976-07-21
-showdate_hidden  : 2023-07-21
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : July 21
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 02:17
-Title_hidden     : Car Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760721cr.ny.mp3|Car Conversation — July 21, 1976, New York}}
-</audio>
-
 **Rāmeśvara:**
 And I've been told that all the TV stations showed our Ratha-yātrā. That means millions of people saw the //ratha// cart. And everyone has seen it in the newspapers.
 

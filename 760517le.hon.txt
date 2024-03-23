@@ -9,24 +9,6 @@
 
 ====== Lecture about Māyāvāda Philosophy ======
 
----- dataentry spoken ----
-id_hidden        : 760517le.hon
-listtype_hidden  : Lecture about Māyāvāda Philosophy
-listdate_hidden  : 1976-05-17
-showdate_hidden  : 2023-05-17
-listplace_hidden : Honolulu
-Type_spoken      : Lecture
-Date_spoken      : May 17
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 63:59
-Title_hidden     : Lecture about Māyāvāda Philosophy
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760517le.hon.mp3|Lecture about Māyāvāda Philosophy — May 17, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 So Śrī Caitanya Mahāprabhu took //sannyāsa,// renounced order of life, at the age of twenty-four. When He was only twenty-four, years old, young man, He took //sannyāsa.// And Śaṅkarācārya, he also took //sannyāsa// at the age of eight years. Śaṅkarācārya was exterminated from the..., extricated from the //brāhmaṇa// society. Therefore he took //sannyāsa,// gave up the whole society, friendship and love, so-called, at the age of eight years. He was born of a widow; therefore he was not accepted in the society. So when his mother died, he called for the neighbors to help him for the funeral ceremony. Nobody came to help him, because he was considered a //veśyā//[?]. In the society, say one thousand---how long?---one thousand five hundred years ago, was very, very strict. So he set fire in his house. House means cottage, [indistinct]. So the funeral ceremony was performed along with the burning of the house.
 

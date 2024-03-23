@@ -9,24 +9,6 @@
 
 ====== Room Conversation about Science ======
 
----- dataentry spoken ----
-id_hidden        : 720615r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-06-15
-showdate_hidden  : 2023-06-15
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 15
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 56:50
-Title_hidden     : Room Conversation about Science
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720615r1.la.mp3|Room Conversation about Science — June 15, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...past misdeeds, and this man cuts your hand, he creates another misdeed. In this way we become bound up by one deed after another. //Karma-bandhanaḥ.//
 

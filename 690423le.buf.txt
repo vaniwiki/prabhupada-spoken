@@ -9,24 +9,6 @@
 
 ====== Engagement Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690423le.buf
-listtype_hidden  : Engagement Lecture
-listdate_hidden  : 1969-04-23
-showdate_hidden  : 2023-04-23
-listplace_hidden : Buffalo
-Type_spoken      : Lecture
-Date_spoken      : April 23
-Year_spoken      : 1969
-Place_spoken     : Buffalo
-Length_hidden    : 00:00
-Title_hidden     : Engagement Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690423le.buf.mp3|Engagement Lecture — April 23, 1969, Buffalo}}
-</audio>
-
 **Prabhupāda:**
 //...cakṣur-unmīlitaṁ yena tasmai śrī-gurave namaḥ.//
 

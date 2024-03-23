@@ -9,24 +9,6 @@
 
 ====== Purport to Gaurāṅga Bolite Habe ======
 
----- dataentry spoken ----
-id_hidden        : 690109pu.la
-listtype_hidden  : Gaurāṅga Bolite Habe
-listdate_hidden  : 1969-01-09
-showdate_hidden  : 2023-01-09
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 9
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Gaurāṅga Bolite Habe
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690109pu.la.mp3|Purport to Gaurāṅga Bolite Habe — January 9, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 This nice song was sung by Narottama dāsa Ṭhākura, one of the great //ācāryas// of the Gauḍīya Vaiṣṇava //sampradāya.// That is the sect of Vaisnavism started by Lord Caitanya Mahāprabhu. Gauḍīya means belonging to Bengal. There are five Gauḍa-deśa in the northern part of India, out of which, part of Bengal, West Bengal, is called Gauḍa-deśa. So Narottama dāsa Ṭhākura's songs are very appropriate just to the conclusions of Vedic injunctions. So he sings this song, how one can rise up to the transcendental plane for associating directly with Rādhā and Kṛṣṇa, what is that process. The process is one should begin this
 

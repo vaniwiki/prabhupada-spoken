@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Svarūpa Dāmodara ======
 
----- dataentry spoken ----
-id_hidden        : 770228r1.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-02-28
-showdate_hidden  : 2023-02-28
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 28
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 42:03
-Title_hidden     : Room Conversation with Svarūpa Dāmodara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770228r1.may.mp3|Room Conversation with Svarūpa Dāmodara — February 28, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ... make there the //varṇāśrama// established, //brāhmaṇa, kṣatriya, vaiśya, śūdra//---division, scientific division of the society. Ideal state. Just like the legislative assembly, they should be composed of men with complete brahminical culture. And the ministers, president, they should be //kṣatriya,// and the productive, //vaiśyas,// and balance //śūdra,// worker. Unless an ideal class of men is on the top of the state to give advice---just like Britishers, they assemble Parliament---there cannot be any improvement to the human society. All nonsense and rascals, simply by votes go to be member of the Parliament, like that. What they know? What they'll do? The whole world is mismanaged because there is no brahminical culture. //Namo brahmaṇya-devāya go-brāhmaṇa-hitāya ca, jagad-dhitāya kṛṣṇāya govindā...// [Viṣṇu Purāṇa 1.19.65]. I am proposing this because Kṛṣṇa consciousness means //namo brahmaṇya-devāya go-brāhmaṇa-hitāya ca.// That must be... The state must be in favor of brahminical culture and cow protection. Then everything will be all right. So Manipur is small state. If they agree, the leaders of the... It is not politics; it is betterment of the situation. And without brahminical culture, all these third class, fourth class, loafer class, simply by votes, hooks and crooks, and becomes president, Nixon and so on. Where is the betterment? It will never be.
 

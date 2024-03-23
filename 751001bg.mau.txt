@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.11 ======
 
----- dataentry spoken ----
-id_hidden        : 751001bg.mau
-listtype_hidden  : Bg 2.11
-listdate_hidden  : 1975-10-01
-showdate_hidden  : 2023-10-01
-listplace_hidden : Mauritius
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 1
-Year_spoken      : 1975
-Place_spoken     : Mauritius
-Length_hidden    : 29:36
-Title_hidden     : Bhagavad-gītā 2.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751001bg.mau.mp3|Bg 2.11 — October 1, 1975, Mauritius}}
-</audio>
-
 **Harikeśa:**
 //Bhagavad-gītā As It Is,// Chapter Two, text 11. [leads chanting of verse, etc.]
 

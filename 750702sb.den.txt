@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.19 ======
 
----- dataentry spoken ----
-id_hidden        : 750702sb.den
-listtype_hidden  : SB 6.1.19
-listdate_hidden  : 1975-07-02
-showdate_hidden  : 2023-07-02
-listplace_hidden : Denver
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 2
-Year_spoken      : 1975
-Place_spoken     : Denver
-Length_hidden    : 22:09
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750702sb.den.mp3|SB 6.1.19 — July 2, 1975, Denver}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] Sixth Canto, First Chapter, text number 19. [leads chanting of verse, etc.]
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 711212rc.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-12-12
-showdate_hidden  : 2023-12-12
-listplace_hidden : Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : December 12
-Year_spoken      : 1971
-Place_spoken     : Delhi
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711212rc.del.mp3|Room Conversation — December 12, 1971, Delhi}}
-</audio>
-
 **Prabhupāda:**
 Hear and narrate. So, whatever you have heard, you can speak. [break] So, in your country also they do not like this organized Christian religion [indistinct]. The difficulty is that either Hindu religion or Christian religion, religion is one. So what is that one religion nobody knows perfectly, and it was not presented because they did not know what is religion. They are simply sticking to a particular kind of faith. Faith can be changed, faith can be given up but real religion, that cannot be given up. It may be perverted. Real religion is to render service to the Supreme Lord. That cannot be changed. We are serving, if not to the Lord, we are serving //māyā.// But my, that characteristic to serve is continued. So religion is presented simply on formulas and stereo-typed ideas, but actual religion is this surrender. //Yato bhaktir adhokṣaje. Bhakti// means serving. //Bhaja sevayā. Sevayā// means serving. So, religion means to serve the Supreme Lord, that is religion. Anything which has no such idea, that is not religion. Then again [you] have different types of religion, how far they are making progress with, on that ultimate goal, serving Kṛṣṇa. The more we advance, the more you become perfect, our real religious life becomes manifested, that is Kṛṣṇa consciousness. We say this is real religion. So what others have to say on this point? We say this is real religion. //Bhāgavata// says //dharmaḥ projjhita-kaitavo 'tra// [[books:sb:1:1:2|[SB 1.1.2]]], "All cheating type of religion is thrown away." The cheating type of religion means which does not teach people how to serve the Lord, that is cheating. They take advantage of the religious feeling. They say, "I am God" or "I am everything, you serve me, you give your money unto me, I shall give you some material benefit, atonement. You have made your confess, you are sinful, give me some money and you are excused." In this way religion is being perverted. Therefore, people [who] are educated, [they] say "What is this, religion?" They are becoming disgusted. But real religion is this Kṛṣṇa consciousness-surrender to Kṛṣṇa and you will become happy. So if we say that this is the real religion, is there anything wrong there? What possible protest they can offer when I say that this is the religion?
 

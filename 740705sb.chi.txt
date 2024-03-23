@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.19 ======
 
----- dataentry spoken ----
-id_hidden        : 740705sb.chi
-listtype_hidden  : SB 1.8.19
-listdate_hidden  : 1974-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : Chicago
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 5
-Year_spoken      : 1974
-Place_spoken     : Chicago
-Length_hidden    : 25:05
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740705sb.chi.mp3|SB 1.8.19 — July 5, 1974, Chicago}}
-</audio>
-
 **Prabhupāda:**
 [leads chanting of verse] [devotees repeat]
 

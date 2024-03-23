@@ -9,24 +9,6 @@
 
 ====== Ratha-yātrā Address ======
 
----- dataentry spoken ----
-id_hidden        : 720716a2.lon
-listtype_hidden  : Ratha-yātrā Address
-listdate_hidden  : 1972-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : July 16
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 19:01
-Title_hidden     : Address at End of Ratha-yātrā Parade
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720716a2.lon.mp3|Ratha-yātrā Address — July 16, 1972, London}}
-</audio>
-
 **Prabhupāda:**
 
 > ...nityānanda

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam Dictation ======
 
----- dataentry spoken ----
-id_hidden        : 771025sb.vrn
-listtype_hidden  : SB Dictation
-listdate_hidden  : 1977-10-25
-showdate_hidden  : 2023-10-25
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 25
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 32:14
-Title_hidden     : Śrīmad-Bhāgavatam Dictation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771025sb.vrn.mp3|SB Dictation — October 25, 1977, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 In this verse it describes that he looked around, and then he saw Vṛndāvana as it actually was. But first I need the Bengali... [break] //...tat kanat cat//[?]...
 

@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681007le.sea
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-10-07
-showdate_hidden  : 2023-10-07
-listplace_hidden : Seattle
-Type_spoken      : Lecture
-Date_spoken      : October 7
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681007le.sea.mp3|Lecture — October 7, 1968, Seattle}}
-</audio>
-
 **Prabhupāda:**
 [sings] //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// [devotees repeat] So we are worshiping Govindam, the reservoir of all pleasures, Govinda, Kṛṣṇa. And He is //ādi-puruṣaṁ,// the original person. So //govindam ādi-puruṣaṁ tam ahaṁ bhajāmi. Bhajāmi// means "I worship," "I surrender unto Him and I agree to love Him." These are the terms offered by hymns by Brahmā. That //Brahma-saṁhitā// is a, considerably a large book. The first verse in the Fifth Chapter it is said that the Lord, Govinda, He has got His particular planet, which is known as Goloka Vṛndāvana. It is beyond this material sky. This material sky you can see as far as your vision go, but beyond that material sky there is spiritual sky. This material sky is covered by material energy, //mahat-tattva,// and there are seven layers of covering of earth, water, fire, air. And beyond that covering there is an ocean, and beyond that ocean the spiritual sky begins. And in that spiritual sky, the highest planet is called Goloka Vṛndāvana. These things are described in the Vedic literature, in the //Bhagavad-gītā// also. //Bhagavad-gītā// is very well known book. There also it is stated,
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.28 ======
 
----- dataentry spoken ----
-id_hidden        : 761115sb.vrn
-listtype_hidden  : SB 5.5.28
-listdate_hidden  : 1976-11-15
-showdate_hidden  : 2023-11-15
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 15
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 25:48
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.28
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761115sb.vrn.mp3|SB 5.5.28 — November 15, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.] [break]
 

@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 730128nd.cal
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1973-01-28
-showdate_hidden  : 2023-01-28
-listplace_hidden : Calcutta
-Type_spoken      : Nectar of Devotion
-Date_spoken      : January 28
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 38:29
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730128nd.cal.mp3|The Nectar of Devotion — January 28, 1973, Calcutta}}
-</audio>
-
 **Mādhavānanda:**
 [reading] "It is confirmed in the //Bhagavad-gītā// that after many, many births, when one becomes actually wise, he surrenders unto Vāsudeva, knowing perfectly well that Kṛṣṇa [Vāsudeva] is the origin and cause of all causes. Therefore he sticks to the lotus feet of Kṛṣṇa and gradually develops love for Him. Although such a wise man is very dear to Kṛṣṇa, the others are also accepted as very magnanimous because even though they are distressed or in need of money, they have come to Kṛṣṇa for satisfaction. Thus they are accepted as liberal, broad-minded //mahātmās.//
 

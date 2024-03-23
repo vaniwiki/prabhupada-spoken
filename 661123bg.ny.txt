@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 9.2–5 ======
 
----- dataentry spoken ----
-id_hidden        : 661123bg.ny
-listtype_hidden  : Bg 9.2–5
-listdate_hidden  : 1966-11-23
-showdate_hidden  : 2023-11-23
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 23
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 9.2–5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661123bg.ny.mp3|Bg 9.2-5 — November 23, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > aprārabdha-phalaṁ pāpaṁ

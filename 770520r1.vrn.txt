@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Indian Guests ======
 
----- dataentry spoken ----
-id_hidden        : 770520r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-05-20
-showdate_hidden  : 2023-05-20
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : May 20
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 18:48
-Title_hidden     : Room Conversation with Indian Guests
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770520r1.vrn.mp3|Room Conversation with Indian Guests — May 20, 1977, Vṛndāvana}}
-</audio>
-
 **Indian man (1):**
 [Hindi]
 

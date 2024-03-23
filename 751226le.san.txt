@@ -9,24 +9,6 @@
 
 ====== Kirtan & Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 751226le.san
-listtype_hidden  : Kirtan & Lecture [Hindi]
-listdate_hidden  : 1975-12-26
-showdate_hidden  : 2023-12-26
-listplace_hidden : Sanand
-Type_spoken      : Hindi
-Date_spoken      : December 26
-Year_spoken      : 1975
-Place_spoken     : Sanand
-Length_hidden    : 10:04
-Title_hidden     : Kirtan & Lecture [Hindi with English translation]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751226le.san_hindi.mp3|Kirtan & Lecture [Hindi] — December 26, 1975, Sanand}}
-</audio>
-
 [final proofreading pending]
 
 **Prabhupāda:**

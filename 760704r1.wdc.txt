@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760704r1.wdc
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-04
-showdate_hidden  : 2023-07-04
-listplace_hidden : Washington, D.C.
-Type_spoken      : Room Conversation
-Date_spoken      : July 4
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 11:34
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760704r1.wdc.mp3|Room Conversation — July 4, 1976, Washington, D.C.}}
-</audio>
-
 **Prabhupāda:**
 //...punaḥ punaś carvita carvaṇānām// [[books:sb:7:5:30|[SB 7.5.30]]], again spend millions of dollars. And our rascal Indian leaders, they are also. What is that here, she has remarked, "Hare Kṛṣṇa cult."
 

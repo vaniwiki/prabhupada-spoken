@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.24 ======
 
----- dataentry spoken ----
-id_hidden        : 720827sb.la
-listtype_hidden  : SB 1.2.24
-listdate_hidden  : 1972-08-27
-showdate_hidden  : 2023-08-27
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 27
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 58:28
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720827sb.la.mp3|SB 1.2.24 — August 27, 1972, Los Angeles}}
-</audio>
-
 [//Govindam// prayers playing; Prabhupāda singing along]
 
 **Prabhupāda:**

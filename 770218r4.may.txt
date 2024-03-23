@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770218r4.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-02-18
-showdate_hidden  : 2023-02-18
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 18
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 56:36
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770218r4.may.mp3|Room Conversation — February 18, 1977, Māyāpur}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 ...that the government is actually... It is not the government, but there are various individuals within the government. In other words, it is not the entire government. Just like in this country it is much more of a dictatorial type government. In America what is happening is that because these deprogrammers... What they are doing is called lobbying. They go to Congress, they go to the House of Representatives. They have all of their members write letters to their local state senators, to the local House of Representatives...
 

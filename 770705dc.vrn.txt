@@ -9,24 +9,6 @@
 
 ====== Discussion about Bhū-maṇḍala ======
 
----- dataentry spoken ----
-id_hidden        : 770705dc.vrn
-listtype_hidden  : Bhū-maṇḍala
-listdate_hidden  : 1977-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 5
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 62:13
-Title_hidden     : Discussion about Bhū-maṇḍala
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770705dc.vrn.mp3|Discussion about Bhū-maṇḍala — July 5, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 So what is the difficulty?
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Mr. Tombe M.L.A. ======
 
----- dataentry spoken ----
-id_hidden        : 761225r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-25
-showdate_hidden  : 2023-12-25
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 25
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 07:19
-Title_hidden     : Room Conversation with Mr. Tombe M.L.A.
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761225r1.bom.mp3|Room Conversation with Mr. Tombe M.L.A. — December 25, 1976, Bombay}}
-</audio>
-
 **Mr. Tombe:**
 After all, even if it is thrown out...
 

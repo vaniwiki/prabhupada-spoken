@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770103r2.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-03
-showdate_hidden  : 2023-01-03
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 3
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 38:45
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770103r2.bom.mp3|Room Conversation — January 3, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Why should be checked? This is the point.
 

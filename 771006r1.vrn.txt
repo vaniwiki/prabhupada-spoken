@@ -9,24 +9,6 @@
 
 ====== Room Conversation & arrivals from New Vrindavan ======
 
----- dataentry spoken ----
-id_hidden        : 771006r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-06
-showdate_hidden  : 2023-10-06
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 6
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 88:02
-Title_hidden     : Room Conversation & arrivals from New Vrindavan
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771006r1.vrn.mp3|Room Conversation & arrivals from New Vrindavan — October 6, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...for printing?
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740527mw.rom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-05-27
-showdate_hidden  : 2023-05-27
-listplace_hidden : Rome
-Type_spoken      : Morning Walk
-Date_spoken      : May 27
-Year_spoken      : 1974
-Place_spoken     : Rome
-Length_hidden    : 44:23
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740527mw.rom.mp3|Morning Walk — May 27, 1974, Rome}}
-</audio>
-
 **Prabhupāda:**
 So we can discuss some of the problems, about the problems. Discuss what are the problems.
 

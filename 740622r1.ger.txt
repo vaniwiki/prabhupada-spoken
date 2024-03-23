@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Benedictine Monk Pater Emmanuel ======
 
----- dataentry spoken ----
-id_hidden        : 740622r1.ger
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-22
-showdate_hidden  : 2023-06-22
-listplace_hidden : Germany
-Type_spoken      : Room Conversation
-Date_spoken      : June 22
-Year_spoken      : 1974
-Place_spoken     : Germany
-Length_hidden    : 64:52
-Title_hidden     : Room Conversation with Pater Emmanuel [A Benedictine Monk]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740622r1.ger.mp3|Room Conversation with Benedictine Monk Pater Emmanuel — June 22, 1974, Germany}}
-</audio>
-
 **Prabhupāda:**
 ...see you. 
 

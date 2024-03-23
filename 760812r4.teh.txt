@@ -9,24 +9,6 @@
 
 ====== Conversation in Car ======
 
----- dataentry spoken ----
-id_hidden        : 760812r4.teh
-listtype_hidden  : Conversation in Car
-listdate_hidden  : 1976-08-12
-showdate_hidden  : 2023-08-12
-listplace_hidden : Tehran
-Type_spoken      : Room Conversation
-Date_spoken      : August 12
-Year_spoken      : 1976
-Place_spoken     : Tehran
-Length_hidden    : 01:21
-Title_hidden     : Conversation in Car
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760812r4.teh.mp3|Conversation in Car — August 12, 1976, Tehran}}
-</audio>
-
 **Prabhupāda:**
 ...that is Kṛṣṇa's mercy. But I am not that devotee. You are devotee. It is a fact. Kṛṣṇa supplies everything to the devotee's comfort.
 

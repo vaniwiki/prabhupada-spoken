@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.1 ======
 
----- dataentry spoken ----
-id_hidden        : 680508sb.bos
-listtype_hidden  : SB 7.6.1
-listdate_hidden  : 1968-05-08
-showdate_hidden  : 2023-05-08
-listplace_hidden : Boston
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 8
-Year_spoken      : 1968
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680508sb.bos.mp3|SB 7.6.1 — May 8, 1968, Boston}}
-</audio>
-
 **Prabhupāda:**
 ...from Prahlāda Mahārāja's instruction, I'll request you to practice another prayer. I'll pray the last line, //govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// You'll repeat that. Now try to under... [chants one word at a time with devotees repeating:] //govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// [sings:] //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi// [repeats several times, devotees trying to sing along]. The meaning of this line is //govindam,// the Govinda, Kṛṣṇa, and //govindam ādi-puruṣam. Ādi-puruṣam// means the original person. //Govindam ādi-puruṣaṁ tam,// "unto You," //bhajāmi,// "I offer my respectful obeisances." This is the meaning. //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// Repeat.
 

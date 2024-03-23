@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.15.20 ======
 
----- dataentry spoken ----
-id_hidden        : 731130sb.la
-listtype_hidden  : SB 1.15.20
-listdate_hidden  : 1973-11-30
-showdate_hidden  : 2023-11-30
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 30
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 43:11
-Title_hidden     : Śrīmad-Bhāgavatam 1.15.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731130sb.la.mp3|SB 1.15.20 — November 30, 1973, Los Angeles}}
-</audio>
-
 **Devotee:**
 //...Rādhā-Mādhava?//
 

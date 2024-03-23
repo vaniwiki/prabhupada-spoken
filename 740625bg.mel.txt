@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.22–24 ======
 
----- dataentry spoken ----
-id_hidden        : 740625bg.mel
-listtype_hidden  : Bg 13.22–24
-listdate_hidden  : 1974-06-25
-showdate_hidden  : 2023-06-25
-listplace_hidden : Melbourne
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : June 25
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 41:13
-Title_hidden     : Bhagavad-gītā 13.22–24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740625bg.mel.mp3|Bg 13.22-24 — June 25, 1974, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse]
 

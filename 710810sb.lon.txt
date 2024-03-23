@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.2 ======
 
----- dataentry spoken ----
-id_hidden        : 710810sb.lon
-listtype_hidden  : SB 1.2.2
-listdate_hidden  : 1971-08-10
-showdate_hidden  : 2023-08-10
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 10
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710810sb.lon.mp3|SB 1.2.2 — August 10, 1971, London}}
-</audio>
-
 **Pradyumna:**
 Translation: "Śrīla Sūta Gosvāmī said: Let me offer my respectful obeisances unto that great sage, Śukadeva Gosvāmī, who can enter the hearts of all. When he went away to take up the renounced order of life [//sannyāsa//], leaving home without undergoing the sacred thread ceremony, his father, Vyāsadeva, cried out to him, 'Oh my son!' Indeed, only the trees echoed in response to the begrieved father." [[books:sb:1:2:2|[SB 1.2.2]]]
 

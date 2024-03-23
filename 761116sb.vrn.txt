@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.29 ======
 
----- dataentry spoken ----
-id_hidden        : 761116sb.vrn
-listtype_hidden  : SB 5.5.29
-listdate_hidden  : 1976-11-16
-showdate_hidden  : 2023-11-16
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 16
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 27:22
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.29
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761116sb.vrn.mp3|SB 5.5.29 — November 16, 1976, Vṛndāvana}}
-</audio>
-
 **Yaśodānandana:**
 [leads chanting of verse]
 

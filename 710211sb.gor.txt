@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.3.18 ======
 
----- dataentry spoken ----
-id_hidden        : 710211sb.gor
-listtype_hidden  : SB 6.3.18
-listdate_hidden  : 1971-02-11
-showdate_hidden  : 2023-02-11
-listplace_hidden : Gorakhpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 11
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.3.18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710211sb.gor.mp3|SB 6.3.18 — February 11, 1971, Gorakhpur}}
-</audio>
-
 **Prabhupāda:**
 //...rakṣanti tad-bhaktimataḥ parebhyo mattaś ca martyān atha sarvataś ca// [[books:sb:6:3:18|[SB 6.3.18]]]. So invisible Viṣṇudūtas, they are always traveling. Just like Viṣṇu, Lord Viṣṇu, the Supreme Personality of Godhead. He is all-pervading, He is everywhere, but our present eyes cannot see Him, material eyes. Just like we cannot see even the living entity when he is passing through this body, leaving this body aside, very small. We cannot see. //Ataḥ śrī-kṛṣṇa-nāmādi na bhaved grāhyam indriyaiḥ// [[books:cc:madhya:17:136|[Cc. Madhya 17.136]]]. By the dint of your..., by the strength of your senses, the present material senses, it is not possible to appreciate //śrī-kṛṣṇa-nāmādi.// Beginning from Kṛṣṇa's holy name. [dog barking] [aside:] Where is this dog? No, your dog. Your dog? This is your dog?
 

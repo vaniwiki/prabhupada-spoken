@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730921le.bom
-listtype_hidden  : Lecture
-listdate_hidden  : 1973-09-21
-showdate_hidden  : 2023-09-21
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : September 21
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 38:13
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730921le.bom.mp3|Lecture — September 21, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...Bhaktivinoda Ṭhākura, the father of //saṅkīrtana// movement within two hundred years. He was //ācārya// and a householder, //gṛhastha.// He was very responsible officer, magistrate, householder, but he was a great devotee. Not only devotee---//ācārya// in the line of Caitanya Mahāprabhu disciplic succession, //ācārya.// So he sung, //ye-dina gṛhete, bhajana dekhi’, gṛhete goloka bhāya// [//Śaraṇāgati// 31.6]: "The day whenever we find there is //bhajana,//" means worshiping the Supreme Lord, "at that time immediately the house becomes Vaikuṇṭha." Actually, that is so. Vaikuṇṭha or Goloka Vṛndāvana is not material things. Just like Kṛṣṇa is not material. Kṛṣṇa... As Kṛṣṇa can stay in His abode, Goloka Vṛndāvana, and still He can stay everywhere... //Aṇḍāntara-stha-paramāṇu-cayāntara-stham.// That is Kṛṣṇa.
 

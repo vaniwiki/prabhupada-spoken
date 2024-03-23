@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.7.30–31 ======
 
----- dataentry spoken ----
-id_hidden        : 710912sb.mom
-listtype_hidden  : SB 7.7.30–31
-listdate_hidden  : 1971-09-12
-showdate_hidden  : 2023-09-12
-listplace_hidden : Mombassa
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 12
-Year_spoken      : 1971
-Place_spoken     : Mombassa
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.7.30–31
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710912sb.mom.mp3|SB 7.7.30-31 — September 12, 1971, Mombassa}}
-</audio>
-
 **Prabhupāda:**
 
 > saṅgena sādhu-bhaktānām

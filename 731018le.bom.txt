@@ -9,24 +9,6 @@
 
 ====== Lecture at Bhāratīya Vidyā Bhavān ======
 
----- dataentry spoken ----
-id_hidden        : 731018le.bom
-listtype_hidden  : Lecture at Bhāratīya Vidyā Bhavān
-listdate_hidden  : 1973-10-18
-showdate_hidden  : 2023-10-18
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : October 18
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 22:15
-Title_hidden     : Lecture at Bhāratīya Vidyā Bhavān
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731018le.bom.mp3|Lecture at Bhāratīya Vidyā Bhavān — October 18, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers]
 

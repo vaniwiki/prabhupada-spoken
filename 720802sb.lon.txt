@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.23 ======
 
----- dataentry spoken ----
-id_hidden        : 720802sb.lon
-listtype_hidden  : SB 1.1.23
-listdate_hidden  : 1972-08-02
-showdate_hidden  : 2023-08-02
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 2
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 36:30
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720802sb.lon.mp3|SB 1.1.23 — August 2, 1972, London}}
-</audio>
-
 **Prabhupāda:**
 Hmm. Read it.
 

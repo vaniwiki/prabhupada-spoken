@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.8 ======
 
----- dataentry spoken ----
-id_hidden        : 770228sb.may
-listtype_hidden  : SB 7.9.8
-listdate_hidden  : 1977-02-28
-showdate_hidden  : 2023-02-28
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 28
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 32:29
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770228sb.may.mp3|SB 7.9.8 — February 28, 1977, Māyāpur}}
-</audio>
-
 **Pradyumna:** Translation: "Prahlāda Mahārāja prayed: How is it possible for me, who have been born in a family of asuras, to offer suitable prayers to satisfy the Supreme Personality of Godhead? Even until now, all the demigods, headed by Lord Brahmā, and all the saintly persons could not satisfy the Lord by streams of excellent words, although such persons are very qualified, being in the mode of goodness. Then what is to be said of me? I am not at all qualified."
 
 **Prabhupāda:**

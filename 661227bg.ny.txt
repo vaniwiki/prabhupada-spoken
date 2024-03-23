@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 10.1 ======
 
----- dataentry spoken ----
-id_hidden        : 661227bg.ny
-listtype_hidden  : Bg 10.1
-listdate_hidden  : 1966-12-27
-showdate_hidden  : 2023-12-27
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 27
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 10.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661227bg.ny.mp3|Bg 10.1 — December 27, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 //Śrī-bhagavān uvāca,// the Supreme Personality of Godhead said. Bhagavān, this very word, is very significant. You should try to understand what does it mean, //bhaga. Bhaga// means opulence and //bhagavān// means one who has got opulences. The Sanskrit grammar, there is a affix called //vat. Vat// means possessing. //Atha ke vatit [?].// When a, when the sense of possession is there, this //vat// affix is there. So //bhaga, bhaga// means opulence, and plus //vat,// that means one who has got opulence. This is the meaning of //bhagavān.//
 

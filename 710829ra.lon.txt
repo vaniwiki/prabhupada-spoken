@@ -9,24 +9,6 @@
 
 ====== Rādhāṣṭamī, Śrīmatī Rādhārāṇī’s Appearance Day ======
 
----- dataentry spoken ----
-id_hidden        : 710829ra.lon
-listtype_hidden  : Rādhāṣṭamī
-listdate_hidden  : 1971-08-29
-showdate_hidden  : 2023-08-29
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : August 29
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Rādhāṣṭamī, Śrīmatī Rādhārāṇī’s Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710829ra.lon.mp3|Rādhāṣṭamī — August 29, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] Today is birth, appearance day of Śrīmatī Rādhārāṇī, Rādhāṣṭamī. Fifteen days after Kṛṣṇa's birth, Rādhārāṇī appeared. [pause] Rādhārāṇī is Kṛṣṇa's pleasure potency. //Rādhā-kṛṣṇa-praṇaya-vikṛtir hlādinī-śaktiḥ.// The Lord, the Supreme Personality of Godhead, has got varieties of energies, as it is confirmed in the Vedic literature. //Parāsya śaktir vividhaiva śruyate// [[books:cc:madhya:13:65#id4|[Cc. Madhya 13.65, purport]]]. //Na tasya kāryaṁ karaṇaṁ ca vidyate.// The Supreme Lord has nothing to do personally. //Na tasya kāryam.// He has nothing to do. Just like here in this material world we find some very big man, political head or business head; personally, he has nothing to do. Because he has got so many assistants, secretaries, that personally he hasn't got to do anything. Similarly, the Supreme Personality of Godhead, full with six opulences, why He will have to do something? No. He has got many assistants. //Sarvataḥ pāṇi-pādas tat.// In the //Bhagavad-gītā:// "He has got everywhere His hands and legs." You'll find Kṛṣṇa, He has nothing to do. He's simply engaged in enjoyment with //gopīs// and Rādhārāṇī. He's not engaged in killing the demons. When Kṛṣṇa kills the demons He's Vāsudeva Kṛṣṇa; He's not original Kṛṣṇa. Kṛṣṇa expands Himself. First expansion is Baladeva. From Baladeva---Saṅkarṣaṇa, Pradyumna, Aniruddha, Vāsudeva. So by the Vāsudeva feature He acts in Mathurā and Dvārakā. But Kṛṣṇa in His original feature, He remains in Vṛndāvana. One of the greatest fiction writers in Bengal, Bankimchandra Chatterjee, he misunderstood Kṛṣṇa that Kṛṣṇa of Vṛndāvana, Kṛṣṇa of Dvārakā, and Kṛṣṇa of Mathurā, They're different persons. Kṛṣṇa [is] the same, one, but He can expand Himself in millions and trillions of forms. //Advaitam acyutam anādim ananta-rūpam ādyaṁ purāṇa-puruṣam// [Bs. 5.33]. //Advaita.// Although //ananta-rūpam,// still, He's //ādyaṁ purāṇa-puruṣam, advaita.// There is no such distinction.
 

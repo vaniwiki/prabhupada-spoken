@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740420mw.hyd
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-04-20
-showdate_hidden  : 2023-04-20
-listplace_hidden : Hyderabad
-Type_spoken      : Morning Walk
-Date_spoken      : April 20
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 54:48
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740420mw.hyd.mp3|Morning Walk — April 20, 1974, Hyderabad}}
-</audio>
-
 **Pañcadraviḍa:**
 ...going back to the temple.
 

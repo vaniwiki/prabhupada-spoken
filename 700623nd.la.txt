@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 700623nd.la
-listtype_hidden  : NoD
-listdate_hidden  : 1970-06-23
-showdate_hidden  : 2023-06-23
-listplace_hidden : Los Angeles
-Type_spoken      : Nectar of Devotion
-Date_spoken      : June 23
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700623nd.la.mp3|The Nectar of Devotion — June 23, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. So we have published our //Nectar of Devotion.// So every one of you should read this //Nectar of Devotion// repeatedly. The whole substance of Vaiṣṇava philosophy and activities, everything is there. So every one of you read this //Nectar of Devotion// once, twice, thrice. Unless you have got full-fledged ideas what is this devotional service... That was written by... Actually, it was spoken by Lord Caitanya to Rūpa Gosvāmī. For ten days continually He instructed Rūpa Gosvāmī at Prayāga, Daśāśvamedha-ghāṭa. You have seen the picture in //TLC.// Caitanya Mahāprabhu was at Allahabad, Prayāga, and Rūpa Gosvāmī met Him there. He was offering obeisances flat. You have seen that picture. So at that time Caitanya Mahāprabhu personally gave him instruction what is this cult of //bhakti.// So for ten days. And he took note of it and later on he placed this book in the form of //Bhakti-rasāmṛta-sindhu.// That is in Sanskrit. It will be difficult for you. Therefore I have presented a summary study, and the summary study has come to 407 pages. If we would have elaborately described each and every verse, then it would have come to at least thousand pages.
 

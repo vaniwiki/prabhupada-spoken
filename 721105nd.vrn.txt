@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721105nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-11-05
-showdate_hidden  : 2023-11-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : November 5
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 35:10
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721105nd.vrn.mp3|The Nectar of Devotion — November 5, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading:] "...committed criminal acts but is not yet arrested for them. Now, as soon as he is detected, arrest is awaiting for him..., is awaiting him. Similarly, for some of our sinful activities we are awaiting distresses in the future, and for others, which are mature, we are suffering at the present moment. In this way..."
 

@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 680914le.sf
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1968-09-14
-showdate_hidden  : 2023-09-14
-listplace_hidden : San Francisco
-Type_spoken      : Lecture
-Date_spoken      : September 14
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680914le.sf.mp3|Lecture [partially recorded] — September 14, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 So we have to continue this chanting, either imperfectional stage or in the perfectional stage. //Satatām kīrtayanto mām// [[books:bg:9:14|[Bg. 9.14]]]. In the //Bhagavad-gītā,// you will see that this //kīrtana// is recommended continuously. //Satatam. Satatam// means always. Either in the imperfect stage or in the perfect stage, the process is one. It is not like the Māyāvādīs, that first of all you chant, and by chanting, when you become yourself God, then there is no chanting---stop. This is Māyāvāda philosophy. This is not real, the position. Chanting will continue even in your highest perfectional stage. But that chanting and at the present moment chanting, there is little difference. Yes.
 

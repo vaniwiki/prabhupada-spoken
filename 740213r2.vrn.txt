@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740213r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-02-13
-showdate_hidden  : 2023-02-13
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : February 13
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 36:29
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740213r2.vrn.mp3|Room Conversation — February 13, 1974, Vṛndāvana}}
-</audio>
-
 **Dr. Kapoor:**
 [Hindi] As I understand [indistinct---moving of mic]. The export minister C. D. Gupta. C. D. Gupta, the old chief minister, you see. He is coming, and I take it they have arranged a program in his honor. I don't know how they will make this program fit in. I don't think...
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 761114r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-11-14
-showdate_hidden  : 2023-11-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 14
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 04:36
-Title_hidden     : Room Conversation [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761114r1.vrn.mp3|Room Conversation [partially recorded] — November 14, 1976, Vṛndāvana}}
-</audio>
-
 **Tejiyas:**
 M. Channa Reddy.
 

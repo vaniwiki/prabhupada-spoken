@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Cheviot Hills Golf Course ======
 
----- dataentry spoken ----
-id_hidden        : 730513mw.la
-listtype_hidden  : Morning Walk at Cheviot Hills Golf Course
-listdate_hidden  : 1973-05-13
-showdate_hidden  : 2023-05-13
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : May 13
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 45:32
-Title_hidden     : Morning Walk at Cheviot Hills Golf Course
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730513mw.la.mp3|Morning Walk at Cheviot Hills Golf Course — May 13, 1973, Los Angeles}}
-</audio>
-
 **Kṛṣṇa-kāntī:**
 [introducing recording] Hare Kṛṣṇa, Hare Kṛṣṇa. Hare Kṛṣṇa, Hare Kṛṣṇa. Testing. Testing 1,2,3, testing 1,2,3, testing 1,2,3. Hare Kṛṣṇa...
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760618r1.tor
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-18
-showdate_hidden  : 2023-06-18
-listplace_hidden : Toronto
-Type_spoken      : Room Conversation
-Date_spoken      : June 18
-Year_spoken      : 1976
-Place_spoken     : Toronto
-Length_hidden    : 12:16
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760618r1.tor.mp3|Room Conversation — June 18, 1976, Toronto}}
-</audio>
-
 **Prabhupāda:**
 If we say all these things, they will cut my head. [laughs] Therefore I don't say in the public meeting all these things. But it is actually dog's race. No value. Actually, no value. We cannot give any value to this type of civilization, running like dog with car.
 

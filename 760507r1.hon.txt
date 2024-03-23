@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760507r1.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-07
-showdate_hidden  : 2023-05-07
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : May 7
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 47:37
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760507r1.hon.mp3|Room Conversation — May 7, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 First business, how to get our books. [indistinct] [loud //kirtan// in background] For Russia, export from India will be favorable. So government paper we are printing seven, eight rupees price. Make that addition, all the books. Ask them to take paper from the government, huge quantity, and all these books should be published immediately, five thousand copies.
 

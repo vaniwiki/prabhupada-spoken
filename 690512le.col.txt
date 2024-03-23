@@ -9,24 +9,6 @@
 
 ====== Lecture with Allen Ginsberg at Ohio State University ======
 
----- dataentry spoken ----
-id_hidden        : 690512le.col
-listtype_hidden  : Lecture with Allen Ginsberg at Ohio State University
-listdate_hidden  : 1969-05-12
-showdate_hidden  : 2023-05-12
-listplace_hidden : Columbus
-Type_spoken      : Lecture
-Date_spoken      : May 12
-Year_spoken      : 1969
-Place_spoken     : Columbus
-Length_hidden    : 00:00
-Title_hidden     : Lecture with Allen Ginsberg at Ohio State University
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690512le.col.mp3|Lecture with Allen Ginsberg at Ohio State University — May 12, 1969, Columbus}}
-</audio>
-
 **Allen Ginsberg:**
 The amazing thing was that everybody was able to shake their own ass and get up and dance after..., a long time, and not knowing what to do. When ancient rhythms were floating through, everybody thought and certainly everybody desired to dance and sing rather than be frozen. But such is the nature of our condition, in this, which is called the Kali-yuga, according to Hindu fairy tale, Hindu mythology, Hindu religion, Hindu belief, Hindu metaphysics, Hindu cosmography, probably corresponding to what in our Western tradition we know as the gnostic tradition, through Pallet Harichosis[?], Yaka Burma[?], and William Blake. This is an Orient version of what may be the same tradition, suppressed in the West when the CIA took over religion in 313 A.D., [laughter and applause], when Constantine, Caesar, made a deal with the church to suppress all alien thoughts and heresies and to formulate a square Western version of heaven and hell. The Kali-yuga concept is one that you can, in a sense, interpret ecologically. If you've been following the scientifical pronouncements of doom possibility coming over television, radio, and slick magazines, as well as from the underground press, you will notice that there's increasing attention to the fact that our own fecal material, the waste products of our robots, have now so polluted Lake Erie that it's a great lake of green goo slime, biologically dead; that our atmosphere, the planetary atmosphere, is increasingly polluted with carbon wastes; and that we are so sunk in our attachment to automobile exhaust fumes, to sulphur wastes from great steel factories producing metals that can be sent flying to explode on the other side of the planet with the collaboration of the science faculties in such universities as this, [applause] so that we find ourselves increasingly sunk into what is called a materialistic habit, like a junky stuck on his junk.
 

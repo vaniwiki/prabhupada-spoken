@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760610r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-10
-showdate_hidden  : 2023-06-10
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 10
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 17:33
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760610r1.la.mp3|Room Conversation — June 10, 1976, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 This is one [indistinct]. 
 

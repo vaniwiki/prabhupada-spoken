@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.21 ======
 
----- dataentry spoken ----
-id_hidden        : 740410bg.bom
-listtype_hidden  : Bg 4.21
-listdate_hidden  : 1974-04-10
-showdate_hidden  : 2023-04-10
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 10
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 40:26
-Title_hidden     : Bhagavad-gītā 4.21
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740410bg.bom.mp3|Bg 4.21 — April 10, 1974, Bombay}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse]
 

@@ -9,24 +9,6 @@
 
 ====== Sunday Feast Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 750302le.atl
-listtype_hidden  : Sunday Feast Lecture
-listdate_hidden  : 1975-03-02
-showdate_hidden  : 2023-03-02
-listplace_hidden : Atlanta
-Type_spoken      : Lecture
-Date_spoken      : March 2
-Year_spoken      : 1975
-Place_spoken     : Atlanta
-Length_hidden    : 80:53
-Title_hidden     : Sunday Feast Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750302le.atl.mp3|Sunday Feast Lecture — March 2, 1975, Atlanta}}
-</audio>
-
 **Prabhupāda:**
 
 > namo mahā-vadānyāya

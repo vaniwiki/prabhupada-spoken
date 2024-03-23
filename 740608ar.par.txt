@@ -9,24 +9,6 @@
 
 ====== Arrival Address ======
 
----- dataentry spoken ----
-id_hidden        : 740608ar.par
-listtype_hidden  : Arrival Address
-listdate_hidden  : 1974-06-08
-showdate_hidden  : 2023-06-08
-listplace_hidden : Paris
-Type_spoken      : Lecture
-Date_spoken      : June 8
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 16:18
-Title_hidden     : Arrival Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740608ar.par.mp3|Arrival Address — June 8, 1974, Paris}}
-</audio>
-
 **Prabhupāda:**
 So I am very happy to see that Rādhā-Parisīśvara is being worshiped nicely.
 

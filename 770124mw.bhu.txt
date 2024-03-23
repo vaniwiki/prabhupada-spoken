@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 770124mw.bhu
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1977-01-24
-showdate_hidden  : 2023-01-24
-listplace_hidden : Bhubaneswar
-Type_spoken      : Morning Walk
-Date_spoken      : January 24
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 46:38
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770124mw.bhu.mp3|Morning Walk — January 24, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 Gurukṛpa Mahārāja, what is the benefit of this modern education?
 

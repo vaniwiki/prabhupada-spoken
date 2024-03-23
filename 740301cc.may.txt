@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 7.1 ======
 
----- dataentry spoken ----
-id_hidden        : 740301cc.may
-listtype_hidden  : Cc. Ādi 7.1
-listdate_hidden  : 1974-03-01
-showdate_hidden  : 2023-03-01
-listplace_hidden : Māyāpur
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : March 1
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 35:07
-Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 7.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740301cc.may.mp3|Cc. Ādi 7.1 — March 1, 1974, Māyāpur}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse, etc.]
 

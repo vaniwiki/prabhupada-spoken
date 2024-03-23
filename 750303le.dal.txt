@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 750303le.dal
-listtype_hidden  : Lecture
-listdate_hidden  : 1975-03-03
-showdate_hidden  : 2023-03-03
-listplace_hidden : Dallas
-Type_spoken      : Lecture
-Date_spoken      : March 3
-Year_spoken      : 1975
-Place_spoken     : Dallas
-Length_hidden    : 22:27
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750303le.dal.mp3|Lecture — March 3, 1975, Dallas}}
-</audio>
-
 **Prabhupāda:**
 ...future [indistinct]. Prahlāda Mahārāja wanted this. This Dallas temple, Dallas, this educational institution, must be unique in the world, because nobody is interested to give their children spiritual education. When I first attempted to start this movement from India, I approached many friends, that "You have got four children or five children. Give me one child. I shall train him as //brāhmaṇa// and Vaiṣṇava." Nobody agreed. Everyone said, "Swāmījī, what will be the benfit by becoming //brāhmaṇa?// After all, he has to struggle for existence. Nobody cares for //brāhmaṇa.//" That is also a fact. Nobody is nowadays interested about the brahminical culture. We are trying to push this brahminical culture within the demoniac culture. It is very difficult task, but still, by grace of Śrī Caitanya Mahāprabhu, we are more or less successful. I am very glad to see your temple worship, not only here; everywhere. So you American boys and girls, you are fortunate that this movement is started from America, and some of you are taking seriously, trying to help me. So I am very much obliged to you. So keep this standard as you are now keeping, then things will go automatically, and one day people will understand in the history that this movement was for saving the human society. That day will come.
 

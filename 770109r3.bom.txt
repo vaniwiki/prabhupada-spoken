@@ -9,24 +9,6 @@
 
 ====== Discussion on Deprogrammers ======
 
----- dataentry spoken ----
-id_hidden        : 770109r3.bom
-listtype_hidden  : Discussion on Deprogrammers
-listdate_hidden  : 1977-01-09
-showdate_hidden  : 2023-01-09
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 9
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 55:37
-Title_hidden     : Discussion on Deprogrammers
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770109r3.bom.mp3|Discussion on Deprogrammers — January 9, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [Hindi] //Jñānaṁ ca yad ahaitukam.// [Hindi] //Jñāna vairāgya.// [Hindi]
 

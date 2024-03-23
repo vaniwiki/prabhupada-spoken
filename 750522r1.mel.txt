@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Two Lawyers and Photographer ======
 
----- dataentry spoken ----
-id_hidden        : 750522r1.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-22
-showdate_hidden  : 2023-05-22
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : May 22
-Year_spoken      : 1975
-Place_spoken     : Melbourne
-Length_hidden    : 10:26
-Title_hidden     : Room Conversation with Two Lawyers and Photographer
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750522r1.mel.mp3|Room Conversation with Two Lawyers and Photographer — May 22, 1975, Melbourne}}
-</audio>
-
 **Madhudviṣa:**
 ...who are here, they would like to have your association, [laughter] more personal association.
 

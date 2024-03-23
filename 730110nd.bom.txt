@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 730110nd.bom
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1973-01-10
-showdate_hidden  : 2023-01-10
-listplace_hidden : Bombay
-Type_spoken      : Nectar of Devotion
-Date_spoken      : January 10
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 36:40
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730110nd.bom.mp3|The Nectar of Devotion — January 10, 1973, Bombay}}
-</audio>
-
 **Pradyumna:**
 "...is divided into four parts, just as the ocean is sometimes divided into four parts, and there are different sections within each of these four divisions. Originally, in //Bhakti-rasāmṛta-sindhu,// the ocean is divided like the watery ocean, to east, west, north and south, while the subsections within these different divisions are called waves. As in the ocean there are always different waves, either on the eastern side, the western side, the northern side or the southern side, so similarly, //Bhakti-rasāmṛta-sindhu...//"
 

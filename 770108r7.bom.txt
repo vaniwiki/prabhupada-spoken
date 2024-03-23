@@ -9,24 +9,6 @@
 
 ====== Arrival of BBT manager ======
 
----- dataentry spoken ----
-id_hidden        : 770108r7.bom
-listtype_hidden  : Arrival of BBT manager
-listdate_hidden  : 1977-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 8
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 30:55
-Title_hidden     : Arrival of BBT Manager
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770108r7.bom.mp3|Arrival of BBT manager — January 8, 1977, Bombay}}
-</audio>
-
 **Rāmeśvara:**
 All glories to Śrīla Prabhupāda! //Jaya!//
 

@@ -9,24 +9,6 @@
 
 ====== Arrival Address ======
 
----- dataentry spoken ----
-id_hidden        : 750308ar.lon
-listtype_hidden  : Arrival Address
-listdate_hidden  : 1975-03-08
-showdate_hidden  : 2023-03-08
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : March 8
-Year_spoken      : 1975
-Place_spoken     : London
-Length_hidden    : 06:40
-Title_hidden     : Arrival Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750308ar.lon.mp3|Arrival Address — March 8, 1975, London}}
-</audio>
-
 **Prabhupāda:**
 So how many devotees are there now?
 

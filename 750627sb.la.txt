@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.15 ======
 
----- dataentry spoken ----
-id_hidden        : 750627sb.la
-listtype_hidden  : SB 6.1.15
-listdate_hidden  : 1975-06-27
-showdate_hidden  : 2023-06-27
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 27
-Year_spoken      : 1975
-Place_spoken     : Los Angeles
-Length_hidden    : 23:27
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750627sb.la.mp3|SB 6.1.15 — June 27, 1975, Los Angeles}}
-</audio>
-
 **Santoṣa:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

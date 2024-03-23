@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.10.4 ======
 
----- dataentry spoken ----
-id_hidden        : 730619sb.may
-listtype_hidden  : SB 1.10.4
-listdate_hidden  : 1973-06-19
-showdate_hidden  : 2023-06-19
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 19
-Year_spoken      : 1973
-Place_spoken     : Māyāpur
-Length_hidden    : 43:19
-Title_hidden     : Śrīmad-Bhāgavatam 1.10.4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730619sb.may.mp3|SB 1.10.4 — June 19, 1973, Māyāpur}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

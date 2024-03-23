@@ -9,24 +9,6 @@
 
 ====== Room Conversation New Books ======
 
----- dataentry spoken ----
-id_hidden        : 771102r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 2
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 11:22
-Title_hidden     : Room Conversation New Books
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771102r1.vrn.mp3|Room Conversation New Books — November 2, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 I think I have printed list here. Sixty-three thousand copies printed. //Kṛṣṇa// book in Spanish, three volumes. [break]
 

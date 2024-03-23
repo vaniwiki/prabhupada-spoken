@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.18 ======
 
----- dataentry spoken ----
-id_hidden        : 760225sb.may
-listtype_hidden  : SB 7.9.18
-listdate_hidden  : 1976-02-25
-showdate_hidden  : 2023-02-25
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 25
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 29:40
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760225sb.may.mp3|SB 7.9.18 — February 25, 1976, Māyāpur}}
-</audio>
-
 **Dayānanda:** Translation: "O my Lord Nṛsiṁha, in this way, just being engaged in Your transcendental loving service, I shall be able to associate with devotees who are liberated souls, //haṁsas,// and thus, being completely uncontaminated by the association of three modes of material nature, it will be possible for me to chant the glories of Your Lordship, who is so dear to me. I shall chant Your glories, fully following the footprints of Lord Brahmā and his disciplic succession. In this way it will be possible without any doubt that I shall cross over the ocean of nescience."
 
 **Prabhupāda:**

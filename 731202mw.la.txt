@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731202mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-02
-showdate_hidden  : 2023-12-02
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 2
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 55:54
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731202mw.la.mp3|Morning Walk — December 2, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Somebody who was atheist, talk with Kīrtanānanda.
 

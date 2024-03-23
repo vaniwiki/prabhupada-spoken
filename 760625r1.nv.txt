@@ -9,24 +9,6 @@
 
 ====== Room Conversation and Reading from SB 1.5.1–16 and 12th Canto ======
 
----- dataentry spoken ----
-id_hidden        : 760625r1.nv
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-25
-showdate_hidden  : 2023-06-25
-listplace_hidden : New Vrindavan
-Type_spoken      : Room Conversation
-Date_spoken      : June 25
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 93:25
-Title_hidden     : Room Conversation and Reading from Śrīmad-Bhāgavatam 1.5.1–16 and 12th Canto
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760625r1.nv.mp3|Room Conversation and Reading from SB 1.5.1-16 and 12th Canto — June 25, 1976, New Vrindavan}}
-</audio>
-
 **Devotee (1):**
 These are publicity for the Ratha-yātrā. This is the article about the building, how it's the most attractive real estate near Cleveland. It's in the paint and flowers and gardens.
 

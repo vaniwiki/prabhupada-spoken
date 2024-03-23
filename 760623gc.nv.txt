@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760623gc.nv
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1976-06-23
-showdate_hidden  : 2023-06-23
-listplace_hidden : New Vrindavan
-Type_spoken      : Room Conversation
-Date_spoken      : June 23
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 69:20
-Title_hidden     : Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760623gc.nv.mp3|Garden Conversation — June 23, 1976, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 ...production of it's external. //Bahir-aṅga-śakti.// But the //śakti,// the energy, is coming from the Supreme. Just like here we find this place is shadow and that place is sunshine. Both these places are due to the sun. When there is no sun, there is no such distinction that "This is shining, sunny, and this is shadow." So this distinction is there so long we do not know the real source. But if we know the real source, we can understand that this distinction is temporary. Actually the energy is coming from the Supreme. So shadow has come from Supreme, and light has also come from the Supreme. So there is no distinction, ultimately. Just like earring, golden, manufactured from gold, and the gold which is not manufactured. So this distinction---manufactured or not manufactured, secondary. But really the earring is also gold, and the lump of gold is also gold. So why should we say that earring is false? It is also gold. In relationship with the supreme source, //janmādy asya yataḥ// [[books:sb:1:1:1|[SB 1.1.1]]], there is no such distinction.
 

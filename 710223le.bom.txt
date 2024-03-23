@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710223le.bom
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1971-02-23
-showdate_hidden  : 2023-02-23
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : February 23
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710223le.bom.mp3|Pandal Lecture — February 23, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 This Kṛṣṇa consciousness movement is a self-purification movement. The method is vibration of transcendental sound. This Hare Kṛṣṇa, this sound, is not material sound. It is descended from the spiritual world. Kṛṣṇa and Kṛṣṇa's name---not different. //Abhinnatvāṁ nāma-nāminoḥ.// As in this material world there is difference between the name and the substance... If you are thirsty, then if you simply chant "water, water, water," your thirst will not be quenched. You have to get the substance water. But in the spiritual world it is, being absolute, the name and the person whose name we are chanting, they are the same. Therefore by chanting this holy name of God, Kṛṣṇa, Hare Kṛṣṇa... //Hare// is addressing the spiritual energy of the Lord, and //Kṛṣṇa// is the Supreme Lord. So by being in touch with the Supreme Lord and His energy directly, we become purified. Exactly like if you take one iron rod, put into the fire, it becomes warner, warmer, and at last it becomes red hot. When it is red hot, it is no longer iron; it is fire. Similarly, if you constantly become in touch with the Supreme Lord by chanting His holy name, which is not different from the Supreme Lord, then you become spiritually purified. And as soon as you are spiritually purified, then all misunderstandings of this material world immediately vanquished. That is called Kṛṣṇa consciousness. Every living entity is conscious. The original consciousness is polluted by contamination of this material world. Just like water, when it falls from the cloud directly, it is clear and without any dirty things, but as soon as it touches the ground, it becomes muddy. Again, if you decant the muddy portion of the water, it becomes again clear. Similarly, our consciousness, being polluted by the three modes of material nature, we are thinking one another as enemy or friend. But as soon as you come on the platform of Kṛṣṇa consciousness, you feel that "We are one. The center is Kṛṣṇa." And Kṛṣṇa says in the //Bhagavad-gītā, ahaṁ bīja-pradaḥ pitā// [[books:bg:14:4|[Bg. 14.4]]]. There are 8,400,000 species of life in different forms. The father, the seed-giving father, is Kṛṣṇa, or the Lord, the Supreme Lord. By misunderstanding, we are thinking that "I am Indian, you are American," or "You are //brāhmaṇa,// I am //śūdra,//" or "You are Hindu, I am Muslim." These differences are only designations. So as soon as we are freed from the designation---//sarvopādhi-vinirmuktaṁ tat-paratvena nirmalam// [[books:cc:madhya:19:170|[Cc. Madhya 19.170]]]---when we become //nirmalam,// clear---clear consciousness and Kṛṣṇa consciousness is the same thing---then all our misunderstanding is vanquished immediately. Then we can understand what is God, what I am, what you are, what is our relationship, and when we act accordingly, there is no controversy, no misunderstanding.
 

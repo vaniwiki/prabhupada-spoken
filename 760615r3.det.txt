@@ -9,24 +9,6 @@
 
 ====== Conversation with Clergymen ======
 
----- dataentry spoken ----
-id_hidden        : 760615r3.det
-listtype_hidden  : Conversation with Clergymen
-listdate_hidden  : 1976-06-15
-showdate_hidden  : 2023-06-15
-listplace_hidden : Detroit
-Type_spoken      : Room Conversation
-Date_spoken      : June 15
-Year_spoken      : 1976
-Place_spoken     : Detroit
-Length_hidden    : 75:02
-Title_hidden     : Conversation with Clergymen
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760615r3.det.mp3|Conversation with Clergymen — June 15, 1976, Detroit}}
-</audio>
-
 **Jayādvaita:**
 That should be finished in not more than one or two days.
 

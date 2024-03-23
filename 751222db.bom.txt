@@ -9,24 +9,6 @@
 
 ====== Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 ======
 
----- dataentry spoken ----
-id_hidden        : 751222db.bom
-listtype_hidden  : Disappearance, Bg 16.7
-listdate_hidden  : 1975-12-22
-showdate_hidden  : 2023-12-22
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : December 22
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 38:52
-Title_hidden     : His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī’s Disappearance Day, Bhagavad-gītā 16.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751222db.bom.mp3|Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 — December 22, 1975, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > ...na śaucaṁ nāpi cācāro

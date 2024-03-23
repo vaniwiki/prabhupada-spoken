@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770108r2.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 8
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 135:30
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770108r2.bom.mp3|Room Conversation — January 8, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 There is chance of being accepted all over the world. They are... There is now opposition, and some of the politicians, they're of opinion that "This culture, Hare Kṛṣṇa movement, is spreading like epidemic, and if we do not check, in ten years' time they'll take the government."
 

@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 21.62–67 ======
 
----- dataentry spoken ----
-id_hidden        : 670106cc.ny
-listtype_hidden  : Cc. Madhya 21.62–67
-listdate_hidden  : 1967-01-06
-showdate_hidden  : 2023-01-06
-listplace_hidden : New York
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : January 6
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 21.62–67
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670106cc.ny.mp3|Cc. Madhya 21.62-67 — January 6, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > kṛṣṇe jānāñā dvārī brahmāre lañā gelā

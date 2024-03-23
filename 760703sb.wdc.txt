@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.20–23 ======
 
----- dataentry spoken ----
-id_hidden        : 760703sb.wdc
-listtype_hidden  : SB 7.6.20–23
-listdate_hidden  : 1976-07-03
-showdate_hidden  : 2023-07-03
-listplace_hidden : Washington D.C.
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 3
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 22:22
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.20–23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760703sb.wdc.mp3|SB 7.6.20-23 — July 3, 1976, Washington D.C.}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting, etc.]
 

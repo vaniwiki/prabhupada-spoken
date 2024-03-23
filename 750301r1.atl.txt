@@ -9,24 +9,6 @@
 
 ====== Room Conversation with three Trappist Monks ======
 
----- dataentry spoken ----
-id_hidden        : 750301r1.atl
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-03-01
-showdate_hidden  : 2023-03-01
-listplace_hidden : Atlanta
-Type_spoken      : Room Conversation
-Date_spoken      : March 1
-Year_spoken      : 1975
-Place_spoken     : Atlanta
-Length_hidden    : 52:27
-Title_hidden     : Room Conversation with three Trappist Monks, Psychologists from the University of Georgia, and Atlanta Lawyer Michael Green
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750301r1.atl.mp3|Room Conversation with three Trappist Monks — March 1, 1975, Atlanta}}
-</audio>
-
 **Prabhupāda:**
 That is the Vedic description. The religious principle cannot be manufactured by anyone within this universe. It is the codes or laws given by God. That is religion. That means we have to know who is God, what is His desire, and we have to abide by that. That is religion. Just like a good citizen means he knows the government and the government laws, and he abides by it. Then he is good citizen. Otherwise he is criminal. If he does not abide by the laws of the state, he is criminal. Similarly, if one does not abide by the orders or the codes or the laws of God, he is Satan, or demon. //Harāv abhaktasya kuto mahad-guṇā// [[books:sb:5:18:12|[SB 5.18.12]]]. Therefore anyone who is disobedient to God, he cannot have any good qualification. And //yasyāsti bhaktir bhagavaty akiñcanā sarvair guṇais tatra samāsate suraḥ,// and one who is devotee, abiding by the orders of God, he has got all the good qualification of God's.
 

@@ -9,24 +9,6 @@
 
 ====== Visit From Allopathic Doctor ======
 
----- dataentry spoken ----
-id_hidden        : 771010vi.vrn
-listtype_hidden  : Allopathic Doctor
-listdate_hidden  : 1977-10-10
-showdate_hidden  : 2023-10-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Lecture
-Date_spoken      : October 10
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 73:23
-Title_hidden     : Visit From Allopathic Doctor
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771010vi.vrn.mp3|Visit From Allopathic Doctor — October 10, 1977, Vṛndāvana}}
-</audio>
-
 **Doctor:**
 [Hindi] That shows there is deficiency of vitamin B-complex. [Hindi]
 

@@ -9,24 +9,6 @@
 
 ====== Conversation with Yadubara (after seeing film) ======
 
----- dataentry spoken ----
-id_hidden        : 770417r2.bom
-listtype_hidden  : Conversation with Yadubara (after seeing film)
-listdate_hidden  : 1977-04-17
-showdate_hidden  : 2023-04-17
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 17
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 38:24
-Title_hidden     : Conversation with Yadubara [after seeing film]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770417r2.bom.mp3|Conversation with Yadubara (after seeing film) — April 17, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Nice. So how it is reacting amongst the public?
 

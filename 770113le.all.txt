@@ -9,24 +9,6 @@
 
 ====== Lecture at Kumbha-melā ======
 
----- dataentry spoken ----
-id_hidden        : 770113le.all
-listtype_hidden  : Lecture at Kumbha-melā
-listdate_hidden  : 1977-01-13
-showdate_hidden  : 2023-01-13
-listplace_hidden : Allahabad
-Type_spoken      : Lecture
-Date_spoken      : January 13
-Year_spoken      : 1977
-Place_spoken     : Allahabad
-Length_hidden    : 14:48
-Title_hidden     : Lecture at Kumbha-melā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770113le.all.mp3|Lecture at Kumbha-melā — January 13, 1977, Allahabad}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] ...the Personality of Godhead, He has come down. He comes,
 

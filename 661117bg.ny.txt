@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 8.15–20 ======
 
----- dataentry spoken ----
-id_hidden        : 661117bg.ny
-listtype_hidden  : Bg 8.15–20
-listdate_hidden  : 1966-11-17
-showdate_hidden  : 2023-11-17
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 17
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 8.15–20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661117bg.ny.mp3|Bg 8.15-20 — November 17, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > mām upetya punar janma

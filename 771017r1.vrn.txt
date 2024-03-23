@@ -9,24 +9,6 @@
 
 ====== Room Conversation Visit from Dr. G. Ghosh and Dr. Gopal ======
 
----- dataentry spoken ----
-id_hidden        : 771017r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-17
-showdate_hidden  : 2023-10-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 17
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 64:26
-Title_hidden     : Room Conversation Visit from Dr. G. Ghosh and Dr. Gopal
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771017r1.vrn.mp3|Room Conversation Visit from Dr. G. Ghosh and Dr. Gopal — October 17, 1977, Vṛndāvana}}
-</audio>
-
 **Dr. Ghosh:**
 [Bengali] Regular lecture about health and disease in popular language with demonstrations by charts, models, projectors and cinematography. [Bengali] Maintaining health cards for children. Every six months have their height, weight... [Bengali] Building health science museum. [Bengali] ...models, charts, shows various parts of the body... [Bengali] ...for propagating health science amongst the inmates of //gurukula// and the public. [Bengali] ...gymnasium for health. [Bengali]
 

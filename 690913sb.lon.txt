@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.1–2 ======
 
----- dataentry spoken ----
-id_hidden        : 690913sb.lon
-listtype_hidden  : SB 5.5.1–2
-listdate_hidden  : 1969-09-13
-showdate_hidden  : 2023-09-13
-listplace_hidden : Tittenhurst, London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 13
-Year_spoken      : 1969
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.1–2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690913sb.lon.mp3|SB 5.5.1-2 — September 13, 1969, Tittenhurst, London}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers then---aside:] Where is my spectacle? [pause] Many thousands of years before, Ṛṣabhadeva... He is accepted as the incarnation of Godhead, king or emperor of the world. He instructed His sons. He had one hundred sons, and He was... Before retiring from His family life, He wanted to install His eldest son, Mahārāja Bharata, on the throne. And before retiring He was instructing His other sons as follows. Mahārāja Bharata was a great king, and after his name, India is called Bhāratavarṣa. This planet is..., was known before that as Ilāvṛtavarṣa, and after Mahārāja Bharata ruled, this planet was known as Bhāratavarṣa. Gradually, the planet was divided into so many other states. Now Bhāratavarṣa means a small piece of land known as India.
 

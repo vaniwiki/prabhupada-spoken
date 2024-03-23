@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771002r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-02
-showdate_hidden  : 2023-10-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 2
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 58:59
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771002r1.vrn.mp3|Room Conversation — October 2, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 Just writing some notes. I was remembering the discussion we had, all of your disciples and you, when we were considering whether we should go to Vṛndāvana or not, how we were all giving different arguments, one side or the other. So I was remembering how... I was just writing down some of the different arguments. Then we all concluded that the best program was to come to Vṛndāvana. And now I can see it was the right conclusion, because I feel that we are at home. Here it is home. Kṛṣṇa and Balarāma are here.
 

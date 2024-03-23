@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751210mw.vrn
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-12-10
-showdate_hidden  : 2023-12-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : December 10
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 35:17
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751210mw.vrn.mp3|Morning Walk — December 10, 1975, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 The rascals should not do that. Bhaktivinoda Ṭhākura says, //nāmāśraya kari thākaha āpana kārye.// You do your work, but take shelter of //hari-nama.// That is wanted.
 

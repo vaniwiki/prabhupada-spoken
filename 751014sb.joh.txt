@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.7.2–4 ======
 
----- dataentry spoken ----
-id_hidden        : 751014sb.joh
-listtype_hidden  : SB 1.7.2–4
-listdate_hidden  : 1975-10-14
-showdate_hidden  : 2023-10-14
-listplace_hidden : Johannesburg
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 14
-Year_spoken      : 1975
-Place_spoken     : Johannesburg
-Length_hidden    : 49:26
-Title_hidden     : Śrīmad-Bhāgavatam 1.7.2–4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751014sb.joh.mp3|SB 1.7.2-4 — October 14, 1975, Johannesburg}}
-</audio>
-
 **Prabhupāda:**
 So I shall try to speak on some of the preliminary important //ślokas// from //Śrīmad-Bhāgavatam,// how //Śrīmad-Bhāgavatam// was compiled by Vyāsadeva under the instruction of Śrī Nārada Muni.
 

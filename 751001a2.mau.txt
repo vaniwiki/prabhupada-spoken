@@ -9,24 +9,6 @@
 
 ====== Arrival Reception ======
 
----- dataentry spoken ----
-id_hidden        : 751001a2.mau
-listtype_hidden  : Arrival Reception
-listdate_hidden  : 1975-10-01
-showdate_hidden  : 2023-10-01
-listplace_hidden : Mauritius
-Type_spoken      : Lecture
-Date_spoken      : October 1
-Year_spoken      : 1975
-Place_spoken     : Mauritius
-Length_hidden    : 03:50
-Title_hidden     : Arrival Reception
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751001a2.mau.mp3|Arrival Reception — October 1, 1975, Mauritius}}
-</audio>
-
 **Indian Official:**
 ...to have you among us. And we welcome you on behalf of the people of Mauritius to this island and hope you will enjoy your short stay here. And Swāmījī, how long are you going to stay here?
 

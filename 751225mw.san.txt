@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751225mw.san
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-12-25
-showdate_hidden  : 2023-12-25
-listplace_hidden : Sanand
-Type_spoken      : Morning Walk
-Date_spoken      : December 25
-Year_spoken      : 1975
-Place_spoken     : Sanand
-Length_hidden    : 04:11
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751225mw.san.mp3|Morning Walk — December 25, 1975, Sanand}}
-</audio>
-
 **Prabhupāda:**
 ...naturally.
 

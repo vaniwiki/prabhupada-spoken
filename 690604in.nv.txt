@@ -9,25 +9,6 @@
 
 ====== Initiation Lecture, Bhagavān Marriage Ceremony ======
 
----- dataentry spoken ----
-id_hidden        : 690604in.nv # 
-listtype_hidden  : Initiation Lecture, Bhagavān Marriage Ceremony # 
-listdate_hidden  : 1969-06-04
-showdate_hidden  : 2023-06-04 #
-listplace_hidden : New Vrindaban # 
-Type_spoken      : Initiation # 
-Date_spoken      : June 4 # 
-Year_spoken      : 1969 # 
-Place_spoken     : New Vrindavan # 
-Length_hidden    : 00:00 # 
-Title_hidden     : Initiation Lecture, Bhagavān Marriage Ceremony # 
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690604in.nv.mp3|Initiation Lecture, Bhagavān Marriage Ceremony — June 4, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 
 > oṁ ajñāna-timirāndhasya

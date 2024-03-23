@@ -9,24 +9,6 @@
 
 ====== Conversation Pieces ======
 
----- dataentry spoken ----
-id_hidden        : 770527r2.vrn
-listtype_hidden  : Conversation Pieces
-listdate_hidden  : 1977-05-27
-showdate_hidden  : 2023-05-27
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : May 27
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 45:25
-Title_hidden     : Conversation Pieces
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770527r2.vrn.mp3|Conversation Pieces — May 27, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 We have no other business. We want to see people live---eating very nicely nutritious food, keeping good health. But unnecessarily artificial things, bothering, that we don't want. Keep your health very nice, live for as many years as possible, and be Kṛṣṇa conscious. Then next life you go back to home, back to Godhead, permanent life. //Yad gatvā na nivartante// [[books:bg:15:6|[Bg. 15.6]]]. This we want to give. There is no cheating. There is no politics, no personal ambition fulfillment. This is our mission. Try to convince them. There is not a little tinge of personal sense gratification. This is our... Now can you point out, any one of them, that "Here is the point, the personal sense gratification"? We are talking amongst ourselves, so if there is any flaw, you can point out---can anyone?---that "Here is the point, personal sense gratification"? There is no such things in Kṛṣṇa consciousness. //Tāṅdera caraṇa-sebi-bhakta-sane bās.// Our only ambition is we live among devotees and execute the mission of our predecessors, Caitanya Mahāprabhu, Kṛṣṇa. This is our ambition.
 

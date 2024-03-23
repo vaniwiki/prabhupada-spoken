@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Gaṇeśa dāsa’s Mother and Sister ======
 
----- dataentry spoken ----
-id_hidden        : 750513r3.per
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-13
-showdate_hidden  : 2023-05-13
-listplace_hidden : Perth
-Type_spoken      : Room Conversation
-Date_spoken      : May 13
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 42:50
-Title_hidden     : Room Conversation with Gaṇeśa dāsa’s Mother and Sister
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750513r3.per.mp3|Room Conversation with Gaṇeśa dāsa’s Mother and Sister — May 13, 1975, Perth}}
-</audio>
-
 **Prabhupāda:**
 Any city which has river and sunshine is considered to be first class.
 

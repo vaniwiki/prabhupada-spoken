@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.16.20 ======
 
----- dataentry spoken ----
-id_hidden        : 740710sb.la
-listtype_hidden  : SB 1.16.20
-listdate_hidden  : 1974-07-10
-showdate_hidden  : 2023-07-10
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 10
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 38:09
-Title_hidden     : Śrīmad-Bhāgavatam 1.16.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740710sb.la.mp3|SB 1.16.20 — July 10, 1974, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [leads singing of //Jaya Rādhā-Mādhava//] [//prema-dhvani//]
 

@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710217le.gor
-listtype_hidden  : Lecture
-listdate_hidden  : 1971-02-17
-showdate_hidden  : 2023-02-17
-listplace_hidden : Gorakhpur
-Type_spoken      : Lecture
-Date_spoken      : February 17
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710217le.gor.mp3|Lecture — February 17, 1971, Gorakhpur}}
-</audio>
-
 **Prabhupāda:**
 ...giving quotations from many scriptures about the supreme position of chanting the holy name of Kṛṣṇa.
 

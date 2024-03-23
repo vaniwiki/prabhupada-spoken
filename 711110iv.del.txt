@@ -9,24 +9,6 @@
 
 ====== Interview with Reporters ======
 
----- dataentry spoken ----
-id_hidden        : 711110iv.del
-listtype_hidden  : Interview
-listdate_hidden  : 1971-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : New Delhi
-Type_spoken      : Interview
-Date_spoken      : November 10
-Year_spoken      : 1971
-Place_spoken     : New Delhi
-Length_hidden    : 00:00
-Title_hidden     : Interview with Reporters
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711110iv.del.mp3|Interview with Reporters — November 10, 1971, New Delhi}}
-</audio>
-
 **Prabhupāda:**
 Kṛṣṇa says that "I am the taste of the water." So everyone has got, everyone has knowledge what is the taste of water. Why do you say he does not know Kṛṣṇa? Kṛṣṇa says, "I am the light of the sunshine." So who has not seen the sunshine? So when you see sunshine, if you think, "It is Kṛṣṇa," what is the difficulty? There is no difficulty. //Raso 'ham apsu kaunteya prabhāsmi śaśi sūryayoḥ// [[books:bg:7:8|[Bg. 7.8]]]. There is no difficulty. //Raso 'ham apsu kaunteya prabhāsmi śaśi sūryayoḥ.// When you see some moonlight...
 

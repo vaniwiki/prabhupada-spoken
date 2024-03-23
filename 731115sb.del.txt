@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.10 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 731115sb.del
-listtype_hidden  : SB 1.2.10 [Hindi]
-listdate_hidden  : 1973-11-15
-showdate_hidden  : 2023-11-15
-listplace_hidden : Delhi
-Type_spoken      : Hindi
-Date_spoken      : November 15
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 39:53
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.10 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731115sb.del_hindi.mp3|SB 1.2.10 [Hindi] — November 15, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 
 > kāmasya nendriya-prītir

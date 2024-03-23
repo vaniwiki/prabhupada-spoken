@@ -9,24 +9,6 @@
 
 ====== Talk ======
 
----- dataentry spoken ----
-id_hidden        : 681018ta.sea
-listtype_hidden  : Talk
-listdate_hidden  : 1968-10-18
-showdate_hidden  : 2023-10-18
-listplace_hidden : Seattle
-Type_spoken      : Room Conversation
-Date_spoken      : October 18
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681018ta.sea.mp3|Talk — October 18, 1968, Seattle}}
-</audio>
-
 **Prabhupāda:**
 When you go to a medical man do you ask him whether he is Christian or Hindu? I am asking you. Suppose you go to a medical man, do you ask him, "Are you Christian or Muslim or Hindu?" Do you ask him?
 

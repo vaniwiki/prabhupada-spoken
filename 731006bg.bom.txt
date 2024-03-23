@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.13 ======
 
----- dataentry spoken ----
-id_hidden        : 731006bg.bom
-listtype_hidden  : Bg 13.13
-listdate_hidden  : 1973-10-06
-showdate_hidden  : 2023-10-06
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 6
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 36:39
-Title_hidden     : Bhagavad-gītā 13.13
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731006bg.bom.mp3|Bg 13.13 — October 6, 1973, Bombay}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

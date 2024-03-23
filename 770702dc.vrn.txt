@@ -9,24 +9,6 @@
 
 ====== Bhū-maṇḍala Diagram Discussion ======
 
----- dataentry spoken ----
-id_hidden        : 770702dc.vrn
-listtype_hidden  : Bhū-maṇḍala Diagram
-listdate_hidden  : 1977-07-02
-showdate_hidden  : 2023-07-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 2
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 38:02
-Title_hidden     : Bhū-maṇḍala Diagram Discussion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770702dc.vrn.mp3|Bhū-maṇḍala Diagram Discussion — July 2, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 They have to stand up on the chairs because it's so big. Big project. This is only one drawing. Imagine the planetarium. [break]
 

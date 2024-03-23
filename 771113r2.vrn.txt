@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771113r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-13
-showdate_hidden  : 2023-11-13
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 13
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 31:09
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771113r2.vrn.mp3|Room Conversation — November 13, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 It's sort of encouraging to see you taking milk. That's encouraging. That's something which you always said if you could take, you would get stronger, so I'm encouraged by that. I think that a great deal of patience is ultimately required, you know. We have to expect that actual strength and muscles will take a little time to come. [aside:] Prabhupāda's being disturbed by gases [indistinct].
 

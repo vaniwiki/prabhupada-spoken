@@ -9,24 +9,6 @@
 
 ====== Purport to Śrī-Śrī-Gurv-aṣṭakam ======
 
----- dataentry spoken ----
-id_hidden        : 690102pu.la
-listtype_hidden  : Śrī-Śrī-Gurv-aṣṭakam
-listdate_hidden  : 1969-01-02
-showdate_hidden  : 2023-01-02
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 2
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Śrī-Śrī-Gurv-aṣṭakam
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690102pu.la.mp3|Purport to Śrī-Śrī-Gurv-aṣṭakam — January 2, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 
 > saṁsāra-dāvānala-līḍha-loka-

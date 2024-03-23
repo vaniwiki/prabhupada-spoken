@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.62–72 ======
 
----- dataentry spoken ----
-id_hidden        : 681219bg.la
-listtype_hidden  : Bg 2.62–72
-listdate_hidden  : 1968-12-19
-showdate_hidden  : 2023-12-19
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 19
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 2.62–72
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681219bg.la.mp3|Bg 2.62-72 — December 19, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Who will read? You will read? Give me one book. Give me one book. Open it. Where you are reading?
 

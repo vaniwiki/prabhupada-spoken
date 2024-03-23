@@ -9,24 +9,6 @@
 
 ====== Arrival Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720420r1.tok
-listtype_hidden  : Arrival Conversation
-listdate_hidden  : 1972-04-20
-showdate_hidden  : 2023-04-20
-listplace_hidden : Tokyo
-Type_spoken      : Room Conversation
-Date_spoken      : April 20
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 12:27
-Title_hidden     : Arrival Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720420r1.tok.mp3|Arrival Conversation — April 20, 1972, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 So what //prasāda// you have prepared? Eh?
 

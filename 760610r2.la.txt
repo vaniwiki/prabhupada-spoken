@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760610r2.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-10
-showdate_hidden  : 2023-06-10
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 10
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 27:52
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760610r2.la.mp3|Room Conversation — June 10, 1976, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 That is his blessing. He wanted; I tried. That's all. Whatever is being done, it is by his desire. //Vaiṣṇava sata saṅkalpa.// Whatever he desires, that is to be fulfilled. //Yasya deve parā bhaktir yathā deve tathā gurau// [//ŚU// 6.23]. Therefore, full faith in //guru,// that is the prime factor of success. Not any other things, no qualification, no education, only staunch faith in //guru. Yasya deve parā bhaktir yathā deve tathā gurau. Yasya prasādād bhagavat-prasādaḥ.// This is the secret. So whatever little success is there, that was only this qualification, that I wanted to serve him. That's all. Otherwise, there was no business of coming here at the age of seventy years.
 

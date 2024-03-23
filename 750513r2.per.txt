@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750513r2.per
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-13
-showdate_hidden  : 2023-05-13
-listplace_hidden : Perth
-Type_spoken      : Room Conversation
-Date_spoken      : May 13
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 21:26
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750513r2.per.mp3|Room Conversation — May 13, 1975, Perth}}
-</audio>
-
 **Amogha:**
 He said that... When we were walking to the car, he said... I was talking to him a little bit about it, and I gave him some magazines to read. He said it is very convincing argument about the..., why the problems are all there because of the bodily concept of life. So he said, "It is a very convincing point of view and very thought-provoking." So I think he listened very well.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk, [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 740304mw.may
-listtype_hidden  : Morning Walk, [partially recorded]
-listdate_hidden  : 1974-03-04
-showdate_hidden  : 2023-03-04
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : March 4
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 10:15
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740304mw.may.mp3|Morning Walk, [partially recorded] — March 4, 1974, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...every paisa you should spend for Kṛṣṇa. Not that "Kṛṣṇa is giving money. Let us squander it as much as we like." Then there will be scarcity. [break] What is that?
 

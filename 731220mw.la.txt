@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731220mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-20
-showdate_hidden  : 2023-12-20
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 20
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 25:50
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731220mw.la.mp3|Morning Walk — December 20, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...that the energy is displayed. It works; again it comes back to the original. That's all. So what is their idea of conservation of energy? The same thing?
 

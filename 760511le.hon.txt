@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 760511le.hon
-listtype_hidden  : Lecture
-listdate_hidden  : 1976-05-11
-showdate_hidden  : 2023-05-11
-listplace_hidden : Honolulu
-Type_spoken      : Lecture
-Date_spoken      : May 11
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 62:08
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760511le.hon.mp3|Lecture — May 11, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 ...can be rendered in nine different ways. //Śravaṇam//---hearing. Somebody is speaking, and somebody is hearing. So both speaking and hearing, both of them are in the process of devotional service. But that talking or speaking and hearing, not about newspaper, Nixon news---Viṣṇu. //Śravaṇaṁ kīrtanaṁ viṣṇoḥ// [[books:sb:7:5:23-24|[SB 7.5.23]]]. There are so many things people are interested in newspaper, hearing and speaking. Radio talks, they are also speaking, and so many millions of people are hearing. Television, that is also speaking, hearing. News column... There are so many speaking and hearing. The whole world is full of speaking and hearing. But the distinction between ordinary speaking and hearing and this speaking and hearing about the glorification of the Lord is different.
 

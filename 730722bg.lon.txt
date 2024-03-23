@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 1.28–29 ======
 
----- dataentry spoken ----
-id_hidden        : 730722bg.lon
-listtype_hidden  : Bg 1.28–29
-listdate_hidden  : 1973-07-22
-showdate_hidden  : 2023-07-22
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 22
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 40:38
-Title_hidden     : Bhagavad-gītā 1.28–29
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730722bg.lon.mp3|Bg 1.28-29 — July 22, 1973, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse]
 

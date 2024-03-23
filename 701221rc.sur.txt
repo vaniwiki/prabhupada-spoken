@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 701221rc.sur
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1970-12-21
-showdate_hidden  : 2023-12-21
-listplace_hidden : Surat
-Type_spoken      : Room Conversation
-Date_spoken      : December 21
-Year_spoken      : 1970
-Place_spoken     : Surat
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701221rc.sur.mp3|Room Conversation — December 21, 1970, Surat}}
-</audio>
-
 **Prabhupāda:**
 So your father has got personality. And why the ultimate Godhead is not a person? What is this philosophy? If God is father, He must be person. How you can prove God imperson? Eh?
 

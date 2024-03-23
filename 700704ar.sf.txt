@@ -9,24 +9,6 @@
 
 ====== Ratha-yātrā and Press Conference ======
 
----- dataentry spoken ----
-id_hidden        : 700704ar.sf
-listtype_hidden  : Ratha-yātrā and Press Conference
-listdate_hidden  : 1970-07-04
-showdate_hidden  : 2023-07-04
-listplace_hidden : San Francisco
-Type_spoken      : Lecture
-Date_spoken      : July 4
-Year_spoken      : 1970
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Ratha-yātrā Arrival Lecture and Press Conference
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700704ar.sf.mp3|Ratha-yātrā and Press Conference — July 4, 1970, San Francisco}}
-</audio>
-
 [ecstatic //kīrtana, prema-dhvanī//]
 
 **Prabhupāda:**

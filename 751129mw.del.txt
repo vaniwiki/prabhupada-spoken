@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751129mw.del
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-11-29
-showdate_hidden  : 2023-11-29
-listplace_hidden : Delhi
-Type_spoken      : Morning Walk
-Date_spoken      : November 29
-Year_spoken      : 1975
-Place_spoken     : Delhi
-Length_hidden    : 47:38
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751129mw.del.mp3|Morning Walk — November 29, 1975, Delhi}}
-</audio>
-
 **Prabhupāda:**
 And he said "Hare Kṛṣṇa"?
 

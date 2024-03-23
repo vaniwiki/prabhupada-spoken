@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.14 ======
 
----- dataentry spoken ----
-id_hidden        : 740806bg.vrn
-listtype_hidden  : Bg 4.14
-listdate_hidden  : 1974-08-06
-showdate_hidden  : 2023-08-06
-listplace_hidden : Vṛndāvana
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : August 6
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 33:19
-Title_hidden     : Bhagavad-gītā 4.14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740806bg.vrn.mp3|Bg 4.14 — August 6, 1974, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [devotees repeat]
 

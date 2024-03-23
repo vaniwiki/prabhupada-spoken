@@ -9,22 +9,4 @@
 
 ====== Lecture [Bengali] Intro by Purī Mahārāja ======
 
----- dataentry spoken ----
-id_hidden        : 720227le.may
-listtype_hidden  : Lecture [Bengali] Intro by Purī Mahārāja
-listdate_hidden  : 1972-02-27
-showdate_hidden  : 2023-02-27
-listplace_hidden : Māyāpur
-Type_spoken      : Bengali
-Date_spoken      : February 27
-Year_spoken      : 1972
-Place_spoken     : Māyāpur
-Length_hidden    : 31:44
-Title_hidden     : Lecture [Bengali] Intro by Purī Mahārāja
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720227le.may_bengali.mp3|Lecture [Bengali] Intro by Purī Mahārāja — February 27, 1972, Māyāpur}}
-</audio>
-
 **Purī Mahārāja:**

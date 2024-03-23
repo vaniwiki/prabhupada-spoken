@@ -9,24 +9,6 @@
 
 ====== Śrīla Prabhupāda and Disciples Speak ======
 
----- dataentry spoken ----
-id_hidden        : 690409le.ny
-listtype_hidden  : Śrīla Prabhupāda and Disciples Speak
-listdate_hidden  : 1969-04-09
-showdate_hidden  : 2023-04-09
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : April 9
-Year_spoken      : 1969
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrīla Prabhupāda and Disciples Speak
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690409le.ny.mp3|Śrīla Prabhupāda and Disciples Speak — April 9, 1969, New York}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. So today you speak something, I shall hear. Yes. Any of you can speak something from //Śikṣāṣṭaka?// Yes? Stand up.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Mr. & Mrs. Wax ======
 
----- dataentry spoken ----
-id_hidden        : 750705r1.chi
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : Chicago
-Type_spoken      : Room Conversation
-Date_spoken      : July 5
-Year_spoken      : 1975
-Place_spoken     : Chicago
-Length_hidden    : 100:15
-Title_hidden     : Room Conversation with Mr. & Mrs. Wax, Writer and Editing Manager (respectively) of Playboy Magazine
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750705r1.chi.mp3|Room Conversation with Mr. & Mrs. Wax — July 5, 1975, Chicago}}
-</audio>
-
 [Mr. and Mrs. Wax are the parents of Puṇḍarīka dāsa]
 
 **Śrī Govinda:**

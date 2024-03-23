@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730428mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-04-28
-showdate_hidden  : 2023-04-28
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : April 28
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 64:20
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730428mw.la.mp3|Morning Walk — April 28, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Kliśyamānānām.// It is very important word. Everyone is suffering here. What the scientists can do that? "Future." That's all. Bluff. But everyone is suffering here. That is the word. //Bhave 'smin kliśyamānānām, avidyā...// [[books:sb:1:8:35|[SB 1.8.35]]].
 

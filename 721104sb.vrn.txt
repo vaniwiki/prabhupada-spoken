@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.24 ======
 
----- dataentry spoken ----
-id_hidden        : 721104sb.vrn
-listtype_hidden  : SB 1.2.24
-listdate_hidden  : 1972-11-04
-showdate_hidden  : 2023-11-04
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 4
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 39:03
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721104sb.vrn.mp3|SB 1.2.24 — November 4, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

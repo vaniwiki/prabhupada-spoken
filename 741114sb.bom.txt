@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.14 ======
 
----- dataentry spoken ----
-id_hidden        : 741114sb.bom
-listtype_hidden  : SB 3.25.14
-listdate_hidden  : 1974-11-14
-showdate_hidden  : 2023-11-14
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 14
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 30:06
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741114sb.bom.mp3|SB 3.25.14 — November 14, 1974, Bombay}}
-</audio>
-
 [loud sound of fireworks, firecrackers, etc., going on in background]
 
 **Nitāi:** "O most pious mother, I shall now explain unto you the ancient yoga system which I explained formerly unto the great sages. It is serviceable and practical in every way."

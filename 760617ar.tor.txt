@@ -9,20 +9,6 @@
 
 ====== Arrival Address ======
 
----- dataentry spoken ----
-id_hidden        : 760617ar.tor
-listtype_hidden  : Arrival Address
-listdate_hidden  : 1976-06-17
-showdate_hidden  : 2023-06-17
-listplace_hidden : Toronto
-Type_spoken      : Lecture
-Date_spoken      : June 17
-Year_spoken      : 1976
-Place_spoken     : Toronto
-Length_hidden    : 00:00
-Title_hidden     : Arrival Address
-----
-
 [No Audio]
 
 **Prabhupāda:**

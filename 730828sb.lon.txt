@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.10.5 ======
 
----- dataentry spoken ----
-id_hidden        : 730828sb.lon
-listtype_hidden  : SB 1.10.5
-listdate_hidden  : 1973-08-28
-showdate_hidden  : 2023-08-28
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 28
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 44:01
-Title_hidden     : Śrīmad-Bhāgavatam 1.10.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730828sb.lon.mp3|SB 1.10.5 — August 28, 1973, London}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

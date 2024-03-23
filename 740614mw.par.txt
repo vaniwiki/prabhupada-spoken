@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740614mw.par
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-06-14
-showdate_hidden  : 2023-06-14
-listplace_hidden : Paris
-Type_spoken      : Morning Walk
-Date_spoken      : June 14
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 41:01
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740614mw.par.mp3|Morning Walk — June 14, 1974, Paris}}
-</audio>
-
 **Prabhupāda:**
 ...not for any spiritual advancement.
 

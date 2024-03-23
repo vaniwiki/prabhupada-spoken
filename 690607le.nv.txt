@@ -9,25 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690607le.nv # 
-listtype_hidden  : Lecture # 
-listdate_hidden  : 1969-06-07
-showdate_hidden  : 2023-06-07 #
-listplace_hidden : New Vrindaban # 
-Type_spoken      : Lecture # 
-Date_spoken      : June 7 # 
-Year_spoken      : 1969 # 
-Place_spoken     : New Vrindavan # 
-Length_hidden    : 00:00 # 
-Title_hidden     : Lecture # 
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690607le.nv.mp3|Lecture — June 7, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 Kīrtanānanda Mahārāja? You can sit down here. That's all. No more want. Kīrtanānanda Mahārāja feels inconvenience. Yes.
 

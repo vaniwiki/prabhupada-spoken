@@ -9,24 +9,6 @@
 
 ====== Initiations and Wedding ======
 
----- dataentry spoken ----
-id_hidden        : 720409in.syd
-listtype_hidden  : Initiations and Wedding
-listdate_hidden  : 1972-04-09
-showdate_hidden  : 2023-04-09
-listplace_hidden : Sydney
-Type_spoken      : Initiation
-Date_spoken      : April 9
-Year_spoken      : 1972
-Place_spoken     : Sydney
-Length_hidden    : 35:20
-Title_hidden     : Initiations and Wedding Glebe Temple, in Backyard, A Former Tennis Court
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720409in.syd.mp3|Initiations and Wedding — April 9, 1972, Sydney}}
-</audio>
-
 **Prabhupāda:**
 So being afraid, he wanted to be saved by his youngest son. Naturally we, anyone we love... But because the youngest son had the name Nārāyaṇa, the original Nārāyaṇa took notice of him, and he was saved, and he was immediately taken to the kingdom of God because he chanted the name of Nārāyaṇa. So those who are always chanting the holy name of God, they are in safety position. Safety position means next life, he is going back to home, back to Godhead.
 

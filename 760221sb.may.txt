@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.14 ======
 
----- dataentry spoken ----
-id_hidden        : 760221sb.may
-listtype_hidden  : SB 7.9.14
-listdate_hidden  : 1976-02-21
-showdate_hidden  : 2023-02-21
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 21
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 27:44
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760221sb.may.mp3|SB 7.9.14 — February 21, 1976, Māyāpur}}
-</audio>
-
 **Śāstrījī:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [break] [leads chanting of verse, devotees respond] [break]
 

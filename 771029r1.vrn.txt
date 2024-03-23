@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771029r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-29
-showdate_hidden  : 2023-10-29
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 29
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 93:46
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771029r1.vrn.mp3|Room Conversation — October 29, 1977, Vṛndāvana}}
-</audio>
-
 **Kavirāja:**
 [Hindi with Bhakti-caru, talking about diet---milk, barley, curd]
 

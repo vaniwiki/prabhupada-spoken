@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.7.38–39 ======
 
----- dataentry spoken ----
-id_hidden        : 760930sb.vrn
-listtype_hidden  : SB 1.7.38–39
-listdate_hidden  : 1976-09-30
-showdate_hidden  : 2023-09-30
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 30
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 31:12
-Title_hidden     : Śrīmad-Bhāgavatam 1.7.38–39
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760930sb.vrn.mp3|SB 1.7.38-39 — September 30, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:** Translation: "Furthermore, I have personally heard you promise Draupadī that you would bring forth the head of the killer of her sons." [break] [leads chanting of synonyms to SB 1.7.39] [break]
 
 [01:02]

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.29 ======
 
----- dataentry spoken ----
-id_hidden        : 740810sb.vrn
-listtype_hidden  : SB 1.5.29
-listdate_hidden  : 1974-08-10
-showdate_hidden  : 2023-08-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 10
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 26:30
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.29
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740810sb.vrn.mp3|SB 1.5.29 — August 10, 1974, Vṛndāvana}}
-</audio>
-
 **Pradyumna:** Translation: "I was very much attached to those sages. I was gentle in behavior, and all my sins were eradicated in their service. In my heart I had strong faith in them. I had subjugated the senses, and I was strictly following them with body and mind."
 
 **Prabhupāda:**

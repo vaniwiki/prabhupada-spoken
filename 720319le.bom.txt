@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720319le.bom
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1972-03-19
-showdate_hidden  : 2023-03-19
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : March 19
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 49:20
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720319le.bom.mp3|Pandal Lecture — March 19, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Now when I was coming on the dais, one gentleman remarked that "Your this movement will help forgetful Indians who are trying to forget God." Not only in India; throughout the whole world they are trying to forget God. And this forgetfulness of our relationship with God is material condition. Material life and spiritual life, the difference is that when we forget God, that is material. And when we are fully conscious of God, that is spiritual life.
 

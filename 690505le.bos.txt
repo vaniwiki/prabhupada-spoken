@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 690505le.bos
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1969-05-05
-showdate_hidden  : 2023-05-05
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : May 5
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690505le.bos.mp3|Lecture [partially recorded] — May 5, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 ...come to the light of the sun, immediately you get out of your room and get, immediately. Similarly, although God is far, far away, He is everywhere at the same time. That is God's nature. Simply we have to agree that "Now I shall realize..." [break] ...without any difficulty, very easily. //Sa vai puṁsāṁ paro dharmo yato bhaktir adhokṣaje, yayātmā suprasīdati// [[books:sb:1:2:6|[SB 1.2.6]]]. And without spiritual realization you cannot have peace of mind. That is impossible. If you want to make... If you want to have peace of this world, of your mind, of your society, of your family, simply by amassing money, by material advance, it will never be possible. But if you improve a little in spiritual life, you become immediately happy.
 

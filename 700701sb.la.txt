@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.1 ======
 
----- dataentry spoken ----
-id_hidden        : 700701sb.la
-listtype_hidden  : SB 2.1.1
-listdate_hidden  : 1970-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 1
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 2.1.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700701sb.la.mp3|SB 2.1.1 — July 1, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. So we have got new book, //The First Step in God-Realization.// Yes. Hare Kṛṣṇa.
 

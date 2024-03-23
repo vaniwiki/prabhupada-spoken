@@ -9,24 +9,6 @@
 
 ====== Speech at Fire Yajña with South Indian Brāhmaṇas [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 760816sp.hyd
-listtype_hidden  : Fire Yajña Speech
-listdate_hidden  : 1976-08-16
-showdate_hidden  : 2023-08-16
-listplace_hidden : Hyderabad
-Type_spoken      : Lecture
-Date_spoken      : August 16
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 08:39
-Title_hidden     : Speech at Fire Yajña with South Indian Brāhmaṇas [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760816sp.hyd.mp3|Speech at Fire Yajña with South Indian Brāhmaṇas [partially recorded] — August 16, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 ...down to the Sutala planet, and by accepting the order of the Supreme Personality of Godhead. The Lord questioned Śukrācārya, "What was the discrepancy in the performance of //yajña// arranged by Bali Mahārāja that you cursed him?" Of course, he did not ask that "you cursed him," but it was understood. Śukrācārya admitted that there was no fault. This is the verse. When the Supreme Personality of Godhead is worshiped, there is no discrepancy. In the Kali-yuga it is said in the //śāstras// that //yajña// is now practically impossible; therefore it is recommended, //yajñair saṅkīrtanair prāyair yajanti hi// [SB 11.5.32].
 

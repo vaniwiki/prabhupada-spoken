@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5th Canto, Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730112sb.bom
-listtype_hidden  : SB 5th Canto, Pandal Lecture
-listdate_hidden  : 1973-01-12
-showdate_hidden  : 2023-01-12
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 12
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 54:46
-Title_hidden     : Śrīmad-Bhāgavatam 5th Canto, Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730112sb.bom.mp3|SB 5th Canto, Pandal Lecture — January 12, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 //Śrīmad-Bhāgavatam, pañcama skandha,// Fifth Canto. There are twelve cantos, //skandhas,// or division, of the //Śrīmad-Bhāgavatam. Śrīmad-Bhāgavatam amalaṁ purāṇaṁ yad vaiṣṇavānāṁ priyam// [SB 12.13.18]. //Śrīmad-Bhāgavatam// is //amalaṁ purāṇam. Amala// means spotless. There are eighteen //purāṇas.// Six //purāṇas// for the //sattvika// people, those who are in the modes of goodness. There are three qualities of the material nature: //sattva-guṇa, rajo-guṇa, tamo-guṇa.// The living entities, or the //jīvātmās,// they are in this material world for sense gratification. Anyone, beginning from Lord Brahmā down to the small ant or microscopic insect, everyone, every living entity, has come here in this material world for gratifying their senses.
 

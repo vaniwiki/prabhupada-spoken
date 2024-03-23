@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Indian Guest ======
 
----- dataentry spoken ----
-id_hidden        : 731004r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-10-04
-showdate_hidden  : 2023-10-04
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : October 4
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 17:31
-Title_hidden     : Room Conversation with Indian Guest
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731004r1.bom.mp3|Room Conversation with Indian Guest — October 4, 1973, Bombay}}
-</audio>
-
 **Guest (1):**
 ...the light is [indistinct].
 

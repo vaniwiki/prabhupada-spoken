@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Yadurāṇī ======
 
----- dataentry spoken ----
-id_hidden        : 720704r2.ny
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-07-04
-showdate_hidden  : 2023-07-04
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : July 4
-Year_spoken      : 1972
-Place_spoken     : New York
-Length_hidden    : 05:08
-Title_hidden     : Room Conversation with Yadurāṇī
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720704r2.ny.mp3|Room Conversation with Yadurāṇī — July 4, 1972, New York}}
-</audio>
-
 **Yadurāṇī:**
 ...they just didn't know how to do it effectively. And, Śrīla Prabhupāda, Muralīdhara just asked you that when Lord Brahmā, when he became angry at the four Kumāras he created Lord Śiva from between his eyebrows. So he is always situated on his lotus, but at that time should we paint him on his planet?
 

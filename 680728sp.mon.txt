@@ -9,24 +9,6 @@
 
 ====== Speech to Indian Audience ======
 
----- dataentry spoken ----
-id_hidden        : 680728sp.mon
-listtype_hidden  : Speech to Indian Audience
-listdate_hidden  : 1968-07-28
-showdate_hidden  : 2023-07-28
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : July 28
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Speech to Indian Audience
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680728sp.mon.mp3|Speech to Indian Audience — July 28, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 //...vijayate śrī-kṛṣṇa-saṅkīrtanam.// Lord Caitanya instructed this verse. He gave us eight verses, known as //Śikṣāṣṭaka. Śikṣa// means "instructions"; //aṣṭaka,// "eight." This //Śikṣāṣṭaka// poetry, containing eight verses, are very valuable, and they were given by Lord Caitanya for understanding of the whole human society. It was not meant for any particular country or particular society, but it was meant for the whole human race. Lord Caitanya entrusted His countrymen, who are known as Bhāratīyas, to distribute this message througho ut the whole world, in every village and every town. There is a nice Bengali verse in //Caitanya-caritāmṛta://
 

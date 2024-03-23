@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760629r1.nv
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : New Vrindavan
-Type_spoken      : Room Conversation
-Date_spoken      : June 29
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 24:53
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760629r1.nv.mp3|Room Conversation — June 29, 1976, New Vrindavan}}
-</audio>
-
 **Puṣṭa Kṛṣṇa:**
 Now what we've been doing with the dead cows is burying them. There's no..., everything's wasted. Śrīla Prabhupāda is proposing that why not the butcher take, we give free, he simply returns us the skin of the cow, and with the cowhide we properly tan it, we can make //mṛdaṅga// heads for the //khol,// and shoes, straps, whatever may be needed. The idea being that in the Western countries especially, people are accustomed to eating animals, animal flesh. So we have no objection.
 

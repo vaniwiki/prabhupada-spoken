@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.15.29 ======
 
----- dataentry spoken ----
-id_hidden        : 731207sb.la
-listtype_hidden  : SB 1.15.29
-listdate_hidden  : 1973-12-07
-showdate_hidden  : 2023-12-07
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 7
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 27:33
-Title_hidden     : Śrīmad-Bhāgavatam 1.15.29
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731207sb.la.mp3|SB 1.15.29 — December 7, 1973, Los Angeles}}
-</audio>
-
 **Pradyumna:** Translation: "Arjuna's constant remembrance of the lotus feet of Lord Śrī Kṛṣṇa rapidly increased his devotion, and as a result all the trash in his thoughts subsided." [[books:sb:1:15:29|[SB 1.15.29]]]
 
 **Prabhupāda:**

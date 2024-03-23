@@ -9,24 +9,6 @@
 
 ====== Children’s Darśana ======
 
----- dataentry spoken ----
-id_hidden        : 750126cd.hk
-listtype_hidden  : Children’s Darśana
-listdate_hidden  : 1975-01-26
-showdate_hidden  : 2023-01-26
-listplace_hidden : Hong Kong
-Type_spoken      : Various
-Date_spoken      : January 26
-Year_spoken      : 1975
-Place_spoken     : Hong Kong
-Length_hidden    : 18:17
-Title_hidden     : Children’s Darśana
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750126cd.hk.mp3|Children’s Darśana — January 26, 1975, Hong Kong}}
-</audio>
-
 **Prabhupāda:**
 Try to answer, children? Do you know what is Kṛṣṇa? Who can say? You say something about Kṛṣṇa?
 

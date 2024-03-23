@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771031r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-31
-showdate_hidden  : 2023-10-31
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 31
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 86:33
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771031r1.vrn.mp3|Room Conversation — October 31, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 ...may request him that "Since you feel that it is very important that Prabhupāda get a little more strength, you kindly wait about two more days, and let us go like that." In other words, we're not overly eager to leave tomorrow. If the //kavirāja// were willing to stay here for ten days more, we'd be very happy, and then after ten days we'd go with him.
 

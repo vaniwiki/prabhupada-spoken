@@ -9,24 +9,6 @@
 
 ====== Purport to Jīv Jāgo ======
 
----- dataentry spoken ----
-id_hidden        : 690520pu.col
-listtype_hidden  : Jīv Jāgo
-listdate_hidden  : 1969-05-20
-showdate_hidden  : 2023-05-20
-listplace_hidden : Columbus
-Type_spoken      : Song Purport
-Date_spoken      : May 20
-Year_spoken      : 1969
-Place_spoken     : Columbus
-Length_hidden    : 00:00
-Title_hidden     : Purport to Jīv Jāgo
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690520pu.col.mp3|Purport to Jīv Jāgo — May 20, 1969, Columbus}}
-</audio>
-
 **Prabhupāda:**
 //Jīv jāgo, jīv jāgo, gauracānda bole. Jīv// means the living entities. Lord Caitanya Mahāprabhu is asking all living entities to "Wake up. Please wake up. Please get up." //Jāgo. Jāgo// means "Wake up."
 

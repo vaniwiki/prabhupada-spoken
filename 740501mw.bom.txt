@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740501mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-05-01
-showdate_hidden  : 2023-05-01
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : May 1
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 31:03
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740501mw.bom.mp3|Morning Walk — May 1, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 For this purpose, arrange meeting in the school, colleges, societies, big, big halls. Because they may not come. They are not attracted to the temple meetings. They think, "This temple is temple, some priestly class." They want philosophy, logic, science. So they have to be convinced. Not sentiments. So those who are advanced, they are not in favor of religious sentiments, because they have got experience, "Now, some sentiments..." But they do not understand what is this sentiment. Therefore they have to be understood through logic, philosophy, science. [//japa//] [break]
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.2 ======
 
----- dataentry spoken ----
-id_hidden        : 750412sb.hyd
-listtype_hidden  : SB 5.5.2
-listdate_hidden  : 1975-04-12
-showdate_hidden  : 2023-04-12
-listplace_hidden : Hyderabad
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 12
-Year_spoken      : 1975
-Place_spoken     : Hyderabad
-Length_hidden    : 61:37
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750412sb.hyd.mp3|SB 5.5.2 — April 12, 1975, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 
 > mahat-sevāṁ dvāram āhur vimuktes

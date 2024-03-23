@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710411le.bom
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1971-04-11
-showdate_hidden  : 2023-04-11
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : April 11
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710411le.bom.mp3|Pandal Lecture — April 11, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] Ladies and gentlemen, I thank you very much for your kindly participating in today's meeting. And we are known practically all over the world as the Hare Kṛṣṇa people. Wherever we go, they immediately recognize us as the Hare Kṛṣṇa people. So I'll try to speak something about this Hare Kṛṣṇa people. This Hare Kṛṣṇa people means... Since I started this movement in 1967 in New York, very, in a small scale... In the beginning... I went there in 1965, and for one year I had no shelter, neither any means to maintain myself. I had some books only, //Śrīmad-Bhāgavatam,// and some way or other, I pulled on. In 1966 I started this movement after incorporation in New York under the state religious act, and I began to chant Hare Kṛṣṇa //mantra// in a park in New York. What is called? Thompkins Square. Thompkins Square. And these young boys and girls, they began to assemble and chant and dance. This is the beginning. And when one well-known poet... Perhaps you know. He is Mr. Allen Ginsberg. He was also coming and joined with us. In this way, first of all we started our center in new York, Second Avenue, and then gradually expanded in San Francisco, in Montreal, in Boston, Buffalo, and Los Angeles. Now we have got fifty-two branches all over the world, including one in Tokyo, one in Hong Kong, in Australia, Sydney.
 

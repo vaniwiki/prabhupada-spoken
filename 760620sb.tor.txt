@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.4 ======
 
----- dataentry spoken ----
-id_hidden        : 760620sb.tor
-listtype_hidden  : SB 7.6.4
-listdate_hidden  : 1976-06-20
-showdate_hidden  : 2023-06-20
-listplace_hidden : Toronto
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 20
-Year_spoken      : 1976
-Place_spoken     : Toronto
-Length_hidden    : 26:17
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760620sb.tor.mp3|SB 7.6.4 — June 20, 1976, Toronto}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Devotees repeat] [leads chanting, etc.]
 

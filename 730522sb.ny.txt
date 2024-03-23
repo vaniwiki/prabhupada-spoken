@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.9.40 ======
 
----- dataentry spoken ----
-id_hidden        : 730522sb.ny
-listtype_hidden  : SB 1.9.40
-listdate_hidden  : 1973-05-22
-showdate_hidden  : 2023-05-22
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 22
-Year_spoken      : 1973
-Place_spoken     : New York
-Length_hidden    : 19:23
-Title_hidden     : Śrīmad-Bhāgavatam 1.9.40
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730522sb.ny.mp3|SB 1.9.40 — May 22, 1973, New York}}
-</audio>
-
 **Lady devotee:**
 
 > ...kṛtam anukṛtavatya unmadāndhāḥ

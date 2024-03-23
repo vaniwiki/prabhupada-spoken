@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 711114le.del
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1971-11-14
-showdate_hidden  : 2023-11-14
-listplace_hidden : New Delhi
-Type_spoken      : Lecture
-Date_spoken      : November 14
-Year_spoken      : 1971
-Place_spoken     : New Delhi
-Length_hidden    : 00:00
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711114le.del.mp3|Pandal Lecture — November 14, 1971, New Delhi}}
-</audio>
-
 **Prabhupāda:**
 [//prema-dhvani// prayers] Mr. Justice Rangarajan, Justice Misra and Lalaji, ladies and gentlemen, I thank you very much for your kindly participating in this Kṛṣṇa consciousness movement. Today, this evening, we are especially enlightened by the nice speech delivered by Justice Rangarajan, little describing about //bhakti-yoga.// Actually, we are discussing this //bhakti-yoga// for the last few days.
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 1.23 ======
 
----- dataentry spoken ----
-id_hidden        : 730719bg.lon
-listtype_hidden  : Bg 1.23
-listdate_hidden  : 1973-07-19
-showdate_hidden  : 2023-07-19
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 19
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 28:32
-Title_hidden     : Bhagavad-gītā 1.23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730719bg.lon.mp3|Bg 1.23 — July 19, 1973, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse]
 

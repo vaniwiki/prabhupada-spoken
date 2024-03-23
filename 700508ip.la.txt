@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 6 ======
 
----- dataentry spoken ----
-id_hidden        : 700508ip.la
-listtype_hidden  : Īśo Mantra 6
-listdate_hidden  : 1970-05-08
-showdate_hidden  : 2023-05-08
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : May 8
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Īśopaniṣad, Mantra 6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700508ip.la.mp3|Śrī Īśopaniṣad, Mantra 6 — May 8, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 "A person who sees everything in relation to the Supreme Lord and sees all entities as His parts and parcels and who sees the Supreme Lord within everything never hates anything, nor any being." This is the stage of //mahā-bhāgavata.// In devotional service there are three stages. In the beginning it is called neophyte stage, beginners. The beginners are concentrated in the Deity worship. That is very important thing, to purify.
 

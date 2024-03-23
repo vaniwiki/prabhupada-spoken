@@ -9,25 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.17–18 ======
 
----- dataentry spoken ----
-id_hidden        : 690621sb.nv # 
-listtype_hidden  : SB 1.5.17–18 # 
-listdate_hidden  : 1969-06-21
-showdate_hidden  : 2023-06-21 #
-listplace_hidden : New Vrindaban # 
-Type_spoken      : Śrīmad-Bhāgavatam # 
-Date_spoken      : June 21 # 
-Year_spoken      : 1969 # 
-Place_spoken     : New Vrindavan # 
-Length_hidden    : 00:00 # 
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.17–18 # 
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690621sb.nv.mp3|SB 1.5.17-18 — June 21, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 So we are discussing Nārada Muni's instruction to Vyāsadeva to make him correct. Vyāsadeva, such a scholar, Vedavyāsa... He is known as the topmost scholar in Vedic knowledge. Not only that, he has compiled so many books, literary achievement. There is no comparison in the world. But still, he is not satisfied, and Nārada Muni is instructing him that "You should write exclusively on the activities of the Supreme Personality of Godhead, hearing which, there will be actual peace and prosperity all over the world." This is the secret. Without God consciousness, or Kṛṣṇa consciousness, there cannot be any peace in the world.
 

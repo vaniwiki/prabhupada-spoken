@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
----- dataentry spoken ----
-id_hidden        : 680803sb.mon
-listtype_hidden  : SB 1.2.6
-listdate_hidden  : 1968-08-03
-showdate_hidden  : 2023-08-03
-listplace_hidden : Montreal
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 3
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680803sb.mon.mp3|SB 1.2.6 — August 3, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 
 > om ajñāna-timirāndhasya

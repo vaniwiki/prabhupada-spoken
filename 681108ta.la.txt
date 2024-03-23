@@ -9,24 +9,6 @@
 
 ====== Talk During Prasāda After Kīrtana ======
 
----- dataentry spoken ----
-id_hidden        : 681108ta.la
-listtype_hidden  : Prasāda After Kīrtana
-listdate_hidden  : 1968-11-08
-showdate_hidden  : 2023-11-08
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : November 8
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Talk During Prasāda After Kīrtana
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681108ta.la.mp3|Talk During Prasāda After Kīrtana — November 8, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 What is this? Oh. For taking?
 

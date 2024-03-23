@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.15 ======
 
----- dataentry spoken ----
-id_hidden        : 741115sb.bom
-listtype_hidden  : SB 3.25.15
-listdate_hidden  : 1974-11-15
-showdate_hidden  : 2023-11-15
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 15
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 40:43
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741115sb.bom.mp3|SB 3.25.15 — November 15, 1974, Bombay}}
-</audio>
-
 [loud noise of fireworks in background]
 
 **Nitāi:**

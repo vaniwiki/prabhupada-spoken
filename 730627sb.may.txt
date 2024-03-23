@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.10.14 ======
 
----- dataentry spoken ----
-id_hidden        : 730627sb.may
-listtype_hidden  : SB 1.10.14
-listdate_hidden  : 1973-06-27
-showdate_hidden  : 2023-06-27
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 27
-Year_spoken      : 1973
-Place_spoken     : Māyāpur
-Length_hidden    : 18:15
-Title_hidden     : Śrīmad-Bhāgavatam 1.10.14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730627sb.may.mp3|SB 1.10.14 — June 27, 1973, Māyāpur}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse] [Prabhupāda and devotees repeat]
 

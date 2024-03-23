@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.20 ======
 
----- dataentry spoken ----
-id_hidden        : 720616sb.la
-listtype_hidden  : SB 2.3.20
-listdate_hidden  : 1972-06-16
-showdate_hidden  : 2023-06-16
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 16
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 43:08
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720616sb.la.mp3|SB 2.3.20 — June 16, 1972, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// On page 155, text number 20. [leads chanting of verse] [Prabhupāda and devotees repeat]
 

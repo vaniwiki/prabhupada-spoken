@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740206r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-02-06
-showdate_hidden  : 2023-02-06
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : February 6
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 31:35
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740206r1.vrn.mp3|Room Conversation — February 6, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 My Godbrother's son-in-law, they came to see me.
 

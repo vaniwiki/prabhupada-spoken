@@ -9,24 +9,6 @@
 
 ====== Conversations with Kīrtana Groups and Sannyāsa Initiation ======
 
----- dataentry spoken ----
-id_hidden        : 770529r2.vrn
-listtype_hidden  : Conversations with Kīrtana Groups and Sannyāsa Initiation
-listdate_hidden  : 1977-05-29
-showdate_hidden  : 2023-05-29
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : May 29
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 35:14
-Title_hidden     : Conversations with Kīrtana Groups and Sannyāsa Initiation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770529r2.vrn.mp3|Conversations with Kīrtana Groups and Sannyāsa Initiation — May 29, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 //Janme janme prabhu sei.// Spiritual master who has opened the eyes, he is, spiritual master, the life of the disciple. Do not... He cannot be [indistinct]. //Janme janme prabhu sei.// Life of the disciple. //Cakhu-dān dilo jei, janme janme prabhu sei.// Nobody can repay the indebtedness of spiritual master, even by getting a duration of life like Brahmā. There is a verse in //Śrīmad... Brahma... Brahma-saṁ... Caitanya-caritāmṛta, Ādi-līlā,// there is a verse. //Sei... Sei guru.// All right.
 

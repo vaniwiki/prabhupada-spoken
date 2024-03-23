@@ -9,20 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.13 ======
 
----- dataentry spoken ----
-id_hidden        : 720816sb.la
-listtype_hidden  : SB 1.2.13
-listdate_hidden  : 1972-08-16
-showdate_hidden  : 2023-08-16
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 16
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.13
-----
-
 [no audio]
 
 **Prabhupāda:**

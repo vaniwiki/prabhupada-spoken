@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 730716r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 16
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 05:04
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730716r1.lon.mp3|Room Conversation — July 16, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 Make-show. So we should not increase the show very, very much. Show, shortcut show. That's all. Real business is... //Āula, bāula, kartābhajā, neḍā, daraveśa, sāṅi sahajiyā, sakhībhekī, smārta, jāta-gosāñi,// they have been condemned by Bhaktivinoda Ṭhākura, //smārta// and //jāta-gosāñi. Smārta-paṇḍita.// Very serious about performing ceremonial rituals, they are called //smārtas.// This //Hari-bhakti-vilāsa// also, //Vaiṣṇava-smṛti,// that is also imitation of //smārta-//ism. It is called //smṛti.//
 

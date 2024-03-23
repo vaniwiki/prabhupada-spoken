@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 710720rc.ny
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-07-20
-showdate_hidden  : 2023-07-20
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : July 20
-Year_spoken      : 1971
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710720rc.ny.mp3|Room Conversation — July 20, 1971, New York}}
-</audio>
-
 **Devotee (1):**
 And here is the... I found the tape, [indistinct] ask you to put it on.
 

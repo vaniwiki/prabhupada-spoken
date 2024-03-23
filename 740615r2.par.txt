@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Mr. Tran-Van-Kha ======
 
----- dataentry spoken ----
-id_hidden        : 740615r2.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-15
-showdate_hidden  : 2023-06-15
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : June 15
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 73:32
-Title_hidden     : Room Conversation with Mr. Tran-Van-Kha, (former Vietnamese Ambassador to the United States) and President & Members of the Society of Buddhists in France
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740615r2.par.mp3|Room Conversation with Mr. Tran-Van-Kha — June 15, 1974, Paris}}
-</audio>
-
 **Prabhupāda:**
 In old age he'll be crippled like that. Then he said that "I am also going to be like that? No. What is the value?" Then he began meditation, how to stop old age. Then he gradually became very great, saintly person and studied //Veda, karma.// And by bad //karma,// one becomes subjected with material tribulation, and the most of the bad //karma,// he thought, was killing of animals, so he wanted to stop this. That is Buddha's..., "Stop animal killing." //Sadaya-hṛdaya darśita-paśu-ghātam.//
 

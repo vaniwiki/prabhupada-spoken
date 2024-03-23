@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720930le.lb
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-09-30
-showdate_hidden  : 2023-09-30
-listplace_hidden : Laguna Beach
-Type_spoken      : Lecture
-Date_spoken      : September 30
-Year_spoken      : 1972
-Place_spoken     : Laguna Beach
-Length_hidden    : 35:22
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720930le.lb.mp3|Lecture — September 30, 1972, Laguna Beach}}
-</audio>
-
 **Prabhupāda:**
 Ladies and gentlemen, I thank you very much for your coming here to participate in this Kṛṣṇa consciousness movement. We are calling everyone to go back to home, back to Godhead. This is our movement, Kṛṣṇa consciousness movement. Just now we described the place where we intend to go. That is Goloka Vṛndāvana. There the Supreme Personality of Godhead is residing with His consort, Rādhārāṇī. Rādhā-Mādhava. Kṛṣṇa is the husband---not exactly husband, but friend. The same mellow. As you try to enjoy here, boy and girlfriend, not married, but an extra ecstasy without being married, conjugal love, the ideal conjugal love is there, Kṛṣṇa and Rādhā.
 

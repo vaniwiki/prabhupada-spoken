@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 721008mw.ber
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-10-08
-showdate_hidden  : 2023-10-08
-listplace_hidden : Berkeley
-Type_spoken      : Morning Walk
-Date_spoken      : October 8
-Year_spoken      : 1972
-Place_spoken     : Berkeley
-Length_hidden    : 38:39
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721008mw.ber.mp3|Morning Walk — October 8, 1972, Berkeley}}
-</audio>
-
 **Svarūpa Dāmodara:**
 Morning walk, October 8! Berkeley. [break]
 

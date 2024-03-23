@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.1 and Review ======
 
----- dataentry spoken ----
-id_hidden        : 660713bg.ny
-listtype_hidden  : Bg 4.1 and Review
-listdate_hidden  : 1966-07-13
-showdate_hidden  : 2023-07-13
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 13
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 4.1 and Review
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660713bg.ny.mp3|Bg 4.1 and Review — July 13, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 Last day we discussed on the last verse of the third chapter of //Bhagavad-gītā.// Now, today we shall begin the fourth chapter.
 

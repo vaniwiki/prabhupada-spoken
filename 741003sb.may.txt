@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.23 ======
 
----- dataentry spoken ----
-id_hidden        : 741003sb.may
-listtype_hidden  : SB 1.8.23
-listdate_hidden  : 1974-10-03
-showdate_hidden  : 2023-10-03
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 3
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 32:16
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741003sb.may.mp3|SB 1.8.23 — October 3, 1974, Māyāpur}}
-</audio>
-
 **Nitāi:**
 [leads chanting of verse, etc.] [devotees repeat]
 

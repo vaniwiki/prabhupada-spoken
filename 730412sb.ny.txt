@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.20 ======
 
----- dataentry spoken ----
-id_hidden        : 730412sb.ny
-listtype_hidden  : SB 1.8.20
-listdate_hidden  : 1973-04-12
-showdate_hidden  : 2023-04-12
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 12
-Year_spoken      : 1973
-Place_spoken     : New York
-Length_hidden    : 19:37
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730412sb.ny.mp3|SB 1.8.20 — April 12, 1973, New York}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740805r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-08-05
-showdate_hidden  : 2023-08-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : August 5
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 10:55
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740805r1.vrn.mp3|Room Conversation — August 5, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...the business of the representative of Kṛṣṇa to push the nipple.[?] Because they know what is the necessity. The whole world is upset for want of Kṛṣṇa consciousness. This is the necessity. It is not a, I mean to say, whimsical sporting. It is the necessity. But they do not know. It is a very responsible task. That is called //prayojana.// Is it clear? What do you think? Huh?
 

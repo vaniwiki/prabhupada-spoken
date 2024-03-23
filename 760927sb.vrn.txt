@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.7.32–33 ======
 
----- dataentry spoken ----
-id_hidden        : 760927sb.vrn
-listtype_hidden  : SB 1.7.32–33
-listdate_hidden  : 1976-09-27
-showdate_hidden  : 2023-09-27
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 27
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 32:08
-Title_hidden     : Śrīmad-Bhāgavatam 1.7.32–33
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760927sb.vrn.mp3|SB 1.7.32-33 — September 27, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:** Translation: "Thus seeing the disturbance of the general populace and the imminent destruction of the planets, Arjuna at once retracted both //brahmāstra// weapons, as Lord Śrī Kṛṣṇa desired." [break] [leads chanting of synonyms of SB 1.7.33] [break]
 
 [00:28]

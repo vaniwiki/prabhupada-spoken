@@ -9,24 +9,6 @@
 
 ====== Conversation with Italian Woman with Translator ======
 
----- dataentry spoken ----
-id_hidden        : 770228r2.may
-listtype_hidden  : Conversation with Italian Woman with Translator
-listdate_hidden  : 1977-02-28
-showdate_hidden  : 2023-02-28
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 28
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 13:54
-Title_hidden     : Conversation with Italian Woman with Translator
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770228r2.may.mp3|Conversation with Italian Woman with Translator — February 28, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...otherwise we are all part and parcel of God. [translated into Italian throughout for woman guest] When we realize this, then our life is perfect.
 

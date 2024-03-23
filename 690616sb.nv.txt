@@ -9,25 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.13 ======
 
----- dataentry spoken ----
-id_hidden        : 690616sb.nv # 
-listtype_hidden  : SB 1.5.13 # 
-listdate_hidden  : 1969-06-16
-showdate_hidden  : 2023-06-16 #
-listplace_hidden : New Vrindaban # 
-Type_spoken      : Śrīmad-Bhāgavatam # 
-Date_spoken      : June 16 # 
-Year_spoken      : 1969 # 
-Place_spoken     : New Vrindavan # 
-Length_hidden    : 00:00 # 
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.13 # 
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690616sb.nv.mp3|SB 1.5.13 — June 16, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 So Nārada Muni is instructing his disciple Vyāsadeva to write books specially by which one may be helped, everyone will be helped, to cross over the nescience, //akhila-bandha-muktaye,// to become liberated from all conditional stage. We are spirit soul. We cannot be under any material condition. Just like our normal condition is healthy life, not under feverish condition. That is abnormal life. If one is attacked with fever, that is not his normal life. That is temporary, abnormal life. Actual life is healthy life. We should nicely eat. We shall nicely sleep. We shall work very nicely. We..., our brain must work very nicely. These are healthy signs. But when I cannot work nicely, I cannot sleep nicely, I cannot work nicely, I cannot act my brain very nicely, that means abnormal condition. So at that time, he requires to be treated by expert physician.
 

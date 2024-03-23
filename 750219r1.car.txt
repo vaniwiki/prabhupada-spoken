@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Professors ======
 
----- dataentry spoken ----
-id_hidden        : 750219r1.car
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-02-19
-showdate_hidden  : 2023-02-19
-listplace_hidden : Caracas
-Type_spoken      : Room Conversation
-Date_spoken      : February 19
-Year_spoken      : 1975
-Place_spoken     : Caracas
-Length_hidden    : 142:25
-Title_hidden     : Room Conversation with Professors
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750219r1.car.mp3|Room Conversation with Professors — February 19, 1975, Caracas}}
-</audio>
-
 [translated throughout by Hṛdayānanda]
 
 **Prabhupāda:**

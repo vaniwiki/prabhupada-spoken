@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731204mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-04
-showdate_hidden  : 2023-12-04
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 4
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 61:58
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731204mw.la.mp3|Morning Walk — December 4, 1973, Los Angeles}}
-</audio>
-
 **Svarūpa Dāmodara:**
 So at some stage during the lifetime, especially in the human form of life...
 

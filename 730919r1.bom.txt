@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 730919r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-09-19
-showdate_hidden  : 2023-09-19
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : September 19
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 83:11
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730919r1.bom.mp3|Room Conversation — September 19, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 //...kaṇḍūtivan manasijaṁ viṣaheta dhīraḥ// [[books:sb:7:9:45|[SB 7.9.45]]]. //Dhīras tatra na muhyati// [[books:bg:2:13|[Bg. 2.13]]]. If you can quote //ślokas,// that will be first class. In India especially. In your country they do not care. Our Bhavānanda Swami, because he could not quote //śloka,// so he was saying, "Oh, because you have quoted some //śloka,// it is authorized?" [chuckles] He was saying like that. Western people, they cannot imagine that by quoting a Vedic version it becomes immediately authorized. They cannot imagine.
 

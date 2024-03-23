@@ -9,24 +9,6 @@
 
 ====== Short Discussions ======
 
----- dataentry spoken ----
-id_hidden        : 770524r2.vrn
-listtype_hidden  : Short Discussions
-listdate_hidden  : 1977-05-24
-showdate_hidden  : 2023-05-24
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : May 24
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 11:31
-Title_hidden     : Short Discussions
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770524r2.vrn.mp3|Short Discussions — May 24, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...London. Guru Mahārāja sending him regularly seven hundred rupees per month. In those days seven hundred means at least...
 

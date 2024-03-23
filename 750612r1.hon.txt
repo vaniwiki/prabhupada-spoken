@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750612r1.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-06-12
-showdate_hidden  : 2023-06-12
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : June 12
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 64:42
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750612r1.hon.mp3|Room Conversation — June 12, 1975, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 You giving this theory that from the tree a man and a monkey came. So, where is that experiment? Where is that?
 

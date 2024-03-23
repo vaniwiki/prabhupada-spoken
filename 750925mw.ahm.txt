@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750925mw.ahm
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-09-25
-showdate_hidden  : 2023-09-25
-listplace_hidden : Ahmedabad
-Type_spoken      : Morning Walk
-Date_spoken      : September 25
-Year_spoken      : 1975
-Place_spoken     : Ahmedabad
-Length_hidden    : 29:27
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750925mw.ahm.mp3|Morning Walk — September 25, 1975, Ahmedabad}}
-</audio>
-
 **Prabhupāda:**
 Society has lost this //saṁskāra// process; therefore they remain in the animal platform. //Janmanā jāyate śūdra saṁskārad bhaved dvijaḥ.// When a person is born even in human society, he remains a //śūdra. Śūdra// means almost like animal. Now he has to be reformed. That is called //saṁskāra.// Then twice-born. The first-class twice-born is //brāhmaṇa.// Second-class twice-born is //kṣatriya.// And third-class twice-born is the //vaiśya.// And remaining, who cannot be reformed, they remain //śūdra.// But there is cooperation between //brāhmaṇa, kṣatriya, vaiśya, śūdra,// and the society makes progress simultaneously for everyone. That is human society. At the present moment mostly all of them remain //śūdras// or less..., //caṇḍālas.// So how there can be any peace? It is not possible. There is no //brāhmaṇa,// no //kṣatriya,// maybe a few //vaiśyas// only. They are also half-reformed. And European culture, that is //caṇḍāla// culture, //yavana// culture. There is no reformation, no //brāhmaṇa,// no //kṣatriya,// no //vaiśyas,// simply //śūdras// and //caṇḍālas.// Mostly //caṇḍālas.// So Kṛṣṇa consciousness movement is means for thoroughly overhauling the whole human society. [aside:] Hare Kṛṣṇa. Thank you.
 

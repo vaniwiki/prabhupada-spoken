@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.1 ======
 
----- dataentry spoken ----
-id_hidden        : 690409sb.ny
-listtype_hidden  : SB 7.6.1
-listdate_hidden  : 1969-04-09
-showdate_hidden  : 2023-04-09
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 9
-Year_spoken      : 1969
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690409sb.ny.mp3|SB 7.6.1 — April 9, 1969, New York}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers]
 

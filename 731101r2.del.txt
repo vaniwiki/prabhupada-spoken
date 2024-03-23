@@ -9,24 +9,6 @@
 
 ====== Room Conversation about Rādhā-Dāmodara Property ======
 
----- dataentry spoken ----
-id_hidden        : 731101r2.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-11-01
-showdate_hidden  : 2023-11-01
-listplace_hidden : Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : November 1
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 24:04
-Title_hidden     : Room Conversation about Rādhā-Dāmodara Property
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731101r2.del.mp3|Room Conversation about Rādhā-Dāmodara Property — November 1, 1973, Delhi}}
-</audio>
-
 [poor recording]
 
 **Prabhupāda:**

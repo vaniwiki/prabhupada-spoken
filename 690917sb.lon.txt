@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.2 ======
 
----- dataentry spoken ----
-id_hidden        : 690917sb.lon
-listtype_hidden  : SB 5.5.2
-listdate_hidden  : 1969-09-17
-showdate_hidden  : 2023-09-17
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 17
-Year_spoken      : 1969
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690917sb.lon.mp3|SB 5.5.2 — September 17, 1969, London}}
-</audio>
-
 **Prabhupāda:**
 
 > ...mahāntas te sama-cittāḥ praśāntā

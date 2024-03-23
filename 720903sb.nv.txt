@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.5 ======
 
----- dataentry spoken ----
-id_hidden        : 720903sb.nv
-listtype_hidden  : SB 1.2.5
-listdate_hidden  : 1972-09-03
-showdate_hidden  : 2023-09-03
-listplace_hidden : New Vrindavan
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 3
-Year_spoken      : 1972
-Place_spoken     : New Vrindavan
-Length_hidden    : 53:16
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720903sb.nv.mp3|SB 1.2.5 — September 3, 1972, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhagavate vāsudevāya.// Go on.
 

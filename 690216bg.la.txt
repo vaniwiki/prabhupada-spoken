@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.13–15 ======
 
----- dataentry spoken ----
-id_hidden        : 690216bg.la
-listtype_hidden  : Bg 6.13–15
-listdate_hidden  : 1969-02-16
-showdate_hidden  : 2023-02-16
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 16
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.13–15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690216bg.la.mp3|Bg 6.13-15 — February 16, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. //Sāṅkhya-yoga// is the //aṣṭāṅga-yoga.// This sitting posture and meditation, this is called //sāṅkhya-yoga.// And //jñāna-yoga// means by, through philosophical process. By analytical process what is Brahman and what is not Brahman. //Neti neti.// That is //jñāna-yoga.// Just like //Vedānta-sūtra, jñāna-yoga.// You study //Vedānta-sūtra,// it says //janmādy asya yataḥ// [[books:sb:1:1:1|[SB 1.1.1]]]. They give one hint codes, that the Supreme Brahman, Absolute Truth is that from whom everything is emanated. Now we try to understand what must be that. That is explained in the //Śrīmad-Bhāgavatam.// What is nature of that Absolute Truth. The Absolute Truth, in the first verse of //Śrīmad-Bhāgavatam// it is said: //janmādy asya yato 'nvayād itarataś cārtheṣv abhijñaḥ svarāṭ// [[books:sb:1:1:1|[SB 1.1.1]]]. Now the Absolute Truth, if he is the supreme cause of all emanation, then what are the symptoms? The //Bhāgavata// said that he must be cognizant. He's not dead. He must be cognizant. And what kind of cognizance? //Anvayād itarataś cārtheṣu.// Just like I am cognizant, you are also cognizant. But I do not know myself, how many hairs are there in my body. I'm claiming this is my head. But If ask anybody, "Do you know how many hairs you have got in your body?" That kind of knowledge is not knowledge. But the Supreme, //Bhāgavata// says that He knows everything directly and indirectly. I know I am eating, but I do not know how my eating process is helping my circulation of blood, how it is being transformed, how it is working, how it going through the veins. I do not know anything. But God must be He who knows everything, every corner of His creation what is going on He must know. Therefore the //Bhāgavata// explains, that Supreme Truth, from whom everything is emanated, He must be supremely cognizant. //Abhijñaḥ. Abhijñaḥ// means cognizant.
 

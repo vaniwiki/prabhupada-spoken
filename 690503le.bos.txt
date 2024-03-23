@@ -9,24 +9,6 @@
 
 ====== Lecture at Arlington Street Church ======
 
----- dataentry spoken ----
-id_hidden        : 690503le.bos
-listtype_hidden  : Lecture at Arlington Street Church
-listdate_hidden  : 1969-05-03
-showdate_hidden  : 2023-05-03
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : May 3
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Lecture at Arlington Street Church
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690503le.bos.mp3|Lecture at Arlington Street Church — May 3, 1969, Boston}}
-</audio>
-
 [//kīrtana// led by Satsvarūpa dāsa]
 
 **Prabhupāda:**

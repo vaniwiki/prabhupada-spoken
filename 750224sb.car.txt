@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.3 ======
 
----- dataentry spoken ----
-id_hidden        : 750224sb.car
-listtype_hidden  : SB 1.1.3
-listdate_hidden  : 1975-02-24
-showdate_hidden  : 2023-02-24
-listplace_hidden : Caracas
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 24
-Year_spoken      : 1975
-Place_spoken     : Caracas
-Length_hidden    : 60:14
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750224sb.car.mp3|SB 1.1.3 — February 24, 1975, Caracas}}
-</audio>
-
 [translated throughout by Hṛdayānanda]
 
 **Nitāi:**

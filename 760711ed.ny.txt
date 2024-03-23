@@ -9,24 +9,6 @@
 
 ====== Evening Darśana ======
 
----- dataentry spoken ----
-id_hidden        : 760711ed.ny
-listtype_hidden  : Evening Darśana
-listdate_hidden  : 1976-07-11
-showdate_hidden  : 2023-07-11
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : July 11
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 99:31
-Title_hidden     : Evening Darśana
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760711ed.ny.mp3|Evening Darśana — July 11, 1976, New York}}
-</audio>
-
 **Prabhupāda:**
 "I take away as death." Whatever they are accumulating, everything will be taken away at the time of death. [indistinct] They are simply collecting, accumulating, discovering---forgetting that everything will be taken away at the time of death. Discover something which can check death, there will be no more death. That is real discovery. What do you think?
 

@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710218le.gor
-listtype_hidden  : Lecture
-listdate_hidden  : 1971-02-18
-showdate_hidden  : 2023-02-18
-listplace_hidden : Gorakhpur
-Type_spoken      : Lecture
-Date_spoken      : February 18
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710218le.gor.mp3|Lecture — February 18, 1971, Gorakhpur}}
-</audio>
-
 **Haṁsadūta:**
 The following lecture was recorded the evening of February 17th, 1971, Śrī Kṛṣṇa-niketana in Gorakhpur, Uttar Pradesh. [break]
 

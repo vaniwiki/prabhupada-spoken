@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Robert Gouiran ======
 
----- dataentry spoken ----
-id_hidden        : 740605r2.gen
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-05
-showdate_hidden  : 2023-06-05
-listplace_hidden : Geneva
-Type_spoken      : Room Conversation
-Date_spoken      : June 5
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 100:52
-Title_hidden     : Room Conversation with Robert Gouiran, Nuclear Physicist from European Centre for Nuclear Research
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740605r2.gen.mp3|Room Conversation with Robert Gouiran — June 5, 1974, Geneva}}
-</audio>
-
 **Robert Gouiran:**
 ...one month. I should be very glad to know where I should go for my second trip. If you could inform me.
 

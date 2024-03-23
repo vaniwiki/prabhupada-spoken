@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770508r3.hri
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-05-08
-showdate_hidden  : 2023-05-08
-listplace_hidden : Rishikesh
-Type_spoken      : Room Conversation
-Date_spoken      : May 8
-Year_spoken      : 1977
-Place_spoken     : Rishikesh
-Length_hidden    : 70:59
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770508r3.hri.mp3|Room Conversation — May 8, 1977, Rishikesh}}
-</audio>
-
 **Prabhupāda:**
 Nobody knows God. The whole Christian world, they do not know what is God. //Paraṁ bhāvam ajānantaḥ// [[books:bg:7:24|[Bg. 7.24]]]. And they are these //ajānantaḥ,// must fall down. //Taranti te.// The very word is "falldown." Without any understanding of God, religion means falldown. Everyone has fallen down. So many religions crying out. Now these Ārya-samājīs...
 

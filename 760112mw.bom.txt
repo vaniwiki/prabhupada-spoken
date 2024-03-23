@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760112mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-01-12
-showdate_hidden  : 2023-01-12
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : January 12
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 30:54
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760112mw.bom.mp3|Morning Walk — January 12, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...finalization. Huh? Festival?
 

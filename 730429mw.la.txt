@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730429mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-04-29
-showdate_hidden  : 2023-04-29
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : April 29
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 42:35
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730429mw.la.mp3|Morning Walk — April 29, 1973, Los Angeles}}
-</audio>
-
 **Devotee:**
 [introducing recording] The morning of April 29th, 1973, A. C. Bhaktivedanta Swami Prabhupāda, His Divine Grace, walk.
 

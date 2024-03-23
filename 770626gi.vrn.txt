@@ -9,24 +9,6 @@
 
 ====== Gurukula Inspection ======
 
----- dataentry spoken ----
-id_hidden        : 770626gi.vrn
-listtype_hidden  : Gurukula Inspection
-listdate_hidden  : 1977-06-26
-showdate_hidden  : 2023-06-26
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 26
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 21:38
-Title_hidden     : Gurukula Inspection
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770626gi.vrn.mp3|Gurukula Inspection — June 26, 1977, Vṛndāvana}}
-</audio>
-
 **Bhagatjī:**
 First the //gurukula// children are there. We have to see to the comforts of the //gurukula// children.
 

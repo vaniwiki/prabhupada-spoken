@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770326r2.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-03-26
-showdate_hidden  : 2023-03-26
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : March 26
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 25:14
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770326r2.bom.mp3|Room Conversation — March 26, 1977, Bombay}}
-</audio>
-
 **Hari-śauri:**
 ...for myself? That boy that was here with me from Australia, I've sent him back this morning.
 

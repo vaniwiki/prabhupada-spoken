@@ -9,24 +9,6 @@
 
 ====== Conversation at the Gītā Pratiṣṭhāna (Conference) ======
 
----- dataentry spoken ----
-id_hidden        : 761220r1.war
-listtype_hidden  : Conversation at the Gītā Pratiṣṭhāna (Conference)
-listdate_hidden  : 1976-12-20
-showdate_hidden  : 2023-12-20
-listplace_hidden : Wardha
-Type_spoken      : Room Conversation
-Date_spoken      : December 20
-Year_spoken      : 1976
-Place_spoken     : Wardha
-Length_hidden    : 48:05
-Title_hidden     : Conversation at the Gītā Pratiṣṭhāna [Conference]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761220r1.war.mp3|Conversation at the Gītā Pratiṣṭhāna (Conference) — December 20, 1976, Wardha}}
-</audio>
-
 **Prabhupāda:**
 That //Imaṁ vivasvate yogaṁ proktavān aham avyayam// [[books:bg:4:1|[Bg. 4.1]]]: "This science of //Bhagavad-gītā,// I spoke to the sun-god millions of years ago." By the calculation it is forty millions of years ago. Now who will believe that, that Kṛṣṇa spoke this //Bhagavad-gītā// forty millions of years ago to the sun-god? Hmm? Who will believe that? They'll say mythology. So where is the faith in //Bhagavad-gītā// and faith in the words of Kṛṣṇa? Understanding Hamlet without Hamlet. [indistinct] You cannot make your interpretation that whatever is written there, I take instead of..., I take... [coughing] That is not the way of understanding //Bhagavad-gītā.// Then from the very beginning you'll spoil it. Then what is the meaning of preaching //Bhagavad-gītā?// If you do not accept the direction of the author, then what right you have got to say that you have understood //Bhagavad-gītā?//
 

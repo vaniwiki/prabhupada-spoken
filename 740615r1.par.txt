@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740615r1.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-15
-showdate_hidden  : 2023-06-15
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : June 15
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 78:08
-Title_hidden     : Room Conversation about Twelfth Canto, Kali-yuga
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740615r1.par.mp3|Room Conversation — June 15, 1974, Paris}}
-</audio>
-
 **Prabhupāda:**
 The democracy also is described, in Kali-yuga.
 

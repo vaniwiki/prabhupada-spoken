@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 770326le.bom
-listtype_hidden  : Lecture
-listdate_hidden  : 1977-03-26
-showdate_hidden  : 2023-03-26
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : March 26
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 06:13
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770326le.bom.mp3|Lecture — March 26, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Ladies and Gentlemen, the very learned erudite scholarly speaking by our Dr. Svarūpa Dāmodara Singh must have created some impression in your mind, I am sure. So our this Kṛṣṇa consciousness movement, it is full of scientific knowledge. //Jñānaṁ te 'haṁ sa-vijñānaṁ pravakṣyāmy anasuyave// [[books:bg:7:2|[Bg. 7.2]]]. Kṛṣṇa said to Arjuna that "I am speaking to you knowledge, //jñānam, sa-vijñānam,// with scientific understanding." So "Why You are speaking to me?" //Jñānaṁ te 'haṁ sa-vijñānaṁ pravakṣyamy anasuyave:// "Because you are not envious. That is your qualification. You are very submissive student. Therefore I'll give you." So the dictation is coming from Kṛṣṇa, as Dr. Svarūpa Dāmodara says. That's a fact. Kṛṣṇa says, //sarvasya cāhaṁ hṛdi sanniviṣṭo mattaḥ smṛtir jñānam apohanaṁ ca// [[books:bg:15:15|[Bg. 15.15]]]: "I am situated in everyone's heart."
 

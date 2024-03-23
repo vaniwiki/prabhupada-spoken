@@ -9,24 +9,6 @@
 
 ====== Room Conversation with M. Lallier, noted French Poet ======
 
----- dataentry spoken ----
-id_hidden        : 740612r2.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-12
-showdate_hidden  : 2023-06-12
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : June 12
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 31:17
-Title_hidden     : Room Conversation with M. Lallier, noted French Poet
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740612r2.par.mp3|Room Conversation with M. Lallier, noted French Poet — June 12, 1974, Paris}}
-</audio>
-
 **Yogeśvara:**
 ...and Mr. Lallier has a reputation among young literary circles in France as being a very good poet.
 

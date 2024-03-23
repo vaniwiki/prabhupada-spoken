@@ -9,24 +9,6 @@
 
 ====== Conversation During Massage ======
 
----- dataentry spoken ----
-id_hidden        : 770123r1.bhu
-listtype_hidden  : Conversation During Massage
-listdate_hidden  : 1977-01-23
-showdate_hidden  : 2023-01-23
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 23
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 28:57
-Title_hidden     : Conversation During Massage
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770123r1.bhu.mp3|Conversation During Massage — January 23, 1977, Bhubaneswar}}
-</audio>
-
 **Gargamuni:**
 ...against the village people, and they harass the workers after working hours. So Jayapatāka said he was going to get the police there to watch.
 

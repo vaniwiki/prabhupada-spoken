@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760109mw.mad
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-01-09
-showdate_hidden  : 2023-01-09
-listplace_hidden : Madras
-Type_spoken      : Morning Walk
-Date_spoken      : January 9
-Year_spoken      : 1976
-Place_spoken     : Madras
-Length_hidden    : 14:01
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760109mw.mad.mp3|Morning Walk — January 9, 1976, Madras}}
-</audio>
-
 **Acyutānanda:**
 "...Please, everyone join and say, '//Rāma ki jaya.//' " Nobody... Complete silence. Again he said, "Everyone say, '//Sai Rāma,//' " and somebody yelled out, "Kṛṣṇa, Kṛṣṇa," and the whole audience said, "Hare Kṛṣṇa," then he said "Hare Kṛṣṇa." [dog barking]
 

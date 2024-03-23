@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.7.19–20 ======
 
----- dataentry spoken ----
-id_hidden        : 710318sb.bom
-listtype_hidden  : SB 7.7.19–20
-listdate_hidden  : 1971-03-18
-showdate_hidden  : 2023-03-18
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 18
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.7.19–20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710318sb.bom.mp3|SB 7.7.19-20 — March 18, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 //... vidvān ātmano lakṣaṇaiḥ paraiḥ ahaṁ mamety asad-bhāvaṁ// [[books:sb:7:7:19-20|[SB 7.7.19-20]]]. [aside:] You can sit down this side. //Dehādau mohajaṁ tyajet.// So, Prahlāda Mahārāja is instructing his demon class friends. They are not demons, but they are sons of demons. Just like you are. [laughter] You are not demons, but you are sons of demons. [chuckles] Is it right? [laughs] But you have no more connection with your demon father. That's nice. So, in some of these, I think //Back to Godhead// No. 40, Hayagrīva has written a very nice article, //Constitution of the Soul.// It is very nicely written. So, demonic principle is they do not give stress on the soul. They are bodily conscious that "I am this body." And as soon as one is such foolishly conceiving body as self, his activities will be demonic. //Yasyātma-buddhiḥ kunape tri-dhātuke// [SB 10.84.13]. The demons also sometimes they have got conception of the soul, they believe in transmigration of the soul, but though they... Simply on the platform of accepting this body as self, they have been compared with animals.
 

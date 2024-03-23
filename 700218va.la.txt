@@ -9,24 +9,6 @@
 
 ====== Varāha-dvādaśī, Lord Varāha’s Appearance Day ======
 
----- dataentry spoken ----
-id_hidden        : 700218va.la
-listtype_hidden  : Varāha-dvādaśī
-listdate_hidden  : 1970-02-18
-showdate_hidden  : 2023-02-18
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : February 18
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Varāha-dvādaśī, Lord Varāha’s Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700218va.la.mp3|Varāha-dvādaśī — February 18, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...lifted the world when it was submerged within the water of Garbhodaka Ocean. The universe which we are seeing, it is only half. The other half is filled with water, and in that water is Garbhodakaśāyī Viṣṇu lying. So one demon, Hiraṇyākṣa, he pushed this earthly planet within that water, and Lord Kṛṣṇa delivered this earthly planet from water in the shape of a boar. So that auspicious day is today, Varāha-dvadaśī. This is called Varāha-dvadasi. So on this day it is better to sing, to glorify the different incarnations of Lord within this universe. The first incarnation is the fish form.
 

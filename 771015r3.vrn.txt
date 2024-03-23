@@ -9,24 +9,6 @@
 
 ====== Room Conversation With Svarūpa Dāmodara ======
 
----- dataentry spoken ----
-id_hidden        : 771015r3.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-15
-showdate_hidden  : 2023-10-15
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 15
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 46:52
-Title_hidden     : Room Conversation With Svarūpa Dāmodara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771015r3.vrn.mp3|Room Conversation With Svarūpa Dāmodara — October 15, 1977, Vṛndāvana}}
-</audio>
-
 **Svarūpa Dāmodara:**
 ...last night, and we finished the showing of the movies, and they were very appreciative. They expressed that there is an atmosphere of purity here, and cleanliness. They highly commended our temple activities. Some of them were in the //ārati.// They also wanted to see the //ārati// in the morning today. So it seems to me that most of them are devotees.
 

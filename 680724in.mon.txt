@@ -9,24 +9,6 @@
 
 ====== Initiation of Jayapatāka Dāsā ======
 
----- dataentry spoken ----
-id_hidden        : 680724in.mon
-listtype_hidden  : Initiation of Jayapatāka Dāsā
-listdate_hidden  : 1968-07-24
-showdate_hidden  : 2023-07-24
-listplace_hidden : Montreal
-Type_spoken      : Initiation
-Date_spoken      : July 24
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Initiation of Jayapatāka Dāsā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680724in.mon.mp3|Initiation of Jayapatāka Dāsā — July 24, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 You begin from this big bead, Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare, Hare Rāma Hare Rāma Rāma Rāma Hare Hare, and then after finishing, begin second. In this way, there are 108, one, two, three. Come to this point, then begin from this point. You are following? Then come to this. In this way, one, two, three, four, sixteen rounds, at least. If you can increase more, that's all right. Otherwise sixteen rounds. Your spiritual name is Jayapatāka. Bow down. You know the //mantra?//
 

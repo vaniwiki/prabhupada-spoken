@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.24 ======
 
----- dataentry spoken ----
-id_hidden        : 730416sb.la
-listtype_hidden  : SB 1.8.24
-listdate_hidden  : 1973-04-16
-showdate_hidden  : 2023-04-16
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 16
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 40:33
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730416sb.la.mp3|SB 1.8.24 — April 16, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [leads singing of //Jaya rādhā-mādhava//]
 

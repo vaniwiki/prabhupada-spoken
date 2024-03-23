@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.7 ======
 
----- dataentry spoken ----
-id_hidden        : 741107sb.bom
-listtype_hidden  : SB 3.25.7
-listdate_hidden  : 1974-11-07
-showdate_hidden  : 2023-11-07
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 7
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 34:45
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741107sb.bom.mp3|SB 3.25.7 — November 7, 1974, Bombay}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [break] [Prabhupāda and devotees chant verse] [break]
 

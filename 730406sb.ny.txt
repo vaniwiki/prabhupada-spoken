@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.1–2 ======
 
----- dataentry spoken ----
-id_hidden        : 730406sb.ny
-listtype_hidden  : SB 2.1.1–2
-listdate_hidden  : 1973-04-06
-showdate_hidden  : 2023-04-06
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 6
-Year_spoken      : 1973
-Place_spoken     : New York
-Length_hidden    : 25:48
-Title_hidden     : Śrīmad-Bhāgavatam 2.1.1–2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730406sb.ny.mp3|SB 2.1.1-2 — April 6, 1973, New York}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse]
 

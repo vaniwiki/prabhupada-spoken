@@ -9,24 +9,6 @@
 
 ====== Morning Walk, partially recorded ======
 
----- dataentry spoken ----
-id_hidden        : 740121mw.hon
-listtype_hidden  : Morning Walk, partially recorded
-listdate_hidden  : 1974-01-21
-showdate_hidden  : 2023-01-21
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : January 21
-Year_spoken      : 1974
-Place_spoken     : Honolulu
-Length_hidden    : 05:17
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740121mw.hon.mp3|Morning Walk, partially recorded — January 21, 1974, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 [//japa//] ..sinful activities, fishing. Just see. Killing another animal, beginning of life, of the day. Such a nice civilization they have created: waste of time and sinful activities.
 

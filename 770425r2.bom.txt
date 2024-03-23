@@ -9,24 +9,6 @@
 
 ====== Conversation: Bogus Gurus ======
 
----- dataentry spoken ----
-id_hidden        : 770425r2.bom
-listtype_hidden  : Conversation: Bogus Gurus
-listdate_hidden  : 1977-04-25
-showdate_hidden  : 2023-04-25
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 25
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 13:44
-Title_hidden     : Conversation: Bogus Gurus
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770425r2.bom.mp3|Conversation: Bogus Gurus — April 25, 1977, Bombay}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 ...been seeing this one person there by the name of Bhagavan Shringari Das, Bhagavan Shringari. He's the //pūjārī// of Lord Jagannātha. So he's claiming that when anyone goes to a holy place like Jagannātha Purī that they have to get initiated by a //tīrtha-guru.// So these foolish disciples, they're going and they're accepting initiation from him, and he gives them some //mantra,// and then he... Naturally there's an exchange of money. They have to promise to send money regularly for Lord... He says it's for Lord Jagannātha. Obviously Lord Jagannātha will never see the money. He also gets them to write a letter. The letters read something like that "I came to India blind, but now Bhagavan Shringari Das has opened my eyes." Doesn't even mention Your Divine Grace. And this boy, he was telling me this... When he asked about the holy places... This devotee, who---he's doing a little assistance to me---he refused to have anything..., take any initiation 'cause he said that he could understand that something was wrong. He asked him, "What about Māyāpur?" He said, "Oh, Māyāpur is nothing. That is not the //dhāma.//" Then he said, "//Dhāma// means...," and he named the four //dhāmas.// So in this way some of the devotees are... Apparently they're even going back to America and they're encouraging others to send money to this cheater. This man is a big cheater. Govinda dasi, she took this initiation, and some other people, he mentioned... When he was there, there were already four devotees there, some householder devotee from Los Angeles, Govinda dasi,... He sells them things like the flag from the top of the temple for a hundred rupees. You know, different types of thing he sells them. So I said, "So why didn't you ask him, 'Now that we're your disciple and you're our //guru,// now take us into the temple'?"
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Kailua Beach ======
 
----- dataentry spoken ----
-id_hidden        : 750608mw.hon
-listtype_hidden  : Morning Walk at Kailua Beach
-listdate_hidden  : 1975-06-08
-showdate_hidden  : 2023-06-08
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : June 8
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 02:47
-Title_hidden     : Morning Walk at Kailua Beach
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750608mw.hon.mp3|Morning Walk at Kailua Beach — June 8, 1975, Honolulu}}
-</audio>
-
 **Śrutakīrti:**
 [introducing recording] The following conversation takes place on Śrīla Prabhupāda's morning walk, on June 8th, 1975, at Kailua Beach, Hawaii.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Lecture at Kumbha-melā ======
 
----- dataentry spoken ----
-id_hidden        : 770115le.all
-listtype_hidden  : Morning Lecture at Kumbha-melā
-listdate_hidden  : 1977-01-15
-showdate_hidden  : 2023-01-15
-listplace_hidden : Allahabad
-Type_spoken      : Lecture
-Date_spoken      : January 15
-Year_spoken      : 1977
-Place_spoken     : Allahabad
-Length_hidden    : 20:20
-Title_hidden     : Morning Lecture at Kumbha-melā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770115le.all.mp3|Morning Lecture at Kumbha-melā — January 15, 1977, Allahabad}}
-</audio>
-
 **Prabhupāda:**
 So people do not understand that there is life after death. But Bhagavān says, "Yes, there is life after death." //Tathā dehāntara-prāptiḥ// [[books:bg:2:13|[Bg. 2.13]]]. So //dehāntara-prāpti,// two kinds of //dehāntara-prāpti:// either towards the hell or towards heaven; towards liberation and towards bondage. So liberation means //mahat-sevāṁ dvāram āhur vimukteḥ// [[books:sb:5:5:2|[SB 5.5.2]]]. We want liberation. Then //mahat-sevā:// we have to take shelter of //mahātmā.// And if you want to go to the darkest region of material existence, then //yoṣitāṁ saṅgi-saṅgam,// sense enjoyment... //Yoṣit// means woman. So the last resort of sense enjoyment is sex life. So if we indulge in sex life, then //yoṣitāṁ saṅgi-saṅgam.// Not only directly we indulge in sex life, but even indirectly we associate with persons who are only interested in sex life... The whole world is interested in sex life. //Puṁsaḥ striyā mithunī-bhāvam etat// [[books:sb:5:5:8|[SB 5.5.8]]]. This material world is existing on this //mithunī-bhāva.// So //tamo-dvāraṁ yoṣitāṁ saṅgi-saṅgam.// Therefore you'll find in the Vedic way of life, sex indulgence is restricted. If we indulge in sex life than it is absolutely required, then we are gliding towards hellish condition of life. And if we follow the path of //mahātmās, mahat-sevā,// that is //dvāram āhur vimukteḥ.// We are making progress towards liberation.
 

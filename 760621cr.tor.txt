@@ -9,24 +9,6 @@
 
 ====== Conversation in Airport and Car to New Vrindavan ======
 
----- dataentry spoken ----
-id_hidden        : 760621cr.tor
-listtype_hidden  : Airport and car
-listdate_hidden  : 1976-06-21
-showdate_hidden  : 2023-06-21
-listplace_hidden : Toronto & New Vrindavan
-Type_spoken      : Room Conversation
-Date_spoken      : June 21
-Year_spoken      : 1976
-Place_spokens    : Toronto, New Vrindavan
-Length_hidden    : 65:47
-Title_hidden     : Conversation in Airport and Car to New Vrindavan
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760621cr.tor.mp3|Conversation in Airport and Car to New Vrindavan — June 21, 1976, Toronto, New Vrindavan}}
-</audio>
-
 [at airport; noise of airport announcements throughout]
 
 **Puṣṭa Kṛṣṇa:**

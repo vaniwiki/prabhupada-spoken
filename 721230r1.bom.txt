@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 721230r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-12-30
-showdate_hidden  : 2023-12-30
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 30
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 19:07
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721230r1.bom.mp3|Room Conversation — December 30, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 First of all you should know that I am not this body. Just like I am not this apartment, similarly, I am not this body. So my body is changing according to my //karma.// Just like according to my capacity to pay rent, my apartment is changing. Not that because I have come to the first-class apartment, and it is guaranteed that I shall continue.
 

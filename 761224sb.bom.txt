@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.1 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 761224sb.bom
-listtype_hidden  : SB 5.5.1 [Hindi]
-listdate_hidden  : 1976-12-24
-showdate_hidden  : 2023-12-24
-listplace_hidden : Bombay
-Type_spoken      : Hindi
-Date_spoken      : December 24
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 33:23
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.1 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761224sb.bom_hindi.mp3|SB 5.5.1 [Hindi] — December 24, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > ṛṣabha uvāca

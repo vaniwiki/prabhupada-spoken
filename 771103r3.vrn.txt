@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771103r3.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-03
-showdate_hidden  : 2023-11-03
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 3
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 11:39
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771103r3.vrn.mp3|Room Conversation — November 3, 1977, Vṛndāvana}}
-</audio>
-
 **Brahmānanda:**
 Well, they were very stubborn. They simply insisted that there were two paths, and they were quoting //Bhagavad-gītā.// I said, "Well, that may be so, but of the two paths, your path is the most difficult, and you've called the conference to spread //Bhagavad-gītā,// so why are you spreading the most difficult path of //Bhagavad-gītā?// Why not spread the most easiest?"
 

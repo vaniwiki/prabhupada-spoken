@@ -9,24 +9,6 @@
 
 ====== Lecture at Indo-American Society ======
 
----- dataentry spoken ----
-id_hidden        : 730131le.cal
-listtype_hidden  : Lecture at Indo-American Society
-listdate_hidden  : 1973-01-31
-showdate_hidden  : 2023-01-31
-listplace_hidden : Calcutta
-Type_spoken      : Lecture
-Date_spoken      : January 31
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 48:01
-Title_hidden     : Lecture at Indo-American Society "East and West"
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730131le.cal.mp3|Lecture at Indo-American Society — January 31, 1973, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 Mr. Allen, Ladies and Gentlemen, I thank you very much for your kindly inviting me to speak something about East and West. Of course, I have got considerable experience now because I am wandering East and West, not only once, at least twice, thrice in a year. So far Kṛṣṇa consciousness movement is concerned, we have no such thing, East and West. Just like the sun rises from the eastern horizon and sets on the western horizon, but the sun is the same.
 

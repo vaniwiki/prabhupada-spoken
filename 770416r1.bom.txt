@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Ram Jethmalani (Parliament Member) ======
 
----- dataentry spoken ----
-id_hidden        : 770416r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-04-16
-showdate_hidden  : 2023-04-16
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 16
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 73:20
-Title_hidden     : Room Conversation with Ram Jethmalani [Parliament Member]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770416r1.bom.mp3|Room Conversation with Ram Jethmalani (Parliament Member) — April 16, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 I was cooking in my hand. So for one man sitting I was cooking not less than for ten to fifteen men.
 

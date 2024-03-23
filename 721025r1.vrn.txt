@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 721025r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-10-25
-showdate_hidden  : 2023-10-25
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 25
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 07:44
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721025r1.vrn.mp3|Room Conversation — October 25, 1972, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 You have not met?
 

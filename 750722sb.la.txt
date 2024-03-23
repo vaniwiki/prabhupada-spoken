@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.41 ======
 
----- dataentry spoken ----
-id_hidden        : 750722sb.la
-listtype_hidden  : SB 6.1.41
-listdate_hidden  : 1975-07-22
-showdate_hidden  : 2023-07-22
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 22
-Year_spoken      : 1975 
-Place_spoken     : Los Angeles
-Length_hidden    : 30:37
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.41
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750722sb.la.mp3|SB 6.1.41 — July 22, 1975 , Los Angeles}}
-</audio>
-
 **Pradyumna**: "The supreme cause of all causes, Nārāyaṇa, is situated in His own abode in the spiritual world, but nevertheless He controls the entire cosmic manifestation according to the three modes of material nature---sattva-guṇa, rajo-guṇa and tamo-guṇa. In this way all living entities are awarded different qualities, different names [such as brāhmaṇa, kṣatriya and vaiśya], and different activities according to the institution of varṇāśrama. Thus Nārāyaṇa is the cause of the entire cosmic manifestation."
 
 **Prabhupāda:**

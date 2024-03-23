@@ -9,24 +9,6 @@
 
 ====== Conversation with Professor Hopkins ======
 
----- dataentry spoken ----
-id_hidden        : 750713r1.phi
-listtype_hidden  : Conversation with Professor Hopkins
-listdate_hidden  : 1975-07-13
-showdate_hidden  : 2023-07-13
-listplace_hidden : Philadelphia
-Type_spoken      : Room Conversation
-Date_spoken      : July 13
-Year_spoken      : 1975
-Place_spoken     : Philadelphia
-Length_hidden    : 84:01
-Title_hidden     : Conversation with Professor Hopkins
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750713r1.phi.mp3|Conversation with Professor Hopkins — July 13, 1975, Philadelphia}}
-</audio>
-
 **Devotee:**
 Which one should we...
 

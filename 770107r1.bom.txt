@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770107r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-07
-showdate_hidden  : 2023-01-07
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 7
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 91:55
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770107r1.bom.mp3|Room Conversation — January 7, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. What he will do, more payment[?]? Then he will kill. This sex life in this material world is so strong, even in the heavenly planets. Big, big //ṛṣis.// Sex life with animals also there is description. Sex life is so strong. Man cohabiting with animals. It makes blind. Vyāsadeva made one of her students pregnant... 
 

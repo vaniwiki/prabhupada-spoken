@@ -9,24 +9,6 @@
 
 ====== Room Conversation With John Lennon, Yoko Ono, and George Harrison ======
 
----- dataentry spoken ----
-id_hidden        : 690911rc.lon
-listtype_hidden  : John Lennon, Yoko Ono, and George
-listdate_hidden  : 1969-09-11
-showdate_hidden  : 2023-09-11
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : September 11
-Year_spoken      : 1969
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation With John Lennon, Yoko Ono, and George Harrison
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690911rc.lon.mp3|Room Conversation With John Lennon, Yoko Ono, and George Harrison — September 11, 1969, London}}
-</audio>
-
 **George Harrison:**
 Don't mind.
 

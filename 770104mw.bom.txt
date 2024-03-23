@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 770104mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1977-01-04
-showdate_hidden  : 2023-01-04
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : January 4
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 36:36
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770104mw.bom.mp3|Morning Walk — January 4, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 What //prakṛti?// When there is...
 

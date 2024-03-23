@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.39 ======
 
----- dataentry spoken ----
-id_hidden        : 730912bg.lon
-listtype_hidden  : Bg 2.39
-listdate_hidden  : 1973-09-12
-showdate_hidden  : 2023-09-12
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : September 12
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 29:03
-Title_hidden     : Bhagavad-gītā 2.39
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730912bg.lon.mp3|Bg 2.39 — September 12, 1973, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

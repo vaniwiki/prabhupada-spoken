@@ -9,24 +9,6 @@
 
 ====== Śrīla Bhaktisiddhānta Sarasvatī Appearance Day Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 760221ba.may
-listtype_hidden  : Appearance Day
-listdate_hidden  : 1976-02-21
-showdate_hidden  : 2023-02-21
-listplace_hidden : Māyāpur
-Type_spoken      : Lecture
-Date_spoken      : February 21
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 22:54
-Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760221ba.may.mp3|Śrīla Bhaktisiddhānta Sarasvatī Appearance Day Lecture — February 21, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 [leads chanting of //Cc. Ādi// 1.1 responsively] //...īśa-bhaktān īśam īśāvatārakān tat-prakāśāṁś ca tac-chaktīḥ kṛṣṇa-caitanya-devam.// [aside---referring to microphone:] It will not stay. It will not stay. Today, the auspicious day of our predecessor spiritual master, Oṁ Viṣṇupāda Paramahaṁsa Parivrājakācārya Aṣṭottara-śata Śrīmad Bhaktisiddhānta Sarasvatī Ṭhākura Prabhupāda. Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura's mission... Apart from his life, we are especially stressing on the mission of Bhaktisiddhānta Sarasvatī Ṭhākura. This place, Māyāpur, was formerly known as Miyapura. Mostly it is inhabited by the Muhammadans. Some way or other it converted into the name of Miyapura instead of Māyāpur. Still, people are very much doubtful where is the birth site of Śrī Caitanya Mahāprabhu, and Bhaktivinoda Ṭhākura was researching to find out the actual place. So under the direction of Jagannātha dāsa Bābājī Mahārāja, this present //Yogapīṭha// was ascertained to be the birth site of Śrī Caitanya Mahāprabhu. So Bhaktivinoda Ṭhākura in the beginning wanted to develop this place very gloriously, befitting the holy name of Śrī Caitanya Mahāprabhu. So he started this movement of developing Māyāpur. He could not finish it, so it was handed down to Bhaktisiddhānta Sarasvatī Ṭhākura. So under his effort, assisted by his disciples, this place has gradually developed, and our attempt is also to develop this place. Therefore we have named this temple Māyāpur Chandrodaya. We have got great ambition to develop this place nicely and gloriously, and fortunately we are now connected with foreign countries, especially with the Americans. Bhaktivinoda Ṭhākura's great desire was that the Americans would come here and develop this place, and they would chant and dance along with the Indians.
 

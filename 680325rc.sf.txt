@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 680325rc.sf
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1968-03-25
-showdate_hidden  : 2023-03-25
-listplace_hidden : San Francisco
-Type_spoken      : Room Conversation
-Date_spoken      : March 25
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680325rc.sf.mp3|Room Conversation — March 25, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 "...you, under the direction of Lord Śiva. I worshiped Lord Śiva very successfully, and I prayed from him some sources of my happiness. So he has directed me to see you, that you have got that thing. So please give me that." So Sanātana Gosvāmī said "Well, what can I give you? Oh, all right. Can you find out some stone in that garbage?" There were heaps of garbage, and the man searched out and found out a stone. "Sir, do you mean to say this stone?" "Yes." "So what is this?" "This is touchstone. You take it and touch it to iron. It will become gold." "Oh, you are very ... You're so... Now I shall become the richest man in the world. I shall take heaps of iron and touch with this stone, and it becomes gold." So he, with great joy, he went out and he tried that actually, touching the stone, iron is becoming gold. But he thought that, "Lord Śiva directed that Sanātana Gosvāmī has the greatest benediction, I do not think this stone is greatest benediction because it was placed with garbage." So he came back and appealed to Sanātana Gosvāmī that "Lord Śiva told me you have got something most valuable. I don't think this stone is most valuable. Otherwise, why would you keep it in the garbage? You must have something more valuable. So you must give me that because that because Lord Śiva directed me to receive from you." Then Sanātana Gosvāmī told him, "Would you like to take that?" "Yes, sir. I have come for that purpose." So he asked him, "First of all, throw away the stone in the Yamunā River." So he threw away the stone. "Sit down and chant Hare Kṛṣṇa."
 

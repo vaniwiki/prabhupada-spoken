@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 680202le.la
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-02-02
-showdate_hidden  : 2023-02-02
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : February 2
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680202le.la.mp3|Lecture — February 2, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 
 > vairāgya-vidyā-nija-bhakti-yoga-

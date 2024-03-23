@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.1 ======
 
----- dataentry spoken ----
-id_hidden        : 680612sb.mon
-listtype_hidden  : SB 7.6.1
-listdate_hidden  : 1968-06-12
-showdate_hidden  : 2023-06-12
-listplace_hidden : Montreal
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 12
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680612sb.mon.mp3|SB 7.6.1 — June 12, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 
 > ...sādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ kṛṣṇa-caitanya-devaṁ

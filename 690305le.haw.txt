@@ -9,24 +9,6 @@
 
 ====== Lecture-Day after Śrī Gaura-Pūrṇimā ======
 
----- dataentry spoken ----
-id_hidden        : 690305le.haw
-listtype_hidden  : Lecture-Day after Śrī Gaura-Pūrṇimā
-listdate_hidden  : 1969-03-05
-showdate_hidden  : 2023-03-05
-listplace_hidden : Hawaii
-Type_spoken      : Lecture
-Date_spoken      : March 5
-Year_spoken      : 1969
-Place_spoken     : Hawaii
-Length_hidden    : 00:00
-Title_hidden     : Lecture-Day after Śrī Gaura-Pūrṇimā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690305le.haw.mp3|Lecture-Day after Śrī Gaura-Pūrṇimā — March 5, 1969, Hawaii}}
-</audio>
-
 **Prabhupāda:**
 Today is the second day of Lord Caitanya's birth ceremony. The Lord has appeared yesterday, 4th March. Not exactly 4th March. It is called, according to Vedic calendar, Gaura pūrṇimā, the full moon day of the month of Phālguna. Phālguna means up to 15th March. From 15th February to 14th March is the month of Phālguna according to Bengali calendar. And on the month of Phālguna, the full moon day, the full moon night is the appearance, or //tithi,// or occasion, for Lord Caitanya. Lord Caitanya appeared on the //phālguni pūrṇimā. Pūrṇimā// means full moon, and //phālguni// means the month which is called Phālguna, which is calculated from 15th February to 14th March.
 

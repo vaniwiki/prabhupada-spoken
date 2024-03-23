@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750404r1.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-04-04
-showdate_hidden  : 2023-04-04
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : April 4
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 16:52
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750404r1.may.mp3|Room Conversation — April 4, 1975, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 Still, due to Kṛṣṇa consciousness movement, Ramakishna Mission is no more very important. [break] What is that? [break] This morning also.
 

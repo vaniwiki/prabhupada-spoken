@@ -9,24 +9,6 @@
 
 ====== Arrival Talk in Room ======
 
----- dataentry spoken ----
-id_hidden        : 750323ar.may
-listtype_hidden  : Arrival Talk in Room
-listdate_hidden  : 1975-03-23
-showdate_hidden  : 2023-03-23
-listplace_hidden : Māyāpur
-Type_spoken      : Lecture
-Date_spoken      : March 23
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 18:44
-Title_hidden     : Arrival Talk in Room
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750323ar.may.mp3|Arrival Talk in Room — March 23, 1975, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...offering his blessings upon you. You are fulfilling his mission. He wanted that European, American should come here. It is all Bhaktivinoda Ṭhākura's blessing. Hare Kṛṣṇa. So there is no scarcity of space for keeping all the devotees?
 

@@ -9,24 +9,6 @@
 
 ====== Initiation of Ambarīṣa dāsa ======
 
----- dataentry spoken ----
-id_hidden        : 750603in-hon
-listtype_hidden  : Initiation
-listdate_hidden  : 1975-06-03
-showdate_hidden  : 2023-06-03
-listplace_hidden : Honolulu
-Type_spoken      : Initiation
-Date_spoken      : June 3
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 27:22
-Title_hidden     : Initiation of Ambarīṣa dāsa
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750603in-hon.mp3|Initiation of Ambarīṣa dāsa — June 3, 1975, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 ...material benefit, //śubha-kriyā.// So the initiation is not like that, that "I am taking to the process of chanting Hare Kṛṣṇa //mantra// for some material benefit." No. Because people become religious mostly for material benefit.
 

@@ -9,24 +9,6 @@
 
 ====== Arrival Talk ======
 
----- dataentry spoken ----
-id_hidden        : 761009ar.ali
-listtype_hidden  : Arrival Talk
-listdate_hidden  : 1976-10-09
-showdate_hidden  : 2023-10-09
-listplace_hidden : Aligarh
-Type_spoken      : Lecture
-Date_spoken      : October 9
-Year_spoken      : 1976
-Place_spoken     : Aligarh
-Length_hidden    : 54:53
-Title_hidden     : Arrival Talk at House of Surendra Kumar Saigal
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761009ar.ali.mp3|Arrival Talk — October 9, 1976, Aligarh}}
-</audio>
-
 **Prabhupāda:**
 ...very glad to see you again. So this //saṅkīrtana// is all-glorious. That is the blessings of Śrī Caitanya Mahāprabhu. //Paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam.// This is His blessing: simply by //saṅkīrtana// in this age. It is confirmed in the Vedic literature, in //Vedānta-sūtra, śabdād anāvṛtti. Anāvṛtti,// liberation. Our present position is bondage. We are bound up by the laws of nature. We may foolishly declare independence---that is our foolishness---but actually we are bound up by the laws of nature.
 

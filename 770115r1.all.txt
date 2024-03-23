@@ -9,24 +9,6 @@
 
 ====== Conversation in car ======
 
----- dataentry spoken ----
-id_hidden        : 770115r1.all
-listtype_hidden  : Conversation in car
-listdate_hidden  : 1977-01-15
-showdate_hidden  : 2023-01-15
-listplace_hidden : Allahabad
-Type_spoken      : Room Conversation
-Date_spoken      : January 15
-Year_spoken      : 1977
-Place_spoken     : Allahabad
-Length_hidden    : 24:14
-Title_hidden     : Conversation in Car
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770115r1.all.mp3|Conversation in car — January 15, 1977, Allahabad}}
-</audio>
-
 **Prabhupāda:**
 ...in Western countries, fifty years. Twenty years in Durban and thirty years in England.
 

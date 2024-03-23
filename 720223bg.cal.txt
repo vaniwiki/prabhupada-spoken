@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 16.5 ======
 
----- dataentry spoken ----
-id_hidden        : 720223bg.cal
-listtype_hidden  : Bg 16.5
-listdate_hidden  : 1972-02-23
-showdate_hidden  : 2023-02-23
-listplace_hidden : Calcutta
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 23
-Year_spoken      : 1972
-Place_spoken     : Calcutta
-Length_hidden    : 46:31
-Title_hidden     : Bhagavad-gītā 16.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720223bg.cal.mp3|Bg 16.5 — February 23, 1972, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 
 > nibandhāyāsurī matā

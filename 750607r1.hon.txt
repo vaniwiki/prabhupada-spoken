@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Yogi Bhajan ======
 
----- dataentry spoken ----
-id_hidden        : 750607r1.hon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-06-07
-showdate_hidden  : 2023-06-07
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : June 7
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 71:58
-Title_hidden     : Room Conversation with Yogi Bhajan
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750607r1.hon.mp3|Room Conversation with Yogi Bhajan — June 7, 1975, Honolulu}}
-</audio>
-
 **Yogi Bhajan:**
 How are you?
 

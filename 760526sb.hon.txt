@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.26 ======
 
----- dataentry spoken ----
-id_hidden        : 760526sb.hon
-listtype_hidden  : SB 6.1.26
-listdate_hidden  : 1976-05-26
-showdate_hidden  : 2023-05-26
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 26
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 27:04
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.26
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760526sb.hon.mp3|SB 6.1.26 — May 26, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 So, //Śrīmad-Bhāgavatam,// Sixth Canto, First Chapter, text number twenty-six. [leads devotees in chanting]
 

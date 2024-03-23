@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Scientists ======
 
----- dataentry spoken ----
-id_hidden        : 760708r2.wdc
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-08
-showdate_hidden  : 2023-07-08
-listplace_hidden : Washington, D.C.
-Type_spoken      : Room Conversation
-Date_spoken      : July 8
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 18:17
-Title_hidden     : Room Conversation with Scientists
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760708r2.wdc.mp3|Room Conversation with Scientists — July 8, 1976, Washington, D.C.}}
-</audio>
-
 **Svarūpa Dāmodara:**
 There is an international meeting coming up next year on the origin of life, in Japan, Tokyo. They have an international body called International Society for the Study of the Origin of Life, and there are participants from all over the world actually. They held this meeting once every four years. Next one is scheduled to be in Tokyo. We were thinking that if we get some material, we'll go and represent there.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760118mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-01-18
-showdate_hidden  : 2023-01-18
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : January 18
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 13:07
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760118mw.may.mp3|Morning Walk — January 18, 1976, Māyāpur}}
-</audio>
-
 **Madhudviṣa:**
 //...Bhāgavatam// you say that we should greet the sun with the verse from Gāyatrī //mantra.// Does that means we should wait for sunrise to say our Gāyatrī? Just as the sun is rising, we should say the Gāyatrī.
 

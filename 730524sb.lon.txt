@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.10.20 ======
 
----- dataentry spoken ----
-id_hidden        : 730524sb.lon
-listtype_hidden  : SB 1.10.20
-listdate_hidden  : 1973-05-24
-showdate_hidden  : 2023-05-24
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 24
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 27:56
-Title_hidden     : Śrīmad-Bhāgavatam 1.10.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730524sb.lon.mp3|SB 1.10.20 — May 24, 1973, London}}
-</audio>
-
 **Devotee:**
 Chapter Ten, page 531.
 

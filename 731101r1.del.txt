@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 731101r1.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-11-01
-showdate_hidden  : 2023-11-01
-listplace_hidden : Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : November 1
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 10:25
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731101r1.del.mp3|Room Conversation — November 1, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 //...gatvā duḥkhānusaṅgaminaḥ.// There is misery. Even you go to the moon planet... This is //Bhāgavata.// Before going to your moon planet, here is the information: "Anywhere you go, rascal, these things will follow, //janma-mṛtyu-jarā-vyādhi// [[books:bg:13:8-12|[Bg. 13.9]]], and inconveniences you'll have suffer." So one is..., one who is intelligent, then, "Where shall I find real happiness?" That is Kṛṣṇa. Therefore one requires to be very, very intelligent to become Kṛṣṇa conscious. //Sarva, sarvatra bhasananvita//[?].
 

@@ -9,24 +9,6 @@
 
 ====== Lecture and Initiation ======
 
----- dataentry spoken ----
-id_hidden        : 750710in.chi
-listtype_hidden  : Initiation
-listdate_hidden  : 1975-07-10
-showdate_hidden  : 2023-07-10
-listplace_hidden : Chicago
-Type_spoken      : Initiation
-Date_spoken      : July 10
-Year_spoken      : 1975
-Place_spoken     : Chicago
-Length_hidden    : 14:58
-Title_hidden     : Lecture and Initiation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750710in.chi.mp3|Lecture and Initiation — July 10, 1975, Chicago}}
-</audio>
-
 **Prabhupāda:**
 
 > anarpita-carīṁ cirāt karuṇayāvatīrṇaḥ kalau

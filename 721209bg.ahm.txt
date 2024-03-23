@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 18.67–69 ======
 
----- dataentry spoken ----
-id_hidden        : 721209bg.ahm
-listtype_hidden  : Bg 18.67–69
-listdate_hidden  : 1972-12-09
-showdate_hidden  : 2023-12-09
-listplace_hidden : Ahmedabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 9
-Year_spoken      : 1972
-Place_spoken     : Ahmedabad
-Length_hidden    : 46:05
-Title_hidden     : Bhagavad-gītā 18.67–69
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721209bg.ahm.mp3|Bg 18.67-69 — December 9, 1972, Ahmedabad}}
-</audio>
-
 **Prabhupāda:**
 ...about Kṛṣṇa's forbidding Arjuna not to speak this //Bhagavad-gītā// to a person who is not very much advanced in austerity and penance. The verse is on the Eighteenth Chapter, verse number 67, in which Kṛṣṇa says to Arjuna,
 

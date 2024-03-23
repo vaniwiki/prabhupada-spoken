@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720909r1.pit
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-09-09
-showdate_hidden  : 2023-09-09
-listplace_hidden : Pittsburgh
-Type_spoken      : Room Conversation
-Date_spoken      : September 9
-Year_spoken      : 1972
-Place_spoken     : Pittsburgh
-Length_hidden    : 08:53
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720909r1.pit.mp3|Room Conversation — September 9, 1972, Pittsburgh}}
-</audio>
-
 **Yaśomatīnandana:**
 We got garlanded every block, so many garlands were there it was hard to redistribute again.
 

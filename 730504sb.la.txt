@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.42 ======
 
----- dataentry spoken ----
-id_hidden        : 730504sb.la
-listtype_hidden  : SB 1.8.42
-listdate_hidden  : 1973-05-04
-showdate_hidden  : 2023-05-04
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 4
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 38:41
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.42
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730504sb.la.mp3|SB 1.8.42 — May 4, 1973, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

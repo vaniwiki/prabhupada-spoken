@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Svarūpa Dāmodara ======
 
----- dataentry spoken ----
-id_hidden        : 771018r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-18
-showdate_hidden  : 2023-10-18
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 18
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 24:13
-Title_hidden     : Room Conversation with Svarūpa Dāmodara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771018r2.vrn.mp3|Room Conversation with Svarūpa Dāmodara — October 18, 1977, Vṛndāvana}}
-</audio>
-
 **Hṛdayānanda:**
 Always more or less warm. Tropical, subtropical. Always nice fruits. Perhaps some day, in a Kṛṣṇa conscious world, we'll have to bring many people there, because there's so much unused land, all very green, lots of rivers, very nice, warm, and no one lives there. Thousands of miles of very nice land, and no one is using it. We are sending a few devotees back to Argentina, and we're going to try to see what can be done there. We are hopeful that even though our movement was kicked out there, still, there are many, many people who are chanting sixteen rounds or building altars in their homes and offering their food to Kṛṣṇa. And even since the government's kicked out all the different groups, including ourselves, just by your books circulating, many people are becoming devotees and leaving the country to go to other temples. So actually we're still making devotees there just from the books that were distributed. And now we're investigating to try to again get legal permission, also perhaps establish something like some type of restaurant or farm community there. [break]
 

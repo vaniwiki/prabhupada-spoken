@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
----- dataentry spoken ----
-id_hidden        : 721126sb.hyd
-listtype_hidden  : SB 1.2.6
-listdate_hidden  : 1972-11-26
-showdate_hidden  : 2023-11-26
-listplace_hidden : Hyderabad
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 26
-Year_spoken      : 1972
-Place_spoken     : Hyderabad
-Length_hidden    : 58:07
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721126sb.hyd.mp3|SB 1.2.6 — November 26, 1972, Hyderabad}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

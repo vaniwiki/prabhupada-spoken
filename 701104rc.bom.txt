@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 701104rc.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1970-11-04
-showdate_hidden  : 2023-11-04
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : November 4
-Year_spoken      : 1970
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701104rc.bom.mp3|Room Conversation — November 4, 1970, Bombay}}
-</audio>
-
 **Prabhupāda:**
 One of our relatives, long, long ago, he happened to be, as my grandmother..., my cousin's, oh, grandfather. He went to England in those old days and he became a parsiyas[?] doctor, very... When he came home the //brāhmaṇas// prescribed that "You went to England, so you have to make this //prāyaścitta// and this and so many prescriptions, and unless you follow the //prāyaścitta// you cannot live at home. Then your family will be extricated." So when these things were presented to him he said, "Then I am going out of home." His mother and father, everyone requested that... [Hindi] [break]
 

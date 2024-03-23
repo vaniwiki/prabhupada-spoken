@@ -9,24 +9,6 @@
 
 ====== Lecture [Intro by Dr. Kapoor] ======
 
----- dataentry spoken ----
-id_hidden        : 721015le.vrn
-listtype_hidden  : Lecture [Intro by Dr. Kapoor]
-listdate_hidden  : 1972-10-15
-showdate_hidden  : 2023-10-15
-listplace_hidden : Vṛndāvana
-Type_spoken      : Lecture
-Date_spoken      : October 15
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 27:11
-Title_hidden     : Lecture [Intro by Dr. Kapoor]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721015le.vrn.mp3|Lecture [Intro by Dr. Kapoor] — October 15, 1972, Vṛndāvana}}
-</audio>
-
 **Dr. Kapoor:**
 ...here at Rādhā-Dāmodara, after his long tour of the world, in which he broadcast the message of Śrī Kṛṣṇa Caitanya Mahāprabhu in the different //karmas,// to the different nationalities of the world. This return back to homeland of Śrīla Prabhupāda is particularly significant, because this time he comes back with a host of his Western disciples. This signifies to me the meeting of the East and the West, or at least the beginning of such a meeting. This signifies the victory of spiritualism over materialism, of good over evil.
 

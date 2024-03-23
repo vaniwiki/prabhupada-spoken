@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Professor Durckheim, Dr. P. J. Saher and Professor Porsch ======
 
----- dataentry spoken ----
-id_hidden        : 740619r1.ger
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-19
-showdate_hidden  : 2023-06-19
-listplace_hidden : Germany
-Type_spoken      : Room Conversation
-Date_spoken      : June 19
-Year_spoken      : 1974
-Place_spoken     : Germany
-Length_hidden    : 194:20
-Title_hidden     : Room Conversation with Professor Durckheim, Dr. P. J. Saher and Professor Porsch
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740619r1.ger.mp3|Room Conversation with Professor Durckheim, Dr. P. J. Saher and Professor Porsch — June 19, 1974, Germany}}
-</audio>
-
 **Professor Durckheim:**
 ...and to write books, and people came, and today we have there what you would call a little //āśrama,// mostly about fifty, sixty persons living there, coming, going; no patients, just people who try to discover their real self, nothing else.
 

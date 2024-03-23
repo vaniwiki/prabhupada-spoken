@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770508r1.hri
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-05-08
-showdate_hidden  : 2023-05-08
-listplace_hidden : Rishikesh
-Type_spoken      : Room Conversation
-Date_spoken      : May 8
-Year_spoken      : 1977
-Place_spoken     : Rishikesh
-Length_hidden    : 03:03
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770508r1.hri.mp3|Room Conversation — May 8, 1977, Rishikesh}}
-</audio>
-
 **Prabhupāda:**
 If you have got the name, so why not reply to each one, with the letter...
 

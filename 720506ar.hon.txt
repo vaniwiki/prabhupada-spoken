@@ -9,23 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720506ar.hon
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1972-05-06
-showdate_hidden  : 2023-05-06
-listplace_hidden : Honolulu
-Type_spoken      : Lecture
-Date_spoken      : May 6
-Year_spoken      : 1972
-Place_spoken     : Honolulu
-Length_hidden    : 45:16
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720506ar.hon.mp3|Arrival Lecture — May 6, 1972, Honolulu}}
-</audio>
 @note: 720506AR-HONOLULU = 760506LE-HONOLULU [?]
 
 **Prabhupāda:**

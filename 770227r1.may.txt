@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770227r1.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-02-27
-showdate_hidden  : 2023-02-27
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 27
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 31:54
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770227r1.may.mp3|Room Conversation — February 27, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 //...aniya mahat-pado smariya gurave namaḥ.// In a short time he has learned very nicely.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Reporter ======
 
----- dataentry spoken ----
-id_hidden        : 750309r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-03-09
-showdate_hidden  : 2023-03-09
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : March 9
-Year_spoken      : 1975
-Place_spoken     : London
-Length_hidden    : 47:06
-Title_hidden     : Room Conversation with Reporter
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750309r1.lon.mp3|Room Conversation with Reporter — March 9, 1975, London}}
-</audio>
-
 **Prabhupāda:**
 ...he did not like to kill his cousin-brothers. He said that "Even they usurp my kingdom, I do not wish to kill them." So this affection, this bodily affection, was not very much approved by Kṛṣṇa. He said that "You are talking like a non-Āryan." //Anārya-juṣṭam. Anārya.// "The Āryan, they do not think like that." Another place He says that "You are giving consideration on the body, but any learned schol..., man does not refer to body, either dead or alive. They, learned man, will give stress on the moving force of the body." So Kṛṣṇa consciousness movement means basically on the moving force of the body.
 

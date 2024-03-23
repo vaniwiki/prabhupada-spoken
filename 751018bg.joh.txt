@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 16.6 ======
 
----- dataentry spoken ----
-id_hidden        : 751018bg.joh
-listtype_hidden  : Bg 16.6
-listdate_hidden  : 1975-10-18
-showdate_hidden  : 2023-10-18
-listplace_hidden : Johannesburg
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 18
-Year_spoken      : 1975
-Place_spoken     : Johannesburg
-Length_hidden    : 51:20
-Title_hidden     : Bhagavad-gītā 16.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751018bg.joh.mp3|Bg 16.6 — October 18, 1975, Johannesburg}}
-</audio>
-
 **Prabhupāda:**
 
 > ...daivo vistaraśaḥ prokta

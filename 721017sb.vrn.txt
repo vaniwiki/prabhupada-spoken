@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
----- dataentry spoken ----
-id_hidden        : 721017sb.vrn
-listtype_hidden  : SB 1.2.6
-listdate_hidden  : 1972-10-17
-showdate_hidden  : 2023-10-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 17
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 44:20
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721017sb.vrn.mp3|SB 1.2.6 — October 17, 1972, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 
 > sa vai puṁsāṁ paro dharmo

@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760906g1.vrn
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1976-09-06
-showdate_hidden  : 2023-09-06
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 6
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 30:46
-Title_hidden     : Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760906g1.vrn.mp3|Garden Conversation — September 6, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Why should we bother about this and that?
 

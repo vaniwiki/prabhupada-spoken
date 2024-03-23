@@ -9,25 +9,6 @@
 
 ====== Lecture & Initiation ======
 
----- dataentry spoken ----
-id_hidden        : 681020in.sea
-listtype_hidden  : Lecture & Initiation
-listdate_hidden  : 1968-10-20
-showdate_hidden  : 2023-10-20
-listplace_hidden : Seattle
-Type_spoken      : Initiation
-Date_spoken      : October 20
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Lecture & Initiation
-----
-
-<WRAP nopurple >
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681020in.sea.mp3|Lecture & Initiation — October 20, 1968, Seattle}}
-</audio>
-
-
 **Prabhupāda:**
 [sings] //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// [audience responds] So Kṛṣṇa consciousness movement means to approach the original Supreme Personality of Godhead, Kṛṣṇa. This is Kṛṣṇa consciousness. Directly. This is a special gift of Lord Caitanya that... In this age there are so many anomalies, defects in the life of human being that gradually they are giving up the idea of Kṛṣṇa consciousness, or God consciousness. Not only gradually they are giving up, they have already given up. So //Vedānta-sūtra// therefore says, //athāto brahma jijñāsā.// It is not that a different type of religious system we have introduced. It is a great necessity of the present day. Because we say that either you follow scripture, Bible, or you follow Koran or you follow //Vedas,// the aim is God. But at the present moment, due to the influence of this Kali-yuga... Kali-yuga means the age of quarrel and disagreement. So in this age people are embarrassed in so many ways. First disqualification is that they do not live for long time. The average duration of life in India is thirty-five years, and I do not know exactly what is the average age here, but in India the people are overcrowded. They have no such intelligence, or they did not care to go outside India, colonize. Everyone went there to exploit, but they never thought of exploiting other places. That is their cultural... They do not try to encroach upon others' property. Anyway, India's position is very precarious, because they have left their own culture and they're trying to imitate the Western culture, which they cannot due to so many circumstances, and therefore they're put into, between the horns of Scylla and Charybdis. You see.
 

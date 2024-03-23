@@ -9,24 +9,6 @@
 
 ====== Conversation with M.P., Shri Sita Ram Singh ======
 
----- dataentry spoken ----
-id_hidden        : 770519r1.vrn
-listtype_hidden  : Conversation with M.P., Shri Sita Ram Singh
-listdate_hidden  : 1977-05-19
-showdate_hidden  : 2023-05-19
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : May 19
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 36:10
-Title_hidden     : Conversation with M.P., Shri Sita Ram Singh
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770519r1.vrn.mp3|Conversation with M.P., Shri Sita Ram Singh — May 19, 1977, Vṛndāvana}}
-</audio>
-
 **Sita Ram Singh:**
 I came from Delhi. I got down here: "I want holy //darśanas.//"
 

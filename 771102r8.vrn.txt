@@ -9,24 +9,6 @@
 
 ====== Room Conversation Kavirāja Visit ======
 
----- dataentry spoken ----
-id_hidden        : 771102r8.vrn
-listtype_hidden  : Kavirāja Visit
-listdate_hidden  : 1977-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 2
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 40:38
-Title_hidden     : Room Conversation Kavirāja Visit
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771102r8.vrn.mp3|Room Conversation Kavirāja Visit — November 2, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] Tamāla Kṛṣṇa?
 

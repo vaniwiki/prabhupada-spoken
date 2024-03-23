@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681219in.la
-listtype_hidden  : Initiation Lecture
-listdate_hidden  : 1968-12-19
-showdate_hidden  : 2023-12-19
-listplace_hidden : Los Angeles
-Type_spoken      : Initiation
-Date_spoken      : December 19
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Initiation Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681219in.la.mp3|Initiation Lecture — December 19, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Just like... I am not criticizing, but it is, I mean to say, a human consideration. Suppose if you have committed some wrong thing within our jurisdiction and you come to me, "Swamijī, I have committed this." So I say, "All right. Don't do it again. Excused." Now, second day you come again. You say, "I have committed this." All right. Second day I can also excuse. The third day also, I can excuse, but fourth day I'll not excuse. Don't make it official business. Just like go to the church every week and confess and... Confessing your sinful activities before Lord Jesus Christ or his representative, surely your sinful activities are squared up. But does it mean, very nice, that every week, the whole week you shall commit sinful activities, and at the end of the week you shall go and confess? Does it look very well? You are not ashamed that "Every week I commit these sinful activities, and on the seventh day I confess"? This process should not be adopted, that because God's name, God's remembrance actually squares up all of our sinful activities. That's a fact. But how it is that we shall go on committing sinful activities and square it up by chanting Hare Kṛṣṇa or by confessing? No. This is the particular point. One should carefully note. Just like Jagāi-Mādhāi. Jagāi-Mādhāi, they were the greatest sinful men during Caitanya Mahāprabhu's time. So when they surrendered to Lord Caitanya Mahāprabhu with confession, "My Lord, we have committed //so// many sinful activities. Please save us," that Caitanya Mahāprabhu asked them that "Yes, I will accept you and I'll save you, provided you promise that no more you shall commit such sinful activities." So they agreed, "Yes. Whatever we have done, that's all. No more we are going to do it." Then Caitanya Mahāprabhu accepted them and they became great devotee and their life was successful.
 

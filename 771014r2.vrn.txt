@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771014r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-14
-showdate_hidden  : 2023-10-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 14
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 46:53
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771014r2.vrn.mp3|Room Conversation — October 14, 1977, Vṛndāvana}}
-</audio>
-
 **Bhakti-caru:**
 [Bengali] Prabhupāda said, "I kick them on their face." "I literally kick them on their face." [Bengali]
 

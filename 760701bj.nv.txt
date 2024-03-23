@@ -9,24 +9,6 @@
 
 ====== Bhavan’s Journal, Answers to a Questionnaire 3 ======
 
----- dataentry spoken ----
-id_hidden        : 760701bj.nv
-listtype_hidden  : Bhavan’s Journal 3
-listdate_hidden  : 1976-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : New Vrindavan
-Type_spoken      : Various
-Date_spoken      : July 1
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 110:54
-Title_hidden     : Answers to a Questionnaire from Bhavan’s Journal, Questions 10 true 21
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760701bj.nv.mp3|Bhavan’s Journal, Answers to a Questionnaire 3 — July 1, 1976, New Vrindavan}}
-</audio>
-
 **Puṣṭa Kṛṣṇa:**
 So we're continuing with this questionnaire from //Bhavan's Journal// in Bombay. This is question number ten. Question number ten, Śrīla Prabhupāda, is, "Will //mantras// lose their sanctity if they are not in Sanskrit?"
 

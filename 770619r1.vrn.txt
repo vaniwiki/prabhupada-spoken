@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770619r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-06-19
-showdate_hidden  : 2023-06-19
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 19
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 20:47
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770619r1.vrn.mp3|Room Conversation — June 19, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...so small fly, and they can come so far only for that light.
 

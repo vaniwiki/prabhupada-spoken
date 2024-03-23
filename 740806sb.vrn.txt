@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.25 ======
 
----- dataentry spoken ----
-id_hidden        : 740806sb.vrn
-listtype_hidden  : SB 1.5.25
-listdate_hidden  : 1974-08-06
-showdate_hidden  : 2023-08-06
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 6
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 32:27
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.25
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740806sb.vrn.mp3|SB 1.5.25 — August 6, 1974, Vṛndāvana}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

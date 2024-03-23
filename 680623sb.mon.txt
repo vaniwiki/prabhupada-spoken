@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.6–9 ======
 
----- dataentry spoken ----
-id_hidden        : 680623sb.mon
-listtype_hidden  : SB 7.6.6–9
-listdate_hidden  : 1968-06-23
-showdate_hidden  : 2023-06-23
-listplace_hidden : Montreal
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 23
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.6–9
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680623sb.mon.mp3|SB 7.6.6-9 — June 23, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalacaraṇa//] So Prahlāda Mahārāja's proposal is that //kaumāra ācaret prājñaḥ.// Intelligent Who is intelligent? He should begin Kṛṣṇa consciousness from childhood. Not that we have to wait. And he is presenting an analytical study of the whole life, that unless we begin Kṛṣṇa consciousness from childhood, hardly there will be opportunity to practice this transcendental method. Because in the beginning he has said that this life, human form of life, is very rare. The present educational system, they do not know it, that how important this human form of life is and how it has to be utilized. So that is being explained.
 

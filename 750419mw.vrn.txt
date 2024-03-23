@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750419mw.vrn
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : April 19
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 34:00
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750419mw.vrn.mp3|Morning Walk — April 19, 1975, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] ...nobody said that this meat-eating is bad; now I am saying. You see? So they do not know that it is bad. So they are not offenders.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.1–2 ======
 
----- dataentry spoken ----
-id_hidden        : 750522sb.mel
-listtype_hidden  : SB 6.1.1–2
-listdate_hidden  : 1975-05-22
-showdate_hidden  : 2023-05-22
-listplace_hidden : Melbourne
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 22
-Year_spoken      : 1975
-Place_spoken     : Melbourne
-Length_hidden    : 63:32
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.1–2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750522sb.mel.mp3|SB 6.1.1-2 — May 22, 1975, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 //...mo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees chant responsively].
 

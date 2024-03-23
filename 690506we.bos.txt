@@ -9,24 +9,6 @@
 
 ====== Wedding Ceremony and Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690506we.bos
-listtype_hidden  : Wedding
-listdate_hidden  : 1969-05-06
-showdate_hidden  : 2023-05-06
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : May 6
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Wedding Ceremony and Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690506we.bos.mp3|Wedding Ceremony and Lecture — May 6, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. So this is very simple method: chant, dance, eat nicely, and realize God. First of all give to the audience, then... [devotees chanting //japa//] Why don't you collect something, door? Right side bride, left side bridegroom.
 

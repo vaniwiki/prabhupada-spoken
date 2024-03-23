@@ -9,24 +9,6 @@
 
 ====== Room Conversation [with French translator] ======
 
----- dataentry spoken ----
-id_hidden        : 750812r1.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-08-12
-showdate_hidden  : 2023-08-12
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : August 12
-Year_spoken      : 1975
-Place_spoken     : Paris
-Length_hidden    : 61:07
-Title_hidden     : Room Conversation [with French translator]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750812r1.par.mp3|Room Conversation [with French translator] — August 12, 1975, Paris}}
-</audio>
-
 [questions and answers translated by Yogeśvara]
 
 **Guest:**

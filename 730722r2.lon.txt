@@ -9,24 +9,6 @@
 
 ====== Conversation with George Harrison ======
 
----- dataentry spoken ----
-id_hidden        : 730722r2.lon
-listtype_hidden  : Conversation with George Harrison
-listdate_hidden  : 1973-07-22
-showdate_hidden  : 2023-07-22
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 22
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 126:06
-Title_hidden     : Conversation with George Harrison
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730722r2.lon.mp3|Conversation with George Harrison — July 22, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 ...in your house?
 

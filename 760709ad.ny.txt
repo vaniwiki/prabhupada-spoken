@@ -9,24 +9,6 @@
 
 ====== Arrival Address ======
 
----- dataentry spoken ----
-id_hidden        : 760709ad.ny
-listtype_hidden  : Arrival Address
-listdate_hidden  : 1976-07-09
-showdate_hidden  : 2023-07-09
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : July 9
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 16:04
-Title_hidden     : Arrival Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760709ad.ny.mp3|Arrival Address — July 9, 1976, New York}}
-</audio>
-
 **Prabhupāda:**
 So first of all I must thank you all for bringing me in this new temple, because when I first came, my ambition was to start temple here in New York, and I was seeking the opportunity living in the Seventy-second Street. There was a house, very small house, one thousand feet space---25 feet by 100 feet. So they wanted $100,000. So I wrote one rich friend in India, industrialist---perhaps you know him, that Kanpurwalla, Padampat Singh, Singhania. So he agreed to pay me, but the government did not allow. The Indian government did not allow to transfer money from India to here. Then I approached the, what is that, Salvation Army, the chief man. I offered him that "You are spending money in India. So I have got a friend, he'll pay you, you pay me here." So he asked me, "What is the rate you want to pay me?" So I told him, "The present rate is five dollars..., five rupees per dollar." So he remained silent. That means he wanted more. In this way I had no place. What to speak of temple, I had no residential place even. So in that condition I was thinking of returning back to India. So the shipping company I was, practically every week, I was going.
 

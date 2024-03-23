@@ -9,24 +9,6 @@
 
 ====== Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770701r6.vrn
-listtype_hidden  : Conversation
-listdate_hidden  : 1977-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 1
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 03:36
-Title_hidden     : Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770701r6.vrn.mp3|Conversation — July 1, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 But you've given us... Even if you didn't give us...
 

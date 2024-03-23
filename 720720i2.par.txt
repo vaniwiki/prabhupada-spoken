@@ -9,24 +9,6 @@
 
 ====== Interview ======
 
----- dataentry spoken ----
-id_hidden        : 720720i2.par
-listtype_hidden  : Interview
-listdate_hidden  : 1972-07-20
-showdate_hidden  : 2023-07-20
-listplace_hidden : Paris
-Type_spoken      : Interview
-Date_spoken      : July 20
-Year_spoken      : 1972
-Place_spoken     : Paris
-Length_hidden    : 20:23
-Title_hidden     : Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720720i2.par.mp3|Interview — July 20, 1972, Paris}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] ...this wrong conception should be now. We should know our real identity. Then everything will be all right. We are going on on a wrong concept of life. Therefore people are not happy. So I want to give them the message, spiritual life. If people accept it, they will be happy.
 

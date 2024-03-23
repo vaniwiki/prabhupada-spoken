@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740413mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-04-13
-showdate_hidden  : 2023-04-13
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : April 13
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 19:27
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740413mw.bom.mp3|Morning Walk — April 13, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...all the leaders.
 

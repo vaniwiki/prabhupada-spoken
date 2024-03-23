@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760609r2.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-09
-showdate_hidden  : 2023-06-09
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 9
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 29:43
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760609r2.la.mp3|Room Conversation — June 9, 1976, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...could not eat one //cāpāṭi.// [laughter] Later on: "Bring more!"
 

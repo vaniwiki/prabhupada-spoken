@@ -9,24 +9,6 @@
 
 ====== Purport to Śrī Kṛṣṇa Caitanya Prabhu ======
 
----- dataentry spoken ----
-id_hidden        : 690111pu.la
-listtype_hidden  : Śrī Kṛṣṇa Caitanya Prabhu
-listdate_hidden  : 1969-01-11
-showdate_hidden  : 2023-01-11
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 11
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Śrī Kṛṣṇa Caitanya Prabhu
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690111pu.la.mp3|Purport to Śrī Kṛṣṇa Caitanya Prabhu — January 11, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Śrī-kṛṣṇa-caitanya prabhu doyā koro more, tomā binā ke doyālu jagata-māyāre.// This is a song composed by Narottama dāsa Ṭhākura. He is praying Lord Caitanya that "My dear Lord, please be merciful upon me because who can be more merciful than Your Lordship within these three worlds?" Actually, this is the fact. Not only Narottama dāsa Ṭhākura, but also Rūpa Gosvāmī, he also prayed for Lord Caitanya when both of them met at Prayāga, Allahabad, in the first meeting of Lord Caitanya and Rūpa Gosvāmī at Prayāga. At that time, Śrīla Rūpa Gosvāmī also said, "My dear Lord, You are the most munificent of all incarnations. Because You are distributing love of Kṛṣṇa, Kṛṣṇa consciousness." In other words, when Kṛṣṇa was personally present, He simply asked us to surrender, but He did not distribute Himself so easily. He made condition that "First of all you surrender." But here, in this incarnation, Lord Caitanya, although He's Kṛṣṇa Himself, He makes no condition. He simply distributes, "Take love of Kṛṣṇa." Therefore Lord Caitanya is approved as the most munificent incarnation, and Narottama dāsa Ṭhākura says that "Please be merciful upon me. You are so magnanimous because You have seen the fallen souls of this age, and You are very much compassionate upon them. But you should know also that I am the most fallen. Nobody is a greater fallen than me." //Patita-pāvana-hetu tava avatāra.// "Your incarnation is just to reclaim the conditioned souls, fallen souls. But I assure You that You will not find a greater fallen than me. Therefore my claim is first."
 

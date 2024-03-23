@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.23 ======
 
----- dataentry spoken ----
-id_hidden        : 720620sb.la
-listtype_hidden  : SB 2.3.23
-listdate_hidden  : 1972-06-20
-showdate_hidden  : 2023-06-20
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 20
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 39:05
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720620sb.la.mp3|SB 2.3.23 — June 20, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Hmm.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740315mw.vrn
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-03-15
-showdate_hidden  : 2023-03-15
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : March 15
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 30:42
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740315mw.vrn.mp3|Morning Walk — March 15, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...you should call learned. //Arcye viṣṇau śilā-dhīr guruṣu nara-matir vaiṣṇave jāti-buddhiḥ// [Padma Purāṇa]. You take it...
 

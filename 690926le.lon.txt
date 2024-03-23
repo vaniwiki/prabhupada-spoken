@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690926le.lon
-listtype_hidden  : Lecture
-listdate_hidden  : 1969-09-26
-showdate_hidden  : 2023-09-26
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : September 26
-Year_spoken      : 1969
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690926le.lon.mp3|Lecture — September 26, 1969, London}}
-</audio>
-
 **Prabhupāda:**
 Ladies and gentlemen, our Kṛṣṇa consciousness movement is just the appropriate movement for self-realization in this age. Self... When we speak of self, there are two kinds of self according to Vedic literatures. The exact word in Sanskrit, the self-//ātmā.// And there is another word---Paramātmā. //Ātmā// and Paramātmā. There is some other words also---//mahātmā, durātmā. Mahātmā// means one who has expanded his soul up to the Supersoul, Paramātmā. He's called //mahātmā.// Another word is //durātmā,// when one is far, far away from the Supersoul. //Dur, dur// means distant. //Bahut dur. Bahut dur pare hai// [?], they say. In Hindi also, they say //dur. Dur// means distant. So Paramātmā and //ātmā,// or God and Godhead, the Supreme Godhead or Supreme God. So we cannot place everyone on the same level. That is nonsense. As in this world we see that you are richer than me, and somebody is richer than you, and somebody is richer than somebody else... You go on finding out who is the richest, then you'll come to God. You cannot find anyone in this material world as the richest of all. No. Somebody will come who is richer than him, and somebody will come out who is, I mean to say, poorer than him. Any position you stand, you'll find somebody greater and somebody lesser. Even in the lowest stage of life also, you'll find somebody is lesser. In any capacity, either in richness or in knowledge or in beauty or in strength---in so many things we have got. So everyone cannot be placed on the same level, not only materially, but also spiritually. If you say that "This higher status, lower status, are calculated in the material world; in the spiritual world there is no such distinction," that is partially true. In the spiritual world there is no such distinction, but that spiritual distinction is not exactly like material distinction. That distinction is of consciousness, varieties of consciousness. That distinction.
 

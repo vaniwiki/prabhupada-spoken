@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.7.22 ======
 
----- dataentry spoken ----
-id_hidden        : 760918sb.vrn
-listtype_hidden  : SB 1.7.22
-listdate_hidden  : 1976-09-18
-showdate_hidden  : 2023-09-18
-listplace_hidden : Vṛndāvana 
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 18
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana 
-Length_hidden    : 27:52
-Title_hidden     : Śrīmad-Bhāgavatam 1.7.22
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760918sb.vrn.mp3|SB 1.7.22 — September 18, 1976, Vṛndāvana }}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [chants verse]
 

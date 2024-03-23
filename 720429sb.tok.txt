@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.9.1–12 ======
 
----- dataentry spoken ----
-id_hidden        : 720429sb.tok
-listtype_hidden  : SB 2.9.1–12
-listdate_hidden  : 1972-04-29
-showdate_hidden  : 2023-04-29
-listplace_hidden : Tokyo
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 29
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 44:27
-Title_hidden     : Śrīmad-Bhāgavatam 2.9.1–12
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720429sb.tok.mp3|SB 2.9.1-12 — April 29, 1972, Tokyo}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting, etc.] [Prabhupāda and devotees respond]
 

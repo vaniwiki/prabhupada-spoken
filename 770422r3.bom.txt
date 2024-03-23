@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770422r3.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-04-22
-showdate_hidden  : 2023-04-22
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 22
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 39:46
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770422r3.bom.mp3|Room Conversation — April 22, 1977, Bombay}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 But there's a lot of trouble, martial law in three cities.
 

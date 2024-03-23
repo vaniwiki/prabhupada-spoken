@@ -9,24 +9,6 @@
 
 ====== Nṛsiṁha-caturdaśī, Lord Nṛsiṁha-deva’s Appearance Day ======
 
----- dataentry spoken ----
-id_hidden        : 690501na.bos
-listtype_hidden  : Nṛsiṁha-caturdaśī
-listdate_hidden  : 1969-05-01
-showdate_hidden  : 2023-05-01
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : May 1
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Nṛsiṁha-caturdaśī, Lord Nṛsiṁha-deva’s Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690501na.bos.mp3|Nṛsiṁha-caturdaśī — May 1, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 ...just like Janmāṣṭamī and Nandotsava. Yesterday you had some festival? No. That's all. So Nṛsiṁha-deva has appeared to convince the atheist [laughter] that there is no God. This is a lying propaganda that nobody has seen God. Everyone has seen God. The devotee sees within his heart, in the temple, and everywhere. And the atheist sees when he's... when the clock, the handles in the clock are over. You see? Prahlāda Mahārāja was seeing always, constantly Nṛsiṁha-deva. //Mahābhāgavata. Premāñjana-cchurita-bhakti-vilocanena santaḥ sadaiva hṛdayeṣu vilokayanti// [Bs. 5.38]. Those who have developed love of God, //prema, premāñjana-cchurita...// When one's eyes are anointed with the, what is called?
 

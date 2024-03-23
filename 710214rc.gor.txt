@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 710214rc.gor
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-02-14
-showdate_hidden  : 2023-02-14
-listplace_hidden : Gorakhpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 14
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710214rc.gor.mp3|Room Conversation — February 14, 1971, Gorakhpur}}
-</audio>
-
 **Prabhupāda:**
 ...my Guru Mahārāja was in his last days, these rascal doctors injected... Our, this Kuñjabihārī, Tīrtha Mahārāja brought so many big, big doctors. And he protested, "Why are you giving me injection?" He protested. He personally said, "Why are you giving me injection?" And if you bring a doctor, the rascals will not stop. "Oh, that is our treatment. We must try our best." They will plead like that. "To give more trouble to the patient, that is our business." Inventing new medicines means inventing new means of giving trouble. That's all. As soon as you ask them whether by injection the life is guaranteed, they will say, "No. There is no guarantee. Let us try, make experiment." Yes. In hospital, as soon as you get [microphone moving]... Whatever nonsense knowledge they have got, they make experiment, at the risk of other's life.
 

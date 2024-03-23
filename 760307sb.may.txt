@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.29 ======
 
----- dataentry spoken ----
-id_hidden        : 760307sb.may
-listtype_hidden  : SB 7.9.29
-listdate_hidden  : 1976-03-07
-showdate_hidden  : 2023-03-07
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 7
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 21:05
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.29
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760307sb.may.mp3|SB 7.9.29 — March 7, 1976, Māyāpur}}
-</audio>
-
 **Puṣṭa Kṛṣṇa:** Translation: "O the unlimited reservoir of transcendental qualities, my Lord, You have killed my father, Hiraṇyakaśipu, and saved my life from the sword of my father. And He said very angrily, 'If there is any other supreme controller than Myself, then let Him save you. I shall now separate your head from the body.' Therefore, for both reasons, I consider that You have acted at present just to prove the words of Your devotee truthfully, and there is no other cause."
 
 **Prabhupāda:**

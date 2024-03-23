@@ -9,24 +9,6 @@
 
 ====== Press Conference ======
 
----- dataentry spoken ----
-id_hidden        : 761216pc.hyd
-listtype_hidden  : Press Conference
-listdate_hidden  : 1976-12-16
-showdate_hidden  : 2023-12-16
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : December 16
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 46:55
-Title_hidden     : Press Conference
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761216pc.hyd.mp3|Press Conference — December 16, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 ...the right side is darkness. [Hindi]
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Yadurabara About Early Life ======
 
----- dataentry spoken ----
-id_hidden        : 730812r1.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-08-12
-showdate_hidden  : 2023-08-12
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : August 12
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 27:03
-Title_hidden     : Room Conversation With Yadurabara About Early Life & Childhood Ratha-yātrā Festival
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730812r1.par.mp3|Room Conversation with Yadurabara About Early Life — August 12, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 ...of the same age of neighboring quarters, they will join. There will be feast, procession, //saṅkīrtana,// everything in miniature form. And my father would spend. He will not hesitate. Yes. Therefore, my father’s friends used to joke that "Ratha-yātrā ceremony is going on at your home, and you do not invite us. What is this?" Father would reply, "They are all children playing." "Oh, children playing. You are avoiding us by the name of children." It was regular procession. And for eight days there was feasting.
 

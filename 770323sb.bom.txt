@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.18–19 ======
 
----- dataentry spoken ----
-id_hidden        : 770323sb.bom
-listtype_hidden  : SB 2.3.18–19
-listdate_hidden  : 1977-03-23
-showdate_hidden  : 2023-03-23
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 23
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 46:26
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.18–19, Cross Maidan Pandal
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770323sb.bom.mp3|SB 2.3.18-19 — March 23, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...Bhavānanda Swami, to recite two or three verses from //Śrīmad-Bhāgavatam,// which is the theme of our Kṛṣṇa consciousness movement. Read it. The verse begins with //taravaḥ kiṁ na jīvanti.// Read that verse.
 

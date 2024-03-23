@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.35 ======
 
----- dataentry spoken ----
-id_hidden        : 740606bg.gen
-listtype_hidden  : Bg 13.35
-listdate_hidden  : 1974-06-06
-showdate_hidden  : 2023-06-06
-listplace_hidden : Geneva
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : June 6
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 51:05
-Title_hidden     : Bhagavad-gītā 13.35
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740606bg.gen.mp3|Bg 13.35 — June 6, 1974, Geneva}}
-</audio>
-
 **Nitāi:**
 [leads chanting of verse, etc.] [devotees repeat]
 

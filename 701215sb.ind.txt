@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.27 ======
 
----- dataentry spoken ----
-id_hidden        : 701215sb.ind
-listtype_hidden  : SB 6.1.27
-listdate_hidden  : 1970-12-15
-showdate_hidden  : 2023-12-15
-listplace_hidden : Indore
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 15
-Year_spoken      : 1970
-Place_spoken     : Indore
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.27
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701215sb.ind.mp3|SB 6.1.27 — December 15, 1970, Indore}}
-</audio>
-
 **Prabhupāda:**
 ...all sinful contamination. Therefore purposely they commit sinful activity and chant Hare Kṛṣṇa to counteract. That is also greatest offense, that "Because I am chanting Hare Kṛṣṇa..." Just like some government officer, because he is in higher post... Just like the other day I cited the high-court judge. So "I shall take opportunity of taking bribe on the strength of my superior post in government service." According to law, that is greatest offender, the greatest criminal according to law. If a police man kills, his offense and his punishment is greater than an ordinary man killing. That is the law. Knowingly. So the "Nārāyaṇa," the constant chanting of "Nārāyaṇa," on account of the name... Nowadays the fashion is that we do not keep the name of our children in God's name. Formerly, "Kṛṣṇa dāsa," "Nārāyaṇa dāsa," "Govardhana dāsa," some of... There are thousands of Viṣṇu's name. The people would keep the children's name according to that so that, so that indirectly, directly, they would be able to chant the holy name of the Lord. That was the process. And by doing so he will be gradually developing his Kṛṣṇa consciousness. //Bhuñjānaḥ prapiban khādan bālakaṁ sneha-yantritaḥ.// By affection. Some way or other, we have to increase our affection for Kṛṣṇa, love of Godhead. Through the channel of the affection of one's son or children, one can increase---that is Kṛṣṇa consciousness.
 

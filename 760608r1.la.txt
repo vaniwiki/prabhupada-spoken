@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760608r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-08
-showdate_hidden  : 2023-06-08
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 8
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 21:51
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760608r1.la.mp3|Room Conversation — June 8, 1976, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Hitler one side, fought with the Britishers, smashed them. This is one cause. Another cause: Hitler helped Subhas Chandra Bose to organize I.N.A. Two causes, the Britishers to go away. Otherwise, Gandhi's noncooperation movement was started in 1917, and we got our independence in 1947.
 

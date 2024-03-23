@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Ambarīṣa and Catholic Priest ======
 
----- dataentry spoken ----
-id_hidden        : 760614r1.det
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-14
-showdate_hidden  : 2023-06-14
-listplace_hidden : Detroit
-Type_spoken      : Room Conversation
-Date_spoken      : June 14
-Year_spoken      : 1976
-Place_spoken     : Detroit
-Length_hidden    : 31:47
-Title_hidden     : Room Conversation with Ambarīṣa and Catholic Priest
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760614r1.det.mp3|Room Conversation with Ambarīṣa and Catholic Priest — June 14, 1976, Detroit}}
-</audio>
-
 **Śrutakīrti:**
 We took a few pictures that you could see. We took some pictures for you to look at of the restaurant. It's still being built, so there's not actually that much to see. [break] This street that it's on is very heavily traveled all day. This is taken at about five o'clock in the morning, so there's no one there. It's still under construction; you can see all the cinderblocks inside. But it's all-glass building.
 

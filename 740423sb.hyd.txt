@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.9 ======
 
----- dataentry spoken ----
-id_hidden        : 740423sb.hyd
-listtype_hidden  : SB 1.2.9
-listdate_hidden  : 1974-04-23
-showdate_hidden  : 2023-04-23
-listplace_hidden : Hyderabad
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 23
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 44:18
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.9
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740423sb.hyd.mp3|SB 1.2.9 — April 23, 1974, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 [Chants //jaya rādhā-mādhava//] [break]
 

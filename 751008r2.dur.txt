@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Professors of the University of Durban ======
 
----- dataentry spoken ----
-id_hidden        : 751008r2.dur
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-10-08
-showdate_hidden  : 2023-10-08
-listplace_hidden : Durban
-Type_spoken      : Room Conversation
-Date_spoken      : October 8
-Year_spoken      : 1975
-Place_spoken     : Durban
-Length_hidden    : 36:23
-Title_hidden     : Room Conversation with the Rector, Professor Olivier, and Professors of the University of Durban, Westville
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751008r2.dur.mp3|Room Conversation with Professors of the University of Durban — October 8, 1975, Durban}}
-</audio>
-
 **Professor:**
 ...this morning from the east and from the west. Unfortunately, the rector is busy... The principal is busy this morning with somebody in his office, but he will be here just now. So we may just as well, shall I say, introduce. Perhaps I should say something about the university.
 

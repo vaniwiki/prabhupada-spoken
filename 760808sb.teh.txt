@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.22.19 ======
 
----- dataentry spoken ----
-id_hidden        : 760808sb.teh
-listtype_hidden  : SB 3.22.19
-listdate_hidden  : 1976-08-08
-showdate_hidden  : 2023-08-08
-listplace_hidden : Tehran
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 8
-Year_spoken      : 1976
-Place_spoken     : Tehran
-Length_hidden    : 07:37
-Title_hidden     : Śrīmad-Bhāgavatam 3.22.19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760808sb.teh.mp3|SB 3.22.19 — August 8, 1976, Tehran}}
-</audio>
-
 **Pradyumna:**
 [chants synonyms, etc.]
 

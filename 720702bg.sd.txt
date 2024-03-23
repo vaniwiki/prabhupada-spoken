@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.1 ======
 
----- dataentry spoken ----
-id_hidden        : 720702bg.sd
-listtype_hidden  : Bg 7.1
-listdate_hidden  : 1972-07-02
-showdate_hidden  : 2023-07-02
-listplace_hidden : San Diego
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 2
-Year_spoken      : 1972
-Place_spoken     : San Diego
-Length_hidden    : 59:57
-Title_hidden     : Bhagavad-gītā 7.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720702bg.sd.mp3|Bg 7.1 — July 2, 1972, San Diego}}
-</audio>
-
 **Prabhupāda:**
 [//prema-dvani//] Thank you very much.
 

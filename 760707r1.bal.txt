@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760707r1.bal
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-07
-showdate_hidden  : 2023-07-07
-listplace_hidden : Baltimore
-Type_spoken      : Room Conversation
-Date_spoken      : July 7
-Year_spoken      : 1976
-Place_spoken     : Baltimore
-Length_hidden    : 22:05
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760707r1.bal.mp3|Room Conversation — July 7, 1976, Baltimore}}
-</audio>
-
 **Prabhupāda:**
 //...bora bora phet, lanka dinga ke matta kare het//[?] It was translated by a Mr. Row, a professor in the Presidency College, he translated, "Big, big monkey, big, big belly, Ceylon jumping, melancholy." When the problems of life is read, then they are melancholy, all these big, big scientists. Ceylon jumping melancholy. Hanumān, one monkey, he jumped over the Ceylon. So other monkeys also, they were very much proud that a monkey jumped over the ocean. And as soon as he was challenged, "Can you jump over?" melancholy. Ceylon jumping melancholy. Big, big monkey, big, big belly. These are the translation by Mr. Row, a professor of English in Presidency College. So what is the proposal now?
 

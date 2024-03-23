@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760712mw.ny
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-07-12
-showdate_hidden  : 2023-07-12
-listplace_hidden : New York
-Type_spoken      : Morning Walk
-Date_spokens     : July 12
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Morning Walk — July 12, 1976, New York
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760712mw.ny.mp3|Morning Walk — July 12, 1976, New York}}
-</audio>
-
 [in room]
 
 **Prabhupāda:**

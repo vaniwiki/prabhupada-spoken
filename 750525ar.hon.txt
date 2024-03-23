@@ -9,24 +9,6 @@
 
 ====== Arrival ======
 
----- dataentry spoken ----
-id_hidden        : 750525ar.hon
-listtype_hidden  : Arrival
-listdate_hidden  : 1975-05-25
-showdate_hidden  : 2023-05-25
-listplace_hidden : Honolulu
-Type_spoken      : Lecture
-Date_spoken      : May 25
-Year_spoken      : 1975
-Place_spoken     : Honolulu
-Length_hidden    : 36:53
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750525ar.hon.mp3|Arrival — May 25, 1975, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 ...that this village we are maintaining, this Gaura-Nityānanda temple, that was the mission of Caitanya Mahāprabhu: //pṛthivīte āche yata nagarādi-grāma...// [//Caitanya-bhāgavata, Antya// 4.126]. No big plant? You are not growing?
 

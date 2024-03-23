@@ -9,24 +9,6 @@
 
 ====== Conversation with Dai Nippon Representative ======
 
----- dataentry spoken ----
-id_hidden        : 720421r1.tok
-listtype_hidden  : Dai Nippon Representative
-listdate_hidden  : 1972-04-21
-showdate_hidden  : 2023-04-21
-listplace_hidden : Tokyo
-Type_spoken      : Room Conversation
-Date_spoken      : April 21
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 24:00
-Title_hidden     : Conversation with Dai Nippon Representative
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720421r1.tok.mp3|Conversation with Dai Nippon Representative — April 21, 1972, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 It will be finished in about sixty volumes, like the one already you have got coming?
 

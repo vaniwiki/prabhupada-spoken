@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.1 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 760829sb.del
-listtype_hidden  : SB 5.5.1 [Hindi]
-listdate_hidden  : 1976-08-29
-showdate_hidden  : 2023-08-29
-listplace_hidden : Delhi
-Type_spoken      : Hindi
-Date_spoken      : August 29
-Year_spoken      : 1976
-Place_spoken     : Delhi
-Length_hidden    : 30:04
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.1 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760829sb.del_hindi.mp3|SB 5.5.1 [Hindi] — August 29, 1976, Delhi}}
-</audio>
-
 **Prabhupāda:**
 
 > śrī ṛṣabha uvāca

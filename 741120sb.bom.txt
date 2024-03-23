@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.20 ======
 
----- dataentry spoken ----
-id_hidden        : 741120sb.bom
-listtype_hidden  : SB 3.25.20
-listdate_hidden  : 1974-11-20
-showdate_hidden  : 2023-11-20
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 20
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 40:18
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741120sb.bom.mp3|SB 3.25.20 — November 20, 1974, Bombay}}
-</audio>
-
 **Nitāi:** "Every learned man knows very well that attachment for the material is the greatest entanglement of the spirit soul. But the same attachment, when applied to the self-realized devotees, opens the door of liberation."
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Arrival ======
 
----- dataentry spoken ----
-id_hidden        : 760611ar.det
-listtype_hidden  : Arrival
-listdate_hidden  : 1976-06-11
-showdate_hidden  : 2023-06-11
-listplace_hidden : Detroit
-Type_spoken      : Lecture
-Date_spoken      : June 11
-Year_spoken      : 1976
-Place_spoken     : Detroit
-Length_hidden    : 13:51
-Title_hidden     : Arrival
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760611ar.det.mp3|Arrival — June 11, 1976, Detroit}}
-</audio>
-
 **Prabhupāda:**
 ...our process is: What Kṛṣṇa says, we believe Kṛṣṇa, because He is the supreme authority. //Mattaḥ parataraṁ nānyat kiñcid asti dhanañjaya// [[books:bg:7:7|[Bg. 7.7]]]. So Kṛṣṇa is the supreme authority, accepted by all //ācāryas.// In our India the //ācāryas// are Rāmānujācārya, Śaṅkarācārya, Madhvācārya. They all accepted Kṛṣṇa, the Supreme. Formerly the //ācāryas// like Vyāsadeva, Śukadeva Gosvāmī, Nārada...; later, Caitanya Mahāprabhu. So all accept Kṛṣṇa the Supreme Personality of Godhead. Therefore we should accept what Kṛṣṇa said, that. Then you are sound. No question of "my religion," "your religion." What Kṛṣṇa said, that is sound.
 

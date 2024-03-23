@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750703mw.den
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-07-03
-showdate_hidden  : 2023-07-03
-listplace_hidden : Denver
-Type_spoken      : Morning Walk
-Date_spoken      : July 3
-Year_spoken      : 1975
-Place_spoken     : Denver
-Length_hidden    : 31:20
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750703mw.den.mp3|Morning Walk — July 3, 1975, Denver}}
-</audio>
-
 [in car]
 
 **Brahmānanda:**

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Monsieur Roost, Haṭha-yogī ======
 
----- dataentry spoken ----
-id_hidden        : 740531r1.gen
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-05-31
-showdate_hidden  : 2023-05-31
-listplace_hidden : Geneva
-Type_spoken      : Room Conversation
-Date_spoken      : May 31
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 53:23
-Title_hidden     : Room Conversation with Monsieur Roost, Haṭha-yogī
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740531r1.gen.mp3|Room Conversation with Monsieur Roost, Haṭha-yogī — May 31, 1974, Geneva}}
-</audio>
-
 **Guru-gaurāṅga:**
 ...science and knowledge for man, and it is a manual. And he has an //āśrama// here. And this is our spiritual master, His Divine Grace Bhaktivedanta Swami. Monsieur Roost does not speak English, so...
 

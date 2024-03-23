@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760622mw.nv
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-06-22
-showdate_hidden  : 2023-06-22
-listplace_hidden : New Vrindavan
-Type_spoken      : Morning Walk
-Date_spoken      : June 22
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 22:32
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760622mw.nv.mp3|Morning Walk — June 22, 1976, New Vrindavan}}
-</audio>
-
 **Kīrtanānanda:**
 This is our farm up in here. Lord Jagannātha is staying there now while He is ill. Our big Lord Jagannātha is going to Cleveland tomorrow for Ratha-yātrā festival.
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.1 ======
 
----- dataentry spoken ----
-id_hidden        : 751220bg.bom
-listtype_hidden  : Bg 7.1
-listdate_hidden  : 1975-12-20
-showdate_hidden  : 2023-12-20
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 20
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 43:47
-Title_hidden     : Bhagavad-gītā 7.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751220bg.bom.mp3|Bg 7.1 — December 20, 1975, Bombay}}
-</audio>
-
 **Prabhupāda:**
 
 > śrī bhagavān uvāca

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760709mw.wdc
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-07-09
-showdate_hidden  : 2023-07-09
-listplace_hidden : Washington, D.C.
-Type_spoken      : Morning Walk
-Date_spoken      : July 9
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 19:45
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760709mw.wdc.mp3|Morning Walk — July 9, 1976, Washington, D.C.}}
-</audio>
-
 **Svarūpa Dāmodara:**
 He wants to help us. He has many degrees---in chemistry, in pathology, in engineering. He said if we have an institute like this...
 

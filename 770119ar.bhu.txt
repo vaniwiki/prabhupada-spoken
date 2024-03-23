@@ -9,24 +9,6 @@
 
 ====== Arrival [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 770119ar.bhu
-listtype_hidden  : Arrival [partially recorded]
-listdate_hidden  : 1977-01-19
-showdate_hidden  : 2023-01-19
-listplace_hidden : Bhubaneswar
-Type_spoken      : Lecture
-Date_spoken      : January 19
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 04:05
-Title_hidden     : Arrival [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770119ar.bhu.mp3|Arrival [partially recorded] — January 19, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 So, Śrī Caitanya Mahāprabhu’s two places are very favorite. One is Bengal, another Orissa. //Puriyā Gauḍīya.// They are very serious about Śrī Caitanya Mahāprabhu’s teaching. And the last 18 years of His life, He stayed in Orissa, Jagannātha Purī. His mother requested that "You make Your headquarter in Jagannātha Purī." So in response to the desire of His mother, He made Jagannātha Purī as the headquarters. From here He went to Vṛndāvana and South India, then again He came back. And His personal associates---Śrī Rāmānanda Rāya, Sārvabhauma Bhaṭṭācārya, Śikhi Māhiti. And it is said in the //śāstra, kalau utkalat,// the spiritual movement will begin from Utkala. And my Guru Mahārāja also born in Orissa, Jagannātha Purī. So Utkala-deśa is very favorite to the Gauḍīya Vaiṣṇava. Now we have got a little place here. If by combined effort, it doesn’t matter it takes time, but slowly but surely we can develop this center. Especially Bhubaneswar is going to be the capital of Orissa. In future many tourists will come to see other attraction of Orissa. Now it is up to the Orissa residents to develop this idea into concrete shape. So our this Governor, you are informed about this? No. You are not informed?
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 710406rc.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-04-06
-showdate_hidden  : 2023-04-06
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 6
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710406rc.bom.mp3|Room Conversation — April 6, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...therefore they are coming to these things. Process of killing is different because in this age if you simply kill all the //pāpīs,// then there will be no more existence because everybody is //pāpī.// If you take sword and kill the //pāpīs,// then everybody will be finished. Of course, that will be done at the last stage of Kali-yuga. But here the process of Kṛṣṇa consciousness movement is killing the //pāpa-bīja. Pāpa-bīja// means just like a man is a thief. He knows that "If I steal, according to //śāstra,// I'll be punished by God. Or there is no god. Then I'll be punished by the state, by the police." He knows that. And he sees also that one man who has committed theft, he is arrested and he is taken by the police. He has seen also. But still he does stealing. He knows either from the state point of view or //śāstra// point of view, and he sees practically. Still he does it. Why? //Pāpa-bīja.// In the heart the seed of committing sinful activities is there. So simply by seeing or knowing, it will not be killed. It has to be killed by this Kṛṣṇa consciousness movement. He should be purified from the heart he'll give up everything. So this killing process is //paritrāṇāya sādhūnāṁ vināśāya ca duṣkṛtām// [[books:bg:4:8|[Bg. 4.8]]]. So this //pāpa-bīja,// the seed of sinful activities, is being killed. Otherwise, how people give up all the sinful activities? Because the //pāpa-bīja,// the original seed, is being killed away. You see practically.
 

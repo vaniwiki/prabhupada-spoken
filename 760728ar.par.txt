@@ -9,24 +9,6 @@
 
 ====== Arrival Speech ======
 
----- dataentry spoken ----
-id_hidden        : 760728ar.par
-listtype_hidden  : Arrival Speech
-listdate_hidden  : 1976-07-28
-showdate_hidden  : 2023-07-28
-listplace_hidden : Paris
-Type_spoken      : Lecture
-Date_spoken      : July 28
-Year_spoken      : 1976
-Place_spoken     : Paris
-Length_hidden    : 09:18
-Title_hidden     : Arrival Speech
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760728ar.par.mp3|Arrival Speech — July 28, 1976, Paris}}
-</audio>
-
 [begins in car]
 
 **Bhagavān:**

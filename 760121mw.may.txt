@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760121mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-01-21
-showdate_hidden  : 2023-01-21
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : January 21
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 25:22
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760121mw.may.mp3|Morning Walk — January 21, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 Still, if you say, "You are //mūḍha,//" they become angry. Such //mūḍhas,// rascals, they are in the government service. And if you say that "You are //mūḍhas,//" he becomes angry. //Mūrkhāya upadeśo hi prakopāya na śāntaye.// If a //mūḍha// is advised nice instruction, he becomes angry. He does not take it. //Payaḥ-pānaṁ bhujaṅgānāṁ kevalaṁ viṣa-vardhanam:// "If you give milk and banana to a snake, you simply increase his poison." One day he will come: //grrr.// You see? "I have given you milk and you..." "Yes, that is my nature. Yes. You give me milk, and I am prepared to kill you." This is //mūḍha.// We have to kill this civilization of //mūḍhas.// That is Kṛṣṇa consciousness movement. //Paritrāṇāya sādhūnāṁ vināśāya ca duṣkṛtām// [[books:bg:4:8|[Bg. 4.8]]]. Those who are actually human being, you have to give them Kṛṣṇa. And those who are //mūḍhas,// we have to kill them. This is our business. Kill all the //mūḍhas// and give Kṛṣṇa to the sane man. Yes. That will prove that you are really Kṛṣṇa's. We are not nonviolent. We are violent to the //mūḍhas.// [break] ...wal, did you come here before?
 

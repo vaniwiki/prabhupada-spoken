@@ -9,24 +9,6 @@
 
 ====== Śrī Rāma-Navamī, Lord Rāmacandra’s Appearance Day ======
 
----- dataentry spoken ----
-id_hidden        : 690327rn.haw
-listtype_hidden  : Śrī Rāma-Navamī
-listdate_hidden  : 1969-03-27
-showdate_hidden  : 2023-03-27
-listplace_hidden : Hawaii
-Type_spoken      : Lecture
-Date_spoken      : March 27
-Year_spoken      : 1969
-Place_spoken     : Hawaii
-Length_hidden    : 00:00
-Title_hidden     : Śrī Rāma-Navamī, Lord Rāmacandra’s Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690327rn.haw.mp3|Śrī Rāma-Navamī — March 27, 1969, Hawaii}}
-</audio>
-
 [//kīrtana//]
 
 **Prabhupāda:**

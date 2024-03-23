@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.100 ======
 
----- dataentry spoken ----
-id_hidden        : 760705cc.wdc
-listtype_hidden  : Cc. Madhya 20.100
-listdate_hidden  : 1976-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : Washington, D.C.
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : July 5
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 43:26
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.100
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760705cc.wdc.mp3|Cc. Madhya 20.100 — July 5, 1976, Washington, D.C.}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting, etc.]
 

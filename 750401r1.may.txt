@@ -9,24 +9,6 @@
 
 ====== Conversation with Devotees on Theology ======
 
----- dataentry spoken ----
-id_hidden        : 750401r1.may
-listtype_hidden  : Conversation with Devotees on Theology
-listdate_hidden  : 1975-04-01
-showdate_hidden  : 2023-04-01
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : April 1
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 78:15
-Title_hidden     : Conversation with Devotees on Theology
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750401r1.may.mp3|Conversation with Devotees on Theology — April 1, 1975, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 Is it possible for a man or for anyone that he can..., he should be according to the life of his different friends or servants or sons? That is theology. Next time when I go to your country, why not hold a meeting of all the theologicians to discuss publicly what should be the nature of God? What do they describe, the nature of God?
 

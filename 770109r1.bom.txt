@@ -10,24 +10,6 @@
 
 ====== Morning Darśana with Ramkrishna Bajaj and friends ======
 
----- dataentry spoken ----
-id_hidden        : 770109r1.bom
-listtype_hidden  : Morning Darśana with Ramkrishna Bajaj and friends
-listdate_hidden  : 1977-01-09
-showdate_hidden  : 2023-01-09
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 9
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 104:18
-Title_hidden     : Morning Darśana and Room Conversation Ramkrishna Bajaj and friends
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770109r1.bom.mp3|Morning Darśana with Ramkrishna Bajaj and friends — January 9, 1977, Bombay}}
-</audio>
-
 **Girirāja:**
 This is Mr. Sharma, the head technician at the airport, radar.
 

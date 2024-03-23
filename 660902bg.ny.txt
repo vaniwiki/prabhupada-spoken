@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.1–4 ======
 
----- dataentry spoken ----
-id_hidden        : 660902bg.ny
-listtype_hidden  : Bg 6.1–4
-listdate_hidden  : 1966-09-02
-showdate_hidden  : 2023-09-02
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : September 2
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.1–4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660902bg.ny.mp3|Bg 6.1-4 — September 2, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 We have finished the Fifth Chapter of //Bhagavad-gītā.// Today we shall begin the Sixth Chapter. In the Sixth Chapter you'll find the process of yoga. You have heard many times of the yoga system. That yoga system is approved by //Bhagavad-gītā.// But the system of yoga as prescribed in the //Bhagavad-gītā,// it is specially meant for purifying your status. //Karma-śuddhasya vijitātmanaḥ. Karma-śuddhasya vijitātmanaḥ.// To control the senses and to purify the process of work, that is the purpose of yoga. Yoga means to purify the process of our activities and to control the senses. //Śrī-bhagavān uvāca.// Bhagavān. The other day we have explained who is Bhagavān. Bhagavān is the last word of the Absolute Truth. The Absolute Truth is realized in three phases: impersonal Brahman, localized Paramātmā, Supersoul, and ultimately, as the Supreme Personality of Godhead. Ultimately, Bhagavān, or the Supreme Absolute Truth, is person, and secondarily, He is all-pervading Supersoul, and the //brahma-jyotir// effulgence.
 

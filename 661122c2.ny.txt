@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.100–108 ======
 
----- dataentry spoken ----
-id_hidden        : 661122c2.ny
-listtype_hidden  : Cc. Madhya 20.100–108
-listdate_hidden  : 1966-11-22
-showdate_hidden  : 2023-11-22
-listplace_hidden : New York
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : November 22
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.100–108
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661122c2.ny.mp3|Cc. Madhya 20.100-108 — November 22, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > āpanāra hitāhita kichui nā jāni

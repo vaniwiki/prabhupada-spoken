@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 770129mw.bhu
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1977-01-29
-showdate_hidden  : 2023-01-29
-listplace_hidden : Bhubaneswar
-Type_spoken      : Morning Walk
-Date_spoken      : January 29
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 29:36
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770129mw.bhu.mp3|Morning Walk — January 29, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 He's actually authority. [break]
 

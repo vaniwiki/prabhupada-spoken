@@ -9,24 +9,6 @@
 
 ====== Morning Walk, partially recorded ======
 
----- dataentry spoken ----
-id_hidden        : 740119mw.hon
-listtype_hidden  : Morning Walk, partially recorded
-listdate_hidden  : 1974-01-19
-showdate_hidden  : 2023-01-19
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : January 19
-Year_spoken      : 1974
-Place_spoken     : Honolulu
-Length_hidden    : 07:01
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740119mw.hon.mp3|Morning Walk, partially recorded — January 19, 1974, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 [japa] ...spoil this tree. Everything, their business is spoiling.
 

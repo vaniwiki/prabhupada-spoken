@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770128r1.bhu
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-28
-showdate_hidden  : 2023-01-28
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 28
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 38:20
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770128r1.bhu.mp3|Room Conversation — January 28, 1977, Bhubaneswar}}
-</audio>
-
 **Pṛthu-putra:**
 ...to show me. They were telling me that "You are going to see the representative of God." And when I came to that vision, I saw the person. At that time I didn't know who was. But I had some doubts in my mind, and I was thinking, "Oh, that's probably another kind of, you know, some kind of propaganda." This was all in the dream. But when I came to that person sitting on the elevated seat in that forest, surrounded by many, many devotees, that person looked at me and proved to me that he was the representative of God. But after, I forgot. Maybe one year or something like this. One or two years after...
 

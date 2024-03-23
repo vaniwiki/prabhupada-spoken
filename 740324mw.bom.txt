@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740324mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-03-24
-showdate_hidden  : 2023-03-24
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : March 24
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 41:02
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740324mw.bom.mp3|Morning Walk — March 24, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 //Sa vai manaḥ kṛṣṇa-padāravindayor vacāṁsi vaikuṇṭha-guṇānuvarṇane// [[books:sb:9:4:18-20|[SB 9.4.18]]]. This is... Different parts of our senses should be utilized. The first business is to fix up the mind at the lotus feet of Kṛṣṇa. Then engage the tongue in describing the activities of Kṛṣṇa. Therefore Kṛṣṇa has acted in so many ways so that we can remember the history of the activities of Kṛṣṇa and describe it. //Vacāṁsi vaikuṇṭha-guṇānuvarṇane.// Then the legs should be used for going to the temple. Hands should be used for cleansing the temple. Nose should be used for smelling the flowers offered to Kṛṣṇa. Ears should be used for hearing about Kṛṣṇa. In this way if we engage our senses in different activities relating to Kṛṣṇa, that is success of life. This is Kṛṣṇa consciousness, //vacāṁsi vaikuṇṭha-guṇānuvarṇane.// [Hindi] So now you can talk. [laughs] [laughter] Hare Kṛṣṇa. [Hindi] [break] ...practical purposes. This land and that water is matter, but we are walking on the land. Can you walk on the water?
 

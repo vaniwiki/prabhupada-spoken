@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Stow Lake ======
 
----- dataentry spoken ----
-id_hidden        : 680327mw.sf
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1968-03-27
-showdate_hidden  : 2023-03-27
-listplace_hidden : San Francisco
-Type_spoken      : Morning Walk
-Date_spoken      : March 27
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Morning Walk at Stow Lake
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680327mw.sf.mp3|Morning Walk at Stow Lake — March 27, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 Chant.
 

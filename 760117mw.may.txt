@@ -9,24 +9,6 @@
 
 ====== Morning Walk. Tour of Māyāpur Grounds ======
 
----- dataentry spoken ----
-id_hidden        : 760117mw.may
-listtype_hidden  : Morning Walk. Tour of Māyāpur Grounds
-listdate_hidden  : 1976-01-17
-showdate_hidden  : 2023-01-17
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : January 17
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 50:47
-Title_hidden     : Morning Walk Tour of Māyāpur Grounds
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760117mw.may.mp3|Morning Walk. Tour of Māyāpur Grounds — January 17, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...He'll change everything, all sinful activities.
 

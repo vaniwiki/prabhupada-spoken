@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710628le.sf
-listtype_hidden  : Lecture
-listdate_hidden  : 1971-06-28
-showdate_hidden  : 2023-06-28
-listplace_hidden : San Francisco
-Type_spoken      : Lecture
-Date_spoken      : June 28
-Year_spoken      : 1971
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710628le.sf.mp3|Lecture — June 28, 1971, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 So I am very glad that you are following the footprints of the Gosvāmīs, Six Gosvāmīs. //Vande Rūpa-sanātanau raghu-yugau śrī-jīva-gopālakau.// Rūpa Gosvāmī, Sanātana Gosvāmī, //vande rūpa-sanātanau raghu-yugau,// and two Raghunātha Gosvāmī---one Raghunātha dāsa Gosvāmī and one Raghunātha Bhaṭṭa Gosvāmī. //Vande rūpa-sanātanau raghu-yugau,// four. //Śrī-jīva-gopālakau:// and Sri Jīva Gosvāmī and Gopāla Bhaṭṭa Gosvāmī. They were direct disciple of Lord Caitanya. There are thousands of disciples of Lord Caitanya, but they are prominent, who gave very prominent service to the Lord by executing the mission of Lord Caitanya. By the order of Lord Caitanya they went to Vṛndāvana, and the present city of Vṛndāvana is the contribution of the Gosvāmīs. First of all Sanātana Gosvāmī went there, then Rūpa Gosvāmī. In this way the city was excavated. It was formerly, five hundred years ago, there was no trace where and how Kṛṣṇa //līlā// was performed in that tract of land. But when Caitanya Mahāprabhu went there, He first of all discovered Rādhā Kuṇḍa, the lake in which Śrīmatī Rādhārāṇī used to take bath and Kṛṣṇa used to come. There is Śyāma Kuṇḍa also. The Śyāma Kuṇḍa, Rādhā Kuṇḍa, two lakes are still existing. Hundreds, thousands of people, devotees, go to see that lake every day.
 

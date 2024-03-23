@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.8–12 ======
 
----- dataentry spoken ----
-id_hidden        : 731005bg.bom
-listtype_hidden  : Bg 13.8–12
-listdate_hidden  : 1973-10-05
-showdate_hidden  : 2023-10-05
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 5
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 30:23
-Title_hidden     : Bhagavad-gītā 13.8–12
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731005bg.bom.mp3|Bg 13.8-12 — October 5, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 So we have been discussing for the last few days about the process of knowledge. So we have discussed already //amānitvam,// humbleness. //Amānitvam adambhitvam ahiṁsā// [[books:bg:13:8-12|[Bg. 13.8]]], //ahiṁsā,// nonviolence. So //ahiṁsā, kṣāntiḥ,// tolerance, //ārjavam,// simplicity. These things we have already discussed. Now another important thing is //ācāryopāsanam.// If you want to make progress, then you have to approach //ācārya.// Just like if you want to be educated, you go to school, you go to college, you go to university, similarly, if you want to be advanced in knowledge...
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Biochemist Dr. Sallaz ======
 
----- dataentry spoken ----
-id_hidden        : 740604r2.gen
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-04
-showdate_hidden  : 2023-06-04
-listplace_hidden : Geneva
-Type_spoken      : Room Conversation
-Date_spoken      : June 4
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 53:31
-Title_hidden     : Room Conversation with Biochemist Dr. Sallaz
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740604r2.gen.mp3|Room Conversation with Biochemist Dr. Sallaz — June 4, 1974, Geneva}}
-</audio>
-
 **Dr. Sallaz:**
 I'm still working, because I have to entertain with money. [laughs] In our world you cannot do anything without money. But what may interest you it is that we have several member who are looking for truth, for the really truth, and trying to attain it and to follow it. And for this reason, it is said to go only according the scientific organization officials, so on, we went in quite revolutionary ways. For instance, we took all biology coming from the energetic point of view, which is quite different. Not with the microscope, not with chemical analysis, but with the thinking that everything is only immaterial reaction. And with this we achieved extraordinary result. So we have looked at the official world as completely fooled.
 

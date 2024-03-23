@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.2 ======
 
----- dataentry spoken ----
-id_hidden        : 710815sb.lon
-listtype_hidden  : SB 1.1.2
-listdate_hidden  : 1971-08-15
-showdate_hidden  : 2023-08-15
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 15
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710815sb.lon.mp3|SB 1.1.2 — August 15, 1971, London}}
-</audio>
-
 **Pradyumna:**
 Purport: "Religion includes four primary subjects, namely pious activities, economic development, satisfaction of the senses and, finally, liberation from material bondage." [[books:sb:1:1:2|[SB 1.1.2]]]
 

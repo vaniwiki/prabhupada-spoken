@@ -9,24 +9,6 @@
 
 ====== Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 740425le.tir
-listtype_hidden  : Lecture [Hindi]
-listdate_hidden  : 1974-04-25
-showdate_hidden  : 2023-04-25
-listplace_hidden : Tirupati
-Type_spoken      : Hindi
-Date_spoken      : April 25
-Year_spoken      : 1974
-Place_spoken     : Tirupati
-Length_hidden    : 46:22
-Title_hidden     : Lecture [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740425le.tir_hindi.mp3|Lecture [Hindi] — April 25, 1974, Tirupati}}
-</audio>
-
 **Pradyumna:**
 [Prabhupāda and devotees repeat] [leads chanting of verse]
 

@@ -9,24 +9,6 @@
 
 ====== Lecture to International Student Society ======
 
----- dataentry spoken ----
-id_hidden        : 690502le.bos
-listtype_hidden  : Lecture to International Student Society
-listdate_hidden  : 1969-05-02
-showdate_hidden  : 2023-05-02
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : May 2
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Lecture at International Student Association, Cambridge [near Boston]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690502le.bos.mp3|Lecture to International Student Society — May 2, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 ...for your participating with us in this Kṛṣṇa consciousness movement. I understand that your, this society is known as International Student Society? Yes. There are many other international societies. There are international United Nations also. The idea is very nice, but we should try to understand---internationally or universally---what is the central idea. Just like if you throw a stone in the middle of water, it expands. It becomes, the circle expands, and the circle goes to the limit of the bank of the water. That is the way. The vibration, sound vibration also, radio message also. Similarly, the circle increases and you capture the waves and you understand. Similarly, international feeling can be extended also. In the beginning of our life, just like a child, //anna-brahman:// everything he wants to eat. A small child, whatever he captures he wants to eat. Personal interest. Then, when the child grows, he tries to participate with his other brothers and sisters: "All right. You also take little." This is increasing the feeling of fellowship. Then he grows again, he feels for his father, parents, society, then community, country, and at last, international. Expansion. But in such feelings, unless the center is right, that expansion of feeling, universally or internationally or nationally even, that is not perfect. That is not perfect. Take, for example, internationally. In your country, what is the meaning of national? National means one who has taken birth in that particular country. Is that all right? National? You feel for another American because he is born in this country. Or any other country, Indian. That national feeling, that is called national feeling. You feel for your countrymen. You sacrifice your life for your country. But there is defect. What is that defect? If this is the definition---that a living entity or a person born in that country, he is a national---then why not the animals? They are also born in that country. But we are not expanding our feelings beyond this human society. We don't think animals are national assets. Animals are sent to the slaughterhouse. So this is because the center of national feeling or international feeling is losing. The center is not fixed up. If the center is right, then you can make circle from that center, any number of circles, they'll never overlap. They'll be growing, growing, growing. They'll not interact with one another if the center is all right.
 

@@ -9,24 +9,6 @@
 
 ====== Arrival and Interview ======
 
----- dataentry spoken ----
-id_hidden        : 720419ar.hk
-listtype_hidden  : Arrival and Interview
-listdate_hidden  : 1972-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : Hong Kong
-Type_spoken      : Lecture
-Date_spoken      : April 19
-Year_spoken      : 1972
-Place_spoken     : Hong Kong
-Length_hidden    : 25:51
-Title_hidden     : Arrival and Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720419ar.hk.mp3|Arrival and Interview — April 19, 1972, Hong Kong}}
-</audio>
-
 **Prabhupāda:**
 //...gītā.// Unfortunately, there are so many interpretations by so many unscrupulous persons, so-called scholars and philosophers, that they have spoiled the precept of //Bhagavad-gītā.// So we are just trying to present //Bhagavad-gītā// as it is to the world, and I am very happy to inform you, you know, that all over the world, wherever I am going, I am preaching this philosophy, they are being accepted. So I am also very glad that in this distant place, Hong Kong, from India, you are training your children in Kṛṣṇa consciousness. It is a very good sign. Their life will be very happy. So continue this process, try to understand the Kṛṣṇa philosophy, try to help this movement.
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.11 ======
 
----- dataentry spoken ----
-id_hidden        : 740601bg.gen
-listtype_hidden  : Bg 4.11
-listdate_hidden  : 1974-06-01
-showdate_hidden  : 2023-06-01
-listplace_hidden : Geneva
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : June 1
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 42:22
-Title_hidden     : Bhagavad-gītā 4.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740601bg.gen.mp3|Bg 4.11 — June 1, 1974, Geneva}}
-</audio>
-
 [translated into French throughout]
 
 **Nitāi:**

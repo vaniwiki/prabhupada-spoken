@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 760104le.nel
-listtype_hidden  : Lecture
-listdate_hidden  : 1976-01-04
-showdate_hidden  : 2023-01-04
-listplace_hidden : Nellore
-Type_spoken      : Lecture
-Date_spoken      : January 4
-Year_spoken      : 1976
-Place_spoken     : Nellore
-Length_hidden    : 30:28
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760104le.nel.mp3|Lecture — January 4, 1976, Nellore}}
-</audio>
-
 **Prabhupāda:**
 Uh... Mr. Reddy and Ladies and Gentlemen, I cannot speak in Telugu. Kindly excuse me. This Kṛṣṇa consciousness movement is very, very old, at least five thousand years old. And if we take history before that, then it is at least forty millions of years old. This Kṛṣṇa consciousness was spoken by Kṛṣṇa before the Battlefield of..., Battlefield of Kurukṣetra took place. Kṛṣṇa instructed this same //Bhagavad-gītā// philosophy to the sun-god. He says in the Fourth Chapter,
 

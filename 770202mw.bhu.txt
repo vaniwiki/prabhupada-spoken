@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 770202mw.bhu
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1977-02-02
-showdate_hidden  : 2023-02-02
-listplace_hidden : Bhubaneswar
-Type_spoken      : Morning Walk
-Date_spoken      : February 2
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 16:17
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770202mw.bhu.mp3|Morning Walk — February 2, 1977, Bhubaneswar}}
-</audio>
-
 [in car]
 
 **Prabhupāda:**

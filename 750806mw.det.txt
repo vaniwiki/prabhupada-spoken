@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750806mw.det
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-08-06
-showdate_hidden  : 2023-08-06
-listplace_hidden : Detroit
-Type_spoken      : Morning Walk
-Date_spoken      : August 6
-Year_spoken      : 1975
-Place_spoken     : Detroit
-Length_hidden    : 31:46
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750806mw.det.mp3|Morning Walk — August 6, 1975, Detroit}}
-</audio>
-
 **Brahmānanda:**
 [indistinct] 
 

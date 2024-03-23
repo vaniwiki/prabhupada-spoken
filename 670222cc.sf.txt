@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 7.113–17 ======
 
----- dataentry spoken ----
-id_hidden        : 670222cc.sf
-listtype_hidden  : Cc. Ādi 7.113–17
-listdate_hidden  : 1967-02-22
-showdate_hidden  : 2023-02-22
-listplace_hidden : San Francisco
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : February 22
-Year_spoken      : 1967
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 7.113–17
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670222cc.sf.mp3|Cc. Ādi 7.113-17 — February 22, 1967, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] So there are so many statements in the //Upaniṣads// about the Absolute Truth being the Supreme Person. //Patiṁ patīnāṁ paramaṁ parastāt mahān prabhur vai puruṣaḥ parāsya śaktir vividhaiva śrūyate...// [[books:cc:madhya:13:65#id4|[Cc. Madhya 13.65, purport]]]. This, this, up to this we discussed yesterday. So //parāsya śaktir vividhaiva śrūyate.// This is from //Bṛhad-āraṇyaka Upaniṣad.// So the commentator says that in the //Bṛhad-āraṇyaka Upaniṣad// it is stated, //parāsya śaktir vividhaiva śrūyate:// "That Supreme Personality of Godhead's energies are variously manifested." //Parāsya śaktir vividhaiva śrūyate na tasya kāryaṁ kāraṇaṁ ca vidyate.// Just like a very... In your country it is very easy to understand that a man is sitting as controller in the control room, the subway trains. He, in his table, he has got everything ready: which train is running on which line, where it is, in which station it is now. So he has got switches and he's controlling everything. Not only here, in India also they have now many [managed?]. So they can say which train is where it is now. The light also moves according to the train moving. Similarly, if you can manufacture, if you can invent your own energies in different way, as the modern material civilization, they are discovering different manifestations of energy by machine, by electronics, and they are managing from one place, similarly, if it is, materially it is possible, why not spiritually? Spiritual is still finer.
 

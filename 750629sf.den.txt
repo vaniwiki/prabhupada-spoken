@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
----- dataentry spoken ----
-id_hidden        : 750629sf.den
-listtype_hidden  : SB 1.2.6
-listdate_hidden  : 1975-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : Denver
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 29
-Year_spoken      : 1975
-Place_spoken     : Denver
-Length_hidden    : 36:54
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.6, Sunday Feast
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750629sf.den.mp3|SB 1.2.6, Sunday Feast — June 29, 1975, Denver}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] First Canto, Second Chapter, text number 6. [leads chanting of verse, etc.]
 

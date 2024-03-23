@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.20 ======
 
----- dataentry spoken ----
-id_hidden        : 760520sb.hon
-listtype_hidden  : SB 6.1.20
-listdate_hidden  : 1976-05-20
-showdate_hidden  : 2023-05-20
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 20
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 23:55
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.20
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760520sb.hon.mp3|SB 6.1.20 — May 20, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 //Śrīmad-Bhāgavatam,// Canto Six, Chapter One, verse number twenty? Is that the number, twenty? [leads devotees in chanting]
 

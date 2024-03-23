@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.8–13 ======
 
----- dataentry spoken ----
-id_hidden        : 710724sb.ny
-listtype_hidden  : SB 6.1.8–13
-listdate_hidden  : 1971-07-24
-showdate_hidden  : 2023-07-24
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 24
-Year_spoken      : 1971
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.8–13
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710724sb.ny.mp3|SB 6.1.8-13 — July 24, 1971, New York}}
-</audio>
-
 **Prabhupāda:**
 So Parīkṣit Mahārāja inquired from Sūta Gosvāmī, Śukadeva Gosvāmī, how the people in general, rotting in hellish life, could be saved. This is the desire of a Vaiṣṇava. Others, they do not care whether one is suffering or enjoying. But a Vaiṣṇava, a devotee of the Lord, he always thinks of the fallen condition of general people. Just like in Christian philosophy they believe that Lord Jesus Christ suffered to be crucified by assimilating all the sinful activities of the people. Yes. A devotee of Lord thinks like that. Similar devotee was Vāsudeva Datta, Lord Caitanya's... He requested the Lord that "You have come. Kindly deliver all these people now present on this earth, and take them to Vaikuṇṭha. And if You think that they are so sinful that they cannot be delivered, then please transfer all their sins unto me. I shall suffer. You take them." This is Vaiṣṇava: "So for all their sins, I shall suffer. You take them." This philosophy is also expressed in Bible, Lord Jesus Christ, that he agreed to suffer himself for the sins of all the people. But that does not mean that Jesus Christ or Vāsudeva Datta should make a contract for ourself and we shall go on committing sins. This is most heinous proposal. A Vaiṣṇava and a devotee suffers for all humanity, human race. But that does not mean that human race, or the particular followers should take advantage of this facility and go on committing sins. That is not a good proposal. They should take rather seriously, that "Lord Jesus Christ or Vāsudeva Datta who has suffered for us so much, we shall stop committing sins now." That is sane proposal. Otherwise, if I think, "Well, there is Vāsudeva Datta and Lord Jesus Christ. He will suffer for us and let us go on merry-making. That's all." A most heinous life.
 

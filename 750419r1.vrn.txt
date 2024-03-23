@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750419r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : April 19
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 05:09
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750419r1.vrn.mp3|Room Conversation — April 19, 1975, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...the animals and human beings. Then they can work. //Annād bhavanti bhūtāni,// then //parjanyād anna-sambhavaḥ// [[books:bg:3:14|[Bg. 3.14]]]. Now //parjanyaḥ,// cloud and rain, that is required. //Parjanyād anna-sambhavaḥ.// And //yajñād bhavati parjanyaḥ// [[books:bg:3:14|[Bg. 3.14]]]. Then you have to arrange for sacrifice. So in the Kali-yuga the costly sacrifice is not possible. Therefore from the //śāstra// we understand, //yajñaiḥ saṅkīrtana-prāyair yajanti hi sumedhasaḥ// [SB 11.5.32]. //Sumedhasaḥ,// "one who has got good brain substance." There is one word in //Bhagavad-gītā, alpa-medhasaḥ:// "poor brain substance." So we require some //sumedhasaḥ,// not //alpa-medhasaḥ. Antavat tu phalaṁ teṣāṁ tad bhavaty alpa-medhasaḥ// [[books:bg:7:23|[Bg. 7.23]]]. They are making plans by their material concoction that... That is //antavat.// That will be finished. //Antavat tu phalaṁ teṣāṁ tad bhavaty alpa-medhasaḥ.//
 

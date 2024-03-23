@@ -9,24 +9,6 @@
 
 ====== Jagannātha Deities Installation, SB 1.2.13–14 ======
 
----- dataentry spoken ----
-id_hidden        : 670323sb.sf
-listtype_hidden  : SB 1.2.13–14
-listdate_hidden  : 1967-03-23
-showdate_hidden  : 2023-03-23
-listplace_hidden : San Francisco
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 23
-Year_spoken      : 1967
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Jagannātha Deities Installation, Śrīmad-Bhāgavatam 1.2.13–14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670323sb.sf.mp3|Jagannātha Deities Installation, SB 1.2.13-14 — March 23, 1967, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 Without devotion, simply we go on hearing for millions of years, oh, that will not also not earn[?]. It is here... //Bhaktyā śruta-gṛhītayā.// This is the process of understanding absolute knowledge. Please note these points, what are the process. First thing is that one must be faithful. Second thing is that he must be thoughtful. The third thing is that he must have knowledge. What is that knowledge? "I am not this body." And then detachment. As soon as I am convinced that I am not this body, then why should I take so much care for the body? Let me take care of my self. And as soon as these qualifications are fulfilled, then you can see within yourself what you are. //Paśyanty ātmānaṁ cātmani.// And all these things is on the basis of devotional service and by the process of hearing from the authoritative source. These are the qualification for understanding Absolute Truth.
 

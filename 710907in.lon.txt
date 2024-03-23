@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 710907in.lon
-listtype_hidden  : Initiation Lecture [partially recorded]
-listdate_hidden  : 1971-09-07
-showdate_hidden  : 2023-09-07
-listplace_hidden : London
-Type_spoken      : Initiation
-Date_spoken      : September 7
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Initiation Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710907in.lon.mp3|Initiation Lecture [partially recorded] — September 7, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 So this Kṛṣṇa consciousness movement... They are trying to go to the nature. Just like there is a propaganda, nature means to become animal. They live like animals, naked. They have sex life on the street. They say it is freedom. But the rascals do not know there is no freedom at all. Where is freedom? So long you are under the grip of material nature, //janma-mṛtyu-jarā-vyādhi// [[books:bg:13:8-12|[Bg. 13.9]]], where is freedom? By nature does not mean that you have got freedom. There is no freedom. We are all conditioned. Simply falsely we are thinking of freedom. It requires little brain. Where is freedom? Nobody wants to die, and where is the freedom not to die? Who has got the freedom? Nobody wants to become old, and where is the freedom? Everyone becomes old. But I have got the desire. Even old man, old woman tries to remain young by cosmetic help, to be good looking, and where is the freedom? By nature he is becoming bad looking. So there is no freedom. It is false idea, freedom. Nobody wants to die; death is sure. [aside:] He's sleeping. Nobody wants to become old; he's becoming old. Nobody wants to take birth... Of course, that is very higher stage. //Jñānī,// they want //mukti;// that is also not possible. Otherwise why Kṛṣṇa says, //bahūnāṁ janmanām ante// [[books:bg:7:19|[Bg. 7.19]]]? To stop death, to stop birth, is not possible unless one comes to Kṛṣṇa consciousness. Unless one [sic] does not come to the position of loving Kṛṣṇa, there's no question of freedom. That is the nature's law. We have forgotten Kṛṣṇa. Instead of loving Kṛṣṇa, we have habituated, we have developed a consciousness to love dog. Just like in your country they say, "Dog is the best friend." So instead of loving God, they have learned to love dog. But nature ways is that you have to forget loving dog, you have to come to the position to love God. That is nature's way. Therefore there is no freedom. There is no freedom. Just like a citizen becomes criminal. The criminal department, the prison, just to correct him: "Unless you become a good citizen, you'll have to be punished in this prison house." Similarly, our real position is to love God, to love Kṛṣṇa. Unless we are on that platform of loving God, the nature will give us trouble. There is no freedom. We should try to understand it. There's no question of freedom.
 

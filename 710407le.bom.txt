@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710407le.bom
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1971-04-07
-showdate_hidden  : 2023-04-07
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : April 7
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710407le.bom.mp3|Pandal Lecture — April 7, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] Ladies and gentlemen, I thank you very much for your kindly participating in this movement of Kṛṣṇa consciousness. Perhaps this meeting will be ended tomorrow and we shall have a nice procession to Chowpati at 4 p.m., and I hope you will all join us as you are usually doing. Actually, according to Caitanya Mahāprabhu and according to the Vedic instructions, this movement should be continued in every city for twenty-four hours. //Kīrtanīyaḥ sadā hariḥ// [[books:cc:adi:17:31|[Cc. Ādi 17.31]]]. Caitanya Mahāprabhu does not say that it should be occasional, temporary. He says that //kīrtanīyaḥ sadā. Sadā// means always. Similarly, //Śrīmad-Bhāgavata// says also, //nityaṁ bhāgavata-sevayā. Naṣṭa-prāyeṣu abhadreṣu nityaṁ bhāgavata-sevayā// [[books:sb:1:2:18|[SB 1.2.18]]]. One has to cleanse all the inauspicious things within our hearts. Caitanya Mahāprabhu says also the same thing, that //ceto-darpaṇa-mārjanam// [[books:cc:antya:20:12|[Cc. Antya 20.12]]]. We have to cleanse the dirty things accumulated in our heart since time immemorial. Bhaktivinoda Ṭhākura said, //anādi-karama-phale, pori' bhavārṇava-jale.// We do not know when we have begun this conditioned life in this material world. You cannot trace. That is impossible, because this life is not only in this creation, but it is coming from another creation. //Suṣupti.// Now the creation is going on since the birth of Lord Brahmā, and it will continue for so many millions of years. Again it will be annihilated. As you will find in the //Bhagavad-gītā, bhūtvā bhūtvā pralīyate// [[books:bg:8:19|[Bg. 8.19]]]. This creation takes place exactly like your body, my body. The creation of this body takes place at a certain date. That is the beginning of history. But time is immemorial, I mean to say, eternal. It is all relative truth. The history is relative. Just like my life begins, this body begins somewhere in 1896---something like that---and it ends somewhere. That time limit is relative to my body. Similarly, there is Brahmā's body. That relative time is long, long duration. As you'll find in the //Bhagavad-gītā,// Brahmā's life is described by Kṛṣṇa, //sahasra-yuga-paryantam arhad yad brahmaṇo viduḥ// [[books:bg:8:17|[Bg. 8.17]]]. This Satya, Tretā, Dvāpara, Kali, four //yugas,// it comes to about forty-three //lakhs// of years. So combine together, if you multiply it by one thousand, that is the duration of one day's life of Brahmā. Similarly, he has got night. This is only daytime, twelve hours. The similar period, night, that makes twenty-four hours. Then again one month, thirty days and nights. Similarly, one year, twelve months. Similarly, one hundred years. So his duration of life is also one hundred years, but because it is a different person, that truth is relative according to that person. That is scientifically admitted: everything is relative truth, nothing absolute truth.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.37 ======
 
----- dataentry spoken ----
-id_hidden        : 760315sb.may
-listtype_hidden  : SB 7.9.37
-listdate_hidden  : 1976-03-15
-showdate_hidden  : 2023-03-15
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 15
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 29:31
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.37
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760315sb.may.mp3|SB 7.9.37 — March 15, 1976, Māyāpur}}
-</audio>
-
 **Śāstrījī:**
 [chants //mantras//] //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] //Śrīmad-Bhāgavatam// 7.9.37 [chants verse; Prabhupāda and devotees respond] [break]
 

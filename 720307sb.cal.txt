@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.9 ======
 
----- dataentry spoken ----
-id_hidden        : 720307sb.cal
-listtype_hidden  : SB 7.9.9
-listdate_hidden  : 1972-03-07
-showdate_hidden  : 2023-03-07
-listplace_hidden : Calcutta
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 7
-Year_spoken      : 1972
-Place_spoken     : Calcutta
-Length_hidden    : 51:42
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.9
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720307sb.cal.mp3|SB 7.9.9 — March 7, 1972, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 We are talking of Prahlāda Mahārāja's prayer. He was thinking himself unfit for offering prayers to the Lord. But still, because he was requested by the great demigods headed by Lord Brahmā and others, he thought that material qualification, namely high parentage, riches, beauty, bodily strength, yogic power, all of them are not qualification for becoming a devotee or qualified to approach the Supreme Personality of Godhead.
 

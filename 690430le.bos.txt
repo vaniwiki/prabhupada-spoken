@@ -9,24 +9,6 @@
 
 ====== Northeastern University Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690430le.bos
-listtype_hidden  : Northeastern University Lecture
-listdate_hidden  : 1969-04-30
-showdate_hidden  : 2023-04-30
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : April 30
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Northeastern University Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690430le.bos.mp3|Northeastern University Lecture — April 30, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 My dear boys and girls, I thank you very much for attending this meeting. We are spreading this Kṛṣṇa consciousness movement because there is a great need of this movement through the whole world, and the process is very easy. That is the advantage. First of all, try to understand what is the transcendental platform. So far our living condition is concerned, we are in different platforms. So we have to first of all stand on the transcendental platform. Then there is question of transcendental meditation. In the //Bhagavad-gītā,// in the Third Chapter, you'll find that we have got different status of conditional life. The first is //indriyāṇi parāṇy āhur...// [[books:bg:3:42|[Bg. 3.42]]]. Sanskrit, //indriyāṇi.// First thing is bodily conception of life. Every one of us in this material world, we are under this bodily concept of life. I am thinking Indian, "I am Indian." You are thinking you are American. Somebody's thinking, "I am Russian." Somebody's thinking, "I am somebody else." So everyone is thinking that "I am this body." This is one standard, or one platform. This platform is called sensual platform because so long we have bodily conception of life, we think happiness means sense gratification. That's all. Happiness means sense gratification because body means senses. So //indriyāṇi parāṇy āhur indriyebhyaḥ paraṁ manaḥ// [[books:bg:3:42|[Bg. 3.42]]]. Lord Kṛṣṇa says that in the material concept of life, or bodily concept of life, our senses are very prominent. That is going on at the present moment. Not at the present moment; since the creation of this material world. That is the disease, that "I am this body." //Śrīmad-Bhāgavata// says that //yasyātma-buddhiḥ kuṇape tri-dhātuke sva-dhīḥ kalatrādiṣu bhauma ijya-dhiḥ// [SB 10.84.13], that "Anyone who has the concept of this bodily understanding, that 'I am this body...' " //Ātma-buddhiḥ kuṇape tri-dhātu. Ātma-buddhiḥ// means concept of self in this bag of skin and bone. This is a bag. This body is a bag of skin, bone, blood, urine, stool, and so many nice things. You see? But we are thinking that "I am this bag of bone and skin and stool and urine. That is our beauty. That is our everything."
 

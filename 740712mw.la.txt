@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Marina del Rey ======
 
----- dataentry spoken ----
-id_hidden        : 740712mw.la
-listtype_hidden  : Morning Walk at Marina del Rey
-listdate_hidden  : 1974-07-12
-showdate_hidden  : 2023-07-12
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : July 12
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 22:27
-Title_hidden     : Morning Walk at Marina del Rey
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740712mw.la.mp3|Morning Walk at Marina del Rey — July 12, 1974, Los Angeles}}
-</audio>
-
 **Kṛṣṇa-kanti:**
 [introducing recording] This is a morning walk conversation, July 12, 1974, at Marina del Rey. [break]
 

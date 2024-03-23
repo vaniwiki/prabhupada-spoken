@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771107r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-07
-showdate_hidden  : 2023-11-07
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 7
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 35:56
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771107r1.vrn.mp3|Room Conversation — November 7, 1977, Vṛndāvana}}
-</audio>
-
 **Kavirāja:**
 [Hindi, asking Prabhupāda questions as he examines]
 

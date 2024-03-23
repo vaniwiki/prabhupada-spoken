@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740505mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-05-05
-showdate_hidden  : 2023-05-05
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : May 5
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 02:53
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740505mw.bom.mp3|Morning Walk — May 5, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 You cannot, go on. [break] ...Tirupati. These rascals are getting money and investing for television.
 

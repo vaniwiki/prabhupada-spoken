@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Dr. Weir ======
 
----- dataentry spoken ----
-id_hidden        : 710905rc.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-09-05
-showdate_hidden  : 2023-09-05
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : September 5
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation with Dr. Weir of the Mensa Society
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710905rc.lon.mp3|Room Conversation with Dr. Weir — September 5, 1971, London}}
-</audio>
-
 **Dr. Weir:**
 Swamiji you'll be glad to know your society like ours is worldwide and not based upon color, creed, or designations
 

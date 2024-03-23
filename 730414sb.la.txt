@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.22 ======
 
----- dataentry spoken ----
-id_hidden        : 730414sb.la
-listtype_hidden  : SB 1.8.22
-listdate_hidden  : 1973-04-14
-showdate_hidden  : 2023-04-14
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 14
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 33:43
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.22
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730414sb.la.mp3|SB 1.8.22 — April 14, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [leads singing of //Jaya rādhā-mādhava//]
 

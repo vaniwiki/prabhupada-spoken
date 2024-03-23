@@ -9,24 +9,6 @@
 
 ====== Arrival Speech ======
 
----- dataentry spoken ----
-id_hidden        : 760621ar.nv
-listtype_hidden  : Arrival Speech
-listdate_hidden  : 1976-06-21
-showdate_hidden  : 2023-06-21
-listplace_hidden : New Vrindavan
-Type_spoken      : Lecture
-Date_spoken      : June 21
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 22:36
-Title_hidden     : Arrival Speech
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760621ar.nv.mp3|Arrival Speech — June 21, 1976, New Vrindavan}}
-</audio>
-
 **Prabhupāda:**
 Any //karatālas?// [sings //Jaya Rādhā-Mādhava//] [//prema-dhvani//]
 

@@ -9,24 +9,6 @@
 
 ====== Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, Evening ======
 
----- dataentry spoken ----
-id_hidden        : 710215ba.gor
-listtype_hidden  : Appearance Day
-listdate_hidden  : 1971-02-15
-showdate_hidden  : 2023-02-15
-listplace_hidden : Gorakhpur
-Type_spoken      : Lecture
-Date_spoken      : February 15
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, Evening
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710215ba.gor.mp3|His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, Evening — February 15, 1971, Gorakhpur}}
-</audio>
-
 **Prabhupāda:**
 Śrī Bhaktisiddhānta Sarasvatī Gosvāmī Mahārāja, my spiritual master, his advent day today. In 1922, I was at that time very much engaged in Congress activity. I was very much devout follower of Mahātmā Gandhi, and at that time, I was manager also in a very big chemical concern in Calcutta. Perhaps you may know, Dr. Bose's laboratory. One of my friends---he's still living, Śrī Narendranath Mullik---he informed me that "One saintly person has come. Let us go and see." At that time I was young man, and I did not care for very much about so-called saintly persons. Because in our house, my father used to receive so many //sannyāsīs,// but some of them were not very to the standard, and due to my association with college friends, younger days, I lost my faith practically, although I was born in a Vaiṣṇava family. My father was a pure Vaiṣṇava. From my childhood, he gave me Rādhā-Kṛṣṇa Deity for worshiping. A //ratha...// I was playing with my boyfriends, Ratha-yātrā, Ḍola, like that. My father encouraged. So I was trained up in this line, but in my youthful age, when I was college student, gradually, by their bad association or something, gradually, I lost my activities. But when this friend, Mr. Mullik, took me to Bhaktisiddhānta Sarasvatī Gosvāmī Mahārāja, he immediately asked me that, "You are educated young boys. Why don't you take up Lord Caitanya's message and preach in the Western world?" In the very first sight, he told me. At that time, I argued with him that "We are dependent nation, and who is going to hear about our message?" So he defeated my argument. [aside:] There is no necessity of closing. Yes. He defeated my argument. He was learned scholar. What I was? I was still boy. So I agreed [chuckles] that I was defeated. So after finishing our visit with Bhaktisiddhānta Sarasvatī, I got some impression that "Here is a person who has taken Lord Caitanya's message very seriously. Now it will be preached." My friend asked my opinion, that "What is your opinion?" So I gave this opinion, that "Here is a person who has taken Lord Caitanya's movement very seriously, and now it will be preached."
 

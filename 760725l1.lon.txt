@@ -9,24 +9,6 @@
 
 ====== Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa ======
 
----- dataentry spoken ----
-id_hidden        : 760725l1.lon
-listtype_hidden  : Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa
-listdate_hidden  : 1976-07-25
-showdate_hidden  : 2023-07-25
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : July 25
-Year_spoken      : 1976
-Place_spoken     : London
-Length_hidden    : 58:26
-Title_hidden     : Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760725l1.lon.mp3|Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa — July 25, 1976, London}}
-</audio>
-
 [//kīrtana// in background]
 
 **Jayatīrtha:**

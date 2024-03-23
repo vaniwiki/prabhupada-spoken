@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771111r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-11
-showdate_hidden  : 2023-11-11
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 11
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 40:15
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771111r1.vrn.mp3|Room Conversation — November 11, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 ...three days till you get a little more strength. I mean this is a very good sign, Śrīla Prabhupāda. You've taken a half a kilo of milk. No mucus, no stool. If you get a few days of strength... I mean, I have no objection even tomorrow to take you. I just would like to hear what the //kavirāja...// I really have a little faith on him. I mean I have all faith on you, Śrīla Prabhupāda. I have only a little faith on him, but I don't want to reject his advice as a doctor. This //kavirāja// is giving sound advice so far.
 

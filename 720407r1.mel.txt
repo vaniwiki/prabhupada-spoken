@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Maharishi Impersonalists ======
 
----- dataentry spoken ----
-id_hidden        : 720407r1.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-04-07
-showdate_hidden  : 2023-04-07
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : April 7
-Year_spoken      : 1972
-Place_spoken     : Melbourne
-Length_hidden    : 36:09
-Title_hidden     : Room Conversation with Maharishi Impersonalists
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720407r1.mel.mp3|Room Conversation with Maharishi Impersonalists — April 7, 1972, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 You are all individuals. Every one of us is individual. So how you conceive of merging? Suppose, just like we are here---one, two, three, four, five, six, seven, eight. How we can merge? You just study philosophy. We are here, eight persons. How we can merge into one? Have you got any idea how we can merge? These eight persons, how we can merge into one?
 

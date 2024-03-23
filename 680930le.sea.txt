@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 680930le.sea
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-09-30
-showdate_hidden  : 2023-09-30
-listplace_hidden : Seattle
-Type_spoken      : Lecture
-Date_spoken      : September 30
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680930le.sea.mp3|Lecture — September 30, 1968, Seattle}}
-</audio>
-
 [//kīrtana//] [//prema-dhvanī//]
 
 **Prabhupāda:**

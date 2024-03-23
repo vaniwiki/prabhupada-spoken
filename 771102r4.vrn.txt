@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Jaidayal Dalmia ======
 
----- dataentry spoken ----
-id_hidden        : 771102r4.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 2
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 11:15
-Title_hidden     : Room Conversation with Jaidayal Dalmia
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771102r4.vrn.mp3|Room Conversation with Jaidayal Dalmia — November 2, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 //Jaya.// [Hindi]
 

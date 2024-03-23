@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 20.112 ======
 
----- dataentry spoken ----
-id_hidden        : 760720cc.ny
-listtype_hidden  : Cc. Madhya 20.112
-listdate_hidden  : 1976-07-20
-showdate_hidden  : 2023-07-20
-listplace_hidden : New York
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : July 20
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 19:26
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 20.112
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760720cc.ny.mp3|Cc. Madhya 20.112 — July 20, 1976, New York}}
-</audio>
-
 **Pradyumna:**
 [chants verse, etc.] [devotees repeat]
 

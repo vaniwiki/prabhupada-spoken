@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.12, Appearance Day of Lord Rāmacandra ======
 
----- dataentry spoken ----
-id_hidden        : 740401bg.bom
-listtype_hidden  : Bg 4.12, Appearance Day of Lord Rāmacandra
-listdate_hidden  : 1974-04-01
-showdate_hidden  : 2023-04-01
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 1
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 45:23
-Title_hidden     : Bhagavad-gītā 4.12 Appearance Day of Lord Rāmacandra
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740401bg.bom.mp3|Bg 4.12, Appearance Day of Lord Rāmacandra — April 1, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [leads chanting of verses]
 

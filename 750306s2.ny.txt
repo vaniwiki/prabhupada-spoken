@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.15.27 ======
 
----- dataentry spoken ----
-id_hidden        : 750306s2.ny
-listtype_hidden  : SB 1.15.27
-listdate_hidden  : 1975-03-06
-showdate_hidden  : 2023-03-06
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 6
-Year_spoken      : 1975
-Place_spoken     : New York
-Length_hidden    : 42:30
-Title_hidden     : Śrīmad-Bhāgavatam 1.15.27
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750306s2.ny.mp3|SB 1.15.27 — March 6, 1975, New York}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.18 ======
 
----- dataentry spoken ----
-id_hidden        : 740719sb.nv
-listtype_hidden  : SB 1.2.18
-listdate_hidden  : 1974-07-19
-showdate_hidden  : 2023-07-19
-listplace_hidden : New Vrindavan
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 19
-Year_spoken      : 1974
-Place_spoken     : New Vrindavan
-Length_hidden    : 28:19
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740719sb.nv.mp3|SB 1.2.18 — July 19, 1974, New Vrindavan}}
-</audio>
-
 [recorded on faulty equipment]
 
 **Prabhupāda:**

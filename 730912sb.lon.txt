@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.11 ======
 
----- dataentry spoken ----
-id_hidden        : 730912sb.lon
-listtype_hidden  : SB 1.5.11
-listdate_hidden  : 1973-09-12
-showdate_hidden  : 2023-09-12
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 12
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 24:18
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730912sb.lon.mp3|SB 1.5.11 — September 12, 1973, London}}
-</audio>
-
 [poor audio]
 
 **Pradyumna:**

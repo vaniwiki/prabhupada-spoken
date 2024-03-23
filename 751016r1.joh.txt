@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Reporter of The Star ======
 
----- dataentry spoken ----
-id_hidden        : 751016r1.joh
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-10-16
-showdate_hidden  : 2023-10-16
-listplace_hidden : Johannesburg
-Type_spoken      : Room Conversation
-Date_spoken      : October 16
-Year_spoken      : 1975
-Place_spoken     : Johannesburg
-Length_hidden    : 16:25
-Title_hidden     : Room Conversation with Reporter of The Star
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751016r1.joh.mp3|Room Conversation with Reporter of The Star — October 16, 1975, Johannesburg}}
-</audio>
-
 **Reporter:**
 Your Grace, can I start by asking you what do you think of South Africa?
 

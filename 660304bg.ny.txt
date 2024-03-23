@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.11 ======
 
----- dataentry spoken ----
-id_hidden        : 660304bg.ny
-listtype_hidden  : Bg 2.11
-listdate_hidden  : 1966-03-04
-showdate_hidden  : 2023-03-04
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 4
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 28:53
-Title_hidden     : Bhagavad-gītā 2.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660304bg.ny.mp3|Bg 2.11 — March 4, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 So Kṛṣṇa is, in this sen..., He's identified, that //bhagavān. Bhagavān// means that nobody can surpass His knowledge. Because I have already given the definition of //bhagavān,// that a personality who is in full, all the opulences---wealth, strength, fame and knowledge, beauty and renunciation---He is God. You see? So... Now, in this, at the present moment, when people are godless, I think, this definition is convincing. If you find out a personality that, one who has got in full all these opulences, He is God. Then it will be very difficult to present an ordinary man as God. You see? You'll find that in the //Bhagavad-gītā,// when Arjuna was convinced that Kṛṣṇa is the Supreme Personality of Godhead... But because in future others will have doubt about Kṛṣṇa, he requested Kṛṣṇa that "Will You show me Your universal form?" And Kṛṣṇa agreed and showed him the universal form. That means in future any intelligent man, accepting a so-called God, may also ask him, "Just show something, that you are God." Without showing something, simply by false advertisement, one cannot be God. So whole mistake is that we do not know what is God. We consider God may be just like one of us. No. The God who is controlling such a huge affairs of universal administration, He cannot be, He is superconscious. That is superconsciousness.
 

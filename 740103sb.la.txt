@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.16.6 ======
 
----- dataentry spoken ----
-id_hidden        : 740103sb.la
-listtype_hidden  : SB 1.16.6
-listdate_hidden  : 1974-01-03
-showdate_hidden  : 2023-01-03
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 3
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 40:26
-Title_hidden     : Śrīmad-Bhāgavatam 1.16.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740103sb.la.mp3|SB 1.16.6 — January 3, 1974, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

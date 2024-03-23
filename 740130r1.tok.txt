@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740130r1.tok
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-01-30
-showdate_hidden  : 2023-01-30
-listplace_hidden : Tokyo
-Type_spoken      : Room Conversation
-Date_spoken      : January 30
-Year_spoken      : 1974
-Place_spoken     : Tokyo
-Length_hidden    : 35:24
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740130r1.tok.mp3|Room Conversation — January 30, 1974, Tokyo}}
-</audio>
-
 **Devotee:**
 According to him, he hasn’t disobeyed the regulative principles of eating meat, intoxication, sex life. But he has some fantasyland in his mind, which he tries to live in.
 

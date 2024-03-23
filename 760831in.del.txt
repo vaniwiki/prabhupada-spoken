@@ -9,24 +9,6 @@
 
 ====== Initiations ======
 
----- dataentry spoken ----
-id_hidden        : 760831in.del
-listtype_hidden  : Initiations
-listdate_hidden  : 1976-08-31
-showdate_hidden  : 2023-08-31
-listplace_hidden : Delhi
-Type_spoken      : Initiation
-Date_spoken      : August 31
-Year_spoken      : 1976
-Place_spoken     : Delhi
-Length_hidden    : 13:58
-Title_hidden     : Initiations
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760831in.del.mp3|Initiations — August 31, 1976, Delhi}}
-</audio>
-
 **Prabhupāda:**
 They have got neckbeads?
 

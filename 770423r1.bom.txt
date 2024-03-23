@@ -9,24 +9,6 @@
 
 ====== Morning Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770423r1.bom
-listtype_hidden  : Morning Conversation
-listdate_hidden  : 1977-04-23
-showdate_hidden  : 2023-04-23
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 23
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 39:54
-Title_hidden     : Morning Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770423r1.bom.mp3|Morning Conversation — April 23, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...sinful. And for this bluffing, they have spent millions, er, billions of...
 

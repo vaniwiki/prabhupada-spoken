@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730214le.syd
-listtype_hidden  : Lecture
-listdate_hidden  : 1973-02-14
-showdate_hidden  : 2023-02-14
-listplace_hidden : Sydney
-Type_spoken      : Lecture
-Date_spoken      : February 14
-Year_spoken      : 1973
-Place_spoken     : Sydney
-Length_hidden    : 46:06
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730214le.syd.mp3|Lecture — February 14, 1973, Sydney}}
-</audio>
-
 **Prabhupāda:**
 ...to God it is the king of all knowledge, //rāja-vidyā.// Because it is our constitutional position, normal life, to serve Kṛṣṇa. We are part and parcel of Kṛṣṇa. Just like part and parcel of my body---what they are meant for? Just like this finger is the part and parcel of my body. And what is the business of the finger? The business of the finger is to serve this whole body. Now, I have got some pain in this finger, so it is not working---abnormal condition. Normal condition, there is all right. This is normal condition: as soon as I say, "Finger, please come here; do like this," it will do it. And abnormal condition: there is some pain; I cannot use it.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751020mw.joh
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-10-20
-showdate_hidden  : 2023-10-20
-listplace_hidden : Johannesburg
-Type_spoken      : Morning Walk
-Date_spoken      : October 20
-Year_spoken      : 1975
-Place_spoken     : Johannesburg
-Length_hidden    : 31:36
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751020mw.joh.mp3|Morning Walk — October 20, 1975, Johannesburg}}
-</audio>
-
 **Prabhupāda:**
 They kept dead body frozen?
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Two Indian Guests ======
 
----- dataentry spoken ----
-id_hidden        : 770127r2.pur
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-27
-showdate_hidden  : 2023-01-27
-listplace_hidden : Jagannātha Purī
-Type_spoken      : Room Conversation
-Date_spoken      : January 27
-Year_spoken      : 1977
-Place_spoken     : Jagannātha Purī
-Length_hidden    : 26:32
-Title_hidden     : Room Conversation with Two Indian Guests
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770127r2.pur.mp3|Room Conversation with Two Indian Guests — January 27, 1977, Jagannātha Purī}}
-</audio>
-
 **Prabhupāda:**
 Politics means always fight between the //kṣatriya// and //kṣatriya.//
 

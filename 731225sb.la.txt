@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.15.47–48 ======
 
----- dataentry spoken ----
-id_hidden        : 731225sb.la
-listtype_hidden  : SB 1.15.47–48
-listdate_hidden  : 1973-12-25
-showdate_hidden  : 2023-12-25
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 25
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 29:45
-Title_hidden     : Śrīmad-Bhāgavatam 1.15.47–48
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731225sb.la.mp3|SB 1.15.47-48 — December 25, 1973, Los Angeles}}
-</audio>
-
 **Pradyumna:** Translation: "Thus by pure consciousness due to constant devotional remembrance, they attained the spiritual sky, which is ruled over by the Supreme Nārāyaṇa, Lord Kṛṣṇa. This is attained only by those who meditate upon the one Supreme Lord without deviation. This abode of the Lord Śrī Kṛṣṇa, known as Goloka Vṛndāvana, cannot be attained by persons who are absorbed in the material conception of life. But the Pāṇḍavas, being completely washed of all material contamination, attained that abode in their very same bodies." [[books:sb:1:15:47-48|[SB 1.15.47-48]]]
 
 **Prabhupāda:**

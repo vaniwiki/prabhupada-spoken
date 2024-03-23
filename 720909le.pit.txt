@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720909le.pit
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-09-09
-showdate_hidden  : 2023-09-09
-listplace_hidden : Pittsburgh
-Type_spoken      : Lecture
-Date_spoken      : September 9
-Year_spoken      : 1972
-Place_spoken     : Pittsburgh
-Length_hidden    : 07:43
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720909le.pit.mp3|Lecture — September 9, 1972, Pittsburgh}}
-</audio>
-
 **Prabhupāda:**
 Nārāyaṇa is the Supreme Personality of Godhead. //Parāḥ// means who are attached to the Lord. //Nārāyaṇa-parā,// devotees of the Lord, //na kutaścana bibhyati// [[books:sb:6:17:28|[SB 6.17.28]]], they have no fear. All others they are fearful what will happen in this world and in the next the world they do not agree that there is life after death. They do not know and some of them who know there is life, of course they know heavenly planets or hell.
 

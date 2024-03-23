@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.23 ======
 
----- dataentry spoken ----
-id_hidden        : 760523sb.hon
-listtype_hidden  : SB 6.1.23
-listdate_hidden  : 1976-05-23
-showdate_hidden  : 2023-05-23
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 23
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 29:03
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760523sb.hon.mp3|SB 6.1.23 — May 23, 1976, Honolulu}}
-</audio>
-
 **Hari-śauri:**
 [Announces] Honolulu May the 23rd.
 

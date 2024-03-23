@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.16.23 ======
 
----- dataentry spoken ----
-id_hidden        : 740119sb.hon
-listtype_hidden  : SB 1.16.23
-listdate_hidden  : 1974-01-19
-showdate_hidden  : 2023-01-19
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 19
-Year_spoken      : 1974
-Place_spoken     : Honolulu
-Length_hidden    : 59:51
-Title_hidden     : Śrīmad-Bhāgavatam 1.16.23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740119sb.hon.mp3|SB 1.16.23 — January 19, 1974, Honolulu}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

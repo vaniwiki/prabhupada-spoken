@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.26 ======
 
----- dataentry spoken ----
-id_hidden        : 731025bg.bom
-listtype_hidden  : Bg 13.26
-listdate_hidden  : 1973-10-25
-showdate_hidden  : 2023-10-25
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 25
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 27:41
-Title_hidden     : Bhagavad-gītā 13.26
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731025bg.bom.mp3|Bg 13.26 — October 25, 1973, Bombay}}
-</audio>
-
 **Pradyumna:** Translation: "Again there are those who, although not conversant in spiritual knowledge, begin to worship the Supreme Person upon hearing about Him from others. Because of their tendency to hear from authorities, they also transcend the path of birth and death." [[books:bg:13:26|[Bg. 13.26]]]
 
 [loud sounds of firecrackers throughout]

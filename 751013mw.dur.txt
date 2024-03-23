@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751013mw.dur
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-10-13
-showdate_hidden  : 2023-10-13
-listplace_hidden : Durban
-Type_spoken      : Morning Walk
-Date_spoken      : October 13
-Year_spoken      : 1975
-Place_spoken     : Durban
-Length_hidden    : 77:55
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751013mw.dur.mp3|Morning Walk — October 13, 1975, Durban}}
-</audio>
-
 **Prabhupāda:**
 And this side, they are coming from Europe?
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.64–65 ======
 
----- dataentry spoken ----
-id_hidden        : 750901sb.vrn
-listtype_hidden  : SB 6.1.64–65
-listdate_hidden  : 1975-09-01
-showdate_hidden  : 2023-09-01
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 1
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 16:46
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.64–65
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750901sb.vrn.mp3|SB 6.1.64-65 — September 1, 1975, Vṛndāvana}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] Sixth Canto, First Chapter, verse number 64. [leads chanting of verse, etc] [indistinct]
 

@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 1.8 ======
 
----- dataentry spoken ----
-id_hidden        : 750401cc.may
-listtype_hidden  : Cc. Ādi 1.8
-listdate_hidden  : 1975-04-01
-showdate_hidden  : 2023-04-01
-listplace_hidden : Māyāpur
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : April 1
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 32:35
-Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 1.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750401cc.may.mp3|Cc. Ādi 1.8 — April 1, 1975, Māyāpur}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

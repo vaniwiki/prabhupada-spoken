@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740103mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-01-03
-showdate_hidden  : 2023-01-03
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : January 3
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 35:00
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740103mw.la.mp3|Morning Walk — January 3, 1974, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...is that //nṛpa-liṅga-dharaṁ śūdram.// The //śūdras,// fourth-class men, they are on the government execute. This is one defect. And another defect is, //ghnantaṁ go-mithunaṁ padā// [[books:sb:1:16:4|[SB 1.16.4]]], maintaining large-scale slaughterhouse. These are the two defects of modern civilization. They..., on the top of government there are //śūdras,// not //kṣatriyas.// Neither they are guided by intelligent class, //brāhmaṇas.// Parīkṣit Mahārāja's first beginning is //dvija-varya-śikṣayā// [[books:sb:1:16:1|[SB 1.16.1]]]. The guidance was first-class //brāhmaṇas,// and he was a //kṣatriya,// first class. And there was no animal slaughterhouse. They are also suffering. They are bringing every day some problem: "What is the solution of this problem, what is this solution...?" But why the problems are coming? Because the defect is there that the..., on the head of the government there are //śūdras// and they are busy in cow-killing, maintaining slaughterhouse. This is the defect. And they are not guided by the first-class, intelligent class of men. [break]
 

@@ -9,24 +9,6 @@
 
 ====== Lecture at the Hare Kṛṣṇa Festival at La Salle Pleyel ======
 
----- dataentry spoken ----
-id_hidden        : 740614le.par
-listtype_hidden  : Lecture at the Hare Kṛṣṇa Festival at La Salle Pleyel
-listdate_hidden  : 1974-06-14
-showdate_hidden  : 2023-06-14
-listplace_hidden : Paris
-Type_spoken      : Lecture
-Date_spoken      : June 14
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 64:17
-Title_hidden     : Lecture at the Hare Kṛṣṇa Festival at La Salle Pleyel
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740614le.par.mp3|Lecture at the Hare Kṛṣṇa Festival at La Salle Pleyel — June 14, 1974, Paris}}
-</audio>
-
 **Prabhupāda:**
 [sings //Jaya Rādhā-Mādhava//] [leads //prema-dhvani// prayers]
 

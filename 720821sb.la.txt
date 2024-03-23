@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.18 ======
 
----- dataentry spoken ----
-id_hidden        : 720821sb.la
-listtype_hidden  : SB 1.2.18
-listdate_hidden  : 1972-08-21
-showdate_hidden  : 2023-08-21
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 21
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 57:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720821sb.la.mp3|SB 1.2.18 — August 21, 1972, Los Angeles}}
-</audio>
-
 [//Govindam// prayers playing] [Prabhupāda sings along]
 
 **Prabhupāda:**

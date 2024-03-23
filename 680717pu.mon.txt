@@ -9,23 +9,5 @@
 
 ====== Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded ======
 
----- dataentry spoken ----
-id_hidden        : 680717pu.mon
-listtype_hidden  : Śrī-Kṛṣṇa-Caitanya Prabhu
-listdate_hidden  : 1968-07-17
-showdate_hidden  : 2023-07-17
-listplace_hidden : Montreal
-Type_spoken      : Song Purport
-Date_spoken      : July 17
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Purport to Śrī-Kṛṣṇa-Caitanya Prabhu [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680717pu.mon.mp3|Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded — July 17, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 This is a prayer to Lord Caitanya. The devotee is saying, "O Lord Śrī Caitanya Mahāprabhu, kindly show me your causeless mercy." //Śrī-kṛṣṇa-caitanya prabhu dayā karo more.// "Because You have come to deliver fallen souls, so You will not find the most fallen soul like me." This is the humble prayer. We should be conscious of our fallen condition and pray to the Lord in that way, that "My dear Lord, somehow or other I am fallen. Now kindly pick me up." The substance of this song is like this. Of course, the language, Sanskrit, you may understand..., you may not understand, but the vibration will act. [end]

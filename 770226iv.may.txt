@@ -9,24 +9,6 @@
 
 ====== Interview ======
 
----- dataentry spoken ----
-id_hidden        : 770226iv.may
-listtype_hidden  : Interview
-listdate_hidden  : 1977-02-26
-showdate_hidden  : 2023-02-26
-listplace_hidden : Māyāpur
-Type_spoken      : Interview
-Date_spoken      : February 26
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 80:24
-Title_hidden     : Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770226iv.may.mp3|Interview — February 26, 1977, Māyāpur}}
-</audio>
-
 [First 28 minutes of audio is talk between 2 interviewers and Prabhupada in Hindi, discussing, among other things, books produced in other languages. A few English words interjected.]
 
 **Interviewer (1):**

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 721001mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-10-01
-showdate_hidden  : 2023-10-01
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : October 1
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 17:17
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721001mw.la.mp3|Morning Walk — October 1, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Easy-going, that is actual real life. But that easy-going, you must come to that stage. If you come to a healthy stage, then when you eat, you can digest nicely. But unhealthy stage, if you eat, how you will digest? Therefore you have to cure your disease first of all. Then you eat, it will be digested. So in the material condition, nothing can be easy-going. Therefore, how it is called conditioned life?
 

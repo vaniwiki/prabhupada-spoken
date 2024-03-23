@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.3 ======
 
----- dataentry spoken ----
-id_hidden        : 750311bg.lon
-listtype_hidden  : Bg 7.3
-listdate_hidden  : 1975-03-11
-showdate_hidden  : 2023-03-11
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 11
-Year_spoken      : 1975
-Place_spoken     : London
-Length_hidden    : 45:57
-Title_hidden     : Bhagavad-gītā 7.3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750311bg.lon.mp3|Bg 7.3 — March 11, 1975, London}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

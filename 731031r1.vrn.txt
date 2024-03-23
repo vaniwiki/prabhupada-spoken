@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 731031r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-10-31
-showdate_hidden  : 2023-10-31
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 31
-Year_spoken      : 1973
-Place_spoken     : Vṛndāvana
-Length_hidden    : 27:32
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731031r1.vrn.mp3|Room Conversation — October 31, 1973, Vṛndāvana}}
-</audio>
-
 [Hindi conversation with guests, interspersed with laughter]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771110r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 10
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 28:30
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771110r1.vrn.mp3|Room Conversation — November 10, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 I wish that you GBC manage very nicely and consider that I am dead and let me try to travel all the //tīrthasthāna,// without any responsibility. If I become recovered from this malady, I shall come back and then I shall die anyway. What is that, when the dead body is there, let them bring to Māyāpur and Vṛndāvana. I am thinking in this way. Bring little medicine and no medicine, little milk, and travel one place to another, and if there is death, what is the lamentation? My age is ripe. In the open air and bullock cart or during daytime, eh? Or you can say civil suicide. Although living, but consider me dead for the time being. You manage, and nowadays there is in India ample sunshine. So during daytime I shall travel, and nighttime you make a camp under a tree. In this way let me travel all the //tīrthasthāna.// I am thinking in this way. What is your opinion?
 

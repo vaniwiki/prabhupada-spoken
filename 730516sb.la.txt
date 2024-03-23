@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.9.2 ======
 
----- dataentry spoken ----
-id_hidden        : 730516sb.la
-listtype_hidden  : SB 1.9.2
-listdate_hidden  : 1973-05-16
-showdate_hidden  : 2023-05-16
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 16
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 36:29
-Title_hidden     : Śrīmad-Bhāgavatam 1.9.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730516sb.la.mp3|SB 1.9.2 — May 16, 1973, Los Angeles}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse] [Prabhupāda and devotees repeat]
 

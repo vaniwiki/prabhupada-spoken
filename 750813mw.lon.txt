@@ -9,24 +9,6 @@
 
 ====== Morning Walk [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 750813mw.lon
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-08-13
-showdate_hidden  : 2023-08-13
-listplace_hidden : London
-Type_spoken      : Morning Walk
-Date_spoken      : August 13
-Year_spoken      : 1975
-Place_spoken     : London
-Length_hidden    : 00:48
-Title_hidden     : Morning Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750813mw.lon.mp3|Morning Walk [partially recorded] — August 13, 1975, London}}
-</audio>
-
 **Prabhupāda:**
 //...ratha// car?
 

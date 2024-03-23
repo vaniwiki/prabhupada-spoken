@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.2 ======
 
----- dataentry spoken ----
-id_hidden        : 710817sb.lon
-listtype_hidden  : SB 1.1.2
-listdate_hidden  : 1971-08-17
-showdate_hidden  : 2023-08-17
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 17
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710817sb.lon.mp3|SB 1.1.2 — August 17, 1971, London}}
-</audio>
-
 **Pradyumna:**
 "Completely rejecting all religious activities which are materially motivated, this //Bhāgavata Purāṇa// propounds the highest truth, which is understandable by those devotees who are pure in heart. The highest truth is reality distinguished from illusion for the welfare of all. Such truth uproots the threefold miseries. This beautiful //Bhāgavatam,// compiled by the great sage Śrī Vyāsadeva is sufficient in itself for God realization. As soon as one attentively and submissively hears the message of //Bhāgavatam,// he becomes attached to the Supreme Lord."
 

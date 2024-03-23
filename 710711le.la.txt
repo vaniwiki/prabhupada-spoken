@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710711le.la
-listtype_hidden  : Lecture
-listdate_hidden  : 1971-07-11
-showdate_hidden  : 2023-07-11
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : July 11
-Year_spoken      : 1971 
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710711le.la.mp3|Lecture — July 11, 1971 , Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...the spiritual platform. The past, present and future calculation is according to this body. That there are different calculation, it is scientifically proved---relativity, law of relativity. This world's past, present and future is different from the past, present, future of ordinary man. The ant's past, present and future is different from human being. So, this past, present and future is in relationship with this body. Actually, as we are eternal spirit soul, we have no past, present or future. Just like this child, he is playing. After a few years this age will be a past tense. Every one of us, we had also similar body, and that is now past tense. But I am this proprietor of the body. I remember that in such and such year I was a child like this, in such and such year I was a boy like this, in such and such year I was a young man like this. Therefore, "I" is eternal. I am eternal. This past and present and future is due to the change of body. Is it not a fact? I am the same, feeling; I am feelng same. The old man, an old man, he also remembers his enjoyments during his youthful time, and sometimes he wants to go back to those youthful days. An old man, when he meets his old friends, he talks about his youthful days. That means as spirit soul I am always youthful, but due to this condition of this body, I am feeling sometimes childish, sometimes old man, sometimes this or that.
 

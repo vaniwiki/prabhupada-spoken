@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760610mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-06-10
-showdate_hidden  : 2023-06-10
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : June 10
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 44:15
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760610mw.la.mp3|Morning Walk — June 10, 1976, Los Angeles}}
-</audio>
-
 [morning walk is a drive in car, due to rain]
 
 **Prabhupāda:**

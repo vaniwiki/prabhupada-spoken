@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770121r2.bhu
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-21
-showdate_hidden  : 2023-01-21
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 21
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 102:39
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770121r2.bhu.mp3|Room Conversation — January 21, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 ...important worldwide movement. Very cautiously, very intelligently, we should use our resources, intelligence. This is a worldwide. And feeling our pressure, there is obstruction, therefore. And it is genuine. There is no doubt about it. No doubt about it. We are not going to be defeated, I am confident. And with this confidence I went to your country, that "Why Caitanya Mahāprabhu's..." That is substance. "So many rascals are going and talking nonsense. They are becoming successful. Why not Caitanya Mahāprabhu?" That was my confi... Otherwise I never expected that I shall be able to write so many books and it will be so much appreciated. It is wonderful appreciation. Is it not?
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.7.6 ======
 
----- dataentry spoken ----
-id_hidden        : 750423sb.vrn
-listtype_hidden  : SB 1.7.6
-listdate_hidden  : 1975-04-23
-showdate_hidden  : 2023-04-23
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 23
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 27:40
-Title_hidden     : Śrīmad-Bhāgavatam 1.7.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750423sb.vrn.mp3|SB 1.7.6 — April 23, 1975, Vṛndāvana}}
-</audio>
-
 **Nitāi:**
 [leads chanting of verse, etc.]
 

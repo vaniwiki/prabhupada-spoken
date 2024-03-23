@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā As It Is Introduction ======
 
----- dataentry spoken ----
-id_hidden        : 681123bg.la
-listtype_hidden  : Bg As It Is Introduction
-listdate_hidden  : 1968-11-23
-showdate_hidden  : 2023-11-23
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 23
-Year_spoken      : 1968 
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Introduction to Bhagavad-gītā As It Is
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681123bg.la.mp3|Bg As It Is Introduction — November 23, 1968 , Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Somebody come read //Bhagavad-gītā.// You will read? Come on. Our publication by Macmillan Company, //Bhagavad-gītā,// is out.
 

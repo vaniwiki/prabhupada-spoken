@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.9.6–14 ======
 
----- dataentry spoken ----
-id_hidden        : 720502sb.tok
-listtype_hidden  : SB 2.9.6–14
-listdate_hidden  : 1972-05-02
-showdate_hidden  : 2023-05-02
-listplace_hidden : Tokyo
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 2
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 36:39
-Title_hidden     : Śrīmad-Bhāgavatam 2.9.6–14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720502sb.tok.mp3|SB 2.9.6-14 — May 2, 1972, Tokyo}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verses] [Prabhupāda and devotees repeat]
 

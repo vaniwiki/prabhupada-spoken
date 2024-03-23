@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760313mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-03-13
-showdate_hidden  : 2023-03-13
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : March 13
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 27:47
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760313mw.may.mp3|Morning Walk — March 13, 1976, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...to eat yourself, sufficiently, and if there is excess, then question of trade, //vāṇījyam.// Otherwise, if there is no excess, where is the question of //vāṇījya?// You are starving. [break] Then we shall. There is no excess. [break] ...will spoil everything everywhere. [break] "The government men will take up the policy of plunderers and rogues," that is stated. //Dasyu-dharma. Dasyu// means plunderer. He catches: "What you have got, give me." This will be government. "What you have got, give me." //Bās.// You cannot say anything. "Law." Plundering is law. Then where is your government? If killing is law, plundering is law, then what is this government? Government means to give security to the property and life. So when the government will make law, "I can take your life whenever I like, and I can plunder your property as I like," then where is the law?
 

@@ -9,24 +9,6 @@
 
 ====== Meeting with Mr. Krishna Modi, Member of Parliament ======
 
----- dataentry spoken ----
-id_hidden        : 760831r1.del
-listtype_hidden  : Meeting with Mr. Krishna Modi, Member of Parliament
-listdate_hidden  : 1976-08-31
-showdate_hidden  : 2023-08-31
-listplace_hidden : Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : August 31
-Year_spoken      : 1976
-Place_spoken     : Delhi
-Length_hidden    : 61:40
-Title_hidden     : Meeting with Mr. Krishna Modi, Member of Parliament
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760831r1.del.mp3|Meeting with Mr. Krishna Modi, Member of Parliament — August 31, 1976, Delhi}}
-</audio>
-
 [Hindi conversation]
 
 **Gopāla Kṛṣṇa:**

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.32 ======
 
----- dataentry spoken ----
-id_hidden        : 760531sb.hon
-listtype_hidden  : SB 6.1.32
-listdate_hidden  : 1976-05-31
-showdate_hidden  : 2023-05-31
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 31
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 23:18
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.32
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760531sb.hon.mp3|SB 6.1.32 — May 31, 1976, Honolulu}}
-</audio>
-
 **Pradyumna:** Translation: "When the order carriers of Yamarāja, the son of the sun-god, were thus forbidden, they replied, 'Who are you, sirs, that have the audacity to challenge the jurisdiction of Yamarāja?' "
 
 **Prabhupāda:**

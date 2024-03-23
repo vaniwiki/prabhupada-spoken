@@ -9,24 +9,6 @@
 
 ====== Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 731213db.la
-listtype_hidden  : Disappearance Day
-listdate_hidden  : 1973-12-13
-showdate_hidden  : 2023-12-13
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : December 13
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 23:39
-Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Disappearance Day Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731213db.la.mp3|Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 13, 1973, Los Angeles}}
-</audio>
-
 **Devotees:**
 Jaya Prabhupāda! //Haribol.// All glories to Śrī Guru. //Haribol.//
 

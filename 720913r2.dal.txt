@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720913r2.dal
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-09-13
-showdate_hidden  : 2023-09-13
-listplace_hidden : Dallas
-Type_spoken      : Room Conversation
-Date_spoken      : September 13
-Year_spoken      : 1972
-Place_spoken     : Dallas
-Length_hidden    : 27:47
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720913r2.dal.mp3|Room Conversation — September 13, 1972, Dallas}}
-</audio>
-
 **Satsvarūpa:**
 Some of the children are 10 years old but we have been being very strict because they are loose in their behaviour. They cannot be initiated until they are chanting 16 rounds, trying to be very strict with that but they see that others are being initiated quickly. They saw the initiation today some of the 10-year-old boys. We want the parents to initiate, "why, why can I can I be initiated?"
 

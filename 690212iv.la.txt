@@ -9,24 +9,6 @@
 
 ====== Radio Interview ======
 
----- dataentry spoken ----
-id_hidden        : 690212iv.la
-listtype_hidden  : Radio Interview
-listdate_hidden  : 1969-02-12
-showdate_hidden  : 2023-02-12
-listplace_hidden : Los Angeles
-Type_spoken      : Interview
-Date_spoken      : February 12
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Radio Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690212iv.la.mp3|Radio Interview — February 12, 1969, Los Angeles}}
-</audio>
-
 **Interviewer:**
 We have with us in the studio the head and founder of the International Society for Krishna Consciousness, and I think that his name is pronounced Bhaktivedanta, Swami A.C. Bhaktivedanta.
 

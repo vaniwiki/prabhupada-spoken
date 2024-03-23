@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770102r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-02
-showdate_hidden  : 2023-01-02
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 2
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 09:43
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770102r1.bom.mp3|Room Conversation — January 2, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...that a high-court judge, and he does not know what is God. How misfortunate he is. And he's speaking of God, "Surrender," all theoretical. They do not know what is surrender. If I say anybody that "Go to Dr. Patel and surrender unto him, and whatever he'll prescribe, you take it," but if he does not know what is Dr. Patel, then where he'll go, and what to surrender? This is their position. They speak big, big words but do not know where to go. It is not? What do you think?
 

@@ -9,24 +9,6 @@
 
 ====== Purport to Gaura Pahū ======
 
----- dataentry spoken ----
-id_hidden        : 690110pu.la
-listtype_hidden  : Gaura Pahū
-listdate_hidden  : 1969-01-10
-showdate_hidden  : 2023-01-10
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 10
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Gaura Pahū
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690110pu.la.mp3|Purport to Gaura Pahū — January 10, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Gaura pahū nā bhajiyā goinu, prema-rathana-dhana helāya hārāiṅu.// This is another song by Narottama dāsa Ṭhākura. He's saying that "I have invited my spiritual death by not worshiping Lord Caitanya." //Gaura pahū nā bhajiyā goinu. Gaura pahū// means "Lord Caitanya," and //nā bhajiyā,// "without worshiping." //Goinu,// "I have invited spiritual death." And //adhame yatane kari dhanu tainu.// "Why I have invited the spiritual death? Because I am engaged in something which is useless and I have rejected the real purpose of my life." //Adhama// means valueless things. And //dhana// means valuables. So actually, everyone of us, neglecting our spiritual emanicipation, we are engaged in material sense gratification, and therefore we are losing the opportunity of this human form of body to elevate myself on the spiritual platform. This human body is especially given to the conditioned soul to take a chance for spiritual emancipation. So anyone who does not care for spiritual emancipation, he is inviting spiritual death. Spiritual death means to forget oneself, that he's spirit. That is spiritual death. So in the animal life it is fully forgetfulness. They cannot be reminded at any circumstances that they are not this body, they are different from this body. It is only in this human form of body, human form of life, one can understand that he is not this body, he's spirit soul. So by chanting Hare Kṛṣṇa, one can easily understand this fact, and by worshiping Lord Caitanya, following His principles and ways, one can chant Hare Kṛṣṇa and very easily come to the platform of spiritual understanding. But Narottama dāsa Ṭhākura says on our behalf that we are neglecting this. Therefore we are inviting spiritual death.
 

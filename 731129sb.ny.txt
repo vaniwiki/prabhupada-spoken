@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.15.1 ======
 
----- dataentry spoken ----
-id_hidden        : 731129sb.ny
-listtype_hidden  : SB 1.15.1
-listdate_hidden  : 1973-11-29
-showdate_hidden  : 2023-11-29
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 29
-Year_spoken      : 1973
-Place_spoken     : New York
-Length_hidden    : 26:46
-Title_hidden     : Śrīmad-Bhāgavatam 1.15.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731129sb.ny.mp3|SB 1.15.1 — November 29, 1973, New York}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse] [Prabhupāda and devotees repeat]
 

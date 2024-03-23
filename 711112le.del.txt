@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 711112le.del
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1971-11-12
-showdate_hidden  : 2023-11-12
-listplace_hidden : Delhi
-Type_spoken      : Lecture
-Date_spoken      : November 12
-Year_spoken      : 1971
-Place_spoken     : Delhi
-Length_hidden    : 00:00
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711112le.del.mp3|Pandal Lecture — November 12, 1971, Delhi}}
-</audio>
-
 **Prabhupāda:**
 Ladies and gentlemen, I thank you very much for your kindly participating in this Kṛṣṇa Consciousness Movement. We are speaking here for the last one week, so it is very encouraging that we are reviving the dormant Kṛṣṇa consciousness of our brothers and sisters in India.
 

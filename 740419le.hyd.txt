@@ -9,22 +9,4 @@
 
 ====== Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 740419le.hyd
-listtype_hidden  : Lecture [Hindi]
-listdate_hidden  : 1974-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : Hyderabad
-Type_spoken      : Hindi
-Date_spoken      : April 19
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 27:56
-Title_hidden     : Lecture [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740419le.hyd_hindi.mp3|Lecture [Hindi] — April 19, 1974, Hyderabad}}
-</audio>
-
 **Prabhupāda:**

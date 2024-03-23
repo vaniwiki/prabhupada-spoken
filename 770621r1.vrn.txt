@@ -9,24 +9,6 @@
 
 ====== Description of New York Temple and Conversation with Svarūpa Dāmodara ======
 
----- dataentry spoken ----
-id_hidden        : 770621r1.vrn
-listtype_hidden  : Description of New York Temple and Conversation with Svarūpa Dāmodara
-listdate_hidden  : 1977-06-21
-showdate_hidden  : 2023-06-21
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : June 21
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 80:03
-Title_hidden     : Description of New York Temple and Conversation with Svarūpa Dāmodara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770621r1.vrn.mp3|Description of New York Temple and Conversation with Svarūpa Dāmodara — June 21, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 ...in winter months, even though we keep it to a minimum, the oil bill runs about eight thousand dollars a month. It's very costly. Because one time we tried to turn it off, and it was very dangerous. They warned us never to do that again, because if the pipe freezes, the whole thing will explode. Therefore we have to always keep some steam coming so that it never freezes. We can't turn it off for ten hours and then turn it on again. We were thinking we could do that. That we may do in each room, but down in the boiler room we must keep the boiler going.
 

@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 6.254 ======
 
----- dataentry spoken ----
-id_hidden        : 680108cc.la
-listtype_hidden  : Cc. Madhya 6.254
-listdate_hidden  : 1968-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : January 8
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 6.254
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680108cc.la.mp3|Cc. Madhya 6.254 — January 8, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 
 > ...nija-bhakti-yoga-

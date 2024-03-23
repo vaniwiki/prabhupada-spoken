@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Madhya-līlā 6.154 ======
 
----- dataentry spoken ----
-id_hidden        : 710216cc.gor
-listtype_hidden  : Cc. Madhya 6.154
-listdate_hidden  : 1971-02-16
-showdate_hidden  : 2023-02-16
-listplace_hidden : Gorakhpur
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : February 16
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Śrī Caitanya-caritāmṛta, Madhya-līlā 6.154
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710216cc.gor.mp3|Cc. Madhya 6.154 — February 16, 1971, Gorakhpur}}
-</audio>
-
 **Prabhupāda:**
 Caitanya Mahāprabhu is quoting from //Viṣṇu Purāṇa.// As I have told you the other day, there are eighteen //purāṇas: sattvika-purāṇa, rajasic-purāṇa,// and //tamasic-purāṇa.// The whole scheme of Vedic culture is to reclaim all fallen conditioned souls to the platform of transcendental realization. That is the scheme. There are different status of human understanding according to the association of the qualities. The living being is just like a spark of the complete fire. Brahman is the complete fire, and the living entities are just like sparks. The equality with Param Brahman and individual living entity is on the qualitative basis. The quality is the same. Brahman, Param Brahman. //Jivātmā,// Brahman, spiritual, and Paramātmā, or Parameśvara. He is supreme, complete.
 

@@ -9,24 +9,6 @@
 
 ====== Initiation of Satyabhāmā Dāsī ======
 
----- dataentry spoken ----
-id_hidden        : 680726in.mon
-listtype_hidden  : Initiation of Satyabhāmā Dāsī
-listdate_hidden  : 1968-07-26
-showdate_hidden  : 2023-07-26
-listplace_hidden : Montreal
-Type_spoken      : Initiation
-Date_spoken      : July 26
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Initiation of Satyabhāmā Dāsī and Gāyatrī Initiation of Devotees Going to London
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680726in.mon.mp3|Initiation of Satyabhāmā Dāsī — July 26, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 ...auspicious day because it is all arrangement of His Divine Grace Oṁ Viṣṇupāda Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda, my [Prabhupāda's voice chokes up] beloved spiritual master. He is seeing. He had a great desire to preach Lord Caitanya's message in the Western world. And I am sure he will be pleased to see so many young boys and girls are seriously engaged in preaching the gospel of Lord Caitanya Mahāprabhu. That is my success.
 

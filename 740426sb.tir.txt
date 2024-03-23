@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.11 ======
 
----- dataentry spoken ----
-id_hidden        : 740426sb.tir
-listtype_hidden  : SB 1.2.11
-listdate_hidden  : 1974-04-26
-showdate_hidden  : 2023-04-26
-listplace_hidden : Tirupati
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 26
-Year_spoken      : 1974
-Place_spoken     : Tirupati
-Length_hidden    : 39:49
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.11
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740426sb.tir.mp3|SB 1.2.11 — April 26, 1974, Tirupati}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse]
 

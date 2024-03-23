@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.5 ======
 
----- dataentry spoken ----
-id_hidden        : 680802sb.mon
-listtype_hidden  : SB 1.2.5
-listdate_hidden  : 1968-08-02
-showdate_hidden  : 2023-08-02
-listplace_hidden : Montreal
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 2
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680802sb.mon.mp3|SB 1.2.5 — August 2, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 
 > munayaḥ sādhu pṛṣṭo 'haṁ

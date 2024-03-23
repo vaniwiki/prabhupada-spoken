@@ -9,24 +9,6 @@
 
 ====== Interview with LA Times Reporter About Moon Trip ======
 
----- dataentry spoken ----
-id_hidden        : 681226iv.la
-listtype_hidden  : Interview
-listdate_hidden  : 1968-12-26
-showdate_hidden  : 2023-12-26
-listplace_hidden : Los Angeles
-Type_spoken      : Interview
-Date_spoken      : December 26
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Interview with LA Times Reporter About Moon Trip
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681226iv.la.mp3|Interview with LA Times Reporter About Moon Trip — December 26, 1968, Los Angeles}}
-</audio>
-
 **Reporter:**
 ...about the movement, and it occurred to me...I was wondering if there were any religious people in this country that had any misgivings or thoughts about the trip around the moon. And whether there were any objections or opinions that would run contrary to the usual thought about traveling to the moon, and he said that in some of your recent lectures you had said that man would not be able to land on the moon because of, now these are his words, because of spiritual beings there or that there would be an impossibility or something along that line. I was wondering if you could elaborate on that or explain what you meant.
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Villa Borghese ======
 
----- dataentry spoken ----
-id_hidden        : 740525mw.rom
-listtype_hidden  : Morning Walk at Villa Borghese
-listdate_hidden  : 1974-05-25
-showdate_hidden  : 2023-05-25
-listplace_hidden : Rome
-Type_spoken      : Morning Walk
-Date_spoken      : May 25
-Year_spoken      : 1974
-Place_spoken     : Rome
-Length_hidden    : 24:43
-Title_hidden     : Morning Walk at Villa Borghese
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740525mw.rom.mp3|Morning Walk at Villa Borghese — May 25, 1974, Rome}}
-</audio>
-
 **Prabhupāda:**
 //Yajña// means to satisfy the Supreme Lord. That is //yajña.// So in the Kali-yuga the //yajña// is made very easy: chant Hare Kṛṣṇa. So anywhere you go, chant Hare Kṛṣṇa, and see that there will be clouds, there will be rainfall, and just work little, you get your food grains, and chant Hare Kṛṣṇa.
 

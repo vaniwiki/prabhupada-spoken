@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761026r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-10-26
-showdate_hidden  : 2023-10-26
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 26
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 06:20
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761026r1.vrn.mp3|Room Conversation — October 26, 1976, Vṛndāvana}}
-</audio>
-
 **Pṛthu-putra:**
 He asks how many pages. Yogānanda asks how many... Because they say that you sent a newsletter to all the GBCs. He asks how many pages was the newsletter. And I said just two lines.
 

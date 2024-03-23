@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721016nd.vrn
-listtype_hidden  : NoD
-listdate_hidden  : 1972-10-16
-showdate_hidden  : 2023-10-16
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : October 16
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 21:52
-Title_hidden     : The Nectar of Devotion "Bhakti means devotional service"
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721016nd.vrn.mp3|The Nectar of Devotion — October 16, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading] "...is a summary study of //Bhakti-rasāmṛta-sindhu,// which was written in Sanskrit by Śrīla Rūpa Gosvāmī Prabhupāda. He was the chief of the six Gosvāmīs who were the direct disciples of Lord Caitanya Mahāprabhu. When he first met Lord Caitanya, Śrīla Rūpa Gosvāmī Prabhupāda was engaged as a minister in the Muhammadan government of Bengal.
 

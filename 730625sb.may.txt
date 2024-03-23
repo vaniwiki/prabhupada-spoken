@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.10.11–12 ======
 
----- dataentry spoken ----
-id_hidden        : 730625sb.may
-listtype_hidden  : SB 1.10.11–12
-listdate_hidden  : 1973-06-25
-showdate_hidden  : 2023-06-25
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 25
-Year_spoken      : 1973
-Place_spoken     : Māyāpur
-Length_hidden    : 38:23
-Title_hidden     : Śrīmad-Bhāgavatam 1.10.11–12
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730625sb.may.mp3|SB 1.10.11-12 — June 25, 1973, Māyāpur}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse] [Prabhupāda and devotees repeat]
 

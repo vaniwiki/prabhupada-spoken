@@ -9,24 +9,6 @@
 
 ====== Initiation Ceremony ======
 
----- dataentry spoken ----
-id_hidden        : 740701in.mel
-listtype_hidden  : Initiation
-listdate_hidden  : 1974-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : Melbourne
-Type_spoken      : Initiation
-Date_spoken      : July 1
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 14:12
-Title_hidden     : Initiation Ceremony
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740701in.mel.mp3|Initiation Ceremony — July 1, 1974, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 //...puṇḍarīkākṣaṁ sa bahyābhyantaraḥ śuciḥ// [Garuḍa Purāṇa]:
 

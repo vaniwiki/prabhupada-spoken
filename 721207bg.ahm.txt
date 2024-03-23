@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.1 ======
 
----- dataentry spoken ----
-id_hidden        : 721207bg.ahm
-listtype_hidden  : Bg 2.1
-listdate_hidden  : 1972-12-07
-showdate_hidden  : 2023-12-07
-listplace_hidden : Ahmedabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 7
-Year_spoken      : 1972
-Place_spoken     : Ahmedabad
-Length_hidden    : 39:51
-Title_hidden     : Bhagavad-gītā 2.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721207bg.ahm.mp3|Bg 2.1 — December 7, 1972, Ahmedabad}}
-</audio>
-
 **Prabhupāda:**
 
 > ...uvāca

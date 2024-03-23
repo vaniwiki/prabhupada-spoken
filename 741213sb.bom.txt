@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.26.1 ======
 
----- dataentry spoken ----
-id_hidden        : 741213sb.bom
-listtype_hidden  : SB 3.26.1
-listdate_hidden  : 1974-12-13
-showdate_hidden  : 2023-12-13
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 13
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 36:55
-Title_hidden     : Śrīmad-Bhāgavatam 3.26.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741213sb.bom.mp3|SB 3.26.1 — December 13, 1974, Bombay}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

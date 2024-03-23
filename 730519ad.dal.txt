@@ -9,24 +9,6 @@
 
 ====== Arrival Address ======
 
----- dataentry spoken ----
-id_hidden        : 730519ad.dal
-listtype_hidden  : Arrival Address
-listdate_hidden  : 1973-05-19
-showdate_hidden  : 2023-05-19
-listplace_hidden : Dallas
-Type_spoken      : Lecture
-Date_spoken      : May 19
-Year_spoken      : 1973
-Place_spoken     : Dallas
-Length_hidden    : 13:47
-Title_hidden     : Arrival Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730519ad.dal.mp3|Arrival Address — May 19, 1973, Dallas}}
-</audio>
-
 **Prabhupāda:**
 ....five years old. It is a school. He was preaching amongst the class friends this Kṛṣṇa consciousness movement. You have seen the picture of Prahlāda Mahārāja standing on the table---of course, there was no tables in those days---and speaking to his class friends about devotional service. The friends of Prahlāda Mahārāja, they objected, that "We are now children. Let us play now. We shall see about God conscious [indistinct] when we are old enough. Or at the time of death we shall see to it."
 

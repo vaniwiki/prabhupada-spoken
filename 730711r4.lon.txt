@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 730711r4.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-11
-showdate_hidden  : 2023-07-11
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 11
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 12:35
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730711r4.lon.mp3|Room Conversation — July 11, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 When the destiny of the people are to be controlled, there must be very, very intelligent man. That is Vedic civilization. There is standard aims and objects on which the people should be trained up. That is //varṇāśrama-dharma. Viṣṇur ārādhana,// worshiping Viṣṇu. This is the ultimate aim.
 

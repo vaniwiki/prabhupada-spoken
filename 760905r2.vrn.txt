@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760905r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-09-05
-showdate_hidden  : 2023-09-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 5
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 17:52
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760905r2.vrn.mp3|Room Conversation — September 5, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...they're reading now. Here, although we have got books, nobody reads. But there they are reading. Otherwise, nobody is... [microphone moving] That means they are concentrating with so many books. There are other books also. Why they cannot sell so many books? Unless public is interested... If one has read one part of //Bhāgavatam,// he has got some impression, and actually that is the... [break] ...I think it is in Japan. One young gentleman came, I do not know where, he simply asked me, "Swāmījī, can I talk with you?" "Yes, sit down." His first appreciation was, "Swāmījī, where you have got so vast knowledge?" I have already told some of you. So these people, these Americans and Europeans, they are intelligent. They are seeing that here are some ideas which is not to be found throughout the whole world. Therefore they are purchasing. Actually, it is right here. Every verse, every //śloka// is so sublime, and if it is properly explained, people must appreciate. There is no doubt about it. And they are doing that. In our country, due to the loss of our own culture and poverty, we have now taken, "Money is everything." [someone enters] //Aiye.// Wherefrom you are coming?
 

@@ -9,24 +9,6 @@
 
 ====== Morning Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770216r1.may
-listtype_hidden  : Morning Room Conversation
-listdate_hidden  : 1977-02-16
-showdate_hidden  : 2023-02-16
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 16
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 36:29
-Title_hidden     : Morning Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770216r1.may.mp3|Morning Room Conversation — February 16, 1977, Māyāpur}}
-</audio>
-
 **Satsvarūpa:**
 If you associate with a certain type of people, your reputation will be that you are like them, and you'll become like them.
 

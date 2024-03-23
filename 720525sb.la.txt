@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.3.8 and Initiations ======
 
----- dataentry spoken ----
-id_hidden        : 720525sb.la
-listtype_hidden  : SB 2.3.8 and Initiations
-listdate_hidden  : 1972-05-25
-showdate_hidden  : 2023-05-25
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 25
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 27:02
-Title_hidden     : Śrīmad-Bhāgavatam 2.3.8 and Initiations
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720525sb.la.mp3|SB 2.3.8 and Initiations — May 25, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [//prema-dhvani//] Thank you very much. [devotees offer obeisances] Hmm. So, where is Pradyumna?
 

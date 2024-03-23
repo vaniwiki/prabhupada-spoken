@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720629r1.sd
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : San Diego
-Type_spoken      : Room Conversation
-Date_spoken      : June 29
-Year_spoken      : 1972
-Place_spoken     : San Diego
-Length_hidden    : 23:20
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720629r1.sd.mp3|Room Conversation — June 29, 1972, San Diego}}
-</audio>
-
 **Prabhupāda:**
 You cannot say that "I have got a different faith. I do not care for the laws of God." It it is a law... Just like, for example, here in the state, if you kill somebody, then you have to pay for it with your life. So if that is the law in your state, why a similar law in broader sense is not there in the courts of God, law..., law of God? You can avoid the arrest by the police and punishment by the state law by tricks, but you cannot avoid by tricks the law of God. That is not possible.
 

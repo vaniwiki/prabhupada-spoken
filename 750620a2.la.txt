@@ -9,24 +9,6 @@
 
 ====== Arrival Address ======
 
----- dataentry spoken ----
-id_hidden        : 750620a2.la
-listtype_hidden  : Arrival Address
-listdate_hidden  : 1975-06-20
-showdate_hidden  : 2023-06-20
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : June 20
-Year_spoken      : 1975
-Place_spoken     : Los Angeles
-Length_hidden    : 12:20
-Title_hidden     : Arrival Address
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750620a2.la.mp3|Arrival Address — June 20, 1975, Los Angeles}}
-</audio>
-
 **Kṛṣṇa-kānti:**
 [introducing recording] This is Śrīla Prabhupāda's arrival address, recorded June 20th, 1975, in Los Angeles.
 

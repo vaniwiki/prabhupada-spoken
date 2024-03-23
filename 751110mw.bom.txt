@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751110mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : November 10
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 44:31
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751110mw.bom.mp3|Morning Walk — November 10, 1975, Bombay}}
-</audio>
-
 **Dr. Patel:**
 ...that man, and then Krodha Mahārāja knew that this man would be perhaps hanged by the officials. So he engineered that he [indistinct] Africa. He was smuggled into Africa. And there, in Africa, he learned Bengali by himself, reading books. And he was Bengali scholar.
 

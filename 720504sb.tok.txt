@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.9.15 ======
 
----- dataentry spoken ----
-id_hidden        : 720504sb.tok
-listtype_hidden  : SB 2.9.15
-listdate_hidden  : 1972-05-04
-showdate_hidden  : 2023-05-04
-listplace_hidden : Tokyo
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 4
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 16:36
-Title_hidden     : Śrīmad-Bhāgavatam 2.9.15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720504sb.tok.mp3|SB 2.9.15 — May 4, 1972, Tokyo}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse] [Prabhupāda and devotees respond]
 

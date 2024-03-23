@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.1 ======
 
----- dataentry spoken ----
-id_hidden        : 740316sb.vrn
-listtype_hidden  : SB 2.1.1
-listdate_hidden  : 1974-03-16
-showdate_hidden  : 2023-03-16
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 16
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 47:38
-Title_hidden     : Śrīmad-Bhāgavatam 2.1.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740316sb.vrn.mp3|SB 2.1.1 — March 16, 1974, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

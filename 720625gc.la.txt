@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720625gc.la
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1972-06-25
-showdate_hidden  : 2023-06-25
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 25
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 31:33
-Title_hidden     : Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720625gc.la.mp3|Garden Conversation — June 25, 1972, Los Angeles}}
-</audio>
-
 **Devotee (1):**
 Is there any questions?
 

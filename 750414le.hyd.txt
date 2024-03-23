@@ -9,24 +9,6 @@
 
 ====== Lecture on Science of Kṛṣṇa ======
 
----- dataentry spoken ----
-id_hidden        : 750414le.hyd
-listtype_hidden  : Lecture on Science of Kṛṣṇa
-listdate_hidden  : 1975-04-14
-showdate_hidden  : 2023-04-14
-listplace_hidden : Hyderabad
-Type_spoken      : Lecture
-Date_spoken      : April 14
-Year_spoken      : 1975
-Place_spoken     : Hyderabad
-Length_hidden    : 22:28
-Title_hidden     : Lecture on Science of Kṛṣṇa
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750414le.hyd.mp3|Lecture on Science of Kṛṣṇa — April 14, 1975, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 [break] //...śakti, śaktimān.// The Supreme Lord is //śaktimān.// Just like the sun and the sunshine and the sun-god, and practically they are one. From the sun-god there is... The abode of the sun-god is the sun globe, and the shining of the sun globe is also sunshine. So in one sense they are one; in other sense they are different. Just like the sunshine is reaching here, it does not mean the sun globe is reaching here. That is also explained in the //Bhagavad-gītā, mayā tatam idaṁ sarvaṁ jagad avyakta-mūrtinā// [[books:bg:9:4|[Bg. 9.4]]]: "I am spread." So //sarvaṁ khalv idaṁ brahma,// everything is Kṛṣṇa. But at the same time, if you commit mistake... The same way, "Because the sunshine is here, therefore sun is here," that is a mistake. This is //viśiṣṭa-advaita.//
 

@@ -9,24 +9,6 @@
 
 ====== Conversation after Interview with Religious Editor, Associated Press ======
 
----- dataentry spoken ----
-id_hidden        : 760716r1.ny
-listtype_hidden  : Conversation after Interview with Religious Editor, Associated Press
-listdate_hidden  : 1976-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : July 16
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 15:22
-Title_hidden     : Conversation After Interview with Religious Editor, Associated Press
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760716r1.ny.mp3|Conversation after Interview with Religious Editor, Associated Press — July 16, 1976, New York}}
-</audio>
-
 **Prabhupāda:**
 Because they are accustomed to the business of hammering the bricks from time immemorial, they think, "This is the business. How is that this man is not engaged in this business?"
 

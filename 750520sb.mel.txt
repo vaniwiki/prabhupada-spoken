@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.1–4 ======
 
----- dataentry spoken ----
-id_hidden        : 750520sb.mel
-listtype_hidden  : SB 6.1.1–4
-listdate_hidden  : 1975-05-20
-showdate_hidden  : 2023-05-20
-listplace_hidden : Melbourne
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 20
-Year_spoken      : 1975
-Place_spoken     : Melbourne
-Length_hidden    : 58:42
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.1–4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750520sb.mel.mp3|SB 6.1.1-4 — May 20, 1975, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 [chants verses, devotees chant responsively]
 

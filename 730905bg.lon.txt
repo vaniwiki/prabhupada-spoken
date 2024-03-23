@@ -9,24 +9,6 @@
 
 ====== Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 18.5 ======
 
----- dataentry spoken ----
-id_hidden        : 730905bg.lon
-listtype_hidden  : Rādhāṣṭamī
-listdate_hidden  : 1973-09-05
-showdate_hidden  : 2023-09-05
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : September 5
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 38:43
-Title_hidden     : Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 18.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730905bg.lon.mp3|Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 18.5 — September 5, 1973, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [break] [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

@@ -9,24 +9,6 @@
 
 ====== Appearance Day of Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura ======
 
----- dataentry spoken ----
-id_hidden        : 740211ba.vrn
-listtype_hidden  : Appearance Day
-listdate_hidden  : 1974-02-11
-showdate_hidden  : 2023-02-11
-listplace_hidden : Vṛndāvana
-Type_spoken      : Lecture
-Date_spoken      : February 11
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 25:47
-Title_hidden     : Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740211ba.vrn.mp3|Appearance Day of Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura — February 11, 1974, Vṛndāvana}}
-</audio>
-
 [poor recording]
 
 **Prabhupāda:**

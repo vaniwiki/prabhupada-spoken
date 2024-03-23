@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740708r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-07-08
-showdate_hidden  : 2023-07-08
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : July 8
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 07:52
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740708r1.la.mp3|Room Conversation — July 8, 1974, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...Gopala.
 

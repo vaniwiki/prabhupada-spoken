@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760525mw.hon
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-05-25
-showdate_hidden  : 2023-05-25
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : May 25
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 20:10
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760525mw.hon.mp3|Morning Walk — May 25, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 ...of the mind of God. And it is delivered. False mind is delivered.
 

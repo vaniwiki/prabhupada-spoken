@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.2.12–14 ======
 
----- dataentry spoken ----
-id_hidden        : 710117sb.all
-listtype_hidden  : SB 6.2.12–14
-listdate_hidden  : 1971-01-17
-showdate_hidden  : 2023-01-17
-listplace_hidden : Allahabad
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 17
-Year_spoken      : 1971
-Place_spoken     : Allahabad
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.2.12–14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710117sb.all.mp3|SB 6.2.12-14 — January 17, 1971, Allahabad}}
-</audio>
-
 **Prabhupāda:**
 There are so many persons following their own principles of religious, ritualistic performances, but... [break] ...by remaining in the same standard. They are not improving. The spiritual life or religious life means that one should make advance towards back to home, back to Godhead, not that religious life should be followed to make some material improvement. That is not religious life. //Dharma-artha-kāma-mokṣa// ([[books:sb:4:8:41|SB 4.8.41]], [[books:cc:adi:1:90|Cc. Ādi 1.90]]). These are the principles for elevating a living entity to the highest platform. But they have taken it, generally... They perform religious ritualistic performances for getting some more money, //artha.// Of course, we require some money for our maintenance. That is necessary. But if we simply perform religious performances to acquire money only, that is misguided. Generally people do so. They give in charity so that they may get more money. They open //dharmaśālā// so that they can get more houses. That is their purpose. Or they may be elevated to the heavenly kingdom. Because they do not know what is his actual interest. The actual interest is to go back to home, go back to Godhead. This idea, perhaps not even one percent men know that the ultimate end of, ultimate goal of life is to go back to home, back to Godhead. //Na te viduḥ svārtha-gatiṁ hi viṣṇum// [[books:sb:7:5:31|[SB 7.5.31]]]---Viṣṇu, God, the Supreme Personality of Godhead. They do not know that the real interest is to go back home, go back to Godhead. //Durāśayā ye bahir-artha-māninaḥ.// They have accepted that "We shall be happy by adjusting this material world." Therefore they cannot make any progress.
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.16 ======
 
----- dataentry spoken ----
-id_hidden        : 730822bg.lon
-listtype_hidden  : Bg 2.16
-listdate_hidden  : 1973-08-22
-showdate_hidden  : 2023-08-22
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : August 22
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 35:58
-Title_hidden     : Bhagavad-gītā 2.16
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730822bg.lon.mp3|Bg 2.16 — August 22, 1973, London}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse] [Prabhupāda and devotees repeat]
 

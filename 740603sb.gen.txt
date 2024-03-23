@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.13.12–14 ======
 
----- dataentry spoken ----
-id_hidden        : 740603sb.gen
-listtype_hidden  : SB 1.13.12–14
-listdate_hidden  : 1974-06-03
-showdate_hidden  : 2023-06-03
-listplace_hidden : Geneva
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 3
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 20:12
-Title_hidden     : Śrīmad-Bhāgavatam 1.13.12–14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740603sb.gen.mp3|SB 1.13.12-14 — June 3, 1974, Geneva}}
-</audio>
-
 **Nitāi:**
 [leads chanting of verse, etc.] [devotees repeat]
 

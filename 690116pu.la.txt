@@ -9,24 +9,6 @@
 
 ====== Purport to Parama Koruṇa ======
 
----- dataentry spoken ----
-id_hidden        : 690116pu.la
-listtype_hidden  : Parama Koruṇa
-listdate_hidden  : 1969-01-16
-showdate_hidden  : 2023-01-16
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 16
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Parama Koruṇa
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690116pu.la.mp3|Purport to Parama Koruṇa — January 16, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Parama koruṇa, pahū dui jana, nitāi gauracandra.// This is a song sung by Locana dāsa Ṭhākura, a great devotee of Lord Caitanya, almost contemporary. He wrote one book, //Caitanya-maṅgala,// depicting the activities of Lord Caitanya. That is a very famous book, //Caitanya-maṅgala.// And he has composed many songs. Practically all Vaiṣṇavas, they are transcendentally poetic. That is one of the 26 qualifications of the Vaiṣṇava. So he says that "These two Lords," //nitāi gauracandra,// "Lord Nityānanda and Lord Gaurāṅga, or Lord Caitanya, They are very merciful incarnations." //Saba avatāra-sāra śiromaṇi.// "They are essence of all incarnations." The incarnation is stated in the //Bhagavad-gītā// that whenever there is discrepancies in the prosecution of religiosities and there is prominence of impious activities, at that time the Lord incarnates, or He descends on this material world, for protecting the pious and annihilating the impious. That is the mission of incarnation. Every incarnation you'll find two things. Lord Kṛṣṇa, He's so beautiful, so kind, but He is very dangerous to the demons. The demons were seeing Him as thunderbolt and the //gopīs// were seeing Him as the most beautiful cupid. So in the //Bhagavad-gītā// also it is stated, //ye yathā māṁ prapadyante// [[books:bg:4:11|[Bg. 4.11]]]. The God is realized in proportion to one's freedom from the demoniac propensities.
 

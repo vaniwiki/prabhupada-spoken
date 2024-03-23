@@ -9,24 +9,6 @@
 
 ====== Conversation with Shri Narayan ======
 
----- dataentry spoken ----
-id_hidden        : 770502r1.bom
-listtype_hidden  : Conversation with Shri Narayan
-listdate_hidden  : 1977-05-02
-showdate_hidden  : 2023-05-02
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : May 2
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 79:43
-Title_hidden     : Conversation with Shri Narayan
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770502r1.bom.mp3|Conversation with Shri Narayan — May 2, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [Hindi]
 

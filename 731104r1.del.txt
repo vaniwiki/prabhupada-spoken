@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 731104r1.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-11-04
-showdate_hidden  : 2023-11-04
-listplace_hidden : Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : November 4
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 27:20
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731104r1.del.mp3|Room Conversation — November 4, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 But suppose you are different...
 

@@ -9,23 +9,5 @@
 
 ====== Bhagavad-gītā [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 660425bg.ny
-listtype_hidden  : Bg [partially recorded]
-listdate_hidden  : 1966-04-25
-showdate_hidden  : 2023-04-25
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 25
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660425bg.ny.mp3|Bg [partially recorded] — April 25, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 ...because we are now encumbered with this material body, and as soon as we become free from this material conception of life, that is called //mukti.// That is called //brahma-bhūta. Brahma-bhūta// [[books:sb:4:30:20|[SB 4.30.20]]]. Generally, Dr. Mishra is teaching this, that you, what you think of you, what I am, I am not this body. That is the whole process of his teaching. So we have already discussed. The same point is being described nicely in //Bhagavad-gītā,// that we are not this body. Our material identification is wrong... [break] [end]

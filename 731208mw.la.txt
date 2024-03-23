@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731208mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-08
-showdate_hidden  : 2023-12-08
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 8
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 65:10
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731208mw.la.mp3|Morning Walk — December 8, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 They must neglect because foolish. They cannot solve. They're rascal. They cannot solve. They're simply pleased with some, what is called, temporary success. That's all. The ultimate success is not the..., in hand. Professor Einstein, he was very big scientist, but he could not solve his death. He was to die.
 

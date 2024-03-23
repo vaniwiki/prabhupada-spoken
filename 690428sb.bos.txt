@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.2 ======
 
----- dataentry spoken ----
-id_hidden        : 690428sb.bos
-listtype_hidden  : SB 5.5.2
-listdate_hidden  : 1969-04-28
-showdate_hidden  : 2023-04-28
-listplace_hidden : Boston
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 28
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690428sb.bos.mp3|SB 5.5.2 — April 28, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 
 > mahat-sevāṁ dvāram āhur vimuktes

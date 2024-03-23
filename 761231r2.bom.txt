@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761231r2.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-31
-showdate_hidden  : 2023-12-31
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 31
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 19:23
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761231r2.bom.mp3|Room Conversation — December 31, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [laughs] So similarly, if one is giving very important service, then even there is some faulty thing, excuse. Service is so important. So in the Western countries the woman can give very good service. //Api cet sudarācāro bhajate mām ananya-bhāk sādhur eva sa mantavyaḥ// [[books:bg:9:30|[Bg. 9.30]]]. This book distribution is the most important task in our Society. Therefore I am giving so much stress and I am working so hard on this. Because this is my life and soul according to the order of my Guru Mahārāja. And by his grace it is to some extent successful. And I took it seriously.
 

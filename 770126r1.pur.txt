@@ -9,24 +9,6 @@
 
 ====== Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770126r1.pur
-listtype_hidden  : Conversation
-listdate_hidden  : 1977-01-26
-showdate_hidden  : 2023-01-26
-listplace_hidden : Jagannātha Purī
-Type_spoken      : Room Conversation
-Date_spoken      : January 26
-Year_spoken      : 1977
-Place_spoken     : Jagannātha Purī
-Length_hidden    : 53:40
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770126r1.pur.mp3|Conversation — January 26, 1977, Jagannātha Purī}}
-</audio>
-
 **Prabhupāda:**
 And whatever plan he's making, it will be all frustrated. That is the whole history. Big, big emperor, big, big politicians, they have tried. Roman Empire, the Carthagian Empire, Greece Empire, Egyptian Empire and Mogul Empire, British Empire---all frustrated. It will never be successful. For a few days, hundred, two hundred years or five hundred years, it may go on. So real plan is how to become Kṛṣṇa conscious. Then everything is successful. //Ahaṅkāra-vimūḍhātmā kartāham iti manyate// [[books:bg:3:27|[Bg. 3.27]]]. These rascals, on account of false prestigious position, trying to be happy without God. That is not possible. Throughout the history you study. So many rascals have tried---the Napoleon, the Hitler, the Gandhi, this, that. What they have achieved? Nothing. If we honestly study their lives and activities, what they have achieved? Hmm? Do you think they have achieved anything?
 

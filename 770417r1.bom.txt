@@ -9,24 +9,6 @@
 
 ====== Room Conversation Meeting with Dr. Sharma (from Russia) ======
 
----- dataentry spoken ----
-id_hidden        : 770417r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-04-17
-showdate_hidden  : 2023-04-17
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 17
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 50:47
-Title_hidden     : Room Conversation Meeting with Dr. Sharma [from Russia]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770417r1.bom.mp3|Room Conversation Meeting with Dr. Sharma (from Russia) — April 17, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 You have seen this book, Hindi?
 

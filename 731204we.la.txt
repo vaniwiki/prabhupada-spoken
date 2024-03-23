@@ -9,24 +9,6 @@
 
 ====== Wedding of Bali-mardana and Initiation of Taittireyā dāsi ======
 
----- dataentry spoken ----
-id_hidden        : 731204we.la
-listtype_hidden  : Wedding
-listdate_hidden  : 1973-12-04
-showdate_hidden  : 2023-12-04
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : December 4
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 09:29
-Title_hidden     : Wedding of Bali-mardana and Initiation of Taittireyā dāsi
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731204we.la.mp3|Wedding Lecture — December 4, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [//japa//]
 

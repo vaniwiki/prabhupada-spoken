@@ -9,20 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.3.9 ======
 
----- dataentry spoken ----
-id_hidden        : 720915sb.la
-listtype_hidden  : SB 1.3.9
-listdate_hidden  : 1972-09-15
-showdate_hidden  : 2023-09-15
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 15
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.3.9
-----
-
 [no audio]
 
 **Pradyumna:**

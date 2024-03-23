@@ -9,24 +9,6 @@
 
 ====== Gāyatrī Mantra Initiation ======
 
----- dataentry spoken ----
-id_hidden        : 680509in.bos
-listtype_hidden  : Gāyatrī Mantra Initiation
-listdate_hidden  : 1968-05-09
-showdate_hidden  : 2023-05-09
-listplace_hidden : Boston
-Type_spoken      : Initiation
-Date_spoken      : May 9
-Year_spoken      : 1968
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Gāyatrī Mantra Initiation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680509in.bos.mp3|Gāyatrī Mantra Initiation — May 9, 1968, Boston}}
-</audio>
-
 **Prabhupāda:**
 "...such things in devotion and love," //aśnāmi,// "I eat." So one's purpose is served. If Kṛṣṇa accepts something from a person, that is the perfection of life. So there are many things, but today we are observing this ceremony, and the other day we also observed. Six boys were offered this facility of this second initiation stage, and today also, they have come from New York because I'll be going to Montreal, Canada, next week. So they have come and they are... This second process of initiation will be performed as far as possible. Real basic principle is //bhakti,// devotional service. So far lengthy process, in this age it is not possible. And //pāñcarātrika vidhim,// just like quoted from Rūpa Gosvāmī, it has made things very simplified. The Vedic //vidhi// is not possible at the present age. The //pāñcarātrika-vidhim// means... Vedic //vidhi// means one must be begotten by a //brāhmaṇa// and he must have followed the family tradition. Then, according to Vedic rites, he can be initiated or offered the sacred thread. But //pāñcarātrika-vidhi// is especially meant for this age, that anyone who has little, a slight tendency to become a devotee, he should be given all chance, all chance. That is Lord..., especially Lord Caitanya's special benediction. And He has actually performed this thing. Just like Haridāsa Ṭhākura. He happened to be born in a Muhammadan family, and Lord Caitanya made him the //ācārya, nāmācārya,// the authority of chanting Hare Kṛṣṇa, //nāmācārya,// by His grace. This Sanātana Gosvāmī and Rūpa Gosvāmī were rejected from //brāhmaṇa// society because they engaged themselves as ministers in the Muslim government.
 

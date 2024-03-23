@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.54 ======
 
----- dataentry spoken ----
-id_hidden        : 760409sb.vrn
-listtype_hidden  : SB 7.9.54
-listdate_hidden  : 1976-04-09
-showdate_hidden  : 2023-04-09
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 9
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 30:58
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.54
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760409sb.vrn.mp3|SB 7.9.54 — April 9, 1976, Vṛndāvana}}
-</audio>
-
 **Śāstrījī:**
 [chant //mantras//] //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] //Śrīmad-Bhāgavatam// 7.9.54 [chants verse; Prabhupāda and devotees respond] [break]
 

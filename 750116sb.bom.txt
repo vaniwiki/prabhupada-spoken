@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.26.41 ======
 
----- dataentry spoken ----
-id_hidden        : 750116sb.bom
-listtype_hidden  : SB 3.26.41
-listdate_hidden  : 1975-01-16
-showdate_hidden  : 2023-01-16
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 16
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 36:07
-Title_hidden     : Śrīmad-Bhāgavatam 3.26.41
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750116sb.bom.mp3|SB 3.26.41 — January 16, 1975, Bombay}}
-</audio>
-
 **Nitāi:**
 [leads chanting of verse, etc.]
 

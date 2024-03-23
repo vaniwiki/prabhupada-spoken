@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 1.13–14 ======
 
----- dataentry spoken ----
-id_hidden        : 730714bg.lon
-listtype_hidden  : Bg 1.13–14
-listdate_hidden  : 1973-07-14
-showdate_hidden  : 2023-07-14
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 14
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 37:40
-Title_hidden     : Bhagavad-gītā 1.13–14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730714bg.lon.mp3|Bg 1.13-14 — July 14, 1973, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse]
 

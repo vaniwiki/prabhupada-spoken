@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.3.26 ======
 
----- dataentry spoken ----
-id_hidden        : 721001sb.la
-listtype_hidden  : SB 1.3.26
-listdate_hidden  : 1972-10-01
-showdate_hidden  : 2023-10-01
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 1
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 41:31
-Title_hidden     : Śrīmad-Bhāgavatam 1.3.26
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721001sb.la.mp3|SB 1.3.26 — October 1, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [sings along //Govindam//] //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.//
 

@@ -9,24 +9,6 @@
 
 ====== Lecture [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 720121le.jai
-listtype_hidden  : Lecture [Hindi]
-listdate_hidden  : 1972-01-21
-showdate_hidden  : 2023-01-21
-listplace_hidden : Jaipur
-Type_spoken      : Hindi
-Date_spoken      : January 21
-Year_spoken      : 1972
-Place_spoken     : Jaipur
-Length_hidden    : 34:57
-Title_hidden     : Lecture [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720121le.jai_hindi.mp3|Lecture [Hindi] — January 21, 1972, Jaipur}}
-</audio>
-
 **Devotee:**
 [//kirtana//] Evening, January 21th, Jaipur.
 

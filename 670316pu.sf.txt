@@ -9,24 +9,6 @@
 
 ====== Purport to Bhajahu Re Mana ======
 
----- dataentry spoken ----
-id_hidden        : 670316pu.sf
-listtype_hidden  : Bhajahu Re Mana
-listdate_hidden  : 1967-03-16
-showdate_hidden  : 2023-03-16
-listplace_hidden : San Francisco
-Type_spoken      : Song Purport
-Date_spoken      : March 16
-Year_spoken      : 1967
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Purport to Bhajahu Re Mana
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670316pu.sf.mp3|Purport to Bhajahu Re Mana — March 16, 1967, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 //Bhajahū re mana śrī-nanda-nandana-abhaya-caraṇāravinda re. Bhaja, bhaja// means worship; //hu,// hello; //mana,// mind. The poet Govinda dāsa, a great philosopher and devotee of the Lord, he is praying. He is requesting his mind, because mind is the friend and mind is the enemy of everyone. If one can train his mind in Kṛṣṇa consciousness, then he is successful. If he cannot train his mind, then life is failure. Therefore Govinda dāsa, a great devotee of Lord Kṛṣṇa... His very name suggests, Govinda dāsa. Govinda, Kṛṣṇa, and //dāsa// means servant. This is the attitude of all devotees. They always put, affix this //dāsa,// means servant. So Govinda dāsa ms praying, "My dear mind, please you try to worship the son of Nanda, who is //abhaya-caraṇa,// whose lotus feet is secure. There is no fear." //Abhaya. Abhaya// means there is no fear, and //caraṇa, caraṇa// means lotus feet. So he is advising his mind, "My dear mind, please you engage yourself in worshiping the fearless lotus feet of the son of Nanda." //Bhajahū re mana śrī-nanda-nandana. Nanda-nandana// means a son of Nanda Mahārāja, Kṛṣṇa. And His lotus feet is //abhaya,// fearless. So Govinda dāsa is requesting his mind, "Please be engaged in the transcendental loving service of the lotus feet of Kṛṣṇa." So far other things are concerned...
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 1.16–19 ======
 
----- dataentry spoken ----
-id_hidden        : 730716bg.lon
-listtype_hidden  : Bg 1.16–19
-listdate_hidden  : 1973-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : London
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 16
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 22:54
-Title_hidden     : Bhagavad-gītā 1.16–19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730716bg.lon.mp3|Bg 1.16-19 — July 16, 1973, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse]
 

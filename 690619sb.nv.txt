@@ -9,25 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.15 ======
 
----- dataentry spoken ----
-id_hidden        : 690619sb.nv # 
-listtype_hidden  : SB 1.5.15 # 
-listdate_hidden  : 1969-06-19
-showdate_hidden  : 2023-06-19 #
-listplace_hidden : New Vrindaban # 
-Type_spoken      : Śrīmad-Bhāgavatam # 
-Date_spoken      : June 19 # 
-Year_spoken      : 1969 # 
-Place_spoken     : New Vrindavan # 
-Length_hidden    : 00:00 # 
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.15 # 
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690619sb.nv.mp3|SB 1.5.15 — June 19, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 ...is not our Vaiṣṇava. If you say, you have to say this also. Yes.
 

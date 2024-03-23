@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720518le.la
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-05-18
-showdate_hidden  : 2023-05-18
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : May 18
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 37:33
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720518le.la.mp3|Lecture — May 18, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers]
 

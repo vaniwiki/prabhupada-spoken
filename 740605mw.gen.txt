@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740605mw.gen
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-06-05
-showdate_hidden  : 2023-06-05
-listplace_hidden : Geneva
-Type_spoken      : Morning Walk
-Date_spoken      : June 5
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 28:12
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740605mw.gen.mp3|Morning Walk — June 5, 1974, Geneva}}
-</audio>
-
 **Prabhupāda:**
 As soon as... Just like dog, he does not know that he is controlled by the master, //tch tch tch tch,// chain. He does not know. He is thinking, "I am now free. //Rau! Rau! Rau! Rau! Rau!//" This is the position, no difference between the dog and so-called big, big men. If the dog thinks that he is free and he can jump over anywhere freely, is it possible? No. Fully controlled under the master. He has accepted this control.
 

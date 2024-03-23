@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
----- dataentry spoken ----
-id_hidden        : 740227sb.cal
-listtype_hidden  : SB 1.2.6
-listdate_hidden  : 1974-02-27
-showdate_hidden  : 2023-02-27
-listplace_hidden : Calcutta
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 27
-Year_spoken      : 1974
-Place_spoken     : Calcutta
-Length_hidden    : 33:20
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740227sb.cal.mp3|SB 1.2.6 — February 27, 1974, Calcutta}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [devotees repeat]
 

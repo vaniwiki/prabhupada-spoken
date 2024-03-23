@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731230mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-30
-showdate_hidden  : 2023-12-30
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 30
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 41:30
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731230mw.la.mp3|Morning Walk — December 30, 1973, Los Angeles}}
-</audio>
-
 **Śrutakīrti:**
 [introducing tape] Morning Walk, December 30, 1973. [break]
 

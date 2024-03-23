@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.35 ======
 
----- dataentry spoken ----
-id_hidden        : 761122sb.vrn
-listtype_hidden  : SB 5.5.35
-listdate_hidden  : 1976-11-22
-showdate_hidden  : 2023-11-22
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 22
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 27:43
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.35
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761122sb.vrn.mp3|SB 5.5.35 — November 22, 1976, Vṛndāvana}}
-</audio>
-
 **Pradyumna:** ...absorbed in transcendental bliss, which increased a thousandfold. Lord Kṛṣṇa, Vāsudeva, the son of Vasudeva, is the original source of Lord Ṛṣabhadeva. There is no difference in Their constitution, and consequently Lord Ṛṣabhadeva awakened the loving symptoms of crying, laughing and shivering. He was always absorbed in transcendental love. Due to this, all mystic powers automatically approached Him, such as the ability to travel in outer space at the speed of mind, to appear and disappear, to enter the bodies of others and to see things far, far away. Although He could do all this, He did not exercise these powers."
 
 **Prabhupāda:**

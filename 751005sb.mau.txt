@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
----- dataentry spoken ----
-id_hidden        : 751005sb.mau
-listtype_hidden  : SB 1.2.6
-listdate_hidden  : 1975-10-05
-showdate_hidden  : 2023-10-05
-listplace_hidden : Mauritius
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 5
-Year_spoken      : 1975
-Place_spoken     : Mauritius
-Length_hidden    : 52:42
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751005sb.mau.mp3|SB 1.2.6 — October 5, 1975, Mauritius}}
-</audio>
-
 **Prabhupāda:**
 
 > sa vai puṁsāṁ paro dharmo

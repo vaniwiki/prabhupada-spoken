@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.6–7 ======
 
----- dataentry spoken ----
-id_hidden        : 681025bg.mon
-listtype_hidden  : Bg 13.6–7
-listdate_hidden  : 1968-10-25
-showdate_hidden  : 2023-10-25
-listplace_hidden : Montreal
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 25
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 13.6–7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681025bg.mon.mp3|Bg 13.6-7 — October 25, 1968, Montreal}}
-</audio>
-
 [Prabhupāda reads from commentary by Baladeva Vidyābhūṣaṇa]
 
 **Prabhupāda:**

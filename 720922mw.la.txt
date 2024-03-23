@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720922mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-09-22
-showdate_hidden  : 2023-09-22
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : September 22
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 04:48
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720922mw.la.mp3|Morning Walk — September 22, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...believes that "I am //kṛṣṇa-dāsa,//" all trouble. //Jīv kṛṣṇa-dās, ei viśvās korle to' ār duḥkho nāi// [Gītāvalī]. [//japa//] [break]
 

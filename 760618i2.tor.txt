@@ -9,24 +9,6 @@
 
 ====== Interview with Professors O’Connell, Motilal and Shivaram ======
 
----- dataentry spoken ----
-id_hidden        : 760618i2.tor
-listtype_hidden  : Interview
-listdate_hidden  : 1976-06-18
-showdate_hidden  : 2023-06-18
-listplace_hidden : Toronto
-Type_spoken      : Interview
-Date_spoken      : June 18
-Year_spoken      : 1976
-Place_spoken     : Toronto
-Length_hidden    : 101:26
-Title_hidden     : Interview with Professors O’Connell, Motilal and Shivaram
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760618i2.tor.mp3|Interview with Professors — June 18, 1976, Toronto}}
-</audio>
-
 **Prabhupāda:**
 Yes?
 

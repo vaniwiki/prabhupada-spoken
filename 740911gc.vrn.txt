@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740911gc.vrn
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1974-09-11
-showdate_hidden  : 2023-09-11
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 11
-Year_spoken      : 1974
-Place_spoken     : Vṛndāvana
-Length_hidden    : 46:19
-Title_hidden     : Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740911gc.vrn.mp3|Garden Conversation — September 11, 1974, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 It will go on like that. In America, in Moscow, why you are envious of me? That disease is there. His enviousness is a different quality. Actually, comparing with America, the people are more happy in America, not in Russia. It's a fact. I have seen it. They are terrorized. No freedom. So everyone is terrorized. They must be. What is that? Is that life? I have to live under terrorism conditions. I must do it. [indistinct] This is not life.
 

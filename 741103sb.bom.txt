@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.3 ======
 
----- dataentry spoken ----
-id_hidden        : 741103sb.bom
-listtype_hidden  : SB 3.25.3
-listdate_hidden  : 1974-11-03
-showdate_hidden  : 2023-11-03
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 3
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 35:00
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741103sb.bom.mp3|SB 3.25.3 — November 3, 1974, Bombay}}
-</audio>
-
 **Nitāi:**
 [leads chanting of verse, etc.] [devotees repeat]
 

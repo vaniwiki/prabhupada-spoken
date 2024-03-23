@@ -9,24 +9,6 @@
 
 ====== Lecture Engagement and Prasāda Distribution ======
 
----- dataentry spoken ----
-id_hidden        : 690426le.bos
-listtype_hidden  : Lecture Engagement and Prasāda Distribution
-listdate_hidden  : 1969-04-26
-showdate_hidden  : 2023-04-26
-listplace_hidden : Boston
-Type_spoken      : Lecture
-Date_spoken      : April 26
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Lecture Engagement and Prasāda Distribution
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690426le.bos.mp3|Lecture Engagement and Prasāda Distribution — April 26, 1969, Boston}}
-</audio>
-
 **Prabhupāda:**
 This age is called, according to the Vedic language, Kali. Kali-yuga means the age of disagreement and dissension. So in the //Vedas// it is recommended that //kṛte yad dhyāyato viṣṇu// [SB 12.3.52]. In the Golden Age... Of course, the //kṛte,// the Sanskrit word, exactly there is no English translation, but generally we have got a conception of Golden Age. So take it for granted that //kṛte, kṛte// means in the age when everyone was pure. Cent percent, people were pure. That is called Kṛta-yuga. The next //yuga// is called //Tretā,// when seventy-five percent of the people, they were pure, and twenty-five percent were not pure. And then //Dvāpara. Dvāpara// means fifty percent-fifty percent pure and fifty percent nonpure. Then this age is called Kali-yuga. Kali-yuga means seventy-five percent or more than seventy-five percent, they are impure, and twenty-five percent, I mean to say, that is in book, but actually ninety percent or more than that are impure and maybe five percent pure. This is the situation of this age. And they are also living very short time. In this age, life, duration of life, is reduced, memory is reduced, man's compassion is also reduced. Similarly, there are so many things, they are reduced. Although we are thinking that we are advancing, but actually the most important things we are reduced. Take for example the duration of life. Every one of us knowing very well that as your father or forefather or grandfather lived for long duration of life, it is very difficult to find out a man who is over seventy years or eighty years. I have got experience. My grandmother lived for ninety-five years.
 

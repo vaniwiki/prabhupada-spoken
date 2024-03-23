@@ -9,24 +9,6 @@
 
 ====== Talk After Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 680530rc.bos
-listtype_hidden  : Talk After Lecture
-listdate_hidden  : 1968-05-30
-showdate_hidden  : 2023-05-30
-listplace_hidden : Boston
-Type_spoken      : Room Conversation
-Date_spoken      : May 30
-Year_spoken      : 1968
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Talk After Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680530rc.bos.mp3|Talk After Lecture — May 30, 1968, Boston}}
-</audio>
-
 **Prabhupāda:**
 When the result of the //karma// is offered to God, then it is //karma-yoga.//
 

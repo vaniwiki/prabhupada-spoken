@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 711110ar.del
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1971-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : New Delhi
-Type_spoken      : Lecture
-Date_spoken      : November 10
-Year_spoken      : 1971
-Place_spoken     : New Delhi
-Length_hidden    : 00:00
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711110ar.del.mp3|Arrival Lecture — November 10, 1971, New Delhi}}
-</audio>
-
 **Prabhupāda:**
 ...Caitanya Mahāprabhu, //paraṁ vijayate śrī-kṛṣṇa-saṅkīrtanam:// All glories for the chanting of the holy name of Lord Kṛṣṇa. So this is the verdict of Vedic literature also. When Parīkṣit Mahārāja was talking with Śukadeva Goswāmī, he described the varieties of follies in this age of //kali-yuga.// But he pointed out that there is one great benediction in this age. //Kaler doṣa-nidhe rājann asti hy eko mahān guṇaḥ.// The faulty //kali-yuga// is just like an ocean of miserable condition, but there is one great opportunity. What is that? //Kīrtanād eva kṛṣṇasya mukta-saṅgaḥ paraṁ vrajet// [SB 12.3.51]. Simply by chanting the holy name of Lord Kṛṣṇa one becomes liberated, and he is elevated to the highest perfection of life. //Kīrtanād eva kṛṣṇasya mukta-saṅgaḥ paraṁ vrajet.// So Lord Caitanya preached this Kṛṣṇa //saṅkīrtana,// and He ordered every Indian. It is the duty of every Indian. We should be very much proud of becoming Indian to take our birth on the holy land of India. Caitanya Mahāprabhu says, //bhārata-bhūmite manuṣya-janma haila yāra// [[books:cc:adi:9:41|[Cc. Ādi 9.41]]]. Anyone who has taken birth in this holy land of Bharata-varṣa, //janma sārthaka kari':// just make your life perfect and distribute the knowledge all over the world. //Janma sārthaka kari kara para-upakāra. Para-upakāra.// India is meant for doing welfare activities to the world, but we have forgotten that. We are trying to imitate the Western country and technology, and we have thrown out our Vedic treasure-house, our transcendental knowledge treasure-house. So my Guru Mahārāja ordered me long, long ago, when I was twenty-five years old, my Guru Mahārāja ordered me to go to the foreign countries and preach Lord Caitanya's message. But somehow or other I could not assimilate his order until I was seventy years old. But it was better late than never. So also I was trying how to make a successful tour for preaching Caitanya Mahāprabhu's message. So by the grace of my Guru Mahārāja and by your blessings, I went to the Western countries and had such a very good response, very good response. I went there empty handed with forty rupees in my pocket and free ticket, return ticket, by the Scindia Steam Navigation Company. And for one year I had no place to live, I had no money to eat; still I was going here and there. Then in 1966... I went in America in 1965. After struggling for one year, in 1966 I incorporated this Kṛṣṇa consciousness, International Society for Kṛṣṇa Consciousness. So some of our friends suggested, "Why not make 'God Consciousness Society'?" and "No. 'Kṛṣṇa Consciousness.' If I make 'God Consciousness,' that will be a big task." //Kṛṣṇas tu bhagavān svayam// [[books:sb:1:3:28|[SB 1.3.28]]]. //Kṛṣṇas tu bhagavān svayam. Īśvaraḥ paramaḥ kṛṣṇah// [Bs. 5.1]. Therefore this distinctly should be the society for Kṛṣṇa consciousness.
 

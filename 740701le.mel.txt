@@ -9,24 +9,6 @@
 
 ====== La Trobe University Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 740701le.mel
-listtype_hidden  : La Trobe University Lecture
-listdate_hidden  : 1974-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : Melbourne
-Type_spoken      : Lecture
-Date_spoken      : July 1
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 35:52
-Title_hidden     : La Trobe University Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740701le.mel.mp3|La Trobe University Lecture — July 1, 1974, Melbourne}}
-</audio>
-
 **Madhudviṣa:**
 This afternoon His Divine Grace will be speaking from the //Bhagavad-gītā As It Is.// Some of you university students are familiar with the book the //Bhagavad-gītā.// The //Bhagavad-gītā// translated means "The Song of God." //Bhagavad-gītā// is spoken five thousand years ago, and the peculiarity about this presentation of the //Bhagavad-gītā// is that it is the //Bhagavad-gītā// as it is, not the //Bhagavad-gītā// as we think it was, but the //Bhagavad-gītā// as it is, as it was spoken by Kṛṣṇa to Arjuna five thousand years ago. Our spiritual master is sitting before you. His Divine Grace A. C. Bhaktivedanta Gosvāmī Mahārāja Śrīla Prabhupāda is in a direct disciplic succession from Kṛṣṇa. Five thousand years of masters and disciples have passed this knowledge of the //Bhagavad-gītā// down purely. So therefore, when our spiritual master speaks on the //Bhagavad-gītā,// he does not speak on the //Bhagavad-gītā// as he thinks it is. He speaks on the //Bhagavad-gītā// as it is. So without any more verbiage, I'll present our spiritual master.
 

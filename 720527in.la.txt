@@ -9,24 +9,6 @@
 
 ====== Sannyāsa Initiation Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720527in.la
-listtype_hidden  : Sannyāsa Initiation Lecture
-listdate_hidden  : 1972-05-27
-showdate_hidden  : 2023-05-27
-listplace_hidden : Los Angeles
-Type_spoken      : Initiation
-Date_spoken      : May 27
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 05:02
-Title_hidden     : Sannyāsa Initiation Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720527in.la.mp3|Sannyāsa Initiation Lecture — May 27, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 
 > Ahaṁ tariṣyāmi duranta-pāraṁ 

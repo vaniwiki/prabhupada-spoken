@@ -9,24 +9,6 @@
 
 ====== Hare Krishna Festival Address ======
 
----- dataentry spoken ----
-id_hidden        : 720701ad.sd
-listtype_hidden  : Hare Krishna Festival Address
-listdate_hidden  : 1972-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : San Diego
-Type_spoken      : Lecture
-Date_spoken      : July 1
-Year_spoken      : 1972
-Place_spoken     : San Diego
-Length_hidden    : 50:47
-Title_hidden     : Hare Krishna Festival Address At Balboa Park Bowl
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720701ad.sd.mp3|Hare Krishna Festival Address — July 1, 1972, San Diego}}
-</audio>
-
 [//kirtana//]
 
 **Prabhupāda:**

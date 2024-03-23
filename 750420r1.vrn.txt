@@ -9,24 +9,6 @@
 
 ====== Conversation with Governor ======
 
----- dataentry spoken ----
-id_hidden        : 750420r1.vrn
-listtype_hidden  : Conversation with Governor
-listdate_hidden  : 1975-04-20
-showdate_hidden  : 2023-04-20
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : April 20
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 42:13
-Title_hidden     : Conversation with Governor
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750420r1.vrn.mp3|Conversation with Governor — April 20, 1975, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...that everyone is doing his own duty. Never mind if you are Christian or if you are a Muslim or a Hindu, that what is your duty, what is said in your scripture, you must be doing it. Not that "Because it is secular, I can do whatever I like."
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhagavatam 1.2.17 ======
 
----- dataentry spoken ----
-id_hidden        : 740718sb.nv
-listtype_hidden  : Śrīmad-Bhagavatam 1.2.17
-listdate_hidden  : 1974-07-18
-showdate_hidden  : 2023-07-18
-listplace_hidden : New Vrindavan
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 18
-Year_spoken      : 1974
-Place_spoken     : New Vrindavan
-Length_hidden    : 22:22
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.17
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740718sb.nv.mp3|Śrīmad-Bhagavatam 1.2.17 — July 18, 1974, New Vrindavan}}
-</audio>
-
 [recorded on faulty equipment]
 
 **Nitāi:** "Sri Kṛṣṇa, the Personality of Godhead, who is the Paramātmā [Supersoul] in everyone’s heart and the benefactor of all the truthful devotees, cleanses the desire for material enjoyment from the heart of the devotee who relishes His messages, which are in themselves virtuous when properly heard and chanted."

@@ -9,24 +9,6 @@
 
 ====== Wedding Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 711117we.del
-listtype_hidden  : Wedding
-listdate_hidden  : 1971-11-17
-showdate_hidden  : 2023-11-17
-listplace_hidden : New Delhi
-Type_spoken      : Lecture
-Date_spoken      : November 17
-Year_spoken      : 1971
-Place_spoken     : New Delhi
-Length_hidden    : 00:00
-Title_hidden     : Wedding Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711117we.del.mp3|Wedding Lecture — November 17, 1971, New Delhi}}
-</audio>
-
 **Prabhupāda:**
 This marriage is being performed as //gandharva// marriage, simply by changing the garlands. In the Kali-yuga, the other kinds of marriage, selected by the parents, that is not possible. Therefore, one of the marriage system, //gandharva// marriage, is accepted. And simply by changing the garlands and promising. [Sanskrit] That is stated in the //Śrīmad-Bhāgavatam.// In the Kali-yuga, simply by accepting, the man accepts the woman as wife and the woman accepts the man as husband, that is the vow. //Svīkāra eva hi udvāhe.// Simply by acceptance. Because other things are not possible. And without marriage, that is not civilized life, because in the animal society there is no marriage. But in any form of civilized society there is marriage. Everyone has got sex appetite. Therefore, marriage is allowed by the Vedic system. And Kṛṣṇa says in the //Bhagavad-gītā// that //dharmāviruddho kāmo 'smi,// "//Kāma,// lust, which is not against religious principles, that is I am."
 

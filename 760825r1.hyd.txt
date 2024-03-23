@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760825r1.hyd
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-08-25
-showdate_hidden  : 2023-08-25
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : August 25
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 22:34
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760825r1.hyd.mp3|Room Conversation — August 25, 1976, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 I am sitting in this room.
 

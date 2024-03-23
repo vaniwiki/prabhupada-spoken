@@ -9,24 +9,6 @@
 
 ====== Initiation of Bali-mardana Dāsā ======
 
----- dataentry spoken ----
-id_hidden        : 680729in.mon
-listtype_hidden  : Initiation of Bali-mardana Dāsā
-listdate_hidden  : 1968-07-29
-showdate_hidden  : 2023-07-29
-listplace_hidden : Montreal
-Type_spoken      : Initiation
-Date_spoken      : July 29
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Initiation of Bali-mardana Dāsā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680729in.mon.mp3|Initiation of Bali-mardana Dāsā — July 29, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 Two //brahmacārīs// will be initiated in Kṛṣṇa consciousness. You can come forward. Yes. [break] ...means the beginning and the beginning of Kṛṣṇa consciousness. Because at the present moment we are merged into non-Kṛṣṇa consciousness... [aside:] Oh, this sound, down. No, in this.
 

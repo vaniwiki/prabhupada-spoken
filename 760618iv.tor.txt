@@ -9,24 +9,6 @@
 
 ====== Interview with Kathy Kerr Reporter from The Star ======
 
----- dataentry spoken ----
-id_hidden        : 760618iv.tor
-listtype_hidden  : Interview
-listdate_hidden  : 1976-06-18
-showdate_hidden  : 2023-06-18
-listplace_hidden : Toronto
-Type_spoken      : Interview
-Date_spoken      : June 18
-Year_spoken      : 1976
-Place_spoken     : Toronto
-Length_hidden    : 39:29
-Title_hidden     : Interview with Kathy Kerr Reporter from The Star
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760618iv.tor.mp3|Interview with Kathy Kerr Reporter from The Star — June 18, 1976, Toronto}}
-</audio>
-
 **Kathy Kerr:**
 Umm, I was wondering what brings you to Canada right now. Is it some particular occasion you're [indistinct]?
 

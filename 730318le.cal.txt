@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730318le.cal
-listtype_hidden  : Lecture
-listdate_hidden  : 1973-03-18
-showdate_hidden  : 2023-03-18
-listplace_hidden : Calcutta
-Type_spoken      : Lecture
-Date_spoken      : March 18
-Year_spoken      : 1973
-Place_spoken     : Calcutta
-Length_hidden    : 18:20
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730318le.cal.mp3|Lecture — March 18, 1973, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 ...he is speaking about knowledge, perfect knowledge. Knowledge received from common man or any person within this material world, infected with four kinds of defects, cannot be perfect. The so-called scientists, philosophers, mental speculators or dramatists or writers, as we experience, their talkings all are nonsense---this is our challenge---because the basic principle of their knowledge is ignorance, //ajñāna.// Big, big scientists, they simply theorize, and they try to support their theories with the words, "it may be," "perhaps."
 

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740709mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-07-09
-showdate_hidden  : 2023-07-09
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : July 9
-Year_spoken      : 1974
-Place_spoken     : Los Angeles
-Length_hidden    : 18:04
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740709mw.la.mp3|Morning Walk — July 9, 1974, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Now if they say that the killing means murdering, that means the people amongst whom Christ was preaching, they were accustomed to kill men. So what class of men they are? What was the society? A society of murderers. So what they will understand about religion, a murderer?
 

@@ -9,24 +9,6 @@
 
 ====== Nitāi Guṇa Mani Āmāra ======
 
----- dataentry spoken ----
-id_hidden        : 720923mu.la
-listtype_hidden  : Nitāi Guṇa Mani Āmāra
-listdate_hidden  : 1972-09-23
-showdate_hidden  : 2023-09-23
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : September 23
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 30:51
-Title_hidden     : Nitāi Guṇa Mani Āmāra
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720923mu.la.mp3|Nitāi Guṇa Mani Āmāra — September 23, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [harmonium, //mṛdaṅga, karatālas//]
 

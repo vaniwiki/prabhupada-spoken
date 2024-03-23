@@ -9,24 +9,6 @@
 
 ====== Lecture to College Students ======
 
----- dataentry spoken ----
-id_hidden        : 681020le.sea
-listtype_hidden  : Lecture to College Students
-listdate_hidden  : 1968-10-20
-showdate_hidden  : 2023-10-20
-listplace_hidden : Seattle
-Type_spoken      : Lecture
-Date_spoken      : October 20
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Lecture to College Students
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681020le.sea.mp3|Lecture to College Students — October 20, 1968, Seattle}}
-</audio>
-
 [//kīrtana, prema-dhvanī//]
 
 **Tamāla Kṛṣṇa:**

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.18 ======
 
----- dataentry spoken ----
-id_hidden        : 740704sb.chi
-listtype_hidden  : SB 1.8.18
-listdate_hidden  : 1974-07-04
-showdate_hidden  : 2023-07-04
-listplace_hidden : Chicago
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 4
-Year_spoken      : 1974
-Place_spoken     : Chicago
-Length_hidden    : 30:10
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740704sb.chi.mp3|SB 1.8.18 — July 4, 1974, Chicago}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse]
 

@@ -9,24 +9,6 @@
 
 ====== Evening Walk [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 760804ew.nmr
-listtype_hidden  : Evening Walk
-listdate_hidden  : 1976-08-04
-showdate_hidden  : 2023-08-04
-listplace_hidden : New Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : August 4
-Year_spoken      : 1976
-Place_spoken     : New Māyāpur
-Length_hidden    : 01:39
-Title_hidden     : Evening Walk [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760804ew.nmr.mp3|Evening Walk [partially recorded] — August 4, 1976, New Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 Oh, can I see? [break]
 

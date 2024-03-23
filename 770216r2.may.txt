@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770216r2.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-02-16
-showdate_hidden  : 2023-02-16
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 16
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 24:25
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770216r2.may.mp3|Room Conversation — February 16, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 //...etad anyathā ajñānam// [[books:bg:13:8-12|[Bg. 13.12]]]. Find out //Bhagavad-gītā.// This is knowledge. All other things are bogus. Otherwise how could I convince big, big scientists? They are not ordinary men, Doctor, that Svarūpa Dāmodara, one of the first-class scientists. He has got very good degree from Calcutta University, from other university, M.A.C. and other. He is very intelligent boy. He studies science very particularly, means sound knowledge. How he's attached?
 

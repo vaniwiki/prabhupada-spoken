@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Dr. Inger, UNESCO Worker ======
 
----- dataentry spoken ----
-id_hidden        : 730810r3.par
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-08-10
-showdate_hidden  : 2023-08-10
-listplace_hidden : Paris
-Type_spoken      : Room Conversation
-Date_spoken      : August 10
-Year_spoken      : 1973
-Place_spoken     : Paris
-Length_hidden    : 38:44
-Title_hidden     : Room Conversation with Dr. Inger, UNESCO Worker
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730810r3.par.mp3|Room Conversation with Dr. Inger, UNESCO Worker — August 10, 1973, Paris}}
-</audio>
-
 **Bhagavān:**
 Śrīla Prabhupāda, this is Dr. Inger.
 

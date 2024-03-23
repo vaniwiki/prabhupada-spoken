@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 731105r2.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-11-05
-showdate_hidden  : 2023-11-05
-listplace_hidden : Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : November 5
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 34:24
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731105r2.del.mp3|Room Conversation — November 5, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 //Abodha-jātaḥ. Sadah.// That the, the bodily, external duty, done exactly to the point, but did not take to Kṛṣṇa consciousness, //abodha-jātaḥ.// Just like people say, "What is the use of this //saṅkīrtana?// We are doing our duty. We are living very honestly." For such person it is impossible. You may live very honestly---you may do your duty very honestly---in spite of all these things, because you are not taking to Kṛṣṇa consciousness, you are simply being defeated. And another of these things they make.
 

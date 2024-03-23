@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751226mw.san
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-12-26
-showdate_hidden  : 2023-12-26
-listplace_hidden : Sanand
-Type_spoken      : Morning Walk
-Date_spoken      : December 26
-Year_spoken      : 1975
-Place_spoken     : Sanand
-Length_hidden    : 06:00
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751226mw.san.mp3|Morning Walk — December 26, 1975, Sanand}}
-</audio>
-
 **Prabhupāda:**
 How degraded they have become. There is no food, and they are busy for growing tobacco.
 

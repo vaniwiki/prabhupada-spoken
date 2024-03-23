@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 680716rc.mon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1968-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : Montreal
-Type_spoken      : Room Conversation
-Date_spoken      : July 16
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680716rc.mon.mp3|Room Conversation — July 16, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 Very soon we shall have our own publication. Macmillan Company. [pause] What is your report?
 

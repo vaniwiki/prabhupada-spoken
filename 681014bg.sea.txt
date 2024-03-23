@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.20–25 ======
 
----- dataentry spoken ----
-id_hidden        : 681014bg.sea
-listtype_hidden  : Bg 2.20–25
-listdate_hidden  : 1968-10-14
-showdate_hidden  : 2023-10-14
-listplace_hidden : Seattle
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 14
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 2.20–25
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681014bg.sea.mp3|Bg 2.20-25 — October 14, 1968, Seattle}}
-</audio>
-
 **Viṣṇujana:**
 "For the soul there is never birth nor death. Nor, having once been, does he ever cease to be. He is unborn, eternal, ever-existing, undying and primeval. He is not... [[books:bg:2:20|[Bg. 2.20]]]"
 

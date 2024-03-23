@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Niavaran Park ======
 
----- dataentry spoken ----
-id_hidden        : 760808mw.teh
-listtype_hidden  : Morning Walk at Niavaran Park
-listdate_hidden  : 1976-08-08
-showdate_hidden  : 2023-08-08
-listplace_hidden : Tehran
-Type_spoken      : Morning Walk
-Date_spoken      : August 8
-Year_spoken      : 1976
-Place_spoken     : Tehran
-Length_hidden    : 32:44
-Title_hidden     : Morning Walk at Niavaran Park
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760808mw.teh.mp3|Morning Walk at Niavaran Park — August 8, 1976, Tehran}}
-</audio>
-
 **Hari-śauri:**
 [explaining to Pradyumna how to use the tape recorder for recording the morning walk] See? That shows it's playing now it is recoding also. You can see here it's recording. These are already set that is automatic level control, so thats alright. So on the morning walk just take your finger off, just like the early Uher.
 

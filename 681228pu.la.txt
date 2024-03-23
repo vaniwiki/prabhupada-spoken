@@ -9,24 +9,6 @@
 
 ====== Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 681228pu.la
-listtype_hidden  : Śrī Śrī Śikṣāṣṭakam
-listdate_hidden  : 1968-12-28
-showdate_hidden  : 2023-12-28
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : December 28
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681228pu.la.mp3|Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded] — December 28, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [chants first four verses] Lord Caitanya Mahāprabhu instructed His disciples to write books on the science of Kṛṣṇa consciousness. A task which those who follow Him have continued to carry out down to the present day. The elaboration and exposition on the philosophy taught by Lord Caitanya are in fact the most voluminous, exacting, and consistent, due to the unbreakable system of disciplic succession of any religious culture in the world. Yet Lord Caitanya in His youth widely renowned as a scholar Himself, left us only eight verses called //Śikṣāṣṭaka.//
 

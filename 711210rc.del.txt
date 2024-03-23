@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 711210rc.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-12-10
-showdate_hidden  : 2023-12-10
-listplace_hidden : New Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : December 10
-Year_spoken      : 1971
-Place_spoken     : New Delhi
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711210rc.del.mp3|Room Conversation — December 10, 1971, New Delhi}}
-</audio>
-
 **Prabhupāda:**
 
 > [yasyātmā buddhiḥ kuṇape tri-dhātuke]

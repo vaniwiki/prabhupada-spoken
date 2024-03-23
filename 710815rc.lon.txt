@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 710815rc.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-08-15
-showdate_hidden  : 2023-08-15
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : August 15
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710815rc.lon.mp3|Room Conversation — August 15, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 Simply we shall sell retail in our //saṅkīrtana.// Let them sell to the bookstore. We shall not sell a single copy to the bookstore, or wholesaler. We shall simply sell in our //saṅkīrtana// party. In this way arrange...[break]
 

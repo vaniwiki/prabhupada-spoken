@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 720608le.la
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1972-06-08
-showdate_hidden  : 2023-06-08
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : June 8
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 05:33
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720608le.la.mp3|Lecture [partially recorded] — June 8, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 The person in knowledge, he must see that "I cannot avoid death, I cannot avoid birth, I cannot avoid old age, I cannot avoid disease so long I have got this material body." But Kṛṣṇa says, //janma karma me divyaṁ yo jānāti tattvataḥ// [[books:bg:4:9|[Bg. 4.9]]]: "Anyone who understands Me in reality, what I am, then he immediately becomes immune from these four things." //Tyaktvā dehaṁ punar janma naiti// [[books:bg:4:9|[Bg. 4.9]]]. After giving up this... This body we have to give up. And then next body, //tathā dehāntara-prāptir...// [[books:bg:2:13|[Bg. 2.13]]] So a devotee at least is not going to be cats and dogs or trees.
 

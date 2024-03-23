@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.16–24 ======
 
----- dataentry spoken ----
-id_hidden        : 690217bg.la
-listtype_hidden  : Bg 6.16–24
-listdate_hidden  : 1969-02-17
-showdate_hidden  : 2023-02-17
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 17
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.16–24
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690217bg.la.mp3|Bg 6.16-24 — February 17, 1969, Los Angeles}}
-</audio>
-
 **Devotee:**
 Verse sixteen: "There is no possibility of one's becoming a yogi, O Arjuna, if one eats too much, or eats too little, sleeps too much or does not sleep enough [[books:bg:6:16|[Bg. 6.16]]]."
 

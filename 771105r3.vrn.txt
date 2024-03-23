@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771105r3.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-05
-showdate_hidden  : 2023-11-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 5
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 06:53
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771105r3.vrn.mp3|Room Conversation — November 5, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 ...the medicine can be given for ten or twelve days, and everything will go exactly according to some plan. This was my point from the beginning. It's not a very difficult thing. The //kavirāja// probably can adjust it very easily to stop stool from passing. Naturally, if you stop the medicine, maybe the stool will stop, but that doesn't actually solve the problem. That doesn't cure the disease. The disease is not that you're passing stool. That's a side effect of, perhaps, the medicine or maybe something you're eating. The medicine is required for getting better, but now, if the medicine causes you to pass stool---if that's actually the reason---then it has to be adjusted.
 

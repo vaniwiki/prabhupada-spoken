@@ -9,24 +9,6 @@
 
 ====== Interview ======
 
----- dataentry spoken ----
-id_hidden        : 720630iv.sd
-listtype_hidden  : Interview
-listdate_hidden  : 1972-06-30
-showdate_hidden  : 2023-06-30
-listplace_hidden : San Diego
-Type_spoken      : Interview
-Date_spoken      : June 30
-Year_spoken      : 1972
-Place_spoken     : San Diego
-Length_hidden    : 76:21
-Title_hidden     : Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720630iv.sd.mp3|Interview — June 30, 1972, San Diego}}
-</audio>
-
 [indistinct, microphone moving]
 
 **Prabhupāda:**

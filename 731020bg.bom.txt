@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.22 ======
 
----- dataentry spoken ----
-id_hidden        : 731020bg.bom
-listtype_hidden  : Bg 13.22
-listdate_hidden  : 1973-10-20
-showdate_hidden  : 2023-10-20
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : October 20
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 18:45
-Title_hidden     : Bhagavad-gītā 13.22
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731020bg.bom.mp3|Bg 13.22 — October 20, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

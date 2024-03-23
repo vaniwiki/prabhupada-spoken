@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.5.22–30 ======
 
----- dataentry spoken ----
-id_hidden        : 710908sb.lon
-listtype_hidden  : SB 7.5.22–30
-listdate_hidden  : 1971-09-08
-showdate_hidden  : 2023-09-08
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 8
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.5.22–30
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710908sb.lon.mp3|SB 7.5.22-30 — September 8, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 Prahlāda Mahārāja at the age of five years only he was a great devotee. Prahlāda Mahārāja is one of the //mahājanas,// great authorities of this line, devotional line. [aside:] You can take your seats. To understand God and to understand our relationship with God, it is not to be done by mental speculation. It is not possible. God is not so cheap thing that one can understand by mental speculation. In the present age people are very much fond of mental speculation. In the //śāstra// it is said, //tarko apratiṣṭhaḥ:// [[books:cc:madhya:17:186|[Cc. Madhya 17.186]]] "Simply by arguing you cannot come to the right conclusion." You may be very good arguer, but another arguer may defeat you by his argument. So in this way, simply by dry arguments it is not possible to come to the conclusion. //Tarko 'pratiṣṭha śrutayo vibhinnāḥ.// Scripture. There are different scriptures. If you simply... Scripture means Vedic, //Vedas.// There are four //Vedas// and many other also, corollaries. So by studying at home these books, that is also not possible to understand. And //nāsau munir yasya mataṁ na bhinnam.// And if you follow philosophers, so one philosopher is differing from another philosopher. Just like our Śyāmasundara has brought one book, //Ideas of Philosophers,// different philosophers talking differently. So how you can take the conclusion? Even Aristotle, he is talking so many things nonsense. So mental speculators, philosophers. In this way you cannot.
 

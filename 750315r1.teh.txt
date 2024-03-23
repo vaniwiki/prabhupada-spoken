@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750315r1.teh
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-03-15
-showdate_hidden  : 2023-03-15
-listplace_hidden : Tehran
-Type_spoken      : Room Conversation
-Date_spoken      : March 15
-Year_spoken      : 1975
-Place_spoken     : Tehran
-Length_hidden    : 46:57
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750315r1.teh.mp3|Room Conversation — March 15, 1975, Tehran}}
-</audio>
-
 **Prabhupāda:**
 //...manda-bhāgyā hy upadrutāḥ// [[books:sb:1:1:10|[SB 1.1.10]]]. This is the position of the people. Their span of life is shortening. Nobody is living long life. And if he’s little long life, then people will commit suicide. Before coming out of India I heard one of our members, a big industrialist, he has committed suicide in Calcutta. So perhaps you know. He committed suicide in falling from the Wellington Bridge to the Ganges.
 

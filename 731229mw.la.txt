@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731229mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-29
-showdate_hidden  : 2023-12-29
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 29
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 08:10
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731229mw.la.mp3|Morning Walk — December 29, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ... [indistinct] not come?
 

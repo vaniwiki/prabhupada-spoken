@@ -9,24 +9,6 @@
 
 ====== Radio Interview ======
 
----- dataentry spoken ----
-id_hidden        : 680312iv.sf
-listtype_hidden  : Radio Interview
-listdate_hidden  : 1968-03-12
-showdate_hidden  : 2023-03-12
-listplace_hidden : San Francisco
-Type_spoken      : Interview
-Date_spoken      : March 12
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Radio Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680312iv.sf.mp3|Radio Interview — March 12, 1968, San Francisco}}
-</audio>
-
 **Interviewer:**
 Swami, will you get a little closer to that microphone, if you will. You are the head of ISKCON, the International Society for Krishna Consciousness.
 

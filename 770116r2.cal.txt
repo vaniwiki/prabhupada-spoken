@@ -9,24 +9,6 @@
 
 ====== Room Conversation on 1976 Book Scores ======
 
----- dataentry spoken ----
-id_hidden        : 770116r2.cal
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-16
-showdate_hidden  : 2023-01-16
-listplace_hidden : Calcutta
-Type_spoken      : Room Conversation
-Date_spoken      : January 16
-Year_spoken      : 1977
-Place_spoken     : Calcutta
-Length_hidden    : 22:42
-Title_hidden     : Room Conversation on 1976 Book Scores
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770116r2.cal.mp3|Room Conversation on 1976 Book Scores — January 16, 1977, Calcutta}}
-</audio>
-
 **Rāmeśvara:**
 This is a very bad picture. It makes the devotee look very strange. And they have this elaborate //ghee// holder.
 

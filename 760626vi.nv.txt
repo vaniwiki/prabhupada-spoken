@@ -9,24 +9,6 @@
 
 ====== Marble Shop Visit ======
 
----- dataentry spoken ----
-id_hidden        : 760626vi.nv
-listtype_hidden  : Marble Shop
-listdate_hidden  : 1976-06-26
-showdate_hidden  : 2023-06-26
-listplace_hidden : New Vrindavan
-Type_spoken      : Lecture
-Date_spoken      : June 26
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 05:16
-Title_hidden     : Marble Shop Visit
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760626vi.nv.mp3|Marble Shop Visit — June 26, 1976, New Vrindavan}}
-</audio>
-
 **Hari-śauri:**
 [announces] Prabhupāda visits the marble shop. [break]
 

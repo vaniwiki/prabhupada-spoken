@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740424mw.hyd
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-04-24
-showdate_hidden  : 2023-04-24
-listplace_hidden : Hyderabad
-Type_spoken      : Morning Walk
-Date_spoken      : April 24
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 21:04
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740424mw.hyd.mp3|Morning Walk — April 24, 1974, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 ...drawing the attention of the papers. And now so many papers, they have published his statement. There are four, five, ten [indistinct], but about our... What is his name?
 

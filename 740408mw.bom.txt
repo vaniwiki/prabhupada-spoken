@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740408mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-04-08
-showdate_hidden  : 2023-04-08
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : April 8
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 34:05
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740408mw.bom.mp3|Morning Walk — April 8, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 That is not possible. If... They are very, very great, powerful. Even apparently it seems that they were victims of beauty, that is not the fact.
 

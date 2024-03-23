@@ -9,24 +9,6 @@
 
 ====== Life Member House Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 750414l2.hyd
-listtype_hidden  : Life Member House Lecture
-listdate_hidden  : 1975-04-14
-showdate_hidden  : 2023-04-14
-listplace_hidden : Hyderabad
-Type_spoken      : Lecture
-Date_spoken      : April 14
-Year_spoken      : 1975
-Place_spoken     : Hyderabad
-Length_hidden    : 26:11
-Title_hidden     : Life Member House Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750414l2.hyd.mp3|Life Member House Lecture — April 14, 1975, Hyderabad}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] this, I can keep it, no? This I can keep it, no?
 

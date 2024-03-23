@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761004r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-10-04
-showdate_hidden  : 2023-10-04
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 4
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 14:27
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761004r1.vrn.mp3|Room Conversation — October 4, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 People have got already very respect now for the... [break] You should maintain the temple. They already call it //angrej// [English] temple. But still people come. But if you make a //mleccha// temple... Actually, [laughs] they can say like that, but still they come. But their awe and veneration may be disturbed..., may not be disturbed. That is management.
 

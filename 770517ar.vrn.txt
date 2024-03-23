@@ -9,24 +9,6 @@
 
 ====== Arrival Speech ======
 
----- dataentry spoken ----
-id_hidden        : 770517ar.vrn
-listtype_hidden  : Arrival Speech
-listdate_hidden  : 1977-05-17
-showdate_hidden  : 2023-05-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Lecture
-Date_spoken      : May 17
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 03:32
-Title_hidden     : Arrival Speech
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770517ar.vrn.mp3|Arrival Speech — May 17, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 //Jaya.//
 

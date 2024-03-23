@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Cheviot Hills Park ======
 
----- dataentry spoken ----
-id_hidden        : 730419mw.la
-listtype_hidden  : Morning Walk at Cheviot Hills Park
-listdate_hidden  : 1973-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : April 19
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 53:48
-Title_hidden     : Morning Walk at Cheviot Hills Park
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730419mw.la.mp3|Morning Walk at Cheviot Hills Park — April 19, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 There is such proposition that he should exist, he should not exist. Then there must be some authority to give such order. That is answered in //Bhagavad-gītā.// Kṛṣṇa says, //mayādhyakṣeṇa// [[books:bg:9:10|[Bg. 9.10]]]: "Under My superintendence, nature is working." //Harer nāma harer nāma harer nāma...// [[books:cc:adi:17:21|[Cc. Ādi 17.21]]].
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 710903rc.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-09-03
-showdate_hidden  : 2023-09-03
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : September 3
-Year_spoken      : 1971
-Place_spoken     : London
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710903rc.lon.mp3|Room Conversation — September 3, 1971, London}}
-</audio>
-
 **Prabhupāda:**
 ...colleges, universities, that will be very nice.
 

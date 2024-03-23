@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760905r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-09-05
-showdate_hidden  : 2023-09-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 5
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 45:56
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760905r1.vrn.mp3|Room Conversation — September 5, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] ...No, that is wrong. [indistinct]. //Sannyāsī// should go on preaching, preaching, preaching, preaching. Practically, I was sitting here in Vṛndāvana, in Rādhā-Dāmodara temple. So at the age of seventy years, nobody goes out. At least from Vṛndāvana nobody goes at the age of seventy years. But Kṛṣṇa asked me. I thought that "I must go. Guru Mahārāja wanted it, Caitanya Mahāprabhu... Let me try." So if I had not gone, then this institution would not have developed. So this is practical. //Mahataḥ nirvicaraṇam.//[?] //Mahātmā,// they must move. So when there is absolute necessity they may stay. Otherwise, they must move. Move on, move on, move on, move on, move on. No staying. That is principle. No staying. I am this old age, I cannot move... My... I... So many... Still I am traveling all over the world. I am simply interested that whatever I have done, it may not be vanquished in my absence. Let me go and encourage them. Otherwise, I have no capacity to move now. But still I am moving, only for this purpose. //Girinaṁ gṛhna-cetasam//[?]. So a //sannyāsī// must move. A //sannyāsī// must not stay anywhere more than three days. That is the principle. So he was moving, but his moving is creating disturbances here. Therefore I have stopped. And besides that, a temple is //nirguṇa.// A //sannyāsī// is forbidden to stay anywhere else, but in a temple he can stay for more than three days, provided there is business. Otherwise, there is no necessity. So this is the exclusion[?].
 

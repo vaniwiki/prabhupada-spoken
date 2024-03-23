@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Indonesian Scholar ======
 
----- dataentry spoken ----
-id_hidden        : 730227r1.jkt
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-02-27
-showdate_hidden  : 2023-02-27
-listplace_hidden : Jakarta
-Type_spoken      : Room Conversation
-Date_spoken      : February 27
-Year_spoken      : 1973
-Place_spoken     : Jakarta
-Length_hidden    : 71:12
-Title_hidden     : Room Conversation with Indonesian Scholar
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730227r1.jkt.mp3|Room Conversation with Indonesian Scholar — February 27, 1973, Jakarta}}
-</audio>
-
 [poor audio]
 
 **Scholar:**

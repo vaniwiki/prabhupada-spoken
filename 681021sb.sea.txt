@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.8 ======
 
----- dataentry spoken ----
-id_hidden        : 681021sb.sea
-listtype_hidden  : SB 7.9.8
-listdate_hidden  : 1968-10-21
-showdate_hidden  : 2023-10-21
-listplace_hidden : Seattle
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 21
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681021sb.sea.mp3|SB 7.9.8 — October 21, 1968, Seattle}}
-</audio>
-
 **Prabhupāda:**
 ...something about the prayers of Prahlāda Mahārāja.
 

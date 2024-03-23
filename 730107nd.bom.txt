@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 730107nd.bom
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1973-01-07
-showdate_hidden  : 2023-01-07
-listplace_hidden : Bombay
-Type_spoken      : Nectar of Devotion
-Date_spoken      : January 7
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 48:15
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730107nd.bom.mp3|The Nectar of Devotion — January 7, 1973, Bombay}}
-</audio>
-
 **Pradyumna:**
 [reading] ...Lord Śrī Kṛṣṇa is the Supreme Personality of Godhead, the cause of all causes, the reservoir of all //rasas,// or relationships, which are called neutrality, or passive adoration; servitorship; friendship; parenthood; conjugal love; comedy; compassion; fear; chivalry; ghastliness; wonder; and devastation. He is the supreme attractive form, and by His universal and transcendental attractive features, He has captivated all the //gopīs,// headed by Tārakā, Pālikā, Śyāmā, Lalitā and, ultimately, Śrīmatī Rādhārāṇī. Let His Lordship's grace be on us..."
 

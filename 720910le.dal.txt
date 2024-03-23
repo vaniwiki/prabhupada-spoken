@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720910le.dal
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-09-10
-showdate_hidden  : 2023-09-10
-listplace_hidden : Dallas
-Type_spoken      : Lecture
-Date_spoken      : September 10
-Year_spoken      : 1972
-Place_spoken     : Dallas
-Length_hidden    : 43:57
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720910le.dal.mp3|Lecture — September 10, 1972, Dallas}}
-</audio>
-
 **Prabhupāda:**
 You can read them or you can simply take this process of chanting Hare Kṛṣṇa:
 

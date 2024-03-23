@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 721110mw.vrn
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : November 10
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 23:07
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721110mw.vrn.mp3|Morning Walk — November 10, 1972, Vṛndāvana}}
-</audio>
-
 **Guru dāsa:**
 Prabhupāda on a morning walk, 10th of November.
 

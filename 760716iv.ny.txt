@@ -9,24 +9,6 @@
 
 ====== Interview with Religious Editor of the Associated Press ======
 
----- dataentry spoken ----
-id_hidden        : 760716iv.ny
-listtype_hidden  : Interview
-listdate_hidden  : 1976-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : New York
-Type_spoken      : Interview
-Date_spoken      : July 16
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 61:34
-Title_hidden     : Interview with George Orwell Religious Editor of the Associated Press
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760716iv.ny.mp3|Interview with Religious Editor of the Associated Press — July 16, 1976, New York}}
-</audio>
-
 **Prabhupāda:**
 Laboring.
 

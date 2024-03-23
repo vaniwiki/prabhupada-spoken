@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.6–15 ======
 
----- dataentry spoken ----
-id_hidden        : 680912sb.sf
-listtype_hidden  : SB 6.1.6–15
-listdate_hidden  : 1968-09-12
-showdate_hidden  : 2023-09-12
-listplace_hidden : San Francisco
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 12
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.6–15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680912sb.sf.mp3|SB 6.1.6-15 — September 12, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] So we have been discussing the talks between Śukadeva Gosvāmī and Mahārāja Parīkṣit. The question is how one can be delivered from the miserable condition of hellish life. The nature's illusory methods are two kinds: one is covering energy, and another is throwing energy. Nature is acting upon us in two ways. Just like somebody may think that "Here is a nice movement, Kṛṣṇa conscious movement. Let me take part in this." And nature dictates, "Why shall you go there? Don't go there. Better enjoy like this." This is throwing energy. Throws him from the path. And another is covering energy. Covering energy means a person or a living entity may remain in the most abominable condition, still, he thinks he's happy. He's happy. Just like you have seen many friends in the diseased condition on the bed. And if you go to see him, "How you are feeling?" and he'll say, "Yes, I am all right." He's on the diseased condition. What is the meaning of this "all right"? This is also covering energy. So anyone, in a..., however... A dog, in such abominable condition, still, he's joyful. He thinks, "I am very happy." A hog, any animal... We are human beings; we are given better facilities of life. The animals are not given so much facilities by nature, but still, they feel happy. If we say, of course, straight, somebody may be sorry, but this is nature's law. So however abominable condition it may be, one feels that he's happy.
 

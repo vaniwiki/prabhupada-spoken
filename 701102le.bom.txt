@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 701102le.bom
-listtype_hidden  : Lecture
-listdate_hidden  : 1970-11-02
-showdate_hidden  : 2023-11-02
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : November 2
-Year_spoken      : 1970
-Place_spoken     : Bombay
-Length_hidden    : 00:00 
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701102le.bom.mp3|Lecture — November 2, 1970, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] Before speaking on the verses already quoted by my disciples, I may be permitted to read a portion of my preface to the Hare Kṛṣṇa Movement. Those who are my, our life members, they have got the //Śrīmad-Bhavagatam,// First Canto, Part One. There you'll find this preface. But for general information as to the need of this Kṛṣṇa consciousness movement, I may read a portion of it.
 

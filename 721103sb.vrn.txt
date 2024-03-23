@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.23 ======
 
----- dataentry spoken ----
-id_hidden        : 721103sb.vrn
-listtype_hidden  : SB 1.2.23
-listdate_hidden  : 1972-11-03
-showdate_hidden  : 2023-11-03
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 3
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 29:07
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721103sb.vrn.mp3|SB 1.2.23 — November 3, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

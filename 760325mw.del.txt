@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760325mw.del
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-03-25
-showdate_hidden  : 2023-03-25
-listplace_hidden : Delhi
-Type_spoken      : Morning Walk
-Date_spoken      : March 25
-Year_spoken      : 1976
-Place_spoken     : Delhi
-Length_hidden    : 40:46
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760325mw.del.mp3|Morning Walk — March 25, 1976, Delhi}}
-</audio>
-
 **Prabhupāda:**
 ...means //ahaṅkāra-vimūḍhātmā// [[books:bg:3:27|[Bg. 3.27]]]. The more we get material possession, our false egotism increases: "I have got this. I have got this. Who is more powerful than me?" //Āḍhyo 'ham abhijān asmi ko 'sti mayā// [[books:bg:16:15|[Bg. 16.15]]]. These are described in the Sixteenth Chapter. What is the meaning of this //ahaṅkāra?// Because //vimūḍhātmā,// that "I have got this motorcar. I have got this property," but within a second it can be finished. There is another, superior law. That he forgets. He sees actually, but he forgets. That is called //vimūḍhātmā.// He is seeing, everyone. Of course, our time and nature's time, little different. So many Hitlers, so many Napoleons, so many Gandhis, so many Jawaharlal came and went. But they do not see. //Paśyann api na paśyati// [[books:sb:2:1:4|[SB 2.1.4]]]. They are seeing actually; still, they do not see. Blind. In India the Muhammadans came. They ruled over. Where is the Moghul? The Englishmen came. Where they are? Everything gone. //Paśyann api na paśyati.// This is called //vimūḍhātmā.// That is going on. The material civilization means //ahaṅkāra-vimūḍhātmā.// By false egotism they are bewildered and rascals. Bhaktivinoda Ṭhākura has translated this, that //jaḍā-bidyā jato, māyāra vaibhava:// "All this material advancement of civilization is the paraphernalia of //māyā.//" Because you cannot enjoy it, but you are thinking, "I possess so much. I possess so much." You'll not be allowed to enjoy, but still... Therefore all these material possessions are the paraphernalia of //māyā.// So what is the wrong there? Now, wrong is this: //jaḍā-bidyā jato, māyāra vaibhava, tomāra bhajane bādhā.// They are hindrances for advancement of Kṛṣṇa consciousness. That is the aim of human life. That, you forget that. So //tomāra bhajane bādhā, anitya saṁsāre, moha janamiyā.// The result is that he becomes more attached to this temporary world and remains the rascal. Because without being rascal, nobody comes in this material world to enjoy. As soon as anyone has come to this material world, he's a rascal. //Kṛṣṇa-bahirmukha hañā bhoga vāñchā kare, nikaṭa-stha māyā tāre jāpaṭiyā dhare// [//Prema-vivarta//].
 

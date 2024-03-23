@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 751014r1.joh
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-10-14
-showdate_hidden  : 2023-10-14
-listplace_hidden : Johannesburg
-Type_spoken      : Room Conversation
-Date_spoken      : October 14
-Year_spoken      : 1975
-Place_spoken     : Johannesburg
-Length_hidden    : 19:53
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751014r1.joh.mp3|Room Conversation — October 14, 1975, Johannesburg}}
-</audio>
-
 **Prabhupāda:**
 Nothing happens accidentally. According to Vedic literature, there is no such word as "accident." The word is //adṛṣṭa:// there is cause; I cannot see it. //Adṛṣṭa.// It is not in my vision, but there is cause. There is no question of accident.
 

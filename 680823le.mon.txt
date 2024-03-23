@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 680823le.mon
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1968-08-23
-showdate_hidden  : 2023-08-23
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : August 23
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680823le.mon.mp3|Lecture [partially recorded] — August 23, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 So to love Kṛṣṇa we don't require anything. //Ahaituky apratihatā.// It is open for everyone, but we should learn to sacrifice for Kṛṣṇa. That is the sign of love. //Yat karoṣi yad aśnāsi yaj juhoṣi// [[books:bg:9:27|[Bg. 9.27]]]. If you... You are eating. If you simply decide that "I shall not eat anything which is not offered to Kṛṣṇa," then Kṛṣṇa will understand, "Oh, here is a devotee." "I shall not see anything except Kṛṣṇa's beauty." Kṛṣṇa can understand. "I shall not hear anything except Hare Kṛṣṇa and topics on Kṛṣṇa..." These things are there. It does not require that you become very wealthy, very beautiful, or very learned. You have to decide that "I shall not do this without Kṛṣṇa. I shall not do this without Kṛṣṇa. I shall not mix with any man who is not Kṛṣṇa conscious. I shall not talk anything which does not speak about Kṛṣṇa." So your... "I shall not go anywhere except Kṛṣṇa's temple. I shall not engage my hands in anything except Kṛṣṇa's business." In this way, if you train your activities, then you love Kṛṣṇa and Kṛṣṇa is purchased---simply by your determination. Kṛṣṇa does not require anything from you. Simply He wants to know whether you have decided to love Kṛṣṇa. That's all.
 

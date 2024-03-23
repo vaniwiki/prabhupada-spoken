@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.1–10 and Talk ======
 
----- dataentry spoken ----
-id_hidden        : 681125bg.la
-listtype_hidden  : Bg 2.1–10 and Talk
-listdate_hidden  : 1968-11-25
-showdate_hidden  : 2023-11-25
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 25
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 2.1–10 and Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681125bg.la.mp3|Bg 2.1-10 and Talk — November 25, 1968, Los Angeles}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 "Sañjaya said, Seeing Arjuna full of compassion and very sorrowful, his eyes brimming with tears, Madhusūdana, Kṛṣṇa, spoke the following words [[books:bg:2:1|[Bg. 2.1]]]. The Supreme Personality said, 'My dear Arjuna, how have these impurities come upon you? They are not at all befitting a man who knows the progressive values of life. They do not lead to higher planets, but to infamy' [[books:bg:2:2|[Bg. 2.2]]].
 

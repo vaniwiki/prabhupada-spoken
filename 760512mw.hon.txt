@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760512mw.hon
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-05-12
-showdate_hidden  : 2023-05-12
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : May 12
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 30:48
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760512mw.hon.mp3|Morning Walk — May 12, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 ...made of grass?
 

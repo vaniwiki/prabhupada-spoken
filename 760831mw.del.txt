@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760831mw.del
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-08-31
-showdate_hidden  : 2023-08-31
-listplace_hidden : Delhi
-Type_spoken      : Morning Walk
-Date_spoken      : August 31
-Year_spoken      : 1976
-Place_spoken     : Delhi
-Length_hidden    : 17:22
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760831mw.del.mp3|Morning Walk — August 31, 1976, Delhi}}
-</audio>
-
 **Prabhupāda:**
 //Raso 'ham apsu kaunteya prabhāsmi śaśi-sūryayoḥ// [[books:bg:7:8|[Bg. 7.8]]]: "I am the sunshine and moonshine." You cannot see sunshine and moonshine?
 

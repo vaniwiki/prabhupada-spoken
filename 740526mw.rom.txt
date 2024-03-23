@@ -9,24 +9,6 @@
 
 ====== Morning Walk at Villa Borghese ======
 
----- dataentry spoken ----
-id_hidden        : 740526mw.rom
-listtype_hidden  : Morning Walk at Villa Borghese
-listdate_hidden  : 1974-05-26
-showdate_hidden  : 2023-05-26
-listplace_hidden : Rome
-Type_spoken      : Morning Walk
-Date_spoken      : May 26
-Year_spoken      : 1974
-Place_spoken     : Rome
-Length_hidden    : 22:00
-Title_hidden     : Morning Walk at Villa Borghese
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740526mw.rom.mp3|Morning Walk at Villa Borghese — May 26, 1974, Rome}}
-</audio>
-
 **Bhagavān:**
 ISKCON has a camera.
 

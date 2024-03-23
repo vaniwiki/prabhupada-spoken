@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.40–42 ======
 
----- dataentry spoken ----
-id_hidden        : 660916bg.ny
-listtype_hidden  : Bg 6.40–42
-listdate_hidden  : 1966-09-16
-showdate_hidden  : 2023-09-16
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : September 16
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.40–42
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660916bg.ny.mp3|Bg 6.40-42 — September 16, 1966, New York}}
-</audio>
-
 [//kīrtana//---Prabhupāda tells the devotees to chant one round---someone yells "I'm God" and yells something that sounds like "Om" over and over but sounds more like a cow mooing real slow. He yells and screams, "I'm God! I'm God!" and leaves. Devotees and Prabhupāda continue //japa.// Prabhupāda chants first prayer of //Śikṣāṣṭaka.// Then this class begins:]
 
 **Prabhupāda:**

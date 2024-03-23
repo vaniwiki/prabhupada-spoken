@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.3.12–15 ======
 
----- dataentry spoken ----
-id_hidden        : 710209sb.gor
-listtype_hidden  : SB 6.3.12–15
-listdate_hidden  : 1971-02-09
-showdate_hidden  : 2023-02-09
-listplace_hidden : Gorakhpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 9
-Year_spoken      : 1971
-Place_spoken     : Gorakhpur
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.3.12–15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710209sb.gor.mp3|SB 6.3.12-15 — February 9, 1971, Gorakhpur}}
-</audio>
-
 **Prabhupāda:**
 ...his position. And from his statements any sane man will understand also his position. Don't claim that "I am God. I am Supreme." Just try to understand what is your position. Most insignificant position. How do you claim that you are God?
 

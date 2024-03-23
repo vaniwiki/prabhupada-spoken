@@ -9,24 +9,6 @@
 
 ====== Conversation Before Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690429rc.bos
-listtype_hidden  : Before Lecture
-listdate_hidden  : 1969-04-29
-showdate_hidden  : 2023-04-29
-listplace_hidden : Boston
-Type_spoken      : Room Conversation
-Date_spoken      : April 29
-Year_spoken      : 1969
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Conversation Before Lecture Brandeis University
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690429rc.bos.mp3|Conversation Before Lecture — April 29, 1969, Boston}}
-</audio>
-
 **Miss Rose:**
 It's not in good order Swamiji.
 

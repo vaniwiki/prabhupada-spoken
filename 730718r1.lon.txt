@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Malcolm ======
 
----- dataentry spoken ----
-id_hidden        : 730718r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-18
-showdate_hidden  : 2023-07-18
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 18
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 56:10
-Title_hidden     : Room Conversation with Malcolm
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730718r1.lon.mp3|Room Conversation with Malcolm — July 18, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 So what is that origin of all things?
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Svarūpa Dāmodara ======
 
----- dataentry spoken ----
-id_hidden        : 750228r1.atl
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-02-28
-showdate_hidden  : 2023-02-28
-listplace_hidden : Atlanta
-Type_spoken      : Room Conversation
-Date_spoken      : February 28
-Year_spoken      : 1975
-Place_spoken     : Atlanta
-Length_hidden    : 41:07
-Title_hidden     : Room Conversation with Svarūpa Dāmodara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750228r1.atl.mp3|Room Conversation with Svarūpa Dāmodara — February 28, 1975, Atlanta}}
-</audio>
-
 **Prabhupāda:**
 ...Is it not fact? If sexual intercourse is the beginning of life, then why it is not always successful? We say that when the life, living entity, is there in the semina and it is put into the woman's womb, then body develops. Therefore, the beginning is the life. This is practical. And this life is the part and parcel of the supreme life. Therefore the beginning is God. //Janmādy asya yataḥ// [[books:sb:1:1:1|[SB 1.1.1]]]. //Athāto brahma jijñāsā.// So we have to establish this theory in this misguided world that... And besides that, why they cannot produce life from matter? What is the value of their statement? That they have not been able to do. Where is the proof that from matter life comes? You do it.
 

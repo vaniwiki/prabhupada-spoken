@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760108r1.nel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Nellore
-Type_spoken      : Room Conversation
-Date_spoken      : January 8
-Year_spoken      : 1976
-Place_spoken     : Nellore
-Length_hidden    : 14:35
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760108r1.nel.mp3|Room Conversation — January 8, 1976, Nellore}}
-</audio>
-
 **Prabhupāda:**
 This is idea. //Mano-rathena,// by mental speculation, //āsato dhāvato,// they will come to materialism. As soon as they will hover over mental concoction, they will remain in the material platform, because mind is subtle form of matter.
 

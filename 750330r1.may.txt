@@ -3,24 +3,6 @@
 ~~bc: Conversation — March 30, 1975, Māyāpur~~
 ====== Conversation with a German Girl and Devotees ======
 
----- dataentry spoken ----
-id_hidden        : 750330r1.may
-listtype_hidden  : Conversation with a German Girl and Devotees
-listdate_hidden  : 1975-03-30
-showdate_hidden  : 2023-03-30
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : March 30
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 54:24
-Title_hidden     : Conversation with a German Girl and Devotees
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750330r1.may.mp3|Conversation with a German Girl and Devotees — March 30, 1975, Māyāpur}}
-</audio>
-
 **Haṁsadūta:**
 So you can begin.
 

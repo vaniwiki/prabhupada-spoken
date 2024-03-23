@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760501r1.fij
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-05-01
-showdate_hidden  : 2023-05-01
-listplace_hidden : Fiji
-Type_spoken      : Room Conversation
-Date_spoken      : May 1
-Year_spoken      : 1976
-Place_spoken     : Fiji
-Length_hidden    : 24:16
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760501r1.fij.mp3|Room Conversation — May 1, 1976, Fiji}}
-</audio>
-
 **Prabhupāda:**
 ...the Lord then said, [Hindi:] //...bhagavān diyā.// This... [break] 
 

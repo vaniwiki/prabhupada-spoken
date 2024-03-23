@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740629mw.mel
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : Melbourne
-Type_spoken      : Morning Walk
-Date_spoken      : June 29
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 14:37
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740629mw.mel.mp3|Morning Walk — June 29, 1974, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 ...in the beautiful tomb. Then how do you go? Either hell or heaven, that doesn't matter. So how do you go there?
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 4.7 ======
 
----- dataentry spoken ----
-id_hidden        : 740327bg.bom
-listtype_hidden  : Bg 4.7
-listdate_hidden  : 1974-03-27
-showdate_hidden  : 2023-03-27
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : March 27
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 34:55
-Title_hidden     : Bhagavad-gītā 4.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740327bg.bom.mp3|Bg 4.7 — March 27, 1974, Bombay}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse]
 

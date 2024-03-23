@@ -9,24 +9,6 @@
 
 ====== Ratha-yātrā ======
 
----- dataentry spoken ----
-id_hidden        : 710627ry.sf
-listtype_hidden  : Ratha-yātrā
-listdate_hidden  : 1971-06-27
-showdate_hidden  : 2023-06-27
-listplace_hidden : San Francisco
-Type_spoken      : Lecture
-Date_spoken      : June 27
-Year_spoken      : 1971
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Ratha-yātrā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710627ry.sf.mp3|Ratha-yātrā Lecture — June 27, 1971, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 When our eyes are anointed with love of God, we can see Him everywhere. That is the injunction of the //śāstras.// We have to develop our seeing power by developing love of Godhead. //Premāñjana-cchurita bhakti-vilocanena// [Bs. 5.38]. When one is sufficiently developed in Kṛṣṇa consciousness, he can see the Lord every moment within his heart and everywhere, wherever he goes. So this Kṛṣṇa consciousness movement is an attempt to teach people how to see God, how to see Kṛṣṇa. Kṛṣṇa can be seen if we practice. Just like Kṛṣṇa says, //raso 'ham apsu kaunteya// [[books:bg:7:8|[Bg. 7.8]]]. Kṛṣṇa says, "I am the taste of the water." Every one of us, we drink water everyday, not only one, twice, thrice or more than that. So as soon as we drink water, if we think that the taste of the water is Kṛṣṇa, immediately we become Kṛṣṇa conscious. To become Kṛṣṇa conscious is not very difficult job. Simply we have to practice it. Just like this is an example how to practice to become Kṛṣṇa conscious. Whenever you drink water, as soon as you are satiated, your thirst is quenched, immediately you think that this thirsting, the quenching power is Kṛṣṇa. //Prabhāsmi śaśi sūryayoḥ.// Kṛṣṇa says, "I am the sunshine. I am the moonshine." So during daytime, every one of us seeing the sunshine. As soon as you see sunshine, immediately you can remember Kṛṣṇa, "Here is Kṛṣṇa." As soon as you see moonshine at night, immediately you can remember, "Here is Kṛṣṇa." In this way, if you practice, there are many instances, many examples given in the //Bhagavad-gītā,// in the Seventh Chapter, if you read them carefully, how to practice Kṛṣṇa consciousness. Then at that time, when you are mature in love of Kṛṣṇa, you will see Kṛṣṇa everywhere. Nobody has to help you to see Kṛṣṇa, but Kṛṣṇa will be revealed before you, by your devotion, by your love. //Sevonmukhe hi jihvādau svayam eva sphuraty adaḥ// [Brs. 1.2.234]. Kṛṣṇa, when one is in service mood, when one understands that "I am eternal servant of Kṛṣṇa, or God," then Kṛṣṇa help you how to see Him.
 

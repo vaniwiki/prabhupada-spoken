@@ -9,24 +9,6 @@
 
 ====== Paramānanda & Satyabhāmā’s Wedding ======
 
----- dataentry spoken ----
-id_hidden        : 680722wl.mon
-listtype_hidden  : Wedding
-listdate_hidden  : 1968-07-22
-showdate_hidden  : 2023-07-22
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : July 22
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Paramānanda & Satyabhāmā’s Wedding
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680722wl.mon.mp3|Wedding Lecture — July 22, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 Gurudāsa, you don't feel?
 

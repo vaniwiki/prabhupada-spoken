@@ -9,24 +9,6 @@
 
 ====== Room Conversation With Artists and About BTG ======
 
----- dataentry spoken ----
-id_hidden        : 770225r2.may
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-02-25
-showdate_hidden  : 2023-02-25
-listplace_hidden : Māyāpur
-Type_spoken      : Room Conversation
-Date_spoken      : February 25
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 37:38
-Title_hidden     : Room Conversation With Artists and About BTG
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770225r2.may.mp3|Room Conversation With Artists and About BTG — February 25, 1977, Māyāpur}}
-</audio>
-
 [Hari-śauri explaining to Tamāl Kṛṣṇa on how to record Prabhupāda]
 
 **Prabhupāda:**

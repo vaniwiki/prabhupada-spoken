@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Lord Fenner Brockway ======
 
----- dataentry spoken ----
-id_hidden        : 730723r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-23
-showdate_hidden  : 2023-07-23
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 23
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 85:05
-Title_hidden     : Room Conversation With Lord Fenner Brockway
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730723r1.lon.mp3|Room Conversation with Lord Fenner Brockway — July 23, 1973, London}}
-</audio>
-
 **Śyāmasundara:**
 Prabhupāda, this is Lord Fenner Brockway.
 

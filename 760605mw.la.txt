@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760605mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-06-05
-showdate_hidden  : 2023-06-05
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : June 5
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 42:57
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760605mw.la.mp3|Morning Walk — June 5, 1976, Los Angeles}}
-</audio>
-
 [in car]
 
 **Tamāla Kṛṣṇa:**

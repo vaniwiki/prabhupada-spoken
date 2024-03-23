@@ -9,24 +9,6 @@
 
 ====== Room Conversations ======
 
----- dataentry spoken ----
-id_hidden        : 770707r3.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-07
-showdate_hidden  : 2023-07-07
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 7
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 04:16
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770707r3.vrn.mp3|Room Conversations — July 7, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 And his wife takes four bottles of Nux Vomica. If he said that "Dr. Bannerji prescribes Nux Vomica in different doses to every person, therefore we finished the Nux Vomica bottle very quickly." He was the biggest customer for Nux Vomica, Tincture Nux Vomica. So he... And he was very famous doctor. And Abhinas Chandra Bannerji, he went to Allahabad very poor condition. Then, by medical practice, he became very rich man. I think simply by the mercy of Nux Vomica. So one must know the right way. [coughs]
 

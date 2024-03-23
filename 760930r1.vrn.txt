@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760930r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-09-30
-showdate_hidden  : 2023-09-30
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 30
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 12:42
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760930r1.vrn.mp3|Room Conversation — September 30, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 One boy, he was coming to me. In that 100... [break] about 171st Street, all my things were stolen. My tape recorder, typewriter. Fortunately they did not touch my manuscript that I was writing, typing my books. So some money was stolen. Then one boy, he was coming to me, he told me, "Please come to my place." A loft, Bowery Street. I did not know the Bowery Street was not a good quarter. All bums and drunks. When I see them, one Jewish friend, he had electrical shop, he told me, "Swāmījī, you have gone to Bowery Street? Oh, it is not your place." I did not know that it is full of drunkards. But they were lying down in front of my door, but they were respectful. When I'd go, these drunkard comes, and they respectfully give me ways. And they would lie down on urine and something like that, on water. Then the boy who took me there... He was Murray. His last title was Murray. And he was taking LSD. So since I went there, he did not go to work. Otherwise, he was working and getting daily twenty-five dollars. In some dock he was working. Since I went, he stopped working, and I had to pay 125 dollars for the loft. One lady was the landlord.
 

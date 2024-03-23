@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750513mw.per
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-05-13
-showdate_hidden  : 2023-05-13
-listplace_hidden : Perth
-Type_spoken      : Morning Walk
-Date_spoken      : May 13
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 48:46
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750513mw.per.mp3|Morning Walk — May 13, 1975, Perth}}
-</audio>
-
 **Prabhupāda:**
 ...change your views victimized by these rascals. The rascals are very strong. [//japa//] In the Sixteenth Chapter of //Bhagavad-gītā// it is said, //pravṛttiṁ ca nivṛttiṁ janā na vidur āsurāḥ// [[books:bg:16:7|[Bg. 16.7]]]. //Asura. Asura,// demons, demonic civilization, demonic people, they do not know what is //pravṛtti// and what is //nivṛtti. Pravṛtti// means material civilization, and //nivṛtti// means spiritual civilization. The modern man does not know. They are neither educated about this //pravṛtti// and //nivṛtti.// And we are speaking on //nivṛtti,// and all of them are in the //pravṛtti.// So they cannot understand. It is foreign to them. They have no idea what is spiritual life, spiritual civilization. Five thousand years ago Kṛṣṇa spoke of all these things very clearly. Later on, the things, from the beginning of Kali-yuga, the things are deteriorating, and therefore different types of religion has sprung up---the Buddhism, Christianism, Muhammadanism. They are not perfect understanding of religious principle. And gradually the number of so-called religious section are increasing. Our Mr. Nanda is presenting another religion, //mānava-dharma.// Everyone is manufacturing. And Vivekananda is supporting, "Yes, every type of religious system is as good." This is nonsense. Actually they do not know what is religion. [pause]
 

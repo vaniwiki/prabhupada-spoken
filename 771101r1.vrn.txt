@@ -9,24 +9,6 @@
 
 ====== Prabhupāda Vigil ======
 
----- dataentry spoken ----
-id_hidden        : 771101r1.vrn
-listtype_hidden  : Prabhupāda Vigil
-listdate_hidden  : 1977-11-01
-showdate_hidden  : 2023-11-01
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 1
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 18:04
-Title_hidden     : Prabhupāda Vigil
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771101r1.vrn.mp3|Prabhupāda Vigil — November 1, 1977, Vṛndāvana}}
-</audio>
-
 [Hindi]
 
 **Bhavānanda:**

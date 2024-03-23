@@ -9,20 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771020r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-20
-showdate_hidden  : 2023-10-20
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 20
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
 [No Audio]
 
 **Tamāla Kṛṣṇa:**

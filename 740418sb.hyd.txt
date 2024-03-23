@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.6 ======
 
----- dataentry spoken ----
-id_hidden        : 740418sb.hyd
-listtype_hidden  : SB 1.2.6
-listdate_hidden  : 1974-04-18
-showdate_hidden  : 2023-04-18
-listplace_hidden : Hyderabad
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 18
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 26:26
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740418sb.hyd.mp3|SB 1.2.6 — April 18, 1974, Hyderabad}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse]
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.19 ======
 
----- dataentry spoken ----
-id_hidden        : 690907sb.ham
-listtype_hidden  : SB 7.9.19
-listdate_hidden  : 1969-09-07
-showdate_hidden  : 2023-09-07
-listplace_hidden : Hamburg
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 7
-Year_spoken      : 1969
-Place_spoken     : Hamburg
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.19
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690907sb.ham.mp3|SB 7.9.19 — September 7, 1969, Hamburg}}
-</audio>
-
 **Prabhupāda:**
 
 > ...majjato nauḥ

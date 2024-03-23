@@ -9,24 +9,6 @@
 
 ====== Room Conversation, Bhagavad-gītā 16.7–23 ======
 
----- dataentry spoken ----
-id_hidden        : 740702r2.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-07-02
-showdate_hidden  : 2023-07-02
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : July 2
-Year_spoken      : 1974
-Place_spoken     : Melbourne
-Length_hidden    : 30:09
-Title_hidden     : Room Conversation, Bhagavad-gītā 16.7–23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740702r2.mel.mp3|Room Conversation, Bhagavad-gītā 16.7-23 — July 2, 1974, Melbourne}}
-</audio>
-
 **Cāru:**
 
 > pravṛttiṁ ca nivṛttiṁ ca

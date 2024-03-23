@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681011le.sea
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-10-11
-showdate_hidden  : 2023-10-11
-listplace_hidden : Seattle
-Type_spoken      : Lecture
-Date_spoken      : October 11
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681011le.sea.mp3|Lecture — October 11, 1968, Seattle}}
-</audio>
-
 **Prabhupāda:**
 [chants] //Govindam ādi-puruṣam tam ahaṁ bhajāmi.// [devotees respond, repeats several times] Thank you very much. So all newcomer students, you are welcome. Thank you very much. This Kṛṣṇa consciousness movement, we are worshiping the Supreme Personality of Godhead, the supreme leader. Human society cannot work without leader. Anywhere you go, any country, any nation, any society, any community, any family, there is a leader. So the //Vedas// instruct that there is a supreme leader. //Nityo nityānāṁ cetanaś cetanānām eko bahūnāṁ vidadhāti kāmān// [//Kaṭha Upaniṣad// 2.2.13]. This [is] very important //mantra// in //Kaṭha Upaniṣad.// You have heard the names of //Upaniṣad.// They are Vedic literatures. Originally, the //Veda// was one, //Sāma Veda.// Then it was divided into four, //Sāma Veda, Atharva Veda, Ṛg Veda, Yajur Veda.// Then the //Vedas// verses were explained in //Upaniṣads.// There are 108 //Upaniṣads.// Then the whole conclusion was made shortened, cream. That is called //Vedānta-sūtra.// And again, this Vedic knowledge was, I mean to say, compiled in simple way for understanding of less intelligent class of men. That is called //Mahābhārata.// And in the //Mahābhārata// there is one chapter which is called //Bhagavad-gītā. Bhagavad-gītā// is only a chapter of the great history of India, //Mahābhārata.// And then //Vedānta-sūtra// is described in //Śrīmad-Bhāgavatam.// So Vedic literature is very old. Nobody can trace out the history. So far we understand, it is not man-made. It is coming out from transcendental world by disciplic succession.
 

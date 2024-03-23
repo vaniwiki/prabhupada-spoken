@@ -9,24 +9,6 @@
 
 ====== Questions and Answers ======
 
----- dataentry spoken ----
-id_hidden        : 680906qa.ny
-listtype_hidden  : Questions and Answers
-listdate_hidden  : 1968-09-06
-showdate_hidden  : 2023-09-06
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : September 6
-Year_spoken      : 1968
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Questions and Answers
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680906qa.ny.mp3|Questions and Answers — September 6, 1968, New York}}
-</audio>
-
 **Prabhupāda:**
 Chanting Hare Kṛṣṇa. This is the price. That's all. Yes?
 

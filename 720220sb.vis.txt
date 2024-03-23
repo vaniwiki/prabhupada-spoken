@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.5 ======
 
----- dataentry spoken ----
-id_hidden        : 720220sb.vis
-listtype_hidden  : SB 1.2.5
-listdate_hidden  : 1972-02-20
-showdate_hidden  : 2023-02-20
-listplace_hidden : Visakhapatnam
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 20
-Year_spoken      : 1972
-Place_spoken     : Visakhapatnam
-Length_hidden    : 33:42
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.5 [At Ladies Club]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720220sb.vis.mp3|SB 1.2.5 — February 20, 1972, Visakhapatnam}}
-</audio>
-
 **Prabhupāda:**
 
 > ... pṛṣṭo 'haṁ

@@ -9,24 +9,6 @@
 
 ====== Conversation with the GBC ======
 
----- dataentry spoken ----
-id_hidden        : 720525r1.la
-listtype_hidden  : Conversation GBC
-listdate_hidden  : 1972-05-25
-showdate_hidden  : 2023-05-25
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : May 25
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 46:09
-Title_hidden     : Conversation with the GBC
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720525r1.la.mp3|Conversation with the GBC — May 25, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 So, fix up the zone.
 

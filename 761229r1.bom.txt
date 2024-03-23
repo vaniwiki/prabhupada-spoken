@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761229r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-29
-showdate_hidden  : 2023-12-29
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 29
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 16:37
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761229r1.bom.mp3|Room Conversation — December 29, 1976, Bombay}}
-</audio>
-
 **Gopāla Kṛṣṇa:**
 Bhaktivedanta Swami Prabhupāda is the author of all these books that you see. These books are being translated in every major language of the world.
 

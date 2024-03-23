@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690416le.ny
-listtype_hidden  : Lecture
-listdate_hidden  : 1969-04-16
-showdate_hidden  : 2023-04-16
-listplace_hidden : New York
-Type_spoken      : Lecture
-Date_spoken      : April 16
-Year_spoken      : 1969
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690416le.ny.mp3|Lecture — April 16, 1969, New York}}
-</audio>
-
 **Prabhupāda:**
 //Śrīmad-Bhāgavatam,// Second Canto. Second Canto is not yet published. First Canto is published, our English translation. So, the Mahārāja King Parīkṣit, he was cursed by a //brāhmaṇa// to die within a week. That was the problem. So because he was emperor and... He was assured that he was going to die within a week, so he prepared himself. That is the duty of every human being, to prepare oneself before death. That is the defect of modern civilization. They do not know what is life. They take it very easily, this life, just like animals. "If I can eat nicely, if I can sleep nicely, if I can have sex life nicely, and if I can defend my country or my home nicely, then my business is finished." This is the modern way of civilization. They take account of the small portion of our life. Just like in the cinema film spool, there are hundreds and thousands of pictures, and that makes one complete picture. Similarly, we are passing through the different phases of life. So out of many thousands of pictures within the film spool, if I simply take care of one picture, that is not very intelligent. That is foolishness. If we take, "Oh, this picture is very nice," that's all---no. So we are passing through many phases of life, different dresses. //Vāsāṁsi. Bhagavad-gītā// says, //vāsāṁsi jīrṇāni yathā vihāya// [[books:bg:2:22|[Bg. 2.22]]]. Just like I am putting on this dress. If it is dirty or if it is very old, then I change; I accept another dress. Similarly, this body is also like that. When it is dirty or when it is old enough, not to be used, then we change to another body, and this body we leave. This is the whole instruction of all Vedic literature.
 

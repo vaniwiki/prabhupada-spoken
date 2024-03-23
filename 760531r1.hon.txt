@@ -9,24 +9,6 @@
 
 ====== Philosophy Discussion with Hayagriva ======
 
----- dataentry spoken ----
-id_hidden        : 760531r1.hon
-listtype_hidden  : Philosophy Discussion with Hayagriva
-listdate_hidden  : 1976-05-31
-showdate_hidden  : 2023-05-31
-listplace_hidden : Honolulu
-Type_spoken      : Room Conversation
-Date_spoken      : May 31
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 20:14
-Title_hidden     : Philosophy Discussion with Hayagrīva
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760531r1.hon.mp3|Philosophy Discussion with Hayagriva — May 31, 1976, Honolulu}}
-</audio>
-
 **Hayagrīva:**
 Well that’s the end of Kierkegaard.
 

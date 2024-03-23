@@ -9,24 +9,6 @@
 
 ====== Press Conference ======
 
----- dataentry spoken ----
-id_hidden        : 760427pc.auc
-listtype_hidden  : Press Conference
-listdate_hidden  : 1976-04-27
-showdate_hidden  : 2023-04-27
-listplace_hidden : Auckland
-Type_spoken      : Room Conversation
-Date_spoken      : April 27
-Year_spoken      : 1976
-Place_spoken     : Auckland
-Length_hidden    : 18:18
-Title_hidden     : Press Conference
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760427pc.auc.mp3|Press Conference — April 27, 1976, Auckland}}
-</audio>
-
 **Interviewer:**
 Your Grace, have you been to New Zealand before?
 

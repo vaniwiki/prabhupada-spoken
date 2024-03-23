@@ -9,24 +9,6 @@
 
 ====== Initiations and Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720317in.bom
-listtype_hidden  : Initiations and Lecture
-listdate_hidden  : 1972-03-17
-showdate_hidden  : 2023-03-17
-listplace_hidden : Bombay
-Type_spoken      : Initiation
-Date_spoken      : March 17
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 20:08
-Title_hidden     : Initiations and Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720317in.bom.mp3|Initiations and Lecture — March 17, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...God consciousness at the present moment...
 

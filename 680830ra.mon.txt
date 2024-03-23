@@ -9,24 +9,6 @@
 
 ====== Rādhāṣṭamī, Śrīmatī Rādhārāṇī’s Appearance Day ======
 
----- dataentry spoken ----
-id_hidden        : 680830ra.mon
-listtype_hidden  : Rādhāṣṭamī
-listdate_hidden  : 1968-08-30
-showdate_hidden  : 2023-08-30
-listplace_hidden : Montreal
-Type_spoken      : Lecture
-Date_spoken      : August 30
-Year_spoken      : 1968
-Place_spoken     : Montreal
-Length_hidden    : 00:00
-Title_hidden     : Rādhāṣṭamī, Śrīmatī Rādhārāṇī’s Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680830ra.mon.mp3|Rādhāṣṭamī — August 30, 1968, Montreal}}
-</audio>
-
 **Prabhupāda:**
 
 > ...am aprameyam anaghaṁ nirvāṇa-śānti-pradaṁ brahma-śambhu-phanīndras tebhyo 'niśaṁ vedānta-vedyaṁ vibhuṁ sura-guruṁ māyā-mānuṣya-hariṁ vande 'haṁ karunākaraṁ raghu-varaṁ bhū-pāla-cudāmaṇim

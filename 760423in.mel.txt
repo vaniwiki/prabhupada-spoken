@@ -9,24 +9,6 @@
 
 ====== Initiation Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 760423in.mel
-listtype_hidden  : Initiation Lecture [partially recorded]
-listdate_hidden  : 1976-04-23
-showdate_hidden  : 2023-04-23
-listplace_hidden : Melbourne
-Type_spoken      : Initiation
-Date_spoken      : April 23
-Year_spoken      : 1976
-Place_spoken     : Melbourne
-Length_hidden    : 05:18
-Title_hidden     : Initiation Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760423in.mel.mp3|Initiation Lecture [partially recorded] — April 23, 1976, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 ...in the //Caitanya-caritāmṛta,// while teaching Śrīla Rūpa Gosvāmī, Caitanya Mahāprabhu said,
 

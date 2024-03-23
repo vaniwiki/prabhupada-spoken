@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740401mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-04-01
-showdate_hidden  : 2023-04-01
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : April 1
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 52:10
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740401mw.bom.mp3|Morning Walk — April 1, 1974, Bombay}}
-</audio>
-
 **Chandobhai:**
 //...proktam adhidaivaṁ kim ucyate.//
 

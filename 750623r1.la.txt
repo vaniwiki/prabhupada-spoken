@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Dr. John Mize ======
 
----- dataentry spoken ----
-id_hidden        : 750623r1.la
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-06-23
-showdate_hidden  : 2023-06-23
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 23
-Year_spoken      : 1975
-Place_spoken     : Los Angeles
-Length_hidden    : 112:00
-Title_hidden     : Room Conversation with Dr. John Mize
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750623r1.la.mp3|Room Conversation with Dr. John Mize — June 23, 1975, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...advises Arjuna that "I am... The body and the soul different."
 

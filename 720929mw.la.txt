@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720929mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-09-29
-showdate_hidden  : 2023-09-29
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : September 29
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 12:26
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720929mw.la.mp3|Morning Walk — September 29, 1972, Los Angeles}}
-</audio>
-
 [in car]
 
 **Prabhupāda:**

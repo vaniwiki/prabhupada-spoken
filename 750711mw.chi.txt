@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750711mw.chi
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-07-11
-showdate_hidden  : 2023-07-11
-listplace_hidden : Chicago
-Type_spoken      : Morning Walk
-Date_spoken      : July 11
-Year_spoken      : 1975
-Place_spoken     : Chicago
-Length_hidden    : 40:23
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750711mw.chi.mp3|Morning Walk — July 11, 1975, Chicago}}
-</audio>
-
 **Prabhupāda:**
 ...Kṛṣṇa's... [break]
 

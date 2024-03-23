@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761228r2.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-28
-showdate_hidden  : 2023-12-28
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 28
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 03:29
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761228r2.bom.mp3|Room Conversation — December 28, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...they will not walk on the street. This was the system.
 

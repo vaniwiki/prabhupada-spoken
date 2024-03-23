@@ -9,24 +9,6 @@
 
 ====== Conversation Including Śrīmad-Bhāgavatam 1.2.1–34 Recitation & Explanation ======
 
----- dataentry spoken ----
-id_hidden        : 690401rc.sf
-listtype_hidden  : SB 1.2.1–34
-listdate_hidden  : 1969-04-01
-showdate_hidden  : 2023-04-01
-listplace_hidden : San Francisco
-Type_spoken      : Room Conversation
-Date_spoken      : April 1
-Year_spoken      : 1969
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Conversation Including Śrīmad-Bhāgavatam 1.2.1–34 Recitation & Explanation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690401rc.sf.mp3|Conversation Including Śrīmad-Bhāgavatam 1.2.1-34 Recitation & Explanation — April 1, 1969, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 "So we want to see him naked in this assembly." So she prayed Kṛṣṇa. //Mahābhārata// story is very nice, how Kṛṣṇa, protecting His devotee.
 

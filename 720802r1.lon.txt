@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Ian Polsen ======
 
----- dataentry spoken ----
-id_hidden        : 720802r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-08-02
-showdate_hidden  : 2023-08-02
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : August 2
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 63:43
-Title_hidden     : Room Conversation with Ian Polsen
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720802r1.lon.mp3|Room Conversation with Ian Polsen — August 2, 1972, London}}
-</audio>
-
 **Prabhupāda:**
 ...and if we repeat that, what is our fault? [laughter] [Hindi], Caturbhuja. [Hindi] We say Kṛṣṇa said that "He is a rascal who does not surrender unto Me." [laughs] Kṛṣṇa has chastised in so many places. //Tān ahaṁ dviṣataḥ krūrān kṣipāmy ajasram// [indistinct] [[books:bg:16:19|[Bg. 16.19]]].
 

@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 690323le.haw
-listtype_hidden  : Lecture
-listdate_hidden  : 1969-03-23
-showdate_hidden  : 2023-03-23
-listplace_hidden : Hawaii
-Type_spoken      : Lecture
-Date_spoken      : March 23
-Year_spoken      : 1969
-Place_spoken     : Hawaii
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690323le.haw.mp3|Lecture — March 23, 1969, Hawaii}}
-</audio>
-
 **Prabhupāda:**
 So the first question is, "What is the practice you preach?" Yes. We are preaching the original practice. Practice means which is practically done. And sometimes things are impractical when they are unnatural, and natural things can be practiced very easily. So our preaching is to reinstate the living soul to his original condition. The original condition of living being is part and parcel of the Supreme Lord. As such, the part and parcel is meant for rendering service to the whole. Just like this finger is part and parcel of my body. The finger is expected to give service to the whole body. When I am feeling itching, my finger is helping it. When I want to pick up something, my finger is helping. Similarly, any part of my body... When I want to go out, my leg is walking. When I want, I want to see something, my eyes are helping. So in this way you can understand what we mean by part and parcel. Take materially also, any machine. The part and parcel... Just like here is a machine, tape recorder. There are different parts. One part is required to give, adjust speed; one part is required how to move, how to start, how to stop, how to increase. So different parts. Similarly, we are living entities, and the Lord is also a living entity. And we are originally created to help the Lord. He does not require... Because He's complete. But just to give a crude example, as the part and parcel required: now, suppose this finger is not giving me service. It is diseased. So sometimes doctors advise that "You have to amputate this finger, otherwise it will affect the whole body." Similarly, we living entities, being part and parcel of the Supreme Lord, when we rebel, that is our diseased condition. We, when we don't want to render service to the Lord, that is a state which is called demonic state.
 

@@ -9,24 +9,6 @@
 
 ====== Arrival ======
 
----- dataentry spoken ----
-id_hidden        : 731101ar.del
-listtype_hidden  : Arrival
-listdate_hidden  : 1973-11-01
-showdate_hidden  : 2023-11-01
-listplace_hidden : Delhi
-Type_spoken      : Lecture
-Date_spoken      : November 1
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 36:00
-Title_hidden     : Arrival
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731101ar.del.mp3|Arrival — November 1, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 
 > ... anarthopaśamaṁ sākṣād

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with German Women Philosophers ======
 
----- dataentry spoken ----
-id_hidden        : 740617r1.ger
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-17
-showdate_hidden  : 2023-06-17
-listplace_hidden : Germany
-Type_spoken      : Room Conversation
-Date_spoken      : June 17
-Year_spoken      : 1974
-Place_spoken     : Germany
-Length_hidden    : 23:04
-Title_hidden     : Room Conversation with German Women Philosophers
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740617r1.ger.mp3|Room Conversation with German Women Philosophers — June 17, 1974, Germany}}
-</audio>
-
 **Pṛthu:**
 [translating guest's comments] ...that we all, when we are in material life, we have so many duties, so many works, so many things to do, but then, when she's dead, she wants peace for herself. She wants to be... She has this peaceful situation, wants to be situated in that.
 

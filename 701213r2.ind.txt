@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 701213r2.ind
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1970-12-13
-showdate_hidden  : 2023-12-13
-listplace_hidden : Indore
-Type_spoken      : Room Conversation
-Date_spoken      : December 13
-Year_spoken      : 1970
-Place_spoken     : Indore
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701213r2.ind.mp3|Room Conversation — December 13, 1970, Indore}}
-</audio>
-
 **Prabhupāda:**
 ...your //devatā// finished. But your relationship with Kṛṣṇa will never finish---//nityo nityānāṁ//---because you are //nitya,// Kṛṣṇa is //nitya.// That relationship, we have to reestablish that relation. That is the function of the human body. If you are simply busy with this temporary nature, then you are losing time. The temporary relationship will... Just like I came here; now, tomorrow I am going. So, say, for fortnight the relation was there. Now you'll have another relation. Similarly, after this body I do not know what relation, what father, mother, I will get and what relation will be established. What community will be established I do not know. And then I will forget. Now those who are Indian, but suppose in his last birth he was Chinaman. He has forgotten. Now he's fighting for India's cause. If the Chinaman is fighting for China's cause. This is disease. Therefore Caitanya Mahāprabhu teaches, //jīvera svarūpa haya nitya kṛṣṇa dāsa// [[books:cc:madhya:20:108-109|[Cc. Madhya 20.108-109]]]. We are ready to serve all the //dayitas//[?], but eternal servitude is Kṛṣṇa. That we have to establish. Then //tyaktvā dehaṁ punar janma naiti mām eti// [[books:bg:4:9|[Bg. 4.9]]]. Then, after leaving this body, he has no more to accept this material body and create another society, another family, another relationship, another atmosphere. So because we are not Kṛṣṇa conscious, in Kṛṣṇa society, therefore we are dividing. Suppose one animal is born in India or in America. We don't take him as "my brother. He is also born in the same national." No. He kills it. He gives protection only to the animal with hands and legs, not to the animals who are four-legged. Because he is not Kṛṣṇa conscious, therefore his knowledge is imperfect. //Paṇḍitaḥ sama-darśinaḥ// [[books:bg:5:18|[Bg. 5.18]]]. We are fighting between the different religions because there is no Kṛṣṇa religion, no eternal religion, temporary religion. "I am Christian," "I am Hindu ," "I am Muslim." Therefore, to solve all the problems the Kṛṣṇa consciousness: //sarva-dharmān parityajya mām ekaṁ// [[books:bg:18:66|[Bg. 18.66]]]. Take to Kṛṣṇa; everything will be solved. So they are reading //Bhagavad-gītā// but they do not know this. Therefore we have to preach. For thirteen years they are attending this //Bhagavad-gītā// class or Gītā Bhavan, but nobody knows that this is the //Gītā,// this is the fact. Why? [Hindi] You tell me. So //Bhagavad-gītā As It Is// we are presenting, as it is. Then it will be nice. If you understand //Bhagavad-gītā as it is,// then you'll be profited. If you make your irrelevant commentaries, that "Kṛṣṇa means this, and Pāṇḍava means this, and the Kurukṣetra means another thing, another thing," volumes of books and years together lecturing, what is benefit? You do not know the principles. Simply waste of time. //Śrama eva hi kevalam.//
 

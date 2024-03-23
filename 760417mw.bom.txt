@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760417mw.bom
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-04-17
-showdate_hidden  : 2023-04-17
-listplace_hidden : Bombay
-Type_spoken      : Morning Walk
-Date_spoken      : April 17
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 22:22
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760417mw.bom.mp3|Morning Walk — April 17, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...is real scientist. Those who change every year theory, I don't like that scientist. Do you like that scientist?
 

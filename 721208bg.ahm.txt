@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 721208bg.ahm
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-12-08
-showdate_hidden  : 2023-12-08
-listplace_hidden : Ahmedabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 8
-Year_spoken      : 1972
-Place_spoken     : Ahmedabad
-Length_hidden    : 48:47
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721208bg.ahm.mp3|Lecture — December 8, 1972, Ahmedabad}}
-</audio>
-
 **Prabhupāda:**
 ...yesterday the definition of Bhagavān, //ṣaḍ-aiśvarya-pūrṇa-bhagavān// [[books:cc:madhya:25:33|[Cc. Madhya 25.33]]]: all riches, all strength, all reputation, all beauty, all knowledge and all renunciation. Complete. Because I have got mill... [break] Whether one has got... [break] That is not million, trillion, billion; it is unlimited. //Asamordhva.// That is the version.
 

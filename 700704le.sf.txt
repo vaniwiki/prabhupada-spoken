@@ -9,24 +9,6 @@
 
 ====== Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 700704le.sf
-listtype_hidden  : Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture
-listdate_hidden  : 1970-07-04
-showdate_hidden  : 2023-07-04
-listplace_hidden : San Francisco
-Type_spoken      : Lecture
-Date_spoken      : July 4
-Year_spoken      : 1970
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture [the day before Ratha-yātrā]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700704le.sf.mp3|Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture — July 4, 1970, San Francisco}}
-</audio>
-
 **Devotees:**
 All glories to Prabhupāda! //Jāyate// Prabhupāda! //Jaya!//
 

@@ -9,24 +9,6 @@
 
 ====== Śrī Caitanya-caritāmṛta, Ādi-līlā 1.15 ======
 
----- dataentry spoken ----
-id_hidden        : 750408cc.may
-listtype_hidden  : Cc. Ādi 1.15
-listdate_hidden  : 1975-04-08
-showdate_hidden  : 2023-04-08
-listplace_hidden : Māyāpur
-Type_spoken      : Śrī Caitanya-caritāmṛta
-Date_spoken      : April 8
-Year_spoken      : 1975
-Place_spoken     : Māyāpur
-Length_hidden    : 26:36
-Title_hidden     : Śrī Caitanya-caritāmṛta, Ādi-līlā 1.15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750408cc.may.mp3|Cc. Ādi 1.15 — April 8, 1975, Māyāpur}}
-</audio>
-
 [aside conversation while verse recitation is going on]
 
 **Devotee (1):**

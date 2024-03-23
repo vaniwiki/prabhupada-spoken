@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 740310le.cal
-listtype_hidden  : Lecture
-listdate_hidden  : 1974-03-10
-showdate_hidden  : 2023-03-10
-listplace_hidden : Calcutta
-Type_spoken      : Lecture
-Date_spoken      : March 10
-Year_spoken      : 1974
-Place_spoken     : Calcutta
-Length_hidden    : 24:38
-Title_hidden     : Lecture in Bengali
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740310le.cal.mp3|Lecture Bengali — March 10, 1974, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 
 > vande 'haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrī-gurūn vaiṣṇavāṁś ca

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam Preface, Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730114sb.bom
-listtype_hidden  : SB Preface, Pandal Lecture
-listdate_hidden  : 1973-01-14
-showdate_hidden  : 2023-01-14
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 14
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 49:30
-Title_hidden     : Śrīmad-Bhāgavatam Preface Pandal Lecture "We must know the present need of human society"
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730114sb.bom.mp3|SB Preface, Pandal Lecture — January 14, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers]
 

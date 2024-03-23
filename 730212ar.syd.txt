@@ -9,24 +9,6 @@
 
 ====== Arrival talk ======
 
----- dataentry spoken ----
-id_hidden        : 730212ar.syd
-listtype_hidden  : Arrival talk
-listdate_hidden  : 1973-02-12
-showdate_hidden  : 2023-02-12
-listplace_hidden : Sydney
-Type_spoken      : Lecture
-Date_spoken      : February 12
-Year_spoken      : 1973
-Place_spoken     : Sydney
-Length_hidden    : 24:11
-Title_hidden     : Arrival Talk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730212ar.syd.mp3|Arrival talk — February 12, 1973, Sydney}}
-</audio>
-
 [//kīrtana//]
 
 [10:26]

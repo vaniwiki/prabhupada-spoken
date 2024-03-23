@@ -9,24 +9,6 @@
 
 ====== Car Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770205cr.cal
-listtype_hidden  : Car Conversation
-listdate_hidden  : 1977-02-05
-showdate_hidden  : 2023-02-05
-listplace_hidden : Calcutta
-Type_spoken      : Room Conversation
-Date_spoken      : February 5
-Year_spoken      : 1977
-Place_spoken     : Calcutta
-Length_hidden    : 01:36
-Title_hidden     : Car Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770205cr.cal.mp3|Car Conversation — February 5, 1977, Calcutta}}
-</audio>
-
 **Jayapatākā:**
 ...and you do little work and get more money. You can buy radio and tape recorder. And working in the field, that is not noble.
 

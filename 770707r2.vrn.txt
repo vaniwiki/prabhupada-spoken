@@ -9,24 +9,6 @@
 
 ====== Room Conversations ======
 
----- dataentry spoken ----
-id_hidden        : 770707r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-07
-showdate_hidden  : 2023-07-07
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 7
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 05:39
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770707r2.vrn.mp3|Room Conversations — July 7, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 Just see. For cutting the throat of cow, he's going thousands of miles. This is the civilization. He's an expert butcher, and he has got service in Australia, and he'll go. This is livelihood, personal duty. What a nonsense business, and he's going to... //Mā jīva vā māra.// A butcher is advised, "Don't die; don't live. If you live, it is a horrible business, and if you die, you'll go to hell. So don't die; don't live."
 

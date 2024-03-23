@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 710705le.la
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1971-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : July 5
-Year_spoken      : 1971
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710705le.la.mp3|Lecture [partially recorded] — July 5, 1971, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...He was traveling in South India. He saw one //brāhmaṇa// reading //Bhagavad-gītā.// And persons who knew him, that "That man was illiterate," it was not possible for him to read //Bhagavad-gītā...// But still, he was trying to read it, and crying also. So while others were criticizing, Caitanya Mahāprabhu came to him, "//Brāhmaṇa,// what you are reading?" So he could understand that "This person, He's not come here to criticize me. He's serious." So he talked seriously, "Sir, I am reading //Bhagavad-gītā.// Unfortunately, I am illiterate." Now see. He is illiterate and he is reading //Bhagavad-gītā.// Caitanya Mahāprabhu inquired that "How is that, you're reading //Bhagavad-gītā// and you say you are illiterate?" He said, "Yes, actually I am illiterate, but my Guru Mahārāja asked me that 'You should read every day eighteen chapters.' So what can I do? [laughter] I have to carry out the order of my spiritual master. So I have simply taken this book. I am seeing it." Caitanya Mahāprabhu said, "Oh, you are not seeing it, simply. You are crying also." "Yes, Sir, I am crying also." "Then if you are not reading, how you are crying?" "Sir, I am not reading, but I'm feeling." "What is that?" "As soon as I take this //Bhagavad-gītā// in my hand, immediately I feel Kṛṣṇa and Arjuna sitting on the same chariot, and Arjuna is ordering Kṛṣṇa that 'You drive my chariot between the two soldiers,' and Kṛṣṇa is driving. So I am simply feeling how Kṛṣṇa is nice, that He can work as a servant of His devotee. When I feel like that, I cry, how Kṛṣṇa is so kind." Caitanya Mahāprabhu immediately embraced him, that "You are really studying //Bhagavad-gītā.//" So unless we develop our love for Kṛṣṇa, there is no meaning of reading. And if we can develop our love for Kṛṣṇa just like this //brāhmaṇa,// even without reading any book, that is wanted. That is wanted. //Mayy āsakta-manāḥ.// Therefore Kṛṣṇa also confirms, //mayy āsakta-manāḥ,// "Simply by increasing attachment for Me." //Mayy āsakta-manāḥ pārtha yogaṁ yuñjan mad-āśrayaḥ. Mad-āśrayaḥ. Mad-āśrayaḥ// means "under the direction of Me or My representative." //Mat.//
 

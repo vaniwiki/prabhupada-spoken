@@ -9,24 +9,6 @@
 
 ====== City Hall Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 751007le.dur
-listtype_hidden  : City Hall Lecture
-listdate_hidden  : 1975-10-07
-showdate_hidden  : 2023-10-07
-listplace_hidden : Durban
-Type_spoken      : Lecture
-Date_spoken      : October 7
-Year_spoken      : 1975
-Place_spoken     : Durban
-Length_hidden    : 67:49
-Title_hidden     : City Hall Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751007le.dur.mp3|City Hall Lecture — October 7, 1975, Durban}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers]
 

@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681004le.sea
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-10-04
-showdate_hidden  : 2023-10-04
-listplace_hidden : Seattle
-Type_spoken      : Lecture
-Date_spoken      : October 4
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681004le.sea.mp3|Lecture — October 4, 1968, Seattle}}
-</audio>
-
 **Prabhupāda:**
 [sings] //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// [audience responds] Somebody is helping him? Yes, it is all... So we are interested in capturing the original person. [chuckles] We are not interested with any subordinate. //Govindam ādi-puruṣaṁ.// But if one can capture the original person, then he captures everyone. Just like the same example. In the //Vedas// it is said in the //Upaniṣad, yasmin vijñāte sarvam evaṁ vijñātaṁ bhavanti.// If you can understand the Supreme Personality of Godhead or the Absolute Truth, then you understand everything. There is no need of understanding separately. //Yasmin vijñāte sarvam etaṁ vijñātaṁ bhavanti.// Similarly, in the //Bhagavad-gītā// also it is said,
 

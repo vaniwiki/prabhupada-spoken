@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 730101nd.bom
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1973-01-01
-showdate_hidden  : 2023-01-01
-listplace_hidden : Bombay
-Type_spoken      : Nectar of Devotion
-Date_spoken      : January 1
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 45:10
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730101nd.bom.mp3|The Nectar of Devotion — January 1, 1973, Bombay}}
-</audio>
-
 **Pradyumna:**
 //Nectar of Devotion.// "This eternal engagement in //bhakti-rasa// can be understood by a serious student upon studying //The Nectar of Devotion.// Adoption of //bhakti-rasa,// or Kṛṣṇa consciousness, will immediately bring one to an auspicious life free from anxieties and will bless one with transcendental existence, thus minimizing the value of liberation.
 

@@ -9,24 +9,6 @@
 
 ====== Lecture, “What is Religion?” ======
 
----- dataentry spoken ----
-id_hidden        : 730823le.lon
-listtype_hidden  : Lecture, “What is Religion?”
-listdate_hidden  : 1973-08-23
-showdate_hidden  : 2023-08-23
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : August 23
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 44:53
-Title_hidden     : Lecture “What is Religion?”
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730823le.lon.mp3|Lecture, “What is Religion?” — August 23, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 Today's subject matter is "What is Religion?" So we are reciting some verses from the Sixth Canto of //Śrīmad-Bhāgavatam,// where the subject matter, //dharma,// is discussed. It is said that //dharmaṁ tu sākṣād bhagavat-praṇītam// [[books:sb:6:3:19|[SB 6.3.19]]]. //Dharma,// it is Sanskrit word, and the English translation, generally it is made as "religion." Religion is accepted as a kind of faith. But faith may be wrong or right, according to the different time, persons, climate, condition---so many consideration. But //Śrīmad-Bhāgavata// says, //dharmaṁ tu sākṣād bhagavat-praṇītam. Dharma,// or religion, means the law given by God. Simple formula. As there are laws given by the state, similarly, the supreme state, supreme governor is the Supreme Personality of Godhead.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771021r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-21
-showdate_hidden  : 2023-10-21
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 21
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 73:08
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771021r2.vrn.mp3|Room Conversation — October 21, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 We restrict the tongue, practicing. Anything can be done by practice. So if we take //kṛṣṇa-prasādam,// the tongue is restricted, locked to some limited... Then our all other senses become controlled. And spiritual life means sense control. We are not going to kill the senses. The //yogīs,// they artificially want to stop the activities of the senses, but that is not possible. Senses are there. Life means senses. //Aprākṛta. Prākṛta,// and when senses are engaged in Kṛṣṇa's service, that is //aprākṛta,// transcendental. That is described, //sarvopādhi-vinirmuktam// [[books:cc:madhya:19:170|[Cc. Madhya 19.170]]]. Our senses are now //upādhi//---"I am Indian," "I am American," "I am this," "I am that." Senses are there, everywhere, but it is designated. So we have to free the senses from this material designation. And when the designations are washed away, at..., with that senses, //hṛṣīkeṇa hṛṣīkeśa-sevanaṁ bhaktir ucyate.// Purified senses without any designation, when we engage in the service of Kṛṣṇa, that is called //bhakti.//
 

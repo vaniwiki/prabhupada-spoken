@@ -9,24 +9,6 @@
 
 ====== Room Conversation [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 750927r1.ahm
-listtype_hidden  : Conversation [Hindi]
-listdate_hidden  : 1975-09-27
-showdate_hidden  : 2023-09-27
-listplace_hidden : Ahmedabad
-Type_spoken      : Hindi
-Date_spoken      : September 27
-Year_spoken      : 1975
-Place_spoken     : Ahmedabad
-Length_hidden    : 20:34
-Title_hidden     : Room Conversation [Hindi with English translation]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750927r1.ahm_hindi.mp3|Room Conversation [Hindi] — September 27, 1975, Ahmedabad}}
-</audio>
-
 [final proofreading pending]
 
 **Prabhupāda:**

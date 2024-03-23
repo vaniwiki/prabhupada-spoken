@@ -9,24 +9,6 @@
 
 ====== Lecture at World Health Organization ======
 
----- dataentry spoken ----
-id_hidden        : 740606le.gen
-listtype_hidden  : Lecture at World Health Organization
-listdate_hidden  : 1974-06-06
-showdate_hidden  : 2023-06-06
-listplace_hidden : Geneva
-Type_spoken      : Lecture
-Date_spoken      : June 6
-Year_spoken      : 1974
-Place_spoken     : Geneva
-Length_hidden    : 71:46
-Title_hidden     : Lecture at World Health Organization
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740606le.gen.mp3|Lecture at World Health Organization — June 6, 1974, Geneva}}
-</audio>
-
 **Prabhupāda:**
 So you can give some introduction. Then I'll speak.
 

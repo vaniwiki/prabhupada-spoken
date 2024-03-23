@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture at Cross Maidan ======
 
----- dataentry spoken ----
-id_hidden        : 710326le.bom
-listtype_hidden  : Pandal Lecture at Cross Maidan
-listdate_hidden  : 1971-03-26
-showdate_hidden  : 2023-03-26
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : March 26
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Pandal Lecture at Cross Maidan
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710326le.bom.mp3|Pandal Lecture at Cross Maidan — March 26, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 I think it should be down little. All right. That's all. Yes. [chants //maṅgalācaraṇa// prayers] So ladies and gentlemen, I thank you very much for your taking so much trouble in participating with us in this great movement of Kṛṣṇa consciousness. As I am repeatedly placing before you with all humbleness that this movement is very, very much essential, not only at the present moment, but also all the time. And specially in this age, Kali-yuga, the age of disagreements and quarrel. Kali-yuga means nobody agrees with anyone. Everyone has got his own opinion, however condemned it may be. And on that point everyone is prepared to fight with one. Therefore it is called Kali-yuga. So putting different theories, philosophical speculations, will not solve the problems of the world, because not only during this age, but in all other ages also, there are different philosophers, different scriptures. That is the law of this material nature. Here there is no oneness. Duality. This world is meant for duality. So it is called //dvaita. Dvaita// means duality. So Kṛṣṇa dāsa Kavirāja Gosvāmī, he says, //dvaite bhadrābhadra sakali samāna, ei bhāla ei manda saba manodharma.// In the world of dualities, //bhadrābhadra,// "This is good, this is bad, this is nice, this is not nice," they are simply mental speculation because in this world nothing is nice. Everything is bad because it is not eternal. Therefore Śaṅkarācārya said, //jagan mithyā, brahma satya.// That's a fact. These, anything, the varieties of this world: temporary. That is the right word. It is not //mithyā;// it is temporary fact. The Vaiṣṇava philosopher says that this world is not false, but temporary, //anitya. Anitya saṁsāra moha janmāile// [?].
 

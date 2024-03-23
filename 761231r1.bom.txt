@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761231r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-31
-showdate_hidden  : 2023-12-31
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 31
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 33:34
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761231r1.bom.mp3|Room Conversation — December 31, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...so glorious. Glorious. He's glorious. That's all right. But //kaniṣṭha-adhikārī// will imitate his behavior, but he is not fixed up. Therefore it is not good for him. He is forbidden. This is...
 

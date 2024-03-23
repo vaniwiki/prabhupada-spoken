@@ -9,24 +9,6 @@
 
 ====== Comments on Bhagavad-gītā Play ======
 
----- dataentry spoken ----
-id_hidden        : 760712bg.ny
-listtype_hidden  : Comments on Bhagavad-gītā Play
-listdate_hidden  : 1976-07-12
-showdate_hidden  : 2023-07-12
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : July 12
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 14:34
-Title_hidden     : Comments on Bhagavad-gītā Play
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760712bg.ny.mp3|Comments on Bhagavad-gītā Play — July 12, 1976, New York}}
-</audio>
-
 **Prabhupāda:**
 ...of this human being, people do not know how they are kept in ignorance. And... [break] ...because we are part and parcel of Kṛṣṇa, out of His causeless mercy He comes to deliver us from this ignorance. Unfortunately, they are so much engrossed by the illusory energy, they do not take advantage of the instruction of Kṛṣṇa. So therefore this Kṛṣṇa consciousness movement is being propagated that these dull-headed //mūḍha//---they are being described as //mūḍha,// dull-headed---they do not know actual interest of life. //Na te viduḥ svārtha-gatiṁ hi viṣṇum// [[books:sb:7:5:31|[SB 7.5.31]]]. These dull-headed conditioned souls, they do not know their real self-interest, being influenced by //māyā. Māyā// is also Kṛṣṇa's energy, so it is her duty to punish the conditioned soul because they have decided to forget Kṛṣṇa. Still, Kṛṣṇa is so merciful, He comes personally, He authorizes His devotee, servant, to enlighten these conditioned souls. Now our Kṛṣṇa consciousness movement is an humble attempt to raise the standard of these conditioned souls to Kṛṣṇa consciousness. Those who are engaged in this business, they should personally behave as devotee, and by their example they should teach others and elevate them from this gross ignorance of materialistic life. Thank you very much.
 

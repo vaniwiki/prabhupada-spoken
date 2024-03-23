@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770204r1.cal
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-02-04
-showdate_hidden  : 2023-02-04
-listplace_hidden : Calcutta
-Type_spoken      : Room Conversation
-Date_spoken      : February 4
-Year_spoken      : 1977
-Place_spoken     : Calcutta
-Length_hidden    : 08:41
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770204r1.cal.mp3|Room Conversation — February 4, 1977, Calcutta}}
-</audio>
-
 **Prabhupāda:**
 So to approach a puffed-up man, falsely puffed-up man... Just like sometimes father begs from the son, "Oh, my dear child, oh, you are very... Give me this hundred rupees' note. You'll spoil it." But the child does not know that father is not beggar. The child thinks, "My father is begging. All right. Take it." This is childish. We are not begging. It is a means to approach the rascal puffed-up men. We are not begging. And what is that? If I sell one book, is that begging?
 

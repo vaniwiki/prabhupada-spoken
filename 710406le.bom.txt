@@ -9,24 +9,6 @@
 
 ====== Pandal Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710406le.bom
-listtype_hidden  : Pandal Lecture
-listdate_hidden  : 1971-04-06
-showdate_hidden  : 2023-04-06
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : April 6
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Pandal Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710406le.bom.mp3|Pandal Lecture — April 6, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [chants //maṅgalācaraṇa// prayers] Ladies and gentlemen, we are very much thankful to you for your kindly participating in this great movement, Hare Kṛṣṇa. This Hare Kṛṣṇa movement is especially meant for this age because for self-realization, although there are many methods recommended in Vedic scriptures, in this age the greatest common factor for self-realization is simply chanting this Hare Kṛṣṇa //mantra.// Actually, our miserable condition of life is due to our forgetfulness. As I said yesterday, day before yesterday, this material existence is a condemned position of the living entities, exactly like a criminal is placed in the prisonhouse. Now, the whole Vedic literature is meant for getting us liberated from this condition of life. So far //Bhagavad-gītā// is concerned, the same aim is there because at the ultimate instruction, Lord Kṛṣṇa says, //sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja// [[books:bg:18:66|[Bg. 18.66]]]. That is the ultimate goal. We have to come to that point, to surrender unto the lotus feet of the Supreme Personality of Godhead. It may take hundreds of years or hundreds of births, but unless we come to that point, our life is simply frustration. //Śrama eva hi kevalam.// In the //Śrīmad-Bhāgavatam// it is said,
 

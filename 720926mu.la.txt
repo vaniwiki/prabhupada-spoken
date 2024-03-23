@@ -9,24 +9,6 @@
 
 ====== Anādi karama-phale and Purport ======
 
----- dataentry spoken ----
-id_hidden        : 720926mu.la
-listtype_hidden  : Anādi karama-phale and Purport
-listdate_hidden  : 1972-09-26
-showdate_hidden  : 2023-09-26
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : September 26
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 46:04
-Title_hidden     : Anādi karama-phale and Purport
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720926mu.la.mp3|Anādi karama-phale and Purport — September 26, 1972, Los Angeles}}
-</audio>
-
 [sound muffled]
 
 > anādi' karama-phale poḍi' bhavārnava-jale

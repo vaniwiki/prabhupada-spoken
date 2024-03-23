@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.11–21 ======
 
----- dataentry spoken ----
-id_hidden        : 660907bg.ny
-listtype_hidden  : Bg 6.11–21
-listdate_hidden  : 1966-09-07
-showdate_hidden  : 2023-09-07
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : September 7
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.11–21
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660907bg.ny.mp3|Bg 6.11-21 — September 7, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 In India there are some selected places, very sacred place, and the yogis, generally, they go there and sit there alone in a sacred place and as prescribed in the //Bhagavad-gītā// and perform there. //Yoga-āsana// cannot be executed in a public place, so that, in assembly. Now, so far this //kīrtana// is concerned... Just like we have performed just now //kīrtana,// this is called //saṅkīrtana. Saṅkīrtana// means: //bahubhir militvā kīrtayati iti saṅkīrtanam.// When we sit down, many people together... When Lord Caitanya was performing this //kīrtana// ceremony five hundred years before, He had in each group sixteen persons taking part in //kīrtana,// and thousands and thousands of people were singing with them. Now, this participation in the //kīrtana// is very easily possible. But so far the yoga system is concerned, that is required any very secluded and sacred place, silent. That is required. It is clearly said here that //śucau deśe pratiṣṭhāpya sthiram āsanam ātmanaḥ// [[books:bg:6:11-12|[Bg. 6.11-12]]]. One has to place himself in a sacred place, in a silent place; then yoga system is possible.
 

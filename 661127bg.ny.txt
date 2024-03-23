@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 9.11–14 ======
 
----- dataentry spoken ----
-id_hidden        : 661127bg.ny
-listtype_hidden  : Bg 9.11–14
-listdate_hidden  : 1966-11-27
-showdate_hidden  : 2023-11-27
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : November 27
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 9.11–14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/661127bg.ny.mp3|Bg 9.11-14 — November 27, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > avajānanti māṁ mūḍhā

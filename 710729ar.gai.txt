@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 710729ar.gai
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1971-07-29
-showdate_hidden  : 2023-07-29
-listplace_hidden : Gainesville
-Type_spoken      : Lecture
-Date_spoken      : July 29
-Year_spoken      : 1971
-Place_spoken     : Gainesville
-Length_hidden    : 00:00
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710729ar.gai.mp3|Arrival Lecture — July 29, 1971, Gainesville}}
-</audio>
-
 **Prabhupāda:**
 We see you chanting the //mahā-mantra.// Lord Caitanya Mahāprabhu predicted that in every village, town, country on the surface of the globe this //saṅkīrtana// movement will be spreading. So we are very much obliged to you that in this remote place, which is thousands and thousands miles away from Lord Caitanya's birthplace, Navadvīpa, and you are carrying out, to fulfill His desire, chanting Hare Kṛṣṇa //mantra.// So Caitanya Mahāprabhu---the picture is there---assisted by four others, Pañca-tattva. Kṛṣṇa appeared in five principles. Lord Caitanya Mahāprabhu is Kṛṣṇa Himself, and Nityānanda Prabhu is His immediate expansion, and Advaita Prabhu is incarnation. Gadādhara Prabhu is internal potency, and //śrīvāsādi,// Śrīvāsa is heading the list of His devotees. Śrīvāsa represents the marginal potency of Kṛṣṇa.
 

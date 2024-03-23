@@ -9,24 +9,6 @@
 
 ====== Morning Walk Conversation About Bombay ======
 
----- dataentry spoken ----
-id_hidden        : 760829mw.del
-listtype_hidden  : Morning Walk Conversation About Bombay
-listdate_hidden  : 1976-08-29
-showdate_hidden  : 2023-08-29
-listplace_hidden : Delhi
-Type_spoken      : Morning Walk
-Date_spoken      : August 29
-Year_spoken      : 1976
-Place_spoken     : Delhi
-Length_hidden    : 16:27
-Title_hidden     : Morning Walk Conversation About Bombay
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760829mw.del.mp3|Morning Walk Conversation About Bombay — August 29, 1976, Delhi}}
-</audio>
-
 [in car]
 
 **Girirāja:**

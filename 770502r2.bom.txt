@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770502r2.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-05-02
-showdate_hidden  : 2023-05-02
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : May 2
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 22:02
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770502r2.bom.mp3|Room Conversation — May 2, 1977, Bombay}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 Śrīla Prabhupāda? I was thinking to..., if I had some free time, that I could work on writing some essay about nationalism.
 

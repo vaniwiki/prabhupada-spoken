@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.2 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 731030bg.vrn
-listtype_hidden  : Bg 7.2 [Hindi]
-listdate_hidden  : 1973-10-30
-showdate_hidden  : 2023-10-30
-listplace_hidden : Vṛndāvana
-Type_spoken      : Hindi
-Date_spoken      : October 30
-Year_spoken      : 1973
-Place_spoken     : Vṛndāvana
-Length_hidden    : 33:43
-Title_hidden     : Bhagavad-gītā 7.2 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731030bg.vrn_hindi.mp3|Bg 7.2 [Hindi] — October 30, 1973, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 
 > jñānaṁ te 'haṁ sa-vijñānam

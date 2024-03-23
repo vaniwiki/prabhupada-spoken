@@ -9,24 +9,6 @@
 
 ====== Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu ======
 
----- dataentry spoken ----
-id_hidden        : 770731r1.vrn
-listtype_hidden  : Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu
-listdate_hidden  : 1977-07-31
-showdate_hidden  : 2023-07-31
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 31
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 19:32
-Title_hidden     : Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770731r1.vrn.mp3|Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu — July 31, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...difficult to go from this room to that room. Unless one or two men help, I cannot go even to the toilet.
 

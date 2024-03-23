@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721030nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-10-30
-showdate_hidden  : 2023-10-30
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : October 30
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 38:29
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721030nd.vrn.mp3|The Nectar of Devotion — October 30, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading] 21.
 

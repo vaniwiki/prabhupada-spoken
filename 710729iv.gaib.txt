@@ -9,24 +9,6 @@
 
 ====== Interview ======
 
----- dataentry spoken ----
-id_hidden        : 710729iv.gai
-listtype_hidden  : Interview
-listdate_hidden  : 1971-07-29
-showdate_hidden  : 2023-07-29
-listplace_hidden : Gainesville
-Type_spoken      : Interview
-Date_spoken      : July 29
-Year_spoken      : 1971
-Place_spoken     : Gainesville
-Length_hidden    : 00:00
-Title_hidden     : Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710729iv.gai.mp3|Interview — July 29, 1971, Gainesville}}
-</audio>
-
 **Interviewer:**
 This is being recorded on videotape, so it will be broadcast later.
 

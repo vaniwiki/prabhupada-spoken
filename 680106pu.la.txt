@@ -9,24 +9,6 @@
 
 ====== Purport to Gaurāṅga Bolite Habe ======
 
----- dataentry spoken ----
-id_hidden        : 680106pu.la
-listtype_hidden  : Gaurāṅga Bolite Habe
-listdate_hidden  : 1968-01-06
-showdate_hidden  : 2023-01-06
-listplace_hidden : Los Angeles
-Type_spoken      : Song Purport
-Date_spoken      : January 5
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Purport to Gaurāṅga Bolite Habe
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680106pu.la.mp3|Purport to Gaurāṅga Bolite Habe — January 5, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 This is a song sung by Narottama dāsa Ṭhākura. He says, "When that day will come, that I shall sing simply Lord Caitanya's name and there will be shivering on my body?" //Gaurāṅga bolite habe pulaka-śarīra. Pulaka-śarīra// means shivering on the body. When one is factually situated in the transcendental platform, sometimes there are eight kinds of symptoms: crying, talking like a madman, and shivering of the body, dancing without any care for any other men... These symptoms develop automatically. They are not practiced artificially. So Narottama dāsa Ṭhākura is aspiring for that day, not that one has to artificially imitate. That he does not recommend. He says, "When that day will come, so that simply by uttering the name of Lord Caitanya there will be a shivering on my body?" //Gaurāṅga bolite habe pulaka-śarīra.// And //hari hari bolite:// "And as soon as I shall chant 'Hari Hari,' or 'Hare Kṛṣṇa,' there will be pouring down of tears from my eyes." //Hari hari bolite nayane ba'be nīra. Nīra// means water. Similarly, Caitanya Mahāprabhu also said that "When that day will come?" We should simply aspire. But if, by Kṛṣṇa's grace, that stage we can reach, these symptoms will come automatically. But Narottama dāsa Ṭhākura says that it is not possible to reach that stage without being freed from material affection.
 

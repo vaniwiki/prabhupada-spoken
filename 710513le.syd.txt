@@ -9,24 +9,6 @@
 
 ====== Lecture at Wayside Chapel ======
 
----- dataentry spoken ----
-id_hidden        : 710513le.syd
-listtype_hidden  : Lecture at Wayside Chapel
-listdate_hidden  : 1971-05-13
-showdate_hidden  : 2023-05-13
-listplace_hidden : Sydney
-Type_spoken      : Lecture
-Date_spoken      : May 13
-Year_spoken      : 1971
-Place_spoken     : Sydney
-Length_hidden    : 00:00
-Title_hidden     : Lecture at Wayside Chapel
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710513le.syd.mp3|Lecture at Wayside Chapel — May 13, 1971, Sydney}}
-</audio>
-
 [//kīrtana//]
 
 **Bali-mardana:**

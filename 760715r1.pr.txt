@@ -9,20 +9,6 @@
 
 ====== Conversation at Gītā-nagarī Farm ======
 
----- dataentry spoken ----
-id_hidden        : 760715r1.pr
-listtype_hidden  : Conversation at Gītā-nagarī Farm
-listdate_hidden  : 1976-07-15
-showdate_hidden  : 2023-07-15
-listplace_hidden : Port Royal
-Type_spoken      : Room Conversation
-Date_spoken      : July 15
-Year_spoken      : 1976
-Place_spoken     : Port Royal
-Length_hidden    : No Audio
-Title_hidden     : Conversation at Gītā-nagarī Farm
-----
-
 Submitted as a hard copy by Murali Vadaka Dasa on 2014-01-23 [No Audio]
 
 [Hari Sauri Prabhu’s comment: "Looks genuine. We were in Gita Nagari for the day and Bali, Cyavana, TKG were all there. Buy more land was Prabhupada's usual response to the question of increasing sizes of herds."]

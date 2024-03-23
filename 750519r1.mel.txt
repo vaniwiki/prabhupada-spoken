@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Journalist ======
 
----- dataentry spoken ----
-id_hidden        : 750519r1.mel
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-19
-showdate_hidden  : 2023-05-19
-listplace_hidden : Melbourne
-Type_spoken      : Room Conversation
-Date_spoken      : May 19
-Year_spoken      : 1975
-Place_spoken     : Melbourne
-Length_hidden    : 29:22
-Title_hidden     : Room Conversation with Journalist
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750519r1.mel.mp3|Room Conversation with Journalist — May 19, 1975, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] ...because the whole world was merged into water. So evolution takes place from aquatics, fish. Then, as the water dries up, there was vegetation, plants. Plants, creepers, trees. Then, gradually, the insects, moths, reptiles, serpents, they come out. And then, from insects, the birds, varieties of birds. There are three million kinds of birds. And aquatics, 900,000. And eleven hundred thousand, 1,100,000 species of these insects and reptiles. And one million varieties of birds. And then beasts, animals, four-legged, there are three million varieties. So all together this is eight million. Huh? No?
 

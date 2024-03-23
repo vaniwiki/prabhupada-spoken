@@ -9,24 +9,6 @@
 
 ====== Room Conversation: Varṇāśrama ======
 
----- dataentry spoken ----
-id_hidden        : 770714r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-14
-showdate_hidden  : 2023-07-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 14
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 29:04
-Title_hidden     : Room Conversation Varṇāśrama
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770714r1.vrn.mp3|Room Conversation: Varṇāśrama — July 14, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...actually what benefit to the human society? But technology, or high technology. Just like Indian technology. [break]
 

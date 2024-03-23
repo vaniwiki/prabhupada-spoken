@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760706r1.wdc
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-06
-showdate_hidden  : 2023-07-06
-listplace_hidden : Washington, D.C.
-Type_spoken      : Room Conversation
-Date_spoken      : July 6
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 49:03
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760706r1.wdc.mp3|Room Conversation — July 6, 1976, Washington, D.C.}}
-</audio>
-
 **Prabhupāda:**
 You economically prove that Kṛṣṇa consciousness is simple and inexpensive life.
 

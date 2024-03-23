@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740122mw.hon
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-01-22
-showdate_hidden  : 2023-01-22
-listplace_hidden : Honolulu
-Type_spoken      : Morning Walk
-Date_spoken      : January 22
-Year_spoken      : 1974
-Place_spoken     : Honolulu
-Length_hidden    : 26:14
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740122mw.hon.mp3|Morning Walk — January 22, 1974, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 ...that "Unless we see." But you see, but you cannot go. Your argument is, "Unless we see." But you are seeing there is another planet, so many hundred and thousands, millions of planets, but you cannot go there. That is your inefficiency. How can you say? Because your theory is "I must see," but you cannot go there. First of all, admit your inefficiency. Why you conclude, what is called, abruptly, without seeing? Because seeing is your experience. But you cannot go and see. Why you are trying to go to the moon planet? Just to see. Similarly, there are so many other planets, but you are not efficient to go and see. How can you conclude?
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.40 ======
 
----- dataentry spoken ----
-id_hidden        : 760318sb.may
-listtype_hidden  : SB 7.9.40
-listdate_hidden  : 1976-03-18
-showdate_hidden  : 2023-03-18
-listplace_hidden : Māyāpur
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 18
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 36:29
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.40
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760318sb.may.mp3|SB 7.9.40 — March 18, 1976, Māyāpur}}
-</audio>
-
 **Śāstrījī:**
 [chants //mantras//] //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] //Śrīmad-Bhāgavatam,// 7.9.40 [chants verse; Prabhupāda and devotees respond] [break]
 

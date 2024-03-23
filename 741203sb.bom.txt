@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.33–34 ======
 
----- dataentry spoken ----
-id_hidden        : 741203sb.bom
-listtype_hidden  : SB 3.25.33–34
-listdate_hidden  : 1974-12-03
-showdate_hidden  : 2023-12-03
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 3
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 48:14
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.33–34
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741203sb.bom.mp3|SB 3.25.33-34 — December 3, 1974, Bombay}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

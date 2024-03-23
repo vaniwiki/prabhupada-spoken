@@ -9,24 +9,6 @@
 
 ====== Śrī Īśopaniṣad, Mantra 1 ======
 
----- dataentry spoken ----
-id_hidden        : 681030ip.la
-listtype_hidden  : Īśo Mantra 1
-listdate_hidden  : 1968-10-30
-showdate_hidden  : 2023-10-30
-listplace_hidden : Los Angeles
-Type_spoken      : Śrī Īśopaniṣad
-Date_spoken      : October 30
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Īśopaniṣad, Mantra 1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681030ip.la.mp3|Śrī Īśopaniṣad, Mantra 1 — October 30, 1968, Los Angeles}}
-</audio>
-
 [incomplete lecture]
 
 **Prabhupāda:**

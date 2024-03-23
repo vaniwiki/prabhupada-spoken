@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750824mw.del
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-08-24
-showdate_hidden  : 2023-08-24
-listplace_hidden : Delhi
-Type_spoken      : Morning Walk
-Date_spoken      : August 24
-Year_spoken      : 1975
-Place_spoken     : Delhi
-Length_hidden    : 15:14
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750824mw.del.mp3|Morning Walk — August 24, 1975, Delhi}}
-</audio>
-
 **Brahmānanda:**
 ...six and 1975 is seventy-nine years?
 

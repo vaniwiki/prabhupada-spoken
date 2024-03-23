@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam, Canto Six Dictation ======
 
----- dataentry spoken ----
-id_hidden        : 750811dt.par
-listtype_hidden  : SB 6 Dictation
-listdate_hidden  : 1975-08-11
-showdate_hidden  : 2023-08-11
-listplace_hidden : Paris
-Type_spoken      : Various
-Date_spoken      : August 11
-Year_spoken      : 1975
-Place_spoken     : Paris
-Length_hidden    : 17:12
-Title_hidden     : Śrīmad-Bhāgavatam, Canto 6 Dictation Chapter 12, Verse 24–35 Chapter 13, Verse 1–2
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750811dt.par.mp3|SB, Canto Six Dictation — August 11, 1975, Paris}}
-</audio>
-
 **Prabhupāda:**
 
 > hare kṛṣṇa hare kṛṣṇa

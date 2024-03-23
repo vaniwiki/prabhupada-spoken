@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721024nd.vrn
-listtype_hidden  : The Nectar of Devotion
-listdate_hidden  : 1972-10-24
-showdate_hidden  : 2023-10-24
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : October 24
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 39:22
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721024nd.vrn.mp3|The Nectar of Devotion — October 24, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading] "The basic principle of the living condition is that we have a general propensity to love someone. No one can live without loving someone else. This propensity is present in every living being. Even an animal like a tiger has this loving propensity, at least in a dormant stage, and it is certainly present in the human beings. The missing point, however, is where to repose our love so that everyone can become happy.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761230r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-30
-showdate_hidden  : 2023-12-30
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 30
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 16:54
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761230r1.bom.mp3|Room Conversation — December 30, 1976, Bombay}}
-</audio>
-
 **Girirāja:**
 ...cannot accept anything artificial, but Mr. Vijaya cannot keep up to that standard.
 

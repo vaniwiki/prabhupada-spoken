@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 3.36–37 ======
 
----- dataentry spoken ----
-id_hidden        : 730211bg.mel
-listtype_hidden  : Bg 3.36–37
-listdate_hidden  : 1973-02-11
-showdate_hidden  : 2023-02-11
-listplace_hidden : Melbourne
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 11
-Year_spoken      : 1973
-Place_spoken     : Melbourne
-Length_hidden    : 61:41
-Title_hidden     : Bhagavad-gītā 3.36–37
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730211bg.mel.mp3|Bg 3.36-37 — February 11, 1973, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 
 > atha kena prayukto 'yaṁ

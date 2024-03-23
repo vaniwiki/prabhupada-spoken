@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.26.25 ======
 
----- dataentry spoken ----
-id_hidden        : 750102sb.bom
-listtype_hidden  : SB 3.26.25
-listdate_hidden  : 1975-01-02
-showdate_hidden  : 2023-01-02
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 2
-Year_spoken      : 1975
-Place_spoken     : Bombay
-Length_hidden    : 25:52
-Title_hidden     : Śrīmad-Bhāgavatam 3.26.25
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750102sb.bom.mp3|SB 3.26.25 — January 2, 1975, Bombay}}
-</audio>
-
 **Nitāi:** "The threefold ahaṅkāra, the source of the gross elements, the senses and the mind, is hence identical with them because it is their cause. It is known by the name of Saṅkarṣaṇa, who is directly Lord Ananta with a thousand heads."
 
 **Prabhupāda:**

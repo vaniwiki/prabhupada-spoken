@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760622gc.nv
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1976-06-22
-showdate_hidden  : 2023-06-22
-listplace_hidden : New Vrindavan
-Type_spoken      : Room Conversation
-Date_spoken      : June 22
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 70:37
-Title_hidden     : Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760622gc.nv.mp3|Garden Conversation — June 22, 1976, New Vrindavan}}
-</audio>
-
 **Devotee (1):**
 ...shortage of brain, then we have to make some scientific solution, that to say God is acting, that is not acting, that is not practical. We must make some solution, like irrigation or...
 

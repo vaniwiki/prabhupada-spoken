@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.50 ======
 
----- dataentry spoken ----
-id_hidden        : 750803sb.det
-listtype_hidden  : SB 6.1.50
-listdate_hidden  : 1975-08-03
-showdate_hidden  : 2023-08-03
-listplace_hidden : Detroit
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 3
-Year_spoken      : 1975
-Place_spoken     : Detroit
-Length_hidden    : 28:59
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.50
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750803sb.det.mp3|SB 6.1.50 — August 3, 1975, Detroit}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [break] [leads chanting of verse, etc.]
 

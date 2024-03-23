@@ -9,24 +9,6 @@
 
 ====== Garden Conversation, Kṛṣṇa book, “Delivery of the Message of Kṛṣṇa to the Gopīs” ======
 
----- dataentry spoken ----
-id_hidden        : 720618gc.la
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1972-06-18
-showdate_hidden  : 2023-06-18
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 18
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 13:10
-Title_hidden     : Garden Conversation Kṛṣṇa, “Delivery of the Message of Kṛṣṇa to the Gopīs”
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720618gc.la.mp3|Garden Conversation, Kṛṣṇa book, “Delivery of the Message of Kṛṣṇa to the Gopīs” — June 18, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...what happened, not only this time; in previous [indistinct]. Let me explain. Previous to this he has also sinned. What is that? Oh [chuckles].
 

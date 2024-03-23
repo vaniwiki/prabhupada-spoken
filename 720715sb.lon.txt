@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.5 ======
 
----- dataentry spoken ----
-id_hidden        : 720715sb.lon
-listtype_hidden  : SB 1.1.5
-listdate_hidden  : 1972-07-15
-showdate_hidden  : 2023-07-15
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 15
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 45:33
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.5
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720715sb.lon.mp3|SB 1.1.5 — July 15, 1972, London}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat]
 

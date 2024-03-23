@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.11–12 ======
 
----- dataentry spoken ----
-id_hidden        : 740225bg.bom
-listtype_hidden  : Bg 7.11–12
-listdate_hidden  : 1974-02-25
-showdate_hidden  : 2023-02-25
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 25
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 36:27
-Title_hidden     : Bhagavad-gītā 7.11–12
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740225bg.bom.mp3|Bg 7.11-12 — February 25, 1974, Bombay}}
-</audio>
-
 **Pradyumna:**
 [leads chanting of verse, etc.]
 

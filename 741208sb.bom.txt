@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 3.25.39–40 ======
 
----- dataentry spoken ----
-id_hidden        : 741208sb.bom
-listtype_hidden  : SB 3.25.39–40
-listdate_hidden  : 1974-12-08
-showdate_hidden  : 2023-12-08
-listplace_hidden : Bombay
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 8
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 32:18
-Title_hidden     : Śrīmad-Bhāgavatam 3.25.39–40
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/741208sb.bom.mp3|SB 3.25.39-40 — December 8, 1974, Bombay}}
-</audio>
-
 **Nitāi:**
 [leads chanting of verse] [devotees repeat]
 

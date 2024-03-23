@@ -9,24 +9,6 @@
 
 ====== Talk, Initiation Lecture, and Ten Offenses Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 681201in.la
-listtype_hidden  : Talk, Initiation Lecture, and Ten Offenses Lecture
-listdate_hidden  : 1968-12-01
-showdate_hidden  : 2023-12-01
-listplace_hidden : Los Angeles
-Type_spoken      : Initiation
-Date_spoken      : December 1
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Talk, Initiation Lecture, and Ten Offenses Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681201in.la.mp3|Talk, Initiation Lecture, and Ten Offenses Lecture — December 1, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...worship prevents snake biting. That is a village worship. So in every demigod worship there are drum beaters. So a party of drum beaters were engaged, and when the fees, bill, of the drum beaters was to be paid, the demigod //Mansa[?]// was sold. They could not pay the bills. Similarly, we may print our books, but the binding charges are so high, then it will cost more than getting it from Japan. [chuckles] Jayānanda looks like Śrī Caitanya Mahāprabhu. [laughter] Yes. He was tall and stout and strong, Caitanya Mahāprabhu. [laughing] Yes. Very good. And in Vṛndāvana, when Kīrtanānanda was given //sannyāsa,// he was looking so nice with this dress and //daṇḍa,// oh, practically all the devotees of Vṛndāvana came to offer him respect. Yes. On Janmāṣṭamī day I offered him //sannyāsa.// So many devotees came to see in the temple. So there was a big crowd. He was looking very nice. Caitanya Mahāprabhu was also very fair-complexioned. So with this dress, persons with fair complexion looks very nice, very attractive. People are not attracted with this dress in //kīrtana// party? [laughs] This bare head with //tilaka// and this dress, they will know that they are coming from, directly from the kingdom of God. [laughs] Actually it is so. They have forgotten God; otherwise they would have received these //brahmacārīs// so nicely. In India, oh, you'll be received just like gods with this dress. Hundreds and thousands of people will come to receive you. Yes. That is sufficient. [//kīrtana//] So how Bīrabhadra is feeling? [Bīrabhadra answers?] He has got pains in the body?
 

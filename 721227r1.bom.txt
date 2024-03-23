@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 721227r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-12-27
-showdate_hidden  : 2023-12-27
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : December 27
-Year_spoken      : 1972
-Place_spoken     : Bombay
-Length_hidden    : 32:29
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721227r1.bom.mp3|Room Conversation — December 27, 1972, Bombay}}
-</audio>
-
 **Prabhupāda:**
 They think that "Now I have become this position, it will continue." But how long it will continue? They do not care for this.
 

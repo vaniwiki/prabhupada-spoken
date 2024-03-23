@@ -9,24 +9,6 @@
 
 ====== Garden Conversation, Kṛṣṇa, ‘Songs by the Gopīs.’ ======
 
----- dataentry spoken ----
-id_hidden        : 720614gc.la
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1972-06-14
-showdate_hidden  : 2023-06-14
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 14
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 19:02
-Title_hidden     : Garden Conversation Kṛṣṇa, ‘Songs by the Gopīs.’
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720614gc.la.mp3|Garden Conversation, Kṛṣṇa, ‘Songs by the Gopīs.’ — June 14, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ... opulence, all opulences will be. In the temple, if we accept Kṛṣṇa is present there, all opulences will be... If we think that it is idol worship, that is another thing. But, Kṛṣṇa is present here. You should believe like the //gopīs,// then everything will be [indistinct].
 

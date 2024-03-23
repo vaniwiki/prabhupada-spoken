@@ -9,24 +9,6 @@
 
 ====== Conversation with disciples of Chinmayananda and Shivananda Ashram ======
 
----- dataentry spoken ----
-id_hidden        : 770422r2.bom
-listtype_hidden  : Conversation with disciples of Chinmayananda and Shivananda Ashram
-listdate_hidden  : 1977-04-22
-showdate_hidden  : 2023-04-22
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : April 22
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 18:42
-Title_hidden     : Conversation with disciples of Chinmayananda and Shivananda Ashram
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770422r2.bom.mp3|Conversation with disciples of Chinmayananda and Shivananda Ashram — April 22, 1977, Bombay}}
-</audio>
-
 **Indian man (1):**
 //...mūrti,// Shivananda Ashram.
 

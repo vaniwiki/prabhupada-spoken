@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750517r1.per
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-05-17
-showdate_hidden  : 2023-05-17
-listplace_hidden : Perth
-Type_spoken      : Room Conversation
-Date_spoken      : May 17
-Year_spoken      : 1975
-Place_spoken     : Perth
-Length_hidden    : 10:14
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750517r1.per.mp3|Room Conversation — May 17, 1975, Perth}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] But it has got some arrangement, it does not fall down.
 

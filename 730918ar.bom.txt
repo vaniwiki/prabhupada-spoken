@@ -9,22 +9,4 @@
 
 ====== Arrival [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 730918ar.bom
-listtype_hidden  : Arrival [Hindi]
-listdate_hidden  : 1973-09-18
-showdate_hidden  : 2023-09-18
-listplace_hidden : Bombay
-Type_spoken      : Hindi
-Date_spoken      : September 18
-Year_spoken      : 1973
-Place_spoken     : Bombay
-Length_hidden    : 18:33
-Title_hidden     : Arrival [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730918ar.bom_hindi.mp3|Arrival [Hindi] — September 18, 1973, Bombay}}
-</audio>
-
 **Prabhupāda:**

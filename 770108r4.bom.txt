@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770108r4.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-08
-showdate_hidden  : 2023-01-08
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 8
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 28:06
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770108r4.bom.mp3|Room Conversation — January 8, 1977, Bombay}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] [break] India is still for monarchy, not for democracy. They would like. If they get ideal king, they'll accept it. So if you can, and if she's serious, let her become ideal. The people will worship him like God. But she must be sincere. It is a fact. //Yasyāsti bhaktir bhagavaty akiñcanā// [[books:sb:5:18:12|[SB 5.18.12]]]. She must be a pure devotee, then everything will... Let her son become pure devotee..., become a devotee, and everything is all right. She has respect for our movement. That's a fact. And Home Member also. Otherwise so much propaganda against us, they would have taken some steps. They can take any steps they like. They are in power.
 

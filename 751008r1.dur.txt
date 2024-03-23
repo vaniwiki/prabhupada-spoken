@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Bill Faill [reporter] ======
 
----- dataentry spoken ----
-id_hidden        : 751008r1.dur
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-10-08
-showdate_hidden  : 2023-10-08
-listplace_hidden : Durban
-Type_spoken      : Room Conversation
-Date_spoken      : October 8
-Year_spoken      : 1975
-Place_spoken     : Durban
-Length_hidden    : 34:13
-Title_hidden     : Room Conversation with Bill Faill [reporter]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751008r1.dur.mp3|Room Conversation with Bill Faill [reporter] — October 8, 1975, Durban}}
-</audio>
-
 **Bill Faill:**
 ...the Kṛṣṇa movement is about and its origins, its following. This sort of thing.
 

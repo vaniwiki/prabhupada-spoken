@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.13 ======
 
----- dataentry spoken ----
-id_hidden        : 720908bg.pit
-listtype_hidden  : Bg 2.13
-listdate_hidden  : 1972-09-08
-showdate_hidden  : 2023-09-08
-listplace_hidden : Pittsburgh
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : September 8
-Year_spoken      : 1972
-Place_spoken     : Pittsburgh
-Length_hidden    : 42:03
-Title_hidden     : Bhagavad-gītā 2.13
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720908bg.pit.mp3|Bg 2.13 — September 8, 1972, Pittsburgh}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse] [Prabhupāda and devotees repeat]
 

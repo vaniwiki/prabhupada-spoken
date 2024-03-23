@@ -9,24 +9,6 @@
 
 ====== Press Interview ======
 
----- dataentry spoken ----
-id_hidden        : 681230iv.la
-listtype_hidden  : Press Interview
-listdate_hidden  : 1968-12-30
-showdate_hidden  : 2023-12-30
-listplace_hidden : Los Angeles
-Type_spoken      : Interview
-Date_spoken      : December 30
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Press Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681230iv.la.mp3|Press Interview — December 30, 1968, Los Angeles}}
-</audio>
-
 **Journalist:**
 ...Cosmic Star and we just changed the name for January, the first issue. The first issue just, well, it's out, coming off the printer today.
 

@@ -9,24 +9,6 @@
 
 ====== Sannyāsa Initiation of Viraha Prakāśa Swami ======
 
----- dataentry spoken ----
-id_hidden        : 760205in.may
-listtype_hidden  : Sannyāsa Initiation of Viraha Prakāśa Swami
-listdate_hidden  : 1976-02-05
-showdate_hidden  : 2023-02-05
-listplace_hidden : Māyāpur
-Type_spoken      : Initiation
-Date_spoken      : February 5
-Year_spoken      : 1976
-Place_spoken     : Māyāpur
-Length_hidden    : 21:03
-Title_hidden     : Sannyāsa Initiation of Viraha Prakāśa Swami
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760205in.may.mp3|Sannyāsa Initiation of Viraha Prakāśa Swami — February 5, 1976, Māyāpur}}
-</audio>
-
 Śāstrījī: [chants //mantras// for fire sacrifice; devotees loudly chanting //japa//] [break]
 
 **Prabhupāda:**

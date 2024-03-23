@@ -9,24 +9,6 @@
 
 ====== Śrīmad Bhagavatam Dictations 10.14.1 ======
 
----- dataentry spoken ----
-id_hidden        : 771031sb.vrn
-listtype_hidden  : Śrīmad Bhagavatam Dictations 10.14.1
-listdate_hidden  : 1977-10-31
-showdate_hidden  : 2023-10-31
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 31
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 09:25
-Title_hidden     : Śrīmad-Bhāgavatam Dictations 10.14.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771031sb.vrn.mp3|Śrīmad Bhagavatam Dictations 10.14.1 — October 31, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...for one year stolen and hidden, but they could not understand that for one year He remained like that. [break] ...naturally sleeping. "As You were not here, we could not eat. Now You have come, let us take tiffin." [indistinct] that "For one year You are absent," and now they are speaking that "You were not here; we could not eat." [break]
 

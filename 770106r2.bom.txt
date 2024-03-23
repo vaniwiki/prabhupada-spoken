@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770106r2.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-06
-showdate_hidden  : 2023-01-06
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 6
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 50:28
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770106r2.bom.mp3|Room Conversation — January 6, 1976, Bombay}}
-</audio>
-
 **Girirāja:**
 It didn't seem [indistinct] after two months. So today... Actually I was thinking of phoning his wife, because she was not well. Or one of our ladies could phone her. And then if she's still not well they could go and visit her. And if she is well, they could invite her, and then if she wants to come, then she'll bring him.
 

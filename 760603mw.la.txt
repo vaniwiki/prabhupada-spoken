@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760603mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-06-03
-showdate_hidden  : 2023-06-03
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : June 3
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 43:07
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760603mw.la.mp3|Morning Walk — June 3, 1976, Los Angeles}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 While I was in New York, I've been going to the United Nations building there, and there's a organization called ECOSOC, the Economic and Social Council. It's made up of the members of the U.N., and I think there's very good chance that our Society can be represented amongst this group as a nongovernmental organization, which means that in various matters which the council discusses, we would be a consultive group and we would be able to present statements as well as literature on how to solve..., on our viewpoint on how to solve various problems facing the council. And these would be distributed to all the United Nations representatives.
 

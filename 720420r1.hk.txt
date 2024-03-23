@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 720420r1.hk
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1972-04-20
-showdate_hidden  : 2023-04-20
-listplace_hidden : Hong Kong
-Type_spoken      : Room Conversation
-Date_spoken      : April 20
-Year_spoken      : 1972
-Place_spoken     : Hong Kong
-Length_hidden    : 40:55
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720420r1.hk.mp3|Room Conversation — April 20, 1972, Hong Kong}}
-</audio>
-
 **Prabhupāda:**
 [indistinct] ...Bangladesh. That is His vision.
 

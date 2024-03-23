@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740622mw.ger
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-06-22
-showdate_hidden  : 2023-06-22
-listplace_hidden : Germany
-Type_spoken      : Morning Walk
-Date_spoken      : June 22
-Year_spoken      : 1974
-Place_spoken     : Germany
-Length_hidden    : 21:43
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740622mw.ger.mp3|Morning Walk — June 22, 1974, Germany}}
-</audio>
-
 **Haṁsadūta:**
 The people who were there, they all paid to come to that engagement. They did not come free. Five marks. About two dollars.
 

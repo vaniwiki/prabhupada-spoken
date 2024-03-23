@@ -9,24 +9,6 @@
 
 ====== Interview ======
 
----- dataentry spoken ----
-id_hidden        : 720909iv.pit
-listtype_hidden  : Interview
-listdate_hidden  : 1972-09-09
-showdate_hidden  : 2023-09-09
-listplace_hidden : Pittsburgh
-Type_spoken      : Interview
-Date_spoken      : September 9
-Year_spoken      : 1972
-Place_spoken     : Pittsburgh
-Length_hidden    : 31:10
-Title_hidden     : Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720909iv.pit.mp3|Interview — September 9, 1972, Pittsburgh}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. [break] We have got experience of the sky. Some parts of the world the sky is cloudy just like London and northern parts of Europe they are always cloudy. Similarly in the tropical zone the sky is clear. The sky is the same generally the part of the creation where God consciousness is very meagre that is called material world. And the part of the creation where God consciousness is very prominent that is called Vaikuṇṭha or spiritual world.
 

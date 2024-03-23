@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751012mw.dur
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-10-12
-showdate_hidden  : 2023-10-12
-listplace_hidden : Durban
-Type_spoken      : Morning Walk
-Date_spoken      : October 12
-Year_spoken      : 1975
-Place_spoken     : Durban
-Length_hidden    : 22:24
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751012mw.dur.mp3|Morning Walk — October 12, 1975, Durban}}
-</audio>
-
 **Indian man (1):**
 ...regarding this //Candi-patha.//
 

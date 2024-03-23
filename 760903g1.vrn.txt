@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760903g1.vrn
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1976-09-03
-showdate_hidden  : 2023-09-03
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 3
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 32:37
-Title_hidden     : Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760903g1.vrn.mp3|Garden Conversation — September 3, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 ...with some Indian wife they were called Eurasian, and Englishman marrying Indian wife, they were called Anglo-Indian. There was a big Anglo-Indian community, and they were given good facilities by the Britishers for government jobs, railways. In railway, almost cent percent. The driver, the guard, the ticket inspector, all---means, semi-important jobs---they were all given to these Anglo-Indians. Because they were not very much educated. And officers, they were all Britishers. Officers, secretaries. And Indians were clerks. [laughs] Indians, they were accepted as clerks only. No officers. In military, Indian Sikhs and Gurkha, especially Sikhs, they were very valiant. Still they are valiant. They were given the post of captain. Not general. General all Englishmen.
 

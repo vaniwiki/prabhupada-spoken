@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720501le.tok
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-05-01
-showdate_hidden  : 2023-05-01
-listplace_hidden : Tokyo
-Type_spoken      : Lecture
-Date_spoken      : May 1
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 43:23
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720501le.tok.mp3|Lecture — May 1, 1972, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 So... [break] This material existence, which we are now passing through, is not our actual existence. There is a Bengali Vaiṣṇava poet, he says... Generally, the question is raised, "How the living entities became fallen in this material world?" The Māyāvādī philosophy, they say that we are the same with God, but we are now covered by //māyā,// and as soon as we are free from this //māyā's// covering, we become again one with the Supreme. This is Māyāvāda philosophy. Practically the Vaiṣṇava philosophy also the same, but only difference is that the //jīvātmā,// he is eternal servant of the Supreme Lord.
 

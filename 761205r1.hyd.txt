@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 761205r1.hyd
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-12-05
-showdate_hidden  : 2023-12-05
-listplace_hidden : Hyderabad
-Type_spoken      : Room Conversation
-Date_spoken      : December 5
-Year_spoken      : 1976
-Place_spoken     : Hyderabad
-Length_hidden    : 88:38
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761205r1.hyd.mp3|Room Conversation — December 5, 1976, Hyderabad}}
-</audio>
-
 **Ānandamaya:**
 ...the greatest program in this life is birth, old age, disease and death. And //Bhagavad-gītā// gives the remedy for...
 

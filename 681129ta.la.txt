@@ -9,24 +9,6 @@
 
 ====== Talk Before Class ======
 
----- dataentry spoken ----
-id_hidden        : 681129ta.la
-listtype_hidden  : Talk Before Class
-listdate_hidden  : 1968-11-29
-showdate_hidden  : 2023-11-29
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : November 29
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Talk Before Class
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681129ta.la.mp3|Talk Before Class — November 29, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Who has taken your Deity?
 

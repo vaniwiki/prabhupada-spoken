@@ -9,24 +9,6 @@
 
 ====== Gaura-Pūrṇimā ======
 
----- dataentry spoken ----
-id_hidden        : 720229gp.may
-listtype_hidden  : Gaura-Pūrṇimā
-listdate_hidden  : 1972-02-29
-showdate_hidden  : 2023-02-29
-listplace_hidden : Māyāpur
-Type_spoken      : Lecture
-Date_spoken      : February 29
-Year_spoken      : 1972
-Place_spoken     : Māyāpur
-Length_hidden    : 63:09
-Title_hidden     : Gaura-Pūrṇimā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720229gp.may.mp3|Gaura-Pūrṇimā — February 29, 1972, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 ...commit any sinful activities, that is required. So far his past activities that is excused during the time of initiation as soon as he chants---but one should not commit again. This is very important point, not that I am a great chanter of Hare Kṛṣṇa //mantra// therefore let me do all kinds of nonsense. No, no, one should be very much careful so; //apavitraḥ pavitro vā sarvāvasthāṁ gato 'pi vā yaḥ smaret puṇḍarīkākṣaṁ// [Garuḍa Purāṇa]. This is Kṛṣṇa, the name Kṛṣṇa is identical with Kṛṣṇa,
 

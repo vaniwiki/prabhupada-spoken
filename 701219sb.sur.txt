@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.34–39 ======
 
----- dataentry spoken ----
-id_hidden        : 701219sb.sur
-listtype_hidden  : SB 6.1.34–39
-listdate_hidden  : 1970-12-19
-showdate_hidden  : 2023-12-19
-listplace_hidden : Surat
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : December 19
-Year_spoken      : 1970
-Place_spoken     : Surat
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.34–39
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/701219sb.sur.mp3|SB 6.1.34-39 — December 19, 1970, Surat}}
-</audio>
-
 **Prabhupāda:**
 There are so many ladies.
 

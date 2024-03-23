@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 18.67 ======
 
----- dataentry spoken ----
-id_hidden        : 721210bg.ahm
-listtype_hidden  : Bg 18.67
-listdate_hidden  : 1972-12-10
-showdate_hidden  : 2023-12-10
-listplace_hidden : Ahmedabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : December 10
-Year_spoken      : 1972
-Place_spoken     : Ahmedabad
-Length_hidden    : 51:29
-Title_hidden     : Bhagavad-gītā 18.67
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721210bg.ahm.mp3|Bg 18.67 — December 10, 1972, Ahmedabad}}
-</audio>
-
 **Prabhupāda:**
 
 > idaṁ te nātapaskāya

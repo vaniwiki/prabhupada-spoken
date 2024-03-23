@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.3 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 750830bg.vrn
-listtype_hidden  : Bg 7.3 [Hindi]
-listdate_hidden  : 1975-08-30
-showdate_hidden  : 2023-08-30
-listplace_hidden : Vṛndāvana
-Type_spoken      : Hindi
-Date_spoken      : August 30
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 35:58
-Title_hidden     : Bhagavad-gītā 7.3 [Hindi with English translation]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750830bg.vrn_hindi.mp3|Bg 7.3 [Hindi] — August 30, 1975, Vṛndāvana}}
-</audio>
-
 [final proofreading pending]
 
 **Harikeśa:**

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771105r6.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-05
-showdate_hidden  : 2023-11-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 5
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 07:11
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771105r6.vrn.mp3|Room Conversation — November 5, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 San Diego, we have got a temple?
 

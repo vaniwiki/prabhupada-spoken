@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 731212mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-12-12
-showdate_hidden  : 2023-12-12
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : December 12
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 50:46
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731212mw.la.mp3|Morning Walk — December 12, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...two classes of men: the Communist and the non-Communist. Not exactly Communist and Capitalist, but Communist and non-Communist. Out of these two, the Communist are going to be powerful. This is the world tendency. So if the world becomes full of Communists, then the human civilization will be finished. All rogues and rascals, that's all. The American government wants to check this tendency. But they cannot check it if they remain so-called "Trust in God." That will not be possible.
 

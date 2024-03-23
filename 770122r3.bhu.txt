@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 770122r3.bhu
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-01-22
-showdate_hidden  : 2023-01-22
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : January 22
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 18:36
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770122r3.bhu.mp3|Room Conversation — January 22, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 They are appreciating in foreign countries also. Otherwise why these European, American boys would join? They are not fools and rascals. They understand that "Here is the genuine movement."
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.13 ======
 
----- dataentry spoken ----
-id_hidden        : 730411bg.ny
-listtype_hidden  : Bg 2.13
-listdate_hidden  : 1973-04-11
-showdate_hidden  : 2023-04-11
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 11
-Year_spoken      : 1973
-Place_spoken     : New York
-Length_hidden    : 31:02
-Title_hidden     : Bhagavad-gītā 2.13
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730411bg.ny.mp3|Bg 2.13 — April 11, 1973, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > tathā dehāntaraṁ-prāptir

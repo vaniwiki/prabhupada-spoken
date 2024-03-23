@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760909r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-09-09
-showdate_hidden  : 2023-09-09
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : September 9
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 13:01
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760909r2.vrn.mp3|Room Conversation — September 9, 1976, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 The king and the daughter went to a great //muni's// house, a saintly person. Cyavana Muni, Cyavana Muni. And the daughter, young daughter, out of ignorance, she committed some offense, took one, what is called, straw and pierced through one insect. The //muni// was sitting there as insect. So the result was, because she offended, all the men of the king---means the soldiers, the secretaries, the ministers---they stopped passing urine and stool.
 

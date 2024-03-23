@@ -9,24 +9,6 @@
 
 ====== Lecture at San Diego University ======
 
----- dataentry spoken ----
-id_hidden        : 720629le.sd
-listtype_hidden  : Lecture at San Diego University
-listdate_hidden  : 1972-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : San Diego
-Type_spoken      : Lecture
-Date_spoken      : June 29
-Year_spoken      : 1972
-Place_spoken     : San Diego
-Length_hidden    : 81:05
-Title_hidden     : Lecture at San Diego University
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720629le.sd.mp3|Lecture at San Diego University — June 29, 1972, San Diego}}
-</audio>
-
 **Spokesman:**
 [introduction] We wish to welcome all of you to the University of San Diego tonight, and to this auspicious occasion of having Bhaktivedanta Swami as a guest of the Ecumenical Center for World Religions. The Ecumenical Center for World Religion on the campus of this university was founded for the purpose of meeting people of other religions, and Bhaktivedanta Swami comes to us from India tonight, representing what is known as the Kṛṣṇa consciousness movement.
 

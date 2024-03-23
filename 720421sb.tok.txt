@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.9.1–7 ======
 
----- dataentry spoken ----
-id_hidden        : 720421sb.tok
-listtype_hidden  : SB 2.9.1–7
-listdate_hidden  : 1972-04-21
-showdate_hidden  : 2023-04-21
-listplace_hidden : Tokyo
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 21
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 31:43
-Title_hidden     : Śrīmad-Bhāgavatam 2.9.1–7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720421sb.tok.mp3|SB 2.9.1-7 — April 21, 1972, Tokyo}}
-</audio>
-
 [Poor Audio]
 
 **Pradyumna:**

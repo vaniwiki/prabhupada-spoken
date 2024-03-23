@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 750727mw.sd
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-07-27
-showdate_hidden  : 2023-07-27
-listplace_hidden : San Diego
-Type_spoken      : Morning Walk
-Date_spoken      : July 27
-Year_spoken      : 1975
-Place_spoken     : San Diego
-Length_hidden    : 04:53
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750727mw.sd.mp3|Morning Walk — July 27, 1975, San Diego}}
-</audio>
-
 **Prabhupāda:**
 [laughing] You are so rich, you can do it, continually festival: "Come on. Take //prasādam.// Chant Hare Kṛṣṇa." Just like... What is that? You told me? Continual massage...
 

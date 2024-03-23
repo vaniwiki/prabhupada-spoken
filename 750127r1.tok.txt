@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750127r1.tok
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-01-27
-showdate_hidden  : 2023-01-27
-listplace_hidden : Tokyo
-Type_spoken      : Room Conversation
-Date_spoken      : January 27
-Year_spoken      : 1975
-Place_spoken     : Tokyo
-Length_hidden    : 11:51
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750127r1.tok.mp3|Room Conversation — January 27, 1975, Tokyo}}
-</audio>
-
 **Prabhupāda:**
 ...flowers, fruits, and temperature is changing. It is rotating. Very fixed up, very timely. How can you say there is no control? How can you say? The animals cannot say, but any human being can say, "Yes, there is control. Otherwise how things are going on like this?" [break] ...convince him there is surely controller. Convince him. [break] ...to beginning of this chapter that there is no controller. //Asatyam jagad āhur anīśvaram// [[books:bg:16:8|[Bg. 16.8]]]. Where is that verse, find out. //Jagad āhur anīśvaram.//
 

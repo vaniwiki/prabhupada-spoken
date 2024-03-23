@@ -9,24 +9,6 @@
 
 ====== Press Conference at Airport ======
 
----- dataentry spoken ----
-id_hidden        : 750728pc.dal
-listtype_hidden  : Press Conference
-listdate_hidden  : 1975-07-28
-showdate_hidden  : 2023-07-28
-listplace_hidden : Dallas
-Type_spoken      : Room Conversation
-Date_spoken      : July 28
-Year_spoken      : 1975
-Place_spoken     : Dallas
-Length_hidden    : 13:53
-Title_hidden     : Press Conference at Airport
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750728pc.dal.mp3|Press Conference at Airport — July 28, 1975, Dallas}}
-</audio>
-
 **Prabhupāda:**
 [leads //prema-dhvāṇī// prayers] [break]
 

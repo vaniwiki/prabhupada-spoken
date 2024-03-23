@@ -9,24 +9,6 @@
 
 ====== Interview and Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760708iv.wdc
-listtype_hidden  : Interview
-listdate_hidden  : 1976-07-08
-showdate_hidden  : 2023-07-08
-listplace_hidden : Washington, D.C.
-Type_spoken      : Interview
-Date_spoken      : July 8
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 45:20
-Title_hidden     : Interview and Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760708iv.wdc.mp3|Interview and Conversation — July 8, 1976, Washington, D.C.}}
-</audio>
-
 **Bṛṣākapi:**
 She's from a religious, er... She reports on a religious, er... And this is Channel 4, TV.
 

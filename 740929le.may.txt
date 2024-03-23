@@ -9,22 +9,4 @@
 
 ====== Lecture [Bengali] ======
 
----- dataentry spoken ----
-id_hidden        : 740929le.may
-listtype_hidden  : Lecture [Bengali]
-listdate_hidden  : 1974-09-29
-showdate_hidden  : 2023-09-29
-listplace_hidden : Māyāpur
-Type_spoken      : Bengali
-Date_spoken      : September 29
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 11:33
-Title_hidden     : Lecture [Bengali]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740929le.may_bengali.mp3|Lecture [Bengali] — September 29, 1974, Māyāpur}}
-</audio>
-
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.41 ======
 
----- dataentry spoken ----
-id_hidden        : 760607sb.la
-listtype_hidden  : SB 6.1.41
-listdate_hidden  : 1976-06-07
-showdate_hidden  : 2023-06-07
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 7
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 34:32
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.41
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760607sb.la.mp3|SB 6.1.41 — June 7, 1976, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 [sings //Jaya rādhā-mādhava;// leads //prema-dhvani// prayers]
 

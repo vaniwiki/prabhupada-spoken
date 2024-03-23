@@ -9,24 +9,6 @@
 
 ====== Śrī Śrī Rukmiṇī Dvārakānātha Deity Installation ======
 
----- dataentry spoken ----
-id_hidden        : 690716di.la
-listtype_hidden  : Śrī Śrī Rukmiṇī Dvārakānātha Deity Installation
-listdate_hidden  : 1969-07-16
-showdate_hidden  : 2023-07-16
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : July 16
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrī Śrī Rukmiṇī Dvārakānātha Deity Installation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690716di.la.mp3|Śrī Śrī Rukmiṇī Dvārakānātha Deity Installation — July 16, 1969, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Now today this function of installing Deity, this is authorized. Just like several times I have given the example that when you put your mails in a box in the street, because it is written there U.S. Mail, you know that it is authorized box. And if you put your letters within this box, it will surely reach the destination. The post office will work. So there is no difference between the huge post office building and that small box because it is authorized. Similarly, the difference between idol worship and Deity worship is like that. Unless authorized process is accepted, it is idol worship. That is the general rule. If somebody thinks that "There is a box, red and blue, on the street. Why shall I go to that box? Let me have similar box at my door and it will be cleared by the postman because it is blue and red," that will not be so. Because the box which you put at your door, that is not authorized.
 

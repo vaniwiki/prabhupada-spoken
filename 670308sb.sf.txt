@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.3–4 ======
 
----- dataentry spoken ----
-id_hidden        : 670308sb.sf
-listtype_hidden  : SB 7.6.3–4
-listdate_hidden  : 1967-03-08
-showdate_hidden  : 2023-03-08
-listplace_hidden : San Francisco
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 8
-Year_spoken      : 1967
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.3–4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670308sb.sf.mp3|SB 7.6.3-4 — March 8, 1967, San Francisco}}
-</audio>
-
 [incomplete lecture]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Mr. Myer ======
 
----- dataentry spoken ----
-id_hidden        : 770710r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-10
-showdate_hidden  : 2023-07-10
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 10
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 43:26
-Title_hidden     : Room Conversation with Mr. Myer
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770710r1.vrn.mp3|Room Conversation with Mr. Myer — July 10, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 So Kṛṣṇa has sent you to look after this Institution. And they are giving very good report that "Bhaktivedanta is..., is very big organization," and we have got land. Kindly try to improve it. So your wife is here?
 

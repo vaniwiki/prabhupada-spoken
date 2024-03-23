@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.18 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 770206sb.cal
-listtype_hidden  : SB 1.8.18 [Hindi]
-listdate_hidden  : 1977-02-06
-showdate_hidden  : 2023-02-06
-listplace_hidden : Calcutta
-Type_spoken      : Hindi
-Date_spoken      : February 6
-Year_spoken      : 1977
-Place_spoken     : Calcutta
-Length_hidden    : 07:13
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.18 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770206sb.cal_hindi.mp3|SB 1.8.18 [Hindi] — February 6, 1977, Calcutta}}
-</audio>
-
 **Devotee:** Śrīmatī Kuntī said: O Kṛṣṇa, I offer my obeisances unto You because You are the original personality and are unaffected by the qualities of the material world. You are existing both within and without everything, yet You are invisible to all.
 
 **Prabhupāda:**

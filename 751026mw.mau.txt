@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 751026mw.mau
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1975-10-26
-showdate_hidden  : 2023-10-26
-listplace_hidden : Mauritius
-Type_spoken      : Morning Walk
-Date_spoken      : October 26
-Year_spoken      : 1975
-Place_spoken     : Mauritius
-Length_hidden    : 40:33
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/751026mw.mau.mp3|Morning Walk — October 26, 1975, Mauritius}}
-</audio>
-
 **Prabhupāda:**
 So the news was there that Jesus Christ, after crucification, he was alive, and he went to... [aside:] Not so near. And he went to Kashmir. So by the yogic process, in //samādhi// one can remain alive although superficially he is seen that he is killed. That is possible. Hiraṇyakaśipu did that. He was undergoing //tapasya// for one hundred years of the demigods. Their duration of time is: our six months, their one day. So such a long time he was undergoing austerity, penance, and thus he became perfect. So his body was practically finished by the earthworm, what is called, moths and ants.
 

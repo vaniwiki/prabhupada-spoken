@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Svarūpa Dāmodara ======
 
----- dataentry spoken ----
-id_hidden        : 750301r2.atl
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-03-01
-showdate_hidden  : 2023-03-01
-listplace_hidden : Atlanta
-Type_spoken      : Room Conversation
-Date_spoken      : March 1
-Year_spoken      : 1975
-Place_spoken     : Atlanta
-Length_hidden    : 47:58
-Title_hidden     : Room Conversation with Svarūpa Dāmodara and Dr. Wolf-Rottkay
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750301r2.atl.mp3|Room Conversation with Svarūpa Dāmodara — March 1, 1975, Atlanta}}
-</audio>
-
 **Prabhupāda:**
 Try to understand this, that life is always there, as God is there. So these living entities, part and parcel of God, they are also there. That God has got multi-energies, potencies. Out of that, three potencies have been taken as very important. //Parāsya śaktir vividhaiva śrūyate// [[books:cc:madhya:13:65|[Cc. Madhya 13.65, purport]]]. God has multi-energy. Out of that, three energies have been taken as principal: material, spiritual and marginal. The material energy is this material world. The spiritual world is the spiritual energy. And we living entities, we are also spiritual, but we are called marginal because we may live under the subjugation of material energy or spiritual energy.
 

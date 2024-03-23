@@ -9,24 +9,6 @@
 
 ====== Roof Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740327rf.bom
-listtype_hidden  : Roof Conversation
-listdate_hidden  : 1974-03-27
-showdate_hidden  : 2023-03-27
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : March 27
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 13:30
-Title_hidden     : Roof Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740327rf.bom.mp3|Roof Conversation — March 27, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 So in the beginning, before the creation, God is existing; and after the creation, when the creation is annihilated, He will be existing. This is called transcendental position.
 

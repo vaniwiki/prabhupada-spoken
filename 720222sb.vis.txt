@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.9.43 ======
 
----- dataentry spoken ----
-id_hidden        : 720222sb.vis
-listtype_hidden  : SB 7.9.43
-listdate_hidden  : 1972-02-22
-showdate_hidden  : 2023-02-22
-listplace_hidden : Visakhapatnam
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : February 22
-Year_spoken      : 1972
-Place_spoken     : Visakhapatnam
-Length_hidden    : 37:14
-Title_hidden     : Śrīmad-Bhāgavatam 7.9.43
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720222sb.vis.mp3|SB 7.9.43 — February 22, 1972, Visakhapatnam}}
-</audio>
-
 **Prabhupāda:**
 
 > ...mahāmṛta-magna-cittaḥ 

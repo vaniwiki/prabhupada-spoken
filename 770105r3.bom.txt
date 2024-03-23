@@ -9,24 +9,6 @@
 
 ====== Letter to Russian ======
 
----- dataentry spoken ----
-id_hidden        : 770105r3.bom
-listtype_hidden  : Letter to Russian
-listdate_hidden  : 1977-01-05
-showdate_hidden  : 2023-01-05
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : January 5
-Year_spoken      : 1977
-Place_spoken     : Bombay
-Length_hidden    : 30:01
-Title_hidden     : Letter to Russian
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770105r3.bom.mp3|Letter to Russian — January 5, 1977, Bombay}}
-</audio>
-
 **Gopāla Kṛṣṇa:**
 Yes, of course if the Russians...
 

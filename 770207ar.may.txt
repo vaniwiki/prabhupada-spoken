@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 770207ar.may
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1977-02-07
-showdate_hidden  : 2023-02-07
-listplace_hidden : Māyāpur
-Type_spoken      : Lecture
-Date_spoken      : February 7
-Year_spoken      : 1977
-Place_spoken     : Māyāpur
-Length_hidden    : 06:30
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770207ar.may.mp3|Arrival Lecture — February 7, 1977, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 //Mattaḥ smṛtir jñānam apohanaṁ ca// [[books:bg:15:15|[Bg. 15.15]]]. We can submit to Kṛṣṇa. So if Kṛṣṇa’s..., for Kṛṣṇa’s service we submit some plan, He is very glad. You wanted some flower for Kṛṣṇa’s service, Kṛṣṇa is giving us. Everything we wanted for Kṛṣṇa, not for our sense gratification. Then it is... [break] //...Kṛṣṇa til akhila cestha//[?]. For Kṛṣṇa you can endeavor multifariously. That is wanted. That is the contribution of Bhaktisiddhānta Sarasvatī. Before that, Vaiṣṇavas, they used to live retired life in Vṛndāvana or some other place---no preaching activities. It is the first attempt. Of course, Caitanya Mahāprabhu did it, but the practical sense how we can serve Kṛṣṇa even sitting on big, big buildings and on motorcars we can serve Kṛṣṇa, that is introduced by Bhaktisiddhānta. Otherwise, people were afraid of becoming Vaiṣṇava: "Oh, I’ll have to live underneath a tree like Rūpa Gosvāmī". Some of them will imitate like that. Imitation is no good. Rūpa Gosvāmī never said imitation.
 

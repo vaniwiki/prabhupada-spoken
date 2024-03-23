@@ -9,24 +9,6 @@
 
 ====== Lecture at 7 Bury Place [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 760725l3.lon
-listtype_hidden  : Lecture
-listdate_hidden  : 1976-07-25
-showdate_hidden  : 2023-07-25
-listplace_hidden : London
-Type_spoken      : Lecture
-Date_spoken      : July 25
-Year_spoken      : 1976
-Place_spoken     : London
-Length_hidden    : 17:28
-Title_hidden     : Lecture at 7 Bury Place [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760725l3.lon.mp3|Lecture at 7 Bury Place [partially recorded] — July 25, 1976, London}}
-</audio>
-
 **Prabhupāda:**
 ...means Kṛṣṇa consciousness. So, not only now; always. Long, long, millions of years ago there was Hiraṇyakaśipu. There was Vena Mahārāja and... Hiraṇyakaśipu was against his son. And Kaṁsa was against Kṛṣṇa. Śiśupāla was against Kṛṣṇa. So against Kṛṣṇa consciousness movement in this age, there will be many, undoubtedly. Therefore Caitanya Mahāprabhu has given us instruction, //tṛṇād api sunīcena.// You should always expect some obstruction by the demonic party. That is not very astonishing. But still, we have to do our business and... [break] ...be tolerant. Be humble. Be tolerant. Don't be agitated. Then your business will suffer. This is //māyā's// kingdom. The test is always there. Combating is always there, and //māyā's// party is very strong.
 

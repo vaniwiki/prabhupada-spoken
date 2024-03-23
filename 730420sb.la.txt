@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.8.28 ======
 
----- dataentry spoken ----
-id_hidden        : 730420sb.la
-listtype_hidden  : SB 1.8.28
-listdate_hidden  : 1973-04-20
-showdate_hidden  : 2023-04-20
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 20
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 38:05
-Title_hidden     : Śrīmad-Bhāgavatam 1.8.28
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730420sb.la.mp3|SB 1.8.28 — April 20, 1973, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Hare Kṛṣṇa. Hare Kṛṣṇa. [leads singing of //Jaya rādhā-mādhava//]
 

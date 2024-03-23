@@ -9,24 +9,6 @@
 
 ====== Lecture on Teachings of Lord Caitanya ======
 
----- dataentry spoken ----
-id_hidden        : 710317le.bom
-listtype_hidden  : Lecture on Teachings of Lord Caitanya
-listdate_hidden  : 1971-03-17
-showdate_hidden  : 2023-03-17
-listplace_hidden : Bombay
-Type_spoken      : Lecture
-Date_spoken      : March 17
-Year_spoken      : 1971
-Place_spoken     : Bombay
-Length_hidden    : 00:00
-Title_hidden     : Lecture on Teachings of Lord Caitanya
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710317le.bom.mp3|Lecture on Teachings of Lord Caitanya — March 17, 1971, Bombay}}
-</audio>
-
 **Prabhupāda:**
 There are many //sat-saṅga// society, but in Europe and America, western countries, this is the only, and they have very kindly joined us. So to serve them is our first business. So, we are talking of teachings of Lord Caitanya to Sanātana //Gosvāmī.// Sanātana //Gosvāmī,// he was one of the very responsible minister in the [indistinct] government of Bengal. And as minister, he was a learned scholar both in Sanskrit and Arabic. So, he resigned his post as minister and wanted to join Lord Caitanya in his //saṅkīrtana// movement. He had some difficulties to get out of the responsible position. The Nawab, Hussain Shah was very much counting upon his assistance. Generally the Muhammadan kings, they were dependent on Hindu ministers. I have heard that in your this Bombay city, Aga Khan [?], his establishment for management were all Hindu officers. I do not know whether it is a fact. Is it a fact?
 

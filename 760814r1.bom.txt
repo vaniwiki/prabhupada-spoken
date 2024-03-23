@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760814r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-08-14
-showdate_hidden  : 2023-08-14
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : August 14
-Year_spoken      : 1976
-Place_spoken     : Bombay
-Length_hidden    : 29:37
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760814r1.bom.mp3|Room Conversation — August 14, 1976, Bombay}}
-</audio>
-
 **Prabhupāda:**
 So they were not crying very loudly, but the grandfather inquired, "So why there is..., it appears there is some great suffering?" So my father's eldest brother, he inquired, "Is your mother dead?" I consider like that. No, no [indistinct]. "So I am also dead." He died later on.
 

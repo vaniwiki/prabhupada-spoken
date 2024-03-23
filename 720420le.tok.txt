@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 720420le.tok
-listtype_hidden  : Lecture
-listdate_hidden  : 1972-04-20
-showdate_hidden  : 2023-04-20
-listplace_hidden : Tokyo
-Type_spoken      : Lecture
-Date_spoken      : April 20
-Year_spoken      : 1972
-Place_spoken     : Tokyo
-Length_hidden    : 21:31
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720420le.tok.mp3|Lecture — April 20, 1972, Tokyo}}
-</audio>
-
 [//kīrtana//]
 
 **Prabhupāda:**

@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 730901r2.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-09-01
-showdate_hidden  : 2023-09-01
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : September 1
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 25:46
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730901r2.lon.mp3|Room Conversation — September 1, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 So you can test. Just like if you are eating, you can understand how much you are getting strength, how much you are satisfied. You haven't got to ask anybody. Similarly, if you are actually engaged in religious principles, the test is how much you are detached from material attraction and how much you are attached to God. This is the test. Anyone can see whether I am increasing my attachment for dog or whether I am increasing my attachment for God. That's all. This is test.
 

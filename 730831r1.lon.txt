@@ -9,24 +9,6 @@
 
 ====== Room Conversation with British Man ======
 
----- dataentry spoken ----
-id_hidden        : 730831r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-08-31
-showdate_hidden  : 2023-08-31
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : August 31
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 35:42
-Title_hidden     : Room Conversation with British Man
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730831r1.lon.mp3|Room Conversation with British Man — August 31, 1973, London}}
-</audio>
-
 **Guest:**
 ...wisdom was not of the Western order...
 

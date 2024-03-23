@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.4 ======
 
----- dataentry spoken ----
-id_hidden        : 731107sb.del
-listtype_hidden  : SB 2.1.4
-listdate_hidden  : 1973-11-07
-showdate_hidden  : 2023-11-07
-listplace_hidden : Delhi
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 7
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 44:40
-Title_hidden     : Śrīmad-Bhāgavatam 2.1.4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731107sb.del.mp3|SB 2.1.4 — November 7, 1973, Delhi}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [leads chanting of verse, etc.] [Prabhupāda and devotees repeat]
 

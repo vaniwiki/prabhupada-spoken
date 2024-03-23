@@ -9,24 +9,6 @@
 
 ====== Arrival Interview ======
 
----- dataentry spoken ----
-id_hidden        : 720629ar.sd
-listtype_hidden  : Arrival Interview
-listdate_hidden  : 1972-06-29
-showdate_hidden  : 2023-06-29
-listplace_hidden : San Diego
-Type_spoken      : Lecture
-Date_spoken      : June 29
-Year_spoken      : 1972
-Place_spoken     : San Diego
-Length_hidden    : 13:24
-Title_hidden     : Arrival Interview
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720629ar.sd.mp3|Arrival Interview — June 29, 1972, San Diego}}
-</audio>
-
 **Interviewer:**
 My daughter is a member of the Los Angeles temple.
 

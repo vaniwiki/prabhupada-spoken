@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740611mw.par
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-06-11
-showdate_hidden  : 2023-06-11
-listplace_hidden : Paris
-Type_spoken      : Morning Walk
-Date_spoken      : June 11
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 51:07
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740611mw.par.mp3|Morning Walk — June 11, 1974, Paris}}
-</audio>
-
 **Prabhupāda:**
 Hmm?
 

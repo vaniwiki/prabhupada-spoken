@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.6 ======
 
----- dataentry spoken ----
-id_hidden        : 760507sb.hon
-listtype_hidden  : SB 6.1.6
-listdate_hidden  : 1976-05-07
-showdate_hidden  : 2023-05-07
-listplace_hidden : Honolulu
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 7
-Year_spoken      : 1976
-Place_spoken     : Honolulu
-Length_hidden    : 25:01
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.6
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760507sb.hon.mp3|SB 6.1.6 — May 7, 1976, Honolulu}}
-</audio>
-
 **Prabhupāda:**
 //Oṁ namo bhagavate vāsudevāya.// [devotees repeat] //Śrīmad-Bhāgavatam,// Canto Six, Chapter One, verse number six. [leads devotees in chanting]
 

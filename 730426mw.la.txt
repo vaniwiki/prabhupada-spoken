@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 730426mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1973-04-26
-showdate_hidden  : 2023-04-26
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : April 26
-Year_spoken      : 1973
-Place_spoken     : Los Angeles
-Length_hidden    : 61:53
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730426mw.la.mp3|Morning Walk — April 26, 1973, Los Angeles}}
-</audio>
-
 **Devotee:**
 [introducing recording] Prabhupāda's morning walk. Los Angeles, April 26, 1973.
 

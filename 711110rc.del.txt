@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Mayor ======
 
----- dataentry spoken ----
-id_hidden        : 711110rc.del
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1971-11-10
-showdate_hidden  : 2023-11-10
-listplace_hidden : New Delhi
-Type_spoken      : Room Conversation
-Date_spoken      : November 10
-Year_spoken      : 1971
-Place_spoken     : New Delhi
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation with Mayor
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/711110rc.del.mp3|Room Conversation with Mayor — November 10, 1971, New Delhi}}
-</audio>
-
 **Prabhupāda:**
 So only you have got only //mṛdaṅga?// Why?
 

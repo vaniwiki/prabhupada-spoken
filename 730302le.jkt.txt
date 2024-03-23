@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 730302le.jkt
-listtype_hidden  : Lecture
-listdate_hidden  : 1973-03-02
-showdate_hidden  : 2023-03-02
-listplace_hidden : Jakarta
-Type_spoken      : Lecture
-Date_spoken      : March 2
-Year_spoken      : 1973
-Place_spoken     : Jakarta
-Length_hidden    : 40:41
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730302le.jkt.mp3|Lecture — March 2, 1973, Jakarta}}
-</audio>
-
 [Indonesian music]
 
 **Amogha:**

@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 740309mw.may
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1974-03-09
-showdate_hidden  : 2023-03-09
-listplace_hidden : Māyāpur
-Type_spoken      : Morning Walk
-Date_spoken      : March 9
-Year_spoken      : 1974
-Place_spoken     : Māyāpur
-Length_hidden    : 45:24
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740309mw.may.mp3|Morning Walk — March 9, 1974, Māyāpur}}
-</audio>
-
 **Prabhupāda:**
 He's situated as Paramātmā, //antaryāmī,// everywhere. //Aṇḍāntara-stham:// within the universe as Garbhodakaśāyī Viṣṇu, within the heart of everyone, and even within the atom. Then how we can walk? Kṛṣṇa is within the atom. How we can walk? If somebody says, "How we are walking on the road?" Because within the atom there is God. Within... //Aṇḍāntara-stha-paramāṇu-cayāntara-stham// [Bs. 5.35].
 

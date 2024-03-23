@@ -9,24 +9,6 @@
 
 ====== Ratha-yātrā ======
 
----- dataentry spoken ----
-id_hidden        : 750712ry.phi
-listtype_hidden  : Ratha-yātrā
-listdate_hidden  : 1975-07-12
-showdate_hidden  : 2023-07-12
-listplace_hidden : Philadelphia
-Type_spoken      : Lecture
-Date_spoken      : July 12
-Year_spoken      : 1975
-Place_spoken     : Philadelphia
-Length_hidden    : 23:16
-Title_hidden     : Ratha-yātrā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750712ry.phi.mp3|Ratha-yātrā Lecture — July 12, 1975, Philadelphia}}
-</audio>
-
 **Prabhupāda:**
 Ladies and gentlemen, first of all I wish to thank you, the inhabitants of this great city, Philadelphia. You are so kind, enthusiastic, in taking part in this movement. So I am very much obliged to you. I am especially obliged to the American boys and girls who are helping me so much in spreading this Kṛṣṇa consciousness movement in the Western countries. I was ordered by my spiritual master to preach this Kṛṣṇa consciousness in the Western countries. So in 1965 I first came in New York. Then in 1966 this Society was regularly registered in New York, and from 1967 this movement is regularly going on in America, Europe, Canada, and south of Pacific Ocean, Australia, and throughout the whole world.
 

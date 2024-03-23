@@ -9,24 +9,6 @@
 
 ====== Garden Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760608gc.la
-listtype_hidden  : Garden Conversation
-listdate_hidden  : 1976-06-08
-showdate_hidden  : 2023-06-08
-listplace_hidden : Los Angeles
-Type_spoken      : Room Conversation
-Date_spoken      : June 8
-Year_spoken      : 1976
-Place_spoken     : Los Angeles
-Length_hidden    : 67:11
-Title_hidden     : Garden Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760608gc.la.mp3|Garden Conversation — June 8, 1976, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 ...next life, on account of his sinful activities he, if he becomes a dog in the same land, then what is the benefit? Everyone will treat him as dog, even though somebody knows, "This dog was formerly our prime minister." [laughter] Then what is the benefit? To remain in the prime minister's post, and next life he's going to be a dog, then what is the benefit?
 

@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721017nd.vrn
-listtype_hidden  : NoD
-listdate_hidden  : 1972-10-17
-showdate_hidden  : 2023-10-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : October 17
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 59:25
-Title_hidden     : The Nectar of Devotion "You just become My devotee"
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721017nd.vrn.mp3|The Nectar of Devotion — October 17, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading] "...devotional service. Every service has some attractive feature which drives the servitor progressively on and on. Every one of us within this world is perpetually engaged in some sort of service, and the impetus for such service is the pleasure we derive from it. Driven by affection for his wife and children, a family man works day and night. A philanthropist works in the same way for love of the greater family and a nationalist for the cause of his country and countrymen. That force which drives the philanthropist, the householder and the nationalist is called //rasa,// or..."
 

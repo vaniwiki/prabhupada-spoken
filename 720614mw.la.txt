@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 720614mw.la
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1972-06-14
-showdate_hidden  : 2023-06-14
-listplace_hidden : Los Angeles
-Type_spoken      : Morning Walk
-Date_spoken      : June 14
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 19:41
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720614mw.la.mp3|Morning Walk — June 14, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //Māyā-sukhāya.// For flickering happiness arranging huge paraphernalia, just like for sporting, just we saw, so many things. //Māyā-sukhāya bharam udvahato vimūḍhān// [[books:sb:7:9:43|[SB 7.9.43]]]. No use. There is no use, but fooling, for frivolous sporting. Just like beginning from the morning working, so many people are engaged, but they do not know the value of arranging //maṅgala-ārati.// They do not know. [laughter]
 

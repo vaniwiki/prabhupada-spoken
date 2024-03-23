@@ -9,24 +9,6 @@
 
 ====== Conversation on Train ======
 
----- dataentry spoken ----
-id_hidden        : 770203r2.bhu
-listtype_hidden  : Conversation on Train
-listdate_hidden  : 1977-02-03
-showdate_hidden  : 2023-02-03
-listplace_hidden : Bhubaneswar
-Type_spoken      : Room Conversation
-Date_spoken      : February 4
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 05:20
-Title_hidden     : Conversation on Train
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770203r2.bhu.mp3|Conversation on Train — February 4, 1977, Bhubaneswar}}
-</audio>
-
 [conversation takes place on the train at the station, with cries of vendors, etc.]
 
 **Prabhupāda:**

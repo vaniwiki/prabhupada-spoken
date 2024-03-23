@@ -9,24 +9,6 @@
 
 ====== Śrīla Prabhupāda Vigil ======
 
----- dataentry spoken ----
-id_hidden        : 770527vg.vrn
-listtype_hidden  : Śrīla Prabhupāda Vigil
-listdate_hidden  : 1977-05-27
-showdate_hidden  : 2023-05-27
-listplace_hidden : Vṛndāvana
-Type_spoken      : Various
-Date_spoken      : May 27
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 44:23
-Title_hidden     : Śrīla Prabhupāda Vigil
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770527vg.vrn.mp3|Śrīla Prabhupāda Vigil — May 27, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 You haven't got to think over, "What shall I do now?" Never forget. So our first business is preaching. You should always remember. This is the education. These rascals, they have no father-mother---orphans. They may think as well-educated how to earn money. We have no such... We are rich man's son. Economic problem is already solved. That is already taken. //Tal labhyate yad anyataḥ sukham.// We don't care for all this so-called improvement. That is already settled up. //Tasyaiva hetoḥ prayateta kovidaḥ// [[books:sb:1:5:18|[SB 1.5.18]]]. Just see how to become a man of character like Nārada, Vyāsa. That is our goal. //Tasyaiva hetoḥ prayateta kovidaḥ.// Not for any other. And what about your material problems? That is already taken. //Tal labhyate duḥkhavad anyataḥ sukhaṁ kālena sarvatra gabhīra-raṁhasā.// This is //kṛṣṇa-bhakta.// Don't care for maintaining this body. "What Kṛṣṇa will give, I take. If He does not give, don't mind." [hums] So discussing all this twenty-four hours, and death takes place. Death, it takes place, then where is the wrong? Where is the lamentation? There is nothing. You are not permanent. You have to die. But if you die discussing all these things, that is your glorious death. Death is sure. You cannot avoid it, today or tomorrow or hundred years after. But die a glorious death. //Yatantaś ca dṛḍha-vratāḥ. Satataṁ kīrtayanto māṁ yatantaś ca dṛḍha-vratāḥ// [[books:bg:9:14|[Bg. 9.14]]]. That is wanted. It is not difficult. So I have called you for that purpose. So if death is to take place, let me die in your association and chant Hare Kṛṣṇa. There is no harm. That is glorious. Now it is very important point, Nārada's qualification.
 

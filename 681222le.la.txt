@@ -9,24 +9,6 @@
 
 ====== Press Release ======
 
----- dataentry spoken ----
-id_hidden        : 681222le.la
-listtype_hidden  : Press Release
-listdate_hidden  : 1968-12-22
-showdate_hidden  : 2023-12-22
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : December 22
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Press Release
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/681222le.la.mp3|Press Release — December 22, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Give me that.
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.2.14 ======
 
----- dataentry spoken ----
-id_hidden        : 750917sb.vrn
-listtype_hidden  : SB 6.2.14
-listdate_hidden  : 1975-09-17
-showdate_hidden  : 2023-09-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : September 17
-Year_spoken      : 1975
-Place_spoken     : Vṛndāvana
-Length_hidden    : 28:44
-Title_hidden     : Śrīmad-Bhāgavatam 6.2.14
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750917sb.vrn.mp3|SB 6.2.14 — September 17, 1975, Vṛndāvana}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] Sixth Canto, Second Chapter, verse number fourteen. [leads chanting of verse, etc.]
 

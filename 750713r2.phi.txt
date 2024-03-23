@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Reporter Sandy Nixon and Anne Jackson ======
 
----- dataentry spoken ----
-id_hidden        : 750713r2.phi
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-07-13
-showdate_hidden  : 2023-07-13
-listplace_hidden : Philadelphia
-Type_spoken      : Room Conversation
-Date_spoken      : July 13
-Year_spoken      : 1975
-Place_spoken     : Philadelphia
-Length_hidden    : 106:31
-Title_hidden     : Room Conversation with Reporters Sandy Nixon and Anne Jackson
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750713r2.phi.mp3|Room Conversation with Reporter Sandy Nixon and Anne Jackson — July 13, 1975, Philadelphia}}
-</audio>
-
 **Jayatīrtha:**
 ...they're both doing extensive articles for different magazines, on Kṛṣṇa consciousness. And they've already done a lot of preliminary study, from what I understand. So they have a few questions to ask. I think they'll write very respectful articles. So this is the girl that interviewed you at the airport.
 

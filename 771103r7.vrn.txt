@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Śatadhanya ======
 
----- dataentry spoken ----
-id_hidden        : 771103r7.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-03
-showdate_hidden  : 2023-11-03
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 3
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 25:33
-Title_hidden     : Room Conversation with Śatadhanya
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771103r7.vrn.mp3|Room Conversation with Śatadhanya — November 3, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 Prabhupāda said, "What you have brought?"
 

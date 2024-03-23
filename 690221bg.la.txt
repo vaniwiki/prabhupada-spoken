@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 6.46–47 ======
 
----- dataentry spoken ----
-id_hidden        : 690221bg.la
-listtype_hidden  : Bg 6.46–47
-listdate_hidden  : 1969-02-21
-showdate_hidden  : 2023-02-21
-listplace_hidden : Los Angeles
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 21
-Year_spoken      : 1969
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 6.46–47
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690221bg.la.mp3|Bg 6.46-47 — February 21, 1969, Los Angeles}}
-</audio>
-
 **Devotee:**
 "A yogi is greater than the ascetic, greater than the empiricist and greater than the fruitive worker. Therefore, O Arjuna, in all circumstances, be a yogi."
 

@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 2.55–56 ======
 
----- dataentry spoken ----
-id_hidden        : 660419bg.ny
-listtype_hidden  : Bg 2.55–56
-listdate_hidden  : 1966-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 19
-Year_spoken      : 1966
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 2.55–56
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1966/660419bg.ny.mp3|Bg 2.55-56 — April 19, 1966, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > prajahāti yadā kāmān

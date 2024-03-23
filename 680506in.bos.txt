@@ -9,24 +9,6 @@
 
 ====== Brāhmaṇa Initiation Lecture with Professor O’Connell ======
 
----- dataentry spoken ----
-id_hidden        : 680506in.bos
-listtype_hidden  : Brāhmaṇa Initiation
-listdate_hidden  : 1968-05-06
-showdate_hidden  : 2023-05-06
-listplace_hidden : Boston
-Type_spoken      : Initiation
-Date_spoken      : May 6
-Year_spoken      : 1968
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Brāhmaṇa Initiation Lecture with Professor O’Connell
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680506in.bos.mp3|Brāhmaṇa Initiation Lecture with Professor O’Connell — May 6, 1968, Boston}}
-</audio>
-
 **Prabhupāda:**
 We are very glad to receive Professor O'Connell in this auspicious meeting. And it will be very nice, because he's studying the process of Caitanya philosophy. And this ceremony is one of the functions in devotional service. We have got a big book... I think, Professor O'Connell, you have secured that book, //Hari-bhakti-vilāsa.// Have you secured that book?
 

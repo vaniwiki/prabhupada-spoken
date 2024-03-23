@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771105r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-11-05
-showdate_hidden  : 2023-11-05
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 5
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 31:37
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771105r1.vrn.mp3|Room Conversation — November 5, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 One thing I feel, that while there hasn't been any great improvement, on the other hand, I do not find that there has been any negative reaction or any regression since the time the //kavirāja//'s treatment began. Of course, Your Divine Grace says that you feel weaker now than you did a week ago. If that's a fact, then...
 

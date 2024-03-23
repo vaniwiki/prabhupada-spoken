@@ -9,24 +9,6 @@
 
 ====== Room Conversation, Recent Mail ======
 
----- dataentry spoken ----
-id_hidden        : 770714r2.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-07-14
-showdate_hidden  : 2023-07-14
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : July 14
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 65:32
-Title_hidden     : Room Conversation, Recent Mail
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770714r2.vrn.mp3|Room Conversation, Recent Mail — July 14, 1977, Vṛndāvana}}
-</audio>
-
 **Bhāgavatāśraya:**
 ...ground floor restaurant. So it would take eighteen months to build the building. And then the idea is that we can have the ground floor for our restaurant.
 

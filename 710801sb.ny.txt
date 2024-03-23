@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.15 ======
 
----- dataentry spoken ----
-id_hidden        : 710801sb.ny
-listtype_hidden  : SB 6.1.15
-listdate_hidden  : 1971-08-01
-showdate_hidden  : 2023-08-01
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : August 1
-Year_spoken      : 1971
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.15
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710801sb.ny.mp3|SB 6.1.15 — August 1, 1971, New York}}
-</audio>
-
 **Prabhupāda:**
 Thank you very much. Hare Kṛṣṇa. //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// So we are not going to be misled by anyone. We simply worship the original person, //ādi-puruṣa. Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.//
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 5.5.3 ======
 
----- dataentry spoken ----
-id_hidden        : 680504sb.bos
-listtype_hidden  : SB 5.5.3
-listdate_hidden  : 1968-05-04
-showdate_hidden  : 2023-05-04
-listplace_hidden : Boston
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : May 4
-Year_spoken      : 1968
-Place_spoken     : Boston
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 5.5.3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680504sb.bos.mp3|SB 5.5.3 — May 4, 1968, Boston}}
-</audio>
-
 **Prabhupāda:**
 Just like in the //Śrīmad-Bhāgavatam// there are description of great..., twelve great souls. Twelve great souls. They are just like //svayambhūr nāradaḥ śambhuḥ kumāraḥ kapilo manuḥ// [[books:sb:6:3:20-21|[SB 6.3.20]]]. //Svayambhū// means Brahmā. But he was also family man. And Nārada, he was renounced. He was //brahmacārī.// So there are twelve different description of //mahātmās.// Out of that, about seven personalities were all householders, but still they are accepted as great souls. Just like Bali Mahārāja and Prahlāda Mahārāja and Svayambhū, Brahmā. So out of this list of twelve persons, seven persons are //gṛhasthas,// householders. It does not mean that one, because he is householder, he cannot become a //mahātmā,// great soul. Just like here we see the five pictures, associates of Lord Caitanya. They were all householders. Even Lord Caitanya, He was householder and His first wife died. He married for the second time. Nityānanda Prabhu, He was also householder. Advaita Prabhu was also householder. Similarly Śrīvāsa, he was also householder. So it does not mean that householders cannot be //mahātmā.// That is not restricted.
 

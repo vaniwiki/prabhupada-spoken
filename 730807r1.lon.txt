@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Reporter ======
 
----- dataentry spoken ----
-id_hidden        : 730807r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-08-07
-showdate_hidden  : 2023-08-07
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : August 7
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 31:35
-Title_hidden     : Room Conversation with Reporter
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730807r1.lon.mp3|Room Conversation with Reporter — August 7, 1973, London}}
-</audio>
-
 [poor recording]
 
 **Reporter:**

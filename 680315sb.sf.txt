@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.1 ======
 
----- dataentry spoken ----
-id_hidden        : 680315sb.sf
-listtype_hidden  : SB 7.6.1
-listdate_hidden  : 1968-03-15
-showdate_hidden  : 2023-03-15
-listplace_hidden : San Francisco
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 15
-Year_spoken      : 1968
-Place_spoken     : San Francisco
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680315sb.sf.mp3|SB 7.6.1 — March 15, 1968, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 Yamunā?
 

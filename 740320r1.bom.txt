@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740320r1.bom
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-03-20
-showdate_hidden  : 2023-03-20
-listplace_hidden : Bombay
-Type_spoken      : Room Conversation
-Date_spoken      : March 20
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 32:33
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740320r1.bom.mp3|Room Conversation — March 20, 1974, Bombay}}
-</audio>
-
 **Prabhupāda:**
 ...a disciple has read it that from government side there is an article that in Iranian country they want meat, so all these skinny cows should be killed and meat should be exported so that you can get oil economically. So one should not think of this religious sentiment. They should be practical. They should not object. Government is going to open many slaughterhouse to get oil, and kill these loitering, mischief loitering cows, no food. Like that. So government policy is that religious [indistinct] is an opiate of..., they call? It is a sentiment. It has no value. That is government conclusion. So therefore their decision is not to encourage these temples and this //bhajana.// To their point of view, it is useless. So indirectly or directly, they will not patronize this. So under the circumstances, we have to make vigorous propaganda, public opinion. You see? Therefore I suggest that various meetings should be arranged in big, big halls, and public meeting so that public may understand, at least, that this movement is very important. And let there be advertisement, different subject matter, to invite people here. They may come, then I will explain. And all my students and others, they may hold, arrange for //pan...// I'll also speak. In that meeting make a nice gentleman president. In this way, create public opinion so that they will come here and they will sign this, "Yes, here must be one temple." Take signatures and...
 

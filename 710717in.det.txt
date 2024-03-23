@@ -9,23 +9,5 @@
 
 ====== Initiation Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 710717in.det
-listtype_hidden  : Initiation Lecture [partially recorded]
-listdate_hidden  : 1971-07-17
-showdate_hidden  : 2023-07-17
-listplace_hidden : Detroit
-Type_spoken      : Initiation
-Date_spoken      : July 17
-Year_spoken      : 1971
-Place_spoken     : Detroit
-Length_hidden    : 00:00
-Title_hidden     : Initiation Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1971/710717in.det.mp3|Initiation Lecture [partially recorded] — July 17, 1971, Detroit}}
-</audio>
-
 **Prabhupāda:**
 So there are ten kinds of offenses. That is described. And the most important point is the committing sin on the strength of chanting Hare Kṛṣṇa //mantra.// This is a fact that as soon you chant Kṛṣṇa, all your resultant action of sinful activities immediately nullified. But if we again commit that sins, that is up to you. So we should not make it a business that "Let me go on committing sins, and it will be counteracted by chanting." No. This is not good. This is the greatest offense. Sometimes in Christian Church there is confession, and again they go and commit the same sin, and next time, again confession. Not like that. That is not good. One confession admitting, excused. But not that you commit sins over and over again and it will be excused. Similarly, you cannot commit sins on the strength of chanting. That is the greatest offense. [end]

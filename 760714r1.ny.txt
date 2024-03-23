@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Dṛṣṭadyumna’s Parents ======
 
----- dataentry spoken ----
-id_hidden        : 760714r1.ny
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-14
-showdate_hidden  : 2023-07-14
-listplace_hidden : New York
-Type_spoken      : Room Conversation
-Date_spoken      : July 14
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 30:44
-Title_hidden     : Room Conversation with Dṛṣṭadyumna’s Parents
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760714r1.ny.mp3|Room Conversation with Dṛṣṭadyumna’s Parents — July 14, 1976, New York}}
-</audio>
-
 **Rāmeśvara:**
 If we have any qualification, it is from you, Śrīla Prabhupāda.
 

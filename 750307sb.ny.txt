@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 750307sb.ny
-listtype_hidden  : SB [partially recorded]
-listdate_hidden  : 1975-03-07
-showdate_hidden  : 2023-03-07
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : March 7
-Year_spoken      : 1975
-Place_spoken     : New York
-Length_hidden    : 11:24
-Title_hidden     : Śrīmad-Bhāgavatam [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750307sb.ny.mp3|SB [partially recorded] — March 7, 1975, New York}}
-</audio>
-
 **Prabhupāda:**
 ...birth in a very nice, pure //brāhmaṇa// family or very rich family. So this is the profit. You begin immediately devotional life. You can finish this devotional life within this life. There is no difficulty. Simply go on chanting. But even if you cannot finish, then you have to take a birth, then the Kṛṣṇa gives you opportunity to take a birth in a very nice, pure //brāhmaṇa// family or very rich family. In pure //brāhmaṇa// family means you get immediately the opportunity of... Just like in our Society, the children, from the very beginning of life, they are getting opportunity how to think of Kṛṣṇa, how to offer obeisances to Kṛṣṇa, how to chant. This is the process. So from the very beginning of life all the children of our devotees, they are getting this opportunity. That is called //śucīnām,// very pure family. Pure means God consciousness. Or, if he is not so complete, then he is given the chance of being born in a very rich family. Rich family means there is no question of economic problem. He is full, born with silver spoon. So without endeavoring for his livelihood---he has already everything---he can simply chant Hare Kṛṣṇa. But there is no guidance. He thinks, "I have got this money for nothing. Let me enjoy for sense gratification." That is the difficulty. He is in bad association. Otherwise, he has got the best opportunity. Just like you. You are Americans. You have no scarcity. You have got this opportunity. So you chant this Kṛṣṇa consciousness movement very seriously, and your life will be successful. Because you have no problem. Naturally you have got everything. So take this Kṛṣṇa consciousness movement and be happy in this life and next life.
 

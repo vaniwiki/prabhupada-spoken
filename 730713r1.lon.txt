@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Educationists ======
 
----- dataentry spoken ----
-id_hidden        : 730713r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-13
-showdate_hidden  : 2023-07-13
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 13
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 46:49
-Title_hidden     : Room Conversation with Educationists
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730713r1.lon.mp3|Room Conversation with Educationists — July 13, 1973, London}}
-</audio>
-
 **Guest (1) [young British woman]:**
 What was the meaning in that?
 

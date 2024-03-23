@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760615r2.det
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-15
-showdate_hidden  : 2023-06-15
-listplace_hidden : Detroit
-Type_spoken      : Room Conversation
-Date_spoken      : June 15
-Year_spoken      : 1976
-Place_spoken     : Detroit
-Length_hidden    : 30:17
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760615r2.det.mp3|Room Conversation — June 15, 1976, Detroit}}
-</audio>
-
 **Puṣṭa Kṛṣṇa:**
 [reading] "...who has made it his life's work to debunk the so-called miracle powers of god-men the world over, and said that he is afraid for his life. Amongst those he has challenged is Satya Sai Baba, a mystic who has thousands of followers in South Africa. The man who is said to expose fraudulent practices amongst miracle workers is Dr. Abraham T. Kavoor, who recently held a spell-binding magic show at the Bangalore Town Hall to debunk the miracles of god-men. He claimed that several of the tricks demonstrated had, in fact, been learned from persons who had duped the public that they could perform miracles and other extraordinary acts. And this, he believed, would lead to an attempt on his life. 'I am not afraid of gods. They don't exist. But I am afraid of god-men, because they are alive. They have thugs as agents. If a good man like Gandhi could be assassinated, what keeps a Kavoor from suffering the same fate?' Addressing a press conference, Dr. Kavoor implied that an attempt might be made on his life if he tried to expose the fraud practiced by god-men because this would involve a physical search of the persons involved. Hence his insistence that his investigation would have to be preceded by their permission. [The permission of these so-called mystics; registered letters.] To date, he said, he had written six registered letters to Satya Sai Baba issuing his famous challenge, but had no reply from him as yet. Asked how he produced ash and other objects out of nowhere, Dr. Kavoor indicated that one of the methods was by concealing the objects to be materialized inside of his coat. The rest was pure sleight of hand. Photographs of him [Sai Baba] exposing his coat had been published both in the national and international press, he said. Reporting that //haṭha-yogī// L. S. Lal had confessed to him that his much-vaunted show of walking on water had been pure trick designed to make some money, Dr. Kavoor said, 'How long can the government of India tolerate such hoaxers who claim to have supernatural powers and exploit the ordinary men?' "
 

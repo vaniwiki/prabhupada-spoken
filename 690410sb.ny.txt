@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.1 ======
 
----- dataentry spoken ----
-id_hidden        : 690410sb.ny
-listtype_hidden  : SB 2.1.1
-listdate_hidden  : 1969-04-10
-showdate_hidden  : 2023-04-10
-listplace_hidden : New York
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : April 10
-Year_spoken      : 1969
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 2.1.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690410sb.ny.mp3|SB 2.1.1 — April 10, 1969, New York}}
-</audio>
-
 **Prabhupāda:**
 Feeling all right?
 

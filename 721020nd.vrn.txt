@@ -9,24 +9,6 @@
 
 ====== The Nectar of Devotion ======
 
----- dataentry spoken ----
-id_hidden        : 721020nd.vrn
-listtype_hidden  : NoD
-listdate_hidden  : 1972-10-20
-showdate_hidden  : 2023-10-20
-listplace_hidden : Vṛndāvana
-Type_spoken      : Nectar of Devotion
-Date_spoken      : October 20
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 34:58
-Title_hidden     : The Nectar of Devotion
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721020nd.vrn.mp3|The Nectar of Devotion — October 20, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:**
 [reading] "...particular type of body as a result of his action in the present body. These activities are taken into account by superior authority known as //daiva,// or the authority of God. This //daiva// is explained in the //Bhagavad-gītā// as the prime cause of everything, and in the //Śrīmad-Bhāgavatam// it is stated that a man takes his next body by //daiva-netreṇa,// which means by the supervision of the authority of the Supreme. In an ordinary sense, //daiva// is explained as destiny. //Daiva// supervision gives us a body selected from 8,400,000 forms. The choice does not depend on our selection, but is awarded to us according to our destiny."
 

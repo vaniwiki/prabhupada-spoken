@@ -9,24 +9,6 @@
 
 ====== Gurudāsa Sannyāsa and Harināma Initiations ======
 
----- dataentry spoken ----
-id_hidden        : 750721in.sf
-listtype_hidden  : Gurudāsa Sannyāsa and Harināma Initiations
-listdate_hidden  : 1975-07-21
-showdate_hidden  : 2023-07-21
-listplace_hidden : San Francisco
-Type_spoken      : Initiation
-Date_spoken      : July 21
-Year_spoken      : 1975
-Place_spoken     : San Francisco
-Length_hidden    : 19:43
-Title_hidden     : Gurudāsa Sannyāsa and Harināma Initiations
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750721in.sf.mp3|Gurudāsa Sannyāsa and Harināma Initiations — July 21, 1975, San Francisco}}
-</audio>
-
 **Prabhupāda:**
 
 //Etām, sa āsthāya, parātma-niṣṭhām, upā, sitām, pūrva, tamaiḥ, mahardibhiḥ, aham, tariṣyāmi, duranta, pāraṁ, tamo, mukundāṅghri, niṣevayaiva// [SB 11.23.57]. Three times.

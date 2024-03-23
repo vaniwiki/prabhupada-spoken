@@ -9,25 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.9–11 ======
 
----- dataentry spoken ----
-id_hidden        : 690606sb.nv # 
-listtype_hidden  : SB 1.5.9–11 # 
-listdate_hidden  : 1969-06-06
-showdate_hidden  : 2023-06-06 #
-listplace_hidden : New Vrindaban # 
-Type_spoken      : Śrīmad-Bhāgavatam # 
-Date_spoken      : June 6 # 
-Year_spoken      : 1969 # 
-Place_spoken     : New Vrindavan # 
-Length_hidden    : 00:00 # 
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.9–11 # 
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690606sb.nv.mp3|SB 1.5.9-11 — June 6, 1969, New Vrindaban}}
-</audio>
-
-
 **Prabhupāda:**
 
 > om ajñāna-timirāndhasya jñānāñjana-śalākayā

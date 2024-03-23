@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.4 ======
 
----- dataentry spoken ----
-id_hidden        : 740219bg.bom
-listtype_hidden  : Bg 7.4
-listdate_hidden  : 1974-02-19
-showdate_hidden  : 2023-02-19
-listplace_hidden : Bombay
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : February 19
-Year_spoken      : 1974
-Place_spoken     : Bombay
-Length_hidden    : 39:52
-Title_hidden     : Bhagavad-gītā 7.4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740219bg.bom.mp3|Bg 7.4 — February 19, 1974, Bombay}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

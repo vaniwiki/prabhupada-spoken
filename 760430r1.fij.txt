@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760430r1.fij
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-04-30
-showdate_hidden  : 2023-04-30
-listplace_hidden : Fiji
-Type_spoken      : Room Conversation
-Date_spoken      : April 30
-Year_spoken      : 1976
-Place_spoken     : Fiji
-Length_hidden    : 12:36
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760430r1.fij.mp3|Room Conversation — April 30, 1976, Fiji}}
-</audio>
-
 **Prabhupāda:**
 ...therefore he very intelligently appointed Kṛṣṇa as his spiritual master. Because everyone is in perplexity about the problem of life. So this very thing happened to Arjuna, and he wanted to go to spiritual master for solution. And the supreme spiritual master was present before him; therefore he submitted: //śiṣyas te 'haṁ śādhi māṁ prapannam// [[books:bg:2:7|[Bg. 2.7]]]. //Kārpaṇya-doṣopahata-svabhāvaḥ...//
 

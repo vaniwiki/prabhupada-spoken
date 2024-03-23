@@ -9,24 +9,6 @@
 
 ====== Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara ======
 
----- dataentry spoken ----
-id_hidden        : 700703in.la
-listtype_hidden  : Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara
-listdate_hidden  : 1970-07-03
-showdate_hidden  : 2023-07-03
-listplace_hidden : Los Angeles
-Type_spoken      : Initiation
-Date_spoken      : July 3
-Year_spoken      : 1970
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1970/700703in.la.mp3|Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara — July 3, 1970, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 Ten kinds of offenses, they are mentioned in the paper. You should avoid, and follow the regulative principles. Just like if you ignite fire, if the wood is dry, then the fire very quickly takes place. And if it is moist, wet, then it takes time. So, so avoiding these ten kinds of offenses and following the rules and regulation will quickly ignite the fire of Kṛṣṇa consciousness. Otherwise, the chanting of Hare Kṛṣṇa //mantra// is powerful, even one is contaminated, but it will accelerate if you follow the rules and regulations and avoid the offenses. Therefore... So what are these ten kind of offenses? What is the first, first offense?
 

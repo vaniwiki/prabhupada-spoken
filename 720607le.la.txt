@@ -9,24 +9,6 @@
 
 ====== Lecture [partially recorded] ======
 
----- dataentry spoken ----
-id_hidden        : 720607le.la
-listtype_hidden  : Lecture [partially recorded]
-listdate_hidden  : 1972-06-07
-showdate_hidden  : 2023-06-07
-listplace_hidden : Los Angeles
-Type_spoken      : Lecture
-Date_spoken      : June 7
-Year_spoken      : 1972
-Place_spoken     : Los Angeles
-Length_hidden    : 09:56
-Title_hidden     : Lecture [partially recorded]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720607le.la.mp3|Lecture [partially recorded] — June 7, 1972, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 This is the secret. People are trying to bring in peace and prosperity in the world by so many activities---philanthropism, altruism, nationalism, socialism. And so-called religion also, they are trying to bring in. The whole idea is the human society should remain in peace and prosperity. And the vivid example is the United Nation in your country. America invited all nations that "Let us form a community of United Nation," but the America herself is fighting. You see? Because the idea was there to unite, but they do not know the basic principle, how to unite. That is the defect.
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation about Marriage ======
 
----- dataentry spoken ----
-id_hidden        : 680924rc.sea
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1968-09-24
-showdate_hidden  : 2023-09-24
-listplace_hidden : Seattle
-Type_spoken      : Room Conversation
-Date_spoken      : September 24
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Room Conversation about Marriage
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680924rc.sea.mp3|Room Conversation about Marriage — September 24, 1968, Seattle}}
-</audio>
-
 **Prabhupāda:**
 I understand that she, she felt some inconvenience, that girl, in your company.
 

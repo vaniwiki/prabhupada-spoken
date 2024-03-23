@@ -9,24 +9,6 @@
 
 ====== Prabhupāda Vigil ======
 
----- dataentry spoken ----
-id_hidden        : 771103r1.vrn
-listtype_hidden  : Prabhupāda Vigil
-listdate_hidden  : 1977-11-03
-showdate_hidden  : 2023-11-03
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : November 3
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 53:54
-Title_hidden     : Prabhupāda Vigil
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771103r1.vrn.mp3|Prabhupāda Vigil — November 3, 1977, Vṛndāvana}}
-</audio>
-
 **Prabhupāda:**
 So somebody else come near me. Tamāla?
 

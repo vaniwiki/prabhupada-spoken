@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 771024r1.vrn
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1977-10-24
-showdate_hidden  : 2023-10-24
-listplace_hidden : Vṛndāvana
-Type_spoken      : Room Conversation
-Date_spoken      : October 24
-Year_spoken      : 1977
-Place_spoken     : Vṛndāvana
-Length_hidden    : 62:58
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/771024r1.vrn.mp3|Room Conversation — October 24, 1977, Vṛndāvana}}
-</audio>
-
 **Tamāla Kṛṣṇa:**
 They spoke with Mr. Bangor, B. N. Bangor. He didn't know anybody. He spoke with Mr. Bajoria. He also did not know anybody. They had not yet spoken with Mr. Jalan. Our feeling was that to bring a //kavirāja,// Rāmānuja //kavirāja,// is not difficult from wherever we are---whether we're here or anywhere. There are many //kavirājas.// Whether we have to get a local one or whether we have to go somewhere to bring one, they can be brought. Our one consideration was... [break] Just like this morning, it's getting cold in the morning, and we felt that, for example, during this..., in this summer, during the rainy season it rained very much---more than usual. So the climate is not completely predictable in this Kali-yuga. So it's getting very cold in the mornings. Now, if suddenly it gets much colder, to travel on the train would be very difficult, because these trains are hard. You can't keep them warm. They don't have heat in them. So we don't feel it's very safe to wait unduly. Our opinion was that so far as your health or strength goes, it's not going to increase significantly in one or two weeks. Even when you take this //makara-dhvaja,// it will take time to gradually get back your strength. So waiting is not so much for the purpose of gaining back strength. And the weather is..., the climate is working against us, because it's getting colder if we wait. One of the main reasons to go that Your Divine Grace had was to get into a nice climate, fresh air, open-air atmosphere. So our feeling is that as far as a //kavirāja// goes, now we must find a Rāmānuja //kavirāja.// Now, if we cannot find one in Calcutta, then our feeling is let us find one somewhere else and bring him to Māyāpur. In other words, it doesn't have to be that he's living in Calcutta. //Kavirājas// are all over India. There is one... Who is that person, Bhavānanda?
 

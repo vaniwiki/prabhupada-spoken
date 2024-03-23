@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.5.4 ======
 
----- dataentry spoken ----
-id_hidden        : 680112sb.la
-listtype_hidden  : SB 1.5.4
-listdate_hidden  : 1968-01-12
-showdate_hidden  : 2023-01-12
-listplace_hidden : Los Angeles
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : January 12
-Year_spoken      : 1968
-Place_spoken     : Los Angeles
-Length_hidden    : 00:00
-Title_hidden     : Śrīmad-Bhāgavatam 1.5.4
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680112sb.la.mp3|SB 1.5.4 — January 12, 1968, Los Angeles}}
-</audio>
-
 **Prabhupāda:**
 //...akṛtārtha iva prabho// [[books:sb:1:5:4|[SB 1.5.4]]]. The question of Nārada to Vyāsadeva his disciple, that "My dear disciple Vyāsadeva, you have thoroughly inquired," //jijñāsā, adhītam. Adhītam// means, "You have studied thoroughly." What about? Brahman. Brahman means the Absolute Truth. //Jijñāsitam adhītaṁ ca brahma,// and the Absolute Truth, //yat tat brahma sanātanam. Sanātanam// means eternal. The conception of Brahman, Absolute Truth, is eternal. Brahman, the definition of Brahman is "that which is the greatest." Just like we say God is great. Greatest. And increasing also. Brahman is not limited. Just like we have got some idea, say, the sky, the greatest. But this is also increasing. According to astronomical calculation, the planets and the universe, they can increase. So the Absolute Truth, that is eternally increasing. There is no comparison of Brahman's increasement and magnitude. //Sanātana,// and that is also eternal.
 

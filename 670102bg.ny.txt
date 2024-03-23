@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 10.3 ======
 
----- dataentry spoken ----
-id_hidden        : 670102bg.ny
-listtype_hidden  : Bg 10.3
-listdate_hidden  : 1967-01-02
-showdate_hidden  : 2023-01-02
-listplace_hidden : New York
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : January 2
-Year_spoken      : 1967
-Place_spoken     : New York
-Length_hidden    : 00:00
-Title_hidden     : Bhagavad-gītā 10.3
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1967/670102bg.ny.mp3|Bg 10.3 — January 2, 1967, New York}}
-</audio>
-
 **Prabhupāda:**
 
 > yo mām ajam anādiṁ ca

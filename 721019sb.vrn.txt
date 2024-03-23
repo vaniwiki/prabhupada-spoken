@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.8 ======
 
----- dataentry spoken ----
-id_hidden        : 721019sb.vrn
-listtype_hidden  : SB 1.2.8
-listdate_hidden  : 1972-10-19
-showdate_hidden  : 2023-10-19
-listplace_hidden : Vṛndāvana
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : October 19
-Year_spoken      : 1972
-Place_spoken     : Vṛndāvana
-Length_hidden    : 40:33
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.8
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/721019sb.vrn.mp3|SB 1.2.8 — October 19, 1972, Vṛndāvana}}
-</audio>
-
 **Pradyumna:** Translation: "Duties, or dharma, executed by men are only so much useless labor if they do not provoke attraction for the message of the Supreme Lord." [[books:sb:1:2:8|[SB 1.2.8]]]
 
 **Prabhupāda:**

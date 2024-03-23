@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 13.8–12 [Hindi] ======
 
----- dataentry spoken ----
-id_hidden        : 761018bg.cha
-listtype_hidden  : Bg 13.8–12 [Hindi]
-listdate_hidden  : 1976-10-18
-showdate_hidden  : 2023-10-18
-listplace_hidden : Chandigarh
-Type_spoken      : Hindi
-Date_spoken      : October 7
-Year_spoken      : 1976
-Place_spoken     : Chandigarh
-Length_hidden    : 65:38
-Title_hidden     : Bhagavad-gītā 13.8–12 [Hindi]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761018bg.cha_hindi.mp3|Bg 13.8-12 [Hindi] — October 7, 1976, Chandigarh}}
-</audio>
-
 **Pradyumna:**
 
 > amānitvam adambhitvam

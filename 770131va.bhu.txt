@@ -9,24 +9,6 @@
 
 ====== Varāha-dvadaśī, Lord Varāha’s Appearance Day ======
 
----- dataentry spoken ----
-id_hidden        : 770131va.bhu
-listtype_hidden  : Varāha-dvadaśī
-listdate_hidden  : 1977-01-31
-showdate_hidden  : 2023-01-31
-listplace_hidden : Bhubaneswar
-Type_spoken      : Lecture
-Date_spoken      : January 31
-Year_spoken      : 1977
-Place_spoken     : Bhubaneswar
-Length_hidden    : 20:48
-Title_hidden     : Varāha-dvadaśī, Lord Varāha’s Appearance Day
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1977/770131va.bhu.mp3|Varāha-dvadaśī — January 31, 1977, Bhubaneswar}}
-</audio>
-
 **Prabhupāda:**
 Today, Varāha-dvādaśī, appearance of Kṛṣṇa's taking the incarnation of Varāha, boar. //Keśava dhṛta-śūkara-rūpa jaya jagadīśa hare.//
 

@@ -9,24 +9,6 @@
 
 ====== Room Conversation with George Gullen, President of Wayne State University ======
 
----- dataentry spoken ----
-id_hidden        : 760615r1.det
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-06-15
-showdate_hidden  : 2023-06-15
-listplace_hidden : Detroit
-Type_spoken      : Room Conversation
-Date_spoken      : June 15
-Year_spoken      : 1976
-Place_spoken     : Detroit
-Length_hidden    : 28:40
-Title_hidden     : Room Conversation with George Gullen, President of Wayne State University
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760615r1.det.mp3|Room Conversation with George Gullen, President of Wayne State University — June 15, 1976, Detroit}}
-</audio>
-
 **George Gullen:**
 ...I'm the president of Wayne State University. I'm very pleased to be asked to come and visit with you. [break]
 

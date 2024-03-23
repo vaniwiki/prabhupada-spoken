@@ -9,24 +9,6 @@
 
 ====== Arrival Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 760419ar.mel
-listtype_hidden  : Arrival Lecture
-listdate_hidden  : 1976-04-19
-showdate_hidden  : 2023-04-19
-listplace_hidden : Melbourne
-Type_spoken      : Lecture
-Date_spoken      : April 19
-Year_spoken      : 1976
-Place_spoken     : Melbourne
-Length_hidden    : 08:13
-Title_hidden     : Arrival Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760419ar.mel.mp3|Arrival Lecture — April 19, 1976, Melbourne}}
-</audio>
-
 **Prabhupāda:**
 
 > ajñāna-timirāndhasya

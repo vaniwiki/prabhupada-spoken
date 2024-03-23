@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.2.12 ======
 
----- dataentry spoken ----
-id_hidden        : 731118sb.del
-listtype_hidden  : SB 1.2.12
-listdate_hidden  : 1973-11-18
-showdate_hidden  : 2023-11-18
-listplace_hidden : Delhi
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : November 18
-Year_spoken      : 1973
-Place_spoken     : Delhi
-Length_hidden    : 43:33
-Title_hidden     : Śrīmad-Bhāgavatam 1.2.12
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/731118sb.del.mp3|SB 1.2.12 — November 18, 1973, Delhi}}
-</audio>
-
 **Prabhupāda:**
 
 > tac chraddadhānā munayo

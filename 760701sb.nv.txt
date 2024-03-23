@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 7.6.17–18 ======
 
----- dataentry spoken ----
-id_hidden        : 760701sb.nv
-listtype_hidden  : SB 7.6.17–18
-listdate_hidden  : 1976-07-01
-showdate_hidden  : 2023-07-01
-listplace_hidden : New Vrindavan
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 1
-Year_spoken      : 1976
-Place_spoken     : New Vrindavan
-Length_hidden    : 21:57
-Title_hidden     : Śrīmad-Bhāgavatam 7.6.17–18
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760701sb.nv.mp3|SB 7.6.17-18 — July 1, 1976, New Vrindavan}}
-</audio>
-
 **Pradyumna:** Translation: "My dear friends, O sons of the demons, it is certain that no one bereft of knowledge of the Supreme Personality of Godhead has been able to liberate himself from material bondage at any time or in any country. Rather, those bereft of knowledge of the Lord are bound by the material laws. They are factually addicted to sense gratification, and their target is woman. Indeed, they are actually playthings in the hands of attractive women. Victimized by such a conception of life, they become surrounded by children, grandchildren and great-grandchildren, and thus they are shackled to material bondage. Those who are very much addicted to this conception of life are called demons. Therefore, although you are sons of demons, keep aloof from such persons and take shelter of the Supreme Personality of Godhead, Nārāyaṇa, the origin of all the demigods, because the ultimate goal for the devotees of Nārāyaṇa is liberation from the bondage of material existence."
 
 **Prabhupāda:**

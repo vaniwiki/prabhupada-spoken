@@ -9,24 +9,6 @@
 
 ====== Bhagavad-gītā 7.1 ======
 
----- dataentry spoken ----
-id_hidden        : 740427bg.hyd
-listtype_hidden  : Bg 7.1
-listdate_hidden  : 1974-04-27
-showdate_hidden  : 2023-04-27
-listplace_hidden : Hyderabad
-Type_spoken      : Bhagavad-gītā
-Date_spoken      : April 27
-Year_spoken      : 1974
-Place_spoken     : Hyderabad
-Length_hidden    : 72:46
-Title_hidden     : Bhagavad-gītā 7.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740427bg.hyd.mp3|Bg 7.1 — April 27, 1974, Hyderabad}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya.// [Prabhupāda and devotees repeat] [leads chanting of verse]
 

@@ -9,22 +9,4 @@
 
 ====== Room Conversation [Bengali] ======
 
----- dataentry spoken ----
-id_hidden        : 720118r2.jai
-listtype_hidden  : Room Conversation [Bengali]
-listdate_hidden  : 1972-01-18
-showdate_hidden  : 2023-01-18
-listplace_hidden : Jaipur
-Type_spoken      : Bengali
-Date_spoken      : January 18
-Year_spoken      : 1972
-Place_spoken     : Jaipur
-Length_hidden    : 31:26
-Title_hidden     : Conversation with Rajmataji Gayatri Devi [Bengali]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720118r2.jai_bengali.mp3|Room Conversation [Bengali] — January 18, 1972, Jaipur}}
-</audio>
-
 **Prabhupāda:**

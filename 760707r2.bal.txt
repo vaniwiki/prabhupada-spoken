@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 760707r2.bal
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1976-07-07
-showdate_hidden  : 2023-07-07
-listplace_hidden : Baltimore
-Type_spoken      : Room Conversation
-Date_spoken      : July 7
-Year_spoken      : 1976
-Place_spoken     : Baltimore
-Length_hidden    : 18:09
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760707r2.bal.mp3|Room Conversation — July 7, 1976, Baltimore}}
-</audio>
-
 **Prabhupāda:**
 "...so we have got our authority." I have got my authority, //Bhāgavatam,// Vedic literature. Why shall I give you better preference, your authority? I have got my authority.
 

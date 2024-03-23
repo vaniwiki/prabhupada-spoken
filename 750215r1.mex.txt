@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 750215r1.mex
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1975-02-15
-showdate_hidden  : 2023-02-15
-listplace_hidden : Mexico City
-Type_spoken      : Room Conversation
-Date_spoken      : February 15
-Year_spoken      : 1975
-Place_spoken     : Mexico City
-Length_hidden    : 37:08
-Title_hidden     : Room Conversation
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750215r1.mex.mp3|Room Conversation — February 15, 1975, Mexico City}}
-</audio>
-
 **Hanumān:**
 This gentleman... Permit introduce him? [indistinct] ... This gentleman is the director of the Great [indistinct]
 

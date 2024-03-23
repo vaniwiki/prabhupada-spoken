@@ -9,24 +9,6 @@
 
 ====== Lecture ======
 
----- dataentry spoken ----
-id_hidden        : 680927le.sea
-listtype_hidden  : Lecture
-listdate_hidden  : 1968-09-27
-showdate_hidden  : 2023-09-27
-listplace_hidden : Seattle
-Type_spoken      : Lecture
-Date_spoken      : September 27
-Year_spoken      : 1968
-Place_spoken     : Seattle
-Length_hidden    : 00:00
-Title_hidden     : Lecture
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1968/680927le.sea.mp3|Lecture — September 27, 1968, Seattle}}
-</audio>
-
 **Prabhupāda:**
 //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// [response] Thank you. So our program is to worship the original Supreme Personality of Godhead, Kṛṣṇa. //Govindam ādi-puruṣaṁ tam ahaṁ bhajāmi.// In this material world everyone is trying to get happiness and to get relief from distress. Two things are going on, attempt. There are different processes. Material process is completely absurd. That is already proved. No amount of material comforts or happiness, so-called happiness, can give us the actual happiness that we are hankering. That is not possible. Then there are different other processes also. There are three kinds of miseries due to our material conditional life: //ādhyātmic, ādhibhautic, ādhidaivic. Ādhyātmic// means pertaining to the body and to the mind. Just like when there is some disarrangement of the different functions of metabolism within this body, we get fever, we get some pain, headache---so many things---so these miseries are called //ādhyātmic,// pertaining to the body. And another part of this //ādhyātmic// misery is due to the mind. Suppose I have suffered a great loss. So the mind is not in good condition. So this is also suffering. So for diseased condition of the body or some mental dissatisfaction there are miseries. Then again, //ādhibhautic,// sufferings offered by other living entities. Just like we are human being, we are sending millions of poor animals to the slaughterhouse daily. They cannot express, but this is called //ādhibhautic,// sufferings offered by other living entities. Similarly, we have to suffer also sufferings offered by other living entities. God's law you cannot, I mean to say, supersede. So material laws, state laws, you can hide yourself, but God's law you cannot hide yourself. There are so many witnesses. The sun is your witness, the moon is your witness, the day is your witness, the night is your witness, the sky is your witness. So how you can supersede the laws of the Lord? So... But this material nature is so constituted that we have to suffer //ādhyātmic,// pertaining to the body, pertaining to the mind, and sufferings offered by other living entities, and another suffering //ādhidaivic. Ādhidaivic,// just like somebody is ghost-haunted, a ghost has attacked him. Ghost cannot be seen, but he's suffering delirium, speaking something nonsense. Or there is famine, there is earthquake, there is war, there is pestilence, so many things.
 

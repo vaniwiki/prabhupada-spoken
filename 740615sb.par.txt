@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 2.1.7 ======
 
----- dataentry spoken ----
-id_hidden        : 740615sb.par
-listtype_hidden  : SB 2.1.7
-listdate_hidden  : 1974-06-15
-showdate_hidden  : 2023-06-15
-listplace_hidden : Paris
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 15
-Year_spoken      : 1974
-Place_spoken     : Paris
-Length_hidden    : 32:36
-Title_hidden     : Śrīmad-Bhāgavatam 2.1.7
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740615sb.par.mp3|SB 2.1.7 — June 15, 1974, Paris}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting of verse, etc.]
 

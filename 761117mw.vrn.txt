@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 761117mw.vrn
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-11-17
-showdate_hidden  : 2023-11-17
-listplace_hidden : Vṛndāvana
-Type_spoken      : Morning Walk
-Date_spoken      : November 17
-Year_spoken      : 1976
-Place_spoken     : Vṛndāvana
-Length_hidden    : 12:58
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/761117mw.vrn.mp3|Morning Walk — November 17, 1976, Vṛndāvana}}
-</audio>
-
 [Recording breaks up throughout] [indistinct]
 
 Hari-śauri: Yes it's recording. You can see its on number one. That's the end of it. That's the microphone. Say something, it is recording.

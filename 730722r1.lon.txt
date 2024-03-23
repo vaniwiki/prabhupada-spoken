@@ -9,24 +9,6 @@
 
 ====== Room Conversation with Dr. Arnold Toynbee ======
 
----- dataentry spoken ----
-id_hidden        : 730722r1.lon
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1973-07-22
-showdate_hidden  : 2023-07-22
-listplace_hidden : London
-Type_spoken      : Room Conversation
-Date_spoken      : July 22
-Year_spoken      : 1973
-Place_spoken     : London
-Length_hidden    : 61:40
-Title_hidden     : Room Conversation with Dr. Arnold Toynbee [Famous Historian]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1973/730722r1.lon.mp3|Room Conversation with Dr. Arnold Toynbee — July 22, 1973, London}}
-</audio>
-
 **Prabhupāda:**
 You have heard something about our Kṛṣṇa consciousness movement?
 

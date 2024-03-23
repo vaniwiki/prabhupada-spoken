@@ -9,24 +9,6 @@
 
 ====== Conversation with Dr. Shaligram Shukla [Part 1] ======
 
----- dataentry spoken ----
-id_hidden        : 760705r1.wdc
-listtype_hidden  : Conversation with Dr. Shaligram Shukla [Part 1]
-listdate_hidden  : 1976-07-05
-showdate_hidden  : 2023-07-05
-listplace_hidden : Washington, D.C.
-Type_spoken      : Room Conversation
-Date_spoken      : July 5
-Year_spoken      : 1976
-Place_spoken     : Washington, D.C.
-Length_hidden    : 93:43
-Title_hidden     : Conversation with Dr. Shaligram Shukla [Part 1]
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760705r1.wdc.mp3|Conversation with Dr. Shaligram Shukla [Part 1] — July 5, 1976, Washington, D.C.}}
-</audio>
-
 **Prabhupāda:**
 Everyone is engaged in the business of sense gratification. Just like last night millions of men went to see the firework. So the firework, as well as the people went to see there, the expenditure was very heavy, I think, total?
 

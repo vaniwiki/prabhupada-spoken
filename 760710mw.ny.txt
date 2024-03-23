@@ -9,24 +9,6 @@
 
 ====== Morning Walk ======
 
----- dataentry spoken ----
-id_hidden        : 760710mw.ny
-listtype_hidden  : Morning Walk
-listdate_hidden  : 1976-07-10
-showdate_hidden  : 2023-07-10
-listplace_hidden : New York
-Type_spoken      : Morning Walk
-Date_spoken      : July 10
-Year_spoken      : 1976
-Place_spoken     : New York
-Length_hidden    : 34:53
-Title_hidden     : Morning Walk
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760710mw.ny.mp3|Morning Walk — July 10, 1976, New York}}
-</audio>
-
 [in room before walk]
 
 **Hari-śauri:**

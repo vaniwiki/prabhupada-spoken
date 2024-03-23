@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 1.1.1 ======
 
----- dataentry spoken ----
-id_hidden        : 720706sb.lon
-listtype_hidden  : SB 1.1.1
-listdate_hidden  : 1972-07-06
-showdate_hidden  : 2023-07-06
-listplace_hidden : London
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 6
-Year_spoken      : 1972
-Place_spoken     : London
-Length_hidden    : 27:24
-Title_hidden     : Śrīmad-Bhāgavatam 1.1.1
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1972/720706sb.lon.mp3|SB 1.1.1 — July 6, 1972, London}}
-</audio>
-
 **Prabhupāda:**
 Come on. Hmm. What is that?
 

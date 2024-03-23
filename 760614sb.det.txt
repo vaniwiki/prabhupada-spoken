@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.48 ======
 
----- dataentry spoken ----
-id_hidden        : 760614sb.det
-listtype_hidden  : SB 6.1.48
-listdate_hidden  : 1976-06-14
-showdate_hidden  : 2023-06-14
-listplace_hidden : Detroit
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : June 14
-Year_spoken      : 1976
-Place_spoken     : Detroit
-Length_hidden    : 18:39
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.48
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1976/760614sb.det.mp3|SB 6.1.48 — June 14, 1976, Detroit}}
-</audio>
-
 **Pradyumna:**
 //Oṁ namo bhagavate vāsudevāya.// [devotees repeat] [leads chanting, etc.]
 

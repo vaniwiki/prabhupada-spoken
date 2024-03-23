@@ -9,24 +9,6 @@
 
 ====== Śrī Vyāsa-pūjā ======
 
----- dataentry spoken ----
-id_hidden        : 690905vp.ham
-listtype_hidden  : Śrī Vyāsa-pūjā
-listdate_hidden  : 1969-09-05
-showdate_hidden  : 2023-09-05
-listplace_hidden : Hamburg
-Type_spoken      : Lecture
-Date_spoken      : September 5
-Year_spoken      : 1969
-Place_spoken     : Hamburg
-Length_hidden    : 00:00
-Title_hidden     : Śrī Vyāsa-pūjā
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1969/690905vp.ham.mp3|Śrī Vyāsa-pūjā — September 5, 1969, Hamburg}}
-</audio>
-
 **Prabhupāda:**
 Now you can discuss amongst... You can speak something, what you have experienced about your spiritual master. You can speak. Anyone can speak. [Hindi] They may not go, but they'll take //prasāda.// Why you are going? Please sit down. [Hindi]
 

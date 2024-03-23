@@ -9,24 +9,6 @@
 
 ====== Room Conversation ======
 
----- dataentry spoken ----
-id_hidden        : 740620r1.ger
-listtype_hidden  : Room Conversation
-listdate_hidden  : 1974-06-20
-showdate_hidden  : 2023-06-20
-listplace_hidden : Germany
-Type_spoken      : Room Conversation
-Date_spoken      : June 20
-Year_spoken      : 1974
-Place_spoken     : Germany
-Length_hidden    : 12:29
-Title_hidden     : Room Conversation with Christians
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1974/740620r1.ger.mp3|Room Conversation — June 20, 1974, Germany}}
-</audio>
-
 **Prabhupāda:**
 Cannot find?
 

@@ -9,24 +9,6 @@
 
 ====== Śrīmad-Bhāgavatam 6.1.23 ======
 
----- dataentry spoken ----
-id_hidden        : 750707sb.chi
-listtype_hidden  : SB 6.1.23
-listdate_hidden  : 1975-07-07
-showdate_hidden  : 2023-07-07
-listplace_hidden : Chicago
-Type_spoken      : Śrīmad-Bhāgavatam
-Date_spoken      : July 7
-Year_spoken      : 1975
-Place_spoken     : Chicago
-Length_hidden    : 37:27
-Title_hidden     : Śrīmad-Bhāgavatam 6.1.23
-----
-
-<audio>
-{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/spoken/1975/750707sb.chi.mp3|SB 6.1.23 — July 7, 1975, Chicago}}
-</audio>
-
 **Nitāi:**
 //Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya. Oṁ namo bhagavate vāsudevāya.// [devotees repeat] Sixth Canto, First Chapter, verse number 23. [leads chanting of verse, etc.]
 
