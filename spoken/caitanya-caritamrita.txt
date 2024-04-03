@@ -1,0 +1,19 @@
+---json
+{
+    "template": "index"
+}
+---
+====== Sri Caitanya-caritamrita ======
+
+{{pagequery>spoken:.*cc.*;
+  fullregex;
+  group;
+  spelldate;
+  proper;
+  border=inside;
+  hidestart;
+  case;
+  natsort;
+  sort=title;
+  display={title}
+}}

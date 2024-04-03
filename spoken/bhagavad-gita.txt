@@ -1,0 +1,19 @@
+---json
+{
+    "template": "index"
+}
+---
+====== Bhagavad-gita ======
+
+{{pagequery>spoken:.*bg.*;
+  fullregex;
+  group;
+  spelldate;
+  proper;
+  border=inside;
+  hidestart;
+  case;
+  natsort;
+  sort=title;
+  display={title}
+}}

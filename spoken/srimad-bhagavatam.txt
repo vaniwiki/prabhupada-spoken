@@ -1,0 +1,19 @@
+---json
+{
+    "template": "index"
+}
+---
+====== Srimad-Bhagavatam ======
+
+{{pagequery>spoken:.*sb.*;
+  fullregex;
+  group;
+  spelldate;
+  proper;
+  border=inside;
+  hidestart;
+  case;
+  natsort;
+  sort=title;
+  display={title}
+}}
