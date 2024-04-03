@@ -1,0 +1,11 @@
+=== Spoken navigation ===
+
+We need to restructure our content to sort and show it properly. Our system was based on an old plugin, that is no longer supported. We want to make the move to a new system that is more robust and flexible, but in doing so we need to know what we're doing, and time to do it. Please pray for us!
+
+For now we will show only a simple list of all our content, and let you search and find what you need yourself. Sorry for the trouble...
+
+**Preliminary:**
+
+  * [[spoken:bhagavad-gita]]
+  * [[spoken:srimad-bhagavatam]]
+  * [[spoken:caitanya-caritamrita]]
