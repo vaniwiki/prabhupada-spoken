@@ -6,6 +6,6 @@ In our [vani.wiki](https://vani.wiki) way, we use DokuWiki markup for the archiv
 
 The best reading experience we have found for this archive is on an iPad with Textastic, dark theme set to Sunburst. While the json headers could be removed in a git branch (as they are redundant in such apps), that is not our priority at the moment.
 
-This repository supports translations, so if you want to help out make translations or add existing ones, please reach out or open a pull request if you know how to do this. All translated files follow the same format, the file is names the same, but it goes into a lanauge-specific folder, eg. "de" for German, "no" for Norwegian, "hi" for Hindi, etc.
+This repository supports translations, so if you want to help out make translations or add existing ones, please reach out.
 
 We are currently working on reimporting content. A big thanks to [Vedabase.io](https://vedabase.io) for sharing their lectures and helping to get this ready!
