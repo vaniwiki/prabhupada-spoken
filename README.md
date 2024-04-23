@@ -1,6 +1,6 @@
 # Spoken by His Divine Grace
 
-This repository contains audio transcripts from His Divine Grace A.C. Bhaktivedanta Swami Prabhupada. It is directly linked with our publication at https://prabhupada.io/spoken, so committed changes here are reflected there.
+This repository contains audio transcripts from His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.
 
 In our [vani.wiki](https://vani.wiki) way, we use DokuWiki markup for the archive, the only in-content syntax `**bold**` and `//italic//`, which makes it easy to read in a plain text editor. We would love to see forks, maybe converted into Markdown via [Pandoc](https://pandoc.org), for broader compatibility. You can then add this to your website or app as you like.
 
