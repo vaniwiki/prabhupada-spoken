@@ -1,7 +1,9 @@
-This repository hasn't been updated for 1966-1971. At the time I did the new transcripts, they were 1972-1977. I shared that content with my friend thinking he will share back one day, but alas. So we will have to rely on Ekanatha prabhu for the files, and do one final export from VedaBase.
+This repository contains audio transcripts from His Divine Grace A.C. Bhaktivedanta Swami Prabhupada. It is directly linked with our publication at https://prabhupada.io/spoken, so committed changes here are reflected there.
 
-What is unique with our digital archive here, is that the same is used for online publication. So not only is it easy to read in its raw form, but it also doubles as a direct-to-website content publishing backbone. What about that!
+In our vani.wiki way, we use DokuWiki markup for the archive, the only in-content syntax `**bold**` and `//italic//`, which makes it easy to read in a plain text editor. We would love to see forks, maybe converted into Markdown via Pandoc (https://pandoc.org), for broader compatibility. You can then add this to your website or app as you like.
 
-The files for 1972-1977 were taken from VedaBase 2015.1, but will be outdated with the many updates that went into VedaBase over the years.
+The best reading experience we have found for this archive is on an iPad with Textastic, dark theme set to Sunburst. While the json headers could be removed in a git branch (as they are redundant in such apps), that is not our priority at the moment.
 
-The files for 1966-1971 is still from the old tape ministry files, and should be updated asap to correlate to the latest unedited audio files.
+This repository supports translations, so if you want to help out make translations or add existing ones, please reach out or open a pull request if you know how to do this. All translated files follow the same format, the file is names the same, but it goes into a lanauge-specific folder, eg. "de" for German, "no" for Norwegian, "hi" for Hindi, etc.
+
+We are currently working on reimporting content. A big thanks to Vedabase.io for sharing their lectures and helping to get this ready!
