@@ -8,4 +8,4 @@ The best reading experience we have found for this archive is on an iPad with Te
 
 This repository supports translations, so if you want to help out make translations or add existing ones, please reach out or open a pull request if you know how to do this. All translated files follow the same format, the file is names the same, but it goes into a lanauge-specific folder, eg. "de" for German, "no" for Norwegian, "hi" for Hindi, etc.
 
-We are currently working on reimporting content. A big thanks to Vedabase.io(https://vedabase.io) for sharing their lectures and helping to get this ready!
+We are currently working on reimporting content. A big thanks to helpful friends!
