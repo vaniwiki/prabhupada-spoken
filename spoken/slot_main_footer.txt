@@ -1,6 +1,6 @@
 [<10>]
 
-<box align="text-center" spacing="0">
+<box align="text-center">
 <text spacing="m-0 p-0" font-size="small" color="indianred">//Share with your friends//</text>
 <share facebook widget="link" icon="none"><icon name="fe:facebook" color="indianred"/></share>
 <share twitter widget="link" icon="none"><icon name="fe:twitter" color="indianred"/></share>
