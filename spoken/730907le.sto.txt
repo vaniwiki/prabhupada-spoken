@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Uppsala University Faculty, Bhagavad-gītā 13.1 — September 7, 1973, Stockholm",
     "h1":"Lecture at Uppsala University Faculty, Bhagavad-gītā 13.1",
-    "label":"September 7, 1973, Stockholm"
+    "label":"September 7, 1973, Stockholm",
     "title":"Lecture at Uppsala University Faculty, Bhagavad-gītā 13.1 — September 7, 1973, Stockholm",
     "description":""
 }

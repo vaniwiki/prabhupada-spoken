@@ -2,7 +2,7 @@
 {
     "name":"Bg 4.13 — August 5, 1974, Vṛndāvana",
     "h1":"Bg 4.13 Lecture",
-    "label":"August 5, 1974, Vṛndāvana"
+    "label":"August 5, 1974, Vṛndāvana",
     "title":"Bg 4.13 — August 5, 1974, Vṛndāvana",
     "description":""
 }

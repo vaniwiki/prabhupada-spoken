@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Shri Narayan — May 2, 1977, Bombay",
     "h1":"Conversation with Shri Narayan",
-    "label":"May 2, 1977, Bombay"
+    "label":"May 2, 1977, Bombay",
     "title":"Conversation with Shri Narayan — May 2, 1977, Bombay",
     "description":""
 }

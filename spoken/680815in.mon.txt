@@ -2,7 +2,7 @@
 {
     "name":"Initiation of Rukmiṇī Dāsī — August 15, 1968, Montreal",
     "h1":"Initiation of Rukmiṇī Dāsī",
-    "label":"August 15, 1968, Montreal"
+    "label":"August 15, 1968, Montreal",
     "title":"Initiation of Rukmiṇī Dāsī — August 15, 1968, Montreal",
     "description":""
 }

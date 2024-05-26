@@ -2,7 +2,7 @@
 {
     "name":"Śrī Vyāsa-pūjā Address — September 2, 1972, New Vrindavan",
     "h1":"Śrī Vyāsa-pūjā Address",
-    "label":"September 2, 1972, New Vrindavan"
+    "label":"September 2, 1972, New Vrindavan",
     "title":"Śrī Vyāsa-pūjā Address — September 2, 1972, New Vrindavan",
     "description":""
 }

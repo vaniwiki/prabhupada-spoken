@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — May 4, 1976, Honolulu",
     "h1":"Room Conversation",
-    "label":"May 4, 1976, Honolulu"
+    "label":"May 4, 1976, Honolulu",
     "title":"Room Conversation — May 4, 1976, Honolulu",
     "description":""
 }

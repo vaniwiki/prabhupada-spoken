@@ -2,7 +2,7 @@
 {
     "name":"Bg 10.8 — July 31, 1976, New Māyāpur",
     "h1":"Bg 10.8 Lecture",
-    "label":"July 31, 1976, New Māyāpur"
+    "label":"July 31, 1976, New Māyāpur",
     "title":"Bg 10.8 — July 31, 1976, New Māyāpur",
     "description":""
 }

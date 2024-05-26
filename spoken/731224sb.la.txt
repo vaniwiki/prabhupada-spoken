@@ -2,7 +2,7 @@
 {
     "name":"SB 1.15.46 — December 24, 1973, Los Angeles",
     "h1":"SB 1.15.46",
-    "label":"December 24, 1973, Los Angeles"
+    "label":"December 24, 1973, Los Angeles",
     "title":"SB 1.15.46 — December 24, 1973, Los Angeles",
     "description":""
 }

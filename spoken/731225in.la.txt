@@ -2,7 +2,7 @@
 {
     "name":"Initiation Ceremony — December 25, 1973, Los Angeles",
     "h1":"Initiation Ceremony",
-    "label":"December 25, 1973, Los Angeles"
+    "label":"December 25, 1973, Los Angeles",
     "title":"Initiation Ceremony — December 25, 1973, Los Angeles",
     "description":""
 }

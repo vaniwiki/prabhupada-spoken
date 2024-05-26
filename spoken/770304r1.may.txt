@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with GBC members — March 2-3, 1977, Māyāpur",
     "h1":"Room Conversation with GBC members",
-    "label":"March 2-3, 1977, Māyāpur"
+    "label":"March 2-3, 1977, Māyāpur",
     "title":"Room Conversation with GBC members — March 2-3, 1977, Māyāpur",
     "description":""
 }

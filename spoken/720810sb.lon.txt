@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.11-12 — August 10, 1972, London",
     "h1":"SB 1.2.11-12",
-    "label":"August 10, 1972, London"
+    "label":"August 10, 1972, London",
     "title":"SB 1.2.11-12 — August 10, 1972, London",
     "description":""
 }

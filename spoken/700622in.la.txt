@@ -2,7 +2,7 @@
 {
     "name":"Initiation of Mṛga-netrī Dāsī — June 22, 1970, Los Angeles",
     "h1":"Initiation of Mṛga-netrī Dāsī",
-    "label":"June 22, 1970, Los Angeles"
+    "label":"June 22, 1970, Los Angeles",
     "title":"Initiation of Mṛga-netrī Dāsī — June 22, 1970, Los Angeles",
     "description":""
 }

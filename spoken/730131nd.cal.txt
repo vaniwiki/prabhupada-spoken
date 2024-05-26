@@ -2,7 +2,7 @@
 {
     "name":"The Nectar of Devotion — January 31, 1973, Calcutta",
     "h1":"The Nectar of Devotion",
-    "label":"January 31, 1973, Calcutta"
+    "label":"January 31, 1973, Calcutta",
     "title":"The Nectar of Devotion — January 31, 1973, Calcutta",
     "description":""
 }

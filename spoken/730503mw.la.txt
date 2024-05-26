@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — May 3, 1973, Los Angeles",
     "h1":"Morning Walk",
-    "label":"May 3, 1973, Los Angeles"
+    "label":"May 3, 1973, Los Angeles",
     "title":"Morning Walk — May 3, 1973, Los Angeles",
     "description":""
 }

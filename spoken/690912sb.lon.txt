@@ -2,7 +2,7 @@
 {
     "name":"SB 5.5.1 — September 12, 1969, Tittenhurst, London",
     "h1":"SB 5.5.1",
-    "label":"September 12, 1969, Tittenhurst, London"
+    "label":"September 12, 1969, Tittenhurst, London",
     "title":"SB 5.5.1 — September 12, 1969, Tittenhurst, London",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Lecture at University — January 29, 1973, Calcutta",
     "h1":"Lecture at University",
-    "label":"January 29, 1973, Calcutta"
+    "label":"January 29, 1973, Calcutta",
     "title":"Lecture at University — January 29, 1973, Calcutta",
     "description":""
 }

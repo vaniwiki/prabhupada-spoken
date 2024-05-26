@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — December 7, 1975, Vṛndāvana",
     "h1":"Morning Walk",
-    "label":"December 7, 1975, Vṛndāvana"
+    "label":"December 7, 1975, Vṛndāvana",
     "title":"Morning Walk — December 7, 1975, Vṛndāvana",
     "description":""
 }

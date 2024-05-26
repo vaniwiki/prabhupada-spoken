@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation With John Lennon, Yoko Ono, and George Harrison — September 11, 1969, London",
     "h1":"Room Conversation With John Lennon, Yoko Ono, and George Harrison",
-    "label":"September 11, 1969, London"
+    "label":"September 11, 1969, London",
     "title":"Room Conversation With John Lennon, Yoko Ono, and George Harrison — September 11, 1969, London",
     "description":""
 }

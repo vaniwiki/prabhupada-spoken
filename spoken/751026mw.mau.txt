@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — October 26, 1975, Mauritius",
     "h1":"Morning Walk",
-    "label":"October 26, 1975, Mauritius"
+    "label":"October 26, 1975, Mauritius",
     "title":"Morning Walk — October 26, 1975, Mauritius",
     "description":""
 }

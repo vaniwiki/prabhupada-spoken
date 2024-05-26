@@ -2,7 +2,7 @@
 {
     "name":"SB 7.6.7 — December 9, 1975, Vṛndāvana",
     "h1":"SB 7.6.7",
-    "label":"December 9, 1975, Vṛndāvana"
+    "label":"December 9, 1975, Vṛndāvana",
     "title":"SB 7.6.7 — December 9, 1975, Vṛndāvana",
     "description":""
 }

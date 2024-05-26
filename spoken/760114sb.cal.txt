@@ -2,7 +2,7 @@
 {
     "name":"SB 5.5.2 [Bengali] — January 14, 1976, Calcutta",
     "h1":"SB 5.5.2 [Bengali]",
-    "label":"January 14, 1976, Calcutta"
+    "label":"January 14, 1976, Calcutta",
     "title":"SB 5.5.2 [Bengali] — January 14, 1976, Calcutta",
     "description":""
 }

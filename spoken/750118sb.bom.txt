@@ -2,7 +2,7 @@
 {
     "name":"SB 3.26.43 — January 18, 1975, Bombay",
     "h1":"SB 3.26.43",
-    "label":"January 18, 1975, Bombay"
+    "label":"January 18, 1975, Bombay",
     "title":"SB 3.26.43 — January 18, 1975, Bombay",
     "description":""
 }

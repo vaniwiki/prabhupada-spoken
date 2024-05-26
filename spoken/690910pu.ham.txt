@@ -2,7 +2,7 @@
 {
     "name":"Purport to Hari Hari Biphale — September 10, 1969, Hamburg",
     "h1":"Purport to Hari Hari Biphale",
-    "label":"September 10, 1969, Hamburg"
+    "label":"September 10, 1969, Hamburg",
     "title":"Purport to Hari Hari Biphale — September 10, 1969, Hamburg",
     "description":""
 }

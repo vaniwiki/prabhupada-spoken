@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation after Press Conference — July 9, 1975, Chicago",
     "h1":"Room Conversation after Press Conference",
-    "label":"July 9, 1975, Chicago"
+    "label":"July 9, 1975, Chicago",
     "title":"Room Conversation after Press Conference — July 9, 1975, Chicago",
     "description":""
 }

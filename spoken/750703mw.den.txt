@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — July 3, 1975, Denver",
     "h1":"Morning Walk",
-    "label":"July 3, 1975, Denver"
+    "label":"July 3, 1975, Denver",
     "title":"Morning Walk — July 3, 1975, Denver",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara — July 3, 1970, Los Angeles",
     "h1":"Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara",
-    "label":"July 3, 1970, Los Angeles"
+    "label":"July 3, 1970, Los Angeles",
     "title":"Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara — July 3, 1970, Los Angeles",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Initiation Lecture — August 27, 1969, Hamburg",
     "h1":"Initiation Lecture",
-    "label":"August 27, 1969, Hamburg"
+    "label":"August 27, 1969, Hamburg",
     "title":"Initiation Lecture — August 27, 1969, Hamburg",
     "description":""
 }

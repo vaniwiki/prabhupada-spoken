@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation about Māyāpur Attack Talk with Vrindavan De — July 8, 1977, Vṛndāvana",
     "h1":"Room Conversation about Māyāpur Attack Talk with Vrindavan De",
-    "label":"July 8, 1977, Vṛndāvana"
+    "label":"July 8, 1977, Vṛndāvana",
     "title":"Room Conversation about Māyāpur Attack Talk with Vrindavan De — July 8, 1977, Vṛndāvana",
     "description":""
 }

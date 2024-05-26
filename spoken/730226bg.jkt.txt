@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.12 [Hindi] — February 26, 1973, Jakarta",
     "h1":"Bg 2.12 Lecture [Hindi]",
-    "label":"February 26, 1973, Jakarta"
+    "label":"February 26, 1973, Jakarta",
     "title":"Bg 2.12 Hindi — February 26, 1973, Jakarta",
     "description":""
 }

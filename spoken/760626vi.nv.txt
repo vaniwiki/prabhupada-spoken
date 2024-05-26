@@ -2,7 +2,7 @@
 {
     "name":"Marble Shop Visit — June 26, 1976, New Vrindavan",
     "h1":"Marble Shop Visit",
-    "label":"June 26, 1976, New Vrindavan"
+    "label":"June 26, 1976, New Vrindavan",
     "title":"Marble Shop Visit — June 26, 1976, New Vrindavan",
     "description":""
 }

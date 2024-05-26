@@ -2,7 +2,7 @@
 {
     "name":"Gāyatrī Mantra Initiation — May 9, 1968, Boston",
     "h1":"Gāyatrī Mantra Initiation",
-    "label":"May 9, 1968, Boston"
+    "label":"May 9, 1968, Boston",
     "title":"Gāyatrī Mantra Initiation — May 9, 1968, Boston",
     "description":""
 }

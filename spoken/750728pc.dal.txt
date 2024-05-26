@@ -2,7 +2,7 @@
 {
     "name":"Press Conference at Airport — July 28, 1975, Dallas",
     "h1":"Press Conference at Airport",
-    "label":"July 28, 1975, Dallas"
+    "label":"July 28, 1975, Dallas",
     "title":"Press Conference at Airport — July 28, 1975, Dallas",
     "description":""
 }

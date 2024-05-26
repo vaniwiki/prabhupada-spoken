@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — October 25, 1972, Vṛndāvana",
     "h1":"Room Conversation",
-    "label":"October 25, 1972, Vṛndāvana"
+    "label":"October 25, 1972, Vṛndāvana",
     "title":"Room Conversation — October 25, 1972, Vṛndāvana",
     "description":""
 }

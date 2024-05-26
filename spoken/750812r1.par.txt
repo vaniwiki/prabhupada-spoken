@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation [with French translator] — August 12, 1975, Paris",
     "h1":"Room Conversation [with French translator]",
-    "label":"August 12, 1975, Paris"
+    "label":"August 12, 1975, Paris",
     "title":"Room Conversation [with French translator] — August 12, 1975, Paris",
     "description":""
 }

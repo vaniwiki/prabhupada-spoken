@@ -2,7 +2,7 @@
 {
     "name":"Māyāpur Temple Inauguration Lecture Bengali — March 17, 1973, Māyāpur",
     "h1":"Māyāpur Temple Inauguration Lecture Bengali",
-    "label":"March 17, 1973, Māyāpur"
+    "label":"March 17, 1973, Māyāpur",
     "title":"Māyāpur Temple Inauguration Lecture Bengali — March 17, 1973, Māyāpur",
     "description":""
 }

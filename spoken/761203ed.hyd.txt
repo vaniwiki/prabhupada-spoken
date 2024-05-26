@@ -2,7 +2,7 @@
 {
     "name":"Evening Darśana — December 3, 1976, Hyderabad",
     "h1":"Evening Darśana",
-    "label":"December 3, 1976, Hyderabad"
+    "label":"December 3, 1976, Hyderabad",
     "title":"Evening Darśana — December 3, 1976, Hyderabad",
     "description":""
 }

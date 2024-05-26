@@ -2,7 +2,7 @@
 {
     "name":"Initiation of Jayapatāka Dāsā — July 24, 1968, Montreal",
     "h1":"Initiation of Jayapatāka Dāsā",
-    "label":"July 24, 1968, Montreal"
+    "label":"July 24, 1968, Montreal",
     "title":"Initiation of Jayapatāka Dāsā — July 24, 1968, Montreal",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Bg 10.1 — December 30, 1966, New York",
     "h1":"Bg 10.1 Lecture",
-    "label":"December 30, 1966, New York"
+    "label":"December 30, 1966, New York",
     "title":"Bg 10.1 — December 30, 1966, New York",
     "description":""
 }

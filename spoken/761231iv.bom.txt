@@ -2,7 +2,7 @@
 {
     "name":"Press Interview — December 31, 1976, Bombay",
     "h1":"Press Interview",
-    "label":"December 31, 1976, Bombay"
+    "label":"December 31, 1976, Bombay",
     "title":"Press Interview — December 31, 1976, Bombay",
     "description":""
 }

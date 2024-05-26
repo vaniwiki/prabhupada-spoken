@@ -2,7 +2,7 @@
 {
     "name":"SB 5.5.1 — December 25, 1976, Bombay",
     "h1":"SB 5.5.1",
-    "label":"December 25, 1976, Bombay"
+    "label":"December 25, 1976, Bombay",
     "title":"SB 5.5.1 — December 25, 1976, Bombay",
     "description":""
 }

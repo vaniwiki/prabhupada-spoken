@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Scientists — July 2, 1974, Melbourne",
     "h1":"Room Conversation with Scientists",
-    "label":"July 2, 1974, Melbourne"
+    "label":"July 2, 1974, Melbourne",
     "title":"Room Conversation with Scientists — July 2, 1974, Melbourne",
     "description":""
 }

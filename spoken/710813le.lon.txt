@@ -2,7 +2,7 @@
 {
     "name":"Lecture [partially recorded] — August 13, 1971, London",
     "h1":"Lecture [partially recorded]",
-    "label":"August 13, 1971, London"
+    "label":"August 13, 1971, London",
     "title":"Lecture [partially recorded] — August 13, 1971, London",
     "description":""
 }

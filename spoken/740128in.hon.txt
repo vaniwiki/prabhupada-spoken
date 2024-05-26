@@ -2,7 +2,7 @@
 {
     "name":"Initiation Lecture — January 28, 1974, Honolulu",
     "h1":"Initiation Lecture",
-    "label":"January 28, 1974, Honolulu"
+    "label":"January 28, 1974, Honolulu",
     "title":"Initiation Lecture — January 28, 1974, Honolulu",
     "description":""
 }

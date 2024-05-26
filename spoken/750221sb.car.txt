@@ -2,7 +2,7 @@
 {
     "name":"SB 1.1.1 — February 21, 1975, Caracas",
     "h1":"SB 1.1.1",
-    "label":"February 21, 1975, Caracas"
+    "label":"February 21, 1975, Caracas",
     "title":"SB 1.1.1 — February 21, 1975, Caracas",
     "description":""
 }

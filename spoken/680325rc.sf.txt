@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — March 25, 1968, San Francisco",
     "h1":"Room Conversation",
-    "label":"March 25, 1968, San Francisco"
+    "label":"March 25, 1968, San Francisco",
     "title":"Room Conversation — March 25, 1968, San Francisco",
     "description":""
 }

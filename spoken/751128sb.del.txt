@@ -2,7 +2,7 @@
 {
     "name":"SB 5.5.1 — November 28, 1975, Delhi",
     "h1":"SB 5.5.1",
-    "label":"November 28, 1975, Delhi"
+    "label":"November 28, 1975, Delhi",
     "title":"SB 5.5.1 — November 28, 1975, Delhi",
     "description":""
 }

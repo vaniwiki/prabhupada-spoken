@@ -2,7 +2,7 @@
 {
     "name":"Bg 3.27 at Town Hall — June 27, 1974, Melbourne",
     "h1":"Bg 3.27 at Town Hall",
-    "label":"June 27, 1974, Melbourne"
+    "label":"June 27, 1974, Melbourne",
     "title":"Bg 3.27 at Town Hall — June 27, 1974, Melbourne",
     "description":""
 }

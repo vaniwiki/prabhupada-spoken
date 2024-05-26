@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.1-2.12 Reading — June 15, 1976, Detroit",
     "h1":"Bg 2.1-2.12 Reading",
-    "label":"June 15, 1976, Detroit"
+    "label":"June 15, 1976, Detroit",
     "title":"Bg 2.1-2.12 Reading — June 15, 1976, Detroit",
     "description":""
 }

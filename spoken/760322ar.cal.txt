@@ -2,7 +2,7 @@
 {
     "name":"Arrival Talk — March 22, 1976, Calcutta",
     "h1":"Arrival Talk",
-    "label":"March 22, 1976, Calcutta"
+    "label":"March 22, 1976, Calcutta",
     "title":"Arrival Talk — March 22, 1976, Calcutta",
     "description":""
 }

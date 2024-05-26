@@ -2,7 +2,7 @@
 {
     "name":"SB 1.16.24 — January 20, 1974, Honolulu",
     "h1":"SB 1.16.24",
-    "label":"January 20, 1974, Honolulu"
+    "label":"January 20, 1974, Honolulu",
     "title":"SB 1.16.24 — January 20, 1974, Honolulu",
     "description":""
 }

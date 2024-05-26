@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — May 19, 1975, Melbourne",
     "h1":"Morning Walk",
-    "label":"May 19, 1975, Melbourne"
+    "label":"May 19, 1975, Melbourne",
     "title":"Morning Walk — May 19, 1975, Melbourne",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Prabhupāda Comments on Prahlāda Mahārāja Slides — August 25, 1968, Montreal",
     "h1":"Prabhupāda Comments on Prahlāda Mahārāja Slides",
-    "label":"August 25, 1968, Montreal"
+    "label":"August 25, 1968, Montreal",
     "title":"Prabhupāda Comments on Prahlāda Mahārāja Slides — August 25, 1968, Montreal",
     "description":""
 }

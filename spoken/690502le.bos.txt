@@ -2,7 +2,7 @@
 {
     "name":"Lecture to International Student Society — May 2, 1969, Boston",
     "h1":"Lecture to International Student Society",
-    "label":"May 2, 1969, Boston"
+    "label":"May 2, 1969, Boston",
     "title":"Lecture to International Student Society — May 2, 1969, Boston",
     "description":""
 }

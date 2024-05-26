@@ -2,7 +2,7 @@
 {
     "name":"Purport to Jaya Rādhā-Mādhava — July 20, 1971, New York",
     "h1":"Purport to Jaya Rādhā-Mādhava",
-    "label":"July 20, 1971, New York"
+    "label":"July 20, 1971, New York",
     "title":"Purport to Jaya Rādhā-Mādhava — July 20, 1971, New York",
     "description":""
 }

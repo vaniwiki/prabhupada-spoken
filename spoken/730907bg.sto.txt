@@ -2,7 +2,7 @@
 {
     "name":"Bg 18.41 — September 7, 1973, Stockholm",
     "h1":"Bg 18.41 Lecture",
-    "label":"September 7, 1973, Stockholm"
+    "label":"September 7, 1973, Stockholm",
     "title":"Bg 18.41 — September 7, 1973, Stockholm",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Philosophy Discussion with Hayagriva — May 31, 1976, Honolulu",
     "h1":"Philosophy Discussion with Hayagriva",
-    "label":"May 31, 1976, Honolulu"
+    "label":"May 31, 1976, Honolulu",
     "title":"Philosophy Discussion with Hayagriva — May 31, 1976, Honolulu",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.4-5 — August 5, 1973, London",
     "h1":"Bg 2.4-5 Lecture",
-    "label":"August 5, 1973, London"
+    "label":"August 5, 1973, London",
     "title":"Bg 2.4-5 — August 5, 1973, London",
     "description":""
 }

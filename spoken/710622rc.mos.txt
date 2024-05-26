@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Prof. Kotovsky — June 22, 1971, Moscow",
     "h1":"Conversation with Prof. Kotovsky",
-    "label":"June 22, 1971, Moscow"
+    "label":"June 22, 1971, Moscow",
     "title":"Conversation with Prof. Kotovsky — June 22, 1971, Moscow",
     "description":""
 }

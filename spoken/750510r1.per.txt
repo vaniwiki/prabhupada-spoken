@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Carol Cameron — May 10, 1975, Perth",
     "h1":"Room Conversation with Carol Cameron",
-    "label":"May 10, 1975, Perth"
+    "label":"May 10, 1975, Perth",
     "title":"Room Conversation with Carol Cameron — May 10, 1975, Perth",
     "description":""
 }

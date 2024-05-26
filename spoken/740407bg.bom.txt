@@ -2,7 +2,7 @@
 {
     "name":"Bg 4.18 — April 7, 1974, Bombay",
     "h1":"Bg 4.18 Lecture",
-    "label":"April 7, 1974, Bombay"
+    "label":"April 7, 1974, Bombay",
     "title":"Bg 4.18 — April 7, 1974, Bombay",
     "description":""
 }

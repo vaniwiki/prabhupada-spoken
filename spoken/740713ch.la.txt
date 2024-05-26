@@ -2,7 +2,7 @@
 {
     "name":"Chanting Cc. Ādi-līlā 13th Chapter Verses 1-124 — July 13, 1974, Los Angeles",
     "h1":"Chanting Cc. Ādi-līlā 13th Chapter Verses 1-124",
-    "label":"July 13, 1974, Los Angeles"
+    "label":"July 13, 1974, Los Angeles",
     "title":"Chanting Cc. Ādi-līlā 13th Chapter Verses 1-124 — July 13, 1974, Los Angeles",
     "description":""
 }

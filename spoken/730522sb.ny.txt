@@ -2,7 +2,7 @@
 {
     "name":"SB 1.9.40 — May 22, 1973, New York",
     "h1":"SB 1.9.40",
-    "label":"May 22, 1973, New York"
+    "label":"May 22, 1973, New York",
     "title":"SB 1.9.40 — May 22, 1973, New York",
     "description":""
 }

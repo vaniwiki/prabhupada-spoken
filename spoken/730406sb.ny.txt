@@ -2,7 +2,7 @@
 {
     "name":"SB 2.1.1-2 — April 6, 1973, New York",
     "h1":"SB 2.1.1-2",
-    "label":"April 6, 1973, New York"
+    "label":"April 6, 1973, New York",
     "title":"SB 2.1.1-2 — April 6, 1973, New York",
     "description":""
 }

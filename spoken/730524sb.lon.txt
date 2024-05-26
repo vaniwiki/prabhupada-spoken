@@ -2,7 +2,7 @@
 {
     "name":"SB 1.10.20 — May 24, 1973, London",
     "h1":"SB 1.10.20",
-    "label":"May 24, 1973, London"
+    "label":"May 24, 1973, London",
     "title":"SB 1.10.20 — May 24, 1973, London",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Lecture [partially recorded] — November 10, 1970, Bombay",
     "h1":"Lecture [partially recorded]",
-    "label":"November 10, 1970, Bombay"
+    "label":"November 10, 1970, Bombay",
     "title":"Lecture [partially recorded] — November 10, 1970, Bombay",
     "description":""
 }

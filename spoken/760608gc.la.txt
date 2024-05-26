@@ -2,7 +2,7 @@
 {
     "name":"Garden Conversation — June 8, 1976, Los Angeles",
     "h1":"Garden Conversation",
-    "label":"June 8, 1976, Los Angeles"
+    "label":"June 8, 1976, Los Angeles",
     "title":"Garden Conversation — June 8, 1976, Los Angeles",
     "description":""
 }

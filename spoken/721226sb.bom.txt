@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.8 — December 26, 1972, Bombay",
     "h1":"SB 1.2.8",
-    "label":"December 26, 1972, Bombay"
+    "label":"December 26, 1972, Bombay",
     "title":"SB 1.2.8 — December 26, 1972, Bombay",
     "description":""
 }

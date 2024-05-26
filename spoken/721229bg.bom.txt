@@ -2,7 +2,7 @@
 {
     "name":"Bg 13.1-2 — December 29, 1972, Bombay",
     "h1":"Bg 13.1-2 Lecture",
-    "label":"December 29, 1972, Bombay"
+    "label":"December 29, 1972, Bombay",
     "title":"Bg 13.1-2 — December 29, 1972, Bombay",
     "description":""
 }

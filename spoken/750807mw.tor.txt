@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — August 7, 1975, Toronto",
     "h1":"Morning Walk",
-    "label":"August 7, 1975, Toronto"
+    "label":"August 7, 1975, Toronto",
     "title":"Morning Walk — August 7, 1975, Toronto",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Chanting Cc Ādi-līlā 10th and 11th Chapter — December 17, 1973, Los Angeles",
     "h1":"Chanting Cc Ādi-līlā 10th and 11th Chapter",
-    "label":"December 17, 1973, Los Angeles"
+    "label":"December 17, 1973, Los Angeles",
     "title":"Chanting Cc Ādi-līlā 10th and 11th Chapter — December 17, 1973, Los Angeles",
     "description":""
 }

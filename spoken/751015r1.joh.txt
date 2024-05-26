@@ -2,7 +2,7 @@
 {
     "name":"Conversation — October 15, 1975, Johannesburg",
     "h1":"Conversation",
-    "label":"October 15, 1975, Johannesburg"
+    "label":"October 15, 1975, Johannesburg",
     "title":"Conversation — October 15, 1975, Johannesburg",
     "description":""
 }

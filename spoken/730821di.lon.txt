@@ -2,7 +2,7 @@
 {
     "name":"Śrī Śrī Rādhā Gokulānanda Deity Installation, Brahmā-saṁhitā 5.43 — August 21, 1973, London",
     "h1":"Śrī Śrī Rādhā Gokulānanda Deity Installation, Brahmā-saṁhitā 5.43",
-    "label":"August 21, 1973, London"
+    "label":"August 21, 1973, London",
     "title":"Śrī Śrī Rādhā Gokulānanda Deity Installation, Brahmā-saṁhitā 5.43 — August 21, 1973, London",
     "description":""
 }

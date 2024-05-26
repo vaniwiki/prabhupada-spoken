@@ -2,7 +2,7 @@
 {
     "name":"Initiations — July 22, 1971, New York",
     "h1":"Initiations",
-    "label":"July 22, 1971, New York"
+    "label":"July 22, 1971, New York",
     "title":"Initiations — July 22, 1971, New York",
     "description":""
 }

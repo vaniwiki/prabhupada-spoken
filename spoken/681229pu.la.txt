@@ -2,7 +2,7 @@
 {
     "name":"Purport to Gaurāṅga Bolite Habe — December 29, 1968, Los Angeles",
     "h1":"Purport to Gaurāṅga Bolite Habe",
-    "label":"December 29, 1968, Los Angeles"
+    "label":"December 29, 1968, Los Angeles",
     "title":"Purport to Gaurāṅga Bolite Habe — December 29, 1968, Los Angeles",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 7.6.1 — April 9, 1969, New York",
     "h1":"SB 7.6.1",
-    "label":"April 9, 1969, New York"
+    "label":"April 9, 1969, New York",
     "title":"SB 7.6.1 — April 9, 1969, New York",
     "description":""
 }

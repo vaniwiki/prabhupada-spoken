@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Cardinal Danielou — August 9, 1973, Paris",
     "h1":"Room Conversation with Cardinal Danielou",
-    "label":"August 9, 1973, Paris"
+    "label":"August 9, 1973, Paris",
     "title":"Room Conversation with Cardinal Danielou — August 9, 1973, Paris",
     "description":""
 }

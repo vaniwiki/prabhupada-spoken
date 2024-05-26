@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.47 — July 29, 1975, Dallas",
     "h1":"SB 6.1.47",
-    "label":"July 29, 1975, Dallas"
+    "label":"July 29, 1975, Dallas",
     "title":"SB 6.1.47 — July 29, 1975, Dallas",
     "description":""
 }

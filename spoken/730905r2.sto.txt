@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Sanskrit Professor Dr. Suneson, Chanting of Ādi-līlā 7.2-59 — September 5, 1973, Stockholm",
     "h1":"Room Conversation with Sanskrit Professor Dr. Suneson, Chanting of Ādi-līlā 7.2-59",
-    "label":"September 5, 1973, Stockholm"
+    "label":"September 5, 1973, Stockholm",
     "title":"Room Conversation with Sanskrit Professor Dr. Suneson, Chanting of Ādi-līlā 7.2-59 — September 5, 1973, Stockholm",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — October 28, 1975, Nairobi",
     "h1":"Morning Walk",
-    "label":"October 28, 1975, Nairobi"
+    "label":"October 28, 1975, Nairobi",
     "title":"Morning Walk — October 28, 1975, Nairobi",
     "description":""
 }

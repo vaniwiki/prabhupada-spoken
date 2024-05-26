@@ -2,7 +2,7 @@
 {
     "name":"Conversation with the GBC — May 25, 1972, Los Angeles",
     "h1":"Conversation with the GBC",
-    "label":"May 25, 1972, Los Angeles"
+    "label":"May 25, 1972, Los Angeles",
     "title":"Conversation with the GBC — May 25, 1972, Los Angeles",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.1 — January 25, 1975, Hong Kong",
     "h1":"Bg 7.1 Lecture",
-    "label":"January 25, 1975, Hong Kong"
+    "label":"January 25, 1975, Hong Kong",
     "title":"Bg 7.1 — January 25, 1975, Hong Kong",
     "description":""
 }

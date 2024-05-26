@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.1 — February 14, 1972, Madras",
     "h1":"Bg 7.1 Lecture",
-    "label":"February 14, 1972, Madras"
+    "label":"February 14, 1972, Madras",
     "title":"Bg 7.1 — February 14, 1972, Madras",
     "description":""
 }

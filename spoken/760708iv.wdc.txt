@@ -2,7 +2,7 @@
 {
     "name":"Interview and Conversation — July 8, 1976, Washington, D.C.",
     "h1":"Interview and Conversation",
-    "label":"July 8, 1976, Washington, D.C."
+    "label":"July 8, 1976, Washington, D.C.",
     "title":"Interview and Conversation — July 8, 1976, Washington, D.C.",
     "description":""
 }

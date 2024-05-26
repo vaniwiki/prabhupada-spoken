@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk At Cheviot Hills Golf Course — May 17, 1973, Los Angeles",
     "h1":"Morning Walk At Cheviot Hills Golf Course",
-    "label":"May 17, 1973, Los Angeles"
+    "label":"May 17, 1973, Los Angeles",
     "title":"Morning Walk At Cheviot Hills Golf Course — May 17, 1973, Los Angeles",
     "description":""
 }

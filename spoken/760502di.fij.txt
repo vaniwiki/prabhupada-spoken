@@ -2,7 +2,7 @@
 {
     "name":"Śrī Śrī Kāliya Kṛṣṇa Deity Installation — May 2, 1976, Lautoka, Fiji",
     "h1":"Śrī Śrī Kāliya Kṛṣṇa Deity Installation",
-    "label":"May 2, 1976, Lautoka, Fiji"
+    "label":"May 2, 1976, Lautoka, Fiji",
     "title":"Śrī Śrī Kāliya Kṛṣṇa Deity Installation — May 2, 1976, Lautoka, Fiji",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Talk with Bob Cohen — February 29, 1972, Māyāpur",
     "h1":"Talk with Bob Cohen",
-    "label":"February 29, 1972, Māyāpur"
+    "label":"February 29, 1972, Māyāpur",
     "title":"Talk with Bob Cohen — February 29, 1972, Māyāpur",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Janmāṣṭamī — August 16, 1968, Montreal",
     "h1":"Janmāṣṭamī",
-    "label":"August 16, 1968, Montreal"
+    "label":"August 16, 1968, Montreal",
     "title":"Janmāṣṭamī — August 16, 1968, Montreal",
     "description":""
 }

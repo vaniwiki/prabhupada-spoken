@@ -2,7 +2,7 @@
 {
     "name":"Conversation — June 28, 1977, Vṛndāvana",
     "h1":"Conversation",
-    "label":"June 28, 1977, Vṛndāvana"
+    "label":"June 28, 1977, Vṛndāvana",
     "title":"Conversation — June 28, 1977, Vṛndāvana",
     "description":""
 }

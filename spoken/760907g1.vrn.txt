@@ -2,7 +2,7 @@
 {
     "name":"Garden Conversation — September 7, 1976, Vṛndāvana",
     "h1":"Garden Conversation",
-    "label":"September 7, 1976, Vṛndāvana"
+    "label":"September 7, 1976, Vṛndāvana",
     "title":"Garden Conversation — September 7, 1976, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Italian Woman with Translator — February 28, 1977, Māyāpur",
     "h1":"Conversation with Italian Woman with Translator",
-    "label":"February 28, 1977, Māyāpur"
+    "label":"February 28, 1977, Māyāpur",
     "title":"Conversation with Italian Woman with Translator — February 28, 1977, Māyāpur",
     "description":""
 }

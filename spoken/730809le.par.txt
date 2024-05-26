@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Hotel de Ville — August 9, 1973, Paris",
     "h1":"Lecture at Hotel de Ville",
-    "label":"August 9, 1973, Paris"
+    "label":"August 9, 1973, Paris",
     "title":"Lecture at Hotel de Ville — August 9, 1973, Paris",
     "description":""
 }

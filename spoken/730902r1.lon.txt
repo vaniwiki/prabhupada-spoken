@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Indian Guests — September 2, 1973, London",
     "h1":"Room Conversation with Indian Guests",
-    "label":"September 2, 1973, London"
+    "label":"September 2, 1973, London",
     "title":"Room Conversation with Indian Guests — September 2, 1973, London",
     "description":""
 }

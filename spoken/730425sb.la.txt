@@ -2,7 +2,7 @@
 {
     "name":"SB 1.8.33 — April 25, 1973, Los Angeles",
     "h1":"SB 1.8.33",
-    "label":"April 25, 1973, Los Angeles"
+    "label":"April 25, 1973, Los Angeles",
     "title":"SB 1.8.33 — April 25, 1973, Los Angeles",
     "description":""
 }

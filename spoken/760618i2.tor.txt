@@ -2,7 +2,7 @@
 {
     "name":"Interview with Professors — June 18, 1976, Toronto",
     "h1":"Interview with Professors",
-    "label":"June 18, 1976, Toronto"
+    "label":"June 18, 1976, Toronto",
     "title":"Interview with Professors — June 18, 1976, Toronto",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — June 22, 1974, Germany",
     "h1":"Morning Walk",
-    "label":"June 22, 1974, Germany"
+    "label":"June 22, 1974, Germany",
     "title":"Morning Walk — June 22, 1974, Germany",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — July 1, 1972, San Diego",
     "h1":"Room Conversation",
-    "label":"July 1, 1972, San Diego"
+    "label":"July 1, 1972, San Diego",
     "title":"Room Conversation — July 1, 1972, San Diego",
     "description":""
 }

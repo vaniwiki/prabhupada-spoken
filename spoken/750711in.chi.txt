@@ -2,7 +2,7 @@
 {
     "name":"Bābājī Initiation — July 11, 1975, Chicago",
     "h1":"Bābājī Initiation",
-    "label":"July 11, 1975, Chicago"
+    "label":"July 11, 1975, Chicago",
     "title":"Bābājī Initiation — July 11, 1975, Chicago",
     "description":""
 }

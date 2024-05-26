@@ -2,7 +2,7 @@
 {
     "name":"Lecture after Prahlāda-caritra Play — May 25, 1975, Honolulu",
     "h1":"Lecture after Prahlāda-caritra Play",
-    "label":"May 25, 1975, Honolulu"
+    "label":"May 25, 1975, Honolulu",
     "title":"Lecture after Prahlāda-caritra Play — May 25, 1975, Honolulu",
     "description":""
 }

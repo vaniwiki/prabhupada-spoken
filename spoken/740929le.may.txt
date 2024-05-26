@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Bengali] — September 29, 1974, Māyāpur",
     "h1":"Lecture [Bengali]",
-    "label":"September 29, 1974, Māyāpur"
+    "label":"September 29, 1974, Māyāpur",
     "title":"Lecture [Bengali] — September 29, 1974, Māyāpur",
     "description":""
 }

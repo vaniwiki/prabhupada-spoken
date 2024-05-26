@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Sir Alistair Hardy — July 21, 1973, London",
     "h1":"Room Conversation with Sir Alistair Hardy",
-    "label":"July 21, 1973, London"
+    "label":"July 21, 1973, London",
     "title":"Room Conversation with Sir Alistair Hardy — July 21, 1973, London",
     "description":""
 }

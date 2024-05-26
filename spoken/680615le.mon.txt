@@ -2,7 +2,7 @@
 {
     "name":"Lecture Engagement — June 15, 1968, Montreal",
     "h1":"Lecture Engagement",
-    "label":"June 15, 1968, Montreal"
+    "label":"June 15, 1968, Montreal",
     "title":"Lecture Engagement — June 15, 1968, Montreal",
     "description":""
 }

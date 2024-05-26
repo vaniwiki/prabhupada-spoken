@@ -2,7 +2,7 @@
 {
     "name":"Bg 4.10, Public Lecture — May 25, 1974, Rome",
     "h1":"Bg 4.10, Public Lecture",
-    "label":"May 25, 1974, Rome"
+    "label":"May 25, 1974, Rome",
     "title":"Bg 4.10, Public Lecture — May 25, 1974, Rome",
     "description":""
 }

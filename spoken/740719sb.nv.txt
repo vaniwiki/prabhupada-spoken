@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.18 — July 19, 1974, New Vrindavan",
     "h1":"SB 1.2.18",
-    "label":"July 19, 1974, New Vrindavan"
+    "label":"July 19, 1974, New Vrindavan",
     "title":"SB 1.2.18 — July 19, 1974, New Vrindavan",
     "description":""
 }

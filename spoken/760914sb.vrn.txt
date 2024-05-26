@@ -2,7 +2,7 @@
 {
     "name":"SB 1.7.16 — September 14, 1976, Vṛndāvana",
     "h1":"SB 1.7.16",
-    "label":"September 14, 1976, Vṛndāvana"
+    "label":"September 14, 1976, Vṛndāvana",
     "title":"SB 1.7.16 — September 14, 1976, Vṛndāvana",
     "description":""
 }

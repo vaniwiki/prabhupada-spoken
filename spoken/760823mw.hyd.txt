@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk in Public Gardens — August 23, 1976, Hyderabad",
     "h1":"Morning Walk in Public Gardens",
-    "label":"August 23, 1976, Hyderabad"
+    "label":"August 23, 1976, Hyderabad",
     "title":"Morning Walk in Public Gardens — August 23, 1976, Hyderabad",
     "description":""
 }

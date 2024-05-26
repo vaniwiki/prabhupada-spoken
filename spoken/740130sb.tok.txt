@@ -2,7 +2,7 @@
 {
     "name":"SB 1.16.36 — January 30, 1974, Tokyo",
     "h1":"SB 1.16.36",
-    "label":"January 30, 1974, Tokyo"
+    "label":"January 30, 1974, Tokyo",
     "title":"SB 1.16.36 — January 30, 1974, Tokyo",
     "description":""
 }

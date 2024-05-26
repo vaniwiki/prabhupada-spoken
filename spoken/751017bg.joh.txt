@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.1-11 — October 17, 1975, Johannesburg",
     "h1":"Bg 2.1-11 Lecture",
-    "label":"October 17, 1975, Johannesburg"
+    "label":"October 17, 1975, Johannesburg",
     "title":"Bg 2.1-11 — October 17, 1975, Johannesburg",
     "description":""
 }

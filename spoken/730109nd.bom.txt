@@ -2,7 +2,7 @@
 {
     "name":"The Nectar of Devotion — January 9, 1973, Bombay",
     "h1":"The Nectar of Devotion",
-    "label":"January 9, 1973, Bombay"
+    "label":"January 9, 1973, Bombay",
     "title":"The Nectar of Devotion — January 9, 1973, Bombay",
     "description":""
 }

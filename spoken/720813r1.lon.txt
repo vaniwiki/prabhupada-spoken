@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Sister Mary — August 13, 1972, London",
     "h1":"Room Conversation with Sister Mary",
-    "label":"August 13, 1972, London"
+    "label":"August 13, 1972, London",
     "title":"Room Conversation with Sister Mary — August 13, 1972, London",
     "description":""
 }

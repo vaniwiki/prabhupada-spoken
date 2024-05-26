@@ -2,7 +2,7 @@
 {
     "name":"SB Dictation — October 25, 1977, Vṛndāvana",
     "h1":"SB Dictation",
-    "label":"October 25, 1977, Vṛndāvana"
+    "label":"October 25, 1977, Vṛndāvana",
     "title":"SB Dictation — October 25, 1977, Vṛndāvana",
     "description":""
 }

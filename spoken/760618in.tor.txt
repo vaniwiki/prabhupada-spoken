@@ -2,7 +2,7 @@
 {
     "name":"Initiation Lecture — June 18, 1976, Toronto",
     "h1":"Initiation Lecture",
-    "label":"June 18, 1976, Toronto"
+    "label":"June 18, 1976, Toronto",
     "title":"Initiation Lecture — June 18, 1976, Toronto",
     "description":""
 }

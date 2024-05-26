@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation, Bhagavad-gītā 16.7-23 — July 2, 1974, Melbourne",
     "h1":"Room Conversation, Bhagavad-gītā 16.7-23",
-    "label":"July 2, 1974, Melbourne"
+    "label":"July 2, 1974, Melbourne",
     "title":"Room Conversation, Bhagavad-gītā 16.7-23 — July 2, 1974, Melbourne",
     "description":""
 }

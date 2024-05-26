@@ -2,7 +2,7 @@
 {
     "name":"Conversation on Roof — December 26, 1975, Sanand",
     "h1":"Conversation on Roof",
-    "label":"December 26, 1975, Sanand"
+    "label":"December 26, 1975, Sanand",
     "title":"Conversation on Roof — December 26, 1975, Sanand",
     "description":""
 }

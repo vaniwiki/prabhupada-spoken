@@ -2,7 +2,7 @@
 {
     "name":"Conversation: “How to Secure Brahmacārīs” — June 24, 1977, Vṛndāvana",
     "h1":"Conversation: “How to Secure Brahmacārīs”",
-    "label":"June 24, 1977, Vṛndāvana"
+    "label":"June 24, 1977, Vṛndāvana",
     "title":"Conversation: “How to Secure Brahmacārīs” — June 24, 1977, Vṛndāvana",
     "description":""
 }

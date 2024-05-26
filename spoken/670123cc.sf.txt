@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 25.36-40 — January 23, 1967, San Francisco",
     "h1":"Cc. Madhya 25.36-40",
-    "label":"January 23, 1967, San Francisco"
+    "label":"January 23, 1967, San Francisco",
     "title":"Cc. Madhya 25.36-40 — January 23, 1967, San Francisco",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Psychiatrists — February 22, 1975, Caracas",
     "h1":"Room Conversation with Psychiatrists",
-    "label":"February 22, 1975, Caracas"
+    "label":"February 22, 1975, Caracas",
     "title":"Room Conversation with Psychiatrists — February 22, 1975, Caracas",
     "description":""
 }

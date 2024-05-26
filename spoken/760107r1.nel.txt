@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — January 7, 1976, Nellore",
     "h1":"Room Conversation",
-    "label":"January 7, 1976, Nellore"
+    "label":"January 7, 1976, Nellore",
     "title":"Room Conversation — January 7, 1976, Nellore",
     "description":""
 }

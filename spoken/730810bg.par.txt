@@ -2,7 +2,7 @@
 {
     "name":"Bg 13.1-2 — August 10, 1973, Paris",
     "h1":"Bg 13.1-2 Lecture",
-    "label":"August 10, 1973, Paris"
+    "label":"August 10, 1973, Paris",
     "title":"Bg 13.1-2 — August 10, 1973, Paris",
     "description":""
 }

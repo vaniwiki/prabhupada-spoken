@@ -2,7 +2,7 @@
 {
     "name":"Bg 6.47 — December 12, 1972, Ahmedabad",
     "h1":"Bg 6.47 Lecture",
-    "label":"December 12, 1972, Ahmedabad"
+    "label":"December 12, 1972, Ahmedabad",
     "title":"Bg 6.47 — December 12, 1972, Ahmedabad",
     "description":""
 }

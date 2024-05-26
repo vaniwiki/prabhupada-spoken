@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Sannyāsīs — March 15, 1974, Vṛndāvana",
     "h1":"Room Conversation with Sannyāsīs",
-    "label":"March 15, 1974, Vṛndāvana"
+    "label":"March 15, 1974, Vṛndāvana",
     "title":"Room Conversation with Sannyāsīs — March 15, 1974, Vṛndāvana",
     "description":""
 }

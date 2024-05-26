@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Two Indian Guests — January 27, 1977, Jagannātha Purī",
     "h1":"Room Conversation with Two Indian Guests",
-    "label":"January 27, 1977, Jagannātha Purī"
+    "label":"January 27, 1977, Jagannātha Purī",
     "title":"Room Conversation with Two Indian Guests — January 27, 1977, Jagannātha Purī",
     "description":""
 }

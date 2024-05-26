@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Professor Olivier — October 10, 1975, Durban",
     "h1":"Room Conversation with Professor Olivier",
-    "label":"October 10, 1975, Durban"
+    "label":"October 10, 1975, Durban",
     "title":"Room Conversation with Professor Olivier — October 10, 1975, Durban",
     "description":""
 }

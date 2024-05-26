@@ -1,7 +1,12 @@
-~~Title: Sannyāsa Initiation of Tamal Kṛṣṇa — January 18, 1972, Jaipur~~
-~~bc: January 18, 1972, Jaipur~~
-
-{{tag>beta}}
+---json
+{
+    "name":"Sannyāsa Initiation — January 18, 1972, Jaipur",
+    "h1":"Sannyāsa Initiation of Tamal Kṛṣṇa",
+    "label":"January 18, 1972, Jaipur",
+    "title":"Sannyāsa Initiation of Tamal Kṛṣṇa — January 18, 1972, Jaipur",
+    "description":""
+}
+---
 
 ====== Sannyāsa Initiation of Tamal Kṛṣṇa ======
 

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Tripurāri — March 2, 1975, Atlanta",
     "h1":"Room Conversation with Tripurāri",
-    "label":"March 2, 1975, Atlanta"
+    "label":"March 2, 1975, Atlanta",
     "title":"Room Conversation with Tripurāri — March 2, 1975, Atlanta",
     "description":""
 }

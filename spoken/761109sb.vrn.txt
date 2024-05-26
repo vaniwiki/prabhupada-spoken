@@ -2,7 +2,7 @@
 {
     "name":"SB 5.5.21-22 — November 9, 1976, Vṛndāvana",
     "h1":"SB 5.5.21-22",
-    "label":"November 9, 1976, Vṛndāvana"
+    "label":"November 9, 1976, Vṛndāvana",
     "title":"SB 5.5.21-22 — November 9, 1976, Vṛndāvana",
     "description":""
 }

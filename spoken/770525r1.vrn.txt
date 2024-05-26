@@ -2,7 +2,7 @@
 {
     "name":"Short Discussions — May 25, 1977, Vṛndāvana",
     "h1":"Short Discussions",
-    "label":"May 25, 1977, Vṛndāvana"
+    "label":"May 25, 1977, Vṛndāvana",
     "title":"Short Discussions — May 25, 1977, Vṛndāvana",
     "description":""
 }

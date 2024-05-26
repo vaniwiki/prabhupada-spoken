@@ -2,7 +2,7 @@
 {
     "name":"Arrival Address — February 28, 1975, Atlanta",
     "h1":"Arrival Address",
-    "label":"February 28, 1975, Atlanta"
+    "label":"February 28, 1975, Atlanta",
     "title":"Arrival Address — February 28, 1975, Atlanta",
     "description":""
 }

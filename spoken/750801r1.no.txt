@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Devotees — August 1, 1975, New Orleans",
     "h1":"Room Conversation with Devotees",
-    "label":"August 1, 1975, New Orleans"
+    "label":"August 1, 1975, New Orleans",
     "title":"Room Conversation with Devotees — August 1, 1975, New Orleans",
     "description":""
 }

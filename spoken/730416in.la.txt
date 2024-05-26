@@ -2,7 +2,7 @@
 {
     "name":"Initiations — April 16, 1973, Los Angeles",
     "h1":"Initiations",
-    "label":"April 16, 1973, Los Angeles"
+    "label":"April 16, 1973, Los Angeles",
     "title":"Initiations — April 16, 1973, Los Angeles",
     "description":""
 }

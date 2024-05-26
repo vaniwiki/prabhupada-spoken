@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk Around Grounds — August 2, 1976, New Māyāpur",
     "h1":"Morning Walk Around Grounds",
-    "label":"August 2, 1976, New Māyāpur"
+    "label":"August 2, 1976, New Māyāpur",
     "title":"Morning Walk Around Grounds — August 2, 1976, New Māyāpur",
     "description":""
 }

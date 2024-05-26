@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.1 — March 12, 1970, Los Angeles",
     "h1":"Bg 7.1 Lecture",
-    "label":"March 12, 1970, Los Angeles"
+    "label":"March 12, 1970, Los Angeles",
     "title":"Bg 7.1 — March 12, 1970, Los Angeles",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Interview — September 24, 1968, Seattle",
     "h1":"Interview",
-    "label":"September 24, 1968, Seattle"
+    "label":"September 24, 1968, Seattle",
     "title":"Interview — September 24, 1968, Seattle",
     "description":""
 }

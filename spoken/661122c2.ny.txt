@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 20.100-108 — November 22, 1966, New York",
     "h1":"Cc. Madhya 20.100-108",
-    "label":"November 22, 1966, New York"
+    "label":"November 22, 1966, New York",
     "title":"Cc. Madhya 20.100-108 — November 22, 1966, New York",
     "description":""
 }

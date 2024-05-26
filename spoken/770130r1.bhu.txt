@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Svarūpa Dāmodara — January 30, 1977, Bhubaneswar",
     "h1":"Room Conversation with Svarūpa Dāmodara",
-    "label":"January 30, 1977, Bhubaneswar"
+    "label":"January 30, 1977, Bhubaneswar",
     "title":"Room Conversation with Svarūpa Dāmodara — January 30, 1977, Bhubaneswar",
     "description":""
 }

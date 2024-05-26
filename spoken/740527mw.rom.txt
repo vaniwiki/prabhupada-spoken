@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — May 27, 1974, Rome",
     "h1":"Morning Walk",
-    "label":"May 27, 1974, Rome"
+    "label":"May 27, 1974, Rome",
     "title":"Morning Walk — May 27, 1974, Rome",
     "description":""
 }

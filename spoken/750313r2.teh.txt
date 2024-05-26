@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Indian Guests — March 13, 1975, Tehran",
     "h1":"Room Conversation with Indian Guests",
-    "label":"March 13, 1975, Tehran"
+    "label":"March 13, 1975, Tehran",
     "title":"Room Conversation with Indian Guests — March 13, 1975, Tehran",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation With Three College Students — July 15, 1973, London",
     "h1":"Room Conversation With Three College Students",
-    "label":"July 15, 1973, London"
+    "label":"July 15, 1973, London",
     "title":"Room Conversation With Three College Students — July 15, 1973, London",
     "description":""
 }

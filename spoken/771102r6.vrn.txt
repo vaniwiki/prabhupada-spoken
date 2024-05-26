@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation [partially recorded] — November 2, 1977, Vṛndāvana",
     "h1":"Room Conversation [partially recorded]",
-    "label":"November 2, 1977, Vṛndāvana"
+    "label":"November 2, 1977, Vṛndāvana",
     "title":"Room Conversation [partially recorded] — November 2, 1977, Vṛndāvana",
     "description":""
 }

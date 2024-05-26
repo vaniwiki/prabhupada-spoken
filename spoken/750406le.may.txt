@@ -2,7 +2,7 @@
 {
     "name":"Lecture After Play — April 6, 1975, Māyāpur",
     "h1":"Lecture After Play",
-    "label":"April 6, 1975, Māyāpur"
+    "label":"April 6, 1975, Māyāpur",
     "title":"Lecture After Play — April 6, 1975, Māyāpur",
     "description":""
 }

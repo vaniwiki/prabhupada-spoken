@@ -2,7 +2,7 @@
 {
     "name":"Arrival Speech — May 17, 1977, Vṛndāvana",
     "h1":"Arrival Speech",
-    "label":"May 17, 1977, Vṛndāvana"
+    "label":"May 17, 1977, Vṛndāvana",
     "title":"Arrival Speech — May 17, 1977, Vṛndāvana",
     "description":""
 }

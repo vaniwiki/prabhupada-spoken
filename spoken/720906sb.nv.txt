@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.8 — September 6, 1972, New Vrindavan",
     "h1":"SB 1.2.8",
-    "label":"September 6, 1972, New Vrindavan"
+    "label":"September 6, 1972, New Vrindavan",
     "title":"SB 1.2.8 — September 6, 1972, New Vrindavan",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Address to Rotary Club — October 17, 1976, Chandigarh",
     "h1":"Address to Rotary Club",
-    "label":"October 17, 1976, Chandigarh"
+    "label":"October 17, 1976, Chandigarh",
     "title":"Address to Rotary Club — October 17, 1976, Chandigarh",
     "description":""
 }

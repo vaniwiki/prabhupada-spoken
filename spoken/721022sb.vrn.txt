@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.11 — October 22, 1972, Vṛndāvana",
     "h1":"SB 1.2.11",
-    "label":"October 22, 1972, Vṛndāvana"
+    "label":"October 22, 1972, Vṛndāvana",
     "title":"SB 1.2.11 — October 22, 1972, Vṛndāvana",
     "description":""
 }

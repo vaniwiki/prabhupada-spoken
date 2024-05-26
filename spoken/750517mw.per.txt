@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — May 17, 1975, Perth",
     "h1":"Morning Walk",
-    "label":"May 17, 1975, Perth"
+    "label":"May 17, 1975, Perth",
     "title":"Morning Walk — May 17, 1975, Perth",
     "description":""
 }

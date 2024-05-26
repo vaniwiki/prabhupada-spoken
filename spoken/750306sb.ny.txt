@@ -2,7 +2,7 @@
 {
     "name":"SB 2.2.6 — March 6, 1975, New York",
     "h1":"SB 2.2.6",
-    "label":"March 6, 1975, New York"
+    "label":"March 6, 1975, New York",
     "title":"SB 2.2.6 — March 6, 1975, New York",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Hindi] — September 13, 1975, Vṛndāvana",
     "h1":"Lecture [Hindi]",
-    "label":"September 13, 1975, Vṛndāvana"
+    "label":"September 13, 1975, Vṛndāvana",
     "title":"Lecture [Hindi] — September 13, 1975, Vṛndāvana",
     "description":""
 }

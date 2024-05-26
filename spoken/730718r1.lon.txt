@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Malcolm — July 18, 1973, London",
     "h1":"Room Conversation with Malcolm",
-    "label":"July 18, 1973, London"
+    "label":"July 18, 1973, London",
     "title":"Room Conversation with Malcolm — July 18, 1973, London",
     "description":""
 }

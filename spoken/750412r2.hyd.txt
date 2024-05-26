@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — April 12, 1975, Hyderabad",
     "h1":"Room Conversation",
-    "label":"April 12, 1975, Hyderabad"
+    "label":"April 12, 1975, Hyderabad",
     "title":"Room Conversation — April 12, 1975, Hyderabad",
     "description":""
 }

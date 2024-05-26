@@ -2,7 +2,7 @@
 {
     "name":"Wedding Lecture — November 17, 1971, New Delhi",
     "h1":"Wedding Lecture",
-    "label":"November 17, 1971, New Delhi"
+    "label":"November 17, 1971, New Delhi",
     "title":"Wedding Lecture — November 17, 1971, New Delhi",
     "description":""
 }

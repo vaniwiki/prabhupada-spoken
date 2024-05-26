@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Hindi] — December 20, 1976, Wardha",
     "h1":"Lecture [Hindi]",
-    "label":"December 20, 1976, Wardha"
+    "label":"December 20, 1976, Wardha",
     "title":"Lecture [Hindi] — December 20, 1976, Wardha",
     "description":""
 }

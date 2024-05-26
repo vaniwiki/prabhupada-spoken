@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.20 — November 25, 1972, Hyderabad",
     "h1":"Bg 2.20 Lecture",
-    "label":"November 25, 1972, Hyderabad"
+    "label":"November 25, 1972, Hyderabad",
     "title":"Bg 2.20 — November 25, 1972, Hyderabad",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Bg 16.5 — January 31, 1975, Honolulu",
     "h1":"Bg 16.5 Lecture",
-    "label":"January 31, 1975, Honolulu"
+    "label":"January 31, 1975, Honolulu",
     "title":"Bg 16.5 — January 31, 1975, Honolulu",
     "description":""
 }

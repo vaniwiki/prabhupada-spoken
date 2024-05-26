@@ -2,7 +2,7 @@
 {
     "name":"Śrī Īśopaniṣad, Mantra 11 — May 16, 1970, Los Angeles",
     "h1":"Śrī Īśopaniṣad, Mantra 11",
-    "label":"May 16, 1970, Los Angeles"
+    "label":"May 16, 1970, Los Angeles",
     "title":"Śrī Īśopaniṣad, Mantra 11 — May 16, 1970, Los Angeles",
     "description":""
 }

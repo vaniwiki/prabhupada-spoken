@@ -2,7 +2,7 @@
 {
     "name":"Room Coversation with Psychiatrist and Indian Boy — May 12, 1975, Perth",
     "h1":"Room Coversation with Psychiatrist and Indian Boy",
-    "label":"May 12, 1975, Perth"
+    "label":"May 12, 1975, Perth",
     "title":"Room Coversation with Psychiatrist and Indian Boy — May 12, 1975, Perth",
     "description":""
 }

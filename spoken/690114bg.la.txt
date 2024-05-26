@@ -2,7 +2,7 @@
 {
     "name":"Bg 4.39-42 — January 14, 1969, Los Angeles",
     "h1":"Bg 4.39-42 Lecture",
-    "label":"January 14, 1969, Los Angeles"
+    "label":"January 14, 1969, Los Angeles",
     "title":"Bg 4.39-42 — January 14, 1969, Los Angeles",
     "description":""
 }

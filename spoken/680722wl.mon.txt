@@ -2,7 +2,7 @@
 {
     "name":"Wedding Lecture — July 22, 1968, Montreal",
     "h1":"Wedding Lecture",
-    "label":"July 22, 1968, Montreal"
+    "label":"July 22, 1968, Montreal",
     "title":"Wedding Lecture — July 22, 1968, Montreal",
     "description":""
 }

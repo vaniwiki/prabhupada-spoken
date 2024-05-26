@@ -2,7 +2,7 @@
 {
     "name":"Bg 8.15-20 — November 17, 1966, New York",
     "h1":"Bg 8.15-20 Lecture",
-    "label":"November 17, 1966, New York"
+    "label":"November 17, 1966, New York",
     "title":"Bg 8.15-20 — November 17, 1966, New York",
     "description":""
 }

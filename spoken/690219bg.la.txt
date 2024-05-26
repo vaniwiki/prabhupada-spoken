@@ -2,7 +2,7 @@
 {
     "name":"Bg 6.30-34 — February 19, 1969, Los Angeles",
     "h1":"Bg 6.30-34 Lecture",
-    "label":"February 19, 1969, Los Angeles"
+    "label":"February 19, 1969, Los Angeles",
     "title":"Bg 6.30-34 — February 19, 1969, Los Angeles",
     "description":""
 }

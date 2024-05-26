@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — July 16, 1975, San Francisco",
     "h1":"Morning Walk",
-    "label":"July 16, 1975, San Francisco"
+    "label":"July 16, 1975, San Francisco",
     "title":"Morning Walk — July 16, 1975, San Francisco",
     "description":""
 }

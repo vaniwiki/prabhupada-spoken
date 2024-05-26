@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — August 14, 1976, Bombay",
     "h1":"Morning Walk",
-    "label":"August 14, 1976, Bombay"
+    "label":"August 14, 1976, Bombay",
     "title":"Morning Walk — August 14, 1976, Bombay",
     "description":""
 }

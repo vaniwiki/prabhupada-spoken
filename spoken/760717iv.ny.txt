@@ -2,7 +2,7 @@
 {
     "name":"Interview with Trans-India Magazine — July 17, 1976, New York",
     "h1":"Interview with Trans-India Magazine",
-    "label":"July 17, 1976, New York"
+    "label":"July 17, 1976, New York",
     "title":"Interview with Trans-India Magazine — July 17, 1976, New York",
     "description":""
 }

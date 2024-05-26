@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Sumati Morarjee — July 11, 1972, London",
     "h1":"Room Conversation with Sumati Morarjee",
-    "label":"July 11, 1972, London"
+    "label":"July 11, 1972, London",
     "title":"Room Conversation with Sumati Morarjee — July 11, 1972, London",
     "description":""
 }

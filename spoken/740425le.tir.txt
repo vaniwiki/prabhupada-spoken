@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Hindi] — April 25, 1974, Tirupati",
     "h1":"Lecture [Hindi]",
-    "label":"April 25, 1974, Tirupati"
+    "label":"April 25, 1974, Tirupati",
     "title":"Lecture [Hindi] — April 25, 1974, Tirupati",
     "description":""
 }

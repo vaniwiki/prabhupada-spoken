@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Father Tanner and Mrs. Wells — July 11, 1973, London",
     "h1":"Room Conversation with Father Tanner and Mrs. Wells",
-    "label":"July 11, 1973, London"
+    "label":"July 11, 1973, London",
     "title":"Room Conversation with Father Tanner and Mrs. Wells — July 11, 1973, London",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Śrīmad Bhagavatam Dictations 10.14.1 — October 31, 1977, Vṛndāvana",
     "h1":"Śrīmad Bhagavatam Dictations 10.14.1",
-    "label":"October 31, 1977, Vṛndāvana"
+    "label":"October 31, 1977, Vṛndāvana",
     "title":"Śrīmad Bhagavatam Dictations 10.14.1 — October 31, 1977, Vṛndāvana",
     "description":""
 }

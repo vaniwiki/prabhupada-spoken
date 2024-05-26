@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — July 30, 1975, Dallas",
     "h1":"Morning Walk",
-    "label":"July 30, 1975, Dallas"
+    "label":"July 30, 1975, Dallas",
     "title":"Morning Walk — July 30, 1975, Dallas",
     "description":""
 }

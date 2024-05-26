@@ -2,7 +2,7 @@
 {
     "name":"Temple Press Conference — August 5, 1971, London",
     "h1":"Temple Press Conference",
-    "label":"August 5, 1971, London"
+    "label":"August 5, 1971, London",
     "title":"Temple Press Conference — August 5, 1971, London",
     "description":""
 }

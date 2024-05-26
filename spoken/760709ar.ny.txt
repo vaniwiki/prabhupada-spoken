@@ -2,7 +2,7 @@
 {
     "name":"Arrival Comments in Car to Temple — July 9, 1976, New York",
     "h1":"Arrival Comments in Car to Temple",
-    "label":"July 9, 1976, New York"
+    "label":"July 9, 1976, New York",
     "title":"Arrival Comments in Car to Temple — July 9, 1976, New York",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — June 24, 1975, Los Angeles",
     "h1":"Morning Walk",
-    "label":"June 24, 1975, Los Angeles"
+    "label":"June 24, 1975, Los Angeles",
     "title":"Morning Walk — June 24, 1975, Los Angeles",
     "description":""
 }

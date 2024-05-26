@@ -2,7 +2,7 @@
 {
     "name":"Departure Lecture — March 12, 1975, London",
     "h1":"Departure Lecture",
-    "label":"March 12, 1975, London"
+    "label":"March 12, 1975, London",
     "title":"Departure Lecture — March 12, 1975, London",
     "description":""
 }

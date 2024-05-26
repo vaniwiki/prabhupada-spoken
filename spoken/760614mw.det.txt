@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — June 14, 1976, Detroit",
     "h1":"Morning Walk",
-    "label":"June 14, 1976, Detroit"
+    "label":"June 14, 1976, Detroit",
     "title":"Morning Walk — June 14, 1976, Detroit",
     "description":""
 }

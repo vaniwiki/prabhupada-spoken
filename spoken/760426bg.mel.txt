@@ -2,7 +2,7 @@
 {
     "name":"Bg 9.10 — April 26, 1976, Melbourne",
     "h1":"Bg 9.10 Lecture",
-    "label":"April 26, 1976, Melbourne"
+    "label":"April 26, 1976, Melbourne",
     "title":"Bg 9.10 — April 26, 1976, Melbourne",
     "description":""
 }

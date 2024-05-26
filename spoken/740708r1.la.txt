@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — July 8, 1974, Los Angeles",
     "h1":"Room Conversation",
-    "label":"July 8, 1974, Los Angeles"
+    "label":"July 8, 1974, Los Angeles",
     "title":"Room Conversation — July 8, 1974, Los Angeles",
     "description":""
 }

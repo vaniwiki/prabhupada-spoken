@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — March 14, 1975, Tehran",
     "h1":"Room Conversation",
-    "label":"March 14, 1975, Tehran"
+    "label":"March 14, 1975, Tehran",
     "title":"Room Conversation — March 14, 1975, Tehran",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 3.28.19 — October 29, 1975, Nairobi",
     "h1":"SB 3.28.19",
-    "label":"October 29, 1975, Nairobi"
+    "label":"October 29, 1975, Nairobi",
     "title":"SB 3.28.19 — October 29, 1975, Nairobi",
     "description":""
 }

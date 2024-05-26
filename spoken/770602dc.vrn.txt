@@ -2,7 +2,7 @@
 {
     "name":"Discussions Will & Affidavit — June 2, 1977, Vṛndāvana",
     "h1":"Discussions Will & Affidavit",
-    "label":"June 2, 1977, Vṛndāvana"
+    "label":"June 2, 1977, Vṛndāvana",
     "title":"Discussions Will & Affidavit — June 2, 1977, Vṛndāvana",
     "description":""
 }

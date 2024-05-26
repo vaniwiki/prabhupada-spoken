@@ -2,7 +2,7 @@
 {
     "name":"SB 2.3.9 — May 26, 1972, Los Angeles",
     "h1":"SB 2.3.9",
-    "label":"May 26, 1972, Los Angeles"
+    "label":"May 26, 1972, Los Angeles",
     "title":"SB 2.3.9 — May 26, 1972, Los Angeles",
     "description":""
 }

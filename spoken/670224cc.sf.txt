@@ -2,7 +2,7 @@
 {
     "name":"Cc. Ādi 7.118-121 — February 24, 1967, San Francisco",
     "h1":"Cc. Ādi 7.118-121",
-    "label":"February 24, 1967, San Francisco"
+    "label":"February 24, 1967, San Francisco",
     "title":"Cc. Ādi 7.118-121 — February 24, 1967, San Francisco",
     "description":""
 }

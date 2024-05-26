@@ -2,7 +2,7 @@
 {
     "name":"Bhavan’s Journal, Answers to a Questionnaire 3 — July 1, 1976, New Vrindavan",
     "h1":"Bhavan’s Journal, Answers to a Questionnaire 3",
-    "label":"July 1, 1976, New Vrindavan"
+    "label":"July 1, 1976, New Vrindavan",
     "title":"Bhavan’s Journal, Answers to a Questionnaire 3 — July 1, 1976, New Vrindavan",
     "description":""
 }

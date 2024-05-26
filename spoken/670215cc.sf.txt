@@ -2,7 +2,7 @@
 {
     "name":"Cc. Ādi 7.107-109 — February 15, 1967, San Francisco",
     "h1":"Cc. Ādi 7.107-109",
-    "label":"February 15, 1967, San Francisco"
+    "label":"February 15, 1967, San Francisco",
     "title":"Cc. Ādi 7.107-109 — February 15, 1967, San Francisco",
     "description":""
 }

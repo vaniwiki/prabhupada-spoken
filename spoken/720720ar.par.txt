@@ -2,7 +2,7 @@
 {
     "name":"Arrival Lecture — July 20, 1972, Paris",
     "h1":"Arrival Lecture",
-    "label":"July 20, 1972, Paris"
+    "label":"July 20, 1972, Paris",
     "title":"Arrival Lecture — July 20, 1972, Paris",
     "description":""
 }

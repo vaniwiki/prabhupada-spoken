@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.18 — August 21, 1972, Los Angeles",
     "h1":"SB 1.2.18",
-    "label":"August 21, 1972, Los Angeles"
+    "label":"August 21, 1972, Los Angeles",
     "title":"SB 1.2.18 — August 21, 1972, Los Angeles",
     "description":""
 }

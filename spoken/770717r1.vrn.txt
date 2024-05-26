@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — July 17, 1977, Vṛndāvana",
     "h1":"Room Conversation",
-    "label":"July 17, 1977, Vṛndāvana"
+    "label":"July 17, 1977, Vṛndāvana",
     "title":"Room Conversation — July 17, 1977, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.50 — August 3, 1975, Detroit",
     "h1":"SB 6.1.50",
-    "label":"August 3, 1975, Detroit"
+    "label":"August 3, 1975, Detroit",
     "title":"SB 6.1.50 — August 3, 1975, Detroit",
     "description":""
 }

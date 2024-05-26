@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.26 — December 6, 1968, Los Angeles",
     "h1":"Bg 2.26 Lecture",
-    "label":"December 6, 1968, Los Angeles"
+    "label":"December 6, 1968, Los Angeles",
     "title":"Bg 2.26 — December 6, 1968, Los Angeles",
     "description":""
 }

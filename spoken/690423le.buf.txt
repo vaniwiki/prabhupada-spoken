@@ -2,7 +2,7 @@
 {
     "name":"Engagement Lecture — April 23, 1969, Buffalo",
     "h1":"Engagement Lecture",
-    "label":"April 23, 1969, Buffalo"
+    "label":"April 23, 1969, Buffalo",
     "title":"Engagement Lecture — April 23, 1969, Buffalo",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 12.2.1 — March 18, 1968, San Francisco",
     "h1":"SB 12.2.1",
-    "label":"March 18, 1968, San Francisco"
+    "label":"March 18, 1968, San Francisco",
     "title":"SB 12.2.1 — March 18, 1968, San Francisco",
     "description":""
 }

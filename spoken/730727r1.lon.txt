@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Sir Alistair Hardy — July 27, 1973, London",
     "h1":"Conversation with Sir Alistair Hardy",
-    "label":"July 27, 1973, London"
+    "label":"July 27, 1973, London",
     "title":"Conversation with Sir Alistair Hardy — July 27, 1973, London",
     "description":""
 }

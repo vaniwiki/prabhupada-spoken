@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation, Śrīmad-Bhāgavatam 7.5.31-33 — February 26, 1973, Jakarta",
     "h1":"Room Conversation, Śrīmad-Bhāgavatam 7.5.31-33",
-    "label":"February 26, 1973, Jakarta"
+    "label":"February 26, 1973, Jakarta",
     "title":"Room Conversation, Śrīmad-Bhāgavatam 7.5.31-33 — February 26, 1973, Jakarta",
     "description":""
 }

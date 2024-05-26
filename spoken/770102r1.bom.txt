@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — January 2, 1977, Bombay",
     "h1":"Room Conversation",
-    "label":"January 2, 1977, Bombay"
+    "label":"January 2, 1977, Bombay",
     "title":"Room Conversation — January 2, 1977, Bombay",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Dr. Weir — September 5, 1971, London",
     "h1":"Room Conversation with Dr. Weir",
-    "label":"September 5, 1971, London"
+    "label":"September 5, 1971, London",
     "title":"Room Conversation with Dr. Weir — September 5, 1971, London",
     "description":""
 }

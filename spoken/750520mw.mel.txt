@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk in the Botanical Gardens — May 20, 1975, Melbourne",
     "h1":"Morning Walk in the Botanical Gardens",
-    "label":"May 20, 1975, Melbourne"
+    "label":"May 20, 1975, Melbourne",
     "title":"Morning Walk in the Botanical Gardens — May 20, 1975, Melbourne",
     "description":""
 }

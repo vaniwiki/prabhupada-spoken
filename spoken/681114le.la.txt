@@ -2,7 +2,7 @@
 {
     "name":"Lecture on Twenty-four Elements [partially recorded] — November 14, 1968, Los Angeles",
     "h1":"Lecture on Twenty-four Elements [partially recorded]",
-    "label":"November 14, 1968, Los Angeles"
+    "label":"November 14, 1968, Los Angeles",
     "title":"Lecture on Twenty-four Elements [partially recorded] — November 14, 1968, Los Angeles",
     "description":""
 }

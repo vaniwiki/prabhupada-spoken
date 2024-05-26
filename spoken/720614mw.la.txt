@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — June 14, 1972, Los Angeles",
     "h1":"Morning Walk",
-    "label":"June 14, 1972, Los Angeles"
+    "label":"June 14, 1972, Los Angeles",
     "title":"Morning Walk — June 14, 1972, Los Angeles",
     "description":""
 }

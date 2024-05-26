@@ -2,7 +2,7 @@
 {
     "name":"Lecture — February 28, 1973, Jakarta",
     "h1":"Lecture",
-    "label":"February 28, 1973, Jakarta"
+    "label":"February 28, 1973, Jakarta",
     "title":"Lecture — February 28, 1973, Jakarta",
     "description":""
 }

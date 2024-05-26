@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.7 — November 13, 1973, Delhi",
     "h1":"SB 1.2.7",
-    "label":"November 13, 1973, Delhi"
+    "label":"November 13, 1973, Delhi",
     "title":"SB 1.2.7 — November 13, 1973, Delhi",
     "description":""
 }

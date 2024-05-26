@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation “GBC Resolutions” — March 1, 1977, Māyāpur",
     "h1":"Room Conversation “GBC Resolutions”",
-    "label":"March 1, 1977, Māyāpur"
+    "label":"March 1, 1977, Māyāpur",
     "title":"Room Conversation “GBC Resolutions” — March 1, 1977, Māyāpur",
     "description":""
 }

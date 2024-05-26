@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Andhra College — February 21, 1972, Visakhapatnam",
     "h1":"Lecture at Andhra College",
-    "label":"February 21, 1972, Visakhapatnam"
+    "label":"February 21, 1972, Visakhapatnam",
     "title":"Lecture at Andhra College — February 21, 1972, Visakhapatnam",
     "description":""
 }

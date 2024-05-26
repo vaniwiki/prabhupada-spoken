@@ -2,7 +2,7 @@
 {
     "name":"SB 2.2.5 — December 2, 1968, Los Angeles",
     "h1":"SB 2.2.5",
-    "label":"December 2, 1968, Los Angeles"
+    "label":"December 2, 1968, Los Angeles",
     "title":"SB 2.2.5 — December 2, 1968, Los Angeles",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — April 29, 1974, Hyderabad",
     "h1":"Morning Walk",
-    "label":"April 29, 1974, Hyderabad"
+    "label":"April 29, 1974, Hyderabad",
     "title":"Morning Walk — April 29, 1974, Hyderabad",
     "description":""
 }

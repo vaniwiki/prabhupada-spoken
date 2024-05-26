@@ -2,7 +2,7 @@
 {
     "name":"Garden Conversation with Dr. Allen Gerson — June 22, 1975, Los Angeles",
     "h1":"Garden Conversation with Dr. Allen Gerson",
-    "label":"June 22, 1975, Los Angeles"
+    "label":"June 22, 1975, Los Angeles",
     "title":"Garden Conversation with Dr. Allen Gerson — June 22, 1975, Los Angeles",
     "description":""
 }

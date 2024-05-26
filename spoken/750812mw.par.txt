@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — August 12, 1975, Paris",
     "h1":"Morning Walk",
-    "label":"August 12, 1975, Paris"
+    "label":"August 12, 1975, Paris",
     "title":"Morning Walk — August 12, 1975, Paris",
     "description":""
 }

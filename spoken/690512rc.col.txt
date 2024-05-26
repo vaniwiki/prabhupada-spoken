@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Allen Ginsberg — May 12, 1969, Columbus",
     "h1":"Room Conversation with Allen Ginsberg",
-    "label":"May 12, 1969, Columbus"
+    "label":"May 12, 1969, Columbus",
     "title":"Room Conversation with Allen Ginsberg — May 12, 1969, Columbus",
     "description":""
 }

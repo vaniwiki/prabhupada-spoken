@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.7 [Hindi] — March 22, 1975, Calcutta",
     "h1":"SB 1.2.7 [Hindi]",
-    "label":"March 22, 1975, Calcutta"
+    "label":"March 22, 1975, Calcutta",
     "title":"SB 1.2.7 [Hindi] — March 22, 1975, Calcutta",
     "description":""
 }

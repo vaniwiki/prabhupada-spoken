@@ -2,7 +2,7 @@
 {
     "name":"Bg 13.1-3 — October 13, 1975, Durban",
     "h1":"Bg 13.1-3 Lecture",
-    "label":"October 13, 1975, Durban"
+    "label":"October 13, 1975, Durban",
     "title":"Bg 13.1-3 — October 13, 1975, Durban",
     "description":""
 }

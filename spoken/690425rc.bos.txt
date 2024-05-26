@@ -2,7 +2,7 @@
 {
     "name":"Prabhupāda Listening to Recording of His Own — April 25, 1969, Boston",
     "h1":"Prabhupāda Listening to Recording of His Own",
-    "label":"April 25, 1969, Boston"
+    "label":"April 25, 1969, Boston",
     "title":"Prabhupāda Listening to Recording of His Own — April 25, 1969, Boston",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 7.7.40-44 — March 20, 1967, San Francisco",
     "h1":"SB 7.7.40-44",
-    "label":"March 20, 1967, San Francisco"
+    "label":"March 20, 1967, San Francisco",
     "title":"SB 7.7.40-44 — March 20, 1967, San Francisco",
     "description":""
 }

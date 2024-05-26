@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Monsieur Roost, Haṭha-yogī — May 31, 1974, Geneva",
     "h1":"Room Conversation with Monsieur Roost, Haṭha-yogī",
-    "label":"May 31, 1974, Geneva"
+    "label":"May 31, 1974, Geneva",
     "title":"Room Conversation with Monsieur Roost, Haṭha-yogī — May 31, 1974, Geneva",
     "description":""
 }

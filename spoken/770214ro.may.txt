@@ -2,7 +2,7 @@
 {
     "name":"Conversation on Roof — February 14, 1977, Māyāpur",
     "h1":"Conversation on Roof",
-    "label":"February 14, 1977, Māyāpur"
+    "label":"February 14, 1977, Māyāpur",
     "title":"Conversation on Roof — February 14, 1977, Māyāpur",
     "description":""
 }

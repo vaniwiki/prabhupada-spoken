@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Mr. C. Hennis — May 31, 1974, Geneva",
     "h1":"Room Conversation with Mr. C. Hennis",
-    "label":"May 31, 1974, Geneva"
+    "label":"May 31, 1974, Geneva",
     "title":"Room Conversation with Mr. C. Hennis — May 31, 1974, Geneva",
     "description":""
 }

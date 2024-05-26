@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Dr. Kapoor — March 12, 1972, Vṛndāvana",
     "h1":"Room Conversation with Dr. Kapoor",
-    "label":"March 12, 1972, Vṛndāvana"
+    "label":"March 12, 1972, Vṛndāvana",
     "title":"Room Conversation with Dr. Kapoor — March 12, 1972, Vṛndāvana",
     "description":""
 }

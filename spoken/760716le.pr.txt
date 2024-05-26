@@ -2,7 +2,7 @@
 {
     "name":"Evening Lecture at Gītā-Nagarī Farm — July 16, 1976, Port Royal",
     "h1":"Evening Lecture at Gītā-Nagarī Farm",
-    "label":"July 16, 1976, Port Royal"
+    "label":"July 16, 1976, Port Royal",
     "title":"Evening Lecture at Gītā-Nagarī Farm — July 16, 1976, Port Royal",
     "description":""
 }

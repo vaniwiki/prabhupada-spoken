@@ -2,7 +2,7 @@
 {
     "name":"Talk After Lecture [Brahma-saṁhitā, verse 29] — November 8, 1968, Los Angeles",
     "h1":"Talk After Lecture [Brahma-saṁhitā, verse 29]",
-    "label":"November 8, 1968, Los Angeles"
+    "label":"November 8, 1968, Los Angeles",
     "title":"Talk After Lecture [Brahma-saṁhitā, verse 29] — November 8, 1968, Los Angeles",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Morning Talk — April 25, 1977, Bombay",
     "h1":"Morning Talk",
-    "label":"April 25, 1977, Bombay"
+    "label":"April 25, 1977, Bombay",
     "title":"Morning Talk — April 25, 1977, Bombay",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation about F.A.T.E. — December 27, 1976, Bombay",
     "h1":"Room Conversation about F.A.T.E.",
-    "label":"December 27, 1976, Bombay"
+    "label":"December 27, 1976, Bombay",
     "title":"Room Conversation about F.A.T.E. — December 27, 1976, Bombay",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Initiation — October 20, 1968, Seattle",
     "h1":"Initiation",
-    "label":"October 20, 1968, Seattle"
+    "label":"October 20, 1968, Seattle",
     "title":"Initiation — October 20, 1968, Seattle",
     "description":""
 }

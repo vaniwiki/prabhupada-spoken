@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation on SB 1.5.11 — January 19, 1972, Jaipur",
     "h1":"Room Conversation on SB 1.5.11",
-    "label":"January 19, 1972, Jaipur"
+    "label":"January 19, 1972, Jaipur",
     "title":"Room Conversation on SB 1.5.11 — January 19, 1972, Jaipur",
     "description":""
 }

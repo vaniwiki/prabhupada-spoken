@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — January 4, 1976, Nellore",
     "h1":"Morning Walk",
-    "label":"January 4, 1976, Nellore"
+    "label":"January 4, 1976, Nellore",
     "title":"Morning Walk — January 4, 1976, Nellore",
     "description":""
 }

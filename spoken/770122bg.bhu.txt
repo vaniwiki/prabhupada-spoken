@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.1 — January 22, 1977, Bhubaneswar",
     "h1":"Bg 7.1 Lecture",
-    "label":"January 22, 1977, Bhubaneswar"
+    "label":"January 22, 1977, Bhubaneswar",
     "title":"Bg 7.1 — January 22, 1977, Bhubaneswar",
     "description":""
 }

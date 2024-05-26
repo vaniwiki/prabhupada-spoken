@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Hindi] [Partially Recorded] — February 17, 1972, Visakhapatnam",
     "h1":"Lecture [Hindi] [Partially Recorded]",
-    "label":"February 17, 1972, Visakhapatnam"
+    "label":"February 17, 1972, Visakhapatnam",
     "title":"Lecture [Hindi] [Partially Recorded] — February 17, 1972, Visakhapatnam",
     "description":""
 }

@@ -1,7 +1,12 @@
-~~Title: Room Conversation with Metaphysics Society — February 21, 1975, Caracas~~
-~~bc: February 21, 1975, Caracas~~
-~~bc: Room Conversation — February 21, 1975, Caracas~~
-
+---json
+{
+    "name":"Room Conversation with Metaphysics Society — February 21, 1975, Caracas",
+    "h1":"Room Conversation with Metaphysics Society",
+    "label":"February 21, 1975, Caracas",
+    "title":"Room Conversation with Metaphysics Society — February 21, 1975, Caracas",
+    "description":""
+}
+---
 ====== Room Conversation with Metaphysics Society ======
 
 [translated throughout by Hṛdayānanda]

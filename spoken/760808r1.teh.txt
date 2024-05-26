@@ -2,7 +2,7 @@
 {
     "name":"Evening Conversation — August 8, 1976, Tehran",
     "h1":"Evening Conversation",
-    "label":"August 8, 1976, Tehran"
+    "label":"August 8, 1976, Tehran",
     "title":"Evening Conversation — August 8, 1976, Tehran",
     "description":""
 }

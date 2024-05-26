@@ -2,7 +2,7 @@
 {
     "name":"Lecture [partially recorded] — August 25, 1966, New York",
     "h1":"Lecture [partially recorded]",
-    "label":"August 25, 1966, New York"
+    "label":"August 25, 1966, New York",
     "title":"Lecture [partially recorded] — August 25, 1966, New York",
     "description":""
 }

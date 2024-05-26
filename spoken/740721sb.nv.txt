@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.19, and Initiation Lecture — July 21, 1974, New Vrindavan",
     "h1":"SB 1.2.19, and Initiation Lecture",
-    "label":"July 21, 1974, New Vrindavan"
+    "label":"July 21, 1974, New Vrindavan",
     "title":"SB 1.2.19, and Initiation Lecture — July 21, 1974, New Vrindavan",
     "description":""
 }

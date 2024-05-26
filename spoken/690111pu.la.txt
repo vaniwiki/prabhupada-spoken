@@ -2,7 +2,7 @@
 {
     "name":"Purport to Śrī Kṛṣṇa Caitanya Prabhu — January 11, 1969, Los Angeles",
     "h1":"Purport to Śrī Kṛṣṇa Caitanya Prabhu",
-    "label":"January 11, 1969, Los Angeles"
+    "label":"January 11, 1969, Los Angeles",
     "title":"Purport to Śrī Kṛṣṇa Caitanya Prabhu — January 11, 1969, Los Angeles",
     "description":""
 }

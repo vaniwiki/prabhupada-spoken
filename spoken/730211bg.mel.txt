@@ -2,7 +2,7 @@
 {
     "name":"Bg 3.36-37 — February 11, 1973, Melbourne",
     "h1":"Bg 3.36-37 Lecture",
-    "label":"February 11, 1973, Melbourne"
+    "label":"February 11, 1973, Melbourne",
     "title":"Bg 3.36-37 — February 11, 1973, Melbourne",
     "description":""
 }

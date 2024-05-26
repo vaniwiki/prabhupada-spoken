@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — October 14, 1976, Chandigarh",
     "h1":"Morning Walk",
-    "label":"October 14, 1976, Chandigarh"
+    "label":"October 14, 1976, Chandigarh",
     "title":"Morning Walk — October 14, 1976, Chandigarh",
     "description":""
 }

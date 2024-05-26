@@ -2,7 +2,7 @@
 {
     "name":"Śrī Vyāsa-pūjā Lecture — August 19, 1976, Hyderabad",
     "h1":"Śrī Vyāsa-pūjā Lecture",
-    "label":"August 19, 1976, Hyderabad"
+    "label":"August 19, 1976, Hyderabad",
     "title":"Śrī Vyāsa-pūjā Lecture — August 19, 1976, Hyderabad",
     "description":""
 }

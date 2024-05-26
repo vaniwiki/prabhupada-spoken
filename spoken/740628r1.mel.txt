@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Reverend Gordon Powell — June 28, 1974, Melbourne",
     "h1":"Room Conversation with Reverend Gordon Powell",
-    "label":"June 28, 1974, Melbourne"
+    "label":"June 28, 1974, Melbourne",
     "title":"Room Conversation with Reverend Gordon Powell — June 28, 1974, Melbourne",
     "description":""
 }

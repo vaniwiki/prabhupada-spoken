@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation on Farm Management — December 10, 1976, Hyderabad",
     "h1":"Room Conversation on Farm Management",
-    "label":"December 10, 1976, Hyderabad"
+    "label":"December 10, 1976, Hyderabad",
     "title":"Room Conversation on Farm Management — December 10, 1976, Hyderabad",
     "description":""
 }

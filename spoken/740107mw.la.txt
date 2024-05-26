@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk, partially recorded — January 7, 1974, Los Angeles",
     "h1":"Morning Walk, partially recorded",
-    "label":"January 7, 1974, Los Angeles"
+    "label":"January 7, 1974, Los Angeles",
     "title":"Morning Walk, partially recorded — January 7, 1974, Los Angeles",
     "description":""
 }

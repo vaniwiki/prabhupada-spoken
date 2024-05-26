@@ -1,0 +1,10 @@
+[<10>]
+
+<box align="text-center" spacing="0">
+<text spacing="m-0 p-0" font-size="small" color="indianred">//Share with your friends//</text>
+<share facebook widget="link" icon="none"><icon name="fe:facebook" color="indianred"/></share>
+<share twitter widget="link" icon="none"><icon name="fe:twitter" color="indianred"/></share>
+<share email widget="link" icon="none"><icon name="fe:mail" color="indianred"/></share>
+<share telegram widget="link" icon="none"><icon name="fe:send" color="indianred"/></share>
+<share whatsapp widget="link" icon="none"><icon name="bi:whatsapp" color="indianred"/></share>
+</box>

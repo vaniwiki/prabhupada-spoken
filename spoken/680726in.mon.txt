@@ -2,7 +2,7 @@
 {
     "name":"Initiation of Satyabhāmā Dāsī — July 26, 1968, Montreal",
     "h1":"Initiation of Satyabhāmā Dāsī",
-    "label":"July 26, 1968, Montreal"
+    "label":"July 26, 1968, Montreal",
     "title":"Initiation of Satyabhāmā Dāsī — July 26, 1968, Montreal",
     "description":""
 }

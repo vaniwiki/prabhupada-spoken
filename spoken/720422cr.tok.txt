@@ -2,7 +2,7 @@
 {
     "name":"Conversation in car — April 22, 1972, Tokyo",
     "h1":"Conversation in car",
-    "label":"April 22, 1972, Tokyo"
+    "label":"April 22, 1972, Tokyo",
     "title":"Conversation in car — April 22, 1972, Tokyo",
     "description":""
 }

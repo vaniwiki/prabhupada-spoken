@@ -2,7 +2,7 @@
 {
     "name":"Car Conversation — June 20, 1975, Honolulu",
     "h1":"Car Conversation",
-    "label":"June 20, 1975, Honolulu"
+    "label":"June 20, 1975, Honolulu",
     "title":"Car Conversation — June 20, 1975, Honolulu",
     "description":""
 }

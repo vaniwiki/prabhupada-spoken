@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Raymond Lopez, Wally Strobes, Bob Bourne — May 22, 1975, Melbourne",
     "h1":"Room Conversation with Raymond Lopez, Wally Strobes, Bob Bourne",
-    "label":"May 22, 1975, Melbourne"
+    "label":"May 22, 1975, Melbourne",
     "title":"Room Conversation with Raymond Lopez, Wally Strobes, Bob Bourne — May 22, 1975, Melbourne",
     "description":""
 }

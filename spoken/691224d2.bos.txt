@@ -2,7 +2,7 @@
 {
     "name":"Discussion about New Vrindaban Gurukula — December 24, 1969, Boston",
     "h1":"Discussion about New Vrindaban Gurukula",
-    "label":"December 24, 1969, Boston"
+    "label":"December 24, 1969, Boston",
     "title":"Discussion about New Vrindaban Gurukula — December 24, 1969, Boston",
     "description":""
 }

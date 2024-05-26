@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.1 — January 27, 1973, Calcutta",
     "h1":"Bg 7.1 Lecture",
-    "label":"January 27, 1973, Calcutta"
+    "label":"January 27, 1973, Calcutta",
     "title":"Bg 7.1 — January 27, 1973, Calcutta",
     "description":""
 }

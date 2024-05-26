@@ -2,7 +2,7 @@
 {
     "name":"Arrival Lecture — May 6, 1972, Honolulu",
     "h1":"Arrival Lecture",
-    "label":"May 6, 1972, Honolulu"
+    "label":"May 6, 1972, Honolulu",
     "title":"Arrival Lecture — May 6, 1972, Honolulu",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Ratha-yātrā Lecture — July 12, 1975, Philadelphia",
     "h1":"Ratha-yātrā Lecture",
-    "label":"July 12, 1975, Philadelphia"
+    "label":"July 12, 1975, Philadelphia",
     "title":"Ratha-yātrā Lecture — July 12, 1975, Philadelphia",
     "description":""
 }

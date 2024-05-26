@@ -2,7 +2,7 @@
 {
     "name":"SB 2.4.3-4 and Initiations — June 28, 1972, Los Angeles",
     "h1":"SB 2.4.3-4 and Initiations",
-    "label":"June 28, 1972, Los Angeles"
+    "label":"June 28, 1972, Los Angeles",
     "title":"SB 2.4.3-4 and Initiations — June 28, 1972, Los Angeles",
     "description":""
 }

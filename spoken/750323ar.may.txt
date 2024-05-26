@@ -2,7 +2,7 @@
 {
     "name":"Arrival Talk in Room — March 23, 1975, Māyāpur",
     "h1":"Arrival Talk in Room",
-    "label":"March 23, 1975, Māyāpur"
+    "label":"March 23, 1975, Māyāpur",
     "title":"Arrival Talk in Room — March 23, 1975, Māyāpur",
     "description":""
 }

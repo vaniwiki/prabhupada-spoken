@@ -2,7 +2,7 @@
 {
     "name":"Walk Around Farm — August 1, 1975, New Orleans",
     "h1":"Walk Around Farm",
-    "label":"August 1, 1975, New Orleans"
+    "label":"August 1, 1975, New Orleans",
     "title":"Walk Around Farm — August 1, 1975, New Orleans",
     "description":""
 }

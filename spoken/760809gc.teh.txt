@@ -2,7 +2,7 @@
 {
     "name":"Garden Conversation — August 9, 1976, Tehran",
     "h1":"Garden Conversation",
-    "label":"August 9, 1976, Tehran"
+    "label":"August 9, 1976, Tehran",
     "title":"Garden Conversation — August 9, 1976, Tehran",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Bg 13.26 — October 25, 1973, Bombay",
     "h1":"Bg 13.26 Lecture",
-    "label":"October 25, 1973, Bombay"
+    "label":"October 25, 1973, Bombay",
     "title":"Bg 13.26 — October 25, 1973, Bombay",
     "description":""
 }

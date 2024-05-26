@@ -2,7 +2,7 @@
 {
     "name":"Arrival of Devotees — February 24, 1977, Māyāpur",
     "h1":"Arrival of Devotees",
-    "label":"February 24, 1977, Māyāpur"
+    "label":"February 24, 1977, Māyāpur",
     "title":"Arrival of Devotees — February 24, 1977, Māyāpur",
     "description":""
 }

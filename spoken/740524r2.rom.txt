@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Richard Webster — May 24, 1974, Rome",
     "h1":"Room Conversation with Richard Webster",
-    "label":"May 24, 1974, Rome"
+    "label":"May 24, 1974, Rome",
     "title":"Room Conversation with Richard Webster — May 24, 1974, Rome",
     "description":""
 }

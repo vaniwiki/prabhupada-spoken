@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Yadurabara About Early Life — August 12, 1973, London",
     "h1":"Room Conversation with Yadurabara About Early Life",
-    "label":"August 12, 1973, London"
+    "label":"August 12, 1973, London",
     "title":"Room Conversation with Yadurabara About Early Life — August 12, 1973, London",
     "description":""
 }

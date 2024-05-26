@@ -2,7 +2,7 @@
 {
     "name":"Interview with Newsweek — July 14, 1976, New York",
     "h1":"Interview with Newsweek",
-    "label":"July 14, 1976, New York"
+    "label":"July 14, 1976, New York",
     "title":"Interview with Newsweek — July 14, 1976, New York",
     "description":""
 }

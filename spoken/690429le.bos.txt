@@ -2,7 +2,7 @@
 {
     "name":"Brandeis University Lecture — April 29, 1969, Boston",
     "h1":"Brandeis University Lecture",
-    "label":"April 29, 1969, Boston"
+    "label":"April 29, 1969, Boston",
     "title":"Brandeis University Lecture — April 29, 1969, Boston",
     "description":""
 }

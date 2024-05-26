@@ -2,7 +2,7 @@
 {
     "name":"Bg 8.1 — June 7, 1974, Geneva",
     "h1":"Bg 8.1 Lecture",
-    "label":"June 7, 1974, Geneva"
+    "label":"June 7, 1974, Geneva",
     "title":"Bg 8.1 — June 7, 1974, Geneva",
     "description":""
 }

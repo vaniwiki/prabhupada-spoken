@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation [partially recorded] — April 6, 1976, Vṛndāvana",
     "h1":"Room Conversation [partially recorded]",
-    "label":"April 6, 1976, Vṛndāvana"
+    "label":"April 6, 1976, Vṛndāvana",
     "title":"Room Conversation [partially recorded] — April 6, 1976, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — July 18, 1971, Detroit",
     "h1":"Room Conversation",
-    "label":"July 18, 1971, Detroit"
+    "label":"July 18, 1971, Detroit",
     "title":"Room Conversation — July 18, 1971, Detroit",
     "description":""
 }

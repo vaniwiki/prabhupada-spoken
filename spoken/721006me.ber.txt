@@ -2,7 +2,7 @@
 {
     "name":"Meeting at University — October 6, 1972, Berkeley",
     "h1":"Meeting at University",
-    "label":"October 6, 1972, Berkeley"
+    "label":"October 6, 1972, Berkeley",
     "title":"Meeting at University — October 6, 1972, Berkeley",
     "description":""
 }

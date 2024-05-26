@@ -2,7 +2,7 @@
 {
     "name":"Arrival Lecture — July 15, 1975, San Francisco",
     "h1":"Arrival Lecture",
-    "label":"July 15, 1975, San Francisco"
+    "label":"July 15, 1975, San Francisco",
     "title":"Arrival Lecture — July 15, 1975, San Francisco",
     "description":""
 }

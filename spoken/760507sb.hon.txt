@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.6 — May 7, 1976, Honolulu",
     "h1":"SB 6.1.6",
-    "label":"May 7, 1976, Honolulu"
+    "label":"May 7, 1976, Honolulu",
     "title":"SB 6.1.6 — May 7, 1976, Honolulu",
     "description":""
 }

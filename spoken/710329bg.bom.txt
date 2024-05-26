@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.3 — March 29, 1971, Bombay",
     "h1":"Bg 7.3 Lecture",
-    "label":"March 29, 1971, Bombay"
+    "label":"March 29, 1971, Bombay",
     "title":"Bg 7.3 — March 29, 1971, Bombay",
     "description":""
 }

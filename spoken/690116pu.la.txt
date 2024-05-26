@@ -2,7 +2,7 @@
 {
     "name":"Purport to Parama Koruṇa — January 16, 1969, Los Angeles",
     "h1":"Purport to Parama Koruṇa",
-    "label":"January 16, 1969, Los Angeles"
+    "label":"January 16, 1969, Los Angeles",
     "title":"Purport to Parama Koruṇa — January 16, 1969, Los Angeles",
     "description":""
 }

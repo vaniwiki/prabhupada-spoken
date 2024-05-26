@@ -2,7 +2,7 @@
 {
     "name":"Sannyāsa Initiation — November 18, 1975, Bombay",
     "h1":"Sannyāsa Initiation",
-    "label":"November 18, 1975, Bombay"
+    "label":"November 18, 1975, Bombay",
     "title":"Sannyāsa Initiation — November 18, 1975, Bombay",
     "description":""
 }

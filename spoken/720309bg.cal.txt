@@ -2,7 +2,7 @@
 {
     "name":"Bg 9.4-6 — March 9, 1972, Calcutta",
     "h1":"Bg 9.4-6 Lecture",
-    "label":"March 9, 1972, Calcutta"
+    "label":"March 9, 1972, Calcutta",
     "title":"Bg 9.4-6 — March 9, 1972, Calcutta",
     "description":""
 }

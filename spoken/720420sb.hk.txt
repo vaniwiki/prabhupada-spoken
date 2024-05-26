@@ -2,7 +2,7 @@
 {
     "name":"SB 7.6.1 — April 20, 1972, Hong Kong",
     "h1":"SB 7.6.1",
-    "label":"April 20, 1972, Hong Kong"
+    "label":"April 20, 1972, Hong Kong",
     "title":"SB 7.6.1 — April 20, 1972, Hong Kong",
     "description":""
 }

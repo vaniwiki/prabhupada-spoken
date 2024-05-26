@@ -2,7 +2,7 @@
 {
     "name":"Lecture — December 8, 1972, Ahmedabad",
     "h1":"Lecture",
-    "label":"December 8, 1972, Ahmedabad"
+    "label":"December 8, 1972, Ahmedabad",
     "title":"Lecture — December 8, 1972, Ahmedabad",
     "description":""
 }

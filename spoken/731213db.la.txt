@@ -2,7 +2,7 @@
 {
     "name":"Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 13, 1973, Los Angeles",
     "h1":"Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture",
-    "label":"December 13, 1973, Los Angeles"
+    "label":"December 13, 1973, Los Angeles",
     "title":"Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture — December 13, 1973, Los Angeles",
     "description":""
 }

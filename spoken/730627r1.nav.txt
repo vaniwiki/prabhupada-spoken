@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Śrīdhara Mahārāja — June 27, 1973, Navadvīpa",
     "h1":"Conversation with Śrīdhara Mahārāja",
-    "label":"June 27, 1973, Navadvīpa"
+    "label":"June 27, 1973, Navadvīpa",
     "title":"Conversation with Śrīdhara Mahārāja — June 27, 1973, Navadvīpa",
     "description":""
 }

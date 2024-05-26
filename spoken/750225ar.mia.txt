@@ -2,7 +2,7 @@
 {
     "name":"Arrival Lecture — February 25, 1975, Miami",
     "h1":"Arrival Lecture",
-    "label":"February 25, 1975, Miami"
+    "label":"February 25, 1975, Miami",
     "title":"Arrival Lecture — February 25, 1975, Miami",
     "description":""
 }

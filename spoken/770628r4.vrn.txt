@@ -2,7 +2,7 @@
 {
     "name":"Showing of Planetary Sketches — June 28, 1977, Vṛndāvana",
     "h1":"Showing of Planetary Sketches",
-    "label":"June 28, 1977, Vṛndāvana"
+    "label":"June 28, 1977, Vṛndāvana",
     "title":"Showing of Planetary Sketches — June 28, 1977, Vṛndāvana",
     "description":""
 }

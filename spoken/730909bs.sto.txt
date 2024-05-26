@@ -2,7 +2,7 @@
 {
     "name":"Śrī Brahma-saṁhitā 5.33, at Uppsala University, excerpt — September 9, 1973, Stockholm",
     "h1":"Śrī Brahma-saṁhitā 5.33, at Uppsala University, excerpt",
-    "label":"September 9, 1973, Stockholm"
+    "label":"September 9, 1973, Stockholm",
     "title":"Śrī Brahma-saṁhitā 5.33, at Uppsala University, excerpt — September 9, 1973, Stockholm",
     "description":""
 }

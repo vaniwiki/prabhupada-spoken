@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.1 [Hindi] — October 15, 1976, Chandigarh",
     "h1":"Bg 7.1 Lecture [Hindi]",
-    "label":"October 15, 1976, Chandigarh"
+    "label":"October 15, 1976, Chandigarh",
     "title":"Bg 7.1 [Hindi] — October 15, 1976, Chandigarh",
     "description":""
 }

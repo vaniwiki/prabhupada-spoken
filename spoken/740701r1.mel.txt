@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Bhūrijana and Other Devotees — July 1, 1974, Melbourne",
     "h1":"Room Conversation with Bhūrijana and Other Devotees",
-    "label":"July 1, 1974, Melbourne"
+    "label":"July 1, 1974, Melbourne",
     "title":"Room Conversation with Bhūrijana and Other Devotees — July 1, 1974, Melbourne",
     "description":""
 }

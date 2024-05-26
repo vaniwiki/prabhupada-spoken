@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.5 [partially recorded] — March 25, 1972, Bombay",
     "h1":"SB 1.2.5 [partially recorded]",
-    "label":"March 25, 1972, Bombay"
+    "label":"March 25, 1972, Bombay",
     "title":"SB 1.2.5 [partially recorded] — March 25, 1972, Bombay",
     "description":""
 }

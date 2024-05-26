@@ -2,7 +2,7 @@
 {
     "name":"SB 1.13.11 — June 2, 1974, Geneva",
     "h1":"SB 1.13.11",
-    "label":"June 2, 1974, Geneva"
+    "label":"June 2, 1974, Geneva",
     "title":"SB 1.13.11 — June 2, 1974, Geneva",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Professor Francois Chenique — August 5, 1976, New Māyāpur",
     "h1":"Room Conversation with Professor Francois Chenique",
-    "label":"August 5, 1976, New Māyāpur"
+    "label":"August 5, 1976, New Māyāpur",
     "title":"Room Conversation with Professor Francois Chenique — August 5, 1976, New Māyāpur",
     "description":""
 }

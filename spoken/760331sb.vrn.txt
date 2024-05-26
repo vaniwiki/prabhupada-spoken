@@ -2,7 +2,7 @@
 {
     "name":"SB 7.5.23-24 — March 31, 1976, Vṛndāvana",
     "h1":"SB 7.5.23-24",
-    "label":"March 31, 1976, Vṛndāvana"
+    "label":"March 31, 1976, Vṛndāvana",
     "title":"SB 7.5.23-24 — March 31, 1976, Vṛndāvana",
     "description":""
 }

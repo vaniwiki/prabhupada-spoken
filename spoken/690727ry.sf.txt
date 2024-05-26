@@ -2,7 +2,7 @@
 {
     "name":"Ratha-yātrā Lecture — July 27, 1969, San Francisco",
     "h1":"Ratha-yātrā Lecture",
-    "label":"July 27, 1969, San Francisco"
+    "label":"July 27, 1969, San Francisco",
     "title":"Ratha-yātrā Lecture — July 27, 1969, San Francisco",
     "description":""
 }

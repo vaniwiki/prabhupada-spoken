@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.6 — August 3, 1968, Montreal",
     "h1":"SB 1.2.6",
-    "label":"August 3, 1968, Montreal"
+    "label":"August 3, 1968, Montreal",
     "title":"SB 1.2.6 — August 3, 1968, Montreal",
     "description":""
 }

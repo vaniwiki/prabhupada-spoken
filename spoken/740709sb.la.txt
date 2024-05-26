@@ -2,7 +2,7 @@
 {
     "name":"SB 1.16.19 — July 9, 1974, Los Angeles",
     "h1":"SB 1.16.19",
-    "label":"July 9, 1974, Los Angeles"
+    "label":"July 9, 1974, Los Angeles",
     "title":"SB 1.16.19 — July 9, 1974, Los Angeles",
     "description":""
 }

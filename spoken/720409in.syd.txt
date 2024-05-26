@@ -2,7 +2,7 @@
 {
     "name":"Initiations and Wedding — April 9, 1972, Sydney",
     "h1":"Initiations and Wedding",
-    "label":"April 9, 1972, Sydney"
+    "label":"April 9, 1972, Sydney",
     "title":"Initiations and Wedding — April 9, 1972, Sydney",
     "description":""
 }

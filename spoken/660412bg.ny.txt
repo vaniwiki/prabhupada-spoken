@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.51-55 — April 12, 1966, New York",
     "h1":"Bg 2.51-55 Lecture",
-    "label":"April 12, 1966, New York"
+    "label":"April 12, 1966, New York",
     "title":"Bg 2.51-55 — April 12, 1966, New York",
     "description":""
 }

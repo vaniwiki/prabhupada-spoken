@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation [Bengali] — January 18, 1972, Jaipur",
     "h1":"Room Conversation [Bengali]",
-    "label":"January 18, 1972, Jaipur"
+    "label":"January 18, 1972, Jaipur",
     "title":"Room Conversation [Bengali] — January 18, 1972, Jaipur",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Ratha-yātrā and Press Conference — July 4, 1970, San Francisco",
     "h1":"Ratha-yātrā and Press Conference",
-    "label":"July 4, 1970, San Francisco"
+    "label":"July 4, 1970, San Francisco",
     "title":"Ratha-yātrā and Press Conference — July 4, 1970, San Francisco",
     "description":""
 }

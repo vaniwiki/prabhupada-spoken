@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.41 — July 22, 1975 , Los Angeles",
     "h1":"SB 6.1.41",
-    "label":"July 22, 1975 , Los Angeles"
+    "label":"July 22, 1975 , Los Angeles",
     "title":"SB 6.1.41 — July 22, 1975 , Los Angeles",
     "description":""
 }

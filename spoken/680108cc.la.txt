@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 6.254 — January 8, 1968, Los Angeles",
     "h1":"Cc. Madhya 6.254",
-    "label":"January 8, 1968, Los Angeles"
+    "label":"January 8, 1968, Los Angeles",
     "title":"Cc. Madhya 6.254 — January 8, 1968, Los Angeles",
     "description":""
 }

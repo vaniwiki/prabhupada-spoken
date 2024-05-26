@@ -2,7 +2,7 @@
 {
     "name":"Śubhavilāsa Home Engagement — June 19, 1976, Toronto",
     "h1":"Śubhavilāsa Home Engagement",
-    "label":"June 19, 1976, Toronto"
+    "label":"June 19, 1976, Toronto",
     "title":"Śubhavilāsa Home Engagement — June 19, 1976, Toronto",
     "description":""
 }

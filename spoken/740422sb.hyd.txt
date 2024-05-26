@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.8 — April 22, 1974, Hyderabad",
     "h1":"SB 1.2.8",
-    "label":"April 22, 1974, Hyderabad"
+    "label":"April 22, 1974, Hyderabad",
     "title":"SB 1.2.8 — April 22, 1974, Hyderabad",
     "description":""
 }

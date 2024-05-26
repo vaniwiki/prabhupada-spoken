@@ -2,7 +2,7 @@
 {
     "name":"Śrī Brahma-saṁhitā, Verse 33 — July 19, 1971, New York",
     "h1":"Śrī Brahma-saṁhitā, Verse 33",
-    "label":"July 19, 1971, New York"
+    "label":"July 19, 1971, New York",
     "title":"Śrī Brahma-saṁhitā, Verse 33 — July 19, 1971, New York",
     "description":""
 }

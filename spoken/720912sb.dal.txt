@@ -2,7 +2,7 @@
 {
     "name":"SB 2.1.1 — September 12, 1972, Dallas",
     "h1":"SB 2.1.1",
-    "label":"September 12, 1972, Dallas"
+    "label":"September 12, 1972, Dallas",
     "title":"SB 2.1.1 — September 12, 1972, Dallas",
     "description":""
 }

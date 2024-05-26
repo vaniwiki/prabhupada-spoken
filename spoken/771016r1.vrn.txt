@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation About 10th Canto — October 16, 1977, Vṛndāvana",
     "h1":"Room Conversation About 10th Canto",
-    "label":"October 16, 1977, Vṛndāvana"
+    "label":"October 16, 1977, Vṛndāvana",
     "title":"Room Conversation About 10th Canto — October 16, 1977, Vṛndāvana",
     "description":""
 }

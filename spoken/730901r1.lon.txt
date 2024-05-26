@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Peter — September 1, 1973, London",
     "h1":"Room Conversation with Peter",
-    "label":"September 1, 1973, London"
+    "label":"September 1, 1973, London",
     "title":"Room Conversation with Peter — September 1, 1973, London",
     "description":""
 }

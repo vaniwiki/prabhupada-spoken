@@ -2,7 +2,7 @@
 {
     "name":"Śrīmad-Bhagavatam Dictation SB 10.13.62 — October 27, 1977, Vṛndāvana",
     "h1":"Śrīmad-Bhagavatam Dictation SB 10.13.62",
-    "label":"October 27, 1977, Vṛndāvana"
+    "label":"October 27, 1977, Vṛndāvana",
     "title":"Śrīmad-Bhagavatam Dictation SB 10.13.62 — October 27, 1977, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Press Interview — October 16, 1976, Chandigarh",
     "h1":"Press Interview",
-    "label":"October 16, 1976, Chandigarh"
+    "label":"October 16, 1976, Chandigarh",
     "title":"Press Interview — October 16, 1976, Chandigarh",
     "description":""
 }

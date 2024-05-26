@@ -2,7 +2,7 @@
 {
     "name":"Letter from Yugoslavia “Books!” — June 30, 1977, Vṛndāvana",
     "h1":"Letter from Yugoslavia “Books!”",
-    "label":"June 30, 1977, Vṛndāvana"
+    "label":"June 30, 1977, Vṛndāvana",
     "title":"Letter from Yugoslavia “Books!” — June 30, 1977, Vṛndāvana",
     "description":""
 }

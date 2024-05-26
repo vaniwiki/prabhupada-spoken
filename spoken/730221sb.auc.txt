@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.13-15 — February 21, 1973, Auckland",
     "h1":"SB 6.1.13-15",
-    "label":"February 21, 1973, Auckland"
+    "label":"February 21, 1973, Auckland",
     "title":"SB 6.1.13-15 — February 21, 1973, Auckland",
     "description":""
 }

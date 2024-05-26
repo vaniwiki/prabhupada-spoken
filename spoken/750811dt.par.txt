@@ -2,7 +2,7 @@
 {
     "name":"SB, Canto Six Dictation — August 11, 1975, Paris",
     "h1":"SB, Canto Six Dictation",
-    "label":"August 11, 1975, Paris"
+    "label":"August 11, 1975, Paris",
     "title":"SB, Canto Six Dictation — August 11, 1975, Paris",
     "description":""
 }

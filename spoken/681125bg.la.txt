@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.1-10 and Talk — November 25, 1968, Los Angeles",
     "h1":"Bg 2.1-10 and Talk",
-    "label":"November 25, 1968, Los Angeles"
+    "label":"November 25, 1968, Los Angeles",
     "title":"Bg 2.1-10 and Talk — November 25, 1968, Los Angeles",
     "description":""
 }

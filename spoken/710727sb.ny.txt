@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.13-14 — July 27, 1971, New York",
     "h1":"SB 6.1.13-14",
-    "label":"July 27, 1971, New York"
+    "label":"July 27, 1971, New York",
     "title":"SB 6.1.13-14 — July 27, 1971, New York",
     "description":""
 }

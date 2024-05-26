@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — August 26, 1975, Vṛndāvana",
     "h1":"Room Conversation",
-    "label":"August 26, 1975, Vṛndāvana"
+    "label":"August 26, 1975, Vṛndāvana",
     "title":"Room Conversation — August 26, 1975, Vṛndāvana",
     "description":""
 }

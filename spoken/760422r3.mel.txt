@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Guests — April 22, 1976, Melbourne",
     "h1":"Room Conversation with Guests",
-    "label":"April 22, 1976, Melbourne"
+    "label":"April 22, 1976, Melbourne",
     "title":"Room Conversation with Guests — April 22, 1976, Melbourne",
     "description":""
 }

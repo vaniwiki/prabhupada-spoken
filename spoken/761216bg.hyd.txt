@@ -2,7 +2,7 @@
 {
     "name":"Bg 16.8 — December 16, 1976, Hyderabad",
     "h1":"Bg 16.8 Lecture",
-    "label":"December 16, 1976, Hyderabad"
+    "label":"December 16, 1976, Hyderabad",
     "title":"Bg 16.8 — December 16, 1976, Hyderabad",
     "description":""
 }

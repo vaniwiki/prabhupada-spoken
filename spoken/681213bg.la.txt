@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.40-45 — December 13, 1968, Los Angeles",
     "h1":"Bg 2.40-45 Lecture",
-    "label":"December 13, 1968, Los Angeles"
+    "label":"December 13, 1968, Los Angeles",
     "title":"Bg 2.40-45 — December 13, 1968, Los Angeles",
     "description":""
 }

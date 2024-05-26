@@ -2,7 +2,7 @@
 {
     "name":"Ride on Rādhā-Dāmodara Bus to Gītā-nagarī Farm — July 15, 1976, New York",
     "h1":"Ride on Rādhā-Dāmodara Bus to Gītā-nagarī Farm",
-    "label":"July 15, 1976, New York"
+    "label":"July 15, 1976, New York",
     "title":"Ride on Rādhā-Dāmodara Bus to Gītā-nagarī Farm — July 15, 1976, New York",
     "description":""
 }

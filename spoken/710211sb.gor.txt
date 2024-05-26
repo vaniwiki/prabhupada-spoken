@@ -2,7 +2,7 @@
 {
     "name":"SB 6.3.18 — February 11, 1971, Gorakhpur",
     "h1":"SB 6.3.18",
-    "label":"February 11, 1971, Gorakhpur"
+    "label":"February 11, 1971, Gorakhpur",
     "title":"SB 6.3.18 — February 11, 1971, Gorakhpur",
     "description":""
 }

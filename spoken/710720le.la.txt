@@ -2,7 +2,7 @@
 {
     "name":"Lecture — July 20, 1971, Los Angeles",
     "h1":"Lecture",
-    "label":"July 20, 1971, Los Angeles"
+    "label":"July 20, 1971, Los Angeles",
     "title":"Lecture — July 20, 1971, Los Angeles",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Śrīla Bhaktisiddhānta Appearance Day Lecture — March 2, 1975, Atlanta",
     "h1":"Śrīla Bhaktisiddhānta Appearance Day Lecture",
-    "label":"March 2, 1975, Atlanta"
+    "label":"March 2, 1975, Atlanta",
     "title":"Śrīla Bhaktisiddhānta Appearance Day Lecture — March 2, 1975, Atlanta",
     "description":""
 }

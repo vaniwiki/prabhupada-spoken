@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.17 — June 30, 1975, Denver",
     "h1":"SB 6.1.17",
-    "label":"June 30, 1975, Denver"
+    "label":"June 30, 1975, Denver",
     "title":"SB 6.1.17 — June 30, 1975, Denver",
     "description":""
 }

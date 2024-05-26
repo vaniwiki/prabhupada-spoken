@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Boys’ School — May 12, 1971, Sydney",
     "h1":"Lecture at Boys’ School",
-    "label":"May 12, 1971, Sydney"
+    "label":"May 12, 1971, Sydney",
     "title":"Lecture at Boys’ School — May 12, 1971, Sydney",
     "description":""
 }

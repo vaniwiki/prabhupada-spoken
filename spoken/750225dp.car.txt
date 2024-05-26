@@ -2,7 +2,7 @@
 {
     "name":"Departure Lecture — February 25, 1975, Caracas",
     "h1":"Departure Lecture",
-    "label":"February 25, 1975, Caracas"
+    "label":"February 25, 1975, Caracas",
     "title":"Departure Lecture — February 25, 1975, Caracas",
     "description":""
 }

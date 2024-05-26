@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — February 20, 1974, Bombay",
     "h1":"Morning Walk",
-    "label":"February 20, 1974, Bombay"
+    "label":"February 20, 1974, Bombay",
     "title":"Morning Walk — February 20, 1974, Bombay",
     "description":""
 }

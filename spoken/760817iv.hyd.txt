@@ -2,7 +2,7 @@
 {
     "name":"Press Interview at Muthilal Rao’s House — August 17, 1976, Hyderabad",
     "h1":"Press Interview at Muthilal Rao’s House",
-    "label":"August 17, 1976, Hyderabad"
+    "label":"August 17, 1976, Hyderabad",
     "title":"Press Interview at Muthilal Rao’s House — August 17, 1976, Hyderabad",
     "description":""
 }

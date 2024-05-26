@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.6 — May 24, 1974, Rome",
     "h1":"SB 1.2.6",
-    "label":"May 24, 1974, Rome"
+    "label":"May 24, 1974, Rome",
     "title":"SB 1.2.6 — May 24, 1974, Rome",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Tour — October 6, 1972, Berkeley",
     "h1":"Tour",
-    "label":"October 6, 1972, Berkeley"
+    "label":"October 6, 1972, Berkeley",
     "title":"Tour — October 6, 1972, Berkeley",
     "description":""
 }

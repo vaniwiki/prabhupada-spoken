@@ -2,7 +2,7 @@
 {
     "name":"Car Journey and Arrival — July 2, 1976, Washington, D.C.",
     "h1":"Car Journey and Arrival",
-    "label":"July 2, 1976, Washington, D.C."
+    "label":"July 2, 1976, Washington, D.C.",
     "title":"Car Journey and Arrival — July 2, 1976, Washington, D.C.",
     "description":""
 }

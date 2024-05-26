@@ -2,7 +2,7 @@
 {
     "name":"Prabhupāda Inspects New BTG — June 24, 1976, New Vrindavan",
     "h1":"Prabhupāda Inspects New BTG",
-    "label":"June 24, 1976, New Vrindavan"
+    "label":"June 24, 1976, New Vrindavan",
     "title":"Prabhupāda Inspects New BTG — June 24, 1976, New Vrindavan",
     "description":""
 }

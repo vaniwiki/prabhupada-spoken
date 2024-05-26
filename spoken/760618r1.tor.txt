@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — June 18, 1976, Toronto",
     "h1":"Room Conversation",
-    "label":"June 18, 1976, Toronto"
+    "label":"June 18, 1976, Toronto",
     "title":"Room Conversation — June 18, 1976, Toronto",
     "description":""
 }

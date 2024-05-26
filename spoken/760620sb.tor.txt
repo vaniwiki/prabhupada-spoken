@@ -2,7 +2,7 @@
 {
     "name":"SB 7.6.4 — June 20, 1976, Toronto",
     "h1":"SB 7.6.4",
-    "label":"June 20, 1976, Toronto"
+    "label":"June 20, 1976, Toronto",
     "title":"SB 7.6.4 — June 20, 1976, Toronto",
     "description":""
 }

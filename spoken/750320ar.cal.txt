@@ -2,7 +2,7 @@
 {
     "name":"Arrival Lecture — March 20, 1975, Calcutta",
     "h1":"Arrival Lecture",
-    "label":"March 20, 1975, Calcutta"
+    "label":"March 20, 1975, Calcutta",
     "title":"Arrival Lecture — March 20, 1975, Calcutta",
     "description":""
 }

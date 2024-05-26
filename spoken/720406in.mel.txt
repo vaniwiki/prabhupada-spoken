@@ -2,7 +2,7 @@
 {
     "name":"Deity Installation, Wedding and Initiations — April 6, 1972, Melbourne",
     "h1":"Deity Installation, Wedding and Initiations",
-    "label":"April 6, 1972, Melbourne"
+    "label":"April 6, 1972, Melbourne",
     "title":"Deity Installation, Wedding and Initiations — April 6, 1972, Melbourne",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Ratha-yātrā Address — July 16, 1972, London",
     "h1":"Ratha-yātrā Address",
-    "label":"July 16, 1972, London"
+    "label":"July 16, 1972, London",
     "title":"Ratha-yātrā Address — July 16, 1972, London",
     "description":""
 }

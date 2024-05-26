@@ -2,7 +2,7 @@
 {
     "name":"Lecture [partially recorded] — April 12, 1969, New York",
     "h1":"Lecture [partially recorded]",
-    "label":"April 12, 1969, New York"
+    "label":"April 12, 1969, New York",
     "title":"Lecture [partially recorded] — April 12, 1969, New York",
     "description":""
 }

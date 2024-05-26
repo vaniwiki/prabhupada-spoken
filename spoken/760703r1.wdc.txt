@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — July 3, 1976, Washington, D.C.",
     "h1":"Room Conversation",
-    "label":"July 3, 1976, Washington, D.C."
+    "label":"July 3, 1976, Washington, D.C.",
     "title":"Room Conversation — July 3, 1976, Washington, D.C.",
     "description":""
 }

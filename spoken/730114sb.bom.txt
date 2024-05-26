@@ -2,7 +2,7 @@
 {
     "name":"SB Preface, Pandal Lecture — January 14, 1973, Bombay",
     "h1":"SB Preface, Pandal Lecture",
-    "label":"January 14, 1973, Bombay"
+    "label":"January 14, 1973, Bombay",
     "title":"SB Preface, Pandal Lecture — January 14, 1973, Bombay",
     "description":""
 }

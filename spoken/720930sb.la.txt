@@ -2,7 +2,7 @@
 {
     "name":"SB 1.3.25 — September 30, 1972, Los Angeles",
     "h1":"SB 1.3.25",
-    "label":"September 30, 1972, Los Angeles"
+    "label":"September 30, 1972, Los Angeles",
     "title":"SB 1.3.25 — September 30, 1972, Los Angeles",
     "description":""
 }

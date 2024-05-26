@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — October 8, 1975, Durban",
     "h1":"Morning Walk",
-    "label":"October 8, 1975, Durban"
+    "label":"October 8, 1975, Durban",
     "title":"Morning Walk — October 8, 1975, Durban",
     "description":""
 }

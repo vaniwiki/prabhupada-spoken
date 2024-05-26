@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.4 — October 31, 1975, Nairobi",
     "h1":"Bg 7.4 Lecture",
-    "label":"October 31, 1975, Nairobi"
+    "label":"October 31, 1975, Nairobi",
     "title":"Bg 7.4 — October 31, 1975, Nairobi",
     "description":""
 }

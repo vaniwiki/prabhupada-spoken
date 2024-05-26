@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — February 14, 1971, Gorakhpur",
     "h1":"Room Conversation",
-    "label":"February 14, 1971, Gorakhpur"
+    "label":"February 14, 1971, Gorakhpur",
     "title":"Room Conversation — February 14, 1971, Gorakhpur",
     "description":""
 }

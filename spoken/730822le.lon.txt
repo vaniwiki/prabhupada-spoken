@@ -2,7 +2,7 @@
 {
     "name":"Lecture, “What is a Guru?” — August 22, 1973, London",
     "h1":"Lecture, “What is a Guru?”",
-    "label":"August 22, 1973, London"
+    "label":"August 22, 1973, London",
     "title":"Lecture, “What is a Guru?” — August 22, 1973, London",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Interview — March 5, 1975, New York",
     "h1":"Interview",
-    "label":"March 5, 1975, New York"
+    "label":"March 5, 1975, New York",
     "title":"Interview — March 5, 1975, New York",
     "description":""
 }

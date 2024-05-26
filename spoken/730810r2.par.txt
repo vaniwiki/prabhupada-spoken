@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with French Journalist — August 10, 1973, Paris",
     "h1":"Room Conversation with French Journalist",
-    "label":"August 10, 1973, Paris"
+    "label":"August 10, 1973, Paris",
     "title":"Room Conversation with French Journalist — August 10, 1973, Paris",
     "description":""
 }

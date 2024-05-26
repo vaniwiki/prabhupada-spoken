@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Kṛṣṇa Niketan — February 16, 1971, Gorakhpur",
     "h1":"Lecture at Kṛṣṇa Niketan",
-    "label":"February 16, 1971, Gorakhpur"
+    "label":"February 16, 1971, Gorakhpur",
     "title":"Lecture at Kṛṣṇa Niketan — February 16, 1971, Gorakhpur",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Lecture at 7 Bury Place [partially recorded] — July 25, 1976, London",
     "h1":"Lecture at 7 Bury Place [partially recorded]",
-    "label":"July 25, 1976, London"
+    "label":"July 25, 1976, London",
     "title":"Lecture at 7 Bury Place [partially recorded] — July 25, 1976, London",
     "description":""
 }

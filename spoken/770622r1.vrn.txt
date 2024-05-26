@@ -2,7 +2,7 @@
 {
     "name":"Conversation, “Rascal Editors,” and Morning Talk — June 22, 1977, Vṛndāvana",
     "h1":"Conversation, “Rascal Editors,” and Morning Talk",
-    "label":"June 22, 1977, Vṛndāvana"
+    "label":"June 22, 1977, Vṛndāvana",
     "title":"Conversation, “Rascal Editors,” and Morning Talk — June 22, 1977, Vṛndāvana",
     "description":""
 }

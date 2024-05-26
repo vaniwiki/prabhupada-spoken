@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Siddha-svarūpa Follower — May 3, 1976, Honolulu",
     "h1":"Room Conversation with Siddha-svarūpa Follower",
-    "label":"May 3, 1976, Honolulu"
+    "label":"May 3, 1976, Honolulu",
     "title":"Room Conversation with Siddha-svarūpa Follower — May 3, 1976, Honolulu",
     "description":""
 }

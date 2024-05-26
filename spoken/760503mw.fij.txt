@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — May 3, 1976, Fiji",
     "h1":"Morning Walk",
-    "label":"May 3, 1976, Fiji"
+    "label":"May 3, 1976, Fiji",
     "title":"Morning Walk — May 3, 1976, Fiji",
     "description":""
 }

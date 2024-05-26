@@ -2,7 +2,7 @@
 {
     "name":"His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, SB 6.3.24 — February 15, 1971, Gorakhpur",
     "h1":"His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, SB 6.3.24",
-    "label":"February 15, 1971, Gorakhpur"
+    "label":"February 15, 1971, Gorakhpur",
     "title":"His Divine Grace Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day, SB 6.3.24 — February 15, 1971, Gorakhpur",
     "description":""
 }

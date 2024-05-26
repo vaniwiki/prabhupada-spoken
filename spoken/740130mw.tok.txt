@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — January 30, 1974, Tokyo",
     "h1":"Morning Walk",
-    "label":"January 30, 1974, Tokyo"
+    "label":"January 30, 1974, Tokyo",
     "title":"Morning Walk — January 30, 1974, Tokyo",
     "description":""
 }

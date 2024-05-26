@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — December 25, 1975, Sanand",
     "h1":"Morning Walk",
-    "label":"December 25, 1975, Sanand"
+    "label":"December 25, 1975, Sanand",
     "title":"Morning Walk — December 25, 1975, Sanand",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Arrival Conversation — April 20, 1972, Tokyo",
     "h1":"Arrival Conversation",
-    "label":"April 20, 1972, Tokyo"
+    "label":"April 20, 1972, Tokyo",
     "title":"Arrival Conversation — April 20, 1972, Tokyo",
     "description":""
 }

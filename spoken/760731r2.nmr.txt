@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — July 31, 1976, New Māyāpur",
     "h1":"Room Conversation",
-    "label":"July 31, 1976, New Māyāpur"
+    "label":"July 31, 1976, New Māyāpur",
     "title":"Room Conversation — July 31, 1976, New Māyāpur",
     "description":""
 }

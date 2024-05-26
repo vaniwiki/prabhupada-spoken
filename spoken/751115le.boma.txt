@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Hindi] — November 15, 1975, Bombay",
     "h1":"Lecture [Hindi]",
-    "label":"November 15, 1975, Bombay"
+    "label":"November 15, 1975, Bombay",
     "title":"Lecture [Hindi] — November 15, 1975, Bombay",
     "description":""
 }

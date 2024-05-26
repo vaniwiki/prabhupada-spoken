@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Dr. Sharma — July 8, 1976, Washington, D.C.",
     "h1":"Room Conversation with Dr. Sharma",
-    "label":"July 8, 1976, Washington, D.C."
+    "label":"July 8, 1976, Washington, D.C.",
     "title":"Room Conversation with Dr. Sharma — July 8, 1976, Washington, D.C.",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Initiation & Wedding — May 14, 1969, Columbus",
     "h1":"Initiation & Wedding",
-    "label":"May 14, 1969, Columbus"
+    "label":"May 14, 1969, Columbus",
     "title":"Initiation & Wedding — May 14, 1969, Columbus",
     "description":""
 }

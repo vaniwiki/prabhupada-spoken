@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Clergymen — June 15, 1976, Detroit",
     "h1":"Conversation with Clergymen",
-    "label":"June 15, 1976, Detroit"
+    "label":"June 15, 1976, Detroit",
     "title":"Conversation with Clergymen — June 15, 1976, Detroit",
     "description":""
 }

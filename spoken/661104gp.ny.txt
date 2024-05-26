@@ -2,7 +2,7 @@
 {
     "name":"Govardhana Pūjā Lecture — November 4, 1966, New York",
     "h1":"Govardhana Pūjā Lecture",
-    "label":"November 4, 1966, New York"
+    "label":"November 4, 1966, New York",
     "title":"Govardhana Pūjā Lecture — November 4, 1966, New York",
     "description":""
 }

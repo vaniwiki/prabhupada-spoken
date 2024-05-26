@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Gaṇeśa dāsa’s Mother and Sister — May 13, 1975, Perth",
     "h1":"Room Conversation with Gaṇeśa dāsa’s Mother and Sister",
-    "label":"May 13, 1975, Perth"
+    "label":"May 13, 1975, Perth",
     "title":"Room Conversation with Gaṇeśa dāsa’s Mother and Sister — May 13, 1975, Perth",
     "description":""
 }

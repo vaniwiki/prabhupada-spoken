@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Governor — April 20, 1975, Vṛndāvana",
     "h1":"Conversation with Governor",
-    "label":"April 20, 1975, Vṛndāvana"
+    "label":"April 20, 1975, Vṛndāvana",
     "title":"Conversation with Governor — April 20, 1975, Vṛndāvana",
     "description":""
 }

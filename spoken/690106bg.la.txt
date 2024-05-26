@@ -2,7 +2,7 @@
 {
     "name":"Bg 4.7-10 — January 6, 1969, Los Angeles",
     "h1":"Bg 4.7-10 Lecture",
-    "label":"January 6, 1969, Los Angeles"
+    "label":"January 6, 1969, Los Angeles",
     "title":"Bg 4.7-10 — January 6, 1969, Los Angeles",
     "description":""
 }

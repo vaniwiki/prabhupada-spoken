@@ -2,7 +2,7 @@
 {
     "name":"SB 2.1.11 — August 1, 1970, Los Angeles",
     "h1":"SB 2.1.11",
-    "label":"August 1, 1970, Los Angeles"
+    "label":"August 1, 1970, Los Angeles",
     "title":"SB 2.1.11 — August 1, 1970, Los Angeles",
     "description":""
 }

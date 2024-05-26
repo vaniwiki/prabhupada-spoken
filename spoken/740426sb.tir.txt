@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.11 — April 26, 1974, Tirupati",
     "h1":"SB 1.2.11",
-    "label":"April 26, 1974, Tirupati"
+    "label":"April 26, 1974, Tirupati",
     "title":"SB 1.2.11 — April 26, 1974, Tirupati",
     "description":""
 }

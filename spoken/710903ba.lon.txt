@@ -2,7 +2,7 @@
 {
     "name":"Bhaktivinoda Ṭhākura Appearance Day, Lecture — September 3, 1971, London",
     "h1":"Bhaktivinoda Ṭhākura Appearance Day, Lecture",
-    "label":"September 3, 1971, London"
+    "label":"September 3, 1971, London",
     "title":"Bhaktivinoda Ṭhākura Appearance Day, Lecture — September 3, 1971, London",
     "description":""
 }

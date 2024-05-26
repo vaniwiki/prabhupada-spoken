@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Bengali] Intro by Purī Mahārāja — February 27, 1972, Māyāpur",
     "h1":"Lecture [Bengali] Intro by Purī Mahārāja",
-    "label":"February 27, 1972, Māyāpur"
+    "label":"February 27, 1972, Māyāpur",
     "title":"Lecture [Bengali] Intro by Purī Mahārāja — February 27, 1972, Māyāpur",
     "description":""
 }

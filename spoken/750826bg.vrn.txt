@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.1 [Hindi] — August 26, 1975, Vṛndāvana",
     "h1":"Bg 7.1 Lecture [Hindi]",
-    "label":"August 26, 1975, Vṛndāvana"
+    "label":"August 26, 1975, Vṛndāvana",
     "title":"Bg 7.1 [Hindi] — August 26, 1975, Vṛndāvana",
     "description":""
 }

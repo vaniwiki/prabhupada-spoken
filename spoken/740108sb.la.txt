@@ -2,7 +2,7 @@
 {
     "name":"SB 1.16.11 — January 8, 1974, Los Angeles",
     "h1":"SB 1.16.11",
-    "label":"January 8, 1974, Los Angeles"
+    "label":"January 8, 1974, Los Angeles",
     "title":"SB 1.16.11 — January 8, 1974, Los Angeles",
     "description":""
 }

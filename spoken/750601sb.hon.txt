@@ -2,7 +2,7 @@
 {
     "name":"SB 3.28.1, Sunday Feast — June 1, 1975, Honolulu",
     "h1":"SB 3.28.1, Sunday Feast",
-    "label":"June 1, 1975, Honolulu"
+    "label":"June 1, 1975, Honolulu",
     "title":"SB 3.28.1, Sunday Feast — June 1, 1975, Honolulu",
     "description":""
 }

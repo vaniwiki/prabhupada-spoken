@@ -2,7 +2,7 @@
 {
     "name":"Conversation and Instruction On New Movie — January 13, 1977, Allahabad",
     "h1":"Conversation and Instruction On New Movie",
-    "label":"January 13, 1977, Allahabad"
+    "label":"January 13, 1977, Allahabad",
     "title":"Conversation and Instruction On New Movie — January 13, 1977, Allahabad",
     "description":""
 }

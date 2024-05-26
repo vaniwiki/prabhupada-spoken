@@ -2,7 +2,7 @@
 {
     "name":"Cc. Ādi 7.8 — March 15, 1974, Vṛndāvana",
     "h1":"Cc. Ādi 7.8",
-    "label":"March 15, 1974, Vṛndāvana"
+    "label":"March 15, 1974, Vṛndāvana",
     "title":"Cc. Ādi 7.8 — March 15, 1974, Vṛndāvana",
     "description":""
 }

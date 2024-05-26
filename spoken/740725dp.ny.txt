@@ -2,7 +2,7 @@
 {
     "name":"Departure Address — July 25, 1974, New York",
     "h1":"Departure Address",
-    "label":"July 25, 1974, New York"
+    "label":"July 25, 1974, New York",
     "title":"Departure Address — July 25, 1974, New York",
     "description":""
 }

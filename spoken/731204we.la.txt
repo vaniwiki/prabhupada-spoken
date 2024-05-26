@@ -2,7 +2,7 @@
 {
     "name":"Wedding Lecture — December 4, 1973, Los Angeles",
     "h1":"Wedding Lecture",
-    "label":"December 4, 1973, Los Angeles"
+    "label":"December 4, 1973, Los Angeles",
     "title":"Wedding Lecture — December 4, 1973, Los Angeles",
     "description":""
 }

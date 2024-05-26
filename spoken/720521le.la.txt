@@ -2,7 +2,7 @@
 {
     "name":"Sunday Feast Lecture — May 21, 1972, Los Angeles",
     "h1":"Sunday Feast Lecture",
-    "label":"May 21, 1972, Los Angeles"
+    "label":"May 21, 1972, Los Angeles",
     "title":"Sunday Feast Lecture — May 21, 1972, Los Angeles",
     "description":""
 }

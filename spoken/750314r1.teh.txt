@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Yoga Student and Other Guests — March 14, 1975, Tehran",
     "h1":"Room Conversation with Yoga Student and Other Guests",
-    "label":"March 14, 1975, Tehran"
+    "label":"March 14, 1975, Tehran",
     "title":"Room Conversation with Yoga Student and Other Guests — March 14, 1975, Tehran",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Second Meeting with Mr. Dwivedi — April 24, 1977, Bombay",
     "h1":"Second Meeting with Mr. Dwivedi",
-    "label":"April 24, 1977, Bombay"
+    "label":"April 24, 1977, Bombay",
     "title":"Second Meeting with Mr. Dwivedi — April 24, 1977, Bombay",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 3.22.19 — August 8, 1976, Tehran",
     "h1":"SB 3.22.19",
-    "label":"August 8, 1976, Tehran"
+    "label":"August 8, 1976, Tehran",
     "title":"SB 3.22.19 — August 8, 1976, Tehran",
     "description":""
 }

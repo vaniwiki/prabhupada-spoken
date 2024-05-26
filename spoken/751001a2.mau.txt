@@ -2,7 +2,7 @@
 {
     "name":"Arrival Reception — October 1, 1975, Mauritius",
     "h1":"Arrival Reception",
-    "label":"October 1, 1975, Mauritius"
+    "label":"October 1, 1975, Mauritius",
     "title":"Arrival Reception — October 1, 1975, Mauritius",
     "description":""
 }

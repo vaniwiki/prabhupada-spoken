@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Gaurachand Gosvāmī — March 11, 1972, Vṛndāvana",
     "h1":"Room Conversation with Gaurachand Gosvāmī",
-    "label":"March 11, 1972, Vṛndāvana"
+    "label":"March 11, 1972, Vṛndāvana",
     "title":"Room Conversation with Gaurachand Gosvāmī — March 11, 1972, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — June 27, 1976, New Vrindavan",
     "h1":"Morning Walk",
-    "label":"June 27, 1976, New Vrindavan"
+    "label":"June 27, 1976, New Vrindavan",
     "title":"Morning Walk — June 27, 1976, New Vrindavan",
     "description":""
 }

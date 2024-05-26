@@ -2,7 +2,7 @@
 {
     "name":"Bhajans and Room Conversation — March 8, 1975, London",
     "h1":"Bhajans and Room Conversation",
-    "label":"March 8, 1975, London"
+    "label":"March 8, 1975, London",
     "title":"Bhajans and Room Conversation — March 8, 1975, London",
     "description":""
 }

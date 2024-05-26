@@ -2,7 +2,7 @@
 {
     "name":"Discussion about Guru Maharaj-ji — August 13, 1973, Paris",
     "h1":"Discussion about Guru Maharaj-ji",
-    "label":"August 13, 1973, Paris"
+    "label":"August 13, 1973, Paris",
     "title":"Discussion about Guru Maharaj-ji — August 13, 1973, Paris",
     "description":""
 }

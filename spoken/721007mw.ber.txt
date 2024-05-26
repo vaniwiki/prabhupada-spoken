@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — October 7, 1972, Berkeley",
     "h1":"Morning Walk",
-    "label":"October 7, 1972, Berkeley"
+    "label":"October 7, 1972, Berkeley",
     "title":"Morning Walk — October 7, 1972, Berkeley",
     "description":""
 }

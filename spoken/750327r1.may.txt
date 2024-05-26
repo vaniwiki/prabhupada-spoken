@@ -2,7 +2,7 @@
 {
     "name":"Conversation with the GBC — March 27, 1975, Māyāpur",
     "h1":"Conversation with the GBC",
-    "label":"March 27, 1975, Māyāpur"
+    "label":"March 27, 1975, Māyāpur",
     "title":"Conversation with the GBC — March 27, 1975, Māyāpur",
     "description":""
 }

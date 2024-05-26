@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — July 17, 1976, New York",
     "h1":"Morning Walk",
-    "label":"July 17, 1976, New York"
+    "label":"July 17, 1976, New York",
     "title":"Morning Walk — July 17, 1976, New York",
     "description":""
 }

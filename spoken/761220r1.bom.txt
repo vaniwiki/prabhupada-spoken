@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Rādhā-vallabha dāsa — December 20, 1976, Bombay",
     "h1":"Conversation with Rādhā-vallabha dāsa",
-    "label":"December 20, 1976, Bombay"
+    "label":"December 20, 1976, Bombay",
     "title":"Conversation with Rādhā-vallabha dāsa — December 20, 1976, Bombay",
     "description":""
 }

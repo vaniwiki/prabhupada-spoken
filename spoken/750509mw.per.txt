@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk on Beach — May 9, 1975, Perth",
     "h1":"Morning Walk on Beach",
-    "label":"May 9, 1975, Perth"
+    "label":"May 9, 1975, Perth",
     "title":"Morning Walk on Beach — May 9, 1975, Perth",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation With Baradrāj — October 16, 1977, Vṛndāvana",
     "h1":"Room Conversation With Baradrāj",
-    "label":"October 16, 1977, Vṛndāvana"
+    "label":"October 16, 1977, Vṛndāvana",
     "title":"Room Conversation With Baradrāj — October 16, 1977, Vṛndāvana",
     "description":""
 }

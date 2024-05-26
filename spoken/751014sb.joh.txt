@@ -2,7 +2,7 @@
 {
     "name":"SB 1.7.2-4 — October 14, 1975, Johannesburg",
     "h1":"SB 1.7.2-4",
-    "label":"October 14, 1975, Johannesburg"
+    "label":"October 14, 1975, Johannesburg",
     "title":"SB 1.7.2-4 — October 14, 1975, Johannesburg",
     "description":""
 }

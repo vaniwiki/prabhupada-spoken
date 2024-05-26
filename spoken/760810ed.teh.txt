@@ -2,7 +2,7 @@
 {
     "name":"Evening Darśana — August 10, 1976, Tehran",
     "h1":"Evening Darśana",
-    "label":"August 10, 1976, Tehran"
+    "label":"August 10, 1976, Tehran",
     "title":"Evening Darśana — August 10, 1976, Tehran",
     "description":""
 }

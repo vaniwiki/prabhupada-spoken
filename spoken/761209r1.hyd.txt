@@ -2,7 +2,7 @@
 {
     "name":"Preparation for Gītā Pratiṣṭhāna (Conference) — December 9, 1976, Hyderabad",
     "h1":"Preparation for Gītā Pratiṣṭhāna (Conference)",
-    "label":"December 9, 1976, Hyderabad"
+    "label":"December 9, 1976, Hyderabad",
     "title":"Preparation for Gītā Pratiṣṭhāna (Conference) — December 9, 1976, Hyderabad",
     "description":""
 }

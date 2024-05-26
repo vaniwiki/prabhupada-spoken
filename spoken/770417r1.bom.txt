@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation Meeting with Dr. Sharma (from Russia) — April 17, 1977, Bombay",
     "h1":"Room Conversation Meeting with Dr. Sharma (from Russia)",
-    "label":"April 17, 1977, Bombay"
+    "label":"April 17, 1977, Bombay",
     "title":"Room Conversation Meeting with Dr. Sharma (from Russia) — April 17, 1977, Bombay",
     "description":""
 }

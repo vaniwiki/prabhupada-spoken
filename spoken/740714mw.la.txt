@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk at Marina del Rey — July 14, 1974, Los Angeles",
     "h1":"Morning Walk at Marina del Rey",
-    "label":"July 14, 1974, Los Angeles"
+    "label":"July 14, 1974, Los Angeles",
     "title":"Morning Walk at Marina del Rey — July 14, 1974, Los Angeles",
     "description":""
 }

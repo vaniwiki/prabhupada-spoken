@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.19 and Conversation — November 15, 1970, Bombay",
     "h1":"SB 6.1.19 and Conversation",
-    "label":"November 15, 1970, Bombay"
+    "label":"November 15, 1970, Bombay",
     "title":"SB 6.1.19 and Conversation — November 15, 1970, Bombay",
     "description":""
 }

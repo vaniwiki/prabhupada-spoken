@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk, Partial Recording — June 1, 1974, Geneva",
     "h1":"Morning Walk, Partial Recording",
-    "label":"June 1, 1974, Geneva"
+    "label":"June 1, 1974, Geneva",
     "title":"Morning Walk, Partial Recording — June 1, 1974, Geneva",
     "description":""
 }

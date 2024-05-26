@@ -2,7 +2,7 @@
 {
     "name":"Sunday Feast Lecture — July 25, 1976, London",
     "h1":"Sunday Feast Lecture",
-    "label":"July 25, 1976, London"
+    "label":"July 25, 1976, London",
     "title":"Sunday Feast Lecture — July 25, 1976, London",
     "description":""
 }

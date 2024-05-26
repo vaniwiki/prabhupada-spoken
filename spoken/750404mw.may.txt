@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk [World War III] — April 4, 1975, Māyāpur",
     "h1":"Morning Walk [World War III]",
-    "label":"April 4, 1975, Māyāpur"
+    "label":"April 4, 1975, Māyāpur",
     "title":"Morning Walk [World War III] — April 4, 1975, Māyāpur",
     "description":""
 }

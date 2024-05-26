@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Mr. & Mrs. Wax — July 5, 1975, Chicago",
     "h1":"Room Conversation with Mr. & Mrs. Wax",
-    "label":"July 5, 1975, Chicago"
+    "label":"July 5, 1975, Chicago",
     "title":"Room Conversation with Mr. & Mrs. Wax — July 5, 1975, Chicago",
     "description":""
 }

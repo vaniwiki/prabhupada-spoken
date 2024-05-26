@@ -2,7 +2,7 @@
 {
     "name":"Conversation — June 21, 1972, Los Angeles",
     "h1":"Conversation",
-    "label":"June 21, 1972, Los Angeles"
+    "label":"June 21, 1972, Los Angeles",
     "title":"Conversation — June 21, 1972, Los Angeles",
     "description":""
 }

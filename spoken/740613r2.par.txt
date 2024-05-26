@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Russian Orthodox Church Representative — June 13, 1974, Paris",
     "h1":"Room Conversation with Russian Orthodox Church Representative",
-    "label":"June 13, 1974, Paris"
+    "label":"June 13, 1974, Paris",
     "title":"Room Conversation with Russian Orthodox Church Representative — June 13, 1974, Paris",
     "description":""
 }

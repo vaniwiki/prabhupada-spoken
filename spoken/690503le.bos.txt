@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Arlington Street Church — May 3, 1969, Boston",
     "h1":"Lecture at Arlington Street Church",
-    "label":"May 3, 1969, Boston"
+    "label":"May 3, 1969, Boston",
     "title":"Lecture at Arlington Street Church — May 3, 1969, Boston",
     "description":""
 }

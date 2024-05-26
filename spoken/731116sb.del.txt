@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Pandal — November 16, 1973, Delhi",
     "h1":"Lecture at Pandal",
-    "label":"November 16, 1973, Delhi"
+    "label":"November 16, 1973, Delhi",
     "title":"Lecture at Pandal — November 16, 1973, Delhi",
     "description":""
 }

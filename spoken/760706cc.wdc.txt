@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 20.101 — July 6, 1976, Washington, D.C.",
     "h1":"Cc. Madhya 20.101",
-    "label":"July 6, 1976, Washington, D.C."
+    "label":"July 6, 1976, Washington, D.C.",
     "title":"Cc. Madhya 20.101 — July 6, 1976, Washington, D.C.",
     "description":""
 }

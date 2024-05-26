@@ -2,7 +2,7 @@
 {
     "name":"Bg 4.10, Festival at Maison de Faubourg — May 31, 1974, Geneva",
     "h1":"Bg 4.10, Festival at Maison de Faubourg",
-    "label":"May 31, 1974, Geneva"
+    "label":"May 31, 1974, Geneva",
     "title":"Bg 4.10, Festival at Maison de Faubourg — May 31, 1974, Geneva",
     "description":""
 }

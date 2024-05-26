@@ -2,7 +2,7 @@
 {
     "name":"Television Interview — July 29, 1971, Gainesville",
     "h1":"Television Interview",
-    "label":"July 29, 1971, Gainesville"
+    "label":"July 29, 1971, Gainesville",
     "title":"Television Interview — July 29, 1971, Gainesville",
     "description":""
 }

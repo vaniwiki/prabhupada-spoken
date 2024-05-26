@@ -2,7 +2,7 @@
 {
     "name":"SB 1.1.3 — August 19, 1971, London",
     "h1":"SB 1.1.3",
-    "label":"August 19, 1971, London"
+    "label":"August 19, 1971, London",
     "title":"SB 1.1.3 — August 19, 1971, London",
     "description":""
 }

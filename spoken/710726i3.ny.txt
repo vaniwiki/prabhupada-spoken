@@ -2,7 +2,7 @@
 {
     "name":"Initiations and Sannyāsa — July 26, 1971, New York",
     "h1":"Initiations and Sannyāsa",
-    "label":"July 26, 1971, New York"
+    "label":"July 26, 1971, New York",
     "title":"Initiations and Sannyāsa — July 26, 1971, New York",
     "description":""
 }

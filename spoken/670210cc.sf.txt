@@ -2,7 +2,7 @@
 {
     "name":"Cc. Ādi 7.80-95 — February 10, 1966, San Francisco",
     "h1":"Cc. Ādi 7.80-95",
-    "label":"February 10, 1966, San Francisco"
+    "label":"February 10, 1966, San Francisco",
     "title":"Cc. Ādi 7.80-95 — February 10, 1966, San Francisco",
     "description":""
 }

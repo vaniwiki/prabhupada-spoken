@@ -2,7 +2,7 @@
 {
     "name":"Arrival — July 3, 1975, Chicago",
     "h1":"Arrival",
-    "label":"July 3, 1975, Chicago"
+    "label":"July 3, 1975, Chicago",
     "title":"Arrival — July 3, 1975, Chicago",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Lalita Bose — August 21, 1975, Bombay",
     "h1":"Room Conversation with Lalita Bose",
-    "label":"August 21, 1975, Bombay"
+    "label":"August 21, 1975, Bombay",
     "title":"Room Conversation with Lalita Bose — August 21, 1975, Bombay",
     "description":""
 }

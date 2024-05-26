@@ -2,7 +2,7 @@
 {
     "name":"Gurudāsa Sannyāsa and Harināma Initiations — July 21, 1975, San Francisco",
     "h1":"Gurudāsa Sannyāsa and Harināma Initiations",
-    "label":"July 21, 1975, San Francisco"
+    "label":"July 21, 1975, San Francisco",
     "title":"Gurudāsa Sannyāsa and Harināma Initiations — July 21, 1975, San Francisco",
     "description":""
 }

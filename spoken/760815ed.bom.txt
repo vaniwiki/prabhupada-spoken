@@ -2,7 +2,7 @@
 {
     "name":"Evening Darśana — August 15, 1976, Bombay",
     "h1":"Evening Darśana",
-    "label":"August 15, 1976, Bombay"
+    "label":"August 15, 1976, Bombay",
     "title":"Evening Darśana — August 15, 1976, Bombay",
     "description":""
 }

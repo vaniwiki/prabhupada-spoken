@@ -2,7 +2,7 @@
 {
     "name":"Talk — October 18, 1968, Seattle",
     "h1":"Talk",
-    "label":"October 18, 1968, Seattle"
+    "label":"October 18, 1968, Seattle",
     "title":"Talk — October 18, 1968, Seattle",
     "description":""
 }

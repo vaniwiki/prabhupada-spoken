@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.14 — February 14, 1975, Mexico City",
     "h1":"Bg 2.14 Lecture",
-    "label":"February 14, 1975, Mexico City"
+    "label":"February 14, 1975, Mexico City",
     "title":"Bg 2.14 — February 14, 1975, Mexico City",
     "description":""
 }

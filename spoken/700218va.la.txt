@@ -2,7 +2,7 @@
 {
     "name":"Varāha-dvādaśī — February 18, 1970, Los Angeles",
     "h1":"Varāha-dvādaśī",
-    "label":"February 18, 1970, Los Angeles"
+    "label":"February 18, 1970, Los Angeles",
     "title":"Varāha-dvādaśī — February 18, 1970, Los Angeles",
     "description":""
 }

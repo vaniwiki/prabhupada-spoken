@@ -2,7 +2,7 @@
 {
     "name":"Lecture — April 20, 1972, Tokyo",
     "h1":"Lecture",
-    "label":"April 20, 1972, Tokyo"
+    "label":"April 20, 1972, Tokyo",
     "title":"Lecture — April 20, 1972, Tokyo",
     "description":""
 }

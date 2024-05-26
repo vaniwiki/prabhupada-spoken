@@ -2,7 +2,7 @@
 {
     "name":"Interview with Religious Editor of the Associated Press — July 16, 1976, New York",
     "h1":"Interview with Religious Editor of the Associated Press",
-    "label":"July 16, 1976, New York"
+    "label":"July 16, 1976, New York",
     "title":"Interview with Religious Editor of the Associated Press — July 16, 1976, New York",
     "description":""
 }

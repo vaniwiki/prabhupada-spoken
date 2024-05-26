@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation: Varṇāśrama — July 14, 1977, Vṛndāvana",
     "h1":"Room Conversation: Varṇāśrama",
-    "label":"July 14, 1977, Vṛndāvana"
+    "label":"July 14, 1977, Vṛndāvana",
     "title":"Room Conversation: Varṇāśrama — July 14, 1977, Vṛndāvana",
     "description":""
 }

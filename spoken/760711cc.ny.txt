@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 20.105 — July 11, 1976, New York",
     "h1":"Cc. Madhya 20.105",
-    "label":"July 11, 1976, New York"
+    "label":"July 11, 1976, New York",
     "title":"Cc. Madhya 20.105 — July 11, 1976, New York",
     "description":""
 }

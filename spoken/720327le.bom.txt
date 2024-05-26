@@ -2,7 +2,7 @@
 {
     "name":"Lecture [partially recorded] — March 27, 1972, Bombay",
     "h1":"Lecture [partially recorded]",
-    "label":"March 27, 1972, Bombay"
+    "label":"March 27, 1972, Bombay",
     "title":"Lecture [partially recorded] — March 27, 1972, Bombay",
     "description":""
 }

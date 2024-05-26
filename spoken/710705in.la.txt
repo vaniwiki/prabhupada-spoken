@@ -2,7 +2,7 @@
 {
     "name":"Initiation Lecture [partially recorded] — July 5, 1971, Los Angeles",
     "h1":"Initiation Lecture [partially recorded]",
-    "label":"July 5, 1971, Los Angeles"
+    "label":"July 5, 1971, Los Angeles",
     "title":"Initiation Lecture [partially recorded] — July 5, 1971, Los Angeles",
     "description":""
 }

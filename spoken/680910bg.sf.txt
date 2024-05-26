@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.1 — September 10, 1968, San Francisco",
     "h1":"Bg 7.1 Lecture",
-    "label":"September 10, 1968, San Francisco"
+    "label":"September 10, 1968, San Francisco",
     "title":"Bg 7.1 — September 10, 1968, San Francisco",
     "description":""
 }

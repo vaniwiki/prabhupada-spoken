@@ -2,7 +2,7 @@
 {
     "name":"Purport to Gaura Pahū — January 10, 1969, Los Angeles",
     "h1":"Purport to Gaura Pahū",
-    "label":"January 10, 1969, Los Angeles"
+    "label":"January 10, 1969, Los Angeles",
     "title":"Purport to Gaura Pahū — January 10, 1969, Los Angeles",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.2 [Hindi] — October 30, 1973, Vṛndāvana",
     "h1":"Bg 7.2 Lecture [Hindi]",
-    "label":"October 30, 1973, Vṛndāvana"
+    "label":"October 30, 1973, Vṛndāvana",
     "title":"Bg 7.2 [Hindi] — October 30, 1973, Vṛndāvana",
     "description":""
 }

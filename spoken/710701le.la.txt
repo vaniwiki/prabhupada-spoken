@@ -2,7 +2,7 @@
 {
     "name":"Ratha-yātrā — July 1, 1971, Los Angeles",
     "h1":"Ratha-yātrā",
-    "label":"July 1, 1971, Los Angeles"
+    "label":"July 1, 1971, Los Angeles",
     "title":"Ratha-yātrā — July 1, 1971, Los Angeles",
     "description":""
 }

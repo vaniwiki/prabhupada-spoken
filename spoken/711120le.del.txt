@@ -2,7 +2,7 @@
 {
     "name":"Pandal Lecture — November 20, 1971, Delhi",
     "h1":"Pandal Lecture",
-    "label":"November 20, 1971, Delhi"
+    "label":"November 20, 1971, Delhi",
     "title":"Pandal Lecture — November 20, 1971, Delhi",
     "description":""
 }

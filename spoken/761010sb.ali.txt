@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.6 [Hindi] — October 10, 1976, Aligarh",
     "h1":"SB 1.2.6 [Hindi]",
-    "label":"October 10, 1976, Aligarh"
+    "label":"October 10, 1976, Aligarh",
     "title":"SB 1.2.6 [Hindi] — October 10, 1976, Aligarh",
     "description":""
 }

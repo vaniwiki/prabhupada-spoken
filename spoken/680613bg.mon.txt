@@ -2,7 +2,7 @@
 {
     "name":"Bg 4.7 — June 13, 1968, Montreal",
     "h1":"Bg 4.7 Lecture",
-    "label":"June 13, 1968, Montreal"
+    "label":"June 13, 1968, Montreal",
     "title":"Bg 4.7 — June 13, 1968, Montreal",
     "description":""
 }

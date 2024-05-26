@@ -2,7 +2,7 @@
 {
     "name":"SB 7.6.3-4 — March 8, 1967, San Francisco",
     "h1":"SB 7.6.3-4",
-    "label":"March 8, 1967, San Francisco"
+    "label":"March 8, 1967, San Francisco",
     "title":"SB 7.6.3-4 — March 8, 1967, San Francisco",
     "description":""
 }

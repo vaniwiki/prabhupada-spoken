@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk at Buddha Jayanti Park — August 30, 1976, Delhi",
     "h1":"Morning Walk at Buddha Jayanti Park",
-    "label":"August 30, 1976, Delhi"
+    "label":"August 30, 1976, Delhi",
     "title":"Morning Walk at Buddha Jayanti Park — August 30, 1976, Delhi",
     "description":""
 }

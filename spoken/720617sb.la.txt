@@ -2,7 +2,7 @@
 {
     "name":"SB 2.3.20-21 — June 17, 1972, Los Angeles",
     "h1":"SB 2.3.20-21",
-    "label":"June 17, 1972, Los Angeles"
+    "label":"June 17, 1972, Los Angeles",
     "title":"SB 2.3.20-21 — June 17, 1972, Los Angeles",
     "description":""
 }

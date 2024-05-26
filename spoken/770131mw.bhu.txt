@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — January 31, 1977, Bhubaneswar",
     "h1":"Morning Walk",
-    "label":"January 31, 1977, Bhubaneswar"
+    "label":"January 31, 1977, Bhubaneswar",
     "title":"Morning Walk — January 31, 1977, Bhubaneswar",
     "description":""
 }

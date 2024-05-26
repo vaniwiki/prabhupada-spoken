@@ -2,7 +2,7 @@
 {
     "name":"Purport to Hare Krishna Maha Mantra — July 10, 1971, Los Angeles",
     "h1":"Purport to Hare Krishna Maha Mantra",
-    "label":"July 10, 1971, Los Angeles"
+    "label":"July 10, 1971, Los Angeles",
     "title":"Purport to Hare Krishna Maha Mantra — July 10, 1971, Los Angeles",
     "description":""
 }

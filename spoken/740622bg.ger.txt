@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.13 — June 22, 1974, Germany",
     "h1":"Bg 2.13 Lecture",
-    "label":"June 22, 1974, Germany"
+    "label":"June 22, 1974, Germany",
     "title":"Bg 2.13 — June 22, 1974, Germany",
     "description":""
 }

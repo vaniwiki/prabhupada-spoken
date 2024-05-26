@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.1 — August 22, 1976, Hyderabad",
     "h1":"Bg 7.1 Lecture",
-    "label":"August 22, 1976, Hyderabad"
+    "label":"August 22, 1976, Hyderabad",
     "title":"Bg 7.1 — August 22, 1976, Hyderabad",
     "description":""
 }

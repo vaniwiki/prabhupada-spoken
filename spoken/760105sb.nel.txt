@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.6 — January 5, 1976, Nellore",
     "h1":"SB 6.1.6",
-    "label":"January 5, 1976, Nellore"
+    "label":"January 5, 1976, Nellore",
     "title":"SB 6.1.6 — January 5, 1976, Nellore",
     "description":""
 }

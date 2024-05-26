@@ -2,7 +2,7 @@
 {
     "name":"L.A. Magazine Interview — June 10, 1976, Los Angeles",
     "h1":"L.A. Magazine Interview",
-    "label":"June 10, 1976, Los Angeles"
+    "label":"June 10, 1976, Los Angeles",
     "title":"L.A. Magazine Interview — June 10, 1976, Los Angeles",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Lecture — April 1, 1977, Bombay",
     "h1":"Lecture",
-    "label":"April 1, 1977, Bombay"
+    "label":"April 1, 1977, Bombay",
     "title":"Lecture — April 1, 1977, Bombay",
     "description":""
 }

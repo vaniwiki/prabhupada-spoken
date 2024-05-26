@@ -2,7 +2,7 @@
 {
     "name":"SB 7.7.28, 32-35 — September 11, 1971, Mombassa",
     "h1":"SB 7.7.28, 32-35",
-    "label":"September 11, 1971, Mombassa"
+    "label":"September 11, 1971, Mombassa",
     "title":"SB 7.7.28, 32-35 — September 11, 1971, Mombassa",
     "description":""
 }

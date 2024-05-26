@@ -2,7 +2,7 @@
 {
     "name":"Cc. Ādi 1.3 — March 27, 1975, Māyāpur",
     "h1":"Cc. Ādi 1.3",
-    "label":"March 27, 1975, Māyāpur"
+    "label":"March 27, 1975, Māyāpur",
     "title":"Cc. Ādi 1.3 — March 27, 1975, Māyāpur",
     "description":""
 }

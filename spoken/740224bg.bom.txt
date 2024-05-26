@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.9-10 — February 24, 1974, Bombay",
     "h1":"Bg 7.9-10 Lecture",
-    "label":"February 24, 1974, Bombay"
+    "label":"February 24, 1974, Bombay",
     "title":"Bg 7.9-10 — February 24, 1974, Bombay",
     "description":""
 }

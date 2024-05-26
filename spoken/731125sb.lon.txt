@@ -2,7 +2,7 @@
 {
     "name":"SB 1.10.4 — November 25, 1973, London",
     "h1":"SB 1.10.4",
-    "label":"November 25, 1973, London"
+    "label":"November 25, 1973, London",
     "title":"SB 1.10.4 — November 25, 1973, London",
     "description":""
 }

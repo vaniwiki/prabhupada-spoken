@@ -2,7 +2,7 @@
 {
     "name":"Evening Darśana — May 11, 1977, Rishikesh",
     "h1":"Evening Darśana",
-    "label":"May 11, 1977, Rishikesh"
+    "label":"May 11, 1977, Rishikesh",
     "title":"Evening Darśana — May 11, 1977, Rishikesh",
     "description":""
 }

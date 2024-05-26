@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 6.154 — November 24, 1975, Bombay",
     "h1":"Cc. Madhya 6.154",
-    "label":"November 24, 1975, Bombay"
+    "label":"November 24, 1975, Bombay",
     "title":"Cc. Madhya 6.154 — November 24, 1975, Bombay",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — January 13, 1976, Calcutta",
     "h1":"Morning Walk",
-    "label":"January 13, 1976, Calcutta"
+    "label":"January 13, 1976, Calcutta",
     "title":"Morning Walk — January 13, 1976, Calcutta",
     "description":""
 }

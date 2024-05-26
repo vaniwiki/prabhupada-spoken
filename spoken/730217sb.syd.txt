@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.6 — February 17, 1973, Sydney",
     "h1":"SB 6.1.6",
-    "label":"February 17, 1973, Sydney"
+    "label":"February 17, 1973, Sydney",
     "title":"SB 6.1.6 — February 17, 1973, Sydney",
     "description":""
 }

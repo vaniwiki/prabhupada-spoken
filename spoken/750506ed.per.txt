@@ -2,7 +2,7 @@
 {
     "name":"Evening Discussion — May 6, 1975, Perth",
     "h1":"Evening Discussion",
-    "label":"May 6, 1975, Perth"
+    "label":"May 6, 1975, Perth",
     "title":"Evening Discussion — May 6, 1975, Perth",
     "description":""
 }

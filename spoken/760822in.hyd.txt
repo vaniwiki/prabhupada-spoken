@@ -2,7 +2,7 @@
 {
     "name":"Initiation Lecture — August 22, 1976, Hyderabad",
     "h1":"Initiation Lecture",
-    "label":"August 22, 1976, Hyderabad"
+    "label":"August 22, 1976, Hyderabad",
     "title":"Initiation Lecture — August 22, 1976, Hyderabad",
     "description":""
 }

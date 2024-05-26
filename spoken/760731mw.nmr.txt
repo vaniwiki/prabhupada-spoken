@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk Around Farm — July 31, 1976, New Māyāpur",
     "h1":"Morning Walk Around Farm",
-    "label":"July 31, 1976, New Māyāpur"
+    "label":"July 31, 1976, New Māyāpur",
     "title":"Morning Walk Around Farm — July 31, 1976, New Māyāpur",
     "description":""
 }

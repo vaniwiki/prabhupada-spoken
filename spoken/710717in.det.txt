@@ -2,7 +2,7 @@
 {
     "name":"Initiation Lecture [partially recorded] — July 17, 1971, Detroit",
     "h1":"Initiation Lecture [partially recorded]",
-    "label":"July 17, 1971, Detroit"
+    "label":"July 17, 1971, Detroit",
     "title":"Initiation Lecture [partially recorded] — July 17, 1971, Detroit",
     "description":""
 }

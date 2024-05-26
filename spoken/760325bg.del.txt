@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.11, Rotary Club Address at Hotel Imperial — March 25, 1976, Delhi",
     "h1":"Bg 2.11, Rotary Club Address at Hotel Imperial",
-    "label":"March 25, 1976, Delhi"
+    "label":"March 25, 1976, Delhi",
     "title":"Bg 2.11, Rotary Club Address at Hotel Imperial — March 25, 1976, Delhi",
     "description":""
 }

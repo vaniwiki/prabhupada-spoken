@@ -2,7 +2,7 @@
 {
     "name":"Nitāi Guṇa Mani Āmāra — September 23, 1972, Los Angeles",
     "h1":"Nitāi Guṇa Mani Āmāra",
-    "label":"September 23, 1972, Los Angeles"
+    "label":"September 23, 1972, Los Angeles",
     "title":"Nitāi Guṇa Mani Āmāra — September 23, 1972, Los Angeles",
     "description":""
 }

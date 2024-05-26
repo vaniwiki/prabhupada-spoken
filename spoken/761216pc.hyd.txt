@@ -2,7 +2,7 @@
 {
     "name":"Press Conference — December 16, 1976, Hyderabad",
     "h1":"Press Conference",
-    "label":"December 16, 1976, Hyderabad"
+    "label":"December 16, 1976, Hyderabad",
     "title":"Press Conference — December 16, 1976, Hyderabad",
     "description":""
 }

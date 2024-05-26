@@ -2,7 +2,7 @@
 {
     "name":"Roof Conversation — March 27, 1974, Bombay",
     "h1":"Roof Conversation",
-    "label":"March 27, 1974, Bombay"
+    "label":"March 27, 1974, Bombay",
     "title":"Roof Conversation — March 27, 1974, Bombay",
     "description":""
 }

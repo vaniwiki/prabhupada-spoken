@@ -2,7 +2,7 @@
 {
     "name":"Bg 4.24-34 — August 12, 1966, New York",
     "h1":"Bg 4.24-34 Lecture",
-    "label":"August 12, 1966, New York"
+    "label":"August 12, 1966, New York",
     "title":"Bg 4.24-34 — August 12, 1966, New York",
     "description":""
 }

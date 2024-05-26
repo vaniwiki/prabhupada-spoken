@@ -2,7 +2,7 @@
 {
     "name":"Arrival Lecture — April 19, 1976, Melbourne",
     "h1":"Arrival Lecture",
-    "label":"April 19, 1976, Melbourne"
+    "label":"April 19, 1976, Melbourne",
     "title":"Arrival Lecture — April 19, 1976, Melbourne",
     "description":""
 }

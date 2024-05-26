@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation [Hindi] — July 27, 1976, London",
     "h1":"Room Conversation [Hindi]",
-    "label":"July 27, 1976, London"
+    "label":"July 27, 1976, London",
     "title":"Room Conversation [Hindi] — July 27, 1976, London",
     "description":""
 }

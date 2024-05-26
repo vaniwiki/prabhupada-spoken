@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.14-16 — March 24, 1967, San Francisco",
     "h1":"SB 1.2.14-16",
-    "label":"March 24, 1967, San Francisco"
+    "label":"March 24, 1967, San Francisco",
     "title":"SB 1.2.14-16 — March 24, 1967, San Francisco",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Hare Krishna Festival Address — July 1, 1972, San Diego",
     "h1":"Hare Krishna Festival Address",
-    "label":"July 1, 1972, San Diego"
+    "label":"July 1, 1972, San Diego",
     "title":"Hare Krishna Festival Address — July 1, 1972, San Diego",
     "description":""
 }

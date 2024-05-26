@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk at Villa Borghese — May 26, 1974, Rome",
     "h1":"Morning Walk at Villa Borghese",
-    "label":"May 26, 1974, Rome"
+    "label":"May 26, 1974, Rome",
     "title":"Morning Walk at Villa Borghese — May 26, 1974, Rome",
     "description":""
 }

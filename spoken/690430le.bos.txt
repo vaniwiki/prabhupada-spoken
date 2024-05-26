@@ -2,7 +2,7 @@
 {
     "name":"Northeastern University Lecture — April 30, 1969, Boston",
     "h1":"Northeastern University Lecture",
-    "label":"April 30, 1969, Boston"
+    "label":"April 30, 1969, Boston",
     "title":"Northeastern University Lecture — April 30, 1969, Boston",
     "description":""
 }

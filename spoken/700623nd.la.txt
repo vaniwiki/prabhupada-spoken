@@ -2,7 +2,7 @@
 {
     "name":"The Nectar of Devotion — June 23, 1970, Los Angeles",
     "h1":"The Nectar of Devotion",
-    "label":"June 23, 1970, Los Angeles"
+    "label":"June 23, 1970, Los Angeles",
     "title":"The Nectar of Devotion — June 23, 1970, Los Angeles",
     "description":""
 }

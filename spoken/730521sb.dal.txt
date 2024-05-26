@@ -2,7 +2,7 @@
 {
     "name":"SB 3.1.10 — May 21, 1973, Dallas",
     "h1":"SB 3.1.10",
-    "label":"May 21, 1973, Dallas"
+    "label":"May 21, 1973, Dallas",
     "title":"SB 3.1.10 — May 21, 1973, Dallas",
     "description":""
 }

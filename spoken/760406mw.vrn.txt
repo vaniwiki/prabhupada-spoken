@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk [partially recorded] — April 6, 1976, Vṛndāvana",
     "h1":"Morning Walk [partially recorded]",
-    "label":"April 6, 1976, Vṛndāvana"
+    "label":"April 6, 1976, Vṛndāvana",
     "title":"Morning Walk [partially recorded] — April 6, 1976, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — June 20, 1974, Germany",
     "h1":"Room Conversation",
-    "label":"June 20, 1974, Germany"
+    "label":"June 20, 1974, Germany",
     "title":"Room Conversation — June 20, 1974, Germany",
     "description":""
 }

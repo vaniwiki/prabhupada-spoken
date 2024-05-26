@@ -2,7 +2,7 @@
 {
     "name":"Meeting with Bruno Gnan, Italian Printer — August 5, 1976, New Māyāpur",
     "h1":"Meeting with Bruno Gnan, Italian Printer",
-    "label":"August 5, 1976, New Māyāpur"
+    "label":"August 5, 1976, New Māyāpur",
     "title":"Meeting with Bruno Gnan, Italian Printer — August 5, 1976, New Māyāpur",
     "description":""
 }

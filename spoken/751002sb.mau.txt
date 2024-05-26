@@ -2,7 +2,7 @@
 {
     "name":"SB 7.5.30 — October 2, 1975, Mauritius",
     "h1":"SB 7.5.30",
-    "label":"October 2, 1975, Mauritius"
+    "label":"October 2, 1975, Mauritius",
     "title":"SB 7.5.30 — October 2, 1975, Mauritius",
     "description":""
 }

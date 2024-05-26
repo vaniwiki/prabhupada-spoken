@@ -2,7 +2,7 @@
 {
     "name":"Brāhmaṇa Initiation Lecture — May 25, 1969, New Vrindaban",
     "h1":"Brāhmaṇa Initiation Lecture",
-    "label":"May 25, 1969, New Vrindaban"
+    "label":"May 25, 1969, New Vrindaban",
     "title":"Brāhmaṇa Initiation Lecture — May 25, 1969, New Vrindaban",
     "description":""
 }

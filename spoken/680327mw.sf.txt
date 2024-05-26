@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk at Stow Lake — March 27, 1968, San Francisco",
     "h1":"Morning Walk at Stow Lake",
-    "label":"March 27, 1968, San Francisco"
+    "label":"March 27, 1968, San Francisco",
     "title":"Morning Walk at Stow Lake — March 27, 1968, San Francisco",
     "description":""
 }

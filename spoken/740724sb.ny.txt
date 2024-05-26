@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.20 — July 24, 1974, New York",
     "h1":"SB 1.2.20",
-    "label":"July 24, 1974, New York"
+    "label":"July 24, 1974, New York",
     "title":"SB 1.2.20 — July 24, 1974, New York",
     "description":""
 }

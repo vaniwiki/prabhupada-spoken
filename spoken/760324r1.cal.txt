@@ -2,7 +2,7 @@
 {
     "name":"Talk at Rādhā-Govinda Mandir — March 24, 1976, Calcutta",
     "h1":"Talk at Rādhā-Govinda Mandir",
-    "label":"March 24, 1976, Calcutta"
+    "label":"March 24, 1976, Calcutta",
     "title":"Talk at Rādhā-Govinda Mandir — March 24, 1976, Calcutta",
     "description":""
 }

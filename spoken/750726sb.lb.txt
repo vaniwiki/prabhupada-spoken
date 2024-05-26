@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.45 — July 26, 1975, Laguna Beach",
     "h1":"SB 6.1.45",
-    "label":"July 26, 1975, Laguna Beach"
+    "label":"July 26, 1975, Laguna Beach",
     "title":"SB 6.1.45 — July 26, 1975, Laguna Beach",
     "description":""
 }

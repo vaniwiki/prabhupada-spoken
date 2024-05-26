@@ -2,7 +2,7 @@
 {
     "name":"Lecture — October 14, 1975, Johannesburg",
     "h1":"Lecture",
-    "label":"October 14, 1975, Johannesburg"
+    "label":"October 14, 1975, Johannesburg",
     "title":"Lecture — October 14, 1975, Johannesburg",
     "description":""
 }

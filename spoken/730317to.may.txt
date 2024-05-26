@@ -2,7 +2,7 @@
 {
     "name":"Māyāpur Temple Inauguration — March 17, 1973, Māyāpur",
     "h1":"Māyāpur Temple Inauguration",
-    "label":"March 17, 1973, Māyāpur"
+    "label":"March 17, 1973, Māyāpur",
     "title":"Māyāpur Temple Inauguration — March 17, 1973, Māyāpur",
     "description":""
 }

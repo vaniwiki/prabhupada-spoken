@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Patita-pāvana — April 20, 1977, Bombay",
     "h1":"Conversation with Patita-pāvana",
-    "label":"April 20, 1977, Bombay"
+    "label":"April 20, 1977, Bombay",
     "title":"Conversation with Patita-pāvana — April 20, 1977, Bombay",
     "description":""
 }

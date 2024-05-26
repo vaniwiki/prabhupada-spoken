@@ -2,7 +2,7 @@
 {
     "name":"Interview — March 9, 1968, San Francisco",
     "h1":"Interview",
-    "label":"March 9, 1968, San Francisco"
+    "label":"March 9, 1968, San Francisco",
     "title":"Interview — March 9, 1968, San Francisco",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Lecture — March 23, 1969, Hawaii",
     "h1":"Lecture",
-    "label":"March 23, 1969, Hawaii"
+    "label":"March 23, 1969, Hawaii",
     "title":"Lecture — March 23, 1969, Hawaii",
     "description":""
 }

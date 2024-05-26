@@ -2,7 +2,7 @@
 {
     "name":"Talk in Studio — March 13, 1968, San Francisco",
     "h1":"Talk in Studio",
-    "label":"March 13, 1968, San Francisco"
+    "label":"March 13, 1968, San Francisco",
     "title":"Talk in Studio — March 13, 1968, San Francisco",
     "description":""
 }

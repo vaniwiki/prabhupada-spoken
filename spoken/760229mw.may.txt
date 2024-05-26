@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk [partially recorded] — February 29, 1976, Māyāpur",
     "h1":"Morning Walk [partially recorded]",
-    "label":"February 29, 1976, Māyāpur"
+    "label":"February 29, 1976, Māyāpur",
     "title":"Morning Walk [partially recorded] — February 29, 1976, Māyāpur",
     "description":""
 }

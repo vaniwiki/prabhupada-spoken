@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 20.110-111 — November 17, 1975, Bombay",
     "h1":"Cc. Madhya 20.110-111",
-    "label":"November 17, 1975, Bombay"
+    "label":"November 17, 1975, Bombay",
     "title":"Cc. Madhya 20.110-111 — November 17, 1975, Bombay",
     "description":""
 }

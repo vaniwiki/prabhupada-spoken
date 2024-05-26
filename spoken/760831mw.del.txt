@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — August 31, 1976, Delhi",
     "h1":"Morning Walk",
-    "label":"August 31, 1976, Delhi"
+    "label":"August 31, 1976, Delhi",
     "title":"Morning Walk — August 31, 1976, Delhi",
     "description":""
 }

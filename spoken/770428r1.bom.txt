@@ -2,7 +2,7 @@
 {
     "name":"Conversation: Vairāgya, Salaries, and Political Etiquette — April 28, 1977, Bombay",
     "h1":"Conversation: Vairāgya, Salaries, and Political Etiquette",
-    "label":"April 28, 1977, Bombay"
+    "label":"April 28, 1977, Bombay",
     "title":"Conversation: Vairāgya, Salaries, and Political Etiquette — April 28, 1977, Bombay",
     "description":""
 }

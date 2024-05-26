@@ -2,7 +2,7 @@
 {
     "name":"Lecture at San Diego University — June 29, 1972, San Diego",
     "h1":"Lecture at San Diego University",
-    "label":"June 29, 1972, San Diego"
+    "label":"June 29, 1972, San Diego",
     "title":"Lecture at San Diego University — June 29, 1972, San Diego",
     "description":""
 }

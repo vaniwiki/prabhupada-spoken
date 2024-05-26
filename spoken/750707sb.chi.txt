@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.23 — July 7, 1975, Chicago",
     "h1":"SB 6.1.23",
-    "label":"July 7, 1975, Chicago"
+    "label":"July 7, 1975, Chicago",
     "title":"SB 6.1.23 — July 7, 1975, Chicago",
     "description":""
 }

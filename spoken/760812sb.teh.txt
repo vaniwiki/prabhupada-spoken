@@ -2,7 +2,7 @@
 {
     "name":"SB 3.22.22 and Initiations — August 12, 1976, Tehran",
     "h1":"SB 3.22.22 and Initiations",
-    "label":"August 12, 1976, Tehran"
+    "label":"August 12, 1976, Tehran",
     "title":"SB 3.22.22 and Initiations — August 12, 1976, Tehran",
     "description":""
 }

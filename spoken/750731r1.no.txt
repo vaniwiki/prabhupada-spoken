@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — July 31, 1975, New Orleans",
     "h1":"Room Conversation",
-    "label":"July 31, 1975, New Orleans"
+    "label":"July 31, 1975, New Orleans",
     "title":"Room Conversation — July 31, 1975, New Orleans",
     "description":""
 }

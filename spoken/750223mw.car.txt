@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — February 23, 1975, Caracas",
     "h1":"Morning Walk",
-    "label":"February 23, 1975, Caracas"
+    "label":"February 23, 1975, Caracas",
     "title":"Morning Walk — February 23, 1975, Caracas",
     "description":""
 }

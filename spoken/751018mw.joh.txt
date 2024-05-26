@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — October 18, 1975, Johannesburg",
     "h1":"Morning Walk",
-    "label":"October 18, 1975, Johannesburg"
+    "label":"October 18, 1975, Johannesburg",
     "title":"Morning Walk — October 18, 1975, Johannesburg",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Garden Conversation — September 11, 1974, Vṛndāvana",
     "h1":"Garden Conversation",
-    "label":"September 11, 1974, Vṛndāvana"
+    "label":"September 11, 1974, Vṛndāvana",
     "title":"Garden Conversation — September 11, 1974, Vṛndāvana",
     "description":""
 }

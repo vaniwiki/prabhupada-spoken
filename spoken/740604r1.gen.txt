@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Prof. Regamay — June 4, 1974, Geneva",
     "h1":"Room Conversation with Prof. Regamay",
-    "label":"June 4, 1974, Geneva"
+    "label":"June 4, 1974, Geneva",
     "title":"Room Conversation with Prof. Regamay — June 4, 1974, Geneva",
     "description":""
 }

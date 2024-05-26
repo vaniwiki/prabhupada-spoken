@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — August 7, 1972, London",
     "h1":"Room Conversation",
-    "label":"August 7, 1972, London"
+    "label":"August 7, 1972, London",
     "title":"Room Conversation — August 7, 1972, London",
     "description":""
 }

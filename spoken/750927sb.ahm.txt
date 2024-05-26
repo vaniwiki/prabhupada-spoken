@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.6 [Hindi] — September 27, 1975, Ahmedabad",
     "h1":"SB 1.2.6 [Hindi]",
-    "label":"September 27, 1975, Ahmedabad"
+    "label":"September 27, 1975, Ahmedabad",
     "title":"SB 1.2.6 [Hindi] — September 27, 1975, Ahmedabad",
     "description":""
 }

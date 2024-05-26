@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.39 — July 20, 1975, San Francisco",
     "h1":"SB 6.1.39",
-    "label":"July 20, 1975, San Francisco"
+    "label":"July 20, 1975, San Francisco",
     "title":"SB 6.1.39 — July 20, 1975, San Francisco",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Morning Conversation — May 29, 1977, Vṛndāvana",
     "h1":"Morning Conversation",
-    "label":"May 29, 1977, Vṛndāvana"
+    "label":"May 29, 1977, Vṛndāvana",
     "title":"Morning Conversation — May 29, 1977, Vṛndāvana",
     "description":""
 }

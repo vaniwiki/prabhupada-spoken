@@ -2,7 +2,7 @@
 {
     "name":"SB 7.6.20-23 — July 3, 1976, Washington D.C.",
     "h1":"SB 7.6.20-23",
-    "label":"July 3, 1976, Washington D.C."
+    "label":"July 3, 1976, Washington D.C.",
     "title":"SB 7.6.20-23 — July 3, 1976, Washington D.C.",
     "description":""
 }

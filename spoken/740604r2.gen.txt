@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Biochemist Dr. Sallaz — June 4, 1974, Geneva",
     "h1":"Room Conversation with Biochemist Dr. Sallaz",
-    "label":"June 4, 1974, Geneva"
+    "label":"June 4, 1974, Geneva",
     "title":"Room Conversation with Biochemist Dr. Sallaz — June 4, 1974, Geneva",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.49 — June 15, 1976, Detroit",
     "h1":"SB 6.1.49",
-    "label":"June 15, 1976, Detroit"
+    "label":"June 15, 1976, Detroit",
     "title":"SB 6.1.49 — June 15, 1976, Detroit",
     "description":""
 }

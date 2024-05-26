@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Indo-American Society — January 31, 1973, Calcutta",
     "h1":"Lecture at Indo-American Society",
-    "label":"January 31, 1973, Calcutta"
+    "label":"January 31, 1973, Calcutta",
     "title":"Lecture at Indo-American Society — January 31, 1973, Calcutta",
     "description":""
 }

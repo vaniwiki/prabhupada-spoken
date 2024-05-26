@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk. Tour of Māyāpur Grounds — January 17, 1976, Māyāpur",
     "h1":"Morning Walk. Tour of Māyāpur Grounds",
-    "label":"January 17, 1976, Māyāpur"
+    "label":"January 17, 1976, Māyāpur",
     "title":"Morning Walk. Tour of Māyāpur Grounds — January 17, 1976, Māyāpur",
     "description":""
 }

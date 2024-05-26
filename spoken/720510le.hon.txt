@@ -2,7 +2,7 @@
 {
     "name":"Lecture — May 10, 1972, Honolulu",
     "h1":"Lecture",
-    "label":"May 10, 1972, Honolulu"
+    "label":"May 10, 1972, Honolulu",
     "title":"Lecture — May 10, 1972, Honolulu",
     "description":""
 }

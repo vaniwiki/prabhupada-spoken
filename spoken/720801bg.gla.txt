@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.11 — August 1, 1972, Glasgow",
     "h1":"Bg 2.11 Lecture",
-    "label":"August 1, 1972, Glasgow"
+    "label":"August 1, 1972, Glasgow",
     "title":"Bg 2.11 — August 1, 1972, Glasgow",
     "description":""
 }

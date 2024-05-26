@@ -2,7 +2,7 @@
 {
     "name":"SB 1.9.49 — June 15, 1973, Māyāpur",
     "h1":"SB 1.9.49",
-    "label":"June 15, 1973, Māyāpur"
+    "label":"June 15, 1973, Māyāpur",
     "title":"SB 1.9.49 — June 15, 1973, Māyāpur",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Conversation about Old Days in Calcutta — July 1, 1977, Vṛndāvana",
     "h1":"Conversation about Old Days in Calcutta",
-    "label":"July 1, 1977, Vṛndāvana"
+    "label":"July 1, 1977, Vṛndāvana",
     "title":"Conversation about Old Days in Calcutta — July 1, 1977, Vṛndāvana",
     "description":""
 }

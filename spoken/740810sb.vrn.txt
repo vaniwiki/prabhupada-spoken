@@ -2,7 +2,7 @@
 {
     "name":"SB 1.5.29 — August 10, 1974, Vṛndāvana",
     "h1":"SB 1.5.29",
-    "label":"August 10, 1974, Vṛndāvana"
+    "label":"August 10, 1974, Vṛndāvana",
     "title":"SB 1.5.29 — August 10, 1974, Vṛndāvana",
     "description":""
 }

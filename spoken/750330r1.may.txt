@@ -1,6 +1,13 @@
-~~Title: Conversation with a German Girl and Devotees — March 30, 1975, Māyāpur~~
-~~bc: March 30, 1975, Māyāpur~~
-~~bc: Conversation — March 30, 1975, Māyāpur~~
+---json
+{
+    "name":"Conversation with a German Girl and Devotees — March 30, 1975, Māyāpur",
+    "h1":"Conversation with a German Girl and Devotees",
+    "label":"March 30, 1975, Māyāpur",
+    "title":"Conversation with a German Girl and Devotees — March 30, 1975, Māyāpur",
+    "description":""
+}
+---
+
 ====== Conversation with a German Girl and Devotees ======
 
 **Haṁsadūta:**

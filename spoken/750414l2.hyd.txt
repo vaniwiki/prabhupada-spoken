@@ -2,7 +2,7 @@
 {
     "name":"Life Member House Lecture — April 14, 1975, Hyderabad",
     "h1":"Life Member House Lecture",
-    "label":"April 14, 1975, Hyderabad"
+    "label":"April 14, 1975, Hyderabad",
     "title":"Life Member House Lecture — April 14, 1975, Hyderabad",
     "description":""
 }

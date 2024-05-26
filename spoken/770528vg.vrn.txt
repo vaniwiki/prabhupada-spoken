@@ -2,7 +2,7 @@
 {
     "name":"Śrīla Prabhupāda Vigil — May 28-29, 1977, Vṛndāvana",
     "h1":"Śrīla Prabhupāda Vigil",
-    "label":"May 28-29, 1977, Vṛndāvana"
+    "label":"May 28-29, 1977, Vṛndāvana",
     "title":"Śrīla Prabhupāda Vigil — May 28-29, 1977, Vṛndāvana",
     "description":""
 }

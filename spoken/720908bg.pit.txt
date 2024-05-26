@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.13 — September 8, 1972, Pittsburgh",
     "h1":"Bg 2.13 Lecture",
-    "label":"September 8, 1972, Pittsburgh"
+    "label":"September 8, 1972, Pittsburgh",
     "title":"Bg 2.13 — September 8, 1972, Pittsburgh",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Initiation of Ambarīṣa dāsa — June 3, 1975, Honolulu",
     "h1":"Initiation of Ambarīṣa dāsa",
-    "label":"June 3, 1975, Honolulu"
+    "label":"June 3, 1975, Honolulu",
     "title":"Initiation of Ambarīṣa dāsa — June 3, 1975, Honolulu",
     "description":""
 }

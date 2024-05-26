@@ -2,7 +2,7 @@
 {
     "name":"SB 7.9.19 — September 7, 1969, Hamburg",
     "h1":"SB 7.9.19",
-    "label":"September 7, 1969, Hamburg"
+    "label":"September 7, 1969, Hamburg",
     "title":"SB 7.9.19 — September 7, 1969, Hamburg",
     "description":""
 }

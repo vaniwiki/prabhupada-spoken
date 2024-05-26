@@ -2,7 +2,7 @@
 {
     "name":"Lecture Bengali — March 10, 1974, Calcutta",
     "h1":"Lecture Bengali",
-    "label":"March 10, 1974, Calcutta"
+    "label":"March 10, 1974, Calcutta",
     "title":"Lecture Bengali — March 10, 1974, Calcutta",
     "description":""
 }

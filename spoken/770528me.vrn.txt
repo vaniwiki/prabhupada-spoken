@@ -2,7 +2,7 @@
 {
     "name":"GBC Meets with Śrīla Prabhupāda — May 28, 1977, Vṛndāvana",
     "h1":"GBC Meets with Śrīla Prabhupāda",
-    "label":"May 28, 1977, Vṛndāvana"
+    "label":"May 28, 1977, Vṛndāvana",
     "title":"GBC Meets with Śrīla Prabhupāda — May 28, 1977, Vṛndāvana",
     "description":""
 }

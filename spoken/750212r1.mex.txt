@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Sanskrit Professor — February 12, 1975, Mexico City",
     "h1":"Room Conversation with Sanskrit Professor",
-    "label":"February 12, 1975, Mexico City"
+    "label":"February 12, 1975, Mexico City",
     "title":"Room Conversation with Sanskrit Professor — February 12, 1975, Mexico City",
     "description":""
 }

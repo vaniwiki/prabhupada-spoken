@@ -2,7 +2,7 @@
 {
     "name":"Kṛṣṇadāsa Kavirāja Gosvāmī’s Appearance Day — October 19, 1972, Vṛndāvana",
     "h1":"Kṛṣṇadāsa Kavirāja Gosvāmī’s Appearance Day",
-    "label":"October 19, 1972, Vṛndāvana"
+    "label":"October 19, 1972, Vṛndāvana",
     "title":"Kṛṣṇadāsa Kavirāja Gosvāmī’s Appearance Day — October 19, 1972, Vṛndāvana",
     "description":""
 }

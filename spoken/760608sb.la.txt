@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.42 — June 8, 1976, Los Angeles",
     "h1":"SB 6.1.42",
-    "label":"June 8, 1976, Los Angeles"
+    "label":"June 8, 1976, Los Angeles",
     "title":"SB 6.1.42 — June 8, 1976, Los Angeles",
     "description":""
 }

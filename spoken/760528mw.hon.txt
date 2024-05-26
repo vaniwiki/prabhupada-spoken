@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — May 28, 1976, Honolulu",
     "h1":"Morning Walk",
-    "label":"May 28, 1976, Honolulu"
+    "label":"May 28, 1976, Honolulu",
     "title":"Morning Walk — May 28, 1976, Honolulu",
     "description":""
 }

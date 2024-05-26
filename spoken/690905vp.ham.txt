@@ -2,7 +2,7 @@
 {
     "name":"Śrī Vyāsa-pūjā — September 5, 1969, Hamburg",
     "h1":"Śrī Vyāsa-pūjā",
-    "label":"September 5, 1969, Hamburg"
+    "label":"September 5, 1969, Hamburg",
     "title":"Śrī Vyāsa-pūjā — September 5, 1969, Hamburg",
     "description":""
 }

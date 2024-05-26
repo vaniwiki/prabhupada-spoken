@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.2 [Hindi] — December 28, 1975, Sanand",
     "h1":"Bg 7.2 Lecture [Hindi]",
-    "label":"December 28, 1975, Sanand"
+    "label":"December 28, 1975, Sanand",
     "title":"Bg 7.2 [Hindi] — December 28, 1975, Sanand",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Sannyāsa Initiation — February 20, 1970, Los Angeles",
     "h1":"Sannyāsa Initiation",
-    "label":"February 20, 1970, Los Angeles"
+    "label":"February 20, 1970, Los Angeles",
     "title":"Sannyāsa Initiation — February 20, 1970, Los Angeles",
     "description":""
 }

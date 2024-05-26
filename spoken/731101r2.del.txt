@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation about Rādhā-Dāmodara Property — November 1, 1973, Delhi",
     "h1":"Room Conversation about Rādhā-Dāmodara Property",
-    "label":"November 1, 1973, Delhi"
+    "label":"November 1, 1973, Delhi",
     "title":"Room Conversation about Rādhā-Dāmodara Property — November 1, 1973, Delhi",
     "description":""
 }

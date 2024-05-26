@@ -2,7 +2,7 @@
 {
     "name":"Lecture about Māyāvāda Philosophy — May 17, 1976, Honolulu",
     "h1":"Lecture about Māyāvāda Philosophy",
-    "label":"May 17, 1976, Honolulu"
+    "label":"May 17, 1976, Honolulu",
     "title":"Lecture about Māyāvāda Philosophy — May 17, 1976, Honolulu",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Arrival Address — September 11, 1969, London",
     "h1":"Arrival Address",
-    "label":"September 11, 1969, London"
+    "label":"September 11, 1969, London",
     "title":"Arrival Address — September 11, 1969, London",
     "description":""
 }

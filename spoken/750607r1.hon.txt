@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Yogi Bhajan — June 7, 1975, Honolulu",
     "h1":"Room Conversation with Yogi Bhajan",
-    "label":"June 7, 1975, Honolulu"
+    "label":"June 7, 1975, Honolulu",
     "title":"Room Conversation with Yogi Bhajan — June 7, 1975, Honolulu",
     "description":""
 }

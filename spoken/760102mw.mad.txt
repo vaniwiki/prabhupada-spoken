@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — January 2, 1976, Madras",
     "h1":"Morning Walk",
-    "label":"January 2, 1976, Madras"
+    "label":"January 2, 1976, Madras",
     "title":"Morning Walk — January 2, 1976, Madras",
     "description":""
 }

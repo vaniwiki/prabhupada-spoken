@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 20.98-99 — July 4, 1976, Washington, D.C.",
     "h1":"Cc. Madhya 20.98-99",
-    "label":"July 4, 1976, Washington, D.C."
+    "label":"July 4, 1976, Washington, D.C.",
     "title":"Cc. Madhya 20.98-99 — July 4, 1976, Washington, D.C.",
     "description":""
 }

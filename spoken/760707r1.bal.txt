@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — July 7, 1976, Baltimore",
     "h1":"Room Conversation",
-    "label":"July 7, 1976, Baltimore"
+    "label":"July 7, 1976, Baltimore",
     "title":"Room Conversation — July 7, 1976, Baltimore",
     "description":""
 }

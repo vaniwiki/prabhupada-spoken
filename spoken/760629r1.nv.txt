@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — June 29, 1976, New Vrindavan",
     "h1":"Room Conversation",
-    "label":"June 29, 1976, New Vrindavan"
+    "label":"June 29, 1976, New Vrindavan",
     "title":"Room Conversation — June 29, 1976, New Vrindavan",
     "description":""
 }

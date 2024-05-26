@@ -2,7 +2,7 @@
 {
     "name":"Initiation of Hṛṣīkeśa Dāsā, Marriage of Satsvarūpa and Jadurāṇī — September 5, 1968, New York",
     "h1":"Initiation of Hṛṣīkeśa Dāsā, Marriage of Satsvarūpa and Jadurāṇī",
-    "label":"September 5, 1968, New York"
+    "label":"September 5, 1968, New York",
     "title":"Initiation of Hṛṣīkeśa Dāsā, Marriage of Satsvarūpa and Jadurāṇī — September 5, 1968, New York",
     "description":""
 }

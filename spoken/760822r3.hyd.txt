@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Seven Ministers of Andhra Pradesh — August 22, 1976, Hyderabad",
     "h1":"Conversation with Seven Ministers of Andhra Pradesh",
-    "label":"August 22, 1976, Hyderabad"
+    "label":"August 22, 1976, Hyderabad",
     "title":"Conversation with Seven Ministers of Andhra Pradesh — August 22, 1976, Hyderabad",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Dai Nippon Representative — April 22, 1972, Tokyo",
     "h1":"Room Conversation with Dai Nippon Representative",
-    "label":"April 22, 1972, Tokyo"
+    "label":"April 22, 1972, Tokyo",
     "title":"Room Conversation with Dai Nippon Representative — April 22, 1972, Tokyo",
     "description":""
 }

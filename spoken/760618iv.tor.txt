@@ -2,7 +2,7 @@
 {
     "name":"Interview with Kathy Kerr Reporter from The Star — June 18, 1976, Toronto",
     "h1":"Interview with Kathy Kerr Reporter from The Star",
-    "label":"June 18, 1976, Toronto"
+    "label":"June 18, 1976, Toronto",
     "title":"Interview with Kathy Kerr Reporter from The Star — June 18, 1976, Toronto",
     "description":""
 }

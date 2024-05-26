@@ -2,7 +2,7 @@
 {
     "name":"Śrīla Prabhupāda Welcomed by Governor at Hotel de Ville — May 30, 1974, Geneva",
     "h1":"Śrīla Prabhupāda Welcomed by Governor at Hotel de Ville",
-    "label":"May 30, 1974, Geneva"
+    "label":"May 30, 1974, Geneva",
     "title":"Śrīla Prabhupāda Welcomed by Governor at Hotel de Ville — May 30, 1974, Geneva",
     "description":""
 }

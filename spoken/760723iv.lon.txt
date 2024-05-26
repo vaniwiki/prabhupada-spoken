@@ -2,7 +2,7 @@
 {
     "name":"Interview with Colin Cross Religion Editor of The Observer — July 23, 1976, London",
     "h1":"Interview with Colin Cross Religion Editor of The Observer",
-    "label":"July 23, 1976, London"
+    "label":"July 23, 1976, London",
     "title":"Interview with Colin Cross Religion Editor of The Observer — July 23, 1976, London",
     "description":""
 }

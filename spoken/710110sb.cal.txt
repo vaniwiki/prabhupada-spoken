@@ -2,7 +2,7 @@
 {
     "name":"SB 6.2.5-8 — January 10, 1971, Calcutta",
     "h1":"SB 6.2.5-8",
-    "label":"January 10, 1971, Calcutta"
+    "label":"January 10, 1971, Calcutta",
     "title":"SB 6.2.5-8 — January 10, 1971, Calcutta",
     "description":""
 }

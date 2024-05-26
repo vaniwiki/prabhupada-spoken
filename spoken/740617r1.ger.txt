@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with German Women Philosophers — June 17, 1974, Germany",
     "h1":"Room Conversation with German Women Philosophers",
-    "label":"June 17, 1974, Germany"
+    "label":"June 17, 1974, Germany",
     "title":"Room Conversation with German Women Philosophers — June 17, 1974, Germany",
     "description":""
 }

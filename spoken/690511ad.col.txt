@@ -2,7 +2,7 @@
 {
     "name":"Address to Indian Association — May 11, 1969, Columbus",
     "h1":"Address to Indian Association",
-    "label":"May 11, 1969, Columbus"
+    "label":"May 11, 1969, Columbus",
     "title":"Address to Indian Association — May 11, 1969, Columbus",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Evening Darśana — September 1, 1976, Delhi",
     "h1":"Evening Darśana",
-    "label":"September 1, 1976, Delhi"
+    "label":"September 1, 1976, Delhi",
     "title":"Evening Darśana — September 1, 1976, Delhi",
     "description":""
 }

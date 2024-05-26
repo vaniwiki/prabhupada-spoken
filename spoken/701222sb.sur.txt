@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.40 — December 22, 1970, Surat",
     "h1":"SB 6.1.40",
-    "label":"December 22, 1970, Surat"
+    "label":"December 22, 1970, Surat",
     "title":"SB 6.1.40 — December 22, 1970, Surat",
     "description":""
 }

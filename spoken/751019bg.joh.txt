@@ -2,7 +2,7 @@
 {
     "name":"Bg 4.13 — October 19, 1975, Johannesburg",
     "h1":"Bg 4.13 Lecture",
-    "label":"October 19, 1975, Johannesburg"
+    "label":"October 19, 1975, Johannesburg",
     "title":"Bg 4.13 — October 19, 1975, Johannesburg",
     "description":""
 }

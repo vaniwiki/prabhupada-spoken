@@ -2,7 +2,7 @@
 {
     "name":"Mānasa Deha Geha and Purport — September 22, 1972, Los Angeles",
     "h1":"Mānasa Deha Geha and Purport",
-    "label":"September 22, 1972, Los Angeles"
+    "label":"September 22, 1972, Los Angeles",
     "title":"Mānasa Deha Geha and Purport — September 22, 1972, Los Angeles",
     "description":""
 }

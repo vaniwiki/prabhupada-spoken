@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Nandarāṇī and Ali — August 9, 1976, Tehran",
     "h1":"Room Conversation with Nandarāṇī and Ali",
-    "label":"August 9, 1976, Tehran"
+    "label":"August 9, 1976, Tehran",
     "title":"Room Conversation with Nandarāṇī and Ali — August 9, 1976, Tehran",
     "description":""
 }

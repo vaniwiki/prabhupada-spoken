@@ -2,7 +2,7 @@
 {
     "name":"Chanting Śrīmad-Bhagavatam 5.5.6-16 — November 11, 1973, Delhi",
     "h1":"Chanting Śrīmad-Bhagavatam 5.5.6-16",
-    "label":"November 11, 1973, Delhi"
+    "label":"November 11, 1973, Delhi",
     "title":"Chanting Śrīmad-Bhagavatam 5.5.6-16 — November 11, 1973, Delhi",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Departure Lecture — February 18, 1975, Mexico City",
     "h1":"Departure Lecture",
-    "label":"February 18, 1975, Mexico City"
+    "label":"February 18, 1975, Mexico City",
     "title":"Departure Lecture — February 18, 1975, Mexico City",
     "description":""
 }

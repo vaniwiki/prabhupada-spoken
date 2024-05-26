@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.55 — August 11, 1975, Paris",
     "h1":"SB 6.1.55",
-    "label":"August 11, 1975, Paris"
+    "label":"August 11, 1975, Paris",
     "title":"SB 6.1.55 — August 11, 1975, Paris",
     "description":""
 }

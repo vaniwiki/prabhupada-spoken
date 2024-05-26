@@ -2,7 +2,7 @@
 {
     "name":"Arrival Lecture — April 13, 1973, Los Angeles",
     "h1":"Arrival Lecture",
-    "label":"April 13, 1973, Los Angeles"
+    "label":"April 13, 1973, Los Angeles",
     "title":"Arrival Lecture — April 13, 1973, Los Angeles",
     "description":""
 }

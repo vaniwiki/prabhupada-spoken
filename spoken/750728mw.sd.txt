@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — July 28, 1975, San Diego",
     "h1":"Morning Walk",
-    "label":"July 28, 1975, San Diego"
+    "label":"July 28, 1975, San Diego",
     "title":"Morning Walk — July 28, 1975, San Diego",
     "description":""
 }

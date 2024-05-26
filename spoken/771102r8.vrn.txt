@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation Kavirāja Visit — November 2, 1977, Vṛndāvana",
     "h1":"Room Conversation Kavirāja Visit",
-    "label":"November 2, 1977, Vṛndāvana"
+    "label":"November 2, 1977, Vṛndāvana",
     "title":"Room Conversation Kavirāja Visit — November 2, 1977, Vṛndāvana",
     "description":""
 }

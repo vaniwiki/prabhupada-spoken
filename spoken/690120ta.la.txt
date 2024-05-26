@@ -2,7 +2,7 @@
 {
     "name":"Talk Before Lecture — January 20, 1969, Los Angeles",
     "h1":"Talk Before Lecture",
-    "label":"January 20, 1969, Los Angeles"
+    "label":"January 20, 1969, Los Angeles",
     "title":"Talk Before Lecture — January 20, 1969, Los Angeles",
     "description":""
 }

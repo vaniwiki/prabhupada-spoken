@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — July 9, 1975, Chicago",
     "h1":"Morning Walk",
-    "label":"July 9, 1975, Chicago"
+    "label":"July 9, 1975, Chicago",
     "title":"Morning Walk — July 9, 1975, Chicago",
     "description":""
 }

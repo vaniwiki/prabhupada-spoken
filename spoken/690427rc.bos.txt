@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — April 27, 1969, Boston",
     "h1":"Room Conversation",
-    "label":"April 27, 1969, Boston"
+    "label":"April 27, 1969, Boston",
     "title":"Room Conversation — April 27, 1969, Boston",
     "description":""
 }

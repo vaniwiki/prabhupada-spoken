@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.28-29 — July 13, 1975, Philadelphia",
     "h1":"SB 6.1.28-29",
-    "label":"July 13, 1975, Philadelphia"
+    "label":"July 13, 1975, Philadelphia",
     "title":"SB 6.1.28-29 — July 13, 1975, Philadelphia",
     "description":""
 }

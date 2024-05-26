@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with David Wynne, Sculptor — July 9, 1973, London",
     "h1":"Room Conversation with David Wynne, Sculptor",
-    "label":"July 9, 1973, London"
+    "label":"July 9, 1973, London",
     "title":"Room Conversation with David Wynne, Sculptor — July 9, 1973, London",
     "description":""
 }

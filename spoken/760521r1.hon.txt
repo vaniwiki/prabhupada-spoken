@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation About Deity-Making and Tulasi Tea — May 21, 1976, Honolulu",
     "h1":"Room Conversation About Deity-Making and Tulasi Tea",
-    "label":"May 21, 1976, Honolulu"
+    "label":"May 21, 1976, Honolulu",
     "title":"Room Conversation About Deity-Making and Tulasi Tea — May 21, 1976, Honolulu",
     "description":""
 }

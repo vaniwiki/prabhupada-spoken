@@ -2,7 +2,7 @@
 {
     "name":"Cc. Ādi 7.119 — February 17, 1971, Gorakhpur",
     "h1":"Cc. Ādi 7.119",
-    "label":"February 17, 1971, Gorakhpur"
+    "label":"February 17, 1971, Gorakhpur",
     "title":"Cc. Ādi 7.119 — February 17, 1971, Gorakhpur",
     "description":""
 }

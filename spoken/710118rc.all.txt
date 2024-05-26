@@ -2,7 +2,7 @@
 {
     "name":"Discussions — January 18, 1971, Allahabad",
     "h1":"Discussions",
-    "label":"January 18, 1971, Allahabad"
+    "label":"January 18, 1971, Allahabad",
     "title":"Discussions — January 18, 1971, Allahabad",
     "description":""
 }

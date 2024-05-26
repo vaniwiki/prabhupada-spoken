@@ -2,7 +2,7 @@
 {
     "name":"Lecture: “Nobody Wants to Die” — May 7, 1968, Boston",
     "h1":"Lecture: “Nobody Wants to Die”",
-    "label":"May 7, 1968, Boston"
+    "label":"May 7, 1968, Boston",
     "title":"Lecture: “Nobody Wants to Die” — May 7, 1968, Boston",
     "description":""
 }

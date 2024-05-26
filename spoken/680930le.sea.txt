@@ -2,7 +2,7 @@
 {
     "name":"Lecture — September 30, 1968, Seattle",
     "h1":"Lecture",
-    "label":"September 30, 1968, Seattle"
+    "label":"September 30, 1968, Seattle",
     "title":"Lecture — September 30, 1968, Seattle",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Bob Cohen — July 4, 1972, New York",
     "h1":"Room Conversation with Bob Cohen",
-    "label":"July 4, 1972, New York"
+    "label":"July 4, 1972, New York",
     "title":"Room Conversation with Bob Cohen — July 4, 1972, New York",
     "description":""
 }

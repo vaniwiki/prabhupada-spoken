@@ -2,7 +2,7 @@
 {
     "name":"Purport to Gaurāṇgera Duṭi Pada — January 6, 1969, Los Angeles",
     "h1":"Purport to Gaurāṇgera Duṭi Pada",
-    "label":"January 6, 1969, Los Angeles"
+    "label":"January 6, 1969, Los Angeles",
     "title":"Purport to Gaurāṇgera Duṭi Pada — January 6, 1969, Los Angeles",
     "description":""
 }

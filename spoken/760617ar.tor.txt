@@ -2,7 +2,7 @@
 {
     "name":"Arrival Address — June 17, 1976, Toronto",
     "h1":"Arrival Address",
-    "label":"June 17, 1976, Toronto"
+    "label":"June 17, 1976, Toronto",
     "title":"Arrival Address — June 17, 1976, Toronto",
     "description":""
 }

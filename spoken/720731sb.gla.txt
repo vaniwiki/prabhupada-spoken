@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.5 — July 31, 1972, Glasgow",
     "h1":"SB 1.2.5",
-    "label":"July 31, 1972, Glasgow"
+    "label":"July 31, 1972, Glasgow",
     "title":"SB 1.2.5 — July 31, 1972, Glasgow",
     "description":""
 }

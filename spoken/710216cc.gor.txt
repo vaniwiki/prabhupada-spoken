@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 6.154 — February 16, 1971, Gorakhpur",
     "h1":"Cc. Madhya 6.154",
-    "label":"February 16, 1971, Gorakhpur"
+    "label":"February 16, 1971, Gorakhpur",
     "title":"Cc. Madhya 6.154 — February 16, 1971, Gorakhpur",
     "description":""
 }

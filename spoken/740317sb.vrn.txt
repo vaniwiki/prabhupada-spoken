@@ -2,7 +2,7 @@
 {
     "name":"SB 2.1.2 [Significance of Ṣaḍ-gosvāmy-aṣṭaka] — March 17, 1974, Vṛndāvana",
     "h1":"SB 2.1.2 [Significance of Ṣaḍ-gosvāmy-aṣṭaka]",
-    "label":"March 17, 1974, Vṛndāvana"
+    "label":"March 17, 1974, Vṛndāvana",
     "title":"SB 2.1.2 [Significance of Ṣaḍ-gosvāmy-aṣṭaka] — March 17, 1974, Vṛndāvana",
     "description":""
 }

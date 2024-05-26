@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — December 13, 1970, Indore",
     "h1":"Room Conversation",
-    "label":"December 13, 1970, Indore"
+    "label":"December 13, 1970, Indore",
     "title":"Room Conversation — December 13, 1970, Indore",
     "description":""
 }

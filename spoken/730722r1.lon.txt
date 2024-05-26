@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Dr. Arnold Toynbee — July 22, 1973, London",
     "h1":"Room Conversation with Dr. Arnold Toynbee",
-    "label":"July 22, 1973, London"
+    "label":"July 22, 1973, London",
     "title":"Room Conversation with Dr. Arnold Toynbee — July 22, 1973, London",
     "description":""
 }

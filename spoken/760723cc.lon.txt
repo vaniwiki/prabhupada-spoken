@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 20.113 — July 23, 1976, London",
     "h1":"Cc. Madhya 20.113",
-    "label":"July 23, 1976, London"
+    "label":"July 23, 1976, London",
     "title":"Cc. Madhya 20.113 — July 23, 1976, London",
     "description":""
 }

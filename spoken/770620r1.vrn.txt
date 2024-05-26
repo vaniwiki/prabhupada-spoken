@@ -2,7 +2,7 @@
 {
     "name":"Talk with Svarūpa Dāmodara — June 20, 1977, Vṛndāvana",
     "h1":"Talk with Svarūpa Dāmodara",
-    "label":"June 20, 1977, Vṛndāvana"
+    "label":"June 20, 1977, Vṛndāvana",
     "title":"Talk with Svarūpa Dāmodara — June 20, 1977, Vṛndāvana",
     "description":""
 }

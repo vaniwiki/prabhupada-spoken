@@ -2,7 +2,7 @@
 {
     "name":"Conway Hall Lecture — September 15, 1969, London",
     "h1":"Conway Hall Lecture",
-    "label":"September 15, 1969, London"
+    "label":"September 15, 1969, London",
     "title":"Conway Hall Lecture — September 15, 1969, London",
     "description":""
 }

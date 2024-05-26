@@ -2,7 +2,7 @@
 {
     "name":"Conversation Pieces — May 27, 1977, Vṛndāvana",
     "h1":"Conversation Pieces",
-    "label":"May 27, 1977, Vṛndāvana"
+    "label":"May 27, 1977, Vṛndāvana",
     "title":"Conversation Pieces — May 27, 1977, Vṛndāvana",
     "description":""
 }

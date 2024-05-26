@@ -2,7 +2,7 @@
 {
     "name":"Lecture — January 21, 1977, Bhubaneswar",
     "h1":"Lecture",
-    "label":"January 21, 1977, Bhubaneswar"
+    "label":"January 21, 1977, Bhubaneswar",
     "title":"Lecture — January 21, 1977, Bhubaneswar",
     "description":""
 }

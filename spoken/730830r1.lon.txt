@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Police Officer — August 30, 1973, London",
     "h1":"Room Conversation with Police Officer",
-    "label":"August 30, 1973, London"
+    "label":"August 30, 1973, London",
     "title":"Room Conversation with Police Officer — August 30, 1973, London",
     "description":""
 }

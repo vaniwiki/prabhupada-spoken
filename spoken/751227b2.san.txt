@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.7 [with Translator] — December 27, 1975, Sanand",
     "h1":"Bg 7.7 [with Translator]",
-    "label":"December 27, 1975, Sanand"
+    "label":"December 27, 1975, Sanand",
     "title":"Bg 7.7 [with Translator] — December 27, 1975, Sanand",
     "description":""
 }

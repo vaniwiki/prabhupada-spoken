@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Roger Maria — June 12, 1974, Paris",
     "h1":"Room Conversation with Roger Maria",
-    "label":"June 12, 1974, Paris"
+    "label":"June 12, 1974, Paris",
     "title":"Room Conversation with Roger Maria — June 12, 1974, Paris",
     "description":""
 }

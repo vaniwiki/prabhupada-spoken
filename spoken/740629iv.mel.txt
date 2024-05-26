@@ -2,7 +2,7 @@
 {
     "name":"Reporters’ Interview — June 29, 1974, Melbourne",
     "h1":"Reporters’ Interview",
-    "label":"June 29, 1974, Melbourne"
+    "label":"June 29, 1974, Melbourne",
     "title":"Reporters’ Interview — June 29, 1974, Melbourne",
     "description":""
 }

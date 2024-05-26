@@ -2,7 +2,7 @@
 {
     "name":"Press Interview — December 30, 1968, Los Angeles",
     "h1":"Press Interview",
-    "label":"December 30, 1968, Los Angeles"
+    "label":"December 30, 1968, Los Angeles",
     "title":"Press Interview — December 30, 1968, Los Angeles",
     "description":""
 }

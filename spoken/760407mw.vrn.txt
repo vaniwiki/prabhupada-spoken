@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk in Raṅga Gardens — April 7, 1976, Vṛndāvana",
     "h1":"Morning Walk in Raṅga Gardens",
-    "label":"April 7, 1976, Vṛndāvana"
+    "label":"April 7, 1976, Vṛndāvana",
     "title":"Morning Walk in Raṅga Gardens — April 7, 1976, Vṛndāvana",
     "description":""
 }

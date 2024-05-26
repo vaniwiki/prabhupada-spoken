@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 20.152-154 — December 5, 1966, New York",
     "h1":"Cc. Madhya 20.152-154",
-    "label":"December 5, 1966, New York"
+    "label":"December 5, 1966, New York",
     "title":"Cc. Madhya 20.152-154 — December 5, 1966, New York",
     "description":""
 }

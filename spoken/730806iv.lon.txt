@@ -2,7 +2,7 @@
 {
     "name":"Interview with Reporters — August 6, 1973, London",
     "h1":"Interview with Reporters",
-    "label":"August 6, 1973, London"
+    "label":"August 6, 1973, London",
     "title":"Interview with Reporters — August 6, 1973, London",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Bg 18.45 — October 11, 1975, Durban",
     "h1":"Bg 18.45 Lecture",
-    "label":"October 11, 1975, Durban"
+    "label":"October 11, 1975, Durban",
     "title":"Bg 18.45 — October 11, 1975, Durban",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Ian Polsen — August 2, 1972, London",
     "h1":"Room Conversation with Ian Polsen",
-    "label":"August 2, 1972, London"
+    "label":"August 2, 1972, London",
     "title":"Room Conversation with Ian Polsen — August 2, 1972, London",
     "description":""
 }

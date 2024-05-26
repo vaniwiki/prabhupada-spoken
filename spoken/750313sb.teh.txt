@@ -2,7 +2,7 @@
 {
     "name":"SB 1.10.3-4 — March 13, 1975, Tehran",
     "h1":"SB 1.10.3-4",
-    "label":"March 13, 1975, Tehran"
+    "label":"March 13, 1975, Tehran",
     "title":"SB 1.10.3-4 — March 13, 1975, Tehran",
     "description":""
 }

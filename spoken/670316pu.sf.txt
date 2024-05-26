@@ -2,7 +2,7 @@
 {
     "name":"Purport to Bhajahu Re Mana — March 16, 1967, San Francisco",
     "h1":"Purport to Bhajahu Re Mana",
-    "label":"March 16, 1967, San Francisco"
+    "label":"March 16, 1967, San Francisco",
     "title":"Purport to Bhajahu Re Mana — March 16, 1967, San Francisco",
     "description":""
 }

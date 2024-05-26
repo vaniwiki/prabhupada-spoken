@@ -2,7 +2,7 @@
 {
     "name":"SB 1.8.18-19 — April 9, 1971, Bombay",
     "h1":"SB 1.8.18-19",
-    "label":"April 9, 1971, Bombay"
+    "label":"April 9, 1971, Bombay",
     "title":"SB 1.8.18-19 — April 9, 1971, Bombay",
     "description":""
 }

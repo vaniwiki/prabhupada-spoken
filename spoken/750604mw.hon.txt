@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk at Waikiki Beach — June 4, 1975, Honolulu",
     "h1":"Morning Walk at Waikiki Beach",
-    "label":"June 4, 1975, Honolulu"
+    "label":"June 4, 1975, Honolulu",
     "title":"Morning Walk at Waikiki Beach — June 4, 1975, Honolulu",
     "description":""
 }

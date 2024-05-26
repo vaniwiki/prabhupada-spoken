@@ -2,7 +2,7 @@
 {
     "name":"SB 7.9.37 — March 15, 1976, Māyāpur",
     "h1":"SB 7.9.37",
-    "label":"March 15, 1976, Māyāpur"
+    "label":"March 15, 1976, Māyāpur",
     "title":"SB 7.9.37 — March 15, 1976, Māyāpur",
     "description":""
 }

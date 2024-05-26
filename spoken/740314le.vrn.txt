@@ -2,7 +2,7 @@
 {
     "name":"Lecture — March 14, 1974, Vṛndāvana",
     "h1":"Lecture",
-    "label":"March 14, 1974, Vṛndāvana"
+    "label":"March 14, 1974, Vṛndāvana",
     "title":"Lecture — March 14, 1974, Vṛndāvana",
     "description":""
 }

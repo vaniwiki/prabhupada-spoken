@@ -2,7 +2,7 @@
 {
     "name":"Lecture — September 14, 1969, London",
     "h1":"Lecture",
-    "label":"September 14, 1969, London"
+    "label":"September 14, 1969, London",
     "title":"Lecture — September 14, 1969, London",
     "description":""
 }

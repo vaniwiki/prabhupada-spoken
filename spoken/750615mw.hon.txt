@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — June 15, 1975, Honolulu",
     "h1":"Morning Walk",
-    "label":"June 15, 1975, Honolulu"
+    "label":"June 15, 1975, Honolulu",
     "title":"Morning Walk — June 15, 1975, Honolulu",
     "description":""
 }

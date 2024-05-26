@@ -2,7 +2,7 @@
 {
     "name":"SB 5.5.1 [Hindi] — August 29, 1976, Delhi",
     "h1":"SB 5.5.1 [Hindi]",
-    "label":"August 29, 1976, Delhi"
+    "label":"August 29, 1976, Delhi",
     "title":"SB 5.5.1 [Hindi] — August 29, 1976, Delhi",
     "description":""
 }

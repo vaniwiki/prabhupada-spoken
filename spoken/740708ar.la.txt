@@ -2,7 +2,7 @@
 {
     "name":"Arrival Address — July 8, 1974, Los Angeles",
     "h1":"Arrival Address",
-    "label":"July 8, 1974, Los Angeles"
+    "label":"July 8, 1974, Los Angeles",
     "title":"Arrival Address — July 8, 1974, Los Angeles",
     "description":""
 }

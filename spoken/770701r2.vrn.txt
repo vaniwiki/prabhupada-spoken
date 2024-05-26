@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Alice Coltrane — July 1, 1977, Vṛndāvana",
     "h1":"Room Conversation with Alice Coltrane",
-    "label":"July 1, 1977, Vṛndāvana"
+    "label":"July 1, 1977, Vṛndāvana",
     "title":"Room Conversation with Alice Coltrane — July 1, 1977, Vṛndāvana",
     "description":""
 }

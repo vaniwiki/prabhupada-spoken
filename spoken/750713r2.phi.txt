@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Reporter Sandy Nixon and Anne Jackson — July 13, 1975, Philadelphia",
     "h1":"Room Conversation with Reporter Sandy Nixon and Anne Jackson",
-    "label":"July 13, 1975, Philadelphia"
+    "label":"July 13, 1975, Philadelphia",
     "title":"Room Conversation with Reporter Sandy Nixon and Anne Jackson — July 13, 1975, Philadelphia",
     "description":""
 }

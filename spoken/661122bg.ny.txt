@@ -2,7 +2,7 @@
 {
     "name":"Bg 9.2 — November 22, 1966, New York",
     "h1":"Bg 9.2 Lecture",
-    "label":"November 22, 1966, New York"
+    "label":"November 22, 1966, New York",
     "title":"Bg 9.2 — November 22, 1966, New York",
     "description":""
 }

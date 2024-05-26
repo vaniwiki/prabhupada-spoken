@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 20.137-146 — February 24, 1971, Bombay",
     "h1":"Cc. Madhya 20.137-146",
-    "label":"February 24, 1971, Bombay"
+    "label":"February 24, 1971, Bombay",
     "title":"Cc. Madhya 20.137-146 — February 24, 1971, Bombay",
     "description":""
 }

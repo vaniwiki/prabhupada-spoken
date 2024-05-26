@@ -1,7 +1,7 @@
 ---json
 {
     "name":"Introduction to Gītopaniṣad",
-    "h1":"Introduction to Gītopaniṣad",,
+    "h1":"Introduction to Gītopaniṣad",
     "label":"Feb 19, Feb 20, 1966, New York",
     "title":"Introduction to Gītopaniṣad — February 19, February 20, 1966, New York",
     "description":"[Earliest Recording of Śrīla Prabhupāda in the Bhaktivedanta Archives]"

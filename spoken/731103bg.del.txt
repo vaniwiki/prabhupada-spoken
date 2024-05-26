@@ -2,7 +2,7 @@
 {
     "name":"Bg 3.9 — November 3, 1973, Delhi",
     "h1":"Bg 3.9 Lecture",
-    "label":"November 3, 1973, Delhi"
+    "label":"November 3, 1973, Delhi",
     "title":"Bg 3.9 — November 3, 1973, Delhi",
     "description":""
 }

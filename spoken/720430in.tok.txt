@@ -2,7 +2,7 @@
 {
     "name":"SB 11.23.57, Initiations and Sannyāsa of Sudāmā — April 30, 1972, Tokyo",
     "h1":"SB 11.23.57, Initiations and Sannyāsa of Sudāmā",
-    "label":"April 30, 1972, Tokyo"
+    "label":"April 30, 1972, Tokyo",
     "title":"SB 11.23.57, Initiations and Sannyāsa of Sudāmā — April 30, 1972, Tokyo",
     "description":""
 }

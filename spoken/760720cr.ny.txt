@@ -2,7 +2,7 @@
 {
     "name":"Car Ride — July 20, 1976, New York",
     "h1":"Car Ride",
-    "label":"July 20, 1976, New York"
+    "label":"July 20, 1976, New York",
     "title":"Car Ride — July 20, 1976, New York",
     "description":""
 }

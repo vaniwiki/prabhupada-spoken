@@ -2,7 +2,7 @@
 {
     "name":"Bg 13.1-2 — February 25, 1975, Miami",
     "h1":"Bg 13.1-2 Lecture",
-    "label":"February 25, 1975, Miami"
+    "label":"February 25, 1975, Miami",
     "title":"Bg 13.1-2 — February 25, 1975, Miami",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Initiation Lecture — August 22, 1971, London",
     "h1":"Initiation Lecture",
-    "label":"August 22, 1971, London"
+    "label":"August 22, 1971, London",
     "title":"Initiation Lecture — August 22, 1971, London",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 7.12.3 — April 14, 1976, Bombay",
     "h1":"SB 7.12.3",
-    "label":"April 14, 1976, Bombay"
+    "label":"April 14, 1976, Bombay",
     "title":"SB 7.12.3 — April 14, 1976, Bombay",
     "description":""
 }

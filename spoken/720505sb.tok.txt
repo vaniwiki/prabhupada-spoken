@@ -2,7 +2,7 @@
 {
     "name":"SB 2.9.16 — May 5, 1972, Tokyo",
     "h1":"SB 2.9.16",
-    "label":"May 5, 1972, Tokyo"
+    "label":"May 5, 1972, Tokyo",
     "title":"SB 2.9.16 — May 5, 1972, Tokyo",
     "description":""
 }

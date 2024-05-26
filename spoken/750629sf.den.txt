@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.6, Sunday Feast — June 29, 1975, Denver",
     "h1":"SB 1.2.6, Sunday Feast",
-    "label":"June 29, 1975, Denver"
+    "label":"June 29, 1975, Denver",
     "title":"SB 1.2.6, Sunday Feast — June 29, 1975, Denver",
     "description":""
 }

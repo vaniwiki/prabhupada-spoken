@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation With Yogi Bhajan and Jain Muni — July 21, 1975, San Francisco",
     "h1":"Room Conversation With Yogi Bhajan and Jain Muni",
-    "label":"July 21, 1975, San Francisco"
+    "label":"July 21, 1975, San Francisco",
     "title":"Room Conversation With Yogi Bhajan and Jain Muni — July 21, 1975, San Francisco",
     "description":""
 }

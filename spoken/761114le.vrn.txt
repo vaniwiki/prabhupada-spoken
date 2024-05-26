@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Hindi] — November 14, 1976, Vṛndāvana",
     "h1":"Lecture [Hindi]",
-    "label":"November 14, 1976, Vṛndāvana"
+    "label":"November 14, 1976, Vṛndāvana",
     "title":"Lecture [Hindi] — November 14, 1976, Vṛndāvana",
     "description":""
 }

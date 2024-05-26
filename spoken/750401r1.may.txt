@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Devotees on Theology — April 1, 1975, Māyāpur",
     "h1":"Conversation with Devotees on Theology",
-    "label":"April 1, 1975, Māyāpur"
+    "label":"April 1, 1975, Māyāpur",
     "title":"Conversation with Devotees on Theology — April 1, 1975, Māyāpur",
     "description":""
 }

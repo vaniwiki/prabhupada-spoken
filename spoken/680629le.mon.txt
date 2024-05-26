@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Partially Recorded] — June 29, 1968, Montreal",
     "h1":"Lecture [Partially Recorded]",
-    "label":"June 29, 1968, Montreal"
+    "label":"June 29, 1968, Montreal",
     "title":"Lecture [Partially Recorded] — June 29, 1968, Montreal",
     "description":""
 }

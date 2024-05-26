@@ -2,7 +2,7 @@
 {
     "name":"SB 5.5.3 — May 4, 1968, Boston",
     "h1":"SB 5.5.3",
-    "label":"May 4, 1968, Boston"
+    "label":"May 4, 1968, Boston",
     "title":"SB 5.5.3 — May 4, 1968, Boston",
     "description":""
 }

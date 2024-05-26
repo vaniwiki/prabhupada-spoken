@@ -2,7 +2,7 @@
 {
     "name":"SB 6.2.11 — January 16, 1971, Allahabad",
     "h1":"SB 6.2.11",
-    "label":"January 16, 1971, Allahabad"
+    "label":"January 16, 1971, Allahabad",
     "title":"SB 6.2.11 — January 16, 1971, Allahabad",
     "description":""
 }

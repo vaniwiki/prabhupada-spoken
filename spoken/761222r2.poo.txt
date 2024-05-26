@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Indian Man — December 22, 1976, Poona",
     "h1":"Room Conversation with Indian Man",
-    "label":"December 22, 1976, Poona"
+    "label":"December 22, 1976, Poona",
     "title":"Room Conversation with Indian Man — December 22, 1976, Poona",
     "description":""
 }

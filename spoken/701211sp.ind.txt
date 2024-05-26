@@ -2,7 +2,7 @@
 {
     "name":"Speech to Mahārāja and Mahārāṇī — December 11, 1970, Indore",
     "h1":"Speech to Mahārāja and Mahārāṇī",
-    "label":"December 11, 1970, Indore"
+    "label":"December 11, 1970, Indore",
     "title":"Speech to Mahārāja and Mahārāṇī — December 11, 1970, Indore",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Author — April 1, 1972, Sydney",
     "h1":"Conversation with Author",
-    "label":"April 1, 1972, Sydney"
+    "label":"April 1, 1972, Sydney",
     "title":"Conversation with Author — April 1, 1972, Sydney",
     "description":""
 }

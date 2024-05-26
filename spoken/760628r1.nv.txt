@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation After Film — June 28, 1976, New Vrindavan",
     "h1":"Room Conversation After Film",
-    "label":"June 28, 1976, New Vrindavan"
+    "label":"June 28, 1976, New Vrindavan",
     "title":"Room Conversation After Film — June 28, 1976, New Vrindavan",
     "description":""
 }

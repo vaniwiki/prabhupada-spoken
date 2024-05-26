@@ -2,7 +2,7 @@
 {
     "name":"Lecture Engagement and Prasāda Distribution — April 26, 1969, Boston",
     "h1":"Lecture Engagement and Prasāda Distribution",
-    "label":"April 26, 1969, Boston"
+    "label":"April 26, 1969, Boston",
     "title":"Lecture Engagement and Prasāda Distribution — April 26, 1969, Boston",
     "description":""
 }

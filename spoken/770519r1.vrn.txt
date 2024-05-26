@@ -2,7 +2,7 @@
 {
     "name":"Conversation with M.P., Shri Sita Ram Singh — May 19, 1977, Vṛndāvana",
     "h1":"Conversation with M.P., Shri Sita Ram Singh",
-    "label":"May 19, 1977, Vṛndāvana"
+    "label":"May 19, 1977, Vṛndāvana",
     "title":"Conversation with M.P., Shri Sita Ram Singh — May 19, 1977, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Talk After Lecture — May 30, 1968, Boston",
     "h1":"Talk After Lecture",
-    "label":"May 30, 1968, Boston"
+    "label":"May 30, 1968, Boston",
     "title":"Talk After Lecture — May 30, 1968, Boston",
     "description":""
 }

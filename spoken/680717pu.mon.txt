@@ -2,7 +2,7 @@
 {
     "name":"Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded — July 17, 1968, Montreal",
     "h1":"Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded",
-    "label":"July 17, 1968, Montreal"
+    "label":"July 17, 1968, Montreal",
     "title":"Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded — July 17, 1968, Montreal",
     "description":""
 }

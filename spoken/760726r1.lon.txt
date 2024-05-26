@@ -2,7 +2,7 @@
 {
     "name":"Conversation with George Harrison — July 26, 1976, London",
     "h1":"Conversation with George Harrison",
-    "label":"July 26, 1976, London"
+    "label":"July 26, 1976, London",
     "title":"Conversation with George Harrison — July 26, 1976, London",
     "description":""
 }

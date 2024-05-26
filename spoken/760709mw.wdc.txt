@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — July 9, 1976, Washington, D.C.",
     "h1":"Morning Walk",
-    "label":"July 9, 1976, Washington, D.C."
+    "label":"July 9, 1976, Washington, D.C.",
     "title":"Morning Walk — July 9, 1976, Washington, D.C.",
     "description":""
 }

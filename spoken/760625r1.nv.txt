@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation and Reading from SB 1.5.1-16 and 12th Canto — June 25, 1976, New Vrindavan",
     "h1":"Room Conversation and Reading from SB 1.5.1-16 and 12th Canto",
-    "label":"June 25, 1976, New Vrindavan"
+    "label":"June 25, 1976, New Vrindavan",
     "title":"Room Conversation and Reading from SB 1.5.1-16 and 12th Canto — June 25, 1976, New Vrindavan",
     "description":""
 }

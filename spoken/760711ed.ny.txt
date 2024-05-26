@@ -2,7 +2,7 @@
 {
     "name":"Evening Darśana — July 11, 1976, New York",
     "h1":"Evening Darśana",
-    "label":"July 11, 1976, New York"
+    "label":"July 11, 1976, New York",
     "title":"Evening Darśana — July 11, 1976, New York",
     "description":""
 }

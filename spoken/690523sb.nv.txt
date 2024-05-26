@@ -2,7 +2,7 @@
 {
     "name":"SB 1.5.1-8 — May 23, 1969, New Vrindaban",
     "h1":"SB 1.5.1-8",
-    "label":"May 23, 1969, New Vrindaban"
+    "label":"May 23, 1969, New Vrindaban",
     "title":"SB 1.5.1-8 — May 23, 1969, New Vrindaban",
     "description":""
 }

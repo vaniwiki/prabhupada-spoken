@@ -2,7 +2,7 @@
 {
     "name":"Lecture [partially recorded] — January 13, 1969, Los Angeles",
     "h1":"Lecture [partially recorded]",
-    "label":"January 13, 1969, Los Angeles"
+    "label":"January 13, 1969, Los Angeles",
     "title":"Lecture [partially recorded] — January 13, 1969, Los Angeles",
     "description":""
 }

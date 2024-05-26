@@ -2,7 +2,7 @@
 {
     "name":"Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22-32 — May 27, 1972, Los Angeles",
     "h1":"Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22-32",
-    "label":"May 27, 1972, Los Angeles"
+    "label":"May 27, 1972, Los Angeles",
     "title":"Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22-32 — May 27, 1972, Los Angeles",
     "description":""
 }

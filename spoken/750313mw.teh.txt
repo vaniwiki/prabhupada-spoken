@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — March 13, 1975, Tehran",
     "h1":"Morning Walk",
-    "label":"March 13, 1975, Tehran"
+    "label":"March 13, 1975, Tehran",
     "title":"Morning Walk — March 13, 1975, Tehran",
     "description":""
 }

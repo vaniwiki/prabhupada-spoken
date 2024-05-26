@@ -2,7 +2,7 @@
 {
     "name":"Purport to Bhajahū Re Mana — March 30, 1966, New York",
     "h1":"Purport to Bhajahū Re Mana",
-    "label":"March 30, 1966, New York"
+    "label":"March 30, 1966, New York",
     "title":"Purport to Bhajahū Re Mana — March 30, 1966, New York",
     "description":"",
     "image": ":bwnectar:009.jpg"

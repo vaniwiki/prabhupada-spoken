@@ -2,7 +2,7 @@
 {
     "name":"Nṛsiṁha-caturdaśī — May 5, 1974, Bombay",
     "h1":"Nṛsiṁha-caturdaśī",
-    "label":"May 5, 1974, Bombay"
+    "label":"May 5, 1974, Bombay",
     "title":"Nṛsiṁha-caturdaśī — May 5, 1974, Bombay",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Bg 7.15, Arrival Address — September 3, 1976, Vṛndāvana",
     "h1":"Bg 7.15, Arrival Address",
-    "label":"September 3, 1976, Vṛndāvana"
+    "label":"September 3, 1976, Vṛndāvana",
     "title":"Bg 7.15, Arrival Address — September 3, 1976, Vṛndāvana",
     "description":""
 }

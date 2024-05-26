@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Auckland University — April 17, 1972, Auckland",
     "h1":"Lecture at Auckland University",
-    "label":"April 17, 1972, Auckland"
+    "label":"April 17, 1972, Auckland",
     "title":"Lecture at Auckland University — April 17, 1972, Auckland",
     "description":""
 }

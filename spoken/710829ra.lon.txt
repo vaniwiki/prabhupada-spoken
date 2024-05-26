@@ -2,7 +2,7 @@
 {
     "name":"Rādhāṣṭamī — August 29, 1971, London",
     "h1":"Rādhāṣṭamī",
-    "label":"August 29, 1971, London"
+    "label":"August 29, 1971, London",
     "title":"Rādhāṣṭamī — August 29, 1971, London",
     "description":""
 }

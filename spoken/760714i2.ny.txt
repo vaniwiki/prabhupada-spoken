@@ -2,7 +2,7 @@
 {
     "name":"Interview with Newsday Newspaper — July 14, 1976, New York",
     "h1":"Interview with Newsday Newspaper",
-    "label":"July 14, 1976, New York"
+    "label":"July 14, 1976, New York",
     "title":"Interview with Newsday Newspaper — July 14, 1976, New York",
     "description":""
 }

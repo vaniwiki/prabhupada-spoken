@@ -2,7 +2,7 @@
 {
     "name":"Conversation at Airport — October 26, 1973, Bombay",
     "h1":"Conversation at Airport",
-    "label":"October 26, 1973, Bombay"
+    "label":"October 26, 1973, Bombay",
     "title":"Conversation at Airport — October 26, 1973, Bombay",
     "description":""
 }

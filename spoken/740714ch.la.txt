@@ -2,7 +2,7 @@
 {
     "name":"Chanting Cc. Ādi-līlā 14th Chapter Verse 1-97 — July 14, 1974, Los Angeles",
     "h1":"Chanting Cc. Ādi-līlā 14th Chapter Verse 1-97",
-    "label":"July 14, 1974, Los Angeles"
+    "label":"July 14, 1974, Los Angeles",
     "title":"Chanting Cc. Ādi-līlā 14th Chapter Verse 1-97 — July 14, 1974, Los Angeles",
     "description":""
 }

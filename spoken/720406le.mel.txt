@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Tarrawarra Abbey — April 6, 1972, Melbourne",
     "h1":"Lecture at Tarrawarra Abbey",
-    "label":"April 6, 1972, Melbourne"
+    "label":"April 6, 1972, Melbourne",
     "title":"Lecture at Tarrawarra Abbey — April 6, 1972, Melbourne",
     "description":""
 }

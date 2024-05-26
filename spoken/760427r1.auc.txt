@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — April 27, 1976, Auckland",
     "h1":"Room Conversation",
-    "label":"April 27, 1976, Auckland"
+    "label":"April 27, 1976, Auckland",
     "title":"Room Conversation — April 27, 1976, Auckland",
     "description":""
 }

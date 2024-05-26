@@ -2,7 +2,7 @@
 {
     "name":"Initiation — March 25, 1969, Hawaii",
     "h1":"Initiation",
-    "label":"March 25, 1969, Hawaii"
+    "label":"March 25, 1969, Hawaii",
     "title":"Initiation — March 25, 1969, Hawaii",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Talk with Svarūpa Dāmodara — April 18, 1977, Bombay",
     "h1":"Talk with Svarūpa Dāmodara",
-    "label":"April 18, 1977, Bombay"
+    "label":"April 18, 1977, Bombay",
     "title":"Talk with Svarūpa Dāmodara — April 18, 1977, Bombay",
     "description":""
 }

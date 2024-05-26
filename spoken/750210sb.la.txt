@@ -2,7 +2,7 @@
 {
     "name":"SB 2.8.7 — February 10, 1975, Los Angeles",
     "h1":"SB 2.8.7",
-    "label":"February 10, 1975, Los Angeles"
+    "label":"February 10, 1975, Los Angeles",
     "title":"SB 2.8.7 — February 10, 1975, Los Angeles",
     "description":""
 }

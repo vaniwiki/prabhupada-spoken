@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — August 4, 1975, Detroit",
     "h1":"Morning Walk",
-    "label":"August 4, 1975, Detroit"
+    "label":"August 4, 1975, Detroit",
     "title":"Morning Walk — August 4, 1975, Detroit",
     "description":""
 }

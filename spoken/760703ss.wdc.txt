@@ -2,7 +2,7 @@
 {
     "name":"“Life Comes From Life” Slideshow Discussions — July 3, 1976, Washington, D.C.",
     "h1":"“Life Comes From Life” Slideshow Discussions",
-    "label":"July 3, 1976, Washington, D.C."
+    "label":"July 3, 1976, Washington, D.C.",
     "title":"“Life Comes From Life” Slideshow Discussions — July 3, 1976, Washington, D.C.",
     "description":""
 }

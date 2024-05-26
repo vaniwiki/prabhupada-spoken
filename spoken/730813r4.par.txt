@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with French Nun — August 13, 1973, Paris",
     "h1":"Room Conversation with French Nun",
-    "label":"August 13, 1973, Paris"
+    "label":"August 13, 1973, Paris",
     "title":"Room Conversation with French Nun — August 13, 1973, Paris",
     "description":""
 }

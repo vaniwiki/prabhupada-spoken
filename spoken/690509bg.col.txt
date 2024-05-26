@@ -2,7 +2,7 @@
 {
     "name":"Bg 4.1-2 — May 9, 1969, Columbus",
     "h1":"Bg 4.1-2 Lecture",
-    "label":"May 9, 1969, Columbus"
+    "label":"May 9, 1969, Columbus",
     "title":"Bg 4.1-2 — May 9, 1969, Columbus",
     "description":""
 }

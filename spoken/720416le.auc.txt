@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Art Gallery — April 16, 1972, Auckland",
     "h1":"Lecture at Art Gallery",
-    "label":"April 16, 1972, Auckland"
+    "label":"April 16, 1972, Auckland",
     "title":"Lecture at Art Gallery — April 16, 1972, Auckland",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 7.9.1 — February 10, 1977, Māyāpur",
     "h1":"SB 7.9.1",
-    "label":"February 10, 1977, Māyāpur"
+    "label":"February 10, 1977, Māyāpur",
     "title":"SB 7.9.1 — February 10, 1977, Māyāpur",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Hindi] — April 19, 1974, Hyderabad",
     "h1":"Lecture [Hindi]",
-    "label":"April 19, 1974, Hyderabad"
+    "label":"April 19, 1974, Hyderabad",
     "title":"Lecture [Hindi] — April 19, 1974, Hyderabad",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Bg 2.20-25 — October 14, 1968, Seattle",
     "h1":"Bg 2.20-25 Lecture",
-    "label":"October 14, 1968, Seattle"
+    "label":"October 14, 1968, Seattle",
     "title":"Bg 2.20-25 — October 14, 1968, Seattle",
     "description":""
 }

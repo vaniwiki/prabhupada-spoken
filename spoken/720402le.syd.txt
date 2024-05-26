@@ -2,7 +2,7 @@
 {
     "name":"Lecture [partially recorded] — April 2, 1972, Sydney",
     "h1":"Lecture [partially recorded]",
-    "label":"April 2, 1972, Sydney"
+    "label":"April 2, 1972, Sydney",
     "title":"Lecture [partially recorded] — April 2, 1972, Sydney",
     "description":""
 }

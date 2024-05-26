@@ -2,7 +2,7 @@
 {
     "name":"Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu — July 31, 1977, Vṛndāvana",
     "h1":"Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu",
-    "label":"July 31, 1977, Vṛndāvana"
+    "label":"July 31, 1977, Vṛndāvana",
     "title":"Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu — July 31, 1977, Vṛndāvana",
     "description":""
 }

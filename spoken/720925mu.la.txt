@@ -2,7 +2,7 @@
 {
     "name":"Jaya Rādhe Jaya Kṛṣṇa — September 25, 1972, Los Angeles",
     "h1":"Jaya Rādhe Jaya Kṛṣṇa",
-    "label":"September 25, 1972, Los Angeles"
+    "label":"September 25, 1972, Los Angeles",
     "title":"Jaya Rādhe Jaya Kṛṣṇa — September 25, 1972, Los Angeles",
     "description":""
 }

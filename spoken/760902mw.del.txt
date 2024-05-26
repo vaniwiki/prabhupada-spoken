@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk [partially recorded] — September 2, 1976, Delhi",
     "h1":"Morning Walk [partially recorded]",
-    "label":"September 2, 1976, Delhi"
+    "label":"September 2, 1976, Delhi",
     "title":"Morning Walk [partially recorded] — September 2, 1976, Delhi",
     "description":""
 }

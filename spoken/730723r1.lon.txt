@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Lord Fenner Brockway — July 23, 1973, London",
     "h1":"Room Conversation with Lord Fenner Brockway",
-    "label":"July 23, 1973, London"
+    "label":"July 23, 1973, London",
     "title":"Room Conversation with Lord Fenner Brockway — July 23, 1973, London",
     "description":""
 }

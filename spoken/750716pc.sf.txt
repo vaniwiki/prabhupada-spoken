@@ -2,7 +2,7 @@
 {
     "name":"Press Conference — July 16, 1975, San Francisco",
     "h1":"Press Conference",
-    "label":"July 16, 1975, San Francisco"
+    "label":"July 16, 1975, San Francisco",
     "title":"Press Conference — July 16, 1975, San Francisco",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 5.5.2 — April 11, 1975, Hyderabad",
     "h1":"SB 5.5.2",
-    "label":"April 11, 1975, Hyderabad"
+    "label":"April 11, 1975, Hyderabad",
     "title":"SB 5.5.2 — April 11, 1975, Hyderabad",
     "description":""
 }

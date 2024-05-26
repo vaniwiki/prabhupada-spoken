@@ -2,7 +2,7 @@
 {
     "name":"Janmāṣṭamī Lecture — August 21, 1973, London",
     "h1":"Janmāṣṭamī Lecture",
-    "label":"August 21, 1973, London"
+    "label":"August 21, 1973, London",
     "title":"Janmāṣṭamī Lecture — August 21, 1973, London",
     "description":""
 }

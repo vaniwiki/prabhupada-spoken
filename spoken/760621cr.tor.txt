@@ -2,7 +2,7 @@
 {
     "name":"Conversation in Airport and Car to New Vrindavan — June 21, 1976, Toronto, New Vrindavan",
     "h1":"Conversation in Airport and Car to New Vrindavan",
-    "label":"June 21, 1976, Toronto, New Vrindavan"
+    "label":"June 21, 1976, Toronto, New Vrindavan",
     "title":"Conversation in Airport and Car to New Vrindavan — June 21, 1976, Toronto, New Vrindavan",
     "description":""
 }

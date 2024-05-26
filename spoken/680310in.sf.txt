@@ -2,7 +2,7 @@
 {
     "name":"Initiation Lecture — March 10, 1968, San Francisco",
     "h1":"Initiation Lecture",
-    "label":"March 10, 1968, San Francisco"
+    "label":"March 10, 1968, San Francisco",
     "title":"Initiation Lecture — March 10, 1968, San Francisco",
     "description":""
 }

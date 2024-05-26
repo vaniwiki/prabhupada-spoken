@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk Conversation About Bombay — August 29, 1976, Delhi",
     "h1":"Morning Walk Conversation About Bombay",
-    "label":"August 29, 1976, Delhi"
+    "label":"August 29, 1976, Delhi",
     "title":"Morning Walk Conversation About Bombay — August 29, 1976, Delhi",
     "description":""
 }

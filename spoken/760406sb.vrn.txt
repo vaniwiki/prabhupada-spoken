@@ -2,7 +2,7 @@
 {
     "name":"SB 7.9.51 — April 6, 1976, Vṛndāvana",
     "h1":"SB 7.9.51",
-    "label":"April 6, 1976, Vṛndāvana"
+    "label":"April 6, 1976, Vṛndāvana",
     "title":"SB 7.9.51 — April 6, 1976, Vṛndāvana",
     "description":""
 }

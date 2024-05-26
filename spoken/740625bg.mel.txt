@@ -2,7 +2,7 @@
 {
     "name":"Bg 13.22-24 — June 25, 1974, Melbourne",
     "h1":"Bg 13.22-24 Lecture",
-    "label":"June 25, 1974, Melbourne"
+    "label":"June 25, 1974, Melbourne",
     "title":"Bg 13.22-24 — June 25, 1974, Melbourne",
     "description":""
 }

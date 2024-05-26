@@ -2,7 +2,7 @@
 {
     "name":"Evening Darśana — February 24, 1977, Māyāpur",
     "h1":"Evening Darśana",
-    "label":"February 24, 1977, Māyāpur"
+    "label":"February 24, 1977, Māyāpur",
     "title":"Evening Darśana — February 24, 1977, Māyāpur",
     "description":""
 }

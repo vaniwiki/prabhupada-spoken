@@ -2,7 +2,7 @@
 {
     "name":"Lord Nityānanda Prabhu’s Appearance Day — January 31, 1969, Los Angeles",
     "h1":"Lord Nityānanda Prabhu’s Appearance Day",
-    "label":"January 31, 1969, Los Angeles"
+    "label":"January 31, 1969, Los Angeles",
     "title":"Lord Nityānanda Prabhu’s Appearance Day — January 31, 1969, Los Angeles",
     "description":""
 }

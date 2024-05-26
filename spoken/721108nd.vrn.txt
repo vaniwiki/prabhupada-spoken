@@ -2,7 +2,7 @@
 {
     "name":"The Nectar of Devotion — November 8, 1972, Vṛndāvana",
     "h1":"The Nectar of Devotion",
-    "label":"November 8, 1972, Vṛndāvana"
+    "label":"November 8, 1972, Vṛndāvana",
     "title":"The Nectar of Devotion — November 8, 1972, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation Māyāpur attack — July 15, 1977, Vṛndāvana",
     "h1":"Room Conversation Māyāpur attack",
-    "label":"July 15, 1977, Vṛndāvana"
+    "label":"July 15, 1977, Vṛndāvana",
     "title":"Room Conversation Māyāpur attack — July 15, 1977, Vṛndāvana",
     "description":""
 }

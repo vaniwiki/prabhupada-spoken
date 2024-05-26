@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — June 4, 1972, Mexico City",
     "h1":"Room Conversation",
-    "label":"June 4, 1972, Mexico City"
+    "label":"June 4, 1972, Mexico City",
     "title":"Room Conversation — June 4, 1972, Mexico City",
     "description":""
 }

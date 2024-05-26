@@ -2,7 +2,7 @@
 {
     "name":"SB 1.2.6 [Hindi] — January 8, 1973, Bombay",
     "h1":"SB 1.2.6 [Hindi]",
-    "label":"January 8, 1973, Bombay"
+    "label":"January 8, 1973, Bombay",
     "title":"SB 1.2.6 [Hindi] — January 8, 1973, Bombay",
     "description":""
 }

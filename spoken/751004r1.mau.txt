@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — October 4, 1975, Mauritius",
     "h1":"Room Conversation",
-    "label":"October 4, 1975, Mauritius"
+    "label":"October 4, 1975, Mauritius",
     "title":"Room Conversation — October 4, 1975, Mauritius",
     "description":""
 }

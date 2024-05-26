@@ -2,7 +2,7 @@
 {
     "name":"Initiation of Bali-mardana Dāsā — July 29, 1968, Montreal",
     "h1":"Initiation of Bali-mardana Dāsā",
-    "label":"July 29, 1968, Montreal"
+    "label":"July 29, 1968, Montreal",
     "title":"Initiation of Bali-mardana Dāsā — July 29, 1968, Montreal",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.46 — July 27, 1975, San Diego",
     "h1":"SB 6.1.46",
-    "label":"July 27, 1975, San Diego"
+    "label":"July 27, 1975, San Diego",
     "title":"SB 6.1.46 — July 27, 1975, San Diego",
     "description":""
 }

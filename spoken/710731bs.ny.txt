@@ -2,7 +2,7 @@
 {
     "name":"Śrī Brahma-saṁhitā, Verse 35 — July 31, 1971, New York",
     "h1":"Śrī Brahma-saṁhitā, Verse 35",
-    "label":"July 31, 1971, New York"
+    "label":"July 31, 1971, New York",
     "title":"Śrī Brahma-saṁhitā, Verse 35 — July 31, 1971, New York",
     "description":""
 }

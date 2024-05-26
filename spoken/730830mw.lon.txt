@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — August 30, 1973, London",
     "h1":"Morning Walk",
-    "label":"August 30, 1973, London"
+    "label":"August 30, 1973, London",
     "title":"Morning Walk — August 30, 1973, London",
     "description":""
 }

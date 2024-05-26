@@ -2,7 +2,7 @@
 {
     "name":"SB 6.1.19 — January 15, 1970, Los Angeles",
     "h1":"SB 6.1.19",
-    "label":"January 15, 1970, Los Angeles"
+    "label":"January 15, 1970, Los Angeles",
     "title":"SB 6.1.19 — January 15, 1970, Los Angeles",
     "description":""
 }

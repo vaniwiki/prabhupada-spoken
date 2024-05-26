@@ -2,7 +2,7 @@
 {
     "name":"Radio Interview — February 12, 1969, Los Angeles",
     "h1":"Radio Interview",
-    "label":"February 12, 1969, Los Angeles"
+    "label":"February 12, 1969, Los Angeles",
     "title":"Radio Interview — February 12, 1969, Los Angeles",
     "description":""
 }

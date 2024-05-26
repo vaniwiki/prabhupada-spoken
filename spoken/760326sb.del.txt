@@ -2,7 +2,7 @@
 {
     "name":"SB 7.9.44 — March 26, 1976, Delhi",
     "h1":"SB 7.9.44",
-    "label":"March 26, 1976, Delhi"
+    "label":"March 26, 1976, Delhi",
     "title":"SB 7.9.44 — March 26, 1976, Delhi",
     "description":""
 }

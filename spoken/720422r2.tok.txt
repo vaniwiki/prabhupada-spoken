@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — April 22, 1972, Tokyo",
     "h1":"Room Conversation",
-    "label":"April 22, 1972, Tokyo"
+    "label":"April 22, 1972, Tokyo",
     "title":"Room Conversation — April 22, 1972, Tokyo",
     "description":""
 }

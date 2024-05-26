@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Kṛṣṇa Caitanya Maṭha — February 20, 1972, Visakhapatnam",
     "h1":"Lecture at Kṛṣṇa Caitanya Maṭha",
-    "label":"February 20, 1972, Visakhapatnam"
+    "label":"February 20, 1972, Visakhapatnam",
     "title":"Lecture at Kṛṣṇa Caitanya Maṭha — February 20, 1972, Visakhapatnam",
     "description":""
 }

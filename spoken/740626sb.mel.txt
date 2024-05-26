@@ -2,7 +2,7 @@
 {
     "name":"SB 2.1.1-5 — June 26, 1974, Melbourne",
     "h1":"SB 2.1.1-5",
-    "label":"June 26, 1974, Melbourne"
+    "label":"June 26, 1974, Melbourne",
     "title":"SB 2.1.1-5 — June 26, 1974, Melbourne",
     "description":""
 }

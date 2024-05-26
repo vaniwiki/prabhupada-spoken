@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Professors of the University of Durban — October 8, 1975, Durban",
     "h1":"Room Conversation with Professors of the University of Durban",
-    "label":"October 8, 1975, Durban"
+    "label":"October 8, 1975, Durban",
     "title":"Room Conversation with Professors of the University of Durban — October 8, 1975, Durban",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Morning Lecture at Kumbha-melā — January 15, 1977, Allahabad",
     "h1":"Morning Lecture at Kumbha-melā",
-    "label":"January 15, 1977, Allahabad"
+    "label":"January 15, 1977, Allahabad",
     "title":"Morning Lecture at Kumbha-melā — January 15, 1977, Allahabad",
     "description":""
 }

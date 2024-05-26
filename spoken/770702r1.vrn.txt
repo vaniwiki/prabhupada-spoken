@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Mr. Myer — July 2, 1977, Vṛndāvana",
     "h1":"Room Conversation with Mr. Myer",
-    "label":"July 2, 1977, Vṛndāvana"
+    "label":"July 2, 1977, Vṛndāvana",
     "title":"Room Conversation with Mr. Myer — July 2, 1977, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Lecture at Bhārata Chamber of Commerce — January 30, 1973, Calcutta",
     "h1":"Lecture at Bhārata Chamber of Commerce",
-    "label":"January 30, 1973, Calcutta"
+    "label":"January 30, 1973, Calcutta",
     "title":"Lecture at Bhārata Chamber of Commerce — January 30, 1973, Calcutta",
     "description":""
 }

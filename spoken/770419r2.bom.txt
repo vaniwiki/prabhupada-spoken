@@ -2,7 +2,7 @@
 {
     "name":"Conversations — April 19, 1977, Bombay",
     "h1":"Conversations",
-    "label":"April 19, 1977, Bombay"
+    "label":"April 19, 1977, Bombay",
     "title":"Conversations — April 19, 1977, Bombay",
     "description":""
 }

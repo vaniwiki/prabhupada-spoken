@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 8.128 — January 24, 1977, Bhubaneswar",
     "h1":"Cc. Madhya 8.128",
-    "label":"January 24, 1977, Bhubaneswar"
+    "label":"January 24, 1977, Bhubaneswar",
     "title":"Cc. Madhya 8.128 — January 24, 1977, Bhubaneswar",
     "description":""
 }

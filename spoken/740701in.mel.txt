@@ -2,7 +2,7 @@
 {
     "name":"Initiation Ceremony — July 1, 1974, Melbourne",
     "h1":"Initiation Ceremony",
-    "label":"July 1, 1974, Melbourne"
+    "label":"July 1, 1974, Melbourne",
     "title":"Initiation Ceremony — July 1, 1974, Melbourne",
     "description":""
 }

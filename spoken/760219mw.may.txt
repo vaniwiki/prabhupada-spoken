@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — February 19, 1976, Māyāpur",
     "h1":"Morning Walk",
-    "label":"February 19, 1976, Māyāpur"
+    "label":"February 19, 1976, Māyāpur",
     "title":"Morning Walk — February 19, 1976, Māyāpur",
     "description":""
 }

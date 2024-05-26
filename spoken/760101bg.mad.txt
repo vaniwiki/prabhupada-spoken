@@ -2,7 +2,7 @@
 {
     "name":"Bg 3.27 — January 1, 1976, Madras",
     "h1":"Bg 3.27 Lecture",
-    "label":"January 1, 1976, Madras"
+    "label":"January 1, 1976, Madras",
     "title":"Bg 3.27 — January 1, 1976, Madras",
     "description":""
 }

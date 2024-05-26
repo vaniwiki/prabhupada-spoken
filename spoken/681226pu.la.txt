@@ -1,9 +1,8 @@
-~~bc:December 26, 1968, Los Angeles~~
 ---json
 {
     "name":"Purport & Explanation to Hari Hari Biphale — December 26, 1968, Los Angeles",
     "h1":"Purport & Explanation to Hari Hari Biphale",
-    "label":"December 26, 1968, Los Angeles"
+    "label":"December 26, 1968, Los Angeles",
     "title":"Purport & Explanation to Hari Hari Biphale — December 26, 1968, Los Angeles",
     "description":""
 }

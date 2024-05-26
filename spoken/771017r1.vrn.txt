@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation Visit from Dr. G. Ghosh and Dr. Gopal — October 17, 1977, Vṛndāvana",
     "h1":"Room Conversation Visit from Dr. G. Ghosh and Dr. Gopal",
-    "label":"October 17, 1977, Vṛndāvana"
+    "label":"October 17, 1977, Vṛndāvana",
     "title":"Room Conversation Visit from Dr. G. Ghosh and Dr. Gopal — October 17, 1977, Vṛndāvana",
     "description":""
 }

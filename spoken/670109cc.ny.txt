@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 22.11-15 — January 9, 1967, New York",
     "h1":"Cc. Madhya 22.11-15",
-    "label":"January 9, 1967, New York"
+    "label":"January 9, 1967, New York",
     "title":"Cc. Madhya 22.11-15 — January 9, 1967, New York",
     "description":""
 }

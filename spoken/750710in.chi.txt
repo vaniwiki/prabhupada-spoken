@@ -2,7 +2,7 @@
 {
     "name":"Lecture and Initiation — July 10, 1975, Chicago",
     "h1":"Lecture and Initiation",
-    "label":"July 10, 1975, Chicago"
+    "label":"July 10, 1975, Chicago",
     "title":"Lecture and Initiation — July 10, 1975, Chicago",
     "description":""
 }

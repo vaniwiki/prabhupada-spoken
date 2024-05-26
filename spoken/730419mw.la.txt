@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk at Cheviot Hills Park — April 19, 1973, Los Angeles",
     "h1":"Morning Walk at Cheviot Hills Park",
-    "label":"April 19, 1973, Los Angeles"
+    "label":"April 19, 1973, Los Angeles",
     "title":"Morning Walk at Cheviot Hills Park — April 19, 1973, Los Angeles",
     "description":""
 }

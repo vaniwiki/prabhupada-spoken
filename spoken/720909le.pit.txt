@@ -2,7 +2,7 @@
 {
     "name":"Lecture — September 9, 1972, Pittsburgh",
     "h1":"Lecture",
-    "label":"September 9, 1972, Pittsburgh"
+    "label":"September 9, 1972, Pittsburgh",
     "title":"Lecture — September 9, 1972, Pittsburgh",
     "description":""
 }

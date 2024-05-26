@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with three Trappist Monks — March 1, 1975, Atlanta",
     "h1":"Room Conversation with three Trappist Monks",
-    "label":"March 1, 1975, Atlanta"
+    "label":"March 1, 1975, Atlanta",
     "title":"Room Conversation with three Trappist Monks — March 1, 1975, Atlanta",
     "description":""
 }

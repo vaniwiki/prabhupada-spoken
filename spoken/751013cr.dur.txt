@@ -2,7 +2,7 @@
 {
     "name":"Car ride from Durban to Johannesburg — October 13, 1975, Durban",
     "h1":"Car ride from Durban to Johannesburg",
-    "label":"October 13, 1975, Durban"
+    "label":"October 13, 1975, Durban",
     "title":"Car ride from Durban to Johannesburg — October 13, 1975, Durban",
     "description":""
 }

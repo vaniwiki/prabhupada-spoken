@@ -2,7 +2,7 @@
 {
     "name":"Bg 16.5 — February 23, 1972, Calcutta",
     "h1":"Bg 16.5 Lecture",
-    "label":"February 23, 1972, Calcutta"
+    "label":"February 23, 1972, Calcutta",
     "title":"Bg 16.5 — February 23, 1972, Calcutta",
     "description":""
 }

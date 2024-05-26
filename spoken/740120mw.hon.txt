@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk, partially recorded — January 20, 1974, Honolulu",
     "h1":"Morning Walk, partially recorded",
-    "label":"January 20, 1974, Honolulu"
+    "label":"January 20, 1974, Honolulu",
     "title":"Morning Walk, partially recorded — January 20, 1974, Honolulu",
     "description":""
 }

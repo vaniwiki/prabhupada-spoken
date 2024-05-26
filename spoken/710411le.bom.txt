@@ -2,7 +2,7 @@
 {
     "name":"Pandal Lecture — April 11, 1971, Bombay",
     "h1":"Pandal Lecture",
-    "label":"April 11, 1971, Bombay"
+    "label":"April 11, 1971, Bombay",
     "title":"Pandal Lecture — April 11, 1971, Bombay",
     "description":""
 }

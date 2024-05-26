@@ -2,7 +2,7 @@
 {
     "name":"Lecture [Hindi] — January 19, 1972, Jaipur",
     "h1":"Lecture [Hindi]",
-    "label":"January 19, 1972, Jaipur"
+    "label":"January 19, 1972, Jaipur",
     "title":"Lecture [Hindi] — January 19, 1972, Jaipur",
     "description":""
 }

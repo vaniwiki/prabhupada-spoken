@@ -2,7 +2,7 @@
 {
     "name":"Initiation of Baradrāj and Chandanācārya Dāsās — May 4, 1969, Boston",
     "h1":"Initiation of Baradrāj and Chandanācārya Dāsās",
-    "label":"May 4, 1969, Boston"
+    "label":"May 4, 1969, Boston",
     "title":"Initiation of Baradrāj and Chandanācārya Dāsās — May 4, 1969, Boston",
     "description":""
 }

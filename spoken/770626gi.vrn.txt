@@ -2,7 +2,7 @@
 {
     "name":"Gurukula Inspection — June 26, 1977, Vṛndāvana",
     "h1":"Gurukula Inspection",
-    "label":"June 26, 1977, Vṛndāvana"
+    "label":"June 26, 1977, Vṛndāvana",
     "title":"Gurukula Inspection — June 26, 1977, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with John Papworth and Schumacher — August 4, 1973, London",
     "h1":"Room Conversation with John Papworth and Schumacher",
-    "label":"August 4, 1973, London"
+    "label":"August 4, 1973, London",
     "title":"Room Conversation with John Papworth and Schumacher — August 4, 1973, London",
     "description":""
 }

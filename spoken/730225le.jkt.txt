@@ -2,7 +2,7 @@
 {
     "name":"Lecture [partially recorded] — February 25, 1973, Jakarta",
     "h1":"Lecture [partially recorded]",
-    "label":"February 25, 1973, Jakarta"
+    "label":"February 25, 1973, Jakarta",
     "title":"Lecture [partially recorded] — February 25, 1973, Jakarta",
     "description":""
 }

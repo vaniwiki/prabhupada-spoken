@@ -2,7 +2,7 @@
 {
     "name":"Conversation in Hindi — April 6, 1976, Vṛndāvana",
     "h1":"Conversation in Hindi",
-    "label":"April 6, 1976, Vṛndāvana"
+    "label":"April 6, 1976, Vṛndāvana",
     "title":"Conversation in Hindi — April 6, 1976, Vṛndāvana",
     "description":""
 }

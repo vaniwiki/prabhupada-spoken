@@ -2,7 +2,7 @@
 {
     "name":"Evening Walk [partially recorded] — August 4, 1976, New Māyāpur",
     "h1":"Evening Walk [partially recorded]",
-    "label":"August 4, 1976, New Māyāpur"
+    "label":"August 4, 1976, New Māyāpur",
     "title":"Evening Walk [partially recorded] — August 4, 1976, New Māyāpur",
     "description":""
 }

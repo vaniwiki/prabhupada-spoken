@@ -2,7 +2,7 @@
 {
     "name":"Arrival — July 11, 1975, Philadelphia",
     "h1":"Arrival",
-    "label":"July 11, 1975, Philadelphia"
+    "label":"July 11, 1975, Philadelphia",
     "title":"Arrival — July 11, 1975, Philadelphia",
     "description":""
 }

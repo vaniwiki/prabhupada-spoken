@@ -2,7 +2,7 @@
 {
     "name":"Letter to Sai Baba — September 13, 1976, Vṛndāvana",
     "h1":"Letter to Sai Baba",
-    "label":"September 13, 1976, Vṛndāvana"
+    "label":"September 13, 1976, Vṛndāvana",
     "title":"Letter to Sai Baba — September 13, 1976, Vṛndāvana",
     "description":""
 }

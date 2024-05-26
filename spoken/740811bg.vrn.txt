@@ -2,7 +2,7 @@
 {
     "name":"Janmāṣṭamī, Bhagavad-gītā 7.5 — August 11, 1974, Vṛndāvana",
     "h1":"Janmāṣṭamī, Bhagavad-gītā 7.5",
-    "label":"August 11, 1974, Vṛndāvana"
+    "label":"August 11, 1974, Vṛndāvana",
     "title":"Janmāṣṭamī, Bhagavad-gītā 7.5 — August 11, 1974, Vṛndāvana",
     "description":""
 }

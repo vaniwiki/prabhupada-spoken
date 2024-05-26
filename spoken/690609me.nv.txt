@@ -2,7 +2,7 @@
 {
     "name":"Meeting with Devotees — June 9, 1969, New Vrindaban",
     "h1":"Meeting with Devotees",
-    "label":"June 9, 1969, New Vrindaban"
+    "label":"June 9, 1969, New Vrindaban",
     "title":"Meeting with Devotees — June 9, 1969, New Vrindaban",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Conversation with Mr Wadell, Boy School Teacher — July 10, 1973, London",
     "h1":"Conversation with Mr Wadell, Boy School Teacher",
-    "label":"July 10, 1973, London"
+    "label":"July 10, 1973, London",
     "title":"Conversation with Mr Wadell, Boy School Teacher — July 10, 1973, London",
     "description":""
 }

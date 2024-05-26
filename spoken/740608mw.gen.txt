@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk — June 8, 1974, Geneva",
     "h1":"Morning Walk",
-    "label":"June 8, 1974, Geneva"
+    "label":"June 8, 1974, Geneva",
     "title":"Morning Walk — June 8, 1974, Geneva",
     "description":""
 }

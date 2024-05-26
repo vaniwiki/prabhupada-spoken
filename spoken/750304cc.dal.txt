@@ -2,7 +2,7 @@
 {
     "name":"Cc. Ādi 1.15 — March 4, 1975, Dallas",
     "h1":"Cc. Ādi 1.15",
-    "label":"March 4, 1975, Dallas"
+    "label":"March 4, 1975, Dallas",
     "title":"Cc. Ādi 1.15 — March 4, 1975, Dallas",
     "description":""
 }

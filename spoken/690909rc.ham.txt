@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — September 9, 1969, Hamburg",
     "h1":"Room Conversation",
-    "label":"September 9, 1969, Hamburg"
+    "label":"September 9, 1969, Hamburg",
     "title":"Room Conversation — September 9, 1969, Hamburg",
     "description":""
 }

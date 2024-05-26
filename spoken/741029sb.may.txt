@@ -2,7 +2,7 @@
 {
     "name":"SB 1.8.49 — October 29, 1974, Māyāpur",
     "h1":"SB 1.8.49",
-    "label":"October 29, 1974, Māyāpur"
+    "label":"October 29, 1974, Māyāpur",
     "title":"SB 1.8.49 — October 29, 1974, Māyāpur",
     "description":""
 }

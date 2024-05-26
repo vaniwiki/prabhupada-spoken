@@ -2,7 +2,7 @@
 {
     "name":"Morning Walk at Kailua Beach — June 8, 1975, Honolulu",
     "h1":"Morning Walk at Kailua Beach",
-    "label":"June 8, 1975, Honolulu"
+    "label":"June 8, 1975, Honolulu",
     "title":"Morning Walk at Kailua Beach — June 8, 1975, Honolulu",
     "description":""
 }

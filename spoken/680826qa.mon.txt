@@ -2,7 +2,7 @@
 {
     "name":"Questions and Answers — August 26, 1968, Montreal",
     "h1":"Questions and Answers",
-    "label":"August 26, 1968, Montreal"
+    "label":"August 26, 1968, Montreal",
     "title":"Questions and Answers — August 26, 1968, Montreal",
     "description":""
 }

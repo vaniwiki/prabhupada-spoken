@@ -2,7 +2,7 @@
 {
     "name":"Initiation Lecture — December 26, 1969, Boston",
     "h1":"Initiation Lecture",
-    "label":"December 26, 1969, Boston"
+    "label":"December 26, 1969, Boston",
     "title":"Initiation Lecture — December 26, 1969, Boston",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 7.5.30 — September 9, 1971, London",
     "h1":"SB 7.5.30",
-    "label":"September 9, 1971, London"
+    "label":"September 9, 1971, London",
     "title":"SB 7.5.30 — September 9, 1971, London",
     "description":""
 }

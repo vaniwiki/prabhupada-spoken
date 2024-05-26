@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation with Kuwaiti Guests — March 29, 1977, Bombay",
     "h1":"Room Conversation with Kuwaiti Guests",
-    "label":"March 29, 1977, Bombay"
+    "label":"March 29, 1977, Bombay",
     "title":"Room Conversation with Kuwaiti Guests — March 29, 1977, Bombay",
     "description":""
 }

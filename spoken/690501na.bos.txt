@@ -2,7 +2,7 @@
 {
     "name":"Nṛsiṁha-caturdaśī — May 1, 1969, Boston",
     "h1":"Nṛsiṁha-caturdaśī",
-    "label":"May 1, 1969, Boston"
+    "label":"May 1, 1969, Boston",
     "title":"Nṛsiṁha-caturdaśī — May 1, 1969, Boston",
     "description":""
 }

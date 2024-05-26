@@ -2,7 +2,7 @@
 {
     "name":"Room Conversation — February 15, 1975, Mexico City",
     "h1":"Room Conversation",
-    "label":"February 15, 1975, Mexico City"
+    "label":"February 15, 1975, Mexico City",
     "title":"Room Conversation — February 15, 1975, Mexico City",
     "description":""
 }

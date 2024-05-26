@@ -2,7 +2,7 @@
 {
     "name":"Interview with Macmillan, Professor Gombrich and English Reporters — September 12, 1973, London",
     "h1":"Interview with Macmillan, Professor Gombrich and English Reporters",
-    "label":"September 12, 1973, London"
+    "label":"September 12, 1973, London",
     "title":"Interview with Macmillan, Professor Gombrich and English Reporters — September 12, 1973, London",
     "description":""
 }

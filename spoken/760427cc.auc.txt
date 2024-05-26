@@ -2,7 +2,7 @@
 {
     "name":"Cc. Madhya 20.98-102 — April 27, 1976, Auckland",
     "h1":"Cc. Madhya 20.98-102",
-    "label":"April 27, 1976, Auckland"
+    "label":"April 27, 1976, Auckland",
     "title":"Cc. Madhya 20.98-102 — April 27, 1976, Auckland",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"SB 3.25.43 — December 11, 1974, Bombay",
     "h1":"SB 3.25.43",
-    "label":"December 11, 1974, Bombay"
+    "label":"December 11, 1974, Bombay",
     "title":"SB 3.25.43 — December 11, 1974, Bombay",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Description of New York Temple and Conversation with Svarūpa Dāmodara — June 21, 1977, Vṛndāvana",
     "h1":"Description of New York Temple and Conversation with Svarūpa Dāmodara",
-    "label":"June 21, 1977, Vṛndāvana"
+    "label":"June 21, 1977, Vṛndāvana",
     "title":"Description of New York Temple and Conversation with Svarūpa Dāmodara — June 21, 1977, Vṛndāvana",
     "description":""
 }

@@ -2,7 +2,7 @@
 {
     "name":"Lecture after Manipur Dancing — March 29, 1975, Māyāpur",
     "h1":"Lecture after Manipur Dancing",
-    "label":"March 29, 1975, Māyāpur"
+    "label":"March 29, 1975, Māyāpur",
     "title":"Lecture after Manipur Dancing — March 29, 1975, Māyāpur",
     "description":""
 }

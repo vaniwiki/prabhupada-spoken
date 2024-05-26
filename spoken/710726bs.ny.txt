@@ -2,7 +2,7 @@
 {
     "name":"Śrī Brahma-saṁhitā, Verse 32 — July 26, 1971, New York",
     "h1":"Śrī Brahma-saṁhitā, Verse 32",
-    "label":"July 26, 1971, New York"
+    "label":"July 26, 1971, New York",
     "title":"Śrī Brahma-saṁhitā, Verse 32 — July 26, 1971, New York",
     "description":""
 }
