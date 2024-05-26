@@ -4,7 +4,7 @@
     "h1":"Morning Walk",
     "label":"May 26, 1976, Honolulu",
     "title":"Morning Walk — May 26, 1976, Honolulu",
-    "description":""
+    "description":"Prabhupāda: Karmī… Just like I began this Kṛṣṇa consciousness business with forty rupees, eh, in New York. Now, say within eight or ten years, we have got forty crores. What is the karmī who started his business with forty rupees and within ten years, eight years, has got forty crores?"
 }
 ---
 

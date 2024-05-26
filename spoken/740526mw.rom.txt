@@ -4,7 +4,7 @@
     "h1":"Morning Walk at Villa Borghese",
     "label":"May 26, 1974, Rome",
     "title":"Morning Walk at Villa Borghese — May 26, 1974, Rome",
-    "description":""
+    "description":"Prabhupāda: …philosophy and the so many bogus svāmīs’ philosophies, they are different. They offer some material benefit by their philosophy: “If you take this mantra, then your material life will be easier.” People are captivated for material benefit. Spiritual benefit, they do not understand, and neither our philosophy provides any facility for material benefit. Although spiritual benefit includes material benefit, but people do not understand this."
 }
 ---
 

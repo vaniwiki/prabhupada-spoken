@@ -4,7 +4,7 @@
     "h1":"SB 2.3.9",
     "label":"May 26, 1972, Los Angeles",
     "title":"SB 2.3.9 — May 26, 1972, Los Angeles",
-    "description":""
+    "description":"Prabhupāda: This is significant. Those who are Kṛṣṇa conscious, they have no material desires. Finished. Brahmaṇy upaśamāśrayam. Upaśama. Upaśama means completely finished, don’t want. They can worship the Supreme Personality of Godhead. Otherwise, without being akāma… Akāma means no material desires. Anyābhilāṣitā-śūnyam, completely. If we have got least desire for material enjoyment, Kṛṣṇa will give us chance again to accept a body which will satisfy the senses."
 }
 ---
 

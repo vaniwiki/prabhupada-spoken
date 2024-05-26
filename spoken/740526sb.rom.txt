@@ -4,7 +4,7 @@
     "h1":"SB 1.2.2",
     "label":"May 26, 1974, Rome",
     "title":"SB 1.2.2 — May 26, 1974, Rome",
-    "description":""
+    "description":"Prabhupāda: Yaṁ pravrajantam. Pravrajantam means to leave home in renounced order of life. That is called pravrajantam. Therefore a sannyāsī is called parivrājakācārya. A sannyāsī is supposed to be wandering without any shelter. That is called pravrajya. So Śukadeva Gosvāmī, he remained sixteen years within the womb of his mother. He did not come out. He was hearing his father within the womb. So this is called paramahaṁsa. So a paramahaṁsa does not require any reformatory process, because they are already reformed. Yaṁ pravrajantam anupetam. Anu. Ana means without. Upeta. Upeta means taking shelter of guru or being offered the sacred thread. Upanayanam. The sacred thread ceremony is called upanayanam. That means he did not undergo the regulative principles, because he was within the womb. Without any saṁskāra, he was going immediately, taking birth. Dvaipāyano viraha-kātaraḥ. The father certainly was expecting the son to remain at home. Every father expects. But he, Śukadeva Gosvāmī, immediately after his birth, he began to go away. He was simply just waiting, “When I shall be fit to immediately go out of home, I shall take my birth.”"
 }
 ---
 

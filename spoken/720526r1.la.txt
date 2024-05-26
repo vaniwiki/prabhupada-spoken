@@ -4,7 +4,7 @@
     "h1":"Room Conversation",
     "label":"May 26, 1972, Los Angeles",
     "title":"Room Conversation — May 26, 1972, Los Angeles",
-    "description":""
+    "description":"Prabhupāda: …the crow and a peacock dance. Kāka-moya[?]. There is a story. Do you know it? Do you know? The crow imitated a peacock. He got some tail feathers and put, [laughter] holding his head up, and began to… So that is imitation. But if guru-vaiṣṇava blesses, even a crow can become a peacock. That is the… There is vast ocean of difference between peacock and crow. Still, by guru-vaiṣṇava, a crow can become a peacock."
 }
 ---
 
