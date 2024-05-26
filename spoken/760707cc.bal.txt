@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.102 — July 7, 1976, Baltimore",
-    "h1":"July 7, 1976, Baltimore",
+    "h1":"Cc. Madhya 20.102",
+    "label":"July 7, 1976, Baltimore"
     "title":"Cc. Madhya 20.102 — July 7, 1976, Baltimore",
     "description":""
 }

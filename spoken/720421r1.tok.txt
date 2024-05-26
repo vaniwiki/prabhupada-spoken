@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation with Dai Nippon Representative — April 21, 1972, Tokyo",
-    "h1":"April 21, 1972, Tokyo",
+    "h1":"Conversation with Dai Nippon Representative",
+    "label":"April 21, 1972, Tokyo"
     "title":"Conversation with Dai Nippon Representative — April 21, 1972, Tokyo",
     "description":""
 }

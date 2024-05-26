@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 7.1, Engagement — February 16, 1973, Sydney",
-    "h1":"February 16, 1973, Sydney",
+    "h1":"Bg 7.1, Engagement",
+    "label":"February 16, 1973, Sydney"
     "title":"Bg 7.1, Engagement — February 16, 1973, Sydney",
     "description":""
 }

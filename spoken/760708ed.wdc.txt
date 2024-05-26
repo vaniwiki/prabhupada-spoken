@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Evening Darśana — July 8, 1976, Washington, D.C.",
-    "h1":"July 8, 1976, Washington, D.C.",
+    "h1":"Evening Darśana",
+    "label":"July 8, 1976, Washington, D.C."
     "title":"Evening Darśana — July 8, 1976, Washington, D.C.",
     "description":""
 }

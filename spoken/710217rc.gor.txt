@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation — February 17, 1971, Gorakhpur",
-    "h1":"February 17, 1971, Gorakhpur",
+    "h1":"Room Conversation",
+    "label":"February 17, 1971, Gorakhpur"
     "title":"Room Conversation — February 17, 1971, Gorakhpur",
     "description":""
 }

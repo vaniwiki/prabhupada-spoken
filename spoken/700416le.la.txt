@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture [Day after Lord Rāma’s Appearance Day] — April 16, 1970, Los Angeles",
-    "h1":"April 16, 1970, Los Angeles",
+    "h1":"Lecture [Day after Lord Rāma’s Appearance Day]",
+    "label":"April 16, 1970, Los Angeles"
     "title":"Lecture [Day after Lord Rāma’s Appearance Day] — April 16, 1970, Los Angeles",
     "description":""
 }

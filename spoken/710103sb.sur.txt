@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 6.1.56-62 — January 3, 1971, Surat",
-    "h1":"January 3, 1971, Surat",
+    "h1":"SB 6.1.56-62",
+    "label":"January 3, 1971, Surat"
     "title":"SB 6.1.56-62 — January 3, 1971, Surat",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"The Nectar of Devotion — October 30, 1972, Vṛndāvana",
-    "h1":"October 30, 1972, Vṛndāvana",
+    "h1":"The Nectar of Devotion",
+    "label":"October 30, 1972, Vṛndāvana"
     "title":"The Nectar of Devotion — October 30, 1972, Vṛndāvana",
     "description":""
 }

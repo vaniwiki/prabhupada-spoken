@@ -2,7 +2,8 @@
 ---json
 {
     "name":"Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka — November 18, 1968, Los Angeles",
-    "h1":"November 18, 1968, Los Angeles",
+    "h1":"Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka",
+    "label":"November 18, 1968, Los Angeles"
     "title":"Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka — November 18, 1968, Los Angeles",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival and Interview — April 19, 1972, Hong Kong",
-    "h1":"April 19, 1972, Hong Kong",
+    "h1":"Arrival and Interview",
+    "label":"April 19, 1972, Hong Kong"
     "title":"Arrival and Interview — April 19, 1972, Hong Kong",
     "description":""
 }

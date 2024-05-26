@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk — July 8, 1975, Chicago",
-    "h1":"July 8, 1975, Chicago",
+    "h1":"Morning Walk",
+    "label":"July 8, 1975, Chicago"
     "title":"Morning Walk — July 8, 1975, Chicago",
     "description":""
 }

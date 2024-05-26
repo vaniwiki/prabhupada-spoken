@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival Conversation in Car & Room — June 20, 1975, Los Angeles",
-    "h1":"June 20, 1975, Los Angeles",
+    "h1":"Arrival Conversation in Car & Room",
+    "label":"June 20, 1975, Los Angeles"
     "title":"Arrival Conversation in Car & Room — June 20, 1975, Los Angeles",
     "description":""
 }

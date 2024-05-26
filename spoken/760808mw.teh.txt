@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk at Niavaran Park — August 8, 1976, Tehran",
-    "h1":"August 8, 1976, Tehran",
+    "h1":"Morning Walk at Niavaran Park",
+    "label":"August 8, 1976, Tehran"
     "title":"Morning Walk at Niavaran Park — August 8, 1976, Tehran",
     "description":""
 }

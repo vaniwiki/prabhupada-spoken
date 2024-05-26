@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Comments on Bhagavad-gītā Play — July 12, 1976, New York",
-    "h1":"July 12, 1976, New York",
+    "h1":"Comments on Bhagavad-gītā Play",
+    "label":"July 12, 1976, New York"
     "title":"Comments on Bhagavad-gītā Play — July 12, 1976, New York",
     "description":""
 }

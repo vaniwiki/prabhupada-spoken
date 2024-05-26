@@ -1,7 +1,8 @@
 ---json
 {
     "name":"The Nectar of Devotion — January 29, 1973, Calcutta",
-    "h1":"January 29, 1973, Calcutta",
+    "h1":"The Nectar of Devotion",
+    "label":"January 29, 1973, Calcutta"
     "title":"The Nectar of Devotion — January 29, 1973, Calcutta",
     "description":""
 }

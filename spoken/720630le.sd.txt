@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture at Indians Home — June 30, 1972, San Diego",
-    "h1":"June 30, 1972, San Diego",
+    "h1":"Lecture at Indians Home",
+    "label":"June 30, 1972, San Diego"
     "title":"Lecture at Indians Home — June 30, 1972, San Diego",
     "description":""
 }

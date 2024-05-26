@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation with Surendra Kumar and O.B.L. Kapoor — June 26, 1977, Vṛndāvana",
-    "h1":"June 26, 1977, Vṛndāvana",
+    "h1":"Conversation with Surendra Kumar and O.B.L. Kapoor",
+    "label":"June 26, 1977, Vṛndāvana"
     "title":"Conversation with Surendra Kumar and O.B.L. Kapoor — June 26, 1977, Vṛndāvana",
     "description":""
 }

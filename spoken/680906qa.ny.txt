@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Questions and Answers — September 6, 1968, New York",
-    "h1":"September 6, 1968, New York",
+    "h1":"Questions and Answers",
+    "label":"September 6, 1968, New York"
     "title":"Questions and Answers — September 6, 1968, New York",
     "description":""
 }

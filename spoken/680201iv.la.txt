@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Interview — February 1, 1968, Los Angeles",
-    "h1":"February 1, 1968, Los Angeles",
+    "h1":"Interview",
+    "label":"February 1, 1968, Los Angeles"
     "title":"Interview — February 1, 1968, Los Angeles",
     "description":""
 }

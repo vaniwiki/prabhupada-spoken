@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Irish Poet Desmond O’Grady — May 23, 1974, Rome",
-    "h1":"May 23, 1974, Rome",
+    "h1":"Room Conversation with Irish Poet Desmond O’Grady",
+    "label":"May 23, 1974, Rome"
     "title":"Room Conversation with Irish Poet Desmond O’Grady — May 23, 1974, Rome",
     "description":""
 }

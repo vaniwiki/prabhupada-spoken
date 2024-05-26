@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 7.1 [Staged before Camera] — August 17, 1972, Los Angeles",
-    "h1":"August 17, 1972, Los Angeles",
+    "h1":"Bg 7.1 [Staged before Camera]",
+    "label":"August 17, 1972, Los Angeles"
     "title":"Bg 7.1 [Staged before Camera] — August 17, 1972, Los Angeles",
     "description":""
 }

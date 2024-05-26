@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Chanting Cc Ādi-līlā 7th Chapter — December 9, 1973, Los Angeles",
-    "h1":"December 9, 1973, Los Angeles",
+    "h1":"Chanting Cc Ādi-līlā 7th Chapter",
+    "label":"December 9, 1973, Los Angeles"
     "title":"Chanting Cc Ādi-līlā 7th Chapter — December 9, 1973, Los Angeles",
     "description":""
 }

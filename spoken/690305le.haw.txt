@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture-Day after Śrī Gaura-Pūrṇimā — March 5, 1969, Hawaii",
-    "h1":"March 5, 1969, Hawaii",
+    "h1":"Lecture-Day after Śrī Gaura-Pūrṇimā",
+    "label":"March 5, 1969, Hawaii"
     "title":"Lecture-Day after Śrī Gaura-Pūrṇimā — March 5, 1969, Hawaii",
     "description":""
 }

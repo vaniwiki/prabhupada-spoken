@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation and Interview — July 3, 1972, New York",
-    "h1":"July 3, 1972, New York",
+    "h1":"Room Conversation and Interview",
+    "label":"July 3, 1972, New York"
     "title":"Room Conversation and Interview — July 3, 1972, New York",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Kirtan & Lecture [Hindi] — December 26, 1975, Sanand",
-    "h1":"December 26, 1975, Sanand",
+    "h1":"Kirtan & Lecture [Hindi]",
+    "label":"December 26, 1975, Sanand"
     "title":"Kirtan & Lecture [Hindi] — December 26, 1975, Sanand",
     "description":""
 }

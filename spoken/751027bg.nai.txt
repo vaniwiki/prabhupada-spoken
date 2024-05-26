@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 7.1 — October 27, 1975, Nairobi",
-    "h1":"October 27, 1975, Nairobi",
+    "h1":"Bg 7.1 Lecture",
+    "label":"October 27, 1975, Nairobi"
     "title":"Bg 7.1 — October 27, 1975, Nairobi",
     "description":""
 }

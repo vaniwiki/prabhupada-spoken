@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Interview with Coronet Magazine — June 10, 1976, Los Angeles",
-    "h1":"June 10, 1976, Los Angeles",
+    "h1":"Interview with Coronet Magazine",
+    "label":"June 10, 1976, Los Angeles"
     "title":"Interview with Coronet Magazine — June 10, 1976, Los Angeles",
     "description":""
 }

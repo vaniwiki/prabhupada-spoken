@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrīmad-Bhāgavatām 6.2.9-10 — January 15, 1971, Allahabad",
-    "h1":"January 15, 1971, Allahabad",
+    "h1":"Śrīmad-Bhāgavatām 6.2.9-10",
+    "label":"January 15, 1971, Allahabad"
     "title":"Śrīmad-Bhāgavatām 6.2.9-10 — January 15, 1971, Allahabad",
     "description":""
 }

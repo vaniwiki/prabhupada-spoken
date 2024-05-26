@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB [partially recorded] — March 7, 1975, New York",
-    "h1":"March 7, 1975, New York",
+    "h1":"SB [partially recorded]",
+    "label":"March 7, 1975, New York"
     "title":"SB [partially recorded] — March 7, 1975, New York",
     "description":""
 }

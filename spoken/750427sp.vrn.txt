@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Explanation of Nṛsiṁha-vallabha Gosvāmī Speech — April 27, 1975, Vṛndāvana",
-    "h1":"April 27, 1975, Vṛndāvana",
+    "h1":"Explanation of Nṛsiṁha-vallabha Gosvāmī Speech",
+    "label":"April 27, 1975, Vṛndāvana"
     "title":"Explanation of Nṛsiṁha-vallabha Gosvāmī Speech — April 27, 1975, Vṛndāvana",
     "description":""
 }

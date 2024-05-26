@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival Interview — June 29, 1972, San Diego",
-    "h1":"June 29, 1972, San Diego",
+    "h1":"Arrival Interview",
+    "label":"June 29, 1972, San Diego"
     "title":"Arrival Interview — June 29, 1972, San Diego",
     "description":""
 }

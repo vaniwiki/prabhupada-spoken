@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Prayer Chants by Purī Brāhmaṇas — January 26, 1977, Jagannātha Purī",
-    "h1":"January 26, 1977, Jagannātha Purī",
+    "h1":"Prayer Chants by Purī Brāhmaṇas",
+    "label":"January 26, 1977, Jagannātha Purī"
     "title":"Prayer Chants by Purī Brāhmaṇas — January 26, 1977, Jagannātha Purī",
     "description":""
 }

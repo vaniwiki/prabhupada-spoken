@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.1 — March 1, 1975, Atlanta",
-    "h1":"March 1, 1975, Atlanta",
+    "h1":"Cc. Ādi 7.1",
+    "label":"March 1, 1975, Atlanta"
     "title":"Cc. Ādi 7.1 — March 1, 1975, Atlanta",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival Address — March 8, 1975, London",
-    "h1":"March 8, 1975, London",
+    "h1":"Arrival Address",
+    "label":"March 8, 1975, London"
     "title":"Arrival Address — March 8, 1975, London",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Press Release — December 22, 1968, Los Angeles",
-    "h1":"December 22, 1968, Los Angeles",
+    "h1":"Press Release",
+    "label":"December 22, 1968, Los Angeles"
     "title":"Press Release — December 22, 1968, Los Angeles",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation Astrologer’s Report — October 8, 1977, Vṛndāvana",
-    "h1":"October 8, 1977, Vṛndāvana",
+    "h1":"Room Conversation Astrologer’s Report",
+    "label":"October 8, 1977, Vṛndāvana"
     "title":"Room Conversation Astrologer’s Report — October 8, 1977, Vṛndāvana",
     "description":""
 }

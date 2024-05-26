@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Press Conference — October 2, 1975, Mauritius",
-    "h1":"October 2, 1975, Mauritius",
+    "h1":"Press Conference",
+    "label":"October 2, 1975, Mauritius"
     "title":"Press Conference — October 2, 1975, Mauritius",
     "description":""
 }

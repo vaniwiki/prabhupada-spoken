@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrīla Prabhupāda Vigil — May 27, 1977, Vṛndāvana",
-    "h1":"May 27, 1977, Vṛndāvana",
+    "h1":"Śrīla Prabhupāda Vigil",
+    "label":"May 27, 1977, Vṛndāvana"
     "title":"Śrīla Prabhupāda Vigil — May 27, 1977, Vṛndāvana",
     "description":""
 }

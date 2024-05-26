@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Recorded Speech to Members of ISKCON London — December 23, 1968, Los Angeles",
-    "h1":"December 23, 1968, Los Angeles",
+    "h1":"Recorded Speech to Members of ISKCON London",
+    "label":"December 23, 1968, Los Angeles"
     "title":"Recorded Speech to Members of ISKCON London — December 23, 1968, Los Angeles",
     "description":""
 }

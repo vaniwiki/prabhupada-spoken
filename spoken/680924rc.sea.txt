@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation about Marriage — September 24, 1968, Seattle",
-    "h1":"September 24, 1968, Seattle",
+    "h1":"Room Conversation about Marriage",
+    "label":"September 24, 1968, Seattle"
     "title":"Room Conversation about Marriage — September 24, 1968, Seattle",
     "description":""
 }

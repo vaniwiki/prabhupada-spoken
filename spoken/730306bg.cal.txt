@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 10.1-3 — March 6, 1973, Calcutta",
-    "h1":"March 6, 1973, Calcutta",
+    "h1":"Bg 10.1-3 Lecture",
+    "label":"March 6, 1973, Calcutta"
     "title":"Bg 10.1-3 — March 6, 1973, Calcutta",
     "description":""
 }

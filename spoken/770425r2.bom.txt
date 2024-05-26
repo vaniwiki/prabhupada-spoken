@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation: Bogus Gurus — April 25, 1977, Bombay",
-    "h1":"April 25, 1977, Bombay",
+    "h1":"Conversation: Bogus Gurus",
+    "label":"April 25, 1977, Bombay"
     "title":"Conversation: Bogus Gurus — April 25, 1977, Bombay",
     "description":""
 }

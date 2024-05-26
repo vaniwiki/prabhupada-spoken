@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Rādhāṣṭamī — August 30, 1968, Montreal",
-    "h1":"August 30, 1968, Montreal",
+    "h1":"Rādhāṣṭamī",
+    "label":"August 30, 1968, Montreal"
     "title":"Rādhāṣṭamī — August 30, 1968, Montreal",
     "description":""
 }

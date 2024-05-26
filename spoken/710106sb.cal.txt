@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 6.2.1-5 — January 6, 1971, Calcutta",
-    "h1":"January 6, 1971, Calcutta",
+    "h1":"SB 6.2.1-5",
+    "label":"January 6, 1971, Calcutta"
     "title":"SB 6.2.1-5 — January 6, 1971, Calcutta",
     "description":""
 }

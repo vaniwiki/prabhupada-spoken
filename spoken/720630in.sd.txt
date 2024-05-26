@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 7.1 and Initiations — June 30, 1972, San Diego",
-    "h1":"June 30, 1972, San Diego",
+    "h1":"Bg 7.1 and Initiations",
+    "label":"June 30, 1972, San Diego"
     "title":"Bg 7.1 and Initiations — June 30, 1972, San Diego",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded] — December 28, 1968, Los Angeles",
-    "h1":"December 28, 1968, Los Angeles",
+    "h1":"Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded]",
+    "label":"December 28, 1968, Los Angeles"
     "title":"Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded] — December 28, 1968, Los Angeles",
     "description":""
 }

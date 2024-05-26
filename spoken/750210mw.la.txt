@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk Through the BBT Warehouse — February 10, 1975, Los Angeles",
-    "h1":"February 10, 1975, Los Angeles",
+    "h1":"Morning Walk Through the BBT Warehouse",
+    "label":"February 10, 1975, Los Angeles"
     "title":"Morning Walk Through the BBT Warehouse — February 10, 1975, Los Angeles",
     "description":""
 }

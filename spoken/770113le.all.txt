@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture at Kumbha-melā — January 13, 1977, Allahabad",
-    "h1":"January 13, 1977, Allahabad",
+    "h1":"Lecture at Kumbha-melā",
+    "label":"January 13, 1977, Allahabad"
     "title":"Lecture at Kumbha-melā — January 13, 1977, Allahabad",
     "description":""
 }

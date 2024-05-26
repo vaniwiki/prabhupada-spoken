@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Hari Hari Biphale — April 2, 1972, Sydney ",
-    "h1":"April 2, 1972, Sydney ",
+    "h1":"Hari Hari Biphale",
+    "label":"April 2, 1972, Sydney "
     "title":"Hari Hari Biphale — April 2, 1972, Sydney ",
     "description":""
 }

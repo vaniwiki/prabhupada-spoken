@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrī Brahma-saṁhitā, Verse 34 — September 13, 1968 , San Francisco",
-    "h1":"September 13, 1968 , San Francisco",
+    "h1":"Śrī Brahma-saṁhitā, Verse 34",
+    "label":"September 13, 1968 , San Francisco"
     "title":"Śrī Brahma-saṁhitā, Verse 34 — September 13, 1968 , San Francisco",
     "description":""
 }

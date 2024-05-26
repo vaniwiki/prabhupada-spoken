@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation with Religious Group — July 27, 1968, Montreal",
-    "h1":"July 27, 1968, Montreal",
+    "h1":"Conversation with Religious Group",
+    "label":"July 27, 1968, Montreal"
     "title":"Conversation with Religious Group — July 27, 1968, Montreal",
     "description":""
 }

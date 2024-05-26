@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation [partially recorded] — February 4, 1977, Calcutta",
-    "h1":"February 4, 1977, Calcutta",
+    "h1":"Conversation [partially recorded]",
+    "label":"February 4, 1977, Calcutta"
     "title":"Conversation [partially recorded] — February 4, 1977, Calcutta",
     "description":""
 }

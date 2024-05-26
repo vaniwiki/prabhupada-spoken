@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture, “What is Religion?” — August 23, 1973, London",
-    "h1":"August 23, 1973, London",
+    "h1":"Lecture, “What is Religion?”",
+    "label":"August 23, 1973, London"
     "title":"Lecture, “What is Religion?” — August 23, 1973, London",
     "description":""
 }

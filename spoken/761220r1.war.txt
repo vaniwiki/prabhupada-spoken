@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation at the Gītā Pratiṣṭhāna (Conference) — December 20, 1976, Wardha",
-    "h1":"December 20, 1976, Wardha",
+    "h1":"Conversation at the Gītā Pratiṣṭhāna (Conference)",
+    "label":"December 20, 1976, Wardha"
     "title":"Conversation at the Gītā Pratiṣṭhāna (Conference) — December 20, 1976, Wardha",
     "description":""
 }

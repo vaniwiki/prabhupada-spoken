@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation about Modern Soceity — June 16, 1975, Honolulu",
-    "h1":"June 16, 1975, Honolulu",
+    "h1":"Room Conversation about Modern Soceity",
+    "label":"June 16, 1975, Honolulu"
     "title":"Room Conversation about Modern Soceity — June 16, 1975, Honolulu",
     "description":""
 }

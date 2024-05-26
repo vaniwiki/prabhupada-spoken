@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 5.5.3 — October 25, 1976, Vṛndāvana",
-    "h1":"October 25, 1976, Vṛndāvana",
+    "h1":"SB 5.5.3",
+    "label":"October 25, 1976, Vṛndāvana"
     "title":"SB 5.5.3 — October 25, 1976, Vṛndāvana",
     "description":""
 }

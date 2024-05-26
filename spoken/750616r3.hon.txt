@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation About Making Deities — June 16, 1975, Honolulu",
-    "h1":"June 16, 1975, Honolulu",
+    "h1":"Room Conversation About Making Deities",
+    "label":"June 16, 1975, Honolulu"
     "title":"Room Conversation About Making Deities — June 16, 1975, Honolulu",
     "description":""
 }

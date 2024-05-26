@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrī Īśopaniṣad Invocation Lecture [partially recorded] — April 27, 1970, Los Angeles",
-    "h1":"April 27, 1970, Los Angeles",
+    "h1":"Śrī Īśopaniṣad Invocation Lecture [partially recorded]",
+    "label":"April 27, 1970, Los Angeles"
     "title":"Śrī Īśopaniṣad Invocation Lecture [partially recorded] — April 27, 1970, Los Angeles",
     "description":""
 }

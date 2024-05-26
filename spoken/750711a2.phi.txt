@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival Lecture — July 11, 1975, Philadelphia",
-    "h1":"July 11, 1975, Philadelphia",
+    "h1":"Arrival Lecture",
+    "label":"July 11, 1975, Philadelphia"
     "title":"Arrival Lecture — July 11, 1975, Philadelphia",
     "description":""
 }

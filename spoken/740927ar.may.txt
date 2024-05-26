@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival Talk — September 27, 1974, Māyāpur",
-    "h1":"September 27, 1974, Māyāpur",
+    "h1":"Arrival Talk",
+    "label":"September 27, 1974, Māyāpur"
     "title":"Arrival Talk — September 27, 1974, Māyāpur",
     "description":""
 }

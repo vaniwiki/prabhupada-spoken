@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Visit to Proposed Restaurant and Room Conversation — August 12, 1976, Tehran",
-    "h1":"August 12, 1976, Tehran",
+    "h1":"Visit to Proposed Restaurant and Room Conversation",
+    "label":"August 12, 1976, Tehran"
     "title":"Visit to Proposed Restaurant and Room Conversation — August 12, 1976, Tehran",
     "description":""
 }

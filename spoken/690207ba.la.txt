@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture — February 7, 1969, Los Angeles",
-    "h1":"February 7, 1969, Los Angeles",
+    "h1":"Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture",
+    "label":"February 7, 1969, Los Angeles"
     "title":"Bhaktisiddhānta Sarasvatī Gosvāmī Appearance Day, Lecture — February 7, 1969, Los Angeles",
     "description":""
 }

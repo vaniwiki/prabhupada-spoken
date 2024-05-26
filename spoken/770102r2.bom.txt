@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation with Yogi Amrit Desai of Kripalu Ashram, Pennsylvania, USA — January 2, 1977, Bombay",
-    "h1":"January 2, 1977, Bombay",
+    "h1":"Conversation with Yogi Amrit Desai of Kripalu Ashram, Pennsylvania, USA",
+    "label":"January 2, 1977, Bombay"
     "title":"Conversation with Yogi Amrit Desai of Kripalu Ashram, Pennsylvania, USA — January 2, 1977, Bombay",
     "description":""
 }

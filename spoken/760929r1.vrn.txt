@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with U.N. Doctor — September 29, 1976, Vṛndāvana",
-    "h1":"September 29, 1976, Vṛndāvana",
+    "h1":"Room Conversation with U.N. Doctor",
+    "label":"September 29, 1976, Vṛndāvana"
     "title":"Room Conversation with U.N. Doctor — September 29, 1976, Vṛndāvana",
     "description":""
 }

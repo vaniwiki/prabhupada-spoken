@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Garden Conversation, Kṛṣṇa, ‘Songs by the Gopīs.’ — June 14, 1972, Los Angeles",
-    "h1":"June 14, 1972, Los Angeles",
+    "h1":"Garden Conversation, Kṛṣṇa, ‘Songs by the Gopīs.’",
+    "label":"June 14, 1972, Los Angeles"
     "title":"Garden Conversation, Kṛṣṇa, ‘Songs by the Gopīs.’ — June 14, 1972, Los Angeles",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Garden Conversation with Professors — June 24, 1975, Los Angeles",
-    "h1":"June 24, 1975, Los Angeles",
+    "h1":"Garden Conversation with Professors",
+    "label":"June 24, 1975, Los Angeles"
     "title":"Garden Conversation with Professors — June 24, 1975, Los Angeles",
     "description":""
 }

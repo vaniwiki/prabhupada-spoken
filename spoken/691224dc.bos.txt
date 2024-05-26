@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Discussion with BTG Staff — December 24, 1969, Boston",
-    "h1":"December 24, 1969, Boston",
+    "h1":"Discussion with BTG Staff",
+    "label":"December 24, 1969, Boston"
     "title":"Discussion with BTG Staff — December 24, 1969, Boston",
     "description":""
 }

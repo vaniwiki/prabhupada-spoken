@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival Lecture — June 29, 1971, Los Angeles",
-    "h1":"June 29, 1971, Los Angeles",
+    "h1":"Arrival Lecture",
+    "label":"June 29, 1971, Los Angeles"
     "title":"Arrival Lecture — June 29, 1971, Los Angeles",
     "description":""
 }

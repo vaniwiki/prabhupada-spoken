@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day Lecture — February 8, 1977, Māyāpur",
-    "h1":"February 8, 1977, Māyāpur",
+    "h1":"Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day Lecture",
+    "label":"February 8, 1977, Māyāpur"
     "title":"Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda’s Appearance Day Lecture — February 8, 1977, Māyāpur",
     "description":""
 }

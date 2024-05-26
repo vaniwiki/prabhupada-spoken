@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 6.1.1-4 — May 20, 1975, Melbourne",
-    "h1":"May 20, 1975, Melbourne",
+    "h1":"SB 6.1.1-4",
+    "label":"May 20, 1975, Melbourne"
     "title":"SB 6.1.1-4 — May 20, 1975, Melbourne",
     "description":""
 }

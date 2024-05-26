@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Mormons — April 23, 1976, Melbourne",
-    "h1":"April 23, 1976, Melbourne",
+    "h1":"Room Conversation with Mormons",
+    "label":"April 23, 1976, Melbourne"
     "title":"Room Conversation with Mormons — April 23, 1976, Melbourne",
     "description":""
 }

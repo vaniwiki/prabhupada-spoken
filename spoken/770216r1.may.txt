@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Room Conversation — February 16, 1977, Māyāpur",
-    "h1":"February 16, 1977, Māyāpur",
+    "h1":"Morning Room Conversation",
+    "label":"February 16, 1977, Māyāpur"
     "title":"Morning Room Conversation — February 16, 1977, Māyāpur",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Foundation Stone Ceremony Speech — February 2, 1977, Bhubaneswar",
-    "h1":"February 2, 1977, Bhubaneswar",
+    "h1":"Foundation Stone Ceremony Speech",
+    "label":"February 2, 1977, Bhubaneswar"
     "title":"Foundation Stone Ceremony Speech — February 2, 1977, Bhubaneswar",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Short Discussions — May 25, 1977, Vṛndāvana",
-    "h1":"May 25, 1977, Vṛndāvana",
+    "h1":"Short Discussions",
+    "label":"May 25, 1977, Vṛndāvana"
     "title":"Short Discussions — May 25, 1977, Vṛndāvana",
     "description":""
 }

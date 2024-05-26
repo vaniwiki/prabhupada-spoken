@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Director of Research of the Dept. of Social Welfare — May 21, 1975, Melbourne",
-    "h1":"May 21, 1975, Melbourne",
+    "h1":"Room Conversation with Director of Research of the Dept. of Social Welfare",
+    "label":"May 21, 1975, Melbourne"
     "title":"Room Conversation with Director of Research of the Dept. of Social Welfare — May 21, 1975, Melbourne",
     "description":""
 }

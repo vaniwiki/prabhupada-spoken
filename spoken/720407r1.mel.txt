@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Maharishi Impersonalists — April 7, 1972, Melbourne",
-    "h1":"April 7, 1972, Melbourne",
+    "h1":"Room Conversation with Maharishi Impersonalists",
+    "label":"April 7, 1972, Melbourne"
     "title":"Room Conversation with Maharishi Impersonalists — April 7, 1972, Melbourne",
     "description":""
 }

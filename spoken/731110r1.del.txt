@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bhajana with Harmonium, Room Conversation — November 10, 1973, Delhi",
-    "h1":"November 10, 1973, Delhi",
+    "h1":"Bhajana with Harmonium, Room Conversation",
+    "label":"November 10, 1973, Delhi"
     "title":"Bhajana with Harmonium, Room Conversation — November 10, 1973, Delhi",
     "description":""
 }

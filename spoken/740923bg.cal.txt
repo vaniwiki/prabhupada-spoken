@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 4.10 — September 23, 1974, Calcutta",
-    "h1":"September 23, 1974, Calcutta",
+    "h1":"Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 4.10",
+    "label":"September 23, 1974, Calcutta"
     "title":"Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 4.10 — September 23, 1974, Calcutta",
     "description":""
 }

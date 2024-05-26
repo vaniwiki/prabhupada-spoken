@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture During Walk [partially recorded] — August 2, 1976, New Māyāpur",
-    "h1":"August 2, 1976, New Māyāpur",
+    "h1":"Lecture During Walk [partially recorded]",
+    "label":"August 2, 1976, New Māyāpur"
     "title":"Lecture During Walk [partially recorded] — August 2, 1976, New Māyāpur",
     "description":""
 }

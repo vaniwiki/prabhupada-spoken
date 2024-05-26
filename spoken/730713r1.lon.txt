@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Educationists — July 13, 1973, London",
-    "h1":"July 13, 1973, London",
+    "h1":"Room Conversation with Educationists",
+    "label":"July 13, 1973, London"
     "title":"Room Conversation with Educationists — July 13, 1973, London",
     "description":""
 }

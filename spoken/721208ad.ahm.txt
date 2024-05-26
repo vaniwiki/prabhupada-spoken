@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Rotary Club Address — December 8, 1972, Ahmedabad",
-    "h1":"December 8, 1972, Ahmedabad",
+    "h1":"Rotary Club Address",
+    "label":"December 8, 1972, Ahmedabad"
     "title":"Rotary Club Address — December 8, 1972, Ahmedabad",
     "description":""
 }

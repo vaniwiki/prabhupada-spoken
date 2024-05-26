@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk on Waikiki Beach — May 27, 1975, Honolulu",
-    "h1":"May 27, 1975, Honolulu",
+    "h1":"Morning Walk on Waikiki Beach",
+    "label":"May 27, 1975, Honolulu"
     "title":"Morning Walk on Waikiki Beach — May 27, 1975, Honolulu",
     "description":""
 }

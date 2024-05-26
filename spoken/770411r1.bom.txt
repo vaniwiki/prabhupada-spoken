@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Conversation About Newspaper Articles — April 11, 1977, Bombay",
-    "h1":"April 11, 1977, Bombay",
+    "h1":"Morning Conversation About Newspaper Articles",
+    "label":"April 11, 1977, Bombay"
     "title":"Morning Conversation About Newspaper Articles — April 11, 1977, Bombay",
     "description":""
 }

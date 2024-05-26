@@ -1,7 +1,8 @@
 ---json
 {
     "name":"La Trobe University Lecture — July 1, 1974, Melbourne",
-    "h1":"July 1, 1974, Melbourne",
+    "h1":"La Trobe University Lecture",
+    "label":"July 1, 1974, Melbourne"
     "title":"La Trobe University Lecture — July 1, 1974, Melbourne",
     "description":""
 }

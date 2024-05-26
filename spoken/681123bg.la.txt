@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg As It Is Introduction — November 23, 1968 , Los Angeles",
-    "h1":"November 23, 1968 , Los Angeles",
+    "h1":"Bg As It Is Introduction",
+    "label":"November 23, 1968 , Los Angeles"
     "title":"Bg As It Is Introduction — November 23, 1968 , Los Angeles",
     "description":""
 }

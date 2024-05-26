@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk [partially recorded] — May 31, 1976, Honolulu",
-    "h1":"May 31, 1976, Honolulu",
+    "h1":"Morning Walk [partially recorded]",
+    "label":"May 31, 1976, Honolulu"
     "title":"Morning Walk [partially recorded] — May 31, 1976, Honolulu",
     "description":""
 }

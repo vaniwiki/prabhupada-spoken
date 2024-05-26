@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Meeting with Mr. Raju, Endowments Commissioner — August 24, 1976, Hyderabad",
-    "h1":"August 24, 1976, Hyderabad",
+    "h1":"Meeting with Mr. Raju, Endowments Commissioner",
+    "label":"August 24, 1976, Hyderabad"
     "title":"Meeting with Mr. Raju, Endowments Commissioner — August 24, 1976, Hyderabad",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture [partially recorded] — April 11, 1969, New York",
-    "h1":"April 11, 1969, New York",
+    "h1":"Lecture [partially recorded]",
+    "label":"April 11, 1969, New York"
     "title":"Lecture [partially recorded] — April 11, 1969, New York",
     "description":""
 }

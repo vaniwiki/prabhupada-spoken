@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Purport to Śrī-Śrī-Gurv-aṣṭakam — January 2, 1969, Los Angeles",
-    "h1":"January 2, 1969, Los Angeles",
+    "h1":"Purport to Śrī-Śrī-Gurv-aṣṭakam",
+    "label":"January 2, 1969, Los Angeles"
     "title":"Purport to Śrī-Śrī-Gurv-aṣṭakam — January 2, 1969, Los Angeles",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk at Stow Lake — March 23, 1968, San Francisco",
-    "h1":"March 23, 1968, San Francisco",
+    "h1":"Morning Walk at Stow Lake",
+    "label":"March 23, 1968, San Francisco"
     "title":"Morning Walk at Stow Lake — March 23, 1968, San Francisco",
     "description":""
 }

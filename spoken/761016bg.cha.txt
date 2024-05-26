@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 9.3 [Hindi] — October 6, 1976, Chandigarh",
-    "h1":"October 6, 1976, Chandigarh",
+    "h1":"Bg 9.3 Lecture [Hindi]",
+    "label":"October 6, 1976, Chandigarh"
     "title":"Bg 9.3 [Hindi] — October 6, 1976, Chandigarh",
     "description":""
 }

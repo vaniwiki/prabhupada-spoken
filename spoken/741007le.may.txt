@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture [Bengali] — October 7, 1974, Māyāpur",
-    "h1":"October 7, 1974, Māyāpur",
+    "h1":"Lecture [Bengali]",
+    "label":"October 7, 1974, Māyāpur"
     "title":"Lecture [Bengali] — October 7, 1974, Māyāpur",
     "description":""
 }

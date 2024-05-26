@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Speech to Indian Audience — July 28, 1968, Montreal",
-    "h1":"July 28, 1968, Montreal",
+    "h1":"Speech to Indian Audience",
+    "label":"July 28, 1968, Montreal"
     "title":"Speech to Indian Audience — July 28, 1968, Montreal",
     "description":""
 }

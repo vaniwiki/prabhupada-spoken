@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Teaching Children, Conversation — September 12, 1972, Dallas",
-    "h1":"September 12, 1972, Dallas",
+    "h1":"Teaching Children, Conversation",
+    "label":"September 12, 1972, Dallas"
     "title":"Teaching Children, Conversation — September 12, 1972, Dallas",
     "description":""
 }

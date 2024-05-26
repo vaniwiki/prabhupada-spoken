@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk in the Botanical Gardens — June 2, 1975, Honolulu",
-    "h1":"June 2, 1975, Honolulu",
+    "h1":"Morning Walk in the Botanical Gardens",
+    "label":"June 2, 1975, Honolulu"
     "title":"Morning Walk in the Botanical Gardens — June 2, 1975, Honolulu",
     "description":""
 }

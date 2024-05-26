@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrī Rāma-Navamī — March 27, 1969, Hawaii",
-    "h1":"March 27, 1969, Hawaii",
+    "h1":"Śrī Rāma-Navamī",
+    "label":"March 27, 1969, Hawaii"
     "title":"Śrī Rāma-Navamī — March 27, 1969, Hawaii",
     "description":""
 }

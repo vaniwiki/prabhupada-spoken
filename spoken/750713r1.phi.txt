@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation with Professor Hopkins — July 13, 1975, Philadelphia",
-    "h1":"July 13, 1975, Philadelphia",
+    "h1":"Conversation with Professor Hopkins",
+    "label":"July 13, 1975, Philadelphia"
     "title":"Conversation with Professor Hopkins — July 13, 1975, Philadelphia",
     "description":""
 }

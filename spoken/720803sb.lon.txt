@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 5.5.1, Engagement — August 3, 1972, London",
-    "h1":"August 3, 1972, London",
+    "h1":"SB 5.5.1, Engagement",
+    "label":"August 3, 1972, London"
     "title":"SB 5.5.1, Engagement — August 3, 1972, London",
     "description":""
 }

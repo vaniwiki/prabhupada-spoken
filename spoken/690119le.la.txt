@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Sunday Feast Lecture — January 19, 1969, Los Angeles",
-    "h1":"January 19, 1969, Los Angeles",
+    "h1":"Sunday Feast Lecture",
+    "label":"January 19, 1969, Los Angeles"
     "title":"Sunday Feast Lecture — January 19, 1969, Los Angeles",
     "description":""
 }

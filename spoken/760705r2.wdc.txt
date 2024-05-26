@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation with Dr. Shaligram Shukla [Part 2] — July 5, 1976, Washington, D.C.",
-    "h1":"July 5, 1976, Washington, D.C.",
+    "h1":"Conversation with Dr. Shaligram Shukla [Part 2]",
+    "label":"July 5, 1976, Washington, D.C."
     "title":"Conversation with Dr. Shaligram Shukla [Part 2] — July 5, 1976, Washington, D.C.",
     "description":""
 }

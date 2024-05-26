@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation With Dr. G. Ghosh of Allahabad — October 16, 1977, Vṛndāvana",
-    "h1":"October 16, 1977, Vṛndāvana",
+    "h1":"Room Conversation With Dr. G. Ghosh of Allahabad",
+    "label":"October 16, 1977, Vṛndāvana"
     "title":"Room Conversation With Dr. G. Ghosh of Allahabad — October 16, 1977, Vṛndāvana",
     "description":""
 }

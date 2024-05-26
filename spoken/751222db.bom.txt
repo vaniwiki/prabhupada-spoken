@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 — December 22, 1975, Bombay",
-    "h1":"December 22, 1975, Bombay",
+    "h1":"Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7",
+    "label":"December 22, 1975, Bombay"
     "title":"Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 — December 22, 1975, Bombay",
     "description":""
 }

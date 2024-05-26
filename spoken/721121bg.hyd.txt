@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 2.15 — November 21, 1972, Hyderabad",
-    "h1":"November 21, 1972, Hyderabad",
+    "h1":"Bg 2.15 Lecture",
+    "label":"November 21, 1972, Hyderabad"
     "title":"Bg 2.15 — November 21, 1972, Hyderabad",
     "description":""
 }

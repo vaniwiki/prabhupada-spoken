@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation With Shri Narayan and Ramkrishna Bajaj — October 31, 1977, Vṛndāvana",
-    "h1":"October 31, 1977, Vṛndāvana",
+    "h1":"Room Conversation With Shri Narayan and Ramkrishna Bajaj",
+    "label":"October 31, 1977, Vṛndāvana"
     "title":"Room Conversation With Shri Narayan and Ramkrishna Bajaj — October 31, 1977, Vṛndāvana",
     "description":""
 }

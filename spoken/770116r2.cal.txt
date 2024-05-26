@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation on 1976 Book Scores — January 16, 1977, Calcutta",
-    "h1":"January 16, 1977, Calcutta",
+    "h1":"Room Conversation on 1976 Book Scores",
+    "label":"January 16, 1977, Calcutta"
     "title":"Room Conversation on 1976 Book Scores — January 16, 1977, Calcutta",
     "description":""
 }

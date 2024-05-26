@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Monsieur Mesman — June 11, 1974, Paris",
-    "h1":"June 11, 1974, Paris",
+    "h1":"Room Conversation with Monsieur Mesman",
+    "label":"June 11, 1974, Paris"
     "title":"Room Conversation with Monsieur Mesman — June 11, 1974, Paris",
     "description":""
 }

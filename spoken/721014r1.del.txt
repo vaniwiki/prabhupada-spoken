@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Kenneth Keating — October 14, 1972, Delhi",
-    "h1":"October 14, 1972, Delhi",
+    "h1":"Room Conversation with Kenneth Keating",
+    "label":"October 14, 1972, Delhi"
     "title":"Room Conversation with Kenneth Keating — October 14, 1972, Delhi",
     "description":""
 }

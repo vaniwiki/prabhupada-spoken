@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Discussion about Bhū-maṇḍala — July 5, 1977, Vṛndāvana",
-    "h1":"July 5, 1977, Vṛndāvana",
+    "h1":"Discussion about Bhū-maṇḍala",
+    "label":"July 5, 1977, Vṛndāvana"
     "title":"Discussion about Bhū-maṇḍala — July 5, 1977, Vṛndāvana",
     "description":""
 }

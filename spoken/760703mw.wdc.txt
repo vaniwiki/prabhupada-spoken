@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk [partially recorded] — July 3, 1976, Washington, D.C.",
-    "h1":"July 3, 1976, Washington, D.C.",
+    "h1":"Morning Walk [partially recorded]",
+    "label":"July 3, 1976, Washington, D.C."
     "title":"Morning Walk [partially recorded] — July 3, 1976, Washington, D.C.",
     "description":""
 }

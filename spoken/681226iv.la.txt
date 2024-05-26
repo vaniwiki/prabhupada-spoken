@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Interview with LA Times Reporter About Moon Trip — December 26, 1968, Los Angeles",
-    "h1":"December 26, 1968, Los Angeles",
+    "h1":"Interview with LA Times Reporter About Moon Trip",
+    "label":"December 26, 1968, Los Angeles"
     "title":"Interview with LA Times Reporter About Moon Trip — December 26, 1968, Los Angeles",
     "description":""
 }

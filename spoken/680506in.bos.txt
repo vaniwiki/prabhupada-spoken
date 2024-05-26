@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Brāhmaṇa Initiation Lecture with Professor O’Connell — May 6, 1968, Boston",
-    "h1":"May 6, 1968, Boston",
+    "h1":"Brāhmaṇa Initiation Lecture with Professor O’Connell",
+    "label":"May 6, 1968, Boston"
     "title":"Brāhmaṇa Initiation Lecture with Professor O’Connell — May 6, 1968, Boston",
     "description":""
 }

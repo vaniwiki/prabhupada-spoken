@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Woman Sanskrit Professor — February 13, 1975, Mexico City",
-    "h1":"February 13, 1975, Mexico City",
+    "h1":"Room Conversation with Woman Sanskrit Professor",
+    "label":"February 13, 1975, Mexico City"
     "title":"Room Conversation with Woman Sanskrit Professor — February 13, 1975, Mexico City",
     "description":""
 }

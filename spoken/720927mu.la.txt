@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śuddha-bhakata-caraṇa-reṇu and Purport — September 27, 1972, Los Angeles",
-    "h1":"September 27, 1972, Los Angeles",
+    "h1":"Śuddha-bhakata-caraṇa-reṇu and Purport",
+    "label":"September 27, 1972, Los Angeles"
     "title":"Śuddha-bhakata-caraṇa-reṇu and Purport — September 27, 1972, Los Angeles",
     "description":""
 }

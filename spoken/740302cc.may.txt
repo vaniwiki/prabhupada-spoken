@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.2 — March 2, 1974, Māyāpur",
-    "h1":"March 2, 1974, Māyāpur",
+    "h1":"Cc. Ādi 7.2",
+    "label":"March 2, 1974, Māyāpur"
     "title":"Cc. Ādi 7.2 — March 2, 1974, Māyāpur",
     "description":""
 }

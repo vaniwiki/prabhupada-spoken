@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation With Scientists — July 6, 1976, Washington, D.C.",
-    "h1":"July 6, 1976, Washington, D.C.",
+    "h1":"Room Conversation With Scientists",
+    "label":"July 6, 1976, Washington, D.C."
     "title":"Room Conversation With Scientists — July 6, 1976, Washington, D.C.",
     "description":""
 }

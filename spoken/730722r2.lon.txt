@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation with George Harrison — July 22, 1973, London",
-    "h1":"July 22, 1973, London",
+    "h1":"Conversation with George Harrison",
+    "label":"July 22, 1973, London"
     "title":"Conversation with George Harrison — July 22, 1973, London",
     "description":""
 }

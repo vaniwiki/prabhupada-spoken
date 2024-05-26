@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation First Day in Juhu Quarters — March 30, 1977, Bombay",
-    "h1":"March 30, 1977, Bombay",
+    "h1":"Room Conversation First Day in Juhu Quarters",
+    "label":"March 30, 1977, Bombay"
     "title":"Room Conversation First Day in Juhu Quarters — March 30, 1977, Bombay",
     "description":""
 }

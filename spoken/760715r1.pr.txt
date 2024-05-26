@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation at Gītā-nagarī Farm — July 15, 1976, Port Royal",
-    "h1":"July 15, 1976, Port Royal",
+    "h1":"Conversation at Gītā-nagarī Farm",
+    "label":"July 15, 1976, Port Royal"
     "title":"Conversation at Gītā-nagarī Farm — July 15, 1976, Port Royal",
     "description":""
 }

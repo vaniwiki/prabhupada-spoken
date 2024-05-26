@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Prof. Servas — July 26, 1975, Laguna Beach",
-    "h1":"July 26, 1975, Laguna Beach",
+    "h1":"Room Conversation with Prof. Servas",
+    "label":"July 26, 1975, Laguna Beach"
     "title":"Room Conversation with Prof. Servas — July 26, 1975, Laguna Beach",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrī Śrī Rukmiṇī Dvārakānātha Deity Installation — July 16, 1969, Los Angeles",
-    "h1":"July 16, 1969, Los Angeles",
+    "h1":"Śrī Śrī Rukmiṇī Dvārakānātha Deity Installation",
+    "label":"July 16, 1969, Los Angeles"
     "title":"Śrī Śrī Rukmiṇī Dvārakānātha Deity Installation — July 16, 1969, Los Angeles",
     "description":""
 }

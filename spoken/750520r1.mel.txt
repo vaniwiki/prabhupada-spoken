@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Dr. Copeland, Professor of Modern Indian History — May 20, 1975, Melbourne",
-    "h1":"May 20, 1975, Melbourne",
+    "h1":"Room Conversation with Dr. Copeland, Professor of Modern Indian History",
+    "label":"May 20, 1975, Melbourne"
     "title":"Room Conversation with Dr. Copeland, Professor of Modern Indian History — May 20, 1975, Melbourne",
     "description":""
 }

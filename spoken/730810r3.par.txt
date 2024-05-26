@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Dr. Inger, UNESCO Worker — August 10, 1973, Paris",
-    "h1":"August 10, 1973, Paris",
+    "h1":"Room Conversation with Dr. Inger, UNESCO Worker",
+    "label":"August 10, 1973, Paris"
     "title":"Room Conversation with Dr. Inger, UNESCO Worker — August 10, 1973, Paris",
     "description":""
 }

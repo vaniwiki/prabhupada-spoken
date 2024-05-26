@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Talk with Lalitā Prasād — March 2, 1972, Birnagar",
-    "h1":"March 2, 1972, Birnagar",
+    "h1":"Talk with Lalitā Prasād",
+    "label":"March 2, 1972, Birnagar"
     "title":"Talk with Lalitā Prasād — March 2, 1972, Birnagar",
     "description":""
 }

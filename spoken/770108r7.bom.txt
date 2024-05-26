@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival of BBT manager — January 8, 1977, Bombay",
-    "h1":"January 8, 1977, Bombay",
+    "h1":"Arrival of BBT manager",
+    "label":"January 8, 1977, Bombay"
     "title":"Arrival of BBT manager — January 8, 1977, Bombay",
     "description":""
 }

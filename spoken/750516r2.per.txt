@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Alcohol and Drug Hospital People — May 16, 1975, Perth",
-    "h1":"May 16, 1975, Perth",
+    "h1":"Room Conversation with Alcohol and Drug Hospital People",
+    "label":"May 16, 1975, Perth"
     "title":"Room Conversation with Alcohol and Drug Hospital People — May 16, 1975, Perth",
     "description":""
 }

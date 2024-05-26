@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation with Yadubara (after seeing film) — April 17, 1977, Bombay",
-    "h1":"April 17, 1977, Bombay",
+    "h1":"Conversation with Yadubara (after seeing film)",
+    "label":"April 17, 1977, Bombay"
     "title":"Conversation with Yadubara (after seeing film) — April 17, 1977, Bombay",
     "description":""
 }

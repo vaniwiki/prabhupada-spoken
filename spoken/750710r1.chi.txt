@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with City Counselor — July 10, 1975, Chicago",
-    "h1":"July 10, 1975, Chicago",
+    "h1":"Room Conversation with City Counselor",
+    "label":"July 10, 1975, Chicago"
     "title":"Room Conversation with City Counselor — July 10, 1975, Chicago",
     "description":""
 }

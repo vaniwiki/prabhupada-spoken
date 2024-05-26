@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk [partially recorded] — August 13, 1975, London",
-    "h1":"August 13, 1975, London",
+    "h1":"Morning Walk [partially recorded]",
+    "label":"August 13, 1975, London"
     "title":"Morning Walk [partially recorded] — August 13, 1975, London",
     "description":""
 }

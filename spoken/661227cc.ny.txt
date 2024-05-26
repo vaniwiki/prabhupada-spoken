@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 3.87-88 — December 27, 1966, New York",
-    "h1":"December 27, 1966, New York",
+    "h1":"Cc. Ādi 3.87-88",
+    "label":"December 27, 1966, New York"
     "title":"Cc. Ādi 3.87-88 — December 27, 1966, New York",
     "description":""
 }

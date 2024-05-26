@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture [Intro by Dr. Kapoor] — October 15, 1972, Vṛndāvana",
-    "h1":"October 15, 1972, Vṛndāvana",
+    "h1":"Lecture [Intro by Dr. Kapoor]",
+    "label":"October 15, 1972, Vṛndāvana"
     "title":"Lecture [Intro by Dr. Kapoor] — October 15, 1972, Vṛndāvana",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk at Marina del Rey — July 12, 1974, Los Angeles",
-    "h1":"July 12, 1974, Los Angeles",
+    "h1":"Morning Walk at Marina del Rey",
+    "label":"July 12, 1974, Los Angeles"
     "title":"Morning Walk at Marina del Rey — July 12, 1974, Los Angeles",
     "description":""
 }

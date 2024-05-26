@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture at Bhāratīya Vidyā Bhavān — October 18, 1973, Bombay",
-    "h1":"October 18, 1973, Bombay",
+    "h1":"Lecture at Bhāratīya Vidyā Bhavān",
+    "label":"October 18, 1973, Bombay"
     "title":"Lecture at Bhāratīya Vidyā Bhavān — October 18, 1973, Bombay",
     "description":""
 }

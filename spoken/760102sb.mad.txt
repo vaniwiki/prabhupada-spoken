@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 7.6.1 — January 2, 1976, Madras",
-    "h1":"January 2, 1976, Madras",
+    "h1":"SB 7.6.1",
+    "label":"January 2, 1976, Madras"
     "title":"SB 7.6.1 — January 2, 1976, Madras",
     "description":""
 }

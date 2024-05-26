@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation About Māyāpur Construction — August 19, 1976, Hyderabad",
-    "h1":"August 19, 1976, Hyderabad",
+    "h1":"Room Conversation About Māyāpur Construction",
+    "label":"August 19, 1976, Hyderabad"
     "title":"Room Conversation About Māyāpur Construction — August 19, 1976, Hyderabad",
     "description":""
 }

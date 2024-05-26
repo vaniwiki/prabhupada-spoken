@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Press Conference — July 9, 1975, Chicago",
-    "h1":"July 9, 1975, Chicago",
+    "h1":"Press Conference",
+    "label":"July 9, 1975, Chicago"
     "title":"Press Conference — July 9, 1975, Chicago",
     "description":""
 }

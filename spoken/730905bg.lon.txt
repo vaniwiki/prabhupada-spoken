@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 18.5 — September 5, 1973, London",
-    "h1":"September 5, 1973, London",
+    "h1":"Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 18.5",
+    "label":"September 5, 1973, London"
     "title":"Śrīmatī Rādhārāṇī’s Appearance Day, Bhagavad-gītā 18.5 — September 5, 1973, London",
     "description":""
 }

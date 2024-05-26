@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Dṛṣṭadyumna’s Parents — July 14, 1976, New York",
-    "h1":"July 14, 1976, New York",
+    "h1":"Room Conversation with Dṛṣṭadyumna’s Parents",
+    "label":"July 14, 1976, New York"
     "title":"Room Conversation with Dṛṣṭadyumna’s Parents — July 14, 1976, New York",
     "description":""
 }

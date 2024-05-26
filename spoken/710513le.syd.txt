@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture at Wayside Chapel — May 13, 1971, Sydney",
-    "h1":"May 13, 1971, Sydney",
+    "h1":"Lecture at Wayside Chapel",
+    "label":"May 13, 1971, Sydney"
     "title":"Lecture at Wayside Chapel — May 13, 1971, Sydney",
     "description":""
 }

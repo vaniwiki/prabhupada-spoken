@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 7.6.1 [Partially Recorded] — March 16, 1968, San Francisco",
-    "h1":"March 16, 1968, San Francisco",
+    "h1":"SB 7.6.1 [Partially Recorded]",
+    "label":"March 16, 1968, San Francisco"
     "title":"SB 7.6.1 [Partially Recorded] — March 16, 1968, San Francisco",
     "description":""
 }

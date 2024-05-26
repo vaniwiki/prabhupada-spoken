@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Speech [Bhāgavata-dharma Discourse] — August 31, 1972, New Vrindavan",
-    "h1":"August 31, 1972, New Vrindavan",
+    "h1":"Speech [Bhāgavata-dharma Discourse]",
+    "label":"August 31, 1972, New Vrindavan"
     "title":"Speech [Bhāgavata-dharma Discourse] — August 31, 1972, New Vrindavan",
     "description":""
 }

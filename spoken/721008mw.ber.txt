@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk — October 8, 1972, Berkeley",
-    "h1":"October 8, 1972, Berkeley",
+    "h1":"Morning Walk",
+    "label":"October 8, 1972, Berkeley"
     "title":"Morning Walk — October 8, 1972, Berkeley",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture on Teachings of Lord Caitanya — March 17, 1971, Bombay",
-    "h1":"March 17, 1971, Bombay",
+    "h1":"Lecture on Teachings of Lord Caitanya",
+    "label":"March 17, 1971, Bombay"
     "title":"Lecture on Teachings of Lord Caitanya — March 17, 1971, Bombay",
     "description":""
 }

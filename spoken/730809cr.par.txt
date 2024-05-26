@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Car Conversation after meeting with Cardinal Danielou — August 9, 1973, Paris",
-    "h1":"August 9, 1973, Paris",
+    "h1":"Car Conversation after meeting with Cardinal Danielou",
+    "label":"August 9, 1973, Paris"
     "title":"Car Conversation after meeting with Cardinal Danielou — August 9, 1973, Paris",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk [partially recorded] — December 4, 1976, Hyderabad",
-    "h1":"December 4, 1976, Hyderabad",
+    "h1":"Morning Walk [partially recorded]",
+    "label":"December 4, 1976, Hyderabad"
     "title":"Morning Walk [partially recorded] — December 4, 1976, Hyderabad",
     "description":""
 }

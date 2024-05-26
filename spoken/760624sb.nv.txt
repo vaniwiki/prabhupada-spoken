@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 7.6.8 — June 24, 1976, New Vrindavan",
-    "h1":"June 24, 1976, New Vrindavan",
+    "h1":"SB 7.6.8",
+    "label":"June 24, 1976, New Vrindavan"
     "title":"SB 7.6.8 — June 24, 1976, New Vrindavan",
     "description":""
 }

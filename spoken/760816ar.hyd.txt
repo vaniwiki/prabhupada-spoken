@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Evening Darśana on night of arrival — August 16, 1976, Hyderabad",
-    "h1":"August 16, 1976, Hyderabad",
+    "h1":"Evening Darśana on night of arrival",
+    "label":"August 16, 1976, Hyderabad"
     "title":"Evening Darśana on night of arrival — August 16, 1976, Hyderabad",
     "description":""
 }

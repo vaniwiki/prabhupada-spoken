@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Svarūpa Dāmodara — March 1, 1975, Atlanta",
-    "h1":"March 1, 1975, Atlanta",
+    "h1":"Room Conversation with Svarūpa Dāmodara",
+    "label":"March 1, 1975, Atlanta"
     "title":"Room Conversation with Svarūpa Dāmodara — March 1, 1975, Atlanta",
     "description":""
 }

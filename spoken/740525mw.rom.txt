@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk at Villa Borghese — May 25, 1974, Rome",
-    "h1":"May 25, 1974, Rome",
+    "h1":"Morning Walk at Villa Borghese",
+    "label":"May 25, 1974, Rome"
     "title":"Morning Walk at Villa Borghese — May 25, 1974, Rome",
     "description":""
 }

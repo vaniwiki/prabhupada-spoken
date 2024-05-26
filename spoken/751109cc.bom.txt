@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.100-108 — November 9, 1975, Bombay",
-    "h1":"November 9, 1975, Bombay",
+    "h1":"Cc. Madhya 20.100-108",
+    "label":"November 9, 1975, Bombay"
     "title":"Cc. Madhya 20.100-108 — November 9, 1975, Bombay",
     "description":""
 }

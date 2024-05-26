@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 4.24 — August 4, 1976, New Māyāpur",
-    "h1":"August 4, 1976, New Māyāpur",
+    "h1":"Bg 4.24 Lecture",
+    "label":"August 4, 1976, New Māyāpur"
     "title":"Bg 4.24 — August 4, 1976, New Māyāpur",
     "description":""
 }

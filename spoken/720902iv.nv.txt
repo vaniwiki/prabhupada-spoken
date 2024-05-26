@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Interview with the New York Times — September 2, 1972, New Vrindavan",
-    "h1":"September 2, 1972, New Vrindavan",
+    "h1":"Interview with the New York Times",
+    "label":"September 2, 1972, New Vrindavan"
     "title":"Interview with the New York Times — September 2, 1972, New Vrindavan",
     "description":""
 }

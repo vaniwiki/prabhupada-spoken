@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Interview — September 9, 1972, Pittsburgh",
-    "h1":"September 9, 1972, Pittsburgh",
+    "h1":"Interview",
+    "label":"September 9, 1972, Pittsburgh"
     "title":"Interview — September 9, 1972, Pittsburgh",
     "description":""
 }

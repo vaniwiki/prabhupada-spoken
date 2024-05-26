@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival Speech — September 5, 1973, Stockholm",
-    "h1":"September 5, 1973, Stockholm",
+    "h1":"Arrival Speech",
+    "label":"September 5, 1973, Stockholm"
     "title":"Arrival Speech — September 5, 1973, Stockholm",
     "description":""
 }

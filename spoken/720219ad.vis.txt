@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Speech at Śrī Caitanya Maṭha — February 19, 1972, Visakhapatnam",
-    "h1":"February 19, 1972, Visakhapatnam",
+    "h1":"Speech at Śrī Caitanya Maṭha",
+    "label":"February 19, 1972, Visakhapatnam"
     "title":"Speech at Śrī Caitanya Maṭha — February 19, 1972, Visakhapatnam",
     "description":""
 }

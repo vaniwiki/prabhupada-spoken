@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture — January 4, 1976, Nellore",
-    "h1":"January 4, 1976, Nellore",
+    "h1":"Lecture",
+    "label":"January 4, 1976, Nellore"
     "title":"Lecture — January 4, 1976, Nellore",
     "description":""
 }

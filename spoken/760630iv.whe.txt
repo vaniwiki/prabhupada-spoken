@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Interview with Mike Darby, Wheeling Intelligencer — June 30, 1976, Wheeling, W. Virginia",
-    "h1":"June 30, 1976, Wheeling, W. Virginia",
+    "h1":"Interview with Mike Darby, Wheeling Intelligencer",
+    "label":"June 30, 1976, Wheeling, W. Virginia"
     "title":"Interview with Mike Darby, Wheeling Intelligencer — June 30, 1976, Wheeling, W. Virginia",
     "description":""
 }

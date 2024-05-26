@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Initiations — September 1, 1972, New Vrindavan",
-    "h1":"September 1, 1972, New Vrindavan",
+    "h1":"Initiations",
+    "label":"September 1, 1972, New Vrindavan"
     "title":"Initiations — September 1, 1972, New Vrindavan",
     "description":""
 }

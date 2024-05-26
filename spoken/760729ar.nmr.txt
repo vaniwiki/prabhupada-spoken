@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival at Farm — July 29, 1976, New Māyāpur",
-    "h1":"July 29, 1976, New Māyāpur",
+    "h1":"Arrival at Farm",
+    "label":"July 29, 1976, New Māyāpur"
     "title":"Arrival at Farm — July 29, 1976, New Māyāpur",
     "description":""
 }

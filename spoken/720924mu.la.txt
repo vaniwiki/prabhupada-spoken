@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Nitāi Guṇa Mani Āmāra and Purport — September 24, 1972, Los Angeles",
-    "h1":"September 24, 1972, Los Angeles",
+    "h1":"Nitāi Guṇa Mani Āmāra and Purport",
+    "label":"September 24, 1972, Los Angeles"
     "title":"Nitāi Guṇa Mani Āmāra and Purport — September 24, 1972, Los Angeles",
     "description":""
 }

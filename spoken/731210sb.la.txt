@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 1.15.32 — December 10, 1973, Los Angeles",
-    "h1":"December 10, 1973, Los Angeles",
+    "h1":"SB 1.15.32",
+    "label":"December 10, 1973, Los Angeles"
     "title":"SB 1.15.32 — December 10, 1973, Los Angeles",
     "description":""
 }

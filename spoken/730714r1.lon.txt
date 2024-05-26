@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Indian Guests — July 14, 1973, London",
-    "h1":"July 14, 1973, London",
+    "h1":"Room Conversation with Indian Guests",
+    "label":"July 14, 1973, London"
     "title":"Room Conversation with Indian Guests — July 14, 1973, London",
     "description":""
 }

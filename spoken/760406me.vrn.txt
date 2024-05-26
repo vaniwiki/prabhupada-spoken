@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Meeting with Bankers — April 6, 1976, Vṛndāvana",
-    "h1":"April 6, 1976, Vṛndāvana",
+    "h1":"Meeting with Bankers",
+    "label":"April 6, 1976, Vṛndāvana"
     "title":"Meeting with Bankers — April 6, 1976, Vṛndāvana",
     "description":""
 }

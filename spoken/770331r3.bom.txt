@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Scientists, Svarūpa Dāmodara and Dr. Sharma — March 31, 1977, Bombay",
-    "h1":"March 31, 1977, Bombay",
+    "h1":"Room Conversation with Scientists, Svarūpa Dāmodara and Dr. Sharma",
+    "label":"March 31, 1977, Bombay"
     "title":"Room Conversation with Scientists, Svarūpa Dāmodara and Dr. Sharma — March 31, 1977, Bombay",
     "description":""
 }

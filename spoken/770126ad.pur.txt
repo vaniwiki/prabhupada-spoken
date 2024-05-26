@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Evening Address to Paṇḍas and Scholars — January 26, 1977, Jagannātha Purī",
-    "h1":"January 26, 1977, Jagannātha Purī",
+    "h1":"Evening Address to Paṇḍas and Scholars",
+    "label":"January 26, 1977, Jagannātha Purī"
     "title":"Evening Address to Paṇḍas and Scholars — January 26, 1977, Jagannātha Purī",
     "description":""
 }

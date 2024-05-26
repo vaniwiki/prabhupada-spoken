@@ -1,9 +1,8 @@
-{{tag>beta}}
-
 ---json
 {
     "name":"Bg 1.2-3 — July 9, 1973, London",
-    "h1":"July 9, 1973, London",
+    "h1":"Bg 1.2-3 Lecture",
+    "label":"July 9, 1973, London"
     "title":"Bg 1.2-3 — July 9, 1973, London",
     "description":""
 }

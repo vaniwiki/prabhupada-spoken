@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Garden Conversation — June 25, 1972, Los Angeles",
-    "h1":"June 25, 1972, Los Angeles",
+    "h1":"Garden Conversation",
+    "label":"June 25, 1972, Los Angeles"
     "title":"Garden Conversation — June 25, 1972, Los Angeles",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk at Lodi Gardens — August 27, 1976, Delhi",
-    "h1":"August 27, 1976, Delhi",
+    "h1":"Morning Walk at Lodi Gardens",
+    "label":"August 27, 1976, Delhi"
     "title":"Morning Walk at Lodi Gardens — August 27, 1976, Delhi",
     "description":""
 }

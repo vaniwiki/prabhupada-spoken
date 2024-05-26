@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Documentary Maker — October 21, 1975, Johannesburg",
-    "h1":"October 21, 1975, Johannesburg",
+    "h1":"Room Conversation with Documentary Maker",
+    "label":"October 21, 1975, Johannesburg"
     "title":"Room Conversation with Documentary Maker — October 21, 1975, Johannesburg",
     "description":""
 }

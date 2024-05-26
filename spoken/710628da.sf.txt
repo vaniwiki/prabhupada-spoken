@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Darśana — June 28, 1971, San Francisco",
-    "h1":"June 28, 1971, San Francisco",
+    "h1":"Darśana",
+    "label":"June 28, 1971, San Francisco"
     "title":"Darśana — June 28, 1971, San Francisco",
     "description":""
 }

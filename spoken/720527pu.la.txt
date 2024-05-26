@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Purport to Bhajahū Re Mana — May 27, 1972, Los Angeles",
-    "h1":"May 27, 1972, Los Angeles",
+    "h1":"Purport to Bhajahū Re Mana",
+    "label":"May 27, 1972, Los Angeles"
     "title":"Purport to Bhajahū Re Mana — May 27, 1972, Los Angeles",
     "description":""
 }

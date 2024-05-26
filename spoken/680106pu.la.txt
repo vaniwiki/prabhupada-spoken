@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Purport to Gaurāṅga Bolite Habe — January 5, 1968, Los Angeles",
-    "h1":"January 5, 1968, Los Angeles",
+    "h1":"Purport to Gaurāṅga Bolite Habe",
+    "label":"January 5, 1968, Los Angeles"
     "title":"Purport to Gaurāṅga Bolite Habe — January 5, 1968, Los Angeles",
     "description":""
 }

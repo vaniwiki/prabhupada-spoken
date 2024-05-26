@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Svarūpa Dāmodara — February 28, 1977, Māyāpur",
-    "h1":"February 28, 1977, Māyāpur",
+    "h1":"Room Conversation with Svarūpa Dāmodara",
+    "label":"February 28, 1977, Māyāpur"
     "title":"Room Conversation with Svarūpa Dāmodara — February 28, 1977, Māyāpur",
     "description":""
 }

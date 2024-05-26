@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture at World Health Organization — June 6, 1974, Geneva",
-    "h1":"June 6, 1974, Geneva",
+    "h1":"Lecture at World Health Organization",
+    "label":"June 6, 1974, Geneva"
     "title":"Lecture at World Health Organization — June 6, 1974, Geneva",
     "description":""
 }

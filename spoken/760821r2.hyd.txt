@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation About Blitz News Clipping — August 21, 1976, Hyderabad",
-    "h1":"August 21, 1976, Hyderabad",
+    "h1":"Room Conversation About Blitz News Clipping",
+    "label":"August 21, 1976, Hyderabad"
     "title":"Room Conversation About Blitz News Clipping — August 21, 1976, Hyderabad",
     "description":""
 }

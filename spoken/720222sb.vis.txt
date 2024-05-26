@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 7.9.43 — February 22, 1972, Visakhapatnam",
-    "h1":"February 22, 1972, Visakhapatnam",
+    "h1":"SB 7.9.43",
+    "label":"February 22, 1972, Visakhapatnam"
     "title":"SB 7.9.43 — February 22, 1972, Visakhapatnam",
     "description":""
 }

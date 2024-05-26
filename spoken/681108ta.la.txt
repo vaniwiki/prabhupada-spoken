@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Talk During Prasāda After Kīrtana — November 8, 1968, Los Angeles",
-    "h1":"November 8, 1968, Los Angeles",
+    "h1":"Talk During Prasāda After Kīrtana",
+    "label":"November 8, 1968, Los Angeles"
     "title":"Talk During Prasāda After Kīrtana — November 8, 1968, Los Angeles",
     "description":""
 }

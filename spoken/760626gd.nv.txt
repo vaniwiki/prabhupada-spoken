@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 16.1-16 Garden Discussion — June 26, 1976, New Vrindavan",
-    "h1":"June 26, 1976, New Vrindavan",
+    "h1":"Bg 16.1-16, Garden Discussion",
+    "label":"June 26, 1976, New Vrindavan"
     "title":"Bg 16.1-16 Garden Discussion — June 26, 1976, New Vrindavan",
     "description":""
 }

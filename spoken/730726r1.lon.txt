@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Graham Hill — July 26, 1973, London",
-    "h1":"July 26, 1973, London",
+    "h1":"Room Conversation with Graham Hill",
+    "label":"July 26, 1973, London"
     "title":"Room Conversation with Graham Hill — July 26, 1973, London",
     "description":""
 }

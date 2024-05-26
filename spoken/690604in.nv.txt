@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Initiation Lecture, Bhagavān Marriage Ceremony — June 4, 1969, New Vrindaban",
-    "h1":"June 4, 1969, New Vrindaban",
+    "h1":"Initiation Lecture, Bhagavān Marriage Ceremony",
+    "label":"June 4, 1969, New Vrindaban"
     "title":"Initiation Lecture, Bhagavān Marriage Ceremony — June 4, 1969, New Vrindaban",
     "description":""
 }

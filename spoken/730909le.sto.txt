@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture on Gurvaṣṭakam at Uppsala University — September 9, 1973, Stockholm",
-    "h1":"September 9, 1973, Stockholm",
+    "h1":"Lecture on Gurvaṣṭakam at Uppsala University",
+    "label":"September 9, 1973, Stockholm"
     "title":"Lecture on Gurvaṣṭakam at Uppsala University — September 9, 1973, Stockholm",
     "description":""
 }

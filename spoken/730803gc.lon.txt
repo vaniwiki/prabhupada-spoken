@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest — August 3, 1973, London",
-    "h1":"August 3, 1973, London",
+    "h1":"Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest",
+    "label":"August 3, 1973, London"
     "title":"Garden Conversation with Mahādeva’s Mother, Mrs. Critchley and Jesuit Priest — August 3, 1973, London",
     "description":""
 }

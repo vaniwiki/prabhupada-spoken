@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk at Cheviot Hills Golf Course — May 13, 1973, Los Angeles",
-    "h1":"May 13, 1973, Los Angeles",
+    "h1":"Morning Walk at Cheviot Hills Golf Course",
+    "label":"May 13, 1973, Los Angeles"
     "title":"Morning Walk at Cheviot Hills Golf Course — May 13, 1973, Los Angeles",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk — March 12, 1974, Vṛndāvana",
-    "h1":"March 12, 1974, Vṛndāvana",
+    "h1":"Morning Walk",
+    "label":"March 12, 1974, Vṛndāvana"
     "title":"Morning Walk — March 12, 1974, Vṛndāvana",
     "description":""
 }

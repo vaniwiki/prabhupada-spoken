@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Comment on Painting — May 9, 1968, Boston",
-    "h1":"May 9, 1968, Boston",
+    "h1":"Comment on Painting",
+    "label":"May 9, 1968, Boston"
     "title":"Comment on Painting — May 9, 1968, Boston",
     "description":""
 }

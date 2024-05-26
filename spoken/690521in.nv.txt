@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Initiation of Lokanātha dāsa — May 21, 1969, New Vrindaban",
-    "h1":"May 21, 1969, New Vrindaban",
+    "h1":"Initiation of Lokanātha dāsa",
+    "label":"May 21, 1969, New Vrindaban"
     "title":"Initiation of Lokanātha dāsa — May 21, 1969, New Vrindaban",
     "description":""
 }

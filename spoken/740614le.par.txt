@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture at the Hare Kṛṣṇa Festival at La Salle Pleyel — June 14, 1974, Paris",
-    "h1":"June 14, 1974, Paris",
+    "h1":"Lecture at the Hare Kṛṣṇa Festival at La Salle Pleyel",
+    "label":"June 14, 1974, Paris"
     "title":"Lecture at the Hare Kṛṣṇa Festival at La Salle Pleyel — June 14, 1974, Paris",
     "description":""
 }

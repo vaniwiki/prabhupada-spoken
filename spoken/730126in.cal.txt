@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Sannyāsa Initiation Lecture — January 26, 1973, Calcutta",
-    "h1":"January 26, 1973, Calcutta",
+    "h1":"Sannyāsa Initiation Lecture",
+    "label":"January 26, 1973, Calcutta"
     "title":"Sannyāsa Initiation Lecture — January 26, 1973, Calcutta",
     "description":""
 }

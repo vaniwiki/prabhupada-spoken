@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Discourse on Lord Caitanya Play — April 5-6, 1967, San Francisco",
-    "h1":"April 5–6, 1967, San Francisco",
+    "h1":"Discourse on Lord Caitanya Play",
+    "label":"April 5-6, 1967, San Francisco"
     "title":"Discourse on Lord Caitanya Play — April 5-6, 1967, San Francisco",
     "description":""
 }

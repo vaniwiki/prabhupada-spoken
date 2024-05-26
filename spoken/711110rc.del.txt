@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Mayor — November 10, 1971, New Delhi",
-    "h1":"November 10, 1971, New Delhi",
+    "h1":"Room Conversation with Mayor",
+    "label":"November 10, 1971, New Delhi"
     "title":"Room Conversation with Mayor — November 10, 1971, New Delhi",
     "description":""
 }

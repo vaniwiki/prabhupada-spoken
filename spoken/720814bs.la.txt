@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrī Brahmā-saṁhitā 5.32 — August 14, 1972, Los Angeles",
-    "h1":"August 14, 1972, Los Angeles",
+    "h1":"Śrī Brahmā-saṁhitā 5.32",
+    "label":"August 14, 1972, Los Angeles"
     "title":"Śrī Brahmā-saṁhitā 5.32 — August 14, 1972, Los Angeles",
     "description":""
 }

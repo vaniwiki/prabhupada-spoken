@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Speech at Olympia Theater — June 26, 1971, Paris",
-    "h1":"June 26, 1971, Paris",
+    "h1":"Speech at Olympia Theater",
+    "label":"June 26, 1971, Paris"
     "title":"Speech at Olympia Theater — June 26, 1971, Paris",
     "description":""
 }

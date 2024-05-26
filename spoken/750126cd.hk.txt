@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Children’s Darśana — January 26, 1975, Hong Kong",
-    "h1":"January 26, 1975, Hong Kong",
+    "h1":"Children’s Darśana",
+    "label":"January 26, 1975, Hong Kong"
     "title":"Children’s Darśana — January 26, 1975, Hong Kong",
     "description":""
 }

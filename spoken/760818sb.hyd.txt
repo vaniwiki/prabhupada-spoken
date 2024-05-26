@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 1.7.6, Temple Opening — August 18, 1976, Hyderabad",
-    "h1":"August 18, 1976, Hyderabad",
+    "h1":"SB 1.7.6, Temple Opening",
+    "label":"August 18, 1976, Hyderabad"
     "title":"SB 1.7.6, Temple Opening — August 18, 1976, Hyderabad",
     "description":""
 }

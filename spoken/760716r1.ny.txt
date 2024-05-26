@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation after Interview with Religious Editor, Associated Press — July 16, 1976, New York",
-    "h1":"July 16, 1976, New York",
+    "h1":"Conversation after Interview with Religious Editor, Associated Press",
+    "label":"July 16, 1976, New York"
     "title":"Conversation after Interview with Religious Editor, Associated Press — July 16, 1976, New York",
     "description":""
 }

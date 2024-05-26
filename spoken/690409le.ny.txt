@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrīla Prabhupāda and Disciples Speak — April 9, 1969, New York",
-    "h1":"April 9, 1969, New York",
+    "h1":"Śrīla Prabhupāda and Disciples Speak",
+    "label":"April 9, 1969, New York"
     "title":"Śrīla Prabhupāda and Disciples Speak — April 9, 1969, New York",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture — September 30, 1972, Laguna Beach",
-    "h1":"September 30, 1972, Laguna Beach",
+    "h1":"Lecture",
+    "label":"September 30, 1972, Laguna Beach"
     "title":"Lecture — September 30, 1972, Laguna Beach",
     "description":""
 }

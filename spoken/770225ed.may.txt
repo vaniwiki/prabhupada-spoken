@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Evening Darśana — February 25, 1977, Māyāpur",
-    "h1":"February 25, 1977, Māyāpur",
+    "h1":"Evening Darśana",
+    "label":"February 25, 1977, Māyāpur"
     "title":"Evening Darśana — February 25, 1977, Māyāpur",
     "description":""
 }

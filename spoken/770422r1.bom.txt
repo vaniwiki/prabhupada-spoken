@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation with Tamāla Kṛṣṇa about Yadubara — April 22, 1977, Bombay",
-    "h1":"April 22, 1977, Bombay",
+    "h1":"Conversation with Tamāla Kṛṣṇa about Yadubara",
+    "label":"April 22, 1977, Bombay"
     "title":"Conversation with Tamāla Kṛṣṇa about Yadubara — April 22, 1977, Bombay",
     "description":""
 }

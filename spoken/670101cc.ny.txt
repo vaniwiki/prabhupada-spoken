@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.385-394 — January 1, 1967, New York",
-    "h1":"January 1, 1967, New York",
+    "h1":"Cc. Madhya 20.385-394",
+    "label":"January 1, 1967, New York"
     "title":"Cc. Madhya 20.385-394 — January 1, 1967, New York",
     "description":""
 }

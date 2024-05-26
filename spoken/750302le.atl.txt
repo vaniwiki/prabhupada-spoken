@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Sunday Feast Lecture — March 2, 1975, Atlanta",
-    "h1":"March 2, 1975, Atlanta",
+    "h1":"Sunday Feast Lecture",
+    "label":"March 2, 1975, Atlanta"
     "title":"Sunday Feast Lecture — March 2, 1975, Atlanta",
     "description":""
 }

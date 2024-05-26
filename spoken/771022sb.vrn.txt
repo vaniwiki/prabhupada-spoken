@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB Dictation — October 22, 1977, Vṛndāvana",
-    "h1":"October 22, 1977, Vṛndāvana",
+    "h1":"SB Dictation",
+    "label":"October 22, 1977, Vṛndāvana"
     "title":"SB Dictation — October 22, 1977, Vṛndāvana",
     "description":""
 }

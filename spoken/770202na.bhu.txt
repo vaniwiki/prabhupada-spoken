@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lord Nityānanda Appearance Day — February 2, 1977, Bhubaneswar",
-    "h1":"February 2, 1977, Bhubaneswar",
+    "h1":"Lord Nityānanda Appearance Day",
+    "label":"February 2, 1977, Bhubaneswar"
     "title":"Lord Nityānanda Appearance Day — February 2, 1977, Bhubaneswar",
     "description":""
 }

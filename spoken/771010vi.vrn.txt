@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Visit From Allopathic Doctor — October 10, 1977, Vṛndāvana",
-    "h1":"October 10, 1977, Vṛndāvana",
+    "h1":"Visit From Allopathic Doctor",
+    "label":"October 10, 1977, Vṛndāvana"
     "title":"Visit From Allopathic Doctor — October 10, 1977, Vṛndāvana",
     "description":""
 }

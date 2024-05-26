@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Jaidayal Dalmia — November 2, 1977, Vṛndāvana",
-    "h1":"November 2, 1977, Vṛndāvana",
+    "h1":"Room Conversation with Jaidayal Dalmia",
+    "label":"November 2, 1977, Vṛndāvana"
     "title":"Room Conversation with Jaidayal Dalmia — November 2, 1977, Vṛndāvana",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrīla Bhaktisiddhānta Sarasvatī Appearance Day Lecture — February 21, 1976, Māyāpur",
-    "h1":"February 21, 1976, Māyāpur",
+    "h1":"Śrīla Bhaktisiddhānta Sarasvatī Appearance Day Lecture",
+    "label":"February 21, 1976, Māyāpur"
     "title":"Śrīla Bhaktisiddhānta Sarasvatī Appearance Day Lecture — February 21, 1976, Māyāpur",
     "description":""
 }

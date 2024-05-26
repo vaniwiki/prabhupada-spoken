@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Press Conference — April 27, 1976, Auckland",
-    "h1":"April 27, 1976, Auckland",
+    "h1":"Press Conference",
+    "label":"April 27, 1976, Auckland"
     "title":"Press Conference — April 27, 1976, Auckland",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation Kavirāja from Calcutta Arrives — October 28, 1977, Vṛndāvana",
-    "h1":"October 28, 1977, Vṛndāvana",
+    "h1":"Room Conversation Kavirāja from Calcutta Arrives",
+    "label":"October 28, 1977, Vṛndāvana"
     "title":"Room Conversation Kavirāja from Calcutta Arrives — October 28, 1977, Vṛndāvana",
     "description":""
 }

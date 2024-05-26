@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta — August 11, 1977, Vṛndāvana",
-    "h1":"August 11, 1977, Vṛndāvana",
+    "h1":"Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta",
+    "label":"August 11, 1977, Vṛndāvana"
     "title":"Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta — August 11, 1977, Vṛndāvana",
     "description":""
 }

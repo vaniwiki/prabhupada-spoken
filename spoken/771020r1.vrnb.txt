@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Doctor Visit and Conversation — October 20, 1977, Vṛndāvana",
-    "h1":"October 20, 1977, Vṛndāvana",
+    "h1":"Doctor Visit and Conversation",
+    "label":"October 20, 1977, Vṛndāvana"
     "title":"Doctor Visit and Conversation — October 20, 1977, Vṛndāvana",
     "description":""
 }

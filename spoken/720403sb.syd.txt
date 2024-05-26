@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 1.2.5 — April 3, 1972, Sydney ",
-    "h1":"April 3, 1972, Sydney ",
+    "h1":"SB 1.2.5",
+    "label":"April 3, 1972, Sydney "
     "title":"SB 1.2.5 — April 3, 1972, Sydney ",
     "description":""
 }

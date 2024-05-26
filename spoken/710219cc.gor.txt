@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 6.154-155 — February 19, 1971, Gorakhpur",
-    "h1":"February 19, 1971, Gorakhpur",
+    "h1":"Cc. Madhya 6.154-155",
+    "label":"February 19, 1971, Gorakhpur"
     "title":"Cc. Madhya 6.154-155 — February 19, 1971, Gorakhpur",
     "description":""
 }

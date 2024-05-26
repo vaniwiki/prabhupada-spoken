@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture to Technology Students [M.I.T.] — May 5, 1968, Boston",
-    "h1":"May 5, 1968, Boston",
+    "h1":"Lecture to Technology Students [M.I.T.]",
+    "label":"May 5, 1968, Boston"
     "title":"Lecture to Technology Students [M.I.T.] — May 5, 1968, Boston",
     "description":""
 }

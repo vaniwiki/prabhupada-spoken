@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Wedding Ceremony and Lecture — May 6, 1969, Boston",
-    "h1":"May 6, 1969, Boston",
+    "h1":"Wedding Ceremony and Lecture",
+    "label":"May 6, 1969, Boston"
     "title":"Wedding Ceremony and Lecture — May 6, 1969, Boston",
     "description":""
 }

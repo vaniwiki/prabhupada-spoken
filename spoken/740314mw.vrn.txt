@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk, “Varṇāśrama College” — March 14, 1974, Vṛndāvana",
-    "h1":"March 14, 1974, Vṛndāvana",
+    "h1":"Morning Walk, “Varṇāśrama College”",
+    "label":"March 14, 1974, Vṛndāvana"
     "title":"Morning Walk, “Varṇāśrama College” — March 14, 1974, Vṛndāvana",
     "description":""
 }

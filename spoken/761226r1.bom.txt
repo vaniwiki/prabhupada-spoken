@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk and Room Conversation — December 26, 1976, Bombay",
-    "h1":"December 26, 1976, Bombay",
+    "h1":"Morning Walk and Room Conversation",
+    "label":"December 26, 1976, Bombay"
     "title":"Morning Walk and Room Conversation — December 26, 1976, Bombay",
     "description":""
 }

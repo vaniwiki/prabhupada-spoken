@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk — March 17, 1974, Vṛndāvana",
-    "h1":"March 17, 1974, Vṛndāvana",
+    "h1":"Morning Walk",
+    "label":"March 17, 1974, Vṛndāvana"
     "title":"Morning Walk — March 17, 1974, Vṛndāvana",
     "description":""
 }
@@ -171,7 +172,7 @@ Make an example of him.
 **Prabhupāda:**
 There are many parties in Bombay, //kīrtana// parties. You have to organize them and bring them. Chant Hare Kṛṣṇa everywhere. Create this nuisance. And Maharashtra is the country of Tukaram. He organized //kīrtana.// Still the Tukaram //kīrtana// parties are there. Viṭṭhala. Viṭṭhala means Kṛṣṇa. An ideal //gosvāmī// should remain here to challenge these false //gosvāmīs.// But if you also become false, then you cannot challenge. [break] ...ducks have come, we can talk with them. Mr. Gupta, your //batakhs,// they have come. [aside:] Hare Kṛṣṇa! //Jayo.// [Hindi]
 
-[break] ...have sufficient quantity of grains, then you are //dhanavān.// This is all false, so-called //dhanavān.// [Hindi conversation] //Annād bhavanti bhūtāni// [[books:bg:3:14|[Bg. 3.14]]]. If you want to flourish, you must have sufficient grains. Where is that grain? Some... [Hindi] Lecture. What is that lecture? Where is //anna?// [break] [Hindi] This is going on. [describes in Hindi how //Bhāgavatam// describes the present government leaders as dogs, hogs, camels and asses, amongst other topics] //Harer nāma harer nāma harer nāma eva kevalam// [[books:cc:adi:17:21|[Cc. Ādi 17.21]]]. This is the only... [Hindi conversation] Our movement is Hare Kṛṣṇa movement. Everyone knows. [Hindi conversation with Indian lady continues for some time]
+[break] ...have sufficient quantity of grains, then you are //dhanavān.// This is all false, so-called //dhanavān.// [Hindi conversation] //Annād bhavanti bhūtāni// [[books:bg:3:14|[Bg. 3.14]]]. If you want to flourish, you must have sufficient grains. Where is that grain? Some... Lecture [Hindi]. What is that lecture? Where is //anna?// [break] [Hindi] This is going on. [describes in Hindi how //Bhāgavatam// describes the present government leaders as dogs, hogs, camels and asses, amongst other topics] //Harer nāma harer nāma harer nāma eva kevalam// [[books:cc:adi:17:21|[Cc. Ādi 17.21]]]. This is the only... [Hindi conversation] Our movement is Hare Kṛṣṇa movement. Everyone knows. [Hindi conversation with Indian lady continues for some time]
 
 **Puṣṭa Kṛṣṇa:**
 Just like Dhṛtarāṣṭra, Śrīla Prabhupāda.

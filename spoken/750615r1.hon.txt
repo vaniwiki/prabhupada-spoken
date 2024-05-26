@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation About Educational System — June 15, 1975, Honolulu",
-    "h1":"June 15, 1975, Honolulu",
+    "h1":"Conversation About Educational System",
+    "label":"June 15, 1975, Honolulu"
     "title":"Conversation About Educational System — June 15, 1975, Honolulu",
     "description":""
 }

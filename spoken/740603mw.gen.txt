@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk, partially recorded — June 3, 1974, Geneva",
-    "h1":"June 3, 1974, Geneva",
+    "h1":"Morning Walk, partially recorded",
+    "label":"June 3, 1974, Geneva"
     "title":"Morning Walk, partially recorded — June 3, 1974, Geneva",
     "description":""
 }

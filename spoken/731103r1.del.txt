@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation on Śrīmad-Bhāgavatam 1.10.11 — November 3, 1973, Delhi",
-    "h1":"November 3, 1973, Delhi",
+    "h1":"Room Conversation on Śrīmad-Bhāgavatam 1.10.11",
+    "label":"November 3, 1973, Delhi"
     "title":"Room Conversation on Śrīmad-Bhāgavatam 1.10.11 — November 3, 1973, Delhi",
     "description":""
 }

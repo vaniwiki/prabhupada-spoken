@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 1.13.12-14 — June 3, 1974, Geneva",
-    "h1":"June 3, 1974, Geneva",
+    "h1":"SB 1.13.12-14",
+    "label":"June 3, 1974, Geneva"
     "title":"SB 1.13.12-14 — June 3, 1974, Geneva",
     "description":""
 }

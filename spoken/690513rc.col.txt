@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Allen Ginsberg — May 13, 1969, Columbus",
-    "h1":"May 13, 1969, Columbus",
+    "h1":"Room Conversation with Allen Ginsberg",
+    "label":"May 13, 1969, Columbus"
     "title":"Room Conversation with Allen Ginsberg — May 13, 1969, Columbus",
     "description":""
 }

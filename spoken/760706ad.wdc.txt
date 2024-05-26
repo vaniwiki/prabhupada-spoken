@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Tenth Anniversary Address — July 6, 1976, Washington, D.C.",
-    "h1":"July 6, 1976, Washington, D.C.",
+    "h1":"Tenth Anniversary Address",
+    "label":"July 6, 1976, Washington, D.C."
     "title":"Tenth Anniversary Address — July 6, 1976, Washington, D.C.",
     "description":""
 }

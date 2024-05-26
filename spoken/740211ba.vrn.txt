@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Appearance Day of Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura — February 11, 1974, Vṛndāvana",
-    "h1":"February 11, 1974, Vṛndāvana",
+    "h1":"Appearance Day of Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura",
+    "label":"February 11, 1974, Vṛndāvana"
     "title":"Appearance Day of Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura — February 11, 1974, Vṛndāvana",
     "description":""
 }

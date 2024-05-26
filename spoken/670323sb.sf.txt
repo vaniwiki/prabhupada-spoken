@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Jagannātha Deities Installation, SB 1.2.13-14 — March 23, 1967, San Francisco",
-    "h1":"March 23, 1967, San Francisco",
+    "h1":"Jagannātha Deities Installation, SB 1.2.13-14",
+    "label":"March 23, 1967, San Francisco"
     "title":"Jagannātha Deities Installation, SB 1.2.13-14 — March 23, 1967, San Francisco",
     "description":""
 }

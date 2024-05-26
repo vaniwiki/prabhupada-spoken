@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Questions and Answers — February 14, 1975, Mexico City",
-    "h1":"February 14, 1975, Mexico City",
+    "h1":"Questions and Answers",
+    "label":"February 14, 1975, Mexico City"
     "title":"Questions and Answers — February 14, 1975, Mexico City",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Spelling of Prayers to the Six Gosvāmīs — December 26, 1968, Los Angeles",
-    "h1":"December 26, 1968, Los Angeles",
+    "h1":"Spelling of Prayers to the Six Gosvāmīs",
+    "label":"December 26, 1968, Los Angeles"
     "title":"Spelling of Prayers to the Six Gosvāmīs — December 26, 1968, Los Angeles",
     "description":""
 }

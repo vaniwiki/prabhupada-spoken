@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival Address at Bhaktivedanta Manor — July 7, 1973, London",
-    "h1":"July 7, 1973, London",
+    "h1":"Arrival Address at Bhaktivedanta Manor",
+    "label":"July 7, 1973, London"
     "title":"Arrival Address at Bhaktivedanta Manor — July 7, 1973, London",
     "description":""
 }

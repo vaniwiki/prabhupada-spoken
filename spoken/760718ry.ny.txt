@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Ratha-yātrā Lecture — July 18, 1976, New York",
-    "h1":"July 18, 1976, New York",
+    "h1":"Ratha-yātrā Lecture",
+    "label":"July 18, 1976, New York"
     "title":"Ratha-yātrā Lecture — July 18, 1976, New York",
     "description":""
 }

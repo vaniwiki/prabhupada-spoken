@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with American Banker — September 21, 1973, Bombay",
-    "h1":"September 21, 1973, Bombay",
+    "h1":"Room Conversation with American Banker",
+    "label":"September 21, 1973, Bombay"
     "title":"Room Conversation with American Banker — September 21, 1973, Bombay",
     "description":""
 }

@@ -2,7 +2,8 @@
 ---json
 {
     "name":"Morning Darśana with Ramkrishna Bajaj and friends — January 9, 1977, Bombay",
-    "h1":"January 9, 1977, Bombay",
+    "h1":"Morning Darśana with Ramkrishna Bajaj and friends",
+    "label":"January 9, 1977, Bombay"
     "title":"Morning Darśana with Ramkrishna Bajaj and friends — January 9, 1977, Bombay",
     "description":""
 }

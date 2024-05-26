@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Spelling of Ārati Song — December 31, 1968, Los Angeles",
-    "h1":"December 31, 1968, Los Angeles",
+    "h1":"Spelling of Ārati Song",
+    "label":"December 31, 1968, Los Angeles"
     "title":"Spelling of Ārati Song — December 31, 1968, Los Angeles",
     "description":""
 }

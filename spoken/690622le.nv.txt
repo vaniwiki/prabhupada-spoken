@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture — June 22, 1969, New Vrindaban",
-    "h1":"June 22, 1969, New Vrindaban",
+    "h1":"Lecture",
+    "label":"June 22, 1969, New Vrindaban"
     "title":"Lecture — June 22, 1969, New Vrindaban",
     "description":""
 }

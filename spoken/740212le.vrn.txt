@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture, partially recorded — February 12, 1974, Vṛndāvana",
-    "h1":"February 12, 1974, Vṛndāvana",
+    "h1":"Lecture, partially recorded",
+    "label":"February 12, 1974, Vṛndāvana"
     "title":"Lecture, partially recorded — February 12, 1974, Vṛndāvana",
     "description":""
 }

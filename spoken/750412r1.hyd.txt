@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation with Indian Guests — April 12, 1975, Hyderabad",
-    "h1":"April 12, 1975, Hyderabad",
+    "h1":"Conversation with Indian Guests",
+    "label":"April 12, 1975, Hyderabad"
     "title":"Conversation with Indian Guests — April 12, 1975, Hyderabad",
     "description":""
 }

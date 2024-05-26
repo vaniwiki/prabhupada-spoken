@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture on Science of Kṛṣṇa — April 14, 1975, Hyderabad",
-    "h1":"April 14, 1975, Hyderabad",
+    "h1":"Lecture on Science of Kṛṣṇa",
+    "label":"April 14, 1975, Hyderabad"
     "title":"Lecture on Science of Kṛṣṇa — April 14, 1975, Hyderabad",
     "description":""
 }

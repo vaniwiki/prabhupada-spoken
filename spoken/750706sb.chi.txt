@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 6.1.22 — July 6, 1975, Chicago",
-    "h1":"July 6, 1975, Chicago",
+    "h1":"SB 6.1.22",
+    "label":"July 6, 1975, Chicago"
     "title":"SB 6.1.22 — July 6, 1975, Chicago",
     "description":""
 }

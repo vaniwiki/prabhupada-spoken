@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Purport to Jaya Rādhā-Mādhava — February 14, 1971, Gorakhpur",
-    "h1":"February 14, 1971, Gorakhpur",
+    "h1":"Purport to Jaya Rādhā-Mādhava",
+    "label":"February 14, 1971, Gorakhpur"
     "title":"Purport to Jaya Rādhā-Mādhava — February 14, 1971, Gorakhpur",
     "description":""
 }

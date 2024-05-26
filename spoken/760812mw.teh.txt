@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Morning Walk — August 12, 1976, Tehran",
-    "h1":"August 12, 1976, Tehran",
+    "h1":"Morning Walk",
+    "label":"August 12, 1976, Tehran"
     "title":"Morning Walk — August 12, 1976, Tehran",
     "description":""
 }

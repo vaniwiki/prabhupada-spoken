@@ -1,7 +1,8 @@
 ---json
 {
     "name":"City Hall Lecture — October 7, 1975, Durban",
-    "h1":"October 7, 1975, Durban",
+    "h1":"City Hall Lecture",
+    "label":"October 7, 1975, Durban"
     "title":"City Hall Lecture — October 7, 1975, Durban",
     "description":""
 }

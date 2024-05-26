@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Gaura-Govinda and Girirāja — November 3, 1977, Vṛndāvana",
-    "h1":"November 3, 1977, Vṛndāvana",
+    "h1":"Room Conversation with Gaura-Govinda and Girirāja",
+    "label":"November 3, 1977, Vṛndāvana"
     "title":"Room Conversation with Gaura-Govinda and Girirāja — November 3, 1977, Vṛndāvana",
     "description":""
 }

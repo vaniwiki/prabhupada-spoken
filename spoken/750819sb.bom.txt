@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 6.1.58 [Hindi] — August 19, 1975, Bombay",
-    "h1":"August 19, 1975, Bombay",
+    "h1":"SB 6.1.58 [Hindi]",
+    "label":"August 19, 1975, Bombay"
     "title":"SB 6.1.58 [Hindi] — August 19, 1975, Bombay",
     "description":""
 }

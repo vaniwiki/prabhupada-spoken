@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa — July 25, 1976, London",
-    "h1":"July 25, 1976, London",
+    "h1":"Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa",
+    "label":"July 25, 1976, London"
     "title":"Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa — July 25, 1976, London",
     "description":""
 }

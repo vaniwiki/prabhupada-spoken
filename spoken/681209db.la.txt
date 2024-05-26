@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture — December 9, 1968, Los Angeles",
-    "h1":"December 9, 1968, Los Angeles",
+    "h1":"Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture",
+    "label":"December 9, 1968, Los Angeles"
     "title":"Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture — December 9, 1968, Los Angeles",
     "description":""
 }

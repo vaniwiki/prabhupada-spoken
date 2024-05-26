@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with the Mayor of Evanston — July 4, 1975, Chicago",
-    "h1":"July 4, 1975, Chicago",
+    "h1":"Room Conversation with the Mayor of Evanston",
+    "label":"July 4, 1975, Chicago"
     "title":"Room Conversation with the Mayor of Evanston — July 4, 1975, Chicago",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 6.1.47 — June 13, 1976, Detroit",
-    "h1":"June 13, 1976, Detroit",
+    "h1":"SB 6.1.47",
+    "label":"June 13, 1976, Detroit"
     "title":"SB 6.1.47 — June 13, 1976, Detroit",
     "description":""
 }

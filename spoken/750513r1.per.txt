@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Justin Murphy [Geographer] — May 13, 1975, Perth",
-    "h1":"May 13, 1975, Perth",
+    "h1":"Room Conversation with Justin Murphy [Geographer]",
+    "label":"May 13, 1975, Perth"
     "title":"Room Conversation with Justin Murphy [Geographer] — May 13, 1975, Perth",
     "description":""
 }

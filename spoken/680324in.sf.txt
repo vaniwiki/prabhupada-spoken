@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Initiation Viṣṇujana — March 24, 1968, San Francisco",
-    "h1":"March 24, 1968, San Francisco",
+    "h1":"Initiation Viṣṇujana",
+    "label":"March 24, 1968, San Francisco"
     "title":"Initiation Viṣṇujana — March 24, 1968, San Francisco",
     "description":""
 }

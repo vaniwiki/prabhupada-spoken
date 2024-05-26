@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Christian Priest, Mr. Chenique — June 10, 1974, Paris",
-    "h1":"June 10, 1974, Paris",
+    "h1":"Room Conversation with Christian Priest, Mr. Chenique",
+    "label":"June 10, 1974, Paris"
     "title":"Room Conversation with Christian Priest, Mr. Chenique — June 10, 1974, Paris",
     "description":""
 }

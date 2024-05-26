@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Satish Kumar, Editor of Resurgence Magazine — July 30, 1973, London",
-    "h1":"July 30, 1973, London",
+    "h1":"Room Conversation with Satish Kumar, Editor of Resurgence Magazine",
+    "label":"July 30, 1973, London"
     "title":"Room Conversation with Satish Kumar, Editor of Resurgence Magazine — July 30, 1973, London",
     "description":""
 }

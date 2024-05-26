@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with John Fahey — June 14, 1972, Los Angeles",
-    "h1":"June 14, 1972, Los Angeles",
+    "h1":"Room Conversation with John Fahey",
+    "label":"June 14, 1972, Los Angeles"
     "title":"Room Conversation with John Fahey — June 14, 1972, Los Angeles",
     "description":""
 }

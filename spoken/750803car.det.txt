@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Car Conversation — August 3, 1975, Detroit",
-    "h1":"August 3, 1975, Detroit",
+    "h1":"Car Conversation",
+    "label":"August 3, 1975, Detroit"
     "title":"Car Conversation — August 3, 1975, Detroit",
     "description":""
 }

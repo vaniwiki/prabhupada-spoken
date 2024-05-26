@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 7.1 — July 29, 1971, Gainesville",
-    "h1":"July 29, 1971, Gainesville",
+    "h1":"Bg 7.1 Lecture",
+    "label":"July 29, 1971, Gainesville"
     "title":"Bg 7.1 — July 29, 1971, Gainesville",
     "description":""
 }

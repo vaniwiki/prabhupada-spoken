@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Purport to Parama Koruṇa — February 28, 1975, Atlanta",
-    "h1":"February 28, 1975, Atlanta",
+    "h1":"Purport to Parama Koruṇa",
+    "label":"February 28, 1975, Atlanta"
     "title":"Purport to Parama Koruṇa — February 28, 1975, Atlanta",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 2.9.1-5 — April 30, 1972, Tokyo",
-    "h1":"April 30, 1972, Tokyo",
+    "h1":"SB 2.9.1-5",
+    "label":"April 30, 1972, Tokyo"
     "title":"SB 2.9.1-5 — April 30, 1972, Tokyo",
     "description":""
 }

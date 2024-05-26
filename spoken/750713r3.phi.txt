@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Bernard Manischewitz — July 13, 1975, Philadelphia",
-    "h1":"July 13, 1975, Philadelphia",
+    "h1":"Room Conversation with Bernard Manischewitz",
+    "label":"July 13, 1975, Philadelphia"
     "title":"Room Conversation with Bernard Manischewitz — July 13, 1975, Philadelphia",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Madhya 20.125 — November 27, 1966, New York",
-    "h1":"November 27, 1966, New York",
+    "h1":"Cc. Madhya 20.125",
+    "label":"November 27, 1966, New York"
     "title":"Cc. Madhya 20.125 — November 27, 1966, New York",
     "description":""
 }

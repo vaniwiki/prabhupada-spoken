@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Kim Cornish — May 8, 1975, Perth",
-    "h1":"May 8, 1975, Perth",
+    "h1":"Room Conversation with Kim Cornish",
+    "label":"May 8, 1975, Perth"
     "title":"Room Conversation with Kim Cornish — May 8, 1975, Perth",
     "description":""
 }

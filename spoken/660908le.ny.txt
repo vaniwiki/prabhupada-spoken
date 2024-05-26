@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture on Mahā-mantra — September 8, 1966, New York",
-    "h1":"September 8, 1966, New York",
+    "h1":"Lecture on Mahā-mantra",
+    "label":"September 8, 1966, New York"
     "title":"Lecture on Mahā-mantra — September 8, 1966, New York",
     "description":""
 }

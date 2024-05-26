@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Reporter of The Star — October 16, 1975, Johannesburg",
-    "h1":"October 16, 1975, Johannesburg",
+    "h1":"Room Conversation with Reporter of The Star",
+    "label":"October 16, 1975, Johannesburg"
     "title":"Room Conversation with Reporter of The Star — October 16, 1975, Johannesburg",
     "description":""
 }

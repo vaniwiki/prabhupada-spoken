@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Purport to Brahma-saṁhitā Verses 32 and 38 — November 5, 1966, New York",
-    "h1":"November 5, 1966, New York",
+    "h1":"Purport to Brahma-saṁhitā Verses 32 and 38",
+    "label":"November 5, 1966, New York"
     "title":"Purport to Brahma-saṁhitā Verses 32 and 38 — November 5, 1966, New York",
     "description":""
 }

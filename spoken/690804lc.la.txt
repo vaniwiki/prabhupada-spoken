@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lord Caitanya Play Told to Tamāla Kṛṣṇa — August 4, 1969, Los Angeles",
-    "h1":"August 4, 1969, Los Angeles",
+    "h1":"Lord Caitanya Play Told to Tamāla Kṛṣṇa",
+    "label":"August 4, 1969, Los Angeles"
     "title":"Lord Caitanya Play Told to Tamāla Kṛṣṇa — August 4, 1969, Los Angeles",
     "description":""
 }

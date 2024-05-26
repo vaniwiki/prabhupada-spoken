@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival Address — July 16, 1971, Detroit [Airport]",
-    "h1":"July 16, 1971, Detroit [Airport]",
+    "h1":"Arrival Address",
+    "label":"July 16, 1971, Detroit [Airport]"
     "title":"Arrival Address — July 16, 1971, Detroit [Airport]",
     "description":""
 }

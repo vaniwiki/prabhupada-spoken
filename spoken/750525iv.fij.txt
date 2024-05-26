@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Radio Interview — May 25, 1975, Fiji",
-    "h1":"May 25, 1975, Fiji",
+    "h1":"Radio Interview",
+    "label":"May 25, 1975, Fiji"
     "title":"Radio Interview — May 25, 1975, Fiji",
     "description":""
 }

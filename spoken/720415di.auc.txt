@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Deity Installation — April 15, 1972, Auckland",
-    "h1":"April 15, 1972, Auckland",
+    "h1":"Deity Installation",
+    "label":"April 15, 1972, Auckland"
     "title":"Deity Installation — April 15, 1972, Auckland",
     "description":""
 }

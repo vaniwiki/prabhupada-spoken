@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Professor Durckheim, Dr. P. J. Saher and Professor Porsch — June 19, 1974, Germany",
-    "h1":"June 19, 1974, Germany",
+    "h1":"Room Conversation with Professor Durckheim, Dr. P. J. Saher and Professor Porsch",
+    "label":"June 19, 1974, Germany"
     "title":"Room Conversation with Professor Durckheim, Dr. P. J. Saher and Professor Porsch — June 19, 1974, Germany",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Interview with Envious Reporter — July 4, 1974, Chicago",
-    "h1":"July 4, 1974, Chicago",
+    "h1":"Interview with Envious Reporter",
+    "label":"July 4, 1974, Chicago"
     "title":"Interview with Envious Reporter — July 4, 1974, Chicago",
     "description":""
 }

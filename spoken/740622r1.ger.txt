@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Benedictine Monk Pater Emmanuel — June 22, 1974, Germany",
-    "h1":"June 22, 1974, Germany",
+    "h1":"Room Conversation with Benedictine Monk Pater Emmanuel",
+    "label":"June 22, 1974, Germany"
     "title":"Room Conversation with Benedictine Monk Pater Emmanuel — June 22, 1974, Germany",
     "description":""
 }

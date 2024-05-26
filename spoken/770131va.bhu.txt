@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Varāha-dvadaśī — January 31, 1977, Bhubaneswar",
-    "h1":"January 31, 1977, Bhubaneswar",
+    "h1":"Varāha-dvadaśī",
+    "label":"January 31, 1977, Bhubaneswar"
     "title":"Varāha-dvadaśī — January 31, 1977, Bhubaneswar",
     "description":""
 }

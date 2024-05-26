@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Purport to Nṛsiṁha Prayers — August 2, 1970, Los Angeles",
-    "h1":"August 2, 1970, Los Angeles",
+    "h1":"Purport to Nṛsiṁha Prayers",
+    "label":"August 2, 1970, Los Angeles"
     "title":"Purport to Nṛsiṁha Prayers — August 2, 1970, Los Angeles",
     "description":""
 }

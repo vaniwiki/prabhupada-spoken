@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with German and Haṁsadūta — August 9, 1973, Paris",
-    "h1":"August 9, 1973, Paris",
+    "h1":"Room Conversation with German and Haṁsadūta",
+    "label":"August 9, 1973, Paris"
     "title":"Room Conversation with German and Haṁsadūta — August 9, 1973, Paris",
     "description":""
 }

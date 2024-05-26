@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Cc. Ādi 7.113-17 — February 22, 1967, San Francisco",
-    "h1":"February 22, 1967, San Francisco",
+    "h1":"Cc. Ādi 7.113-17",
+    "label":"February 22, 1967, San Francisco"
     "title":"Cc. Ādi 7.113-17 — February 22, 1967, San Francisco",
     "description":""
 }

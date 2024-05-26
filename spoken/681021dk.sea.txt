@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bhaktiprajñāna Keśava Mahārāja’s Disappearance Day Lecture, — October 21, 1968, Seattle",
-    "h1":"October 21, 1968, Seattle",
+    "h1":"Bhaktiprajñāna Keśava Mahārāja’s Disappearance Day Lecture,",
+    "label":"October 21, 1968, Seattle"
     "title":"Bhaktiprajñāna Keśava Mahārāja’s Disappearance Day Lecture, — October 21, 1968, Seattle",
     "description":""
 }

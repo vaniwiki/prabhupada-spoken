@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Professor Olivier Lacombe — June 14, 1974, Paris",
-    "h1":"June 14, 1974, Paris",
+    "h1":"Room Conversation with Professor Olivier Lacombe",
+    "label":"June 14, 1974, Paris"
     "title":"Room Conversation with Professor Olivier Lacombe — June 14, 1974, Paris",
     "description":""
 }

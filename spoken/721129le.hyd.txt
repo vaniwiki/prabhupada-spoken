@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Rotary Club Lecture, Bhagavad-gītā 3.21 — November 29, 1972, Hyderabad",
-    "h1":"November 29, 1972, Hyderabad",
+    "h1":"Rotary Club Lecture, Bhagavad-gītā 3.21",
+    "label":"November 29, 1972, Hyderabad"
     "title":"Rotary Club Lecture, Bhagavad-gītā 3.21 — November 29, 1972, Hyderabad",
     "description":""
 }

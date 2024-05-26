@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrī Vyāsa-pūjā Lecture — August 22, 1973, London",
-    "h1":"August 22, 1973, London",
+    "h1":"Śrī Vyāsa-pūjā Lecture",
+    "label":"August 22, 1973, London"
     "title":"Śrī Vyāsa-pūjā Lecture — August 22, 1973, London",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture at Harvard University Divinity School — April 28, 1969, Boston",
-    "h1":"April 28, 1969, Boston",
+    "h1":"Lecture at Harvard University Divinity School",
+    "label":"April 28, 1969, Boston"
     "title":"Lecture at Harvard University Divinity School — April 28, 1969, Boston",
     "description":""
 }

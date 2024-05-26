@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Minister Dixon, State Minister for Social Services — April 23, 1976, Melbourne",
-    "h1":"April 23, 1976, Melbourne",
+    "h1":"Room Conversation with Minister Dixon, State Minister for Social Services",
+    "label":"April 23, 1976, Melbourne"
     "title":"Room Conversation with Minister Dixon, State Minister for Social Services — April 23, 1976, Melbourne",
     "description":""
 }

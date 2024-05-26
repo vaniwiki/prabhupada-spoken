@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Letter Dictation by Śyāmasundara — June 22, 1972, Los Angeles",
-    "h1":"June 22, 1972, Los Angeles",
+    "h1":"Letter Dictation by Śyāmasundara",
+    "label":"June 22, 1972, Los Angeles"
     "title":"Letter Dictation by Śyāmasundara — June 22, 1972, Los Angeles",
     "description":""
 }

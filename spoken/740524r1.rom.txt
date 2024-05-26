@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Catholic Cardinal — May 24, 1974, Rome",
-    "h1":"May 24, 1974, Rome",
+    "h1":"Room Conversation with Catholic Cardinal",
+    "label":"May 24, 1974, Rome"
     "title":"Room Conversation with Catholic Cardinal — May 24, 1974, Rome",
     "description":""
 }

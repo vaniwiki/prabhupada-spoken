@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Anādi karama-phale and Purport — September 26, 1972, Los Angeles",
-    "h1":"September 26, 1972, Los Angeles",
+    "h1":"Anādi karama-phale and Purport",
+    "label":"September 26, 1972, Los Angeles"
     "title":"Anādi karama-phale and Purport — September 26, 1972, Los Angeles",
     "description":""
 }

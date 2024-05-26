@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Dr. Theodore Kneupper — November 6, 1976, Vṛndāvana",
-    "h1":"November 6, 1976, Vṛndāvana",
+    "h1":"Room Conversation with Dr. Theodore Kneupper",
+    "label":"November 6, 1976, Vṛndāvana"
     "title":"Room Conversation with Dr. Theodore Kneupper — November 6, 1976, Vṛndāvana",
     "description":""
 }

@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Sannyāsa Initiation — October 22, 1972, Vṛndāvana",
-    "h1":"October 22, 1972, Vṛndāvana",
+    "h1":"Sannyāsa Initiation",
+    "label":"October 22, 1972, Vṛndāvana"
     "title":"Sannyāsa Initiation — October 22, 1972, Vṛndāvana",
     "description":""
 }

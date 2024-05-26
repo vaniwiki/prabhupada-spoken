@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 6.3.27-28 — February 20, 1971, Gorakhpur",
-    "h1":"February 20, 1971, Gorakhpur",
+    "h1":"SB 6.3.27-28",
+    "label":"February 20, 1971, Gorakhpur"
     "title":"SB 6.3.27-28 — February 20, 1971, Gorakhpur",
     "description":""
 }

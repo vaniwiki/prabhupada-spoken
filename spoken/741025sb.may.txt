@@ -1,7 +1,8 @@
 ---json
 {
     "name":"SB 1.8.45 — October 25, 1974, Māyāpur",
-    "h1":"October 25, 1974, Māyāpur",
+    "h1":"SB 1.8.45",
+    "label":"October 25, 1974, Māyāpur"
     "title":"SB 1.8.45 — October 25, 1974, Māyāpur",
     "description":""
 }

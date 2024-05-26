@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Recording of TV Interview [partially recorded] — April 20, 1976, Melbourne",
-    "h1":"April 20, 1976, Melbourne",
+    "h1":"Recording of TV Interview [partially recorded]",
+    "label":"April 20, 1976, Melbourne"
     "title":"Recording of TV Interview [partially recorded] — April 20, 1976, Melbourne",
     "description":""
 }

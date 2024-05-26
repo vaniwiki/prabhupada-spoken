@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Arrival Speech — July 28, 1976, Paris",
-    "h1":"July 28, 1976, Paris",
+    "h1":"Arrival Speech",
+    "label":"July 28, 1976, Paris"
     "title":"Arrival Speech — July 28, 1976, Paris",
     "description":""
 }

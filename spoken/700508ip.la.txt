@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Śrī Īśopaniṣad, Mantra 6 — May 8, 1970, Los Angeles",
-    "h1":"May 8, 1970, Los Angeles",
+    "h1":"Śrī Īśopaniṣad, Mantra 6",
+    "label":"May 8, 1970, Los Angeles"
     "title":"Śrī Īśopaniṣad, Mantra 6 — May 8, 1970, Los Angeles",
     "description":""
 }

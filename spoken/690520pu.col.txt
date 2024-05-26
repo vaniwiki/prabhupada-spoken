@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Purport to Jīv Jāgo — May 20, 1969, Columbus",
-    "h1":"May 20, 1969, Columbus",
+    "h1":"Purport to Jīv Jāgo",
+    "label":"May 20, 1969, Columbus"
     "title":"Purport to Jīv Jāgo — May 20, 1969, Columbus",
     "description":""
 }

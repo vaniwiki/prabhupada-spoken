@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Janmāṣṭamī, Kṛṣṇa Book Reading — September 1, 1972, New Vrindavan",
-    "h1":"September 1, 1972, New Vrindavan",
+    "h1":"Janmāṣṭamī, Kṛṣṇa Book Reading",
+    "label":"September 1, 1972, New Vrindavan"
     "title":"Janmāṣṭamī, Kṛṣṇa Book Reading — September 1, 1972, New Vrindavan",
     "description":""
 }

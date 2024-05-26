@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Lecture at St. Pascal’s Franciscan Seminary — June 28, 1974, Melbourne",
-    "h1":"June 28, 1974, Melbourne",
+    "h1":"Lecture at St. Pascal’s Franciscan Seminary",
+    "label":"June 28, 1974, Melbourne"
     "title":"Lecture at St. Pascal’s Franciscan Seminary — June 28, 1974, Melbourne",
     "description":""
 }

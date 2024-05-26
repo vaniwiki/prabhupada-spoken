@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Āmār Jīvan with Purport — October 2, 1972, Los Angeles",
-    "h1":"October 2, 1972, Los Angeles",
+    "h1":"Āmār Jīvan with Purport",
+    "label":"October 2, 1972, Los Angeles"
     "title":"Āmār Jīvan with Purport — October 2, 1972, Los Angeles",
     "description":""
 }

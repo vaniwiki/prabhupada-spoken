@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Bg 9.5 — April 24, 1976, Melbourne",
-    "h1":"April 24, 1976, Melbourne",
+    "h1":"Bg 9.5 Lecture",
+    "label":"April 24, 1976, Melbourne"
     "title":"Bg 9.5 — April 24, 1976, Melbourne",
     "description":""
 }

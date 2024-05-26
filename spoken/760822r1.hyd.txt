@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation with Endowments Commissioner of Andhra Pradesh — August 22, 1976, Hyderabad",
-    "h1":"August 22, 1976, Hyderabad",
+    "h1":"Room Conversation with Endowments Commissioner of Andhra Pradesh",
+    "label":"August 22, 1976, Hyderabad"
     "title":"Room Conversation with Endowments Commissioner of Andhra Pradesh — August 22, 1976, Hyderabad",
     "description":""
 }

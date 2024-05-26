@@ -1,7 +1,8 @@
 ---json
 {
     "name":"Room Conversation & TV Interview with Mike Barron — April 20, 1976, Melbourne",
-    "h1":"April 20, 1976, Melbourne",
+    "h1":"Room Conversation & TV Interview with Mike Barron",
+    "label":"April 20, 1976, Melbourne"
     "title":"Room Conversation & TV Interview with Mike Barron — April 20, 1976, Melbourne",
     "description":""
 }
